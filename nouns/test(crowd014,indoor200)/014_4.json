@@ -24,11 +24,10 @@
     },
     {
         "sentence": "1. **Seated on the Sofa**:",
-        "sentence_cn": "1. **坐在沙发上**：",
+        "sentence_cn": "1. **坐在沙发上**:",
         "words": [
             "Seated on the Sofa",
-            "Sofa",
-            "*"
+            "Sofa"
         ],
         "id": null
     },
@@ -86,7 +85,7 @@
     },
     {
         "sentence": "2. **Standing**:",
-        "sentence_cn": "2. **站立**：",
+        "sentence_cn": "2. **站立**:",
         "words": [
             "Standing",
             "Standing"

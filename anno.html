@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.css">
+    <script src="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.js"></script>
+    <style>
+      #my-image {
+        max-width: 100%;
+        height: auto;
+      }
+      #container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+      }
+      #image-container {
+        width: 40%;
+        height: auto;
+        margin-right: 20px;
+      }
+      #text-container {
+        width: 50%;
+        height: 90vh;
+        overflow-y: auto;
+        padding: 10px;
+        background-color: #f9f9f9;
+      }
+      .sentence-container {
+        border: 1px solid #ddd;
+        margin: 10px 0;
+        padding: 10px;
+        background-color: #fff;
+        border-radius: 5px;
+      }
+      .highlight {
+        /* background-color: yellow; */
+        color: slateblue;
+        font-weight: bold;
+      }
+      .cn-sentence {
+        font-size: 0.9em;
+        color: #555;
+      }
+      .id {
+        margin-top: 5px;
+        font-size: 0.9em;
+        color: tomato;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="container">
+      <!-- image -->
+      <div id="image-container">
+        <img id="my-image" src="" style="max-width: 100%; max-height: 100%;" />
+      </div>
+
+      <!-- text -->
+      <div id="text-container">
+        <h3>Sentences</h3>
+        <div id="sentences"></div>
+      </div>
+    </div>
+
+    <script>
+      // 全局变量
+      var selectedAnnotation = null;
+      let annotationsData = [];
+      let paths = {};
+
+      // 获取 URL 查询参数
+      const urlParams = new URLSearchParams(window.location.search);
+      const imageName = urlParams.get('name');
+
+      // 加载 paths.json 文件
+      fetch('./paths.json')
+        .then(response => response.json())
+        .then(data => {
+          const Image = data.find(item => item.image_name === imageName);
+        
+        document.getElementById('my-image').src = Image.image_path;
+        
+        var anno = Annotorious.createImageAnnotator('my-image');
+        anno.loadAnnotations(Image.label_path);
+
+        // 监听选中注释
+        anno.on('selectionChanged', (annotations) => {
+          if (annotations.length > 0) {
+            const annotation = annotations[0]; // 假设只处理第一个选中的标注
+            console.log('Selected annotation: ' + annotation.id);
+            selectedAnnotation = annotation;  // 存储选中的注释
+          } else {
+            console.log('No annotation selected');
+            selectedAnnotation = null;  // 如果没有选中注释，设置为 null
+          }
+        });
+
+        // 允许删除选中的注释
+        window.addEventListener('keydown', function(event) {
+          console.log("Selected Annotation:", selectedAnnotation); 
+          if (event.key === 'Backspace' && selectedAnnotation) {
+            anno.removeAnnotation(selectedAnnotation);
+            selectedAnnotation = null;
+          }
+        });
+  
+        // 动态加载 nouns.JSON 文件
+        fetch(Image.noun_path)
+          .then((response) => response.json())
+          .then((jsonData) => {
+            annotationsData = jsonData; // 将数据存储到 annotationsData
+  
+            // 渲染句子到页面
+            renderSentences();
+          })
+          .catch((error) => {
+            console.error('Error loading JSON file:', error);
+          });
+  
+        // 渲染句子
+        function renderSentences() {
+          const container = document.getElementById('sentences');
+          container.innerHTML = ''; // 清空现有内容
+  
+          annotationsData.forEach((item, index) => {
+            const sentenceDiv = document.createElement('div');
+            sentenceDiv.className = 'sentence-container';
+  
+            // 处理英文句子并高亮关键字
+            if (item.words.length > 0) {
+              let formattedSentence = item.sentence;
+              item.words.forEach((word) => {
+                const regex = new RegExp(`\\b${word}\\b`, 'g');
+                formattedSentence = formattedSentence.replace(
+                  regex,
+                  `<span class="highlight">${word}</span>`
+                );
+              });
+            
+    
+              sentenceDiv.innerHTML = `<p>${formattedSentence}</p>`;
+    
+              // 添加中文句子
+              if (item.sentence_cn) {
+                const cnParagraph = document.createElement('p');
+                cnParagraph.className = 'cn-sentence';
+                cnParagraph.textContent = item.sentence_cn;
+                sentenceDiv.appendChild(cnParagraph);
+              }
+    
+              // 添加按钮和 ID
+              const button = document.createElement('button');
+              button.textContent = 'Update ID';
+              button.setAttribute('data-index', index); // 为按钮设置自定义数据属性（索引）
+    
+              const idParagraph = document.createElement('p');
+              idParagraph.className = 'id';
+              idParagraph.textContent = `ID: ${item.id}`;
+    
+              sentenceDiv.appendChild(button);
+              sentenceDiv.appendChild(idParagraph);
+    
+              // 监听按钮点击事件
+              button.addEventListener('click', (event) => {
+                const index = event.target.getAttribute('data-index'); // 获取点击按钮的索引
+                const item = annotationsData[index]; // 获取当前项
+
+                if (event.target.tagName === 'BUTTON') {
+                  // 处理按钮点击事件
+                  console.log('Button clicked for ID:', item.id);  // 使用 item.id，而不是 id
+
+                  // 如果选中了注释，更新 ID 显示
+                  if (selectedAnnotation) {
+                    idParagraph.textContent = `ID: ${selectedAnnotation.id}`;
+                    idParagraph.style.color = 'grey';
+                    annotationsData[index].id = selectedAnnotation.id;  // 更新数据
+                    console.log('Updated annotationsData:', annotationsData);
+                  } else {
+                    // 如果没有选中注释，则显示原来的 ID
+                    idParagraph.textContent = `ID: ${item.id} (Please select an annotation.)`;
+                  }
+                }
+              });
+    
+              // 将句子容器添加到页面
+              container.appendChild(sentenceDiv);
+            }
+          });
+        }
+
+      });
+
+        // 创建下载按钮
+      function createDownloadButton() {
+        const button = document.createElement('button');
+        button.textContent = 'Download annotations';
+        button.style.margin = '10px';
+        button.style.padding = '10px 20px';
+        button.style.backgroundColor = '#007bff';
+        button.style.color = 'white';
+        button.style.border = 'none';
+        button.style.borderRadius = '5px';
+        button.style.cursor = 'pointer';
+
+        // 添加点击事件
+        button.addEventListener('click', () => {
+          downloadJSON(annotationsData,  `${imageName}_anno.json`);
+        });
+
+        // 将按钮添加到页面
+        document.body.appendChild(button);
+      }
+
+      // 创建下载功能
+      function downloadJSON(data, filename) {
+        // 将数据转换为 JSON 字符串
+        const jsonString = JSON.stringify(data, null, 2);
+
+        // 创建 Blob 对象
+        const blob = new Blob([jsonString], { type: 'application/json' });
+
+        // 创建下载链接
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = filename;
+
+        // 模拟点击链接进行下载
+        link.click();
+
+        // 释放 URL 对象
+        URL.revokeObjectURL(link.href);
+      }
+
+      // 初始化页面后调用
+      createDownloadButton();
+      
+  
+      </script>
+      
+  </body>
+</html>

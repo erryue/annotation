@@ -1,84 +1,124 @@
 [
-    [
-        "The image depicts a cozy and warmly lit living space.",
-        "living",
-        "space"
-    ],
-    [
-        "The walls are painted in a soft orange hue, creating a welcoming atmosphere.",
-        "walls",
-        "orange",
-        "hue",
-        "atmosphere"
-    ],
-    [
-        "There are sheer curtains on the windows allowing natural light to softly filter in.",
-        "curtains",
-        "windows",
-        "light"
-    ],
-    [
-        "In the foreground, there's a wicker armchair with a purple accent pillow, next to a small round side table holding books.",
-        "foreground",
-        "wicker",
-        "armchair",
-        "accent",
-        "pillow",
-        "table",
-        "books"
-    ],
-    [
-        "A nearby ottoman is topped with a magazine.",
-        "ottoman",
-        "magazine"
-    ],
-    [
-        "A potted cactus sits on a small wooden table, adding a touch of greenery.",
-        "cactus",
-        "table",
-        "touch",
-        "greenery"
-    ],
-    [
-        "In the center, a glass-top dining table is surrounded by four wicker chairs, positioned beneath a modern pendant light.",
-        "center",
-        "glass",
-        "top",
-        "dining",
-        "table",
-        "four",
-        "wicker",
-        "chairs",
-        "pendant",
-        "light"
-    ],
-    [
-        "A black bowl of red apples serves as a centerpiece on the table.",
-        "bowl",
-        "apples",
-        "centerpiece",
-        "table"
-    ],
-    [
-        "In the background, a living area features a dark cushioned sofa with striped pillows, complemented by a side table holding decorative items and a floor lamp.",
-        "background",
-        "living",
-        "area",
-        "sofa",
-        "pillows",
-        "table",
-        "items",
-        "floor",
-        "lamp"
-    ],
-    [
-        "Artwork and a wall sconce light enhance the walls, completing the room's stylish yet comfortable aesthetic.",
-        "Artwork",
-        "wall",
-        "sconce",
-        "light",
-        "walls",
-        "room",
-        "aesthetic"
-    ]
+    {
+        "sentence": "The image depicts a cozy and warmly lit living space.",
+        "sentence_cn": "图像描绘了一个舒适且温暖的居住空间。",
+        "words": [
+            "living",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a soft orange hue, creating a welcoming atmosphere.",
+        "sentence_cn": "墙壁漆成柔和的橙色，营造出温馨的氛围。",
+        "words": [
+            "walls",
+            "orange",
+            "hue",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are sheer curtains on the windows allowing natural light to softly filter in.",
+        "sentence_cn": "窗户上装有薄纱窗帘，让自然光柔和地透进来。",
+        "words": [
+            "curtains",
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a wicker armchair with a purple accent pillow, next to a small round side table holding books.",
+        "sentence_cn": "前景中，有一把柳条扶手椅，上面放着一个紫色的靠垫，旁边是一张放着书籍的小圆形边桌。",
+        "words": [
+            "foreground",
+            "wicker",
+            "armchair",
+            "accent",
+            "pillow",
+            "table",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A nearby ottoman is topped with a magazine.",
+        "sentence_cn": "附近的凳子上放着一本杂志。",
+        "words": [
+            "ottoman",
+            "magazine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A potted cactus sits on a small wooden table, adding a touch of greenery.",
+        "sentence_cn": "一盆仙人掌放在一张小木桌上，增添了一丝绿意。",
+        "words": [
+            "cactus",
+            "table",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, a glass-top dining table is surrounded by four wicker chairs, positioned beneath a modern pendant light.",
+        "sentence_cn": "房间中央是一张玻璃面餐桌，周围摆放着四把柳条椅，下方是一盏现代吊灯。",
+        "words": [
+            "center",
+            "glass",
+            "top",
+            "dining",
+            "table",
+            "four",
+            "wicker",
+            "chairs",
+            "pendant",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black bowl of red apples serves as a centerpiece on the table.",
+        "sentence_cn": "一碗黑色的红苹果成为餐桌上的焦点。",
+        "words": [
+            "bowl",
+            "apples",
+            "centerpiece",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a living area features a dark cushioned sofa with striped pillows, complemented by a side table holding decorative items and a floor lamp.",
+        "sentence_cn": "在背景中，起居区配有深色软垫沙发和条纹枕头，以及摆放着装饰品和落地灯的边桌。",
+        "words": [
+            "background",
+            "living",
+            "area",
+            "sofa",
+            "pillows",
+            "table",
+            "items",
+            "floor",
+            "lamp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Artwork and a wall sconce light enhance the walls, completing the room's stylish yet comfortable aesthetic.",
+        "sentence_cn": "艺术品和壁灯增强了墙壁的美感，使房间既时尚又舒适。",
+        "words": [
+            "Artwork",
+            "wall",
+            "sconce",
+            "light",
+            "walls",
+            "room",
+            "aesthetic"
+        ],
+        "id": null
+    }
 ]

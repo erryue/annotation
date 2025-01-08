@@ -1,93 +1,137 @@
 [
-    [
-        "The image depicts a warm and inviting living space with a cozy, eclectic design.",
-        "living",
-        "space",
-        "design"
-    ],
-    [
-        "The room features walls painted in a soft, muted orange hue, creating a welcoming atmosphere.",
-        "room",
-        "walls",
-        "orange",
-        "hue",
-        "atmosphere"
-    ],
-    [
-        "Natural light filters in through sheer, light-colored curtains, adding a soft glow to the space.",
-        "light",
-        "curtains",
-        "glow",
-        "space"
-    ],
-    [
-        "A focal point of the room is a wicker armchair, adorned with a dark purple cushion, positioned next to a round table that holds a couple of books.",
-        "point",
-        "room",
-        "wicker",
-        "armchair",
-        "cushion",
-        "table",
-        "couple",
-        "books"
-    ],
-    [
-        "Adjacent to the chair is a small table with a terracotta potted cactus, enhancing the natural feel.",
-        "chair",
-        "table",
-        "terracotta",
-        "cactus",
-        "feel"
-    ],
-    [
-        "In the background, a dining area can be seen.",
-        "background",
-        "dining",
-        "area"
-    ],
-    [
-        "It features a glass-top table surrounded by wicker chairs, contributing to the cohesive, relaxed style of the space.",
-        "glass",
-        "top",
-        "table",
-        "wicker",
-        "chairs",
-        "style",
-        "space"
-    ],
-    [
-        "A pendant light is suspended over the table, adding a modern touch.",
-        "pendant",
-        "light",
-        "table",
-        "touch"
-    ],
-    [
-        "The living area extends into another section, where a plush couch with various cushions is located, along with a floor lamp for additional lighting.",
-        "living",
-        "area",
-        "section",
-        "couch",
-        "cushions",
-        "floor",
-        "lamp",
-        "lighting"
-    ],
-    [
-        "Decorative elements, such as branches in a vase and artwork on the walls, add personality to the space.",
-        "elements",
-        "branches",
-        "vase",
-        "artwork",
-        "walls",
-        "personality",
-        "space"
-    ],
-    [
-        "The hardwood flooring ties all the elements together, completing this cozy and stylish room.",
-        "hardwood",
-        "flooring",
-        "elements",
-        "room"
-    ]
+    {
+        "sentence": "The image depicts a warm and inviting living space with a cozy, eclectic design.",
+        "sentence_cn": "该图描绘了一个温暖而诱人的生活空间，具有舒适、折衷的设计。",
+        "words": [
+            "living",
+            "space",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features walls painted in a soft, muted orange hue, creating a welcoming atmosphere.",
+        "sentence_cn": "房间的墙壁漆成柔和的橙色，营造出温馨的氛围。",
+        "words": [
+            "room",
+            "walls",
+            "orange",
+            "hue",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Natural light filters in through sheer, light-colored curtains, adding a soft glow to the space.",
+        "sentence_cn": "自然光透过薄薄的浅色窗帘照射进来，为空间增添柔和的光芒。",
+        "words": [
+            "light",
+            "curtains",
+            "glow",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A focal point of the room is a wicker armchair, adorned with a dark purple cushion, positioned next to a round table that holds a couple of books.",
+        "sentence_cn": "房间的焦点是一把柳条扶手椅，上面装饰着深紫色的垫子，旁边是一张放着几本书的圆桌。",
+        "words": [
+            "point",
+            "room",
+            "wicker",
+            "armchair",
+            "cushion",
+            "table",
+            "couple",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the chair is a small table with a terracotta potted cactus, enhancing the natural feel.",
+        "sentence_cn": "椅子旁边是一张小桌子，上面放着一盆陶土仙人掌，增强了自然的感觉。",
+        "words": [
+            "chair",
+            "table",
+            "terracotta",
+            "cactus",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a dining area can be seen.",
+        "sentence_cn": "在背景中可以看到用餐区。",
+        "words": [
+            "background",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a glass-top table surrounded by wicker chairs, contributing to the cohesive, relaxed style of the space.",
+        "sentence_cn": "其特色是玻璃桌，周围环绕着柳条椅，营造出空间的协调、轻松风格。",
+        "words": [
+            "glass",
+            "top",
+            "table",
+            "wicker",
+            "chairs",
+            "style",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A pendant light is suspended over the table, adding a modern touch.",
+        "sentence_cn": "桌子上方悬挂着一盏吊灯，增添了现代气息。",
+        "words": [
+            "pendant",
+            "light",
+            "table",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The living area extends into another section, where a plush couch with various cushions is located, along with a floor lamp for additional lighting.",
+        "sentence_cn": "起居区延伸到另一个区域，那里有一张配有各种垫子的毛绒沙发，还有一盏落地灯来提供额外的照明。",
+        "words": [
+            "living",
+            "area",
+            "section",
+            "couch",
+            "cushions",
+            "floor",
+            "lamp",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Decorative elements, such as branches in a vase and artwork on the walls, add personality to the space.",
+        "sentence_cn": "装饰元素，例如花瓶中的树枝和墙壁上的艺术品，为空间增添了个性。",
+        "words": [
+            "elements",
+            "branches",
+            "vase",
+            "artwork",
+            "walls",
+            "personality",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The hardwood flooring ties all the elements together, completing this cozy and stylish room.",
+        "sentence_cn": "硬木地板将所有元素结合在一起，使这个房间更加舒适而时尚。",
+        "words": [
+            "hardwood",
+            "flooring",
+            "elements",
+            "room"
+        ],
+        "id": null
+    }
 ]

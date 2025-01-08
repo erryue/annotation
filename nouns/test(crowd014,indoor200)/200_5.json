@@ -1,101 +1,145 @@
 [
-    [
-        "The image depicts a cozy, well-furnished living and dining area with warm, earthy tones.",
-        "living",
-        "dining",
-        "area",
-        "tones"
-    ],
-    [
-        "The space features light orange walls complemented by wooden floors.",
-        "space",
-        "orange",
-        "walls",
-        "floors"
-    ],
-    [
-        "A wicker armchair with a dark purple cushion and a matching ottoman are placed in the foreground, next to a small round table adorned with books and magazines.",
-        "wicker",
-        "armchair",
-        "cushion",
-        "ottoman",
-        "foreground",
-        "round",
-        "table",
-        "books",
-        "magazines"
-    ],
-    [
-        "Beside the armchair, a console table against the wall holds a decorative lamp with a woven shade, and a glass decor piece.",
-        "armchair",
-        "console",
-        "table",
-        "wall",
-        "lamp",
-        "shade",
-        "glass",
-        "decor",
-        "piece"
-    ],
-    [
-        "The room has sheer, white curtains hanging by the window, allowing natural light to filter through.",
-        "room",
-        "curtains",
-        "window",
-        "light"
-    ],
-    [
-        "The dining area in the middle features a glass-top table surrounded by wicker chairs with cushioned seats.",
-        "dining",
-        "area",
-        "middle",
-        "glass",
-        "top",
-        "table",
-        "wicker",
-        "chairs",
-        "seats"
-    ],
-    [
-        "Above the table, a modern pendant light hangs, casting a warm glow.",
-        "table",
-        "pendant",
-        "light",
-        "glow"
-    ],
-    [
-        "A large bowl of apples serves as a centerpiece on the table, adding a touch of color.",
-        "bowl",
-        "apples",
-        "centerpiece",
-        "table",
-        "touch",
-        "color"
-    ],
-    [
-        "In the adjacent area, there is a dark-colored armchair with a couple of complementary pillows.",
-        "area",
-        "armchair",
-        "couple",
-        "pillows"
-    ],
-    [
-        "A plush carpet defines the seating area, which includes a floor lamp and a side table with decorative vases.",
-        "carpet",
-        "seating",
-        "area",
-        "floor",
-        "lamp",
-        "table",
-        "vases"
-    ],
-    [
-        "Overall, the decor combines comfort with elegant simplicity, utilizing natural materials, warm colors, and soft lighting.",
-        "decor",
-        "comfort",
-        "simplicity",
-        "materials",
-        "colors",
-        "lighting"
-    ]
+    {
+        "sentence": "The image depicts a cozy, well-furnished living and dining area with warm, earthy tones.",
+        "sentence_cn": "图片描绘的是一个舒适、布置精美的起居和用餐区，有着温暖的泥土色调。",
+        "words": [
+            "living",
+            "dining",
+            "area",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space features light orange walls complemented by wooden floors.",
+        "sentence_cn": "该空间以浅橙色墙壁和木地板为特色。",
+        "words": [
+            "space",
+            "orange",
+            "walls",
+            "floors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wicker armchair with a dark purple cushion and a matching ottoman are placed in the foreground, next to a small round table adorned with books and magazines.",
+        "sentence_cn": "前景中摆放着一把带有深紫色坐垫的柳条扶手椅和与之相配的脚凳，旁边是一张摆放着书籍和杂志的小圆桌。",
+        "words": [
+            "wicker",
+            "armchair",
+            "cushion",
+            "ottoman",
+            "foreground",
+            "round",
+            "table",
+            "books",
+            "magazines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the armchair, a console table against the wall holds a decorative lamp with a woven shade, and a glass decor piece.",
+        "sentence_cn": "扶手椅旁边，靠墙的控制台上摆放着一盏带编织灯罩的装饰灯和一块玻璃装饰品。",
+        "words": [
+            "armchair",
+            "console",
+            "table",
+            "wall",
+            "lamp",
+            "shade",
+            "glass",
+            "decor",
+            "piece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has sheer, white curtains hanging by the window, allowing natural light to filter through.",
+        "sentence_cn": "房间的窗户旁边挂着透明的白色窗帘，自然光照进房间。",
+        "words": [
+            "room",
+            "curtains",
+            "window",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dining area in the middle features a glass-top table surrounded by wicker chairs with cushioned seats.",
+        "sentence_cn": "中间的用餐区设有一张玻璃桌，周围环绕着带软垫座椅的柳条椅。",
+        "words": [
+            "dining",
+            "area",
+            "middle",
+            "glass",
+            "top",
+            "table",
+            "wicker",
+            "chairs",
+            "seats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the table, a modern pendant light hangs, casting a warm glow.",
+        "sentence_cn": "桌子上方悬挂着一盏现代吊灯，散发出温暖的光芒。",
+        "words": [
+            "table",
+            "pendant",
+            "light",
+            "glow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large bowl of apples serves as a centerpiece on the table, adding a touch of color.",
+        "sentence_cn": "一大碗苹果作为餐桌的中心装饰，增添了一抹色彩。",
+        "words": [
+            "bowl",
+            "apples",
+            "centerpiece",
+            "table",
+            "touch",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the adjacent area, there is a dark-colored armchair with a couple of complementary pillows.",
+        "sentence_cn": "在相邻区域，有一把深色扶手椅和几个配套的枕头。",
+        "words": [
+            "area",
+            "armchair",
+            "couple",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A plush carpet defines the seating area, which includes a floor lamp and a side table with decorative vases.",
+        "sentence_cn": "长毛绒地毯定义了座位区的界限，那里有一盏落地灯和一个带装饰花瓶的边桌。",
+        "words": [
+            "carpet",
+            "seating",
+            "area",
+            "floor",
+            "lamp",
+            "table",
+            "vases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the decor combines comfort with elegant simplicity, utilizing natural materials, warm colors, and soft lighting.",
+        "sentence_cn": "总体而言，装饰将舒适与优雅简约融为一体，采用天然材料、暖色调和柔和的灯光。",
+        "words": [
+            "decor",
+            "comfort",
+            "simplicity",
+            "materials",
+            "colors",
+            "lighting"
+        ],
+        "id": null
+    }
 ]

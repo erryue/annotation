@@ -1,236 +1,75 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.css">
-    <script src="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.js"></script>
-    <style>
-      #my-image {
-        max-width: 100%;
-        height: auto;
-      }
-      #container {
-        display: flex;
-        justify-content: center;
-        align-items: flex-start;
-        width: 100%;
-      }
-      #image-container {
-        width: 40%;
-        height: auto;
-        margin-right: 20px;
-      }
-      #text-container {
-        width: 50%;
-        height: 90vh;
-        overflow-y: auto;
-        padding: 10px;
-        background-color: #f9f9f9;
-      }
-      .sentence-container {
-        border: 1px solid #ddd;
-        margin: 10px 0;
-        padding: 10px;
-        background-color: #fff;
-        border-radius: 5px;
-      }
-      .highlight {
-        /* background-color: yellow; */
-        color: slateblue;
-        font-weight: bold;
-      }
-      .cn-sentence {
-        font-size: 0.9em;
-        color: #555;
-      }
-      .id {
-        margin-top: 5px;
-        font-size: 0.9em;
-        color: tomato;
-      }
-    </style>
-  </head>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LLM vision</title>
+</head>
 
-  <body>
-    <div id="container">
-      <!-- image -->
-      <div id="image-container">
-        <img id="my-image" src="./example_cropped/crowd/014.jpg" style="max-width: 100%; max-height: 100%;" />
-      </div>
-
-      <!-- text -->
-      <div id="text-container">
-        <h3>Sentences</h3>
-        <div id="sentences"></div>
-      </div>
-    </div>
-
-    <script>
-        // 全局变量 selectedAnnotation
-        var selectedAnnotation = null;
-      
-        window.onload = function() {
-          var anno = Annotorious.createImageAnnotator('my-image');
-          // Load annotations from JSON files
-          anno.loadAnnotations('./labels/crowd/014_labels.json');
-      
-          // 监听选中注释
-          anno.on('selectionChanged', (annotations) => {
-            if (annotations.length > 0) {
-              const annotation = annotations[0]; // 假设只处理第一个选中的标注
-              console.log('Selected annotation: ' + annotation.id);
-              selectedAnnotation = annotation;  // 存储选中的注释
-            } else {
-              console.log('No annotation selected');
-              selectedAnnotation = null;  // 如果没有选中注释，设置为 null
-            }
-          });
-
-          // 允许删除选中的注释
-          window.addEventListener('keydown', function(event) {
-            console.log("Selected Annotation:", selectedAnnotation); 
-            if (event.key === 'Backspace' && selectedAnnotation) {
-              anno.removeAnnotation(selectedAnnotation);
-              selectedAnnotation = null;
-            }
-          });
-
-        }
-      </script>
-      
-      <script>
-        // 定义全局变量，用于存储从JSON加载的数据
-        let annotationsData = [];
-  
-        // 动态加载 nouns.JSON 文件
-        fetch('./nouns/test(crowd014,indoor200)/014_2.json')
-          .then((response) => response.json())
-          .then((jsonData) => {
-            annotationsData = jsonData; // 将数据存储到 annotationsData
-  
-            // 渲染句子到页面
-            renderSentences();
-          })
-          .catch((error) => {
-            console.error('Error loading JSON file:', error);
-          });
-  
-        // 渲染句子
-        function renderSentences() {
-          const container = document.getElementById('sentences');
-          container.innerHTML = ''; // 清空现有内容
-  
-          annotationsData.forEach((item, index) => {
-            const sentenceDiv = document.createElement('div');
-            sentenceDiv.className = 'sentence-container';
-  
-            // 处理英文句子并高亮关键字
-            if (item.words.length > 0) {
-              let formattedSentence = item.sentence;
-              item.words.forEach((word) => {
-                const regex = new RegExp(`\\b${word}\\b`, 'g');
-                formattedSentence = formattedSentence.replace(
-                  regex,
-                  `<span class="highlight">${word}</span>`
-                );
-              });
-            
+<body>
+  <div>
+    <h1>LLM vision</h1>
     
-              sentenceDiv.innerHTML = `<p>${formattedSentence}</p>`;
+    <!-- 第一个选择框 -->
+    <label for="category-select">Choose a category:</label>
+    <select id="category-select">
+      <option value="crowd">crowd</option>
+      <option value="indoor">indoor</option>
+    </select>
     
-              // 添加中文句子
-              if (item.sentence_cn) {
-                const cnParagraph = document.createElement('p');
-                cnParagraph.className = 'cn-sentence';
-                cnParagraph.textContent = item.sentence_cn;
-                sentenceDiv.appendChild(cnParagraph);
-              }
-    
-              // 添加按钮和 ID
-              const button = document.createElement('button');
-              button.textContent = 'Update ID';
-              button.setAttribute('data-index', index); // 为按钮设置自定义数据属性（索引）
-    
-              const idParagraph = document.createElement('p');
-              idParagraph.className = 'id';
-              idParagraph.textContent = `ID: ${item.id}`;
-    
-              sentenceDiv.appendChild(button);
-              sentenceDiv.appendChild(idParagraph);
-    
-              // 监听按钮点击事件
-              button.addEventListener('click', (event) => {
-                const index = event.target.getAttribute('data-index'); // 获取点击按钮的索引
-                const item = annotationsData[index]; // 获取当前项
+    <!-- 第二个选择框 -->
+    <label for="image-select">Choose an image:</label>
+    <select id="image-select">
+      <!-- 默认没有选项 -->
+    </select>
 
-                if (event.target.tagName === 'BUTTON') {
-                  // 处理按钮点击事件
-                  console.log('Button clicked for ID:', item.id);  // 使用 item.id，而不是 id
+    <!-- 进入下一页面的按钮 -->
+    <button id="go-to-next-page">Enter</button>
+  </div>
 
-                  // 如果选中了注释，更新 ID 显示
-                  if (selectedAnnotation) {
-                    idParagraph.textContent = `ID: ${selectedAnnotation.id}`;
-                    idParagraph.style.color = 'grey';
-                    annotationsData[index].id = selectedAnnotation.id;  // 更新数据
-                    console.log('Updated annotationsData:', annotationsData);
-                  } else {
-                    // 如果没有选中注释，则显示原来的 ID
-                    idParagraph.textContent = `ID: ${item.id} (Please select an annotation.)`;
-                  }
-                }
-              });
-    
-              // 将句子容器添加到页面
-              container.appendChild(sentenceDiv);
-            }
-          });
-        }
+  <script>
+    const categorySelect = document.getElementById('category-select');
+    const imageSelect = document.getElementById('image-select');
+    const button = document.getElementById('go-to-next-page');
 
+    // 更新第二个选择框的选项
+    function updateImageOptions(category) {
+      // 清空现有选项
+      imageSelect.innerHTML = '';
 
-        // 创建下载按钮
-      function createDownloadButton() {
-        const button = document.createElement('button');
-        button.textContent = 'Download Updated Data';
-        button.style.margin = '10px';
-        button.style.padding = '10px 20px';
-        button.style.backgroundColor = '#007bff';
-        button.style.color = 'white';
-        button.style.border = 'none';
-        button.style.borderRadius = '5px';
-        button.style.cursor = 'pointer';
-
-        // 添加点击事件
-        button.addEventListener('click', () => {
-          downloadJSON(annotationsData, 'updated_annotations.json');
-        });
-
-        // 将按钮添加到页面
-        document.body.appendChild(button);
+      let options = [];
+      if (category === 'crowd') {
+        options = ['014_1', '014_2', '014_3', '014_4', '014_5', '014_6', '014_7', '014_8'];
+      } else if (category === 'indoor') {
+        options = ['200_1', '200_2', '200_3', '200_4', '200_5', '200_6', '200_7', '200_8'];
       }
 
-      // 创建下载功能
-      function downloadJSON(data, filename) {
-        // 将数据转换为 JSON 字符串
-        const jsonString = JSON.stringify(data, null, 2);
+      // 动态添加选项
+      options.forEach(optionValue => {
+        const option = document.createElement('option');
+        option.value = optionValue;
+        option.textContent = `${category}/${optionValue}.jpg`;
+        imageSelect.appendChild(option);
+      });
+    }
 
-        // 创建 Blob 对象
-        const blob = new Blob([jsonString], { type: 'application/json' });
+    // 初始化默认的选项
+    updateImageOptions(categorySelect.value);
 
-        // 创建下载链接
-        const link = document.createElement('a');
-        link.href = URL.createObjectURL(blob);
-        link.download = filename;
+    // 监听类别选择框变化
+    categorySelect.addEventListener('change', (event) => {
+      updateImageOptions(event.target.value);
+    });
 
-        // 模拟点击链接进行下载
-        link.click();
-
-        // 释放 URL 对象
-        URL.revokeObjectURL(link.href);
-      }
-
-      // 初始化页面后调用
-      createDownloadButton();
-  
-      </script>
-      
-  </body>
+    // 按钮点击事件
+    button.addEventListener('click', () => {
+      const selectedCategory = categorySelect.value;  // 获取选择的类别
+      const selectedImage = imageSelect.value;  // 获取选择的图片
+      // 构造 URL，并传递查询参数
+      const url = `anno.html?name=${selectedImage}`;
+      window.location.href = url;  // 跳转到下一页面
+    });
+  </script>
+</body>
 </html>
+

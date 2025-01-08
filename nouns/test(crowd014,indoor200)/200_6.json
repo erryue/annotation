@@ -1,126 +1,194 @@
 [
-    [
-        "The image depicts a warm and cozy living and dining area with an inviting ambiance.",
-        "living",
-        "dining",
-        "area",
-        "ambiance"
-    ],
-    [
-        "The color palette includes soft oranges and browns, creating a soothing atmosphere.",
-        "color",
-        "palette",
-        "oranges",
-        "browns",
-        "atmosphere"
-    ],
-    [
-        "**Living Area:**",
-        "Living Area:",
-        "Living",
-        "Area"
-    ],
-    [
-        "- A comfortable seating arrangement features rattan armchairs adorned with purple cushions.",
-        "seating",
-        "arrangement",
-        "rattan",
-        "armchairs",
-        "cushions"
-    ],
-    [
-        "- A small round coffee table is positioned in front with stacked books on it.",
-        "coffee",
-        "table",
-        "front",
-        "books"
-    ],
-    [
-        "- On the left, there's a lamp with a woven shade on a small table, adding a rustic touch.",
-        "left",
-        "lamp",
-        "shade",
-        "table",
-        "touch"
-    ],
-    [
-        "- A small indoor plant decorates the side table.",
-        "plant",
-        "table"
-    ],
-    [
-        "**Dining Area:**",
-        "Dining Area:",
-        "Dining",
-        "Area"
-    ],
-    [
-        "- A glass-top dining table is surrounded by wicker chairs.",
-        "glass",
-        "top",
-        "dining",
-        "table",
-        "wicker",
-        "chairs"
-    ],
-    [
-        "- A decorative bowl filled with fruit serves as the table's centerpiece.",
-        "bowl",
-        "fruit",
-        "table",
-        "centerpiece"
-    ],
-    [
-        "- Overhead, a modern pendant light hangs above the dining table, softly illuminating the space.",
-        "pendant",
-        "light",
-        "dining",
-        "table",
-        "space"
-    ],
-    [
-        "**Additional Features:**",
-        "Additional Features:",
-        "Features"
-    ],
-    [
-        "- Sheer curtains cover the windows, letting in natural light while maintaining privacy.",
-        "curtains",
-        "windows",
-        "light",
-        "privacy"
-    ],
-    [
-        "- In the background, a plush purple couch is visible, accompanied by several decorative pillows.",
-        "background",
-        "couch",
-        "pillows"
-    ],
-    [
-        "- Tasteful decorations, such as vases and framed artwork, are placed throughout the room, enhancing its aesthetic appeal.",
-        "decorations",
-        "vases",
-        "artwork",
-        "room",
-        "appeal"
-    ],
-    [
-        "- A small cactus plant sits on a round side table in the foreground, adding a touch of greenery.",
-        "cactus",
-        "plant",
-        "table",
-        "foreground",
-        "touch",
-        "greenery"
-    ],
-    [
-        "Overall, the room exudes a sense of warmth and relaxation with its tasteful decor and harmonious color scheme.",
-        "room",
-        "sense",
-        "warmth",
-        "relaxation",
-        "decor",
-        "color",
-        "scheme"
-    ]
+    {
+        "sentence": "The image depicts a warm and cozy living and dining area with an inviting ambiance.",
+        "sentence_cn": "图片描绘的是一个温暖、舒适、充满诱人氛围的起居和用餐区。",
+        "words": [
+            "living",
+            "dining",
+            "area",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color palette includes soft oranges and browns, creating a soothing atmosphere.",
+        "sentence_cn": "色调包括柔和的橙色和棕色，营造出舒缓的氛围。",
+        "words": [
+            "color",
+            "palette",
+            "oranges",
+            "browns",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Living Area:**",
+        "sentence_cn": "**居住面积：**",
+        "words": [
+            "Living Area:",
+            "Living",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A comfortable seating arrangement features rattan armchairs adorned with purple cushions.",
+        "sentence_cn": "- 舒适的座位安排包括配有紫色垫子的藤制扶手椅。",
+        "words": [
+            "seating",
+            "arrangement",
+            "rattan",
+            "armchairs",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A small round coffee table is positioned in front with stacked books on it.",
+        "sentence_cn": "- 前面有一张小圆形咖啡桌，上面堆满了书。",
+        "words": [
+            "coffee",
+            "table",
+            "front",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, there's a lamp with a woven shade on a small table, adding a rustic touch.",
+        "sentence_cn": "- 左边的小桌子上摆放着一盏带有编织灯罩的灯，增添了质朴的气息。",
+        "words": [
+            "left",
+            "lamp",
+            "shade",
+            "table",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A small indoor plant decorates the side table.",
+        "sentence_cn": "- 一株小型室内植物装饰着边桌。",
+        "words": [
+            "plant",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Dining Area:**",
+        "sentence_cn": "**用餐区：**",
+        "words": [
+            "Dining Area:",
+            "Dining",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A glass-top dining table is surrounded by wicker chairs.",
+        "sentence_cn": "- 玻璃面餐桌周围摆放着柳条椅。",
+        "words": [
+            "glass",
+            "top",
+            "dining",
+            "table",
+            "wicker",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A decorative bowl filled with fruit serves as the table's centerpiece.",
+        "sentence_cn": "- 一个装满水果的装饰碗成为桌子的中心装饰。",
+        "words": [
+            "bowl",
+            "fruit",
+            "table",
+            "centerpiece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Overhead, a modern pendant light hangs above the dining table, softly illuminating the space.",
+        "sentence_cn": "- 头顶上，一盏现代吊灯悬挂在餐桌上方，柔和地照亮了整个空间。",
+        "words": [
+            "pendant",
+            "light",
+            "dining",
+            "table",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Additional Features:**",
+        "sentence_cn": "**附加功能：**",
+        "words": [
+            "Additional Features:",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sheer curtains cover the windows, letting in natural light while maintaining privacy.",
+        "sentence_cn": "- 薄纱窗帘遮住窗户，让自然光照进房间，同时保护隐私。",
+        "words": [
+            "curtains",
+            "windows",
+            "light",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the background, a plush purple couch is visible, accompanied by several decorative pillows.",
+        "sentence_cn": "- 背景中，可见一张豪华的紫色沙发，旁边还有几个装饰枕头。",
+        "words": [
+            "background",
+            "couch",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tasteful decorations, such as vases and framed artwork, are placed throughout the room, enhancing its aesthetic appeal.",
+        "sentence_cn": "- 房间各处摆放着花瓶和带框的艺术品等高雅的装饰品，增强了房间的美感。",
+        "words": [
+            "decorations",
+            "vases",
+            "artwork",
+            "room",
+            "appeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A small cactus plant sits on a round side table in the foreground, adding a touch of greenery.",
+        "sentence_cn": "- 前景中的圆形边桌上有一株小仙人掌植物，增添了一抹绿意。",
+        "words": [
+            "cactus",
+            "plant",
+            "table",
+            "foreground",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room exudes a sense of warmth and relaxation with its tasteful decor and harmonious color scheme.",
+        "sentence_cn": "总体而言，房间装饰高雅，配色和谐，散发出一种温暖和放松的感觉。",
+        "words": [
+            "room",
+            "sense",
+            "warmth",
+            "relaxation",
+            "decor",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    }
 ]

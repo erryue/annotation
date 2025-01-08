@@ -1,100 +1,148 @@
 [
-    [
-        "The image depicts a cozy, warmly lit living and dining area.",
-        "living",
-        "dining",
-        "area"
-    ],
-    [
-        "The walls are painted in a soft, peach hue, enhancing the inviting atmosphere.",
-        "walls",
-        "peach",
-        "hue",
-        "atmosphere"
-    ],
-    [
-        "In the foreground, there's a wicker armchair with a dark purple throw pillow, and a matching ottoman with books and magazines on top.",
-        "foreground",
-        "wicker",
-        "armchair",
-        "throw",
-        "pillow",
-        "ottoman",
-        "books",
-        "magazines",
-        "top"
-    ],
-    [
-        "Nearby, a small round table holds more books.",
-        "round",
-        "table",
-        "books"
-    ],
-    [
-        "The dining area features a glass-top table surrounded by wicker chairs.",
-        "dining",
-        "area",
-        "glass",
-        "top",
-        "table",
-        "wicker",
-        "chairs"
-    ],
-    [
-        "Above the table hangs a stylish black pendant light, and a bowl of fruit acts as a centerpiece.",
-        "table",
-        "pendant",
-        "light",
-        "bowl",
-        "fruit",
-        "centerpiece"
-    ],
-    [
-        "Sheer, light curtains cover the windows, allowing soft natural light to filter in.",
-        "curtains",
-        "windows",
-        "light"
-    ],
-    [
-        "The open-plan design extends into a seating area, which includes a dark upholstered sofa with decorative pillows.",
-        "plan",
-        "design",
-        "seating",
-        "area",
-        "sofa",
-        "pillows"
-    ],
-    [
-        "This space is accented by a modern floor lamp and wall-mounted lights, adding to the room\u00a1\u00afs ambiance.",
-        "space",
-        "floor",
-        "lamp",
-        "wall",
-        "lights",
-        "room\u00a1\u00afs",
-        "ambiance"
-    ],
-    [
-        "A small table with decorative items sits beside the sofa.",
-        "table",
-        "items",
-        "sofa"
-    ],
-    [
-        "The room also includes a potted cactus on a wooden stand, adding a touch of greenery to the space.",
-        "room",
-        "cactus",
-        "stand",
-        "touch",
-        "greenery",
-        "space"
-    ],
-    [
-        "Overall, the room combines natural materials and warm colors to create a comfortable and stylish living space.",
-        "room",
-        "materials",
-        "colors",
-        "living",
-        "space"
-    ]
+    {
+        "sentence": "The image depicts a cozy, warmly lit living and dining area.",
+        "sentence_cn": "图片描绘的是一个舒适、温暖的客厅和餐厅。",
+        "words": [
+            "living",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a soft, peach hue, enhancing the inviting atmosphere.",
+        "sentence_cn": "墙壁漆成柔和的桃色调，增强了温馨的氛围。",
+        "words": [
+            "walls",
+            "peach",
+            "hue",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a wicker armchair with a dark purple throw pillow, and a matching ottoman with books and magazines on top.",
+        "sentence_cn": "前景中，有一把柳条扶手椅，上面放着一个深紫色的抱枕，还有一个配套的脚凳，上面放着书籍和杂志。",
+        "words": [
+            "foreground",
+            "wicker",
+            "armchair",
+            "throw",
+            "pillow",
+            "ottoman",
+            "books",
+            "magazines",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby, a small round table holds more books.",
+        "sentence_cn": "附近的一张小圆桌上摆放着更多书籍。",
+        "words": [
+            "round",
+            "table",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dining area features a glass-top table surrounded by wicker chairs.",
+        "sentence_cn": "用餐区设有一张玻璃桌，周围摆放着柳条椅。",
+        "words": [
+            "dining",
+            "area",
+            "glass",
+            "top",
+            "table",
+            "wicker",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the table hangs a stylish black pendant light, and a bowl of fruit acts as a centerpiece.",
+        "sentence_cn": "桌子上方悬挂着一盏时尚的黑色吊灯，一碗水果作为桌面装饰。",
+        "words": [
+            "table",
+            "pendant",
+            "light",
+            "bowl",
+            "fruit",
+            "centerpiece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sheer, light curtains cover the windows, allowing soft natural light to filter in.",
+        "sentence_cn": "薄薄的轻质窗帘遮住窗户，让柔和的自然光照进来。",
+        "words": [
+            "curtains",
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The open-plan design extends into a seating area, which includes a dark upholstered sofa with decorative pillows.",
+        "sentence_cn": "开放式设计延伸至休息区，其中设有带装饰枕头的深色软垫沙发。",
+        "words": [
+            "plan",
+            "design",
+            "seating",
+            "area",
+            "sofa",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This space is accented by a modern floor lamp and wall-mounted lights, adding to the room¡¯s ambiance.",
+        "sentence_cn": "现代化落地灯和壁灯点缀着这个空间，增添了房间的氛围。",
+        "words": [
+            "space",
+            "floor",
+            "lamp",
+            "wall",
+            "lights",
+            "room¡¯s",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small table with decorative items sits beside the sofa.",
+        "sentence_cn": "沙发旁边有一张摆放着装饰品的小桌子。",
+        "words": [
+            "table",
+            "items",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room also includes a potted cactus on a wooden stand, adding a touch of greenery to the space.",
+        "sentence_cn": "房间里还在木架上放置了一盆仙人掌，为空间增添了一丝绿意。",
+        "words": [
+            "room",
+            "cactus",
+            "stand",
+            "touch",
+            "greenery",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room combines natural materials and warm colors to create a comfortable and stylish living space.",
+        "sentence_cn": "整体而言，房间结合了天然材料和暖色调，营造出舒适时尚的居住空间。",
+        "words": [
+            "room",
+            "materials",
+            "colors",
+            "living",
+            "space"
+        ],
+        "id": null
+    }
 ]
