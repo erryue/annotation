@@ -1,0 +1,149 @@
+[
+    {
+        "sentence": "The image depicts a group of six people casually interacting in a setting that appears to be an informal meeting or discussion.",
+        "sentence_cn": "该图描绘了六个人在看似非正式会议或讨论的场景中随意互动的场景。",
+        "words": [
+            "group",
+            "six",
+            "people",
+            "meeting",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are arranged around and on a beige sofa in a room with wooden flooring and a white background.",
+        "sentence_cn": "这些作品被摆放在一个米色沙发周围和上面，房间铺着木地板，背景为白色。",
+        "words": [
+            "sofa",
+            "room",
+            "flooring",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Seated on the Sofa**:",
+        "sentence_cn": "1. **坐在沙发上**：",
+        "words": [
+            "Seated on the Sofa",
+            "Sofa",
+            "*"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- On the far left, a man in a light pink shirt and dark, pinstripe pants is sitting on the arm of the sofa.",
+        "sentence_cn": "- 最左边，一名身穿浅粉色衬衫和深色细条纹裤的男子坐在沙发扶手上。",
+        "words": [
+            "left",
+            "man",
+            "shirt",
+            "pants",
+            "arm",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He appears engaged in the conversation, gesturing with his hand.",
+        "sentence_cn": "他似乎在参与谈话，并用手做着手势。",
+        "words": [
+            "conversation",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Next to him, a man in a black suit with a white shirt is sitting on the sofa, leaning forward slightly, looking towards the person speaking.",
+        "sentence_cn": "- 旁边，一名穿着黑色西装，白色衬衫的男人坐在沙发上，身子微微前倾，看向说话的人。",
+        "words": [
+            "man",
+            "suit",
+            "shirt",
+            "sofa",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A woman in a black top is also seated on the sofa, smiling, with her head resting on her hand, appearing relaxed and amused.",
+        "sentence_cn": "- 一位身穿黑色上衣的女子也坐在沙发上，面带微笑，手托着头，显得很放松，很开心。",
+        "words": [
+            "woman",
+            "top",
+            "sofa",
+            "head",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Standing**:",
+        "sentence_cn": "2. **站立**：",
+        "words": [
+            "Standing",
+            "Standing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Behind the sofa, a woman in a pale yellow blouse and dark pants stands with her arms crossed, smiling as she listens to the conversation.",
+        "sentence_cn": "- 沙发后面，一位身穿淡黄色上衣和深色裤子的女人交叉双臂站着，微笑着听着谈话。",
+        "words": [
+            "sofa",
+            "woman",
+            "blouse",
+            "pants",
+            "arms",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A man wearing a blue shirt and striped pants is standing next to her, hands in pockets, engaged in the discussion.",
+        "sentence_cn": "- 一个穿着蓝色衬衫和条纹裤的男人站在她旁边，双手插在口袋里，参与讨论。",
+        "words": [
+            "man",
+            "shirt",
+            "pants",
+            "hands",
+            "pockets",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the far right, a man in a dark suit sits on the arm of the sofa, with his hands resting in his lap, looking attentively at others.",
+        "sentence_cn": "- 最右边，一名身着深色西装的男子坐在沙发扶手上，双手搁在膝盖上，专注地注视着别人。",
+        "words": [
+            "right",
+            "man",
+            "suit",
+            "arm",
+            "sofa",
+            "hands",
+            "lap",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mood of the gathering is friendly and social, characterized by smiles and open body language.",
+        "sentence_cn": "聚会的气氛友好而融洽，以微笑和开放的肢体语言为特点。",
+        "words": [
+            "mood",
+            "gathering",
+            "smiles",
+            "body",
+            "language"
+        ],
+        "id": null
+    }
+]

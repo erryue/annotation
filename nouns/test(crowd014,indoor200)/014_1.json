@@ -13,7 +13,7 @@
             "meeting",
             "discussion"
         ],
-        "id": 111
+        "id": null
     },
     {
         "sentence": "They are gathered around a beige couch.",
@@ -21,7 +21,7 @@
         "words": [
             "couch"
         ],
-        "id": 222
+        "id": null
     },
     {
         "sentence": "- One man is seated on the couch with his legs crossed, pointing or gesturing as if he is speaking.",

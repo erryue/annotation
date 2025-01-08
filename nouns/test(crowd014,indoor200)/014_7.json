@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": "The image shows a group of six people dressed in business or semi-formal attire, gathered around a beige sofa.",
+        "sentence_cn": "照片中，六个人身着商务或半正式服装，聚集在一张米色沙发周围。",
+        "words": [
+            "group",
+            "six",
+            "people",
+            "business",
+            "attire",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Five of them are seated or leaning on the sofa, while one person stands behind it.",
+        "sentence_cn": "其中五人或坐着或靠在沙发上，有一人站在沙发后面。",
+        "words": [
+            "Five",
+            "sofa",
+            "one",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears relaxed and conversational.",
+        "sentence_cn": "气氛显得轻松而又融洽。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Person on the left (seated on the sofa):** Wearing a light pink dress shirt and dark pinstripe trousers, gesturing with their hand as if making a point or telling a story.",
+        "sentence_cn": "1. **左边的人（坐在沙发上）：**穿着浅粉色衬衫和深色细条纹长裤，用手做着手势，好像在提出观点或讲述一个故事。",
+        "words": [
+            "Person on the left (seated on the sofa):",
+            "Person",
+            "sofa",
+            "dress",
+            "shirt",
+            "pinstripe",
+            "trousers",
+            "hand",
+            "point",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Person next to them (seated on the sofa):** Wearing a black suit, white shirt, no tie, leaning casually on the sofa with one hand on their knee, engaging with the others.",
+        "sentence_cn": "2. **旁边的人（坐在沙发上）：**穿着黑色西装，白色衬衫，没打领带，一手放在膝盖上，随意地靠在沙发上，与其他人交谈。",
+        "words": [
+            "Person next to them (seated on the sofa):",
+            "Person",
+            "sofa",
+            "suit",
+            "shirt",
+            "tie",
+            "sofa",
+            "one",
+            "hand",
+            "knee",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Person in the center (standing):** Wearing a dark shirt and trousers, standing with hands in their pockets, smiling and listening to the conversation.",
+        "sentence_cn": "3. **中间的人（站立）：**穿着深色衬衫和裤子，双手插在口袋里，微笑着聆听谈话。",
+        "words": [
+            "Person in the center (standing):",
+            "Person",
+            "center",
+            "shirt",
+            "trousers",
+            "hands",
+            "pockets",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Woman sitting on the arm of the sofa:** Wearing a black top and trousers, leaning forward with a smile and resting her head on her hand.",
+        "sentence_cn": "4. **坐在沙发扶手上的女人**：身穿黑色上衣和长裤，面带微笑，身体前倾，手托着头。",
+        "words": [
+            "Woman sitting on the arm of the sofa:",
+            "Woman",
+            "arm",
+            "sofa",
+            "top",
+            "trousers",
+            "smile",
+            "head",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. **Person on the right (seated on the arm of the sofa):** Wearing a dark suit and white shirt, sitting relaxed, with one hand resting on their knee, involved in the discussion.",
+        "sentence_cn": "5. **右边的人（坐在沙发扶手上）：**穿着深色西装和白衬衫，放松地坐着，一只手放在膝盖上，参与讨论。",
+        "words": [
+            "Person on the right (seated on the arm of the sofa):",
+            "Person",
+            "right",
+            "arm",
+            "sofa",
+            "suit",
+            "shirt",
+            "one",
+            "hand",
+            "knee",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. **Person standing behind the sofa:** Wearing a pale yellow shirt and dark trousers, arms crossed, smiling at the group.",
+        "sentence_cn": "6. **站在沙发后面的人**：穿着淡黄色衬衫和深色长裤，双手交叉，对着人群微笑。",
+        "words": [
+            "Person standing behind the sofa:",
+            "Person",
+            "sofa",
+            "shirt",
+            "trousers",
+            "arms",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting has a professional yet informal tone, suggesting a friendly meeting or discussion among colleagues or friends.",
+        "sentence_cn": "这里的环境具有专业而又非正式的氛围，适合同事或朋友之间的友好会面或讨论。",
+        "words": [
+            "tone",
+            "meeting",
+            "discussion",
+            "colleagues",
+            "friends"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is plain white, keeping the focus on the people and their interaction.",
+        "sentence_cn": "背景是纯白色，焦点集中在人及其互动上。",
+        "words": [
+            "background",
+            "focus",
+            "people",
+            "interaction"
+        ],
+        "id": null
+    }
+]

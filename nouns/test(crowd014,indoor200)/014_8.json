@@ -1,0 +1,189 @@
+[
+    {
+        "sentence": "The image shows a group of six people in a casual setting.",
+        "sentence_cn": "照片中是六人处在休闲环境中的场景。",
+        "words": [
+            "group",
+            "six",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are gathered around a beige sofa in a bright, open space with a wooden floor and plain white background.",
+        "sentence_cn": "他们聚集在一个米色沙发周围，空间明亮而开放，木地板，背景为纯白色。",
+        "words": [
+            "sofa",
+            "space",
+            "floor",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Person 1**: Sitting on the left side of the sofa, this individual is wearing a light pink shirt and dark pinstriped pants.",
+        "sentence_cn": "1. **人1**：坐在沙发的左侧，此人身穿浅粉色衬衫和深色细条纹裤子。",
+        "words": [
+            "Person 1",
+            "Person",
+            "1",
+            "sofa",
+            "individual",
+            "shirt",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are animatedly gesturing with one hand, possibly engaged in conversation.",
+        "sentence_cn": "他们用一只手生动地做着手势，可能正在交谈。",
+        "words": [
+            "one",
+            "hand",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Person 2**: Seated on the middle of the sofa, this person is wearing a black suit and a white shirt.",
+        "sentence_cn": "2. **人2**：坐在沙发中间，这个人穿着黑色西装和白色衬衫。",
+        "words": [
+            "Person 2",
+            "Person",
+            "2",
+            "middle",
+            "sofa",
+            "person",
+            "suit",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are leaning slightly forward, listening to the conversation.",
+        "sentence_cn": "他们身体微微前倾，聆听着谈话。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Person 3**: Standing behind the sofa next to Person 2, this person is wearing a light yellow shirt with rolled-up sleeves and dark pants.",
+        "sentence_cn": "3. **人物3**：站在人物2旁边的沙发后面，此人穿着一件卷起袖子的浅黄色衬衫和深色裤子。",
+        "words": [
+            "Person 3",
+            "Person",
+            "3",
+            "sofa",
+            "Person",
+            "2",
+            "person",
+            "shirt",
+            "sleeves",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are looking on with a smile, arms crossed in a relaxed pose.",
+        "sentence_cn": "他们面带微笑，双手交叉，保持着放松的姿势。",
+        "words": [
+            "smile",
+            "arms",
+            "pose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Person 4**: On the far right of the sofa, this person is seated and dressed in a black suit with a white shirt, similar to Person 2.",
+        "sentence_cn": "4. **人物 4**：此人坐在沙发最右边，穿着黑色西装和白色衬衫，与人物 2 类似。",
+        "words": [
+            "Person 4",
+            "Person",
+            "4",
+            "right",
+            "sofa",
+            "person",
+            "suit",
+            "shirt",
+            "Person",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are looking towards others on the sofa and appear to be listening.",
+        "sentence_cn": "他们看着沙发上的其他人，似乎在听。",
+        "words": [
+            "others",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. **Person 5**: Sitting on the sofa next to Person 1, this individual is casually dressed in black with a necklace.",
+        "sentence_cn": "5. **人物 5**：坐在人物 1 旁边的沙发上，此人身着黑色休闲服装，戴着项链。",
+        "words": [
+            "Person 5",
+            "Person",
+            "5",
+            "sofa",
+            "Person",
+            "1",
+            "individual",
+            "necklace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are engaged in the conversation, leaning on the armrest and smiling.",
+        "sentence_cn": "他们正倚着扶手，面带微笑，沉浸在交谈之中。",
+        "words": [
+            "conversation",
+            "armrest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. **Person 6**:",
+        "sentence_cn": "6.**第 6 人**：",
+        "words": [
+            "Person 6",
+            "Person",
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the sofa on the right, this person is wearing a grey shirt with dark pants.",
+        "sentence_cn": "在右边的沙发后面，这个人穿着灰色衬衫和深色裤子。",
+        "words": [
+            "sofa",
+            "right",
+            "person",
+            "shirt",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are standing casually with one hand in their pocket, attentively following the discussion.",
+        "sentence_cn": "他们一只手插在口袋里，随意地站着，专心地关注着讨论。",
+        "words": [
+            "one",
+            "hand",
+            "pocket",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group appears to be having an informal, friendly discussion.",
+        "sentence_cn": "该小组似乎正在进行一场非正式、友好的讨论。",
+        "words": [
+            "group",
+            "discussion"
+        ],
+        "id": null
+    }
+]

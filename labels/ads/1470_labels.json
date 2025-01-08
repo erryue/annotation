@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1ae42508-98ca-425f-b647-d655df4a6a23",
+        "confidence": 0.7573,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 34.26188,
+                        "minY": 44.16222,
+                        "maxX": 324.39664,
+                        "maxY": 323.20279
+                    },
+                    "x": 34.26188,
+                    "y": 44.16222,
+                    "w": 290.13475999999997,
+                    "h": 279.04057
+                }
+            }
+        }
+    },
+    {
+        "id": "62a9c9c4-6281-4e2a-87b5-4f4c26b13e66",
+        "confidence": 0.40726,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 44.71689,
+                        "minY": 256.42969,
+                        "maxX": 108.26557,
+                        "maxY": 292.70593
+                    },
+                    "x": 44.71689,
+                    "y": 256.42969,
+                    "w": 63.54868,
+                    "h": 36.27624000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "3e074d6e-015f-4059-95d5-0f44a9e5d759",
+        "confidence": 0.25649,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 17.68532,
+                        "minY": 320.57919,
+                        "maxX": 373.67239,
+                        "maxY": 478.63599
+                    },
+                    "x": 17.68532,
+                    "y": 320.57919,
+                    "w": 355.98707,
+                    "h": 158.0568
+                }
+            }
+        }
+    },
+    {
+        "id": "179ef2af-ae81-403b-a1c5-5b3bd5618f15",
+        "confidence": 0.21384,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 228.06519,
+                        "minY": 238.90044,
+                        "maxX": 279.27542,
+                        "maxY": 291.52991
+                    },
+                    "x": 228.06519,
+                    "y": 238.90044,
+                    "w": 51.210229999999996,
+                    "h": 52.62946999999997
+                }
+            }
+        }
+    }
+]

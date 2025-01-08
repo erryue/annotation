@@ -1,0 +1,133 @@
+[
+    {
+        "sentence": "The image depicts a cozy and inviting living/dining area with warm lighting and a welcoming atmosphere.",
+        "sentence_cn": "图片描绘的是一个舒适宜人的起居/用餐区，有温暖的灯光和温馨的氛围。",
+        "words": [
+            "living",
+            "dining",
+            "area",
+            "lighting",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a warm peach or orange hue, creating a cozy ambiance.",
+        "sentence_cn": "墙壁漆成温暖的桃色或橙色，营造出舒适的氛围。",
+        "words": [
+            "walls",
+            "peach",
+            "orange",
+            "hue",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Natural light filters through sheer curtains on the windows, enhancing the space's brightness.",
+        "sentence_cn": "自然光透过窗户上的薄纱窗帘照射进来，增强了空间的亮度。",
+        "words": [
+            "light",
+            "curtains",
+            "windows",
+            "space",
+            "brightness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a comfortable wicker chair with a purple pillow, positioned next to a small side table with books and possibly a decorative item.",
+        "sentence_cn": "前景中，有一把舒适的柳条椅，上面放着一个紫色的枕头，旁边是一张小边桌，上面放着书籍，可能还有一件装饰品。",
+        "words": [
+            "foreground",
+            "wicker",
+            "chair",
+            "pillow",
+            "table",
+            "books",
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area also includes a plush ottoman topped with magazines.",
+        "sentence_cn": "该区域还包括一个上面放着杂志的毛绒软凳。",
+        "words": [
+            "area",
+            "ottoman",
+            "magazines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small circular dining table with a glass top is surrounded by wicker chairs, and a bowl of apples serves as the centerpiece under a hanging light fixture above the table.",
+        "sentence_cn": "一张玻璃台面的小型圆形餐桌周围摆放着柳条椅，桌子上方的吊灯下，摆放着一碗苹果。",
+        "words": [
+            "dining",
+            "table",
+            "glass",
+            "top",
+            "wicker",
+            "chairs",
+            "bowl",
+            "apples",
+            "centerpiece",
+            "light",
+            "fixture",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dining space is open to the living area, which features a combination of modern and rustic elements.",
+        "sentence_cn": "餐厅与起居区相通，融合了现代与乡村风格的元素。",
+        "words": [
+            "dining",
+            "space",
+            "area",
+            "combination",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The living area in the background contains a dark upholstered chair and couch with accent pillows.",
+        "sentence_cn": "背景中的起居区配有深色软垫椅子和沙发以及靠垫。",
+        "words": [
+            "living",
+            "area",
+            "background",
+            "chair",
+            "couch",
+            "accent",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional decor includes a tall floor lamp and wall-mounted lights, which add warmth and depth to the room.",
+        "sentence_cn": "其他装饰包括高大的落地灯和壁挂灯，为房间增添了温暖和深度。",
+        "words": [
+            "decor",
+            "floor",
+            "lamp",
+            "wall",
+            "lights",
+            "warmth",
+            "depth",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setting appears thoughtfully designed with a mix of textures and colors that create a harmonious and inviting atmosphere.",
+        "sentence_cn": "总体而言，该环境经过精心设计，混合了纹理和颜色，营造出和谐而温馨的氛围。",
+        "words": [
+            "mix",
+            "textures",
+            "colors",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

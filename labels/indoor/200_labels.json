@@ -1,0 +1,442 @@
+[
+    {
+        "id": "3be164f7-e69d-420e-847d-8e3ceeb85dce",
+        "confidence": 0.84187,
+        "class": "couch",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 843.54272,
+                        "minY": 701.85974,
+                        "maxX": 1439.93933,
+                        "maxY": 1079.0
+                    },
+                    "x": 843.54272,
+                    "y": 701.85974,
+                    "w": 596.3966099999999,
+                    "h": 377.14026
+                }
+            }
+        }
+    },
+    {
+        "id": "cc8aac82-5c14-451d-a910-ff720ad22af7",
+        "confidence": 0.84167,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 570.50818,
+                        "minY": 435.82629,
+                        "maxX": 806.10541,
+                        "maxY": 712.70239
+                    },
+                    "x": 570.50818,
+                    "y": 435.82629,
+                    "w": 235.59722999999997,
+                    "h": 276.87610000000006
+                }
+            }
+        }
+    },
+    {
+        "id": "e90c9ace-0615-489a-9e19-0af7b02bf895",
+        "confidence": 0.75557,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 895.17578,
+                        "minY": 423.81802,
+                        "maxX": 1079.78345,
+                        "maxY": 714.10809
+                    },
+                    "x": 895.17578,
+                    "y": 423.81802,
+                    "w": 184.60766999999987,
+                    "h": 290.29006999999996
+                }
+            }
+        }
+    },
+    {
+        "id": "f7348447-15f4-4fa1-8dac-9f5e3c01a195",
+        "confidence": 0.61994,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 253.6864,
+                        "minY": 815.99561,
+                        "maxX": 542.24792,
+                        "maxY": 899.9892
+                    },
+                    "x": 253.6864,
+                    "y": 815.99561,
+                    "w": 288.56152000000003,
+                    "h": 83.99358999999993
+                }
+            }
+        }
+    },
+    {
+        "id": "f2028687-af63-4391-b51c-824e414f7dba",
+        "confidence": 0.55434,
+        "class": "couch",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 840.1817,
+                        "minY": 352.70538,
+                        "maxX": 1130.82678,
+                        "maxY": 524.69574
+                    },
+                    "x": 840.1817,
+                    "y": 352.70538,
+                    "w": 290.6450800000001,
+                    "h": 171.99036
+                }
+            }
+        }
+    },
+    {
+        "id": "0afcb3ae-7fc0-420b-a522-afa46ead26a9",
+        "confidence": 0.51432,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1057.7135,
+                        "minY": 647.30292,
+                        "maxX": 1206.03784,
+                        "maxY": 815.33142
+                    },
+                    "x": 1057.7135,
+                    "y": 647.30292,
+                    "w": 148.3243399999999,
+                    "h": 168.0285
+                }
+            }
+        }
+    },
+    {
+        "id": "fa9a8c44-d7a5-438f-a3df-3fa0b4e51acd",
+        "confidence": 0.46571,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.80881,
+                        "minY": 709.33411,
+                        "maxX": 229.20415,
+                        "maxY": 1074.83923
+                    },
+                    "x": 0.80881,
+                    "y": 709.33411,
+                    "w": 228.39534,
+                    "h": 365.50512000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "105d425e-bbf8-4d6c-ada8-bbf5aa145535",
+        "confidence": 0.41889,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 886.8761,
+                        "minY": 353.61536,
+                        "maxX": 1130.01172,
+                        "maxY": 525.42615
+                    },
+                    "x": 886.8761,
+                    "y": 353.61536,
+                    "w": 243.13562000000002,
+                    "h": 171.81079
+                }
+            }
+        }
+    },
+    {
+        "id": "c9c090e7-d952-4eed-9826-e2ed54387d17",
+        "confidence": 0.39415,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 290.98883,
+                        "minY": 485.13345,
+                        "maxX": 702.5531,
+                        "maxY": 901.48944
+                    },
+                    "x": 290.98883,
+                    "y": 485.13345,
+                    "w": 411.56426999999996,
+                    "h": 416.35598999999996
+                }
+            }
+        }
+    },
+    {
+        "id": "7ce0840b-c980-4136-ae81-7678c959c864",
+        "confidence": 0.37264,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 798.24359,
+                        "minY": 320.93298,
+                        "maxX": 886.73975,
+                        "maxY": 431.75031
+                    },
+                    "x": 798.24359,
+                    "y": 320.93298,
+                    "w": 88.49615999999992,
+                    "h": 110.81733000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "e053834c-62dd-4ea9-b9cc-cca6c403b40d",
+        "confidence": 0.35817,
+        "class": "couch",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1.1551,
+                        "minY": 708.06085,
+                        "maxX": 229.50787,
+                        "maxY": 1075.49451
+                    },
+                    "x": 1.1551,
+                    "y": 708.06085,
+                    "w": 228.35277,
+                    "h": 367.43366000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "d0d52d82-7b1b-4964-8c7e-278eec9e80ea",
+        "confidence": 0.34281,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 228.50845,
+                        "minY": 594.92291,
+                        "maxX": 482.70029,
+                        "maxY": 827.07294
+                    },
+                    "x": 228.50845,
+                    "y": 594.92291,
+                    "w": 254.19183999999998,
+                    "h": 232.15003000000002
+                }
+            }
+        }
+    },
+    {
+        "id": "25d24b99-4361-4ccb-b147-80246a2688c3",
+        "confidence": 0.32886,
+        "class": "couch",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1158.5105,
+                        "minY": 343.21567,
+                        "maxX": 1398.60706,
+                        "maxY": 534.79974
+                    },
+                    "x": 1158.5105,
+                    "y": 343.21567,
+                    "w": 240.09655999999995,
+                    "h": 191.58407000000005
+                }
+            }
+        }
+    },
+    {
+        "id": "ef516aef-7259-4f81-b077-84c20700fa14",
+        "confidence": 0.32436,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 67.10557,
+                        "minY": 547.13464,
+                        "maxX": 249.54848,
+                        "maxY": 583.276
+                    },
+                    "x": 67.10557,
+                    "y": 547.13464,
+                    "w": 182.44291,
+                    "h": 36.14135999999996
+                }
+            }
+        }
+    },
+    {
+        "id": "3292c8be-a213-492a-abdc-ffe468941939",
+        "confidence": 0.26626,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1174.09839,
+                        "minY": 344.00037,
+                        "maxX": 1398.24219,
+                        "maxY": 534.5321
+                    },
+                    "x": 1174.09839,
+                    "y": 344.00037,
+                    "w": 224.14379999999983,
+                    "h": 190.53173000000004
+                }
+            }
+        }
+    },
+    {
+        "id": "5160823b-8488-4b63-922b-74acbe456fee",
+        "confidence": 0.24869,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 228.84462,
+                        "minY": 411.55103,
+                        "maxX": 499.12234,
+                        "maxY": 601.92688
+                    },
+                    "x": 228.84462,
+                    "y": 411.55103,
+                    "w": 270.27772000000004,
+                    "h": 190.37584999999996
+                }
+            }
+        }
+    },
+    {
+        "id": "cbd88ea2-3660-4b22-baae-777a367351ec",
+        "confidence": 0.2182,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 606.18585,
+                        "minY": 159.23531,
+                        "maxX": 712.09656,
+                        "maxY": 470.46078
+                    },
+                    "x": 606.18585,
+                    "y": 159.23531,
+                    "w": 105.91071,
+                    "h": 311.22547
+                }
+            }
+        }
+    },
+    {
+        "id": "7270a9a3-df5b-4264-85a2-457dc6ad42f3",
+        "confidence": 0.21202,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 63.86831,
+                        "minY": 552.58002,
+                        "maxX": 148.16704,
+                        "maxY": 580.60815
+                    },
+                    "x": 63.86831,
+                    "y": 552.58002,
+                    "w": 84.29872999999998,
+                    "h": 28.028130000000033
+                }
+            }
+        }
+    },
+    {
+        "id": "ceea6aa1-2db9-4f83-9d18-a6aaa375bb84",
+        "confidence": 0.20759,
+        "class": "vase",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1069.26416,
+                        "minY": 292.50757,
+                        "maxX": 1113.72778,
+                        "maxY": 375.77689
+                    },
+                    "x": 1069.26416,
+                    "y": 292.50757,
+                    "w": 44.46361999999999,
+                    "h": 83.26932
+                }
+            }
+        }
+    },
+    {
+        "id": "c285f93e-43a8-42c1-a847-63d214f83ce7",
+        "confidence": 0.20528,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 65.30537,
+                        "minY": 539.71051,
+                        "maxX": 233.35918,
+                        "maxY": 574.82928
+                    },
+                    "x": 65.30537,
+                    "y": 539.71051,
+                    "w": 168.05381,
+                    "h": 35.11877000000004
+                }
+            }
+        }
+    }
+]

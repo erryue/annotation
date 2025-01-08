@@ -1,0 +1,154 @@
+[
+    {
+        "sentence": "The image depicts a group of six young adults casually interacting in a relaxed setting.",
+        "sentence_cn": "图片描绘的是六个年轻人在轻松的环境中随意互动的场景。",
+        "words": [
+            "group",
+            "six",
+            "adults"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are gathered around a beige couch:",
+        "sentence_cn": "他们聚集在一张米色沙发周围：",
+        "words": [
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Left Side:** A man in a light pink shirt and dark striped pants is sitting on the edge of the couch, gesturing animatedly as he talks.",
+        "sentence_cn": "1. **左侧**：一位身穿浅粉色衬衫和深色条纹裤的男子坐在沙发边上，一边说话一边生动地做着手势。",
+        "words": [
+            "Left Side:",
+            "Side",
+            "man",
+            "shirt",
+            "pants",
+            "edge",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He seems to be engaged in conversation with the others.",
+        "sentence_cn": "他似乎正在和其他人交谈。",
+        "words": [
+            "conversation",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Middle Left:** A woman standing behind the couch has dark hair and is wearing a light-colored blouse.",
+        "sentence_cn": "2. **中左**：站在沙发后面的一位女士有着黑色的头发，身穿浅色衬衫。",
+        "words": [
+            "Middle Left:",
+            "woman",
+            "couch",
+            "hair",
+            "blouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is smiling and has her arms crossed, observing the scene with interest.",
+        "sentence_cn": "她面带微笑，双手交叉，饶有兴趣地观察着这一幕。",
+        "words": [
+            "arms",
+            "scene",
+            "interest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Center:** A man in a black suit with a white shirt sits on the armrest of the couch, leaning forward slightly to engage with the group.",
+        "sentence_cn": "3. **中间**：一名身穿黑色西装和白色衬衫的男子坐在沙发扶手上，身体微微前倾，与人群交谈。",
+        "words": [
+            "Center:",
+            "Center",
+            "man",
+            "suit",
+            "shirt",
+            "armrest",
+            "couch",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "His expression is attentive and interested.",
+        "sentence_cn": "他的表情专注而感兴趣。",
+        "words": [
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Middle Right:** A man standing in a blue button-up shirt, with his hands casually resting in his pockets, is leaning forward slightly, listening attentively to the conversation.",
+        "sentence_cn": "4. **中右**：一名身穿蓝色纽扣衬衫的男子，双手随意地插在口袋里，身体微微前倾，专心聆听谈话。",
+        "words": [
+            "Middle Right:",
+            "Right",
+            "man",
+            "shirt",
+            "hands",
+            "pockets",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. **Right Side:** A man dressed in a dark suit and white shirt is seated on the couch.",
+        "sentence_cn": "5. **右侧**：一名身穿深色西装和白色衬衫的男子坐在沙发上。",
+        "words": [
+            "Right Side:",
+            "Side",
+            "man",
+            "suit",
+            "shirt",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "His gaze is directed towards the woman next to him, and he seems to be enjoying the interaction.",
+        "sentence_cn": "他的目光望向身边的女人，似乎很享受这种互动。",
+        "words": [
+            "gaze",
+            "woman",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. **Seated Woman:** Sitting on the couch, she is dressed in a black top and pants, smiling and resting her head on her hand while engaging with the others in the conversation.",
+        "sentence_cn": "6. **坐着的女人**：她坐在沙发上，身穿黑色上衣和裤子，面带微笑，将头靠在手上，与其他人交谈。",
+        "words": [
+            "Seated Woman:",
+            "Woman",
+            "couch",
+            "top",
+            "pants",
+            "head",
+            "hand",
+            "others",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ambiance of the picture is informal and friendly, suggesting a relaxed gathering or meeting among colleagues or friends.",
+        "sentence_cn": "图片的氛围是非正式的和友好的，暗示着同事或朋友之间轻松的聚会或会面。",
+        "words": [
+            "ambiance",
+            "picture",
+            "gathering",
+            "meeting",
+            "colleagues",
+            "friends"
+        ],
+        "id": null
+    }
+]

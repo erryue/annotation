@@ -1,0 +1,332 @@
+[
+    {
+        "id": "ab5a01c8-cb39-4f87-9c8a-6c3439895bee",
+        "confidence": 0.9039,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 514.33807,
+                        "minY": 153.79126,
+                        "maxX": 858.26709,
+                        "maxY": 740.98438
+                    },
+                    "x": 514.33807,
+                    "y": 153.79126,
+                    "w": 343.92902000000004,
+                    "h": 587.19312
+                }
+            }
+        }
+    },
+    {
+        "id": "33699ae9-b9e6-4a1b-b89e-3a320efaa19d",
+        "confidence": 0.89224,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 970.02393,
+                        "minY": 210.81967,
+                        "maxX": 1437.42419,
+                        "maxY": 1078.94629
+                    },
+                    "x": 970.02393,
+                    "y": 210.81967,
+                    "w": 467.40026,
+                    "h": 868.1266200000001
+                }
+            }
+        }
+    },
+    {
+        "id": "913fe234-e782-4753-9e21-dad7ae1a0909",
+        "confidence": 0.82607,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 655.21014,
+                        "minY": 0.719,
+                        "maxX": 890.80286,
+                        "maxY": 418.5842
+                    },
+                    "x": 655.21014,
+                    "y": 0.719,
+                    "w": 235.59271999999999,
+                    "h": 417.8652
+                }
+            }
+        }
+    },
+    {
+        "id": "909e861e-c403-47af-994c-311969fca9eb",
+        "confidence": 0.81107,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 56.97389,
+                        "minY": 577.42865,
+                        "maxX": 650.4552,
+                        "maxY": 1078.41443
+                    },
+                    "x": 56.97389,
+                    "y": 577.42865,
+                    "w": 593.48131,
+                    "h": 500.9857800000001
+                }
+            }
+        }
+    },
+    {
+        "id": "3c96985c-5302-4773-b5b4-304cdd94e465",
+        "confidence": 0.63092,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 162.4693,
+                        "minY": 341.06027,
+                        "maxX": 640.4707,
+                        "maxY": 975.0365
+                    },
+                    "x": 162.4693,
+                    "y": 341.06027,
+                    "w": 478.0014,
+                    "h": 633.97623
+                }
+            }
+        }
+    },
+    {
+        "id": "17ecdd41-8f93-4fc5-93bc-2e69c38ac092",
+        "confidence": 0.62172,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1327.49402,
+                        "minY": 260.65924,
+                        "maxX": 1433.36218,
+                        "maxY": 461.94968
+                    },
+                    "x": 1327.49402,
+                    "y": 260.65924,
+                    "w": 105.86815999999999,
+                    "h": 201.29044
+                }
+            }
+        }
+    },
+    {
+        "id": "6393e0c8-5d2d-4ab4-8edf-6fe9112a49c4",
+        "confidence": 0.60365,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1332.01929,
+                        "minY": 1.23716,
+                        "maxX": 1438.53137,
+                        "maxY": 352.89484
+                    },
+                    "x": 1332.01929,
+                    "y": 1.23716,
+                    "w": 106.51207999999997,
+                    "h": 351.65767999999997
+                }
+            }
+        }
+    },
+    {
+        "id": "8ebeb363-c254-4ee7-8c29-3747bc0c90d0",
+        "confidence": 0.5636,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1242.25439,
+                        "minY": 0.0,
+                        "maxX": 1346.02588,
+                        "maxY": 301.40207
+                    },
+                    "x": 1242.25439,
+                    "y": 0.0,
+                    "w": 103.77148999999986,
+                    "h": 301.40207
+                }
+            }
+        }
+    },
+    {
+        "id": "43c52729-5348-47e8-9df6-fad06eab2f04",
+        "confidence": 0.46841,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 848.85767,
+                        "minY": 223.65736,
+                        "maxX": 1167.10706,
+                        "maxY": 725.91144
+                    },
+                    "x": 848.85767,
+                    "y": 223.65736,
+                    "w": 318.24939000000006,
+                    "h": 502.25407999999993
+                }
+            }
+        }
+    },
+    {
+        "id": "2a620cfe-9add-42c4-9c7f-652a03d01a43",
+        "confidence": 0.44525,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1156.83325,
+                        "minY": 179.48369,
+                        "maxX": 1314.0531,
+                        "maxY": 311.19974
+                    },
+                    "x": 1156.83325,
+                    "y": 179.48369,
+                    "w": 157.21985000000018,
+                    "h": 131.71605000000002
+                }
+            }
+        }
+    },
+    {
+        "id": "bb84323c-2d4b-4a2b-8031-b3d221ec220b",
+        "confidence": 0.38977,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.21992,
+                        "minY": 279.35916,
+                        "maxX": 149.70657,
+                        "maxY": 686.68066
+                    },
+                    "x": 0.21992,
+                    "y": 279.35916,
+                    "w": 149.48665,
+                    "h": 407.3215
+                }
+            }
+        }
+    },
+    {
+        "id": "487b9c24-86c6-42dd-ac4a-d308088fd76c",
+        "confidence": 0.27043,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 520.4176,
+                        "minY": 63.38037,
+                        "maxX": 658.96661,
+                        "maxY": 282.73233
+                    },
+                    "x": 520.4176,
+                    "y": 63.38037,
+                    "w": 138.54900999999995,
+                    "h": 219.35196
+                }
+            }
+        }
+    },
+    {
+        "id": "481f455c-d5b3-4936-af20-16a007a1bbfa",
+        "confidence": 0.22622,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1037.34631,
+                        "minY": 49.98696,
+                        "maxX": 1161.21033,
+                        "maxY": 225.1095
+                    },
+                    "x": 1037.34631,
+                    "y": 49.98696,
+                    "w": 123.86402000000021,
+                    "h": 175.12254
+                }
+            }
+        }
+    },
+    {
+        "id": "1fee6ea1-2b1e-4d2d-93e8-32d235ce4f5f",
+        "confidence": 0.2261,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 848.28632,
+                        "minY": 122.40824,
+                        "maxX": 995.26147,
+                        "maxY": 273.02359
+                    },
+                    "x": 848.28632,
+                    "y": 122.40824,
+                    "w": 146.97514999999999,
+                    "h": 150.61535
+                }
+            }
+        }
+    },
+    {
+        "id": "80598a34-ebd2-4027-a433-33edd01160e3",
+        "confidence": 0.22383,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 727.68933,
+                        "minY": 6.00576,
+                        "maxX": 892.38995,
+                        "maxY": 410.74155
+                    },
+                    "x": 727.68933,
+                    "y": 6.00576,
+                    "w": 164.70061999999996,
+                    "h": 404.73579
+                }
+            }
+        }
+    }
+]

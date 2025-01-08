@@ -1,0 +1,200 @@
+[
+    {
+        "id": "0bf23d67-fd12-4a93-adca-2b4099f08fe3",
+        "confidence": 0.71547,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 91.01724,
+                        "minY": 367.78519,
+                        "maxX": 297.3526,
+                        "maxY": 648.12634
+                    },
+                    "x": 91.01724,
+                    "y": 367.78519,
+                    "w": 206.33535999999998,
+                    "h": 280.34115
+                }
+            }
+        }
+    },
+    {
+        "id": "739bf845-7667-4acc-9fab-da3163b64e12",
+        "confidence": 0.64251,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 74.14163,
+                        "minY": 1108.55127,
+                        "maxX": 315.8447,
+                        "maxY": 1234.28357
+                    },
+                    "x": 74.14163,
+                    "y": 1108.55127,
+                    "w": 241.70306999999997,
+                    "h": 125.73230000000012
+                }
+            }
+        }
+    },
+    {
+        "id": "2540ca28-1b39-4214-bf18-8d45c98d5952",
+        "confidence": 0.39327,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 427.31552,
+                        "minY": 1053.70532,
+                        "maxX": 644.99475,
+                        "maxY": 1319.2489
+                    },
+                    "x": 427.31552,
+                    "y": 1053.70532,
+                    "w": 217.67922999999996,
+                    "h": 265.54358
+                }
+            }
+        }
+    },
+    {
+        "id": "73c1e7f5-f2e9-4743-97ce-a343a6e5f8ef",
+        "confidence": 0.39077,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 778.93762,
+                        "minY": 1398.76904,
+                        "maxX": 1011.5365,
+                        "maxY": 1655.47778
+                    },
+                    "x": 778.93762,
+                    "y": 1398.76904,
+                    "w": 232.59888,
+                    "h": 256.70874000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "1729dcf1-f187-40c2-8580-833125d01cac",
+        "confidence": 0.36716,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 462.3808,
+                        "minY": 374.90515,
+                        "maxX": 607.00354,
+                        "maxY": 639.7486
+                    },
+                    "x": 462.3808,
+                    "y": 374.90515,
+                    "w": 144.62274000000002,
+                    "h": 264.84345
+                }
+            }
+        }
+    },
+    {
+        "id": "23272511-0809-43cf-99fa-32e774a832e6",
+        "confidence": 0.30481,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 767.17401,
+                        "minY": 1053.01111,
+                        "maxX": 945.5473,
+                        "maxY": 1321.53894
+                    },
+                    "x": 767.17401,
+                    "y": 1053.01111,
+                    "w": 178.37329,
+                    "h": 268.52783
+                }
+            }
+        }
+    },
+    {
+        "id": "d0311c83-b1e5-40b9-9ea9-479f9281343f",
+        "confidence": 0.30144,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 112.53981,
+                        "minY": 1389.48975,
+                        "maxX": 272.36096,
+                        "maxY": 1661.31348
+                    },
+                    "x": 112.53981,
+                    "y": 1389.48975,
+                    "w": 159.82115,
+                    "h": 271.82373000000007
+                }
+            }
+        }
+    },
+    {
+        "id": "f5fd9fdf-db19-477a-9759-45a8ba7c29f4",
+        "confidence": 0.28581,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 768.47467,
+                        "minY": 737.02667,
+                        "maxX": 898.64471,
+                        "maxY": 940.21185
+                    },
+                    "x": 768.47467,
+                    "y": 737.02667,
+                    "w": 130.17004000000009,
+                    "h": 203.18518000000006
+                }
+            }
+        }
+    },
+    {
+        "id": "5bfaed14-8ebe-4997-a60b-38537de0aec4",
+        "confidence": 0.2238,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 863.56421,
+                        "minY": 710.9212,
+                        "maxX": 996.32776,
+                        "maxY": 937.88965
+                    },
+                    "x": 863.56421,
+                    "y": 710.9212,
+                    "w": 132.76355,
+                    "h": 226.96844999999996
+                }
+            }
+        }
+    }
+]

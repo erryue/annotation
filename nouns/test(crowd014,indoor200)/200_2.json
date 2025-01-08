@@ -1,0 +1,133 @@
+[
+    {
+        "sentence": "The image depicts a warm and inviting living-dining area with a cozy, eclectic style.",
+        "sentence_cn": "该图描绘了一个温暖而温馨的起居和用餐区，具有舒适和折衷的风格。",
+        "words": [
+            "area",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is painted in a soft, orange hue that adds warmth to the space.",
+        "sentence_cn": "房间漆成柔和的橙色，给空间增添了温暖。",
+        "words": [
+            "room",
+            "hue",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a woven armchair accompanied by a small black side table.",
+        "sentence_cn": "前景中，有一把编织扶手椅，旁边还有一张黑色的小边桌。",
+        "words": [
+            "foreground",
+            "armchair",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A stack of books and a decorative bowl are placed on it.",
+        "sentence_cn": "上面放着一堆书和一个装饰碗。",
+        "words": [
+            "stack",
+            "books",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A glass-top dining table with rattan chairs is in the middle of the room.",
+        "sentence_cn": "房间中央有一张玻璃面餐桌，配有藤椅。",
+        "words": [
+            "glass",
+            "top",
+            "dining",
+            "table",
+            "chairs",
+            "middle",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A pendant lamp hangs above the table, providing focused lighting.",
+        "sentence_cn": "吊灯悬挂在桌子上方，提供集中照明。",
+        "words": [
+            "pendant",
+            "lamp",
+            "table",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background reveals a living area with a purple sofa accented by various throw pillows.",
+        "sentence_cn": "背景是起居区，里面有一张紫色的沙发，上面摆放着各种抱枕。",
+        "words": [
+            "background",
+            "area",
+            "sofa",
+            "throw",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Floor lamps and wall sconces provide ambient lighting, and sheer curtains allow natural light to filter through the windows.",
+        "sentence_cn": "落地灯和壁灯提供环境照明，薄纱窗帘让自然光透过窗户透进来。",
+        "words": [
+            "Floor",
+            "lamps",
+            "wall",
+            "sconces",
+            "lighting",
+            "curtains",
+            "light",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small coffee table holds a cactus plant, adding a touch of greenery.",
+        "sentence_cn": "一张小咖啡桌上摆放着一株仙人掌植物，增添了一丝绿意。",
+        "words": [
+            "coffee",
+            "table",
+            "cactus",
+            "plant",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wooden flooring enhances the overall warmth of the space, and the open layout gives a sense of connectedness between different areas.",
+        "sentence_cn": "木地板增强了空间整体的温暖感，开放式的布局让不同区域之间产生了一种连通感。",
+        "words": [
+            "flooring",
+            "warmth",
+            "space",
+            "layout",
+            "sense",
+            "connectedness",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The decor includes modern and vintage elements, such as the wicker furniture and contemporary light fixtures.",
+        "sentence_cn": "装饰融合了现代和复古元素，例如柳条家具和现代灯具。",
+        "words": [
+            "decor",
+            "elements",
+            "wicker",
+            "furniture",
+            "fixtures"
+        ],
+        "id": null
+    }
+]

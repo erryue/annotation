@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image shows a group of six people casually interacting in what appears to be a relaxed, social setting.",
+        "sentence_cn": "照片中六个人正在一个看似轻松的社交环境中随意互动。",
+        "words": [
+            "group",
+            "six",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are gathered around a beige sofa.",
+        "sentence_cn": "他们聚集在一张米色沙发周围。",
+        "words": [
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, a man in a light pink shirt and dark striped pants is sitting on the sofa, gesturing with his hand as if speaking or making a point.",
+        "sentence_cn": "- 左边，一名身穿浅粉色衬衫和深色条纹裤的男子坐在沙发上，用手做着手势，仿佛在说话或阐明观点。",
+        "words": [
+            "left",
+            "man",
+            "shirt",
+            "pants",
+            "sofa",
+            "hand",
+            "point"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to him, a man in a dark suit with a white shirt is sitting on the arm of the sofa, leaning slightly forward and listening intently.",
+        "sentence_cn": "- 他旁边，一名穿着深色西装，内衬白色衬衫的男子正坐在沙发扶手上，身体微微前倾，全神贯注地听着。",
+        "words": [
+            "man",
+            "suit",
+            "shirt",
+            "arm",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Behind them, a woman in a light yellow shirt and brown pants is standing with her arms crossed, smiling.",
+        "sentence_cn": "- 他们身后，一位身穿浅黄色衬衣和棕色裤子的女子交叉双臂，面带微笑。",
+        "words": [
+            "woman",
+            "shirt",
+            "pants",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- To her right, a man in a dark long-sleeve shirt and trousers is standing, watching the conversation with a small smile.",
+        "sentence_cn": "- 在她的右边，站着一位身穿深色长袖衬衫和长裤的男子，微笑着看着他们的谈话。",
+        "words": [
+            "right",
+            "man",
+            "sleeve",
+            "shirt",
+            "trousers",
+            "conversation",
+            "smile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right side of the sofa, a woman wearing a black outfit is seated, resting her arm on the back of the couch and smiling broadly.",
+        "sentence_cn": "- 沙发右侧坐着一名身着黑色套装的女子，将手臂搁在沙发背上，笑容灿烂。",
+        "words": [
+            "sofa",
+            "woman",
+            "outfit",
+            "arm",
+            "back",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Near her, a man in a darker suit with a white shirt is sitting on the arm of the couch, appearing engaged and smiling.",
+        "sentence_cn": "- 在她旁边，一位身穿深色西装和白衬衫的男士坐在沙发扶手上，看上去很专注，面带微笑。",
+        "words": [
+            "man",
+            "suit",
+            "shirt",
+            "arm",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting suggests a friendly, informal meeting or discussion among colleagues or friends.",
+        "sentence_cn": "这种场景暗示着同事或朋友之间进行友好、非正式的会面或讨论。",
+        "words": [
+            "meeting",
+            "discussion",
+            "colleagues",
+            "friends"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood is relaxed and amiable.",
+        "sentence_cn": "整体氛围轻松、亲切。",
+        "words": [
+            "mood"
+        ],
+        "id": null
+    }
+]

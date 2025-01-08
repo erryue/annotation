@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "The image shows a warm and inviting living and dining area with an open layout.",
+        "sentence_cn": "图片展示了一个布局开放、温暖而温馨的起居和用餐区。",
+        "words": [
+            "living",
+            "dining",
+            "area",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a rich, warm orange color, which adds a cozy feel to the room.",
+        "sentence_cn": "墙壁漆成了浓郁、温暖的橙色，给房间增添了舒适的感觉。",
+        "words": [
+            "walls",
+            "orange",
+            "color",
+            "feel",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a comfortable wicker armchair with a purple throw pillow, accompanied by a small black side table holding books.",
+        "sentence_cn": "前景中，有一把舒适的柳条扶手椅，上面放着一个紫色的抱枕，旁边还有一张放着书籍的黑色小边桌。",
+        "words": [
+            "foreground",
+            "wicker",
+            "armchair",
+            "throw",
+            "pillow",
+            "table",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it, there's a matching ottoman with a magazine on top.",
+        "sentence_cn": "旁边有一个配套的脚凳，上面放着一本杂志。",
+        "words": [
+            "ottoman",
+            "magazine",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small wooden stool nearby holds a potted cactus, adding a touch of greenery.",
+        "sentence_cn": "旁边的小木凳上放着一盆仙人掌，增添了一丝绿意。",
+        "words": [
+            "stool",
+            "cactus",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle of the room, a clear glass dining table with a black base is surrounded by wicker chairs, and a bowl of fruit sits on top of the table.",
+        "sentence_cn": "房间中央，一张黑色底座的透明玻璃餐桌，四周摆放着藤椅，桌子上放着一碗水果。",
+        "words": [
+            "middle",
+            "room",
+            "glass",
+            "dining",
+            "table",
+            "base",
+            "wicker",
+            "chairs",
+            "bowl",
+            "fruit",
+            "top",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above, a modern pendant light provides illumination.",
+        "sentence_cn": "上方，现代吊灯提供照明。",
+        "words": [
+            "pendant",
+            "light",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further back, there are two sitting areas visible, featuring sofas with plush cushions and decorative items like lamps and vases on side tables.",
+        "sentence_cn": "再往后看，可以看到两个休息区，沙发配有毛绒垫子，边桌上摆放着灯和花瓶等装饰品。",
+        "words": [
+            "two",
+            "sitting",
+            "areas",
+            "sofas",
+            "cushions",
+            "items",
+            "lamps",
+            "vases",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sheer curtains cover the windows, allowing natural light to filter in softly.",
+        "sentence_cn": "薄纱窗帘遮住窗户，让自然光柔和地透进来。",
+        "words": [
+            "curtains",
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The use of mixed materials like wicker, wood, and metal, along with the earthy color palette, creates a harmonious and stylish space.",
+        "sentence_cn": "柳条、木材和金属等混合材料的使用，加上泥土色调，创造出一个和谐而时尚的空间。",
+        "words": [
+            "use",
+            "materials",
+            "wicker",
+            "wood",
+            "metal",
+            "color",
+            "palette",
+            "space"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "sentence": "The image shows a group of six people casually interacting in an indoor setting.",
+        "sentence_cn": "图中显示的是六个人在室内随意互动的场景。",
+        "words": [
+            "group",
+            "six",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be engaged in conversation and laughter, suggesting a friendly and relaxed atmosphere.",
+        "sentence_cn": "他们似乎正在交谈和欢笑，显示出一种友好而轻松的氛围。",
+        "words": [
+            "conversation",
+            "laughter",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed breakdown:",
+        "sentence_cn": "以下是详细分析：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. **Seating Arrangement:**",
+        "sentence_cn": "1. **座位安排：**",
+        "words": [
+            "Seating Arrangement:",
+            "Seating",
+            "Arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Three individuals are seated on a beige sofa.",
+        "sentence_cn": "- 三个人坐在米色沙发上。",
+        "words": [
+            "Three",
+            "individuals",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One man on the left is gesturing with his hand and engaged in conversation.",
+        "sentence_cn": "左边的一名男子正挥手并进行交谈。",
+        "words": [
+            "One",
+            "man",
+            "left",
+            "hand",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A woman is sitting at the center of the couch, leaning forward, and smiling.",
+        "sentence_cn": "一位女士坐在沙发中央，身体前倾，面带微笑。",
+        "words": [
+            "woman",
+            "center",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, another man in a dark suit is sitting, engaged in the conversation.",
+        "sentence_cn": "右边，坐着另一位身着深色西装的男子，正在交谈。",
+        "words": [
+            "right",
+            "man",
+            "suit",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Standing Individuals:**",
+        "sentence_cn": "2. **常设个人：**",
+        "words": [
+            "Standing Individuals:",
+            "Standing",
+            "Individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Behind the sofa, two men are standing.",
+        "sentence_cn": "- 沙发后面站着两个男人。",
+        "words": [
+            "sofa",
+            "two",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One is dressed in a black suit, leaning slightly forward, and listening attentively.",
+        "sentence_cn": "其中一人身着黑色西装，身体微微前倾，认真聆听。",
+        "words": [
+            "One",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other is in a blue shirt, hands in his pockets, also participating in the discussion.",
+        "sentence_cn": "另一人身穿蓝色衬衫，双手插在口袋中，也参与了讨论。",
+        "words": [
+            "shirt",
+            "hands",
+            "pockets",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the far left, a woman is standing with her arms crossed, slightly leaning, and smiling, observing the interaction.",
+        "sentence_cn": "- 最左边，一位女士站立着，双臂交叉，微微倾斜，面带微笑，观察着这场互动。",
+        "words": [
+            "left",
+            "woman",
+            "arms",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Attire:**",
+        "sentence_cn": "3. **服装：**",
+        "words": [
+            "Attire:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The individuals are dressed in smart-casual to business attire, with men wearing shirts and suits, and the woman on the couch wearing a black top and pants.",
+        "sentence_cn": "- 这些人的穿着从休闲装到商务装不等，男士穿着衬衫和西装，而沙发上的女士则穿着黑色上衣和裤子。",
+        "words": [
+            "individuals",
+            "business",
+            "attire",
+            "men",
+            "shirts",
+            "suits",
+            "woman",
+            "couch",
+            "top",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The standing woman is wearing a light-colored blouse and dark pants.",
+        "sentence_cn": "站立的女人穿着浅色上衣和深色裤子。",
+        "words": [
+            "woman",
+            "blouse",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Setting:**",
+        "sentence_cn": "4. **设置：**",
+        "words": [
+            "Setting:",
+            "Setting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The setting is minimalistic with a basic white background and a wooden floor, giving the focus to the people rather than the surroundings.",
+        "sentence_cn": "- 设置极简主义，采用基本的白色背景和木地板，重点在于人而不是周围环境。",
+        "words": [
+            "background",
+            "floor",
+            "focus",
+            "people",
+            "surroundings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image conveys a sense of camaraderie, typical of a casual meeting or a social gathering among colleagues or friends.",
+        "sentence_cn": "总体而言，这幅图像传达出一种友情的感觉，典型的如同事或朋友之间的偶然会面或社交聚会一样。",
+        "words": [
+            "sense",
+            "camaraderie",
+            "meeting",
+            "gathering",
+            "colleagues",
+            "friends"
+        ],
+        "id": null
+    }
+]

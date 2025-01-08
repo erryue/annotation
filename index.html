@@ -34,7 +34,8 @@
         border-radius: 5px;
       }
       .highlight {
-        background-color: yellow;
+        /* background-color: yellow; */
+        color: slateblue;
         font-weight: bold;
       }
       .cn-sentence {
@@ -44,7 +45,7 @@
       .id {
         margin-top: 5px;
         font-size: 0.9em;
-        color: #888;
+        color: tomato;
       }
     </style>
   </head>
@@ -53,7 +54,7 @@
     <div id="container">
       <!-- image -->
       <div id="image-container">
-        <img id="my-image" src="014.jpg" style="max-width: 100%; max-height: 100%;" />
+        <img id="my-image" src="./example_cropped/crowd/014.jpg" style="max-width: 100%; max-height: 100%;" />
       </div>
 
       <!-- text -->
@@ -70,7 +71,7 @@
         window.onload = function() {
           var anno = Annotorious.createImageAnnotator('my-image');
           // Load annotations from JSON files
-          anno.loadAnnotations('./014_labels.json');
+          anno.loadAnnotations('./labels/crowd/014_labels.json');
       
           // 监听选中注释
           anno.on('selectionChanged', (annotations) => {
@@ -97,74 +98,138 @@
       </script>
       
       <script>
-        // 动态加载 JSON 文件
-        fetch('014_1_nouns.json')
+        // 定义全局变量，用于存储从JSON加载的数据
+        let annotationsData = [];
+  
+        // 动态加载 nouns.JSON 文件
+        fetch('./nouns/test(crowd014,indoor200)/014_2.json')
           .then((response) => response.json())
           .then((jsonData) => {
-            const container = document.getElementById('sentences');
-      
-            jsonData.forEach((item) => {
-              const sentence = item.sentence;
-              const sentenceCN = item.sentence_CN;
-              const highlights = item.words;
-              const id = item.id;
-      
-              // 创建每个句子的容器
-              const sentenceDiv = document.createElement('div');
-              sentenceDiv.className = 'sentence-container';
-      
-              // 处理英文句子并高亮关键字
-              let formattedSentence = sentence;
-              highlights.forEach((word) => {
-                const regex = new RegExp(`\\b${word}\\b`, 'g');
-                formattedSentence = formattedSentence.replace(regex, `<span class="highlight">${word}</span>`);
-              });
-      
-              // 添加英文句子
-              sentenceDiv.innerHTML = `<p>${formattedSentence}</p>`;
-      
-              // 添加中文句子
-              if (sentenceCN) {
-                const cnParagraph = document.createElement('p');
-                cnParagraph.className = 'cn-sentence';
-                cnParagraph.textContent = sentenceCN;
-                sentenceDiv.appendChild(cnParagraph);
-              }
-      
-              // 添加按钮和ID
-              const button = document.createElement('button');
-              button.textContent = 'Action';
-              const idParagraph = document.createElement('p');
-              idParagraph.className = 'id';
-              idParagraph.textContent = `ID: ${id}`;
-      
-              sentenceDiv.appendChild(button);
-              sentenceDiv.appendChild(idParagraph);
-      
-              // 将句子容器添加到父容器
-              container.appendChild(sentenceDiv);
-      
-              // 添加按钮点击事件监听
-              sentenceDiv.addEventListener('click', function(event) {
-                // 判断是否点击了按钮
-                if (event.target.tagName === 'BUTTON') {
-                  // 处理按钮点击事件
-                  console.log('Button clicked for ID:', id);
-      
-                  // 如果选中了注释，更新 ID 显示
-                  if (selectedAnnotation) {
-                    idParagraph.textContent = `ID: ${selectedAnnotation.id} (Updated on button click)`;
-                  } else {
-                    // 如果没有选中注释，则显示原来的 ID
-                    idParagraph.textContent = `ID: ${id} (No annotation selected)`;
-                  }
-                }
-              });
-            });
+            annotationsData = jsonData; // 将数据存储到 annotationsData
+  
+            // 渲染句子到页面
+            renderSentences();
           })
           .catch((error) => {
             console.error('Error loading JSON file:', error);
           });
+  
+        // 渲染句子
+        function renderSentences() {
+          const container = document.getElementById('sentences');
+          container.innerHTML = ''; // 清空现有内容
+  
+          annotationsData.forEach((item, index) => {
+            const sentenceDiv = document.createElement('div');
+            sentenceDiv.className = 'sentence-container';
+  
+            // 处理英文句子并高亮关键字
+            if (item.words.length > 0) {
+              let formattedSentence = item.sentence;
+              item.words.forEach((word) => {
+                const regex = new RegExp(`\\b${word}\\b`, 'g');
+                formattedSentence = formattedSentence.replace(
+                  regex,
+                  `<span class="highlight">${word}</span>`
+                );
+              });
+            
+    
+              sentenceDiv.innerHTML = `<p>${formattedSentence}</p>`;
+    
+              // 添加中文句子
+              if (item.sentence_cn) {
+                const cnParagraph = document.createElement('p');
+                cnParagraph.className = 'cn-sentence';
+                cnParagraph.textContent = item.sentence_cn;
+                sentenceDiv.appendChild(cnParagraph);
+              }
+    
+              // 添加按钮和 ID
+              const button = document.createElement('button');
+              button.textContent = 'Update ID';
+              button.setAttribute('data-index', index); // 为按钮设置自定义数据属性（索引）
+    
+              const idParagraph = document.createElement('p');
+              idParagraph.className = 'id';
+              idParagraph.textContent = `ID: ${item.id}`;
+    
+              sentenceDiv.appendChild(button);
+              sentenceDiv.appendChild(idParagraph);
+    
+              // 监听按钮点击事件
+              button.addEventListener('click', (event) => {
+                const index = event.target.getAttribute('data-index'); // 获取点击按钮的索引
+                const item = annotationsData[index]; // 获取当前项
+
+                if (event.target.tagName === 'BUTTON') {
+                  // 处理按钮点击事件
+                  console.log('Button clicked for ID:', item.id);  // 使用 item.id，而不是 id
+
+                  // 如果选中了注释，更新 ID 显示
+                  if (selectedAnnotation) {
+                    idParagraph.textContent = `ID: ${selectedAnnotation.id}`;
+                    idParagraph.style.color = 'grey';
+                    annotationsData[index].id = selectedAnnotation.id;  // 更新数据
+                    console.log('Updated annotationsData:', annotationsData);
+                  } else {
+                    // 如果没有选中注释，则显示原来的 ID
+                    idParagraph.textContent = `ID: ${item.id} (Please select an annotation.)`;
+                  }
+                }
+              });
+    
+              // 将句子容器添加到页面
+              container.appendChild(sentenceDiv);
+            }
+          });
+        }
+
+
+        // 创建下载按钮
+      function createDownloadButton() {
+        const button = document.createElement('button');
+        button.textContent = 'Download Updated Data';
+        button.style.margin = '10px';
+        button.style.padding = '10px 20px';
+        button.style.backgroundColor = '#007bff';
+        button.style.color = 'white';
+        button.style.border = 'none';
+        button.style.borderRadius = '5px';
+        button.style.cursor = 'pointer';
+
+        // 添加点击事件
+        button.addEventListener('click', () => {
+          downloadJSON(annotationsData, 'updated_annotations.json');
+        });
+
+        // 将按钮添加到页面
+        document.body.appendChild(button);
+      }
+
+      // 创建下载功能
+      function downloadJSON(data, filename) {
+        // 将数据转换为 JSON 字符串
+        const jsonString = JSON.stringify(data, null, 2);
+
+        // 创建 Blob 对象
+        const blob = new Blob([jsonString], { type: 'application/json' });
+
+        // 创建下载链接
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = filename;
+
+        // 模拟点击链接进行下载
+        link.click();
+
+        // 释放 URL 对象
+        URL.revokeObjectURL(link.href);
+      }
+
+      // 初始化页面后调用
+      createDownloadButton();
+  
       </script>
       
   </body>

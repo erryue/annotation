@@ -1,0 +1,46 @@
+[
+    {
+        "id": "d45fdfc4-780d-424e-809f-35398cc51925",
+        "confidence": 0.34933,
+        "class": "backpack",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 70.22829,
+                        "minY": 353.5141,
+                        "maxX": 201.44301,
+                        "maxY": 532.03253
+                    },
+                    "x": 70.22829,
+                    "y": 353.5141,
+                    "w": 131.21472,
+                    "h": 178.51842999999997
+                }
+            }
+        }
+    },
+    {
+        "id": "10cef554-56f2-47a1-bfa2-92c35b491e64",
+        "confidence": 0.29608,
+        "class": "handbag",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 69.77774,
+                        "minY": 353.29187,
+                        "maxX": 201.69749,
+                        "maxY": 532.28705
+                    },
+                    "x": 69.77774,
+                    "y": 353.29187,
+                    "w": 131.91975,
+                    "h": 178.99518
+                }
+            }
+        }
+    }
+]

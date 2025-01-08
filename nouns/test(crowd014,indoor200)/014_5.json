@@ -1,0 +1,129 @@
+[
+    {
+        "sentence": "The image shows a group of six people in a relaxed setting, possibly a casual business meeting or a social gathering.",
+        "sentence_cn": "照片中是六人处在轻松的环境中，可能是一次休闲的商务会议或社交聚会。",
+        "words": [
+            "group",
+            "six",
+            "people",
+            "business",
+            "meeting",
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are seated and standing around a beige sofa.",
+        "sentence_cn": "他们围坐在一张米色沙发旁或站着。",
+        "words": [
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. On the left, a man with long hair, wearing a pink shirt and striped pants, is gesturing animatedly with his hand while talking to others.",
+        "sentence_cn": "1. 左边是一位长发男子，身穿粉色衬衣和条纹裤，一边和别人说话，一边生动地挥动着手。",
+        "words": [
+            "left",
+            "man",
+            "hair",
+            "shirt",
+            "pants",
+            "hand",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2.",
+        "sentence_cn": "2.",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Next to him, a man in a black suit, sitting on the back of the sofa, is listening attentively.",
+        "sentence_cn": "而他的旁边，一名穿着黑色西装的男人，坐在沙发靠背上，正聚精会神地听着。",
+        "words": [
+            "man",
+            "suit",
+            "back",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. In the middle, a woman with dark hair, wearing a light-colored blouse and brown pants, is standing with her arms crossed and smiling.",
+        "sentence_cn": "3. 中间一位黑发女子，身穿浅色上衣和棕色裤子，交叉双臂站着，面带微笑。",
+        "words": [
+            "middle",
+            "woman",
+            "hair",
+            "blouse",
+            "pants",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. To her right, a man in a dark blue shirt with rolled-up sleeves stands casually with his hands in his pockets.",
+        "sentence_cn": "4. 在她的右边，一名身穿深蓝色衬衫、卷起袖子的男人随意地站着，双手插在口袋里。",
+        "words": [
+            "right",
+            "man",
+            "shirt",
+            "sleeves",
+            "hands",
+            "pockets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Another woman is seated on the sofa, wearing black attire, leaning forward with her elbow on her knee and smiling as she looks at the first man.",
+        "sentence_cn": "5. 另一名女子坐在沙发上，身着黑色服装，身体前倾，将手肘撑在膝盖上，微笑着看着第一位男子。",
+        "words": [
+            "woman",
+            "sofa",
+            "attire",
+            "elbow",
+            "knee",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. On the far right, a man in a dark suit is sitting on the arm of the sofa, looking relaxed with his hands resting on his knees.",
+        "sentence_cn": "6. 最右边，一名身着深色西装的男子坐在沙发扶手上，双手放在膝盖上，一脸放松的样子。",
+        "words": [
+            "right",
+            "man",
+            "suit",
+            "arm",
+            "sofa",
+            "hands",
+            "knees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is minimalistic with a white background and wooden floor, giving a modern and clean ambiance to the scene.",
+        "sentence_cn": "场景布置简约，白色背景和木地板，营造出现代而整洁的氛围。",
+        "words": [
+            "background",
+            "floor",
+            "ambiance",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group's body language suggests they are engaged and enjoying the conversation.",
+        "sentence_cn": "这群人的肢体语言表明他们很投入并且享受谈话。",
+        "words": [
+            "group",
+            "body",
+            "language",
+            "conversation"
+        ],
+        "id": null
+    }
+]
