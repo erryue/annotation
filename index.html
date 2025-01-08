@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+"C:\Users\Kailin\Desktop\LLMvision\codes\annotation"
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.css">
+    <script src="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.js"></script>
+    <style>
+      #my-image {
+        max-width: 100%;
+        height: auto;
+      }
+      #container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+      }
+      #image-container {
+        width: 40%;
+        height: auto;
+        margin-right: 20px;
+      }
+      #text-container {
+        width: 50%;
+        height: 90vh;
+        overflow-y: auto;
+        padding: 10px;
+        background-color: #f9f9f9;
+      }
+      .sentence-container {
+        border: 1px solid #ddd;
+        margin: 10px 0;
+        padding: 10px;
+        background-color: #fff;
+        border-radius: 5px;
+      }
+      .highlight {
+        background-color: yellow;
+        font-weight: bold;
+      }
+      .cn-sentence {
+        font-size: 0.9em;
+        color: #555;
+      }
+      .id {
+        margin-top: 5px;
+        font-size: 0.9em;
+        color: #888;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="container">
+      <!-- image -->
+      <div id="image-container">
+        <img id="my-image" src="014.jpg" style="max-width: 100%; max-height: 100%;" />
+      </div>
+
+      <!-- text -->
+      <div id="text-container">
+        <h3>Sentences</h3>
+        <div id="sentences"></div>
+      </div>
+    </div>
+
+    <script>
+        // 全局变量 selectedAnnotation
+        var selectedAnnotation = null;
+      
+        window.onload = function() {
+          var anno = Annotorious.createImageAnnotator('my-image');
+          // Load annotations from JSON files
+          anno.loadAnnotations('./014_annotation.json');
+      
+          // 监听选中注释
+          anno.on('selectionChanged', (annotations) => {
+            if (annotations.length > 0) {
+              const annotation = annotations[0]; // 假设只处理第一个选中的标注
+              console.log('Selected annotation: ' + annotation.id);
+              selectedAnnotation = annotation;  // 存储选中的注释
+            } else {
+              console.log('No annotation selected');
+              selectedAnnotation = null;  // 如果没有选中注释，设置为 null
+            }
+          });
+        }
+      </script>
+      
+      <script>
+        // 动态加载 JSON 文件
+        fetch('014_1_nouns.json')
+          .then((response) => response.json())
+          .then((jsonData) => {
+            const container = document.getElementById('sentences');
+      
+            jsonData.forEach((item) => {
+              const sentence = item.sentence;
+              const sentenceCN = item.sentence_CN;
+              const highlights = item.words;
+              const id = item.id;
+      
+              // 创建每个句子的容器
+              const sentenceDiv = document.createElement('div');
+              sentenceDiv.className = 'sentence-container';
+      
+              // 处理英文句子并高亮关键字
+              let formattedSentence = sentence;
+              highlights.forEach((word) => {
+                const regex = new RegExp(`\\b${word}\\b`, 'g');
+                formattedSentence = formattedSentence.replace(regex, `<span class="highlight">${word}</span>`);
+              });
+      
+              // 添加英文句子
+              sentenceDiv.innerHTML = `<p>${formattedSentence}</p>`;
+      
+              // 添加中文句子
+              if (sentenceCN) {
+                const cnParagraph = document.createElement('p');
+                cnParagraph.className = 'cn-sentence';
+                cnParagraph.textContent = sentenceCN;
+                sentenceDiv.appendChild(cnParagraph);
+              }
+      
+              // 添加按钮和ID
+              const button = document.createElement('button');
+              button.textContent = 'Action';
+              const idParagraph = document.createElement('p');
+              idParagraph.className = 'id';
+              idParagraph.textContent = `ID: ${id}`;
+      
+              sentenceDiv.appendChild(button);
+              sentenceDiv.appendChild(idParagraph);
+      
+              // 将句子容器添加到父容器
+              container.appendChild(sentenceDiv);
+      
+              // 添加按钮点击事件监听
+              sentenceDiv.addEventListener('click', function(event) {
+                // 判断是否点击了按钮
+                if (event.target.tagName === 'BUTTON') {
+                  // 处理按钮点击事件
+                  console.log('Button clicked for ID:', id);
+      
+                  // 如果选中了注释，更新 ID 显示
+                  if (selectedAnnotation) {
+                    idParagraph.textContent = `ID: ${selectedAnnotation.id} (Updated on button click)`;
+                  } else {
+                    // 如果没有选中注释，则显示原来的 ID
+                    idParagraph.textContent = `ID: ${id} (No annotation selected)`;
+                  }
+                }
+              });
+            });
+          })
+          .catch((error) => {
+            console.error('Error loading JSON file:', error);
+          });
+      </script>
+      
+  </body>
+</html>
