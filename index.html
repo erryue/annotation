@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-"C:\Users\Kailin\Desktop\LLMvision\codes\annotation"
 <html>
   <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@annotorious/annotorious@latest/dist/annotorious.css">
@@ -71,7 +70,7 @@
         window.onload = function() {
           var anno = Annotorious.createImageAnnotator('my-image');
           // Load annotations from JSON files
-          anno.loadAnnotations('./014_annotation.json');
+          anno.loadAnnotations('./014_labels.json');
       
           // 监听选中注释
           anno.on('selectionChanged', (annotations) => {
@@ -84,6 +83,16 @@
               selectedAnnotation = null;  // 如果没有选中注释，设置为 null
             }
           });
+
+          // 允许删除选中的注释
+          window.addEventListener('keydown', function(event) {
+            console.log("Selected Annotation:", selectedAnnotation); 
+            if (event.key === 'Backspace' && selectedAnnotation) {
+              anno.removeAnnotation(selectedAnnotation);
+              selectedAnnotation = null;
+            }
+          });
+
         }
       </script>
       
