@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Firm.\"",
+        "sentence_cn": "该图是《糖衣陷阱》的电影海报。",
+        "words": [
+            "The Firm.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a large, black-and-white close-up of a man's face looking intensely in the foreground.",
+        "sentence_cn": "这张照片的显著特征是一张巨大的黑白特写镜头，前景中一名男子的脸部表情专注。",
+        "words": [
+            "close",
+            "up",
+            "man",
+            "face",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting creates a stark contrast, highlighting the man's eyes and facial features.",
+        "sentence_cn": "灯光形成了鲜明的对比，凸显了男人的眼睛和面部特征。",
+        "words": [
+            "lighting",
+            "contrast",
+            "man",
+            "eyes",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a shadowy silhouette of a man in a suit and briefcase steps into a lighted doorway, creating a sense of mystery.",
+        "sentence_cn": "右边，一个穿着西装、拿着公文包的男人的影子走进一扇亮着灯的门口，营造出一种神秘感。",
+        "words": [
+            "right",
+            "silhouette",
+            "man",
+            "suit",
+            "briefcase",
+            "doorway",
+            "sense",
+            "mystery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the actor's name is displayed in large capital letters.",
+        "sentence_cn": "海报上方，以大写字母显示演员的名字。",
+        "words": [
+            "top",
+            "poster",
+            "actor",
+            "name",
+            "capital",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title, \"The Firm,\" is written in bold letters near the bottom, with a tagline beneath it that reads, \"Power can be murder to resist.\"",
+        "sentence_cn": "标题“公司”用粗体字写在页面底部附近，下方有一句标语：“反抗权力会导致谋杀。”",
+        "words": [
+            "The Firm,",
+            "Power can be murder to resist.",
+            "title",
+            "letters",
+            "bottom",
+            "tagline",
+            "Power",
+            "murder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional credits for the film are listed at the bottom.",
+        "sentence_cn": "影片的其他演职员名单列于底部。",
+        "words": [
+            "credits",
+            "film",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is dark and moody, enhancing the suspenseful atmosphere.",
+        "sentence_cn": "整体色调偏暗，忧郁，增强了悬疑氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

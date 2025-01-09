@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image is a promotional flyer divided into two sections, promoting Focus Brands' Family Franchise Growth Plan.",
+        "sentence_cn": "图片是一张分为两部分的宣传传单，用于宣传 Focus Brands 的家庭特许经营增长计划。",
+        "words": [
+            "flyer",
+            "two",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is a large teal-colored rectangle on the ground with the words \"ARE YOU APPEALING TO EVERYONE?\" written in bold white text.",
+        "sentence_cn": "左侧的地面上有一个巨大的蓝绿色矩形，上面用粗体白色文字写着“你对每个人都有吸引力吗？”。",
+        "words": [
+            "ARE YOU APPEALING TO EVERYONE?",
+            "left",
+            "teal",
+            "rectangle",
+            "ground",
+            "words",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around this area, there are people walking, and various thought bubbles above them contain images of pretzels and cinnamon rolls, representing Auntie Anneâs and Cinnabon.",
+        "sentence_cn": "在这个区域周围，有人在走动，他们上方有各种思维泡泡，里面有椒盐脆饼和肉桂卷的图像，代表着安妮阿姨和肉桂卷。",
+        "words": [
+            "area",
+            "people",
+            "thought",
+            "bubbles",
+            "images",
+            "pretzels",
+            "cinnamon",
+            "rolls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the flyer is a blue background with the heading \"MAKE MORE DOUGH\" in large text, featuring a pretzel shape within the letter \"O.\"",
+        "sentence_cn": "传单右侧的背景为蓝色背景，上面用大号字体写着“制作更多面团”，字母“O”内有一个椒盐卷饼的形状。",
+        "words": [
+            "MAKE MORE DOUGH",
+            "O.",
+            "flyer",
+            "background",
+            "heading",
+            "DOUGH",
+            "text",
+            "pretzel",
+            "shape",
+            "letter",
+            "O."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, the details of the Franchise Growth Plan are provided.",
+        "sentence_cn": "下面提供了特许经营增长计划的详细信息。",
+        "words": [
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plan offers benefits like a reduced franchise fee, expedited franchise partner application, and training.",
+        "sentence_cn": "该计划提供的福利包括降低特许经营费、加快特许经营合作伙伴申请和培训。",
+        "words": [
+            "plan",
+            "benefits",
+            "franchise",
+            "fee",
+            "franchise",
+            "partner",
+            "application",
+            "training"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To qualify, certain conditions must be met, such as being a current franchise partner in good standing and meeting brand standards.",
+        "sentence_cn": "要获得资格，必须满足某些条件，例如成为信誉良好的现有特许经营合作伙伴并符合品牌标准。",
+        "words": [
+            "conditions",
+            "franchise",
+            "partner",
+            "standing",
+            "brand",
+            "standards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flyer encourages interested individuals to contact representatives from Cinnabon and Auntie Anneâs for more information.",
+        "sentence_cn": "传单鼓励感兴趣的个人联系 Cinnabon 和 Auntie Anne’s 的代表以获取更多信息。",
+        "words": [
+            "flyer",
+            "individuals",
+            "representatives",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the logos for Auntie Anneâs and Cinnabon are displayed, with contact information for further inquiries and an invitation to explore other opportunities with Focus Brands.",
+        "sentence_cn": "底部显示了 Auntie Anne’s 和 Cinnabon 的徽标，以及进一步咨询的联系信息和与 Focus Brands 共同探索其他机会的邀请。",
+        "words": [
+            "bottom",
+            "logos",
+            "contact",
+            "information",
+            "inquiries",
+            "invitation",
+            "opportunities"
+        ],
+        "id": null
+    }
+]

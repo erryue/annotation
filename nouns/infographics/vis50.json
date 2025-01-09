@@ -1,0 +1,263 @@
+[
+    {
+        "sentence": "This infographic is titled \"A Guide to Patient Loyalty: Is your business office helping your business grow?\"",
+        "sentence_cn": "该信息图的标题为“患者忠诚度指南：您的商务办公室是否有助于您的业务增长？”",
+        "words": [
+            "A Guide to Patient Loyalty: Is your business office helping your business grow?",
+            "Guide",
+            "Loyalty",
+            "business",
+            "office",
+            "business"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It presents insights into how hospital billing satisfaction affects patient loyalty and behavior.",
+        "sentence_cn": "它深入探讨了医院账单满意度如何影响患者忠诚度和行为。",
+        "words": [
+            "insights",
+            "hospital",
+            "billing",
+            "satisfaction",
+            "patient",
+            "loyalty",
+            "behavior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Patient Satisfaction and Loyalty:**",
+        "sentence_cn": "1. **患者满意度和忠诚度：**",
+        "words": [
+            "Patient Satisfaction and Loyalty:",
+            "Satisfaction",
+            "Loyalty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Highly satisfied patients with hospital billing are twice as likely to return for non-emergent care as those less satisfied.",
+        "sentence_cn": "- 对医院账单高度满意的患者返回医院接受非紧急护理的可能性是满意度较低的患者的两倍。",
+        "words": [
+            "patients",
+            "hospital",
+            "billing",
+            "care"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Only 25% of patients gave billing a top score of 5.",
+        "sentence_cn": "- 仅有 25% 的患者给出的最高账单分数为 5 分。",
+        "words": [
+            "25",
+            "patients",
+            "billing",
+            "score",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Word of Mouth:**",
+        "sentence_cn": "2. **口碑：**",
+        "words": [
+            "Word of Mouth:",
+            "Word",
+            "Mouth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - One-third of patients said their billing experience directly influenced the likelihood of referring a friend.",
+        "sentence_cn": "- 三分之一的患者表示，他们的计费体验直接影响了推荐朋友的可能性。",
+        "words": [
+            "One",
+            "third",
+            "patients",
+            "billing",
+            "experience",
+            "likelihood",
+            "friend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Satisfaction Trends:**",
+        "sentence_cn": "3. **满意度趋势：**",
+        "words": [
+            "Satisfaction Trends:",
+            "Satisfaction",
+            "Trends"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Over the past three years (2010-2012), the percentage of patients fully satisfied with billing slightly increased from 20% (2010) to 25% (2012).",
+        "sentence_cn": "- 在过去三年（2010-2012 年）中，对账单完全满意的患者比例从 20%（2010 年）略微上升至 25%（2012 年）。",
+        "words": [
+            "three",
+            "years",
+            "2010",
+            "2012",
+            "percentage",
+            "patients",
+            "billing",
+            "20",
+            "2010",
+            "25",
+            "%",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Health Implications:**",
+        "sentence_cn": "4. **健康影响：**",
+        "words": [
+            "Health Implications:",
+            "Health",
+            "Implications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Patients dissatisfied with billing are more than twice as likely to be in fair or poor health.",
+        "sentence_cn": "- 对账单不满意的患者健康状况一般或较差的可能性是其他人的两倍多。",
+        "words": [
+            "Patients",
+            "billing",
+            "health"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. **Hospital Return Likelihood:**",
+        "sentence_cn": "5. **返回医院的可能性：**",
+        "words": [
+            "Hospital Return Likelihood:",
+            "Hospital",
+            "Return",
+            "Likelihood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 100% of consumers completely satisfied with billing said they would likely return to the same hospital for future elective services.",
+        "sentence_cn": "- 100% 对账单完全满意的消费者表示他们很可能会在未来回到同一家医院接受选择性服务。",
+        "words": [
+            "100",
+            "consumers",
+            "billing",
+            "hospital",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 64% of very dissatisfied consumers said they would not return.",
+        "sentence_cn": "- 64％的非常不满意的消费者表示他们不会再光顾。",
+        "words": [
+            "64",
+            "consumers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. **Bill Payment Habits:**",
+        "sentence_cn": "6. **账单支付习惯：**",
+        "words": [
+            "Bill Payment Habits:",
+            "Bill",
+            "Payment",
+            "Habits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - For bills over $100, 79% of \"very satisfied\" respondents paid in full, while only 31% of those \"less than satisfied\" did the same.",
+        "sentence_cn": "- 对于 100 美元以上的账单，79% 的“非常满意”受访者全额付款，而只有 31% 的“不太满意”受访者全额付款。",
+        "words": [
+            "very satisfied",
+            "less than satisfied",
+            "bills",
+            "100",
+            "79",
+            "respondents",
+            "31",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. **Recommendations:**",
+        "sentence_cn": "7.**建议：**",
+        "words": [
+            "Recommendations:",
+            "Recommendations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 81% of consumers completely satisfied with billing would recommend the hospital to friends, whereas 64% of very dissatisfied consumers would not.",
+        "sentence_cn": "- 81% 对账单完全满意的消费者会向朋友推荐该医院，而 64% 的非常不满意的消费者则不会推荐该医院。",
+        "words": [
+            "81",
+            "consumers",
+            "billing",
+            "hospital",
+            "friends",
+            "64",
+            "%",
+            "consumers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. **Call to Action:**",
+        "sentence_cn": "8. **行动号召：**",
+        "words": [
+            "Call to Action:",
+            "Call",
+            "Action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The infographic encourages improving patient financial experiences with a reference to connance.com.",
+        "sentence_cn": "- 该信息图鼓励参考 connance.com 来改善患者的财务体验。",
+        "words": [
+            "experiences",
+            "reference"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic was presented by Connance and developed by Nowsourcing, using data from the Connance Consumer Impact Study in August 2012.",
+        "sentence_cn": "该信息图由康南斯 (Connance) 提供，并由 Nowsourcing 开发，使用了 2012 年 8 月康南斯消费者影响研究的数据。",
+        "words": [
+            "data",
+            "2012"
+        ],
+        "id": null
+    }
+]

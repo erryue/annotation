@@ -1,0 +1,156 @@
+[
+    {
+        "sentence": "The image shows a home office or workspace featuring retro technology.",
+        "sentence_cn": "图中展示了一个采用复古技术的家庭办公室或工作空间。",
+        "words": [
+            "home",
+            "office",
+            "workspace",
+            "technology"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has light-colored walls and is carpeted.",
+        "sentence_cn": "房间的墙壁是浅色的，铺着地毯。",
+        "words": [
+            "room",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's a wooden cabinet with a stack of objects on top, including what seems to be a printer and possibly some radio equipment.",
+        "sentence_cn": "左侧有一个木柜，上面堆放着一些物品，其中包括看似打印机的东西，也可能是一些无线电设备。",
+        "words": [
+            "cabinet",
+            "stack",
+            "objects",
+            "top",
+            "printer",
+            "radio",
+            "equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A rolled-up blue mat or sleeping bag is leaning against the cabinet.",
+        "sentence_cn": "一个卷起来的蓝色垫子或睡袋靠在柜子上。",
+        "words": [
+            "mat",
+            "sleeping",
+            "bag",
+            "cabinet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall above the cabinet, there are two framed maps and some certificates or plaques.",
+        "sentence_cn": "柜子上方的墙上挂着两幅相框的地图和一些证书或牌匾。",
+        "words": [
+            "wall",
+            "cabinet",
+            "two",
+            "maps",
+            "certificates",
+            "plaques"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main workspace has a large desk with drawers, spanning the length of the picture.",
+        "sentence_cn": "主工作区有一张带抽屉的大桌子，横跨整个画面的长度。",
+        "words": [
+            "workspace",
+            "desk",
+            "drawers",
+            "length",
+            "picture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On this desk are multiple pieces of electronic equipment:",
+        "sentence_cn": "这张桌子上有多件电子设备：",
+        "words": [
+            "desk",
+            "pieces",
+            "equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A vintage CRT monitor displaying a computer interface.",
+        "sentence_cn": "- 显示计算机界面的老式 CRT 显示器。",
+        "words": [
+            "vintage",
+            "CRT",
+            "monitor",
+            "computer",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Two tower computer cases flanking the monitor.",
+        "sentence_cn": "- 两个塔式计算机机箱位于显示器两侧。",
+        "words": [
+            "Two",
+            "tower",
+            "computer",
+            "cases",
+            "monitor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A keyboard and mouse are set up in front of the monitor.",
+        "sentence_cn": "- 显示器前面安装了键盘和鼠标。",
+        "words": [
+            "keyboard",
+            "mouse",
+            "front",
+            "monitor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional radio equipment and a microphone are placed near the monitor.",
+        "sentence_cn": "- 在监视器附近放置了额外的无线电设备和麦克风。",
+        "words": [
+            "radio",
+            "equipment",
+            "microphone",
+            "monitor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window behind the desk has closed mini-blinds, and a small stack of papers and books is present on the desk.",
+        "sentence_cn": "桌子后面的窗户装有关闭的百叶窗，桌子上放着一小叠纸张和书籍。",
+        "words": [
+            "window",
+            "desk",
+            "mini",
+            "-",
+            "blinds",
+            "stack",
+            "papers",
+            "books",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room has a dated feel, reminiscent of a 1990s or early 2000s office.",
+        "sentence_cn": "总体而言，房间给人一种过时的感觉，让人想起 20 世纪 90 年代或 21 世纪初的办公室。",
+        "words": [
+            "room",
+            "feel",
+            "1990s",
+            "2000s",
+            "office"
+        ],
+        "id": null
+    }
+]

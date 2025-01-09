@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LLM vision</title>
+</head>
+
+<body>
+  <div>
+    <h1>LLM vision</h1>
+    
+    <!-- 第一个选择框 -->
+    <label for="category-select">Choose a category:</label>
+    <select id="category-select">
+      <option value="crowd">crowd</option>
+      <option value="indoor">indoor</option>
+    </select>
+    
+    <!-- 第二个选择框 -->
+    <label for="image-select">Choose an image:</label>
+    <select id="image-select">
+      <!-- 默认没有选项 -->
+    </select>
+
+    <!-- 进入下一页面的按钮 -->
+    <button id="go-to-next-page">Enter</button>
+  </div>
+
+  <script>
+    const categorySelect = document.getElementById('category-select');
+    const imageSelect = document.getElementById('image-select');
+    const button = document.getElementById('go-to-next-page');
+
+    // 更新第二个选择框的选项
+    function updateImageOptions(category) {
+      // 清空现有选项
+      imageSelect.innerHTML = '';
+
+      let options = [];
+      if (category === 'crowd') {
+        options = ['014_1', '014_2', '014_3', '014_4', '014_5', '014_6', '014_7', '014_8'];
+      } else if (category === 'indoor') {
+        options = ['200_1', '200_2', '200_3', '200_4', '200_5', '200_6', '200_7', '200_8'];
+      }
+
+      // 动态添加选项
+      options.forEach(optionValue => {
+        const option = document.createElement('option');
+        option.value = optionValue;
+        option.textContent = `${category}/${optionValue}`;
+        imageSelect.appendChild(option);
+      });
+    }
+
+    // 初始化默认的选项
+    updateImageOptions(categorySelect.value);
+
+    // 监听类别选择框变化
+    categorySelect.addEventListener('change', (event) => {
+      updateImageOptions(event.target.value);
+    });
+
+    // 按钮点击事件
+    button.addEventListener('click', () => {
+      const selectedCategory = categorySelect.value;  // 获取选择的类别
+      const selectedImage = imageSelect.value;  // 获取选择的图片
+      // 构造 URL，并传递查询参数
+      const url = `anno.html?type=${selectedCategory}&name=${selectedImage}`;
+      window.location.href = url;  // 跳转到下一页面
+    });
+  </script>
+</body>
+</html>
+

@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image is an advertisement for Audi, focusing on their design and lighting technology.",
+        "sentence_cn": "图片是奥迪的广告，重点展示了其设计和照明技术。",
+        "words": [
+            "design",
+            "lighting",
+            "technology"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the image, there is a close-up of an Audi vehicle's headlight, showcasing its sleek and modern design with bright LED elements.",
+        "sentence_cn": "图片左侧是奥迪汽车前灯的特写，通过明亮的 LED 元素展示了其时尚现代的造型。",
+        "words": [
+            "close",
+            "up",
+            "vehicle",
+            "headlight",
+            "design",
+            "LED",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting appears vibrant and futuristic, highlighting the advanced technology used.",
+        "sentence_cn": "灯光显得充满活力和未来感，凸显了所使用的先进技术。",
+        "words": [
+            "lighting",
+            "technology"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the image includes:",
+        "sentence_cn": "图片上的文字包括：",
+        "words": [
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Audi design - The future of automotive form.\"",
+        "sentence_cn": "- “奥迪设计——汽车形态的未来。”",
+        "words": [
+            "Audi design - The future of automotive form.",
+            "design",
+            "future",
+            "form"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Electrifying design.",
+        "sentence_cn": "- “令人振奋的设计。",
+        "words": [
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Brighter, more efficient and characteristic: progressive Audi light design.\"",
+        "sentence_cn": "更明亮、更高效、更有特色：先进的奥迪灯光设计。”",
+        "words": [
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A web link: \"www.audi.com/vorsprung-durch-technik\"",
+        "sentence_cn": "- 网络链接：“www.audi.com/vorsprung-durch-technik”",
+        "words": [
+            "www.audi.com/vorsprung-durch-technik",
+            "web",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, on the right side, there's a person standing with a camera facing the car, wearing a red coat, which adds a dynamic element to the scene.",
+        "sentence_cn": "在背景右侧，有一个人站在那里，手里拿着摄像机，面向汽车，身穿红色外套，为场景增添了动感的元素。",
+        "words": [
+            "background",
+            "person",
+            "camera",
+            "car",
+            "coat",
+            "element",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above this person, the sky has a gradient from dark to light, and the Audi logo with the phrase \"Vorsprung durch Technik\" (\"Advancement through Technology\") can be seen in the upper corner.",
+        "sentence_cn": "在这个人的上方，天空呈现出由暗到亮的渐变色，在右上角可以看到奥迪的标志和“Vorsprung durch Technik”（“通过科技进步”）。",
+        "words": [
+            "Vorsprung durch Technik",
+            "Advancement through Technology",
+            "person",
+            "sky",
+            "gradient",
+            "light",
+            "logo",
+            "phrase",
+            "Advancement",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme of the ad emphasizes innovation and modern aesthetics.",
+        "sentence_cn": "广告整体主题强调创新和现代美学。",
+        "words": [
+            "theme",
+            "ad",
+            "innovation",
+            "aesthetics"
+        ],
+        "id": null
+    }
+]

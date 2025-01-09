@@ -1,0 +1,234 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"The iPad, Now in Mini,\" comparing the iPad, iPad Mini, and iPhone 5.",
+        "sentence_cn": "该图是一张信息图，标题为“iPad，现在是 Mini”，比较了 iPad、iPad Mini 和 iPhone 5。",
+        "words": [
+            "The iPad, Now in Mini,",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**iPad:**",
+        "sentence_cn": "**iPad：**",
+        "words": [
+            "iPad:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dimensions: 9.5 x 7.3 inches",
+        "sentence_cn": "尺寸：9.5 x 7.3英寸",
+        "words": [
+            "Dimensions",
+            "9.5",
+            "7.3",
+            "inches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Display: 2048 x 1536 pixels Retina display",
+        "sentence_cn": "显示屏：2048 x 1536像素Retina显示屏",
+        "words": [
+            "Display",
+            "2048",
+            "1536",
+            "pixels",
+            "Retina",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weight: 1.44 lbs",
+        "sentence_cn": "重量：1.44磅",
+        "words": [
+            "Weight",
+            "1.44",
+            "lbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Price: Starting at $499",
+        "sentence_cn": "- 价格：499 美元起",
+        "words": [
+            "Price",
+            "499"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**iPad Mini:**",
+        "sentence_cn": "**iPad Mini：**",
+        "words": [
+            "iPad Mini:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dimensions: 7.87 x 5.3 inches",
+        "sentence_cn": "尺寸：7.87 x 5.3英寸",
+        "words": [
+            "Dimensions",
+            "7.87",
+            "5.3",
+            "inches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Display: 1024 x 768 pixels",
+        "sentence_cn": "顯示器：1024 x 768像素",
+        "words": [
+            "Display",
+            "1024",
+            "768",
+            "pixels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weight: 0.68 lbs",
+        "sentence_cn": "重量：0.68磅",
+        "words": [
+            "Weight",
+            "0.68",
+            "lbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Price: Starting at $329",
+        "sentence_cn": "- 价格：329 美元起",
+        "words": [
+            "Price",
+            "329"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**iPhone 5:**",
+        "sentence_cn": "**iPhone 5：**",
+        "words": [
+            "iPhone 5:",
+            "iPhone",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dimensions: 4.87 x 2.31 inches",
+        "sentence_cn": "尺寸：4.87 x 2.31英寸",
+        "words": [
+            "Dimensions",
+            "4.87",
+            "2.31",
+            "inches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weight: 3.95 ounces",
+        "sentence_cn": "重量：3.95盎司",
+        "words": [
+            "Weight",
+            "3.95",
+            "ounces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Price: Starting at $199",
+        "sentence_cn": "- 价格：199 美元起",
+        "words": [
+            "Price",
+            "199"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Additional Information:**",
+        "sentence_cn": "**附加信息：**",
+        "words": [
+            "Additional Information:",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Apple has sold 100 million iPads, capturing 68% of the tablet market as of July 2012.",
+        "sentence_cn": "- 截至 2012 年 7 月，苹果已售出 1 亿台 iPad，占据平板电脑市场 68% 的份额。",
+        "words": [
+            "100",
+            "million",
+            "68",
+            "tablet",
+            "market",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 5 million iPhone 5 units have been sold, marking it as the first iPhone with different screen dimensions.",
+        "sentence_cn": "- iPhone 5 销量达 500 万台，这是第一款具有不同屏幕尺寸的 iPhone。",
+        "words": [
+            "5",
+            "million",
+            "5",
+            "units",
+            "screen",
+            "dimensions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The infographic highlights reasons for the iPad Mini's creation, such as competing with Android tablets and offering a larger screen than certain 7-inch tablets.",
+        "sentence_cn": "- 该信息图重点介绍了 iPad Mini 的设计原因，例如与 Android 平板电脑竞争以及提供比某些 7 英寸平板电脑更大的屏幕。",
+        "words": [
+            "reasons",
+            "creation",
+            "tablets",
+            "screen",
+            "7",
+            "inch",
+            "tablets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The iPad Mini is noted to be 53% lighter than the standard iPad and can be held with one hand, making it the ultimate BYOD (Bring Your Own Device) device.",
+        "sentence_cn": "- iPad Mini 比标准 iPad 轻 53%，可以单手握持，是终极 BYOD（自带设备）设备。",
+        "words": [
+            "53",
+            "one",
+            "hand",
+            "Device",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Sources:**",
+        "sentence_cn": "**来源：**",
+        "words": [
+            "Sources:",
+            "Sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A list of web links is provided for reference, and the infographic credits SalesVerge and their Twitter handle, @salesverge.",
+        "sentence_cn": "提供了一个网页链接列表以供参考，并且信息图表注明了 SalesVerge 及其 Twitter 账号 @salesverge。",
+        "words": [
+            "list",
+            "web",
+            "links",
+            "reference",
+            "Twitter",
+            "handle"
+        ],
+        "id": null
+    }
+]

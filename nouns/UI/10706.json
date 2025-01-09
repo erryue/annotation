@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image is a humorous digital illustration about marriage.",
+        "sentence_cn": "该图是一幅关于婚姻的幽默数码插图。",
+        "words": [
+            "illustration",
+            "marriage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It contains two separate panels:",
+        "sentence_cn": "它包含两个独立的面板：",
+        "words": [
+            "two",
+            "panels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Top Panel**: Shows a man and a woman in silhouette.",
+        "sentence_cn": "1. **顶部面板**：显示一名男子和一名女子的轮廓。",
+        "words": [
+            "Top Panel",
+            "Panel",
+            "man",
+            "woman",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is holding his head with both hands in a gesture of frustration or disbelief.",
+        "sentence_cn": "这名男子用双手抱住头，表现出沮丧或难以置信的表情。",
+        "words": [
+            "man",
+            "head",
+            "hands",
+            "gesture",
+            "frustration",
+            "disbelief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman appears to be talking.",
+        "sentence_cn": "女人似乎正在说话。",
+        "words": [
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text reads: \"I made the mistake of asking my wife what women want... she has been talking non-stop for the last 3 days!\"",
+        "sentence_cn": "短信内容是：“我犯了一个错误，问我的妻子女人想要什么......过去三天她一直在不停地说话！”",
+        "words": [
+            "I made the mistake of asking my wife what women want... she has been talking non-stop for the last 3 days!",
+            "text",
+            "mistake",
+            "wife",
+            "women",
+            "3",
+            "days"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Bottom Panel**: Displays a woman with a thoughtful expression.",
+        "sentence_cn": "2. **底部面板**：显示一位表情若有所思的女人。",
+        "words": [
+            "Bottom Panel",
+            "Panel",
+            "woman",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text says: \"A Man's Wife Has More Power Over Him Than.\"",
+        "sentence_cn": "文中写道：“男人的妻子比男人拥有更大的权力。”",
+        "words": [
+            "A Man's Wife Has More Power Over Him Than.",
+            "text",
+            "Man",
+            "Wife",
+            "Power"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This part is partially obscured by an overlay that says \"Added to Favourites\" and an Amazon Shopping ad is visible below.",
+        "sentence_cn": "此部分被“已添加到收藏夹”的覆盖层部分遮挡，下方可见亚马逊购物广告。",
+        "words": [
+            "Added to Favourites",
+            "part",
+            "overlay",
+            "Favourites",
+            "ad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image uses humor to comment on relationships and communication between spouses.",
+        "sentence_cn": "总体而言，该图以幽默的方式评论了配偶之间的关系和沟通。",
+        "words": [
+            "humor",
+            "relationships",
+            "communication",
+            "spouses"
+        ],
+        "id": null
+    }
+]

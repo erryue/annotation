@@ -1,0 +1,107 @@
+[
+    {
+        "sentence": "The image depicts a bustling urban scene in Paris.",
+        "sentence_cn": "图像描绘的是巴黎繁华的城市景象。",
+        "words": [
+            "scene",
+            "Paris"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a small black car, possibly a Mini Cooper, is driving along a city street.",
+        "sentence_cn": "前景中，一辆黑色小型车（可能是 Mini Cooper）正在城市街道上行驶。",
+        "words": [
+            "foreground",
+            "car",
+            "city",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several other vehicles, including a white van and various cars, moving along the road.",
+        "sentence_cn": "还有其他几辆汽车，包括一辆白色的货车和各种汽车，沿着道路行驶。",
+        "words": [
+            "vehicles",
+            "van",
+            "cars",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the street is an elevated railway bridge, visible in the middle ground, with a metro train traveling on it.",
+        "sentence_cn": "街道上方是一座高架铁路桥，在中间地带清晰可见，一列地铁列车正在桥上行驶。",
+        "words": [
+            "street",
+            "railway",
+            "bridge",
+            "ground",
+            "metro",
+            "train"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bridge features ornate metalwork and an emblem in the center.",
+        "sentence_cn": "这座桥的特点是金属装饰华丽，中心有一枚徽章。",
+        "words": [
+            "bridge",
+            "metalwork",
+            "emblem",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a large, historic Haussmann-style building with multiple floors and rows of windows can be seen.",
+        "sentence_cn": "在背景中，可以看到一座巨大的、具有历史意义的奥斯曼风格建筑，该建筑有多层楼和一排排窗户。",
+        "words": [
+            "background",
+            "style",
+            "building",
+            "floors",
+            "rows",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The architecture is typical of Parisian style, with its distinct gray rooftops and detailed faÃ§ade.",
+        "sentence_cn": "该建筑是典型的巴黎风格，具有独特的灰色屋顶和精致的外观。",
+        "words": [
+            "architecture",
+            "style",
+            "rooftops",
+            "faÃ§ade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Trees line the right side of the image, adding greenery to the urban environment.",
+        "sentence_cn": "图像右侧排列着树木，为城市环境增添了绿意。",
+        "words": [
+            "Trees",
+            "greenery",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Traffic lights and street signs are present, and the scene conveys a sense of routine city life and movement.",
+        "sentence_cn": "有交通灯和街道标志，场景传达出一种日常城市生活和运动的感觉。",
+        "words": [
+            "Traffic",
+            "lights",
+            "street",
+            "signs",
+            "scene",
+            "sense",
+            "city",
+            "life",
+            "movement"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "sentence": "The image is a detailed infographic titled \"Arms Exports to the Middle East,\" focusing on the years 1992-2012.",
+        "sentence_cn": "该图是一份详细的信息图，题为“对中东的武器出口”，重点关注 1992 年至 2012 年。",
+        "words": [
+            "Arms Exports to the Middle East,",
+            "Arms",
+            "years",
+            "1992",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It utilizes data from the SIPRI Arms Transfers Database to illustrate the volume of arms exports from major countries to the Middle East.",
+        "sentence_cn": "它利用斯德哥尔摩国际和平研究所武器转让数据库的数据来说明主要国家向中东出口的武器数量。",
+        "words": [
+            "data",
+            "volume",
+            "arms",
+            "exports",
+            "countries",
+            "the",
+            "Middle",
+            "East"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The figures are in SIPRI Trend Indicator Values expressed in US$ million at constant 1990 prices.",
+        "sentence_cn": "这些数字以 1990 年不变价格计算，以百万美元表示，为 SIPRI 趋势指标值。",
+        "words": [
+            "figures",
+            "million",
+            "1990",
+            "prices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Top Section:",
+        "sentence_cn": "### 顶部部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **U.S. Arms Exports**: The largest exporter with 70,658 million USD in exports.",
+        "sentence_cn": "- **美国武器出口**：最大的出口国，出口额为 706.58 亿美元。",
+        "words": [
+            "U.S. Arms Exports",
+            "U.S.",
+            "exporter",
+            "70,658",
+            "million",
+            "USD",
+            "exports"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Arrows in gold show the flow to various Middle Eastern countries.",
+        "sentence_cn": "金色箭头指示流向各个中东国家。",
+        "words": [
+            "Arrows",
+            "gold",
+            "flow",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Russia Arms Exports**: Second largest, with 38,590 million USD.",
+        "sentence_cn": "- **俄罗斯武器出口**：第二大，出口额为 385.9 亿美元。",
+        "words": [
+            "Russia Arms Exports",
+            "Russia",
+            "38,590",
+            "million",
+            "USD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Arrows in green highlight the export path.",
+        "sentence_cn": "绿色箭头突出显示导出路径。",
+        "words": [
+            "Arrows",
+            "green",
+            "export",
+            "path"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **China Arms Exports**: Smaller exporter, with 3,300 million USD.",
+        "sentence_cn": "- **中国武器出口**：出口规模较小，出口额为 33 亿美元。",
+        "words": [
+            "China Arms Exports",
+            "exporter",
+            "3,300",
+            "million",
+            "USD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Arrows in red demonstrate destinations.",
+        "sentence_cn": "红色箭头表示目的地。",
+        "words": [
+            "Arrows",
+            "red",
+            "destinations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Middle Section:",
+        "sentence_cn": "### 中间部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A world map displays these export paths visually with lines connecting export countries to import destinations in the Middle East.",
+        "sentence_cn": "- 世界地图以连接出口国和中东进口目的地的线条直观地展示了这些出口路径。",
+        "words": [
+            "world",
+            "map",
+            "export",
+            "paths",
+            "lines",
+            "export",
+            "countries",
+            "import",
+            "destinations",
+            "the",
+            "Middle",
+            "East"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Bottom Section:",
+        "sentence_cn": "### 底部部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Arms Exports from the U.S.**: Several large circles indicate countries like Saudi Arabia, Turkey, Egypt, and Israel as major importers.",
+        "sentence_cn": "- **美国的武器出口**：几个大圆圈表示沙特阿拉伯、土耳其、埃及和以色列等国家是主要进口国。",
+        "words": [
+            "Arms Exports from the U.S.",
+            "Arms",
+            "Exports",
+            "U.S.",
+            "circles",
+            "countries",
+            "Saudi",
+            "Arabia",
+            "Turkey",
+            "Egypt",
+            "Israel",
+            "importers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Arms Exports from China**: Shows countries like Iran and Egypt as recipients, while Syria is highlighted as not receiving from China.",
+        "sentence_cn": "- **来自中国的武器出口**：显示伊朗和埃及等国家是接收国，而叙利亚则被强调为未从中国接收武器。",
+        "words": [
+            "Arms Exports from China",
+            "Arms",
+            "Exports",
+            "China",
+            "countries",
+            "Iran",
+            "Egypt",
+            "recipients",
+            "Syria",
+            "China"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Arms Exports from Russia**: Displays that Syria is a minor recipient of Russian arms compared to other Middle Eastern countries.",
+        "sentence_cn": "- **俄罗斯的武器出口**：显示与其他中东国家相比，叙利亚是俄罗斯武器的次要接受国。",
+        "words": [
+            "Arms Exports from Russia",
+            "Arms",
+            "Exports",
+            "Russia",
+            "Syria",
+            "recipient",
+            "arms",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Notes:",
+        "sentence_cn": "### 附加说明：",
+        "words": [
+            "Notes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The infographic highlights that Syria is at a disadvantage because it receives a small amount of arms, especially from Russia, and none from a major exporter like China.",
+        "sentence_cn": "- 该信息图强调，叙利亚处于不利地位，因为它只接收少量武器，尤其是来自俄罗斯的武器，而没有从中国这样的主要出口国接收任何武器。",
+        "words": [
+            "Syria",
+            "disadvantage",
+            "amount",
+            "arms",
+            "Russia",
+            "none",
+            "exporter",
+            "China"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Color coding (gold, green, red) clearly differentiates the sources of arms.",
+        "sentence_cn": "- 颜色编码（金色、绿色、红色）清楚区分武器来源。",
+        "words": [
+            "Color",
+            "coding",
+            "gold",
+            "sources",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The background is dark, with countries shaded in gray to emphasize the data points and flow paths.",
+        "sentence_cn": "- 背景为深色，其中国家以灰色阴影表示，以强调数据点和流路径。",
+        "words": [
+            "background",
+            "countries",
+            "gray",
+            "data",
+            "points",
+            "flow",
+            "paths"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This visual representation gives an overview of geopolitical relationships and dependencies concerning arms transfers in the Middle East during the specified period.",
+        "sentence_cn": "这个视觉呈现概述了特定时期内中东地区武器转让的地缘政治关系和依赖关系。",
+        "words": [
+            "representation",
+            "overview",
+            "relationships",
+            "dependencies",
+            "arms",
+            "transfers",
+            "the",
+            "Middle",
+            "East",
+            "period"
+        ],
+        "id": null
+    }
+]

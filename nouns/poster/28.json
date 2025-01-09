@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image is a poster for the film \"Apollo 13.\"",
+        "sentence_cn": "图片是电影《阿波罗13号》的海报。",
+        "words": [
+            "Apollo 13.",
+            "poster",
+            "film",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a prominent depiction of the moon's surface on the right, with Earth visible in the distance on the upper right.",
+        "sentence_cn": "它的右侧显著描绘了月球表面，右上方远处可以看到地球。",
+        "words": [
+            "depiction",
+            "moon",
+            "surface",
+            "right",
+            "Earth",
+            "distance",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle left portion of the image, a spacecraft is depicted heading away from the moon.",
+        "sentence_cn": "在图片的左中部分，一艘宇宙飞船正远离月球。",
+        "words": [
+            "portion",
+            "spacecraft",
+            "moon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A notable quote from the film, \"Houston, we have a problem,\" is displayed near the spacecraft.",
+        "sentence_cn": "飞船附近展示着电影中的一句名言：“休斯顿，我们有麻烦了”。",
+        "words": [
+            "Houston, we have a problem,",
+            "quote",
+            "film",
+            "Houston",
+            "problem",
+            "spacecraft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The names of the main actors, including Tom Hanks, Kevin Bacon, Bill Paxton, Gary Sinise, and Ed Harris, are listed along the top.",
+        "sentence_cn": "顶部列出了主要演员的名字，包括汤姆·汉克斯、凯文·贝肯、比尔·帕克斯顿、加里·西尼斯和艾德·哈里斯。",
+        "words": [
+            "names",
+            "actors",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the title \"APOLLO 13\" is prominently displayed, along with credits for the movie's production team, director Ron Howard, and other contributors.",
+        "sentence_cn": "在底部，显著地显示了标题“阿波罗 13 号”，以及电影制作团队、导演罗恩霍华德和其他贡献者的名单。",
+        "words": [
+            "APOLLO 13",
+            "bottom",
+            "title",
+            "13",
+            "credits",
+            "movie",
+            "production",
+            "team",
+            "director",
+            "contributors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a dramatic and tense atmosphere, befitting the film's theme of space exploration and crisis.",
+        "sentence_cn": "海报氛围充满戏剧性和紧张感，契合影片的太空探索与危机主题。",
+        "words": [
+            "poster",
+            "atmosphere",
+            "film",
+            "theme",
+            "space",
+            "exploration",
+            "crisis"
+        ],
+        "id": null
+    }
+]

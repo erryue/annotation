@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image is an advertisement for the \"Summer Vibes Promo\" by ASUS.",
+        "sentence_cn": "图片是华硕“夏日氛围促销”的广告。",
+        "words": [
+            "Summer Vibes Promo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a sandy texture, giving a beach-like feel, with green palm leaves in the top corners, and a starfish near the top left.",
+        "sentence_cn": "背景具有沙质纹理，给人一种海滩般的感觉，顶角有绿色的棕榈叶，左上角附近有一只海星。",
+        "words": [
+            "background",
+            "texture",
+            "beach",
+            "feel",
+            "palm",
+            "leaves",
+            "corners",
+            "starfish",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text \"SUMMER VIBES PROMO\" is prominently displayed in bold, stylized letters in the center.",
+        "sentence_cn": "“SUMMER VIBES PROMO” 文字以粗体、风格化的字母突出显示在中心。",
+        "words": [
+            "SUMMER VIBES PROMO",
+            "text",
+            "letters",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the text, there are three wavy lines, resembling ocean waves.",
+        "sentence_cn": "文字下方有三条波浪线，形似海浪。",
+        "words": [
+            "text",
+            "three",
+            "lines",
+            "ocean",
+            "waves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is an image of a black and red backpack, while on the right side, there are two black speakers.",
+        "sentence_cn": "左侧是黑红色背包的图像，右侧是两个黑色的扬声器。",
+        "words": [
+            "backpack",
+            "side",
+            "two",
+            "speakers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ASUS logo and slogan âIn Search of Incredibleâ are at the top left.",
+        "sentence_cn": "左上角是华硕的标志和口号“寻找不可思议”。",
+        "words": [
+            "logo",
+            "slogan",
+            "Search",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom right, there are logos for a \"2 years global warranty\" shield symbol and an Intel Core i7 sticker.",
+        "sentence_cn": "右下角有“2年全球保修”盾牌标志和英特尔酷睿i7贴纸。",
+        "words": [
+            "2 years global warranty",
+            "right",
+            "logos",
+            "2",
+            "years",
+            "warranty",
+            "shield",
+            "symbol",
+            "i7",
+            "sticker"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The permit number \"DTIâFTEB SPD Permit No. 2238, Series of 2016\" is written at the bottom center of the image.",
+        "sentence_cn": "许可证号码“DTI-FTEB SPD Permit No. 2238, Series of 2016”写在图片的底部中央。",
+        "words": [
+            "DTIâFTEB SPD Permit No. 2238, Series of 2016",
+            "permit",
+            "number",
+            "DTIâFTEB",
+            "2238",
+            "2016",
+            "center"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from the \"5 Star Affiliate Blog,\" which is part of the \"5 Star Affiliate Programs\" website.",
+        "sentence_cn": "该图片是“5 Star Affiliate Blog”网页的截图，该博客是“5 Star Affiliate Programs”网站的一部分。",
+        "words": [
+            "5 Star Affiliate Blog,",
+            "5 Star Affiliate Programs",
+            "webpage",
+            "part",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a blue color scheme with a large banner at the top.",
+        "sentence_cn": "它采用蓝色配色方案，顶部有一个大横幅。",
+        "words": [
+            "color",
+            "scheme",
+            "banner",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The banner includes the site name and a logo with the words \"BizProfits\" and a \"Sign Up Now\" button.",
+        "sentence_cn": "横幅包含网站名称和带有“BizProfits”字样的徽标以及“立即注册”按钮。",
+        "words": [
+            "BizProfits",
+            "Sign Up Now",
+            "banner",
+            "site",
+            "name",
+            "logo",
+            "words",
+            "BizProfits",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, there's a navigation menu with options like \"Blog Home,\" \"Affiliate Marketing,\" \"Blog Revenue,\" \"Managers & Merchants,\" \"Niche Marketing,\" and \"SEO-SEM-PPC.\"",
+        "sentence_cn": "横幅下方有一个导航菜单，其中有“博客主页”、“联属营销”、“博客收入”、“经理和商家”、“利基营销”和“SEO-SEM-PPC”等选项。",
+        "words": [
+            "Blog Home,",
+            "Affiliate Marketing,",
+            "Blog Revenue,",
+            "Managers & Merchants,",
+            "Niche Marketing,",
+            "SEO-SEM-PPC.",
+            "banner",
+            "navigation",
+            "menu",
+            "options",
+            "Blog",
+            "Home",
+            "Affiliate",
+            "Marketing",
+            "Blog",
+            "Revenue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content features a blog post titled \"Flipboard Takes the Leap To Video Ads,\" dated August 24, 2015, authored by Caitlynne Cush.",
+        "sentence_cn": "主要内容为凯特琳·库什 (Caitlynne Cush) 于 2015 年 8 月 24 日发表的一篇博文，题为“Flipboard 进军视频广告领域”。",
+        "words": [
+            "Flipboard Takes the Leap To Video Ads,",
+            "content",
+            "blog",
+            "post",
+            "Leap",
+            "Ads",
+            "24",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The post has zero comments and is categorized under \"SMM - Video Ads.\"",
+        "sentence_cn": "该帖子没有评论，分类为“SMM - 视频广告”。",
+        "words": [
+            "SMM - Video Ads.",
+            "post",
+            "zero",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The article discusses Flipboard's new feature allowing users and brands to submit video ads, called \"Cinema Loops.\"",
+        "sentence_cn": "文章讨论了 Flipboard 的新功能，该功能允许用户和品牌提交视频广告，称为“Cinema Loops”。",
+        "words": [
+            "Cinema Loops.",
+            "article",
+            "feature",
+            "users",
+            "brands",
+            "video",
+            "ads",
+            "Cinema"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a search bar and a share button with a counter displaying \"5.\"",
+        "sentence_cn": "右侧有一个搜索栏和一个分享按钮，计数器显示“5”。",
+        "words": [
+            "5.",
+            "right",
+            "search",
+            "bar",
+            "share",
+            "button",
+            "counter",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that, there is a dropdown menu for selecting categories and a section titled \"5 Star Affiliate Marketing.\"",
+        "sentence_cn": "下面是一个用于选择类别的下拉菜单和一个名为“五星级联盟营销”的部分。",
+        "words": [
+            "5 Star Affiliate Marketing.",
+            "dropdown",
+            "menu",
+            "categories",
+            "section"
+        ],
+        "id": null
+    }
+]

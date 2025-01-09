@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image is a screenshot of the homepage of the High Museum of Art in Atlanta.",
+        "sentence_cn": "图片是亚特兰大高等艺术博物馆主页的截图。",
+        "words": [
+            "homepage",
+            "Atlanta"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section features the museum's logo, navigation menu, and information about today's hours (10AM - 5PM).",
+        "sentence_cn": "顶部部分显示博物馆的标志、导航菜单以及有关当天开放时间（上午 10 点至下午 5 点）的信息。",
+        "words": [
+            "section",
+            "museum",
+            "logo",
+            "navigation",
+            "menu",
+            "information",
+            "today",
+            "hours",
+            "10AM",
+            "5PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The navigation menu includes options like Tickets, Visit, Exhibitions, Collections, and more.",
+        "sentence_cn": "导航菜单包括门票、参观、展览、收藏等选项。",
+        "words": [
+            "navigation",
+            "menu",
+            "options",
+            "Tickets",
+            "Exhibitions",
+            "Collections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main banner displays artwork consisting of white roses with green leaves set against a blue background.",
+        "sentence_cn": "主横幅展示的艺术品由蓝色背景上的白玫瑰和绿叶组成。",
+        "words": [
+            "banner",
+            "artwork",
+            "roses",
+            "leaves",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It promotes the Alex Katz exhibition titled \"This Is Now,\" noting that it was in its final days and ended on September 6, 2015.",
+        "sentence_cn": "它宣传了亚历克斯·卡茨 (Alex Katz) 的展览“这就是现在”，并指出该展览已进入最后阶段，于 2015 年 9 月 6 日结束。",
+        "words": [
+            "This Is Now,",
+            "exhibition",
+            "days",
+            "6",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a blue button labeled \"TICKETS & INFO\" for more details.",
+        "sentence_cn": "有一个蓝色按钮标有“门票和信息”，可以了解更多详细信息。",
+        "words": [
+            "TICKETS & INFO",
+            "button",
+            "TICKETS",
+            "INFO",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, there are circular images representing different sections or events.",
+        "sentence_cn": "横幅下方有代表不同部分或事件的圆形图像。",
+        "words": [
+            "banner",
+            "images",
+            "sections",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These include people interacting with art or instructors and the Fulton County Arts logo.",
+        "sentence_cn": "其中包括与艺术或指导人员互动的人以及富尔顿县艺术标志。",
+        "words": [
+            "people",
+            "art",
+            "instructors",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page has a clean, modern design with a focus on art and visitor information.",
+        "sentence_cn": "该页面设计简洁、现代，重点关注艺术和游客信息。",
+        "words": [
+            "page",
+            "design",
+            "focus",
+            "art",
+            "visitor",
+            "information"
+        ],
+        "id": null
+    }
+]

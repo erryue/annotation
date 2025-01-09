@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image depicts a group of six people engaged in a casual conversation in what appears to be an office or meeting room.",
+        "sentence_cn": "照片中六个人在一间类似办公室或会议室的房间里进行随意交谈。",
+        "words": [
+            "group",
+            "six",
+            "people",
+            "conversation",
+            "office",
+            "meeting",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are all wearing business casual attire.",
+        "sentence_cn": "他们都穿着商务休闲装。",
+        "words": [
+            "business",
+            "attire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A man on the left in a light pink shirt and dark striped pants is sitting on a sofa, leaning forward and gesturing with his hand, seemingly speaking to the group.",
+        "sentence_cn": "- 左边一名身穿浅粉色衬衫和深色条纹裤的男子坐在沙发上，身体前倾，挥动着手，似乎在对大家讲话。",
+        "words": [
+            "man",
+            "left",
+            "shirt",
+            "pants",
+            "sofa",
+            "hand",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to him, a woman is seated on the sofa, wearing a black top and dark pants, smiling and resting her hand on her chin as she listens.",
+        "sentence_cn": "- 他旁边的沙发上坐着一位女士，身穿黑色上衣和深色裤子，微笑着，手托着下巴，听着他说话。",
+        "words": [
+            "woman",
+            "sofa",
+            "top",
+            "pants",
+            "hand",
+            "chin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Opposite them, three men are in various positions: one in a dark suit is sitting on the back of the sofa, another in a blue shirt is standing with hands in pockets, and another in a dark suit is sitting on the armrest.",
+        "sentence_cn": "- 在他们对面，三个男人姿势各异：一个穿着深色西装的男人坐在沙发靠背上，另一个穿着蓝色衬衫的男人站着，双手插在口袋里，还有一个穿着深色西装的男人坐在扶手上。",
+        "words": [
+            "three",
+            "men",
+            "positions",
+            "one",
+            "suit",
+            "back",
+            "sofa",
+            "shirt",
+            "hands",
+            "pockets",
+            "suit",
+            "armrest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A woman in the background, wearing a light yellow blouse and brown pants, stands with her arms crossed and is smiling, observing the conversation.",
+        "sentence_cn": "- 背景中一位身穿浅黄色上衣和棕色裤子的女士，交叉双臂站立，面带微笑，观察着谈话。",
+        "words": [
+            "woman",
+            "background",
+            "blouse",
+            "pants",
+            "arms",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is relaxed, with light neutral tones dominating the background.",
+        "sentence_cn": "场景布置轻松，背景以浅色中性色调为主。",
+        "words": [
+            "tones",
+            "background"
+        ],
+        "id": null
+    }
+]

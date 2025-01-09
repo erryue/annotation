@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image is an advertisement for a theatrical production of \"Peter Pan\" by J.M. Barrie.",
+        "sentence_cn": "该图是 J.M. Barrie 的戏剧作品“彼得潘”的广告。",
+        "words": [
+            "Peter Pan",
+            "production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two characters flying through the air, set against a backdrop of a night sky with stars and clouds.",
+        "sentence_cn": "影片以两个角色在空中飞翔为特色，背景是布满星星和云彩的夜空。",
+        "words": [
+            "two",
+            "characters",
+            "air",
+            "backdrop",
+            "night",
+            "sky",
+            "stars",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them, there's a silhouette of a ship on the water and lush trees, evoking the magical setting of Neverland.",
+        "sentence_cn": "下面，是水面上船只的轮廓和茂密的树木，让人想起梦幻岛的神奇场景。",
+        "words": [
+            "silhouette",
+            "ship",
+            "water",
+            "trees",
+            "Neverland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the image contains the text \"ESCAPE TO NEVERLAND LIKE NEVER BEFORE!\" in white capital letters.",
+        "sentence_cn": "图片顶部包含白色大写字母“以前所未有的方式逃离梦幻岛！”。",
+        "words": [
+            "ESCAPE TO NEVERLAND LIKE NEVER BEFORE!",
+            "top",
+            "text",
+            "ESCAPE",
+            "capital",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that, it lists \"HERRICK ENTERTAINMENT and THREESIXTY ENTERTAINMENT present,\" followed by \"JM BARRIE'S\" and prominently \"PETER PAN\" in large white letters.",
+        "sentence_cn": "下面列出了“HERRICK ENTERTAINMENT 和 THREESIXTY ENTERTAINMENT 出席”，后面跟着“JM BARRIE'S”和显眼的大白色字母“PETER PAN”。",
+        "words": [
+            "HERRICK ENTERTAINMENT and THREESIXTY ENTERTAINMENT present,",
+            "JM BARRIE'S",
+            "PETER PAN",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further down, it states \"LIVE ON STAGE at the THREE SIXTY THEATRE TENT in Downtown Dallas,\" with the phrase \"OPENS NOVEMBER 11\" in bright yellow.",
+        "sentence_cn": "再往下，写着“在达拉斯市中心的 THREE SIXTY THEATRE TENT 进行现场舞台表演”，并用亮黄色写着“11 月 11 日开幕”。",
+        "words": [
+            "LIVE ON STAGE at the THREE SIXTY THEATRE TENT in Downtown Dallas,",
+            "OPENS NOVEMBER 11",
+            "STAGE",
+            "THREE",
+            "SIXTY",
+            "THEATRE",
+            "TENT",
+            "Dallas",
+            "phrase",
+            "11",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are logos for AT&T Performing Arts Center, Lexus, reliant, and others.",
+        "sentence_cn": "底部有 AT&T 表演艺术中心、雷克萨斯、Reliant 等公司的标志。",
+        "words": [
+            "bottom",
+            "logos",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a blue button on the right with the words \"GET TICKETS\" in bold white letters, accompanied by a blue arrow.",
+        "sentence_cn": "右侧还有一个蓝色按钮，上面用粗体白色字母写着“获取门票”，旁边还有一个蓝色箭头。",
+        "words": [
+            "GET TICKETS",
+            "button",
+            "right",
+            "words",
+            "TICKETS",
+            "letters",
+            "arrow"
+        ],
+        "id": null
+    }
+]

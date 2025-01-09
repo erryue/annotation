@@ -1,0 +1,233 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Redesign Your Place,\" which details a workshop conducted with employees in Calderara di Reno Town Council in Italy.",
+        "sentence_cn": "该图是一张名为“重新设计你的场所”的信息图，详细介绍了意大利卡尔德拉拉迪雷诺镇议会与员工一起举办的研讨会。",
+        "words": [
+            "Redesign Your Place,",
+            "Place",
+            "workshop",
+            "employees",
+            "Calderara",
+            "di",
+            "Reno",
+            "Italy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This workshop is part of the C3 Project framework.",
+        "sentence_cn": "该研讨会是 C3 项目框架的一部分。",
+        "words": [
+            "workshop",
+            "part",
+            "framework"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here are the key elements:",
+        "sentence_cn": "以下是关键要素：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Title**: \"Redesign Your Place\"",
+        "sentence_cn": "- **标题**：“重新设计你的住所”",
+        "words": [
+            "Title",
+            "Redesign Your Place",
+            "Title",
+            "Place"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Workshop Information**:",
+        "sentence_cn": "- **研讨会信息**：",
+        "words": [
+            "Workshop Information",
+            "Workshop",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Duration: 2 hours",
+        "sentence_cn": "- 时长：2小时",
+        "words": [
+            "Duration",
+            "2",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Participants: 15 employees",
+        "sentence_cn": "- 参加者：15 名员工",
+        "words": [
+            "Participants",
+            "15",
+            "employees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Run by: Carlo Branzaglia",
+        "sentence_cn": "- 运营者：Carlo Branzaglia",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- **Objective**: The target is to set up an urban plan to redesign Via Matteotti.",
+        "sentence_cn": "- **目标**：制定城市规划来重新设计 Via Matteotti。",
+        "words": [
+            "Objective",
+            "Objective",
+            "target",
+            "plan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Date**: September 27, 2011",
+        "sentence_cn": "- **日期**：2011 年 9 月 27 日",
+        "words": [
+            "Date",
+            "Date",
+            "27",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Employee Sectors**:",
+        "sentence_cn": "- **员工部门**：",
+        "words": [
+            "Employee Sectors",
+            "Employee",
+            "Sectors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Building",
+        "sentence_cn": "- 建筑",
+        "words": [
+            "Building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Public Relation Office",
+        "sentence_cn": "- 公共关系办公室",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - City Planning",
+        "sentence_cn": "- 城市规划",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Public Works",
+        "sentence_cn": "- 公共工程",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Trade",
+        "sentence_cn": "- 贸易",
+        "words": [
+            "Trade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Maintenance",
+        "sentence_cn": "- 维护",
+        "words": [
+            "Maintenance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Theatre",
+        "sentence_cn": "- 剧院",
+        "words": [
+            "Theatre"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Library",
+        "sentence_cn": "- 图书馆",
+        "words": [
+            "Library"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Workshop Structure**:",
+        "sentence_cn": "- **研讨会结构**：",
+        "words": [
+            "Workshop Structure",
+            "Workshop",
+            "Structure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Divided into 3 working groups",
+        "sentence_cn": "- 分为3个工作组",
+        "words": [
+            "3",
+            "working",
+            "groups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Use of tools like mind maps, post-it notes, and moodboards for brainstorming and organizing ideas",
+        "sentence_cn": "- 使用思维导图、便利贴和情绪板等工具进行头脑风暴和组织想法",
+        "words": [
+            "Use",
+            "tools",
+            "mind",
+            "maps",
+            "post",
+            "-",
+            "it",
+            "notes",
+            "moodboards",
+            "ideas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- **Visuals**: The infographic uses a green background and includes various icons and arrows to represent different aspects of the workshop.",
+        "sentence_cn": "- **视觉效果**：信息图使用绿色背景，并包含各种图标和箭头来表示研讨会的不同方面。",
+        "words": [
+            "Visuals",
+            "Visuals",
+            "background",
+            "icons",
+            "arrows",
+            "aspects",
+            "workshop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a logo for DMC (Design Management Center), indicating their involvement.",
+        "sentence_cn": "底部有 DMC（设计管理中心）的标志，表明他们的参与。",
+        "words": [
+            "bottom",
+            "logo",
+            "involvement"
+        ],
+        "id": null
+    }
+]

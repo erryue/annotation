@@ -1,0 +1,107 @@
+[
+    {
+        "sentence": "The image is an advertisement for Audi.",
+        "sentence_cn": "图片是奥迪的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features three Audi cars: a coupe, a sedan, and an SUV, all in silver and prominently displayed in the foreground.",
+        "sentence_cn": "它以三辆奥迪车为特色：一辆双门轿跑车、一辆轿车和一辆 SUV，全部为银色，且在前景中显眼地展示出来。",
+        "words": [
+            "three",
+            "cars",
+            "coupe",
+            "sedan",
+            "SUV",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each car has distinct license plates, suggesting different models.",
+        "sentence_cn": "每辆车都有不同的车牌，代表不同的车型。",
+        "words": [
+            "car",
+            "license",
+            "plates",
+            "models"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, thereâs a grayscale image of a woman smiling, lying down, and listening to music on an iPod with earphones",
+        "sentence_cn": "背景是一张灰度图像，照片中一名女子面带微笑，躺着，戴着耳机用 iPod 听音乐",
+        "words": [
+            "background",
+            "grayscale",
+            "woman",
+            "music",
+            "earphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The mood conveys enjoyment and luxury.",
+        "sentence_cn": "这种情绪传达出享受和奢华。",
+        "words": [
+            "mood",
+            "enjoyment",
+            "luxury"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text informs viewers of a promotion where they can win a limited edition Audi iPod by test-driving unique Audi experiences.",
+        "sentence_cn": "文字告知观众有一项促销活动，他们可以通过试驾独特的奥迪体验赢得限量版奥迪 iPod。",
+        "words": [
+            "text",
+            "viewers",
+            "promotion",
+            "edition",
+            "test",
+            "experiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are promotional offers, including a special Audi Audio Package and Centennial Specials, emphasizing Audi's 100-year celebration.",
+        "sentence_cn": "有促销优惠，包括特别的奥迪音响套装和百年纪念特惠，强调奥迪百年庆典。",
+        "words": [
+            "offers",
+            "100",
+            "year",
+            "celebration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement is from Premium Automobiles in Singapore.",
+        "sentence_cn": "该广告来自新加坡的 Premium Automobiles。",
+        "words": [
+            "Singapore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design incorporates Audi's branding, with their logo and the slogan \"Vorsprung durch Technik\" (Advancement through Technology), highlighting innovation and quality.",
+        "sentence_cn": "该设计融合了奥迪的品牌标识和口号“Vorsprung durch Technik”（科技进步），彰显创新和品质。",
+        "words": [
+            "Vorsprung durch Technik",
+            "design",
+            "branding",
+            "logo",
+            "slogan",
+            "Advancement",
+            "innovation",
+            "quality"
+        ],
+        "id": null
+    }
+]

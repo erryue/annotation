@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image shows a blog page from \"The Mud Blog,\" which is the official blog for Extremeline Productions LLC.",
+        "sentence_cn": "该图显示的是“The Mud Blog”的博客页面，这是 Extremeline Productions LLC 的官方博客。",
+        "words": [
+            "The Mud Blog,",
+            "blog",
+            "page",
+            "Mud",
+            "blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The blog entry, dated Sunday, December 7, 2014, is titled \"An inside look into the New Santa Barbara Outdoor Recreation Map.\"",
+        "sentence_cn": "该博客文章的发布日期为 2014 年 12 月 7 日星期日，标题为“深入了解新圣巴巴拉户外休闲地图”。",
+        "words": [
+            "An inside look into the New Santa Barbara Outdoor Recreation Map.",
+            "blog",
+            "entry",
+            "7",
+            "2014",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It offers a sneak peek into a detailed topographic map of the Santa Barbara region and backcountry.",
+        "sentence_cn": "它提供了圣巴巴拉地区和偏远地区详细地形图的预览。",
+        "words": [
+            "sneak",
+            "peek",
+            "map",
+            "Santa",
+            "Barbara",
+            "region",
+            "backcountry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The centerpiece is an image of the map cover, which highlights Santa Barbara's coast, hiking, mountain biking, state and local parks, and other outdoor activities.",
+        "sentence_cn": "该封面的中心内容是地图封面的图像，重点介绍了圣巴巴拉的海岸、徒步旅行、山地自行车、州立和地方公园以及其他户外活动。",
+        "words": [
+            "centerpiece",
+            "map",
+            "cover",
+            "Santa",
+            "Barbara",
+            "'s",
+            "coast",
+            "hiking",
+            "mountain",
+            "biking",
+            "state",
+            "parks",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The map is described as waterproof and tear-resistant, with features like trails and points of interest.",
+        "sentence_cn": "该地图被描述为防水和抗撕裂，并具有路径和兴趣点等功能。",
+        "words": [
+            "map",
+            "tear",
+            "features",
+            "trails",
+            "points",
+            "interest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is priced at $12.95.",
+        "sentence_cn": "其售价为 12.95 美元。",
+        "words": [
+            "12.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right sidebar, there are sections labeled \"What's The Mud Blog?\" which explains the blog's focus on topics like trails, mountain biking, and adventure travel, primarily in California and the West.",
+        "sentence_cn": "在右侧边栏，有标记为“什么是 Mud Blog？”的部分，解释了该博客主要关注加利福尼亚州和西部的小径、山地自行车和探险旅行等主题。",
+        "words": [
+            "What's The Mud Blog?",
+            "sidebar",
+            "sections",
+            "blog",
+            "focus",
+            "topics",
+            "trails",
+            "mountain",
+            "biking",
+            "adventure",
+            "travel",
+            "California",
+            "West"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that is a \"Topics\" section with tags such as trails, mountain biking, freeriding, public access, Mammoth, XC, Sierra, and others, indicating the blog's varied content.",
+        "sentence_cn": "下面是“主题”部分，其中有小径、山地自行车、自由式骑行、公共通道、猛犸象、XC、塞拉等标签，表明该博客的内容多种多样。",
+        "words": [
+            "Topics",
+            "Topics",
+            "section",
+            "tags",
+            "trails",
+            "mountain",
+            "biking",
+            "freeriding",
+            "access",
+            "others",
+            "blog",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another section, \"Top Picks,\" lists selected articles including \"The Essence of Trails\" and \"Mountain Biking Mount St. Helens.\"",
+        "sentence_cn": "另一部分“精选”列出了精选文章，包括“小径的精髓”和“圣海伦斯山山地自行车”。",
+        "words": [
+            "Top Picks,",
+            "The Essence of Trails",
+            "Mountain Biking Mount St. Helens.",
+            "section",
+            "Picks",
+            "articles",
+            "Essence",
+            "Mountain"
+        ],
+        "id": null
+    }
+]

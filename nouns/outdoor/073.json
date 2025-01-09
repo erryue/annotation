@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image depicts an elegant outdoor patio area at sunset.",
+        "sentence_cn": "图片描绘的是日落时分优雅的户外露台区域。",
+        "words": [
+            "patio",
+            "area",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground features a large dining table surrounded by wicker chairs on a light-colored tiled floor.",
+        "sentence_cn": "前景是一张大餐桌，周围摆放着柳条椅，地板上铺着浅色的瓷砖。",
+        "words": [
+            "foreground",
+            "dining",
+            "table",
+            "wicker",
+            "chairs",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a pergola supported by decorative columns and adorned with potted plants and vibrant red flowers.",
+        "sentence_cn": "左边有一个由装饰柱支撑的凉亭，凉亭上装饰着盆栽和鲜艳的红色花朵。",
+        "words": [
+            "left",
+            "pergola",
+            "columns",
+            "plants",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large palm tree provides a tropical feel to the setting.",
+        "sentence_cn": "一棵巨大的棕榈树给环境带来了一种热带感觉。",
+        "words": [
+            "palm",
+            "tree",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, bright pink bougainvillea flowers climb along a wall, adding a burst of color.",
+        "sentence_cn": "右侧，鲜艳的粉红色九重葛花沿着墙壁攀爬，增添了一抹色彩。",
+        "words": [
+            "bougainvillea",
+            "flowers",
+            "wall",
+            "burst",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, an infinity pool reflects the soft orange and pink hues of a serene sunset sky.",
+        "sentence_cn": "在背景中，无边泳池倒映着宁静的日落天空的柔和橙色和粉红色调。",
+        "words": [
+            "background",
+            "infinity",
+            "pool",
+            "orange",
+            "hues",
+            "sunset",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sun is low on the horizon, casting a warm glow across the landscape, which consists of rolling hills and scattered cypress trees.",
+        "sentence_cn": "太阳低垂在地平线上，为起伏的丘陵和散落的柏树组成的大地投下温暖的光芒。",
+        "words": [
+            "sun",
+            "horizon",
+            "glow",
+            "landscape",
+            "hills",
+            "cypress",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is tranquil and luxurious, suggesting a peaceful retreat.",
+        "sentence_cn": "整体氛围宁静而奢华，暗示着一个安宁的休憩之所。",
+        "words": [
+            "atmosphere",
+            "retreat"
+        ],
+        "id": null
+    }
+]

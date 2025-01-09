@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image is an infographic from the International Food Policy Research Institute (IFPRI), detailing no-tillage adoption worldwide in millions of hectares.",
+        "sentence_cn": "该图是国际粮食政策研究所 (IFPRI) 的一张信息图，详细介绍了全球数百万公顷免耕土地的采用情况。",
+        "words": [
+            "tillage",
+            "adoption",
+            "millions",
+            "hectares"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The map highlights countries with significant no-tillage farming in light green, such as the USA, Brazil, Argentina, Canada, and Australia.",
+        "sentence_cn": "地图上用浅绿色标出了免耕农业显著实施的国家，如美国、巴西、阿根廷、加拿大、澳大利亚。",
+        "words": [
+            "map",
+            "countries",
+            "tillage",
+            "farming",
+            "green",
+            "USA",
+            "Brazil",
+            "Argentina",
+            "Canada",
+            "Australia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the map, it mentions that approximately 105 million hectares worldwide use no-tillage practices, mainly among large-scale farmers.",
+        "sentence_cn": "地图上方提到，全世界约有 1.05 亿公顷土地采用免耕作业，主要由大规模农民采用。",
+        "words": [
+            "map",
+            "105",
+            "million",
+            "hectares",
+            "tillage",
+            "practices",
+            "scale",
+            "farmers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the map, a bar chart shows the extent of no-tillage adoption in various regions:",
+        "sentence_cn": "地图下方的条形图显示了各个地区采用免耕的程度：",
+        "words": [
+            "map",
+            "bar",
+            "chart",
+            "extent",
+            "tillage",
+            "adoption",
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- South America (especially Brazil and Argentina) shows the highest adoption.",
+        "sentence_cn": "- 南美洲（尤其是巴西和阿根廷）的采用率最高。",
+        "words": [
+            "South",
+            "America",
+            "Brazil",
+            "Argentina",
+            "adoption"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- North America also has significant adoption levels.",
+        "sentence_cn": "- 北美的采用率也相当高。",
+        "words": [
+            "North",
+            "America",
+            "adoption",
+            "levels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Australia and Europe follow with moderate levels.",
+        "sentence_cn": "- 澳大利亚和欧洲紧随其后，处于中等水平。",
+        "words": [
+            "Australia",
+            "Europe",
+            "levels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Africa and Asia have lower adoption.",
+        "sentence_cn": "- 非洲和亚洲的采用率较低。",
+        "words": [
+            "Africa",
+            "Asia",
+            "adoption"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic includes IFPRI branding and attribution to a source about a conference presentation held in 2016.",
+        "sentence_cn": "该信息图包括 IFPRI 品牌和 2016 年会议报告的来源归属。",
+        "words": [
+            "branding",
+            "attribution",
+            "source",
+            "conference",
+            "presentation",
+            "2016"
+        ],
+        "id": null
+    }
+]

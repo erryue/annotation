@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "The image shows a group of people gathered outdoors in a backyard setting, enjoying a meal at multiple folding tables.",
+        "sentence_cn": "照片显示，一群人聚集在后院户外，在多张折叠桌上享用美食。",
+        "words": [
+            "group",
+            "people",
+            "backyard",
+            "meal",
+            "folding",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The event appears to be a casual gathering, possibly a barbecue or picnic.",
+        "sentence_cn": "该活动似乎是一次非正式聚会，可能是烧烤或野餐。",
+        "words": [
+            "event",
+            "gathering",
+            "barbecue",
+            "picnic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Attendees are sitting on folding chairs, with some people standing and interacting nearby.",
+        "sentence_cn": "与会者坐在折叠椅上，一些人站在附近互动。",
+        "words": [
+            "Attendees",
+            "folding",
+            "chairs",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Most are dressed in casual clothing such as t-shirts, shorts, or jeans, reflecting a relaxed and informal atmosphere.",
+        "sentence_cn": "大多数人都穿着 T 恤、短裤或牛仔裤等休闲服装，体现出轻松、非正式的氛围。",
+        "words": [
+            "clothing",
+            "t",
+            "shirts",
+            "shorts",
+            "jeans",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several tables are laden with disposable cups, plates, and various food and drink items.",
+        "sentence_cn": "几张桌子上摆满了一次性杯子、盘子和各种食物和饮料。",
+        "words": [
+            "tables",
+            "cups",
+            "plates",
+            "food",
+            "drink",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are trees, grass, and a glimpse of a house, suggesting a pleasant weather day suitable for outdoor dining.",
+        "sentence_cn": "背景中有树木、草地和一栋房子，预示着天气宜人，适合户外用餐。",
+        "words": [
+            "background",
+            "trees",
+            "grass",
+            "glimpse",
+            "house",
+            "weather",
+            "day",
+            "dining"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"I.Q.\" at the top, featuring three characters.",
+        "sentence_cn": "图片上方是电影《I.Q》的电影海报，上面有三个角色。",
+        "words": [
+            "I.Q.",
+            "movie",
+            "poster",
+            "film",
+            "top",
+            "three",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a woman with short, blonde hair (Meg Ryan) is smiling and facing a man on the right with neatly styled hair (Tim Robbins), who is also smiling.",
+        "sentence_cn": "左边是一位有着金色短发的女子（梅格瑞安饰）面带微笑，而右边则是一位头发梳理整齐的男子（蒂姆罗宾斯饰），他也在微笑。",
+        "words": [
+            "left",
+            "woman",
+            "hair",
+            "man",
+            "right",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They're looking at each other affectionately.",
+        "sentence_cn": "他们深情地对视着。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Between them is an illustration of an atom with a heart.",
+        "sentence_cn": "它们中间是一颗带有心脏的原子的插图。",
+        "words": [
+            "illustration",
+            "atom",
+            "heart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them, an older man with white, wild hair and a mustache (Walter Matthau) is smiling at the viewer.",
+        "sentence_cn": "在他们下方，一位有着蓬乱白发和小胡子的老年男子（沃尔特·马修饰）正对着观众微笑。",
+        "words": [
+            "man",
+            "hair",
+            "mustache",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the poster reads, âWith Einstein as Cupid what could possibly go wrong?â Below is the title \"I.Q.\" with the tagline \"Think love.\"",
+        "sentence_cn": "海报上的文字是“爱因斯坦作为丘比特，还能有什么不妥呢？”下面是标题“智商”，以及标语“思考爱”。",
+        "words": [
+            "I.Q.",
+            "Think love.",
+            "text",
+            "poster",
+            "title",
+            "tagline",
+            "love"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a list of credits, and the release date is stated as \"Coming December 25th.\"",
+        "sentence_cn": "这里列有片尾字幕，发布日期为“12 月 25 日上映”。",
+        "words": [
+            "Coming December 25th.",
+            "list",
+            "credits",
+            "release",
+            "date",
+            "25th"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme of the poster suggests a romantic comedy with a scientific twist.",
+        "sentence_cn": "海报的整体主题是一部带有科学色彩的浪漫喜剧。",
+        "words": [
+            "theme",
+            "poster",
+            "comedy",
+            "twist"
+        ],
+        "id": null
+    }
+]

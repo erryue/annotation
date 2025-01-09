@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image features a series of stone sculptures shaped like giant human hands emerging from a grassy hillside.",
+        "sentence_cn": "该图为一系列石雕，形状如同巨大的人手从长满青草的山坡上伸出。",
+        "words": [
+            "series",
+            "stone",
+            "sculptures",
+            "hands",
+            "hillside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These hands are arranged in a circular formation reminiscent of Stonehenge.",
+        "sentence_cn": "这些手排列成一个圆形，让人联想到巨石阵。",
+        "words": [
+            "hands",
+            "formation",
+            "Stonehenge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, one of the hands holds a flip phone with the AT&T logo prominently displayed on its screen.",
+        "sentence_cn": "在中心，一只手拿着一部翻盖手机，屏幕上显眼地显示着 AT&T 的标志。",
+        "words": [
+            "center",
+            "one",
+            "hands",
+            "phone",
+            "logo",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background consists of a smooth gradient sky transitioning from pale green to light blue.",
+        "sentence_cn": "背景由从淡绿色到浅蓝色的平滑渐变天空组成。",
+        "words": [
+            "background",
+            "gradient",
+            "sky",
+            "green",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the scene, in small text, it reads: \"Works in over 200 countries, like England.\"",
+        "sentence_cn": "场景上方用小字体写着：“在 200 多个国家有效，包括英国。”",
+        "words": [
+            "Works in over 200 countries, like England.",
+            "scene",
+            "text",
+            "Works",
+            "200",
+            "countries",
+            "England"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the image is a blend of surrealism and modern technology, emphasizing global connectivity.",
+        "sentence_cn": "图像整体色调融合了超现实主义和现代科技，强调全球连通性。",
+        "words": [
+            "tone",
+            "blend",
+            "surrealism",
+            "technology",
+            "connectivity"
+        ],
+        "id": null
+    }
+]

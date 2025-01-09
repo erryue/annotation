@@ -1,0 +1,214 @@
+[
+    {
+        "sentence": "The image depicts the interior of a small, rustic store, possibly a general store or a convenience store with a cozy, old-fashioned charm.",
+        "sentence_cn": "该图描绘的是一家乡村风格的小商店的内部，可能是一家杂货店或便利店，具有舒适、古老的魅力。",
+        "words": [
+            "interior",
+            "store",
+            "store",
+            "convenience",
+            "store",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The store features wooden shelves and displays with various items.",
+        "sentence_cn": "该商店设有木质货架，展示各种物品。",
+        "words": [
+            "store",
+            "shelves",
+            "displays",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Shelving and Displays**:",
+        "sentence_cn": "1. **货架和展示**:",
+        "words": [
+            "Shelving and Displays",
+            "Shelving",
+            "Displays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Wooden shelves line the walls, filled with a variety of products like canned goods, snacks, and household supplies.",
+        "sentence_cn": "- 墙壁上排列着木质货架，上面摆满了各种商品，如罐头食品、零食和家居用品。",
+        "words": [
+            "shelves",
+            "walls",
+            "variety",
+            "products",
+            "goods",
+            "snacks",
+            "household",
+            "supplies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Several wooden barrels and baskets showcase fresh produce such as bananas, oranges, apples, and other fruits.",
+        "sentence_cn": "- 几个木桶和篮子展示了新鲜农产品，如香蕉、橙子、苹果和其他水果。",
+        "words": [
+            "barrels",
+            "baskets",
+            "produce",
+            "bananas",
+            "oranges",
+            "apples",
+            "fruits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Smaller baskets on display contain different types of candies and packaged snacks.",
+        "sentence_cn": "- 展示的小篮子里装有不同类型的糖果和包装好的零食。",
+        "words": [
+            "baskets",
+            "display",
+            "types",
+            "candies",
+            "snacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Lighting and Atmosphere**:",
+        "sentence_cn": "2. **灯光和氛围**:",
+        "words": [
+            "Lighting and Atmosphere",
+            "Lighting",
+            "Atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Warm lighting hangs from the ceiling, creating a welcoming and homey feel.",
+        "sentence_cn": "- 温暖的灯光悬挂在天花板上，营造出温馨、舒适的感觉。",
+        "words": [
+            "lighting",
+            "ceiling",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The light fixtures have a vintage, industrial design that complements the rustic decor.",
+        "sentence_cn": "- 灯具采用复古的工业设计，与乡村风格的装饰相得益彰。",
+        "words": [
+            "fixtures",
+            "design",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Additional Items**:",
+        "sentence_cn": "3. **附加项目**:",
+        "words": [
+            "Additional Items",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Above the shelves are decorative items and small hanging signs, adding to the store's quaint aesthetics.",
+        "sentence_cn": "- 货架上方是装饰品和小吊牌，增添了商店的古雅美感。",
+        "words": [
+            "shelves",
+            "items",
+            "signs",
+            "store",
+            "aesthetics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A clock is visible on the wall, along with various promotional or informative signs.",
+        "sentence_cn": "- 墙上可见时钟以及各种促销或信息标志。",
+        "words": [
+            "clock",
+            "wall",
+            "signs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In the background, items such as hats and clothing are visible, indicating a diverse range of products.",
+        "sentence_cn": "- 在背景中，可以看到帽子和衣服等物品，表明产品种类繁多。",
+        "words": [
+            "background",
+            "items",
+            "hats",
+            "clothing",
+            "range",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Arrangement**:",
+        "sentence_cn": "4. **安排**:",
+        "words": [
+            "Arrangement",
+            "Arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The store is neatly organized, with different sections for food, beverages, personal care, and miscellaneous goods.",
+        "sentence_cn": "- 商店整洁有序，设有食品、饮料、个人护理和杂货等不同区域。",
+        "words": [
+            "store",
+            "sections",
+            "food",
+            "beverages",
+            "care",
+            "goods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is a central checkout area with a register and additional small display racks.",
+        "sentence_cn": "- 有一个中央结账区，配有收银机和额外的小型展示架。",
+        "words": [
+            "checkout",
+            "area",
+            "register",
+            "display",
+            "racks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the store has a charming and nostalgic design, reminiscent of a small-town general store.",
+        "sentence_cn": "总体而言，这家商店拥有迷人而怀旧的设计，让人想起小镇的杂货店。",
+        "words": [
+            "store",
+            "design",
+            "town",
+            "store"
+        ],
+        "id": null
+    }
+]

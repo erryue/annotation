@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image shows a neatly organized office space with light-colored carpet.",
+        "sentence_cn": "图中显示的是整洁的办公空间，铺有浅色地毯。",
+        "words": [
+            "office",
+            "space",
+            "carpet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a bookshelf holds several books, VHS tapes, and framed photographs.",
+        "sentence_cn": "左边的书架上放着几本书、VHS 录像带和相框。",
+        "words": [
+            "left",
+            "bookshelf",
+            "books",
+            "VHS",
+            "tapes",
+            "photographs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A brown leather chair is positioned nearby, facing a desk.",
+        "sentence_cn": "附近摆放着一把棕色皮椅，面朝桌子。",
+        "words": [
+            "leather",
+            "chair",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk, made of dark wood, includes a computer monitor and keyboard.",
+        "sentence_cn": "桌子由深色木材制成，配有电脑显示器和键盘。",
+        "words": [
+            "desk",
+            "wood",
+            "computer",
+            "monitor",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the walls surrounding the desk are several framed documents, possibly certificates or diplomas.",
+        "sentence_cn": "桌子周围的墙上挂着几份装裱好的文件，可能是证书或文凭。",
+        "words": [
+            "walls",
+            "desk",
+            "documents",
+            "certificates",
+            "diplomas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the desk is a wooden hutch with various decorative items, including a small replica of an antenna and other small objects.",
+        "sentence_cn": "桌子上方是一个木制橱柜，里面摆放着各种装饰品，包括一个天线的小型复制品和其他小物件。",
+        "words": [
+            "desk",
+            "hutch",
+            "items",
+            "replica",
+            "antenna",
+            "objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's a tall wooden filing cabinet.",
+        "sentence_cn": "右边有一个高高的木制文件柜。",
+        "words": [
+            "right",
+            "filing",
+            "cabinet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room has a clean and professional appearance, lit by fluorescent ceiling lights.",
+        "sentence_cn": "总体而言，房间外观干净、专业，由荧光天花板灯照明。",
+        "words": [
+            "room",
+            "appearance",
+            "ceiling",
+            "lights"
+        ],
+        "id": null
+    }
+]

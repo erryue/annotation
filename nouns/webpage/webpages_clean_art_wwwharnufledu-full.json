@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image is a screenshot of the Harn Museum of Art's website.",
+        "sentence_cn": "该图是哈恩艺术博物馆网站的截图。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section features a bright orange header with the museum's name and affiliation, \"Harn Museum of Art, University of Florida,\" along with navigation options such as \"Explore + View,\" \"Visit,\" \"Learn + Teach,\" \"Get Involved,\" and \"Belong + Give.\"",
+        "sentence_cn": "顶部有一个明亮的橙色标题，上面写着博物馆的名称和附属机构“佛罗里达大学哈恩艺术博物馆”，以及“探索+查看”、“参观”、“学习+教学”、“参与”和“归属+捐赠”等导航选项。",
+        "words": [
+            "Harn Museum of Art, University of Florida,",
+            "Explore + View,",
+            "Visit,",
+            "Learn + Teach,",
+            "Get Involved,",
+            "Belong + Give.",
+            "section",
+            "orange",
+            "header",
+            "museum",
+            "name",
+            "affiliation",
+            "navigation",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is a large, colorful artwork background composed of puzzle pieces depicting surreal and imaginative figures, including a red-scaled creature and various abstract human and animal forms.",
+        "sentence_cn": "标题下方是一个巨大的、色彩鲜艳的艺术背景，由描绘超现实和富有想象力的人物的拼图碎片组成，包括一个红色鳞片的生物和各种抽象的人类和动物形态。",
+        "words": [
+            "header",
+            "artwork",
+            "background",
+            "puzzle",
+            "pieces",
+            "figures",
+            "creature",
+            "human",
+            "animal",
+            "forms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overlaying the image is a translucent box with the text \"INNOVATIVE + IMAGINATIVE\" and a description inviting viewers to explore works from key faculty members in the UF Photography Department during the 1960s and 70s.",
+        "sentence_cn": "图像上覆盖着一个半透明的框，上面写着“创新+富有想象力”的文字和一段描述，邀请观众探索 20 世纪 60 年代和 70 年代佛罗里达大学摄影系主要教员的作品。",
+        "words": [
+            "INNOVATIVE + IMAGINATIVE",
+            "box",
+            "text",
+            "viewers",
+            "works",
+            "faculty",
+            "members",
+            "1960s",
+            "70s"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A blue \"MORE\" button suggests additional content.",
+        "sentence_cn": "蓝色的“更多”按钮建议添加更多内容。",
+        "words": [
+            "MORE",
+            "button",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom left, a magenta box labeled \"Happening at the Harn\" gives museum hours for today and tomorrow.",
+        "sentence_cn": "左下角有一个洋红色的方框，上面标着“哈恩发生的事件”，其中显示了博物馆今天和明天的开放时间。",
+        "words": [
+            "Happening at the Harn",
+            "left",
+            "magenta",
+            "box",
+            "museum",
+            "hours",
+            "today",
+            "tomorrow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three orange buttons at the bottom link to sections labeled \"Public Celebration,\" \"YOUR Harn Story,\" and \"Museum Nights.\"",
+        "sentence_cn": "底部的三个橙色按钮，链接到标有“公共庆祝活动”，“您的Harn Story”和“博物馆之夜”的部分。",
+        "words": [
+            "Public Celebration,",
+            "YOUR Harn Story,",
+            "Museum Nights.",
+            "Three",
+            "orange",
+            "buttons",
+            "bottom",
+            "link",
+            "sections",
+            "Celebration"
+        ],
+        "id": null
+    }
+]

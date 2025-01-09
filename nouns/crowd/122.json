@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image shows a group of people at a social event, likely a formal gathering or party.",
+        "sentence_cn": "图片显示的是一群人参加社交活动，可能是正式的聚会或派对。",
+        "words": [
+            "group",
+            "people",
+            "event",
+            "gathering",
+            "party"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be indoors, possibly near a window.",
+        "sentence_cn": "该场景似乎是在室内，可能靠近窗户。",
+        "words": [
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two women are smiling, standing close together with their arms around each other.",
+        "sentence_cn": "前景中，两个女人面带微笑，紧紧站在一起，互相搂着。",
+        "words": [
+            "foreground",
+            "two",
+            "women",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left is wearing a white sleeveless blouse and glasses, holding a glass of wine.",
+        "sentence_cn": "左边的女子身穿白色无袖上衣，戴着眼镜，手里拿着一杯酒。",
+        "words": [
+            "woman",
+            "left",
+            "blouse",
+            "glasses",
+            "glass",
+            "wine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the right is in a pink blouse and is also holding a drink, with a handbag over her shoulder.",
+        "sentence_cn": "右边的女子身穿粉色上衣，手里也拿着饮料，肩上挎着手提包。",
+        "words": [
+            "woman",
+            "right",
+            "blouse",
+            "drink",
+            "handbag",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a man in a black blazer, yellow shirt, and glasses is holding a drink and appears to be engaged in conversation.",
+        "sentence_cn": "右边，一名身穿黑色西装外套、黄色衬衫、戴着眼镜的男子手里拿着一杯饮料，似乎正在交谈。",
+        "words": [
+            "right",
+            "man",
+            "blazer",
+            "shirt",
+            "glasses",
+            "drink",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, several other people can be seen, some holding drinks.",
+        "sentence_cn": "在背景中，还可以看到其他几个人，其中一些手里拿着饮料。",
+        "words": [
+            "background",
+            "people",
+            "drinks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are dressed in formal or semi-formal attire, such as suits and dresses.",
+        "sentence_cn": "他们穿着正式或半正式的服装，例如西装和连衣裙。",
+        "words": [
+            "attire",
+            "suits",
+            "dresses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is lively, suggesting a celebratory or networking event.",
+        "sentence_cn": "气氛活跃，像是一场庆祝或社交活动。",
+        "words": [
+            "atmosphere",
+            "networking",
+            "event"
+        ],
+        "id": null
+    }
+]

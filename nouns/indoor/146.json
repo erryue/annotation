@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image shows a modern office space with a clean and organized layout.",
+        "sentence_cn": "图中显示的是一个布局整洁有序的现代化办公空间。",
+        "words": [
+            "office",
+            "space",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several wooden desks equipped with ergonomic chairs, and each workspace is furnished with monitors, keyboards, and office supplies like folders and stationary.",
+        "sentence_cn": "这里有几张配备符合人体工程学的椅子的木桌，每个工作区都配有显示器、键盘以及文件夹和文具等办公用品。",
+        "words": [
+            "desks",
+            "chairs",
+            "workspace",
+            "monitors",
+            "keyboards",
+            "office",
+            "supplies",
+            "folders",
+            "stationary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desks, there are various papers and documents spread out, suggesting an active work environment.",
+        "sentence_cn": "办公桌上，各类纸张、文件散落一地，呈现出一种活跃的工作氛围。",
+        "words": [
+            "desks",
+            "papers",
+            "documents",
+            "work",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some desks have desktop computers, while others have laptops.",
+        "sentence_cn": "有些桌子上有台式电脑，有些桌子上有笔记本电脑。",
+        "words": [
+            "desks",
+            "desktop",
+            "computers",
+            "others",
+            "laptops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk arrangement is open, facilitating collaboration, with dividers that provide some level of privacy.",
+        "sentence_cn": "办公桌的布置是开放的，有利于协作，并设有隔断，以提供一定程度的隐私。",
+        "words": [
+            "desk",
+            "arrangement",
+            "collaboration",
+            "dividers",
+            "level",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The office has a well-lit ambiance, supported by large windows allowing natural light to enter.",
+        "sentence_cn": "办公室光线充足，大窗户可以让自然光照进室内。",
+        "words": [
+            "office",
+            "ambiance",
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ceiling has modern hanging lights, and there's a mix of wooden and white surfaces giving a warm yet professional feel.",
+        "sentence_cn": "天花板上挂着现代化的吊灯，木质和白色混合的表面给人一种温暖而专业的感觉。",
+        "words": [
+            "ceiling",
+            "lights",
+            "mix",
+            "surfaces",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also plants and personal items on some desks, adding a touch of personalization.",
+        "sentence_cn": "一些桌子上还摆放了植物和个人物品，增添了个性化的气息。",
+        "words": [
+            "plants",
+            "items",
+            "desks",
+            "touch",
+            "personalization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, architectural drawings and plans are visible, indicating this might be an office for architecture or design work.",
+        "sentence_cn": "此外，还可以看到建筑图纸和规划，表明这可能是一个用于建筑或设计工作的办公室。",
+        "words": [
+            "drawings",
+            "plans",
+            "office",
+            "architecture",
+            "design",
+            "work"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Walls have minimalistic decorations, including a clock and abstract wall art, enhancing the contemporary aesthetic of the space.",
+        "sentence_cn": "墙壁采用简约的装饰，包括时钟和抽象的墙壁艺术，增强了空间的现代美感。",
+        "words": [
+            "Walls",
+            "decorations",
+            "clock",
+            "wall",
+            "art",
+            "aesthetic",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An exit sign is present in the background, signaling clear safety measures in place.",
+        "sentence_cn": "背景中有一个出口标志，明确表明已采取安全措施。",
+        "words": [
+            "exit",
+            "sign",
+            "background",
+            "safety",
+            "measures",
+            "place"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for A&W Root Beer.",
+        "sentence_cn": "该图是 A&W 根汁啤酒的复古广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a smiling woman in a uniform holding a large frosty mug of root beer.",
+        "sentence_cn": "照片中，一位身着制服、面带微笑的女人手里拿着一大杯冰镇根汁啤酒。",
+        "words": [
+            "woman",
+            "uniform",
+            "mug",
+            "root",
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text at the top reads âThirst-aid station.â",
+        "sentence_cn": "顶部的文字写着“口渴站”。",
+        "words": [
+            "text",
+            "top",
+            "âThirst",
+            "aid"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's an illustration of an A&W drive-in restaurant with a classic car parked outside.",
+        "sentence_cn": "背景是一幅 A&W 汽车餐厅的插图，外面停着一辆老爷车。",
+        "words": [
+            "background",
+            "illustration",
+            "restaurant",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement emphasizes the use of âpure natural ingredientsâ and a âtrue draft flavor.â",
+        "sentence_cn": "广告强调使用“纯天然成分”和“真正的生啤酒口味”。",
+        "words": [
+            "use",
+            "draft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a section encouraging people to \"Take Home a Treat\" with A&W Root Beer, highlighting its appeal to families.",
+        "sentence_cn": "有一个部分鼓励人们“带点 A&W 根汁啤酒回家”，强调其对家庭的吸引力。",
+        "words": [
+            "Take Home a Treat",
+            "section",
+            "people",
+            "Treat",
+            "appeal",
+            "families"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there are illustrations of children and a suggestion that the product is enjoyed worldwide.",
+        "sentence_cn": "此外，其中还配有儿童的插图，表明该产品在世界各地都很受欢迎。",
+        "words": [
+            "illustrations",
+            "children",
+            "suggestion",
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design and style are indicative of mid-20th century American advertisements, using bright colors and cheerful imagery to convey a fun, family-friendly appeal.",
+        "sentence_cn": "其设计和风格体现了 20 世纪中期美国广告的风格，采用明亮的色彩和欢快的图像来传达有趣、适合家庭的吸引力。",
+        "words": [
+            "design",
+            "style",
+            "century",
+            "advertisements",
+            "colors",
+            "imagery",
+            "family",
+            "appeal"
+        ],
+        "id": null
+    }
+]

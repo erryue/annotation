@@ -73,12 +73,13 @@
       // 获取 URL 查询参数
       const urlParams = new URLSearchParams(window.location.search);
       const imageName = urlParams.get('name');
+      const imageType = urlParams.get('type');
 
       // 加载 paths.json 文件
-      fetch('./paths.json')
+      fetch('./paths_test.json')
         .then(response => response.json())
         .then(data => {
-          const Image = data.find(item => item.image_name === imageName);
+          const Image = data.find(item => item.image_name === imageName && item.image_type === imageType);
         
         document.getElementById('my-image').src = Image.image_path;
         
@@ -129,7 +130,8 @@
             sentenceDiv.className = 'sentence-container';
   
             // 处理英文句子并高亮关键字
-            if (item.words.length > 0) {
+            // if (item.words.length > 0) {
+            if (item.sentence) {
               let formattedSentence = item.sentence;
               item.words.forEach((word) => {
                 const regex = new RegExp(`\\b${word}\\b`, 'g');

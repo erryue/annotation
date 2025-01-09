@@ -1,0 +1,116 @@
+[
+    {
+        "sentence": "The image is a screenshot of a blog page titled \"Aris Blog.\"",
+        "sentence_cn": "该图是标题为“Aris Blog”的博客页面的截图。",
+        "words": [
+            "Aris Blog.",
+            "blog",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top banner features an illustration of a child sleeping on a crescent moon, wearing a red outfit with white polka dots and a matching headband, set against a dark blue starry sky.",
+        "sentence_cn": "顶部横幅描绘了一个孩子睡在新月上的图画，孩子穿着带有白色圆点的红色衣服，戴着同色头带，背景是深蓝色的星空。",
+        "words": [
+            "banner",
+            "illustration",
+            "child",
+            "moon",
+            "outfit",
+            "polka",
+            "dots",
+            "headband",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The words \"Aris Blog\" are displayed in large red letters.",
+        "sentence_cn": "“Aris Blog”字样以大红色字母显示。",
+        "words": [
+            "Aris Blog",
+            "words",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, there are two navigation tabs labeled \"Home page\" and \"Take Me With You!\"",
+        "sentence_cn": "横幅下方有两个导航标签，分别标有“主页”和“带我一起去！”",
+        "words": [
+            "Home page",
+            "Take Me With You!",
+            "banner",
+            "two",
+            "navigation",
+            "tabs",
+            "Home",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The first blog post is dated \"lunedÃ¬ 11 maggio 2015\" (Monday, May 11, 2015) with the title \"Circus bike queen.\"",
+        "sentence_cn": "第一篇博客文章的发布日期为“2015 年 5 月 11 日星期一”，标题为“马戏团自行车女王”。",
+        "words": [
+            "lunedÃ¬ 11 maggio 2015",
+            "Circus bike queen.",
+            "blog",
+            "post",
+            "11",
+            "2015",
+            "11",
+            "2015",
+            "title",
+            "Circus",
+            "bike",
+            "queen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The post features an illustration of a person with short hair wearing a red crown, circled by a blue-green ring and surrounded by newspaper cuttings.",
+        "sentence_cn": "帖子中的插图是一位短发男子，头戴红色皇冠，皇冠周围有一圈蓝绿色的圆环，周围还堆满了剪报。",
+        "words": [
+            "post",
+            "illustration",
+            "person",
+            "hair",
+            "crown",
+            "ring",
+            "newspaper",
+            "cuttings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's a notice in English requesting users not to use the blog's pictures without permission, along with a contact email.",
+        "sentence_cn": "右侧有英文通知，请求用户不得未经许可使用博客图片，并附有联系电子邮件。",
+        "words": [
+            "notice",
+            "users",
+            "blog",
+            "pictures",
+            "permission",
+            "contact",
+            "email"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the notice is a thumbnail image labeled \"Calendario 2015,\" displaying a bear sitting on a crescent moon in a starry night sky.",
+        "sentence_cn": "通知下方是一张标有“2015 年日历”的缩略图，图中是一只熊坐在繁星点点的夜空中的一弯新月上。",
+        "words": [
+            "Calendario 2015,",
+            "notice",
+            "thumbnail",
+            "2015",
+            "bear",
+            "moon",
+            "night",
+            "sky"
+        ],
+        "id": null
+    }
+]

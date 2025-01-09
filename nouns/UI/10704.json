@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image is a screenshot of a video interface, specifically featuring a video titled \"Angry Masterji Part 9\" from \"BB Ki Vines.\"",
+        "sentence_cn": "图片是视频界面的截图，具体是《BB Ki Vines》中名为《Angry Masterji Part 9》的视频。",
+        "words": [
+            "Angry Masterji Part 9",
+            "BB Ki Vines.",
+            "video",
+            "interface",
+            "video",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The thumbnail shows a man with a thoughtful expression, holding his hand to his mouth.",
+        "sentence_cn": "缩略图显示一名男子用手捂住嘴，一脸若有所思的表情。",
+        "words": [
+            "thumbnail",
+            "man",
+            "expression",
+            "hand",
+            "mouth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The video's duration is 7 minutes and 31 seconds.",
+        "sentence_cn": "视频时长7分31秒。",
+        "words": [
+            "video",
+            "duration",
+            "7",
+            "minutes",
+            "31",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface has tabs labeled SMS, Hinglish, Jokes, and Videos, with the Videos tab highlighted.",
+        "sentence_cn": "界面上有标签为 SMS、Hinglish、Jokes 和 Videos，其中 Videos 标签被突出显示。",
+        "words": [
+            "interface",
+            "tabs",
+            "SMS",
+            "Hinglish",
+            "Jokes",
+            "Videos",
+            "Videos",
+            "tab"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath this, there appears to be an advertisement for \"The World's Largest 3D Experience\" and a Google Play ad promoting apps.",
+        "sentence_cn": "在这下面，似乎有一则“世界上最大的 3D 体验”的广告和一则推广应用程序的 Google Play 广告。",
+        "words": [
+            "The World's Largest 3D Experience",
+            "ad",
+            "apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the image shows an icon-filled notification bar, indicating it is a mobile interface.",
+        "sentence_cn": "图片上方显示的是充满图标的通知栏，表明这是一个移动界面。",
+        "words": [
+            "top",
+            "icon",
+            "notification",
+            "bar",
+            "interface"
+        ],
+        "id": null
+    }
+]

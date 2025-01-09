@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image shows a group of five people in a social, indoor environment, such as a library or cafe.",
+        "sentence_cn": "图像显示了图书馆或咖啡馆等社交室内环境中的一群五人。",
+        "words": [
+            "group",
+            "five",
+            "people",
+            "environment",
+            "library",
+            "cafe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person sitting on the left is using a laptop with several stickers on it.",
+        "sentence_cn": "- 坐在左边的人正在使用一台贴有几张贴纸的笔记本电脑。",
+        "words": [
+            "person",
+            "left",
+            "laptop",
+            "stickers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have curly hair and are smiling, wearing a light-colored shirt and a headband.",
+        "sentence_cn": "他们有着卷发，面带微笑，身穿浅色衬衫，戴着头带。",
+        "words": [
+            "hair",
+            "shirt",
+            "headband"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A group of four people is standing around the seated person.",
+        "sentence_cn": "- 四个人围着坐着的人站着。",
+        "words": [
+            "group",
+            "four",
+            "people",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear engaged in conversation, with smiling and laughing expressions.",
+        "sentence_cn": "他们似乎在交谈，面带微笑，笑容满面。",
+        "words": [
+            "conversation",
+            "expressions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- One of the standing people is wearing a black jacket and jeans, with sunglasses perched on their head.",
+        "sentence_cn": "- 其中一位站着的人身穿黑色夹克和牛仔裤，头上戴着太阳镜。",
+        "words": [
+            "One",
+            "people",
+            "jacket",
+            "jeans",
+            "sunglasses",
+            "head"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Another is wearing a dark jacket, and they also appear to be smiling broadly.",
+        "sentence_cn": "- 另一人穿着深色夹克，并且看起来也笑容满面。",
+        "words": [
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A person with a blue and gray backpack, which has a drink in the side pocket, is wearing a mustard-colored sweater.",
+        "sentence_cn": "- 一个人背着蓝灰色的背包，侧袋里有饮料，身上穿着芥末色的毛衣。",
+        "words": [
+            "person",
+            "backpack",
+            "drink",
+            "pocket",
+            "mustard",
+            "sweater"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The background includes large windows bringing in substantial natural light, and there are wooden chairs and tables around, suggesting a casual, comfortable setting.",
+        "sentence_cn": "- 背景包括大窗户，带来充足的自然光，周围有木椅和桌子，营造出一种休闲、舒适的氛围。",
+        "words": [
+            "background",
+            "windows",
+            "light",
+            "chairs",
+            "tables"
+        ],
+        "id": null
+    }
+]

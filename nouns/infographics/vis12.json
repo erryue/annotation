@@ -1,0 +1,314 @@
+[
+    {
+        "sentence": "The image is an infographic about early voting in Georgia for 2012.",
+        "sentence_cn": "该图是有关 2012 年佐治亚州提前投票的信息图。",
+        "words": [
+            "voting",
+            "Georgia",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It contains several sections with various facts and figures:",
+        "sentence_cn": "它包含几个部分，包含各种事实和数据：",
+        "words": [
+            "sections",
+            "facts",
+            "figures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Title and Overall Vote Count**:",
+        "sentence_cn": "1. **标题和总投票数**:",
+        "words": [
+            "Title and Overall Vote Count",
+            "Title",
+            "Vote",
+            "Count"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - At the top, it reads \"Georgia Early Voting 2012,\" with âFacts & Figuresâ below.",
+        "sentence_cn": "- 顶部写着“2012 年佐治亚州提前投票”，下方是“事实与数据”。",
+        "words": [
+            "Georgia Early Voting 2012,",
+            "top",
+            "Voting",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The total number of votes cast is shown as 468,343.",
+        "sentence_cn": "- 总投票数显示为 468,343 票。",
+        "words": [
+            "number",
+            "votes",
+            "468,343"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Voting Methods**:",
+        "sentence_cn": "2. **投票方式**:",
+        "words": [
+            "Voting Methods",
+            "Voting",
+            "Methods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are two categories depicted with graphics:",
+        "sentence_cn": "- 图形描绘了两个类别：",
+        "words": [
+            "two",
+            "categories",
+            "graphics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 98,388 mail-in ballots.",
+        "sentence_cn": "- 98,388 张邮寄选票。",
+        "words": [
+            "98,388",
+            "ballots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 369,955 in-person ballots.",
+        "sentence_cn": "- 369,955 张亲自投票。",
+        "words": [
+            "369,955",
+            "person",
+            "ballots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Top Counties with Highest Voter Turnout**:",
+        "sentence_cn": "3. **投票率最高的县**:",
+        "words": [
+            "Top Counties with Highest Voter Turnout",
+            "Counties",
+            "Voter",
+            "Turnout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A word cloud highlights counties, with âFulton,â âDekalb,â âGwinnett,â and others in varying font sizes.",
+        "sentence_cn": "- 词云突出显示各个县，其中“富尔顿”、“迪卡尔布”、“格威内特”等采用不同字体大小。",
+        "words": [
+            "word",
+            "cloud",
+            "counties",
+            "others",
+            "font",
+            "sizes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Voting Locations**:",
+        "sentence_cn": "4. **投票地点**:",
+        "words": [
+            "Voting Locations",
+            "Voting",
+            "Locations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrated with a map of Georgia filled with red and blue dots indicating 253 weekday locations and 204 Saturday locations.",
+        "sentence_cn": "- 以佐治亚州地图为插图，其中布满了红点和蓝点，标明 253 个工作日地点和 204 个周六地点。",
+        "words": [
+            "map",
+            "Georgia",
+            "dots",
+            "253",
+            "weekday",
+            "locations",
+            "204",
+            "locations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. **Voting Hours**:",
+        "sentence_cn": "5. **投票时间**:",
+        "words": [
+            "Voting Hours",
+            "Voting",
+            "Hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Total amount of time locations were open was 27,000 hours.",
+        "sentence_cn": "- 各门店开放总时间为 27,000 小时。",
+        "words": [
+            "amount",
+            "time",
+            "locations",
+            "27,000",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Comparisons include:",
+        "sentence_cn": "- 比较包括：",
+        "words": [
+            "Comparisons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 97,200,000 seconds",
+        "sentence_cn": "97,200,000 秒",
+        "words": [
+            "97,200,000",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 1,620,000 minutes",
+        "sentence_cn": "1,620,000 分钟",
+        "words": [
+            "1,620,000",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 1,125 days",
+        "sentence_cn": "1125天",
+        "words": [
+            "1,125",
+            "days"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 160 weeks",
+        "sentence_cn": "- 160 周",
+        "words": [
+            "160",
+            "weeks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 36 months",
+        "sentence_cn": "36个月",
+        "words": [
+            "36",
+            "months"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 3 years",
+        "sentence_cn": "- 3 年",
+        "words": [
+            "3",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A fun fact compares this to listening to Ray Charles' \"Georgia on My Mind\" 470,000 times.",
+        "sentence_cn": "- 一个有趣的事实是，这与听雷·查尔斯 (Ray Charles) 的“Georgia on My Mind” 470,000 次相比。",
+        "words": [
+            "Georgia on My Mind",
+            "fact",
+            "470,000",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. **Overseas and Military Voting**:",
+        "sentence_cn": "6. **海外及军人投票**:",
+        "words": [
+            "Overseas and Military Voting",
+            "Voting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows that 11,811 ballots were cast from 50 countries.",
+        "sentence_cn": "- 显示来自 50 个国家的投票数为 11,811 张。",
+        "words": [
+            "11,811",
+            "ballots",
+            "50",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The longest distance a Georgia ballot traveled was 9,980 miles, depicted with a world map and flight paths.",
+        "sentence_cn": "- 佐治亚州选票运送的最长距离为 9,980 英里，用世界地图和飞行路径描绘出来。",
+        "words": [
+            "distance",
+            "Georgia",
+            "ballot",
+            "9,980",
+            "miles",
+            "world",
+            "map",
+            "flight",
+            "paths"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the infographic visually represents data related to early voting in Georgia during 2012, including voter turnout, locations, hours, and the international reach of ballots.",
+        "sentence_cn": "总体而言，该信息图直观地呈现了 2012 年佐治亚州提前投票的相关数据，包括投票率、地点、时间和选票的国际影响力。",
+        "words": [
+            "data",
+            "voting",
+            "Georgia",
+            "2012",
+            "voter",
+            "turnout",
+            "locations",
+            "hours",
+            "reach",
+            "ballots"
+        ],
+        "id": null
+    }
+]

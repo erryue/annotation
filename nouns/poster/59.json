@@ -1,0 +1,107 @@
+[
+    {
+        "sentence": "The image is a film poster for \"Red,\" directed by Krzysztof Kieslowski.",
+        "sentence_cn": "图片是克日什托夫·基耶斯洛夫斯基执导的电影《红色》的海报。",
+        "words": [
+            "Red,",
+            "film",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dominant color is red, creating an intense and dramatic tone.",
+        "sentence_cn": "主色调是红色，营造出强烈而富有戏剧性的色调。",
+        "words": [
+            "color",
+            "tone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a side profile of a woman looking towards the right.",
+        "sentence_cn": "海报上是一位朝右看的女人的侧面像。",
+        "words": [
+            "poster",
+            "profile",
+            "woman",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her expression is thoughtful, and her face is softly illuminated.",
+        "sentence_cn": "她的表情若有所思，脸上散发着柔和的光芒。",
+        "words": [
+            "expression",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a quote from Roger Ebert, Chicago Sun-Times, proclaiming the movie as \"A MASTERPIECE!\"",
+        "sentence_cn": "顶部引用了芝加哥太阳时报罗杰·艾伯特的话，称该电影是“杰作！”",
+        "words": [
+            "A MASTERPIECE!",
+            "top",
+            "quote",
+            "movie",
+            "MASTERPIECE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath the quote, the names of the lead actors, IrÃ¨ne Jacob and Jean-Louis Trintignant, are displayed.",
+        "sentence_cn": "引文下方显示了主演伊蕾娜·雅各布 (IrÃ¨ne Jacob) 和让-路易·特兰蒂尼昂 (Jean-Louis Trintignant) 的名字。",
+        "words": [
+            "quote",
+            "names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"RED\" is prominently placed at the center in bold, white letters.",
+        "sentence_cn": "标题“RED”以粗体白色字母突出显示在中心位置。",
+        "words": [
+            "RED",
+            "title",
+            "center",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom part of the poster includes production details, such as the film being associated with Miramax Films, and credits for screenplay, music, director of photography, and other production roles.",
+        "sentence_cn": "海报的下半部分包括制作细节，例如该电影与米拉麦克斯影业合作，以及剧本、音乐、摄影导演和其他制作角色的人员名单。",
+        "words": [
+            "part",
+            "poster",
+            "production",
+            "details",
+            "film",
+            "credits",
+            "screenplay",
+            "music",
+            "director",
+            "photography",
+            "production",
+            "roles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there is an \"R\" rating label indicating restricted content, and a note about the soundtrack being available.",
+        "sentence_cn": "此外，还有一个“R”级标签，表示内容受限，以及关于配乐可用的说明。",
+        "words": [
+            "R",
+            "R",
+            "rating",
+            "label",
+            "content",
+            "note",
+            "soundtrack"
+        ],
+        "id": null
+    }
+]

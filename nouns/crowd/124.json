@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image depicts a group of six women of varying ages gathered around a table, engaging in a collaborative activity.",
+        "sentence_cn": "图像描绘了六位不同年龄的妇女聚集在一张桌子旁，进行合作活动。",
+        "words": [
+            "group",
+            "six",
+            "women",
+            "ages",
+            "table",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be sorting or folding various cloth items and organizing them.",
+        "sentence_cn": "他们似乎正在分类或折叠各种布料并将它们整理好。",
+        "words": [
+            "cloth",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The items on the table include neatly folded towels, cloths, socks, and some packaged goods in plastic bags.",
+        "sentence_cn": "桌上的物品包括折叠整齐的毛巾、布、袜子以及一些用塑料袋包装好的物品。",
+        "words": [
+            "items",
+            "table",
+            "towels",
+            "cloths",
+            "socks",
+            "goods",
+            "bags"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One older woman, wearing a pink sweater and glasses, is seated and appears to be busy sorting items.",
+        "sentence_cn": "一位身穿粉色毛衣、戴着眼镜的老年妇女坐着，似乎正在忙着整理物品。",
+        "words": [
+            "One",
+            "woman",
+            "sweater",
+            "glasses",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to her is another woman in a tan sweater, interacting with the group.",
+        "sentence_cn": "她旁边是另一位身穿棕褐色毛衣的女士，正在与这群人互动。",
+        "words": [
+            "woman",
+            "sweater",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three younger women are standing behind, smiling and participating in the task, while another is seated at the table, assisting with the sorting.",
+        "sentence_cn": "三名年轻女子站在后面，微笑着参与这项任务，而另一名则坐在桌边协助分类。",
+        "words": [
+            "Three",
+            "women",
+            "task",
+            "table",
+            "sorting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems lively and cooperative, suggesting a community or volunteer activity.",
+        "sentence_cn": "气氛似乎很活跃，很有合作精神，这表明这是一个社区或志愿者活动。",
+        "words": [
+            "atmosphere",
+            "community",
+            "volunteer",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a neutral-colored brick wall.",
+        "sentence_cn": "背景是一面中性色调的砖墙。",
+        "words": [
+            "background",
+            "brick",
+            "wall"
+        ],
+        "id": null
+    }
+]

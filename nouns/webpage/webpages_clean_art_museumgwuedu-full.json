@@ -1,0 +1,138 @@
+[
+    {
+        "sentence": "The image is a webpage from The George Washington University Museum and The Textile Museum.",
+        "sentence_cn": "图片是乔治华盛顿大学博物馆和纺织博物馆的网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a blue banner with the museum's logos and a search bar.",
+        "sentence_cn": "顶部有一个蓝色横幅，上面有博物馆的标志和搜索栏。",
+        "words": [
+            "top",
+            "banner",
+            "museum",
+            "logos",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below it is a promotional banner for an exhibition titled \"China: Through the Lens of John Thomson 1868-1872,\" opening September 19.",
+        "sentence_cn": "下面是“中国：约翰·汤姆森镜头下的中国1868-1872”展览的宣传横幅，该展览将于 9 月 19 日开幕。",
+        "words": [
+            "China: Through the Lens of John Thomson 1868-1872,",
+            "banner",
+            "exhibition",
+            "1868",
+            "1872",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left side features a sepia-toned photograph of a person.",
+        "sentence_cn": "左侧是一张棕褐色调的人物照片。",
+        "words": [
+            "sepia",
+            "photograph",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is Chinese text next to the photo.",
+        "sentence_cn": "照片旁边有中文文字。",
+        "words": [
+            "text",
+            "photo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath the banner are navigation tabs, including \"About Us,\" \"Exhibitions & Collections,\" \"Programs & Events,\" \"Learning Resources,\" \"Support,\" and \"Shop.\"",
+        "sentence_cn": "横幅下方是导航标签，包括“关于我们”、“展览和收藏”、“项目和活动”、“学习资源”、“支持”和“商店”。",
+        "words": [
+            "About Us,",
+            "Exhibitions & Collections,",
+            "Programs & Events,",
+            "Learning Resources,",
+            "Support,",
+            "Shop.",
+            "banner",
+            "navigation",
+            "tabs",
+            "Support",
+            "Shop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the tabs are three sections with images and text:",
+        "sentence_cn": "标签下方是包含图像和文本的三个部分：",
+        "words": [
+            "tabs",
+            "three",
+            "sections",
+            "images",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"Plan a Visit\" with an image of a building.",
+        "sentence_cn": "1. 带有建筑物图像的“计划参观”。",
+        "words": [
+            "Plan a Visit",
+            "Visit",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"Exhibitions\" with an image of a decorative textile.",
+        "sentence_cn": "2.带有装饰纺织品图像的“展览”。",
+        "words": [
+            "Exhibitions",
+            "Exhibitions",
+            "textile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. \"Collections\" with a pastoral landscape painting.",
+        "sentence_cn": "3.《集锦》中有一幅田园风景画。",
+        "words": [
+            "Collections",
+            "Collections",
+            "landscape",
+            "painting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. \"Calendar\" with two people in traditional attire.",
+        "sentence_cn": "4.两位身着传统服装的人的“日历”。",
+        "words": [
+            "Calendar",
+            "two",
+            "people",
+            "attire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is clean and informative, focusing on museum activities and exhibitions.",
+        "sentence_cn": "设计简洁，信息丰富，重点关注博物馆活动和展览。",
+        "words": [
+            "design",
+            "museum",
+            "activities",
+            "exhibitions"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image shows a group of three people enjoying a meal with evident excitement and happiness.",
+        "sentence_cn": "图中是三人正在吃饭，脸上洋溢着兴奋和幸福的表情。",
+        "words": [
+            "group",
+            "three",
+            "people",
+            "meal",
+            "excitement",
+            "happiness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are seated at a dining table laden with various dishes, including sushi and other Asian-inspired cuisine.",
+        "sentence_cn": "他们坐在摆满各种菜肴的餐桌旁，包括寿司和其他亚洲风味美食。",
+        "words": [
+            "dining",
+            "table",
+            "dishes",
+            "sushi",
+            "cuisine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person on the left has long, flowing red hair and is reaching out with chopsticks to grab some food from a plate.",
+        "sentence_cn": "- 左边的人有一头飘逸的红发，正伸出筷子从盘子里夹食物。",
+        "words": [
+            "person",
+            "left",
+            "hair",
+            "chopsticks",
+            "food",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is smiling broadly, suggesting she is having a good time.",
+        "sentence_cn": "她笑容满面，看来她玩得很开心。",
+        "words": [
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center, a man with short dark hair and a beard is also using chopsticks.",
+        "sentence_cn": "- 中间一位留着黑色短发和胡须的男子也在使用筷子。",
+        "words": [
+            "center",
+            "man",
+            "hair",
+            "beard",
+            "chopsticks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is smiling, possibly involved in a conversation or sharing in a lighthearted moment.",
+        "sentence_cn": "他面带微笑，可能正在交谈或分享轻松愉快的时光。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person on the right has short brown hair with highlights and is dressed in a light-colored, sequined top.",
+        "sentence_cn": "- 右边的人有一头棕色的短发，带有亮点，穿着浅色的亮片上衣。",
+        "words": [
+            "person",
+            "right",
+            "hair",
+            "highlights",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is looking at the other two with a smile, suggesting she's engaged in their interaction.",
+        "sentence_cn": "她微笑着看着另外两个人，表明她正在参与他​​们的互动。",
+        "words": [
+            "two",
+            "smile",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are several plates of food, small bowls, a pink bottle that looks like it might contain sake, and a glass of pink-colored drink.",
+        "sentence_cn": "桌子上摆着几盘食物、小碗、一个看上去可能装有清酒的粉色瓶子和一杯粉色饮料。",
+        "words": [
+            "table",
+            "plates",
+            "food",
+            "bowls",
+            "bottle",
+            "sake",
+            "glass",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting gives an impression of a casual, yet enjoyable dining experience.",
+        "sentence_cn": "这种环境给人一种休闲而愉快的用餐体验的印象。",
+        "words": [
+            "impression",
+            "dining",
+            "experience"
+        ],
+        "id": null
+    }
+]

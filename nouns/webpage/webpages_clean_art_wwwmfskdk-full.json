@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image shows a gallery space with a contemporary art installation.",
+        "sentence_cn": "图中显示的是一个装有当代艺术装置的画廊空间。",
+        "words": [
+            "gallery",
+            "space",
+            "art",
+            "installation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is a small TV on a tall, dark pedestal.",
+        "sentence_cn": "左边有一个高高的深色底座，上面放着一台小电视。",
+        "words": [
+            "left",
+            "TV",
+            "pedestal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside it, a series of framed artworks hang on the wall in a grid pattern, each featuring a similar graphic design.",
+        "sentence_cn": "旁边，一系列带框的艺术品以网格图案悬挂在墙上，每幅都有类似的图形设计。",
+        "words": [
+            "series",
+            "artworks",
+            "wall",
+            "grid",
+            "pattern",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the wall is a black chair and a pair of headphones likely for an audio installation.",
+        "sentence_cn": "墙前有一把黑色的椅子和一副可能用于音频装置的耳机。",
+        "words": [
+            "front",
+            "wall",
+            "chair",
+            "pair",
+            "headphones",
+            "installation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, an old, worn upright piano is positioned against the wall.",
+        "sentence_cn": "右边，一架破旧的直立式钢琴靠墙放置。",
+        "words": [
+            "right",
+            "piano",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The piano has an artistic, distressed finish, which fits the modern art atmosphere.",
+        "sentence_cn": "钢琴具有艺术感的仿古饰面，非常符合现代艺术氛围。",
+        "words": [
+            "piano",
+            "finish",
+            "art",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The gallery has a wooden floor and white walls, creating a minimalist backdrop.",
+        "sentence_cn": "画廊采用木地板和白色墙壁，营造出简约的背景。",
+        "words": [
+            "gallery",
+            "floor",
+            "walls",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above and below the image are parts of a website interface with information about various art pieces and artists, including performance, installation, and video works displayed in a grid layout.",
+        "sentence_cn": "图像的上方和下方是网站界面的部分，其中以网格布局显示各种艺术作品和艺术家的信息，包括表演、装置和视频作品。",
+        "words": [
+            "parts",
+            "website",
+            "interface",
+            "information",
+            "art",
+            "pieces",
+            "artists",
+            "performance",
+            "installation",
+            "video",
+            "works",
+            "grid",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a logo for \"Samlingen BETA\" and text that allows language selection.",
+        "sentence_cn": "还有“Samlingen BETA”的标志和允许选择语言的文字。",
+        "words": [
+            "Samlingen BETA",
+            "logo",
+            "text",
+            "language",
+            "selection"
+        ],
+        "id": null
+    }
+]

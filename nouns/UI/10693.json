@@ -1,0 +1,194 @@
+[
+    {
+        "sentence": "The image shows a collection of NBA mascots displayed in a grid format.",
+        "sentence_cn": "图中是以网格形式展示的 NBA 吉祥物集合。",
+        "words": [
+            "collection",
+            "mascots",
+            "grid",
+            "format"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a description of each mascot from top to bottom, left to right:",
+        "sentence_cn": "以下是从上到下、从左到右每个吉祥物的描述：",
+        "words": [
+            "mascot",
+            "top",
+            "bottom",
+            "left",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Atlanta Mascot**: A red bird wearing a white Atlanta sports jersey, numbered 1.",
+        "sentence_cn": "1. **亚特兰大吉祥物**：一只身穿白色亚特兰大运动衫的红色小鸟，号码为 1。",
+        "words": [
+            "Atlanta Mascot",
+            "bird",
+            "Atlanta",
+            "sports",
+            "jersey",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Boston Mascot**: A character dressed as a leprechaun, balancing a basketball on one finger, wearing a green hat and vest with shamrocks.",
+        "sentence_cn": "2. **波士顿吉祥物**：一个装扮成小妖精的角色，一根手指上拿着篮球，戴着绿色的帽子，穿着印有三叶草的背心。",
+        "words": [
+            "Boston Mascot",
+            "character",
+            "leprechaun",
+            "basketball",
+            "one",
+            "finger",
+            "hat",
+            "vest",
+            "shamrocks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Charlotte Mascot**: A blue insect-like character with large sunglasses, labeled \"HUGO.\"",
+        "sentence_cn": "3. **夏洛特吉祥物**：一只戴着大墨镜的蓝色昆虫状人物，标有“HUGO”。",
+        "words": [
+            "Charlotte Mascot",
+            "HUGO.",
+            "insect",
+            "character",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. **Chicago Mascot**: A red bull with horns and a nose ring, wearing a Chicago Bulls jersey, labeled \"BENNY.\"",
+        "sentence_cn": "4. **芝加哥吉祥物**：一头长着牛角和鼻环的红牛，身穿芝加哥公牛队球衣，标有“BENNY”。",
+        "words": [
+            "Chicago Mascot",
+            "BENNY.",
+            "bull",
+            "horns",
+            "nose",
+            "ring",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. **Cleveland Mascots**: Two characters, Moon Dog (a dog) and Sir CC (a person dressed in medieval attire), standing together.",
+        "sentence_cn": "5. **克利夫兰吉祥物**：两个角​​色，月亮狗（一只狗）和 CC 爵士（一个穿着中世纪服装的人），站在一起。",
+        "words": [
+            "Cleveland Mascots",
+            "Mascots",
+            "Two",
+            "characters",
+            "dog",
+            "person",
+            "attire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. **Dallas Mascots**: Two characters, Mavs Man and Champ, with one resembling a blue horse.",
+        "sentence_cn": "6. **达拉斯吉祥物**：两个角​​色，小牛队球员和冠军，其中一个类似于一匹蓝色的马。",
+        "words": [
+            "Dallas Mascots",
+            "Two",
+            "characters",
+            "one",
+            "horse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. **Denver Mascot**: A yellow mountain lion or cougar with a basketball, labeled \"ROCKY.\"",
+        "sentence_cn": "7. **丹佛吉祥物**：一只拿着篮球的黄色美洲狮或美洲狮，标有“ROCKY”。",
+        "words": [
+            "Denver Mascot",
+            "ROCKY.",
+            "mountain",
+            "lion",
+            "cougar",
+            "basketball"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. **Detroit Mascot**: A cartoonish black horse head wearing a Pistons jersey, labeled \"HOOPER.\"",
+        "sentence_cn": "8. **底特律吉祥物**：一匹身穿活塞队球衣的卡通黑马头，上面写着“HOOPER”。",
+        "words": [
+            "Detroit Mascot",
+            "HOOPER.",
+            "Detroit",
+            "horse",
+            "head",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. **Houston Mascot**: A grey bear wearing a red Rockets jersey, sitting on a cartoon rocket.",
+        "sentence_cn": "9. **休斯顿吉祥物**：一只身穿红色火箭队球衣的灰色熊，坐在一枚卡通火箭上。",
+        "words": [
+            "Houston Mascot",
+            "bear",
+            "jersey",
+            "cartoon",
+            "rocket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. **Indiana Mascot**: A blue cat or panther on a unicycle, wearing an Indiana jersey.",
+        "sentence_cn": "10. **印第安纳吉祥物**：一只骑着独轮车的蓝猫或蓝豹，身穿印第安纳队球衣。",
+        "words": [
+            "Indiana Mascot",
+            "cat",
+            "panther",
+            "unicycle",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "11. **LA Clippers Mascot**: A bird-like figure with a large beak, wearing a superhero costume, labeled \"CHUCK.\"",
+        "sentence_cn": "11. **洛杉矶快船队吉祥物**：一只长着大喙的鸟，穿着超级英雄的服装，标有“CHUCK”。",
+        "words": [
+            "LA Clippers Mascot",
+            "CHUCK.",
+            "bird",
+            "figure",
+            "beak",
+            "superhero",
+            "costume"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "12. **Memphis Mascot**: A grey bear dressed as a superhero, labeled \"GRIZZ.\"",
+        "sentence_cn": "12. **孟菲斯吉祥物**：一只装扮成超级英雄的灰熊，标有“GRIZZ”。",
+        "words": [
+            "Memphis Mascot",
+            "GRIZZ.",
+            "bear",
+            "superhero"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mascots represent different NBA teams, incorporating elements from each team's theme or logo, and are named accordingly.",
+        "sentence_cn": "吉祥物代表不同的 NBA 球队，融合了各球队主题或标志的元素，并据此命名。",
+        "words": [
+            "mascots",
+            "teams",
+            "elements",
+            "team",
+            "theme",
+            "logo"
+        ],
+        "id": null
+    }
+]

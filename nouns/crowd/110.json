@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image shows a group of children and two adults sitting on a grassy area, possibly in a park.",
+        "sentence_cn": "照片显示一群孩子和两个成年人坐在草地上，可能是在公园里。",
+        "words": [
+            "group",
+            "children",
+            "two",
+            "adults",
+            "area",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people are seated in a circle, suggesting a group activity or story time.",
+        "sentence_cn": "人们围坐成一圈，这表明正在进行集体活动或讲故事。",
+        "words": [
+            "people",
+            "circle",
+            "group",
+            "activity",
+            "story",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of the adults, wearing a pink striped shirt, appears to be engaging with the children, possibly leading the activity.",
+        "sentence_cn": "其中一位身穿粉色条纹衬衫的成年人似乎正在与孩子们互动，可能在主导这项活动。",
+        "words": [
+            "One",
+            "adults",
+            "shirt",
+            "children",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other adult, in a blue shirt, is holding a young child on their lap.",
+        "sentence_cn": "另一名身穿蓝色衬衫的成年人正把一名小孩抱在腿上。",
+        "words": [
+            "adult",
+            "shirt",
+            "child",
+            "lap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are dressed casually, with two wearing caps, and appear to be listening attentively.",
+        "sentence_cn": "孩子们穿着随意，其中两人戴着帽子，看上去正在专心听讲。",
+        "words": [
+            "children",
+            "two",
+            "caps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding area features trees, a bench, and a paved path.",
+        "sentence_cn": "周围区域有树木、长椅和铺好的小路。",
+        "words": [
+            "area",
+            "trees",
+            "bench",
+            "path"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are various buildings, a road with parked cars, and a large planter with flowers, indicating an urban park setting.",
+        "sentence_cn": "背景中有各种建筑物、停放着汽车的道路以及种满鲜花的大型花盆，表明这里是一个城市公园。",
+        "words": [
+            "background",
+            "buildings",
+            "road",
+            "cars",
+            "planter",
+            "flowers",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is relaxed and sunny, suggesting an outdoor educational or recreational setting.",
+        "sentence_cn": "气氛轻松而阳光，适合户外教育或娱乐环境。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

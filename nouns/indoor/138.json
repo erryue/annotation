@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a home office or study room with a dark wooden desk and matching built-in shelving.",
+        "sentence_cn": "图中描绘的是一间家庭办公室或书房，里面有一张深色木质书桌和配套的内置搁架。",
+        "words": [
+            "home",
+            "office",
+            "study",
+            "room",
+            "desk",
+            "shelving"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there is a laptop and an external monitor, along with a computer mouse.",
+        "sentence_cn": "桌子上有一台笔记本电脑和一台外接显示器，还有一只电脑鼠标。",
+        "words": [
+            "desk",
+            "laptop",
+            "monitor",
+            "computer",
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk chair is ergonomic and mesh-backed.",
+        "sentence_cn": "办公椅符合人体工程学并且带有网状靠背。",
+        "words": [
+            "desk",
+            "chair",
+            "mesh"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The shelves are filled with a variety of books, small decorative items, and framed photographs.",
+        "sentence_cn": "书架上摆满了各种各样的书籍、小装饰品和相框。",
+        "words": [
+            "shelves",
+            "variety",
+            "books",
+            "items",
+            "photographs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some books are stacked horizontally, while others are aligned vertically.",
+        "sentence_cn": "有些书是水平堆叠的，而有些书是垂直排列的。",
+        "words": [
+            "books",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a distinctive, colorful abstract painting on the blue-painted wall to the left.",
+        "sentence_cn": "左边的蓝色墙壁上有一幅独特的、色彩丰富的抽象画。",
+        "words": [
+            "painting",
+            "wall",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small lamp or decorative vase is placed on one of the lower shelves.",
+        "sentence_cn": "较低的架子上放置着一盏小灯或装饰花瓶。",
+        "words": [
+            "lamp",
+            "vase",
+            "one",
+            "shelves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room appears tidy, organized, and functional, with an emphasis on a cozy and professional workspace.",
+        "sentence_cn": "房间看上去整洁、有序且实用，强调舒适和专业的工作空间。",
+        "words": [
+            "room",
+            "workspace"
+        ],
+        "id": null
+    }
+]

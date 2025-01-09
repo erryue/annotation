@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image shows a group of young adults enjoying a casual outdoor gathering.",
+        "sentence_cn": "照片中是一群年轻人正在享受一场休闲的户外聚会。",
+        "words": [
+            "group",
+            "adults",
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are on a terrace or patio of a residential building.",
+        "sentence_cn": "它们位于住宅楼的露台或庭院上。",
+        "words": [
+            "terrace",
+            "patio",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a mix of greenery and buildings visible in the background, suggesting a garden or a courtyard setting.",
+        "sentence_cn": "背景中可以看到绿色植物和建筑物的混合，暗示着一个花园或庭院。",
+        "words": [
+            "mix",
+            "greenery",
+            "buildings",
+            "background",
+            "garden",
+            "courtyard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A young woman sits on the wall, smiling and holding a glass.",
+        "sentence_cn": "- 一位年轻女子坐在墙边，微笑着，手里拿着一杯酒。",
+        "words": [
+            "woman",
+            "wall",
+            "glass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Another woman is sitting with her wearing a colorful outfit and patterned tights.",
+        "sentence_cn": "- 另一位女士坐在她旁边，穿着色彩鲜艳的衣服和有图案的紧身衣。",
+        "words": [
+            "woman",
+            "outfit",
+            "tights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A man in a red t-shirt is speaking to one of the women.",
+        "sentence_cn": "- 一名身穿红色 T 恤的男子正在和其中一名女子交谈。",
+        "words": [
+            "man",
+            "t",
+            "-",
+            "shirt",
+            "one",
+            "women"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Another woman, wearing a striped top, is sitting at the edge, looking contemplative.",
+        "sentence_cn": "- 另一位身穿条纹上衣的女子坐在边缘，一脸沉思的表情。",
+        "words": [
+            "woman",
+            "top",
+            "edge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears relaxed and social.",
+        "sentence_cn": "气氛显得轻松而又社交。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

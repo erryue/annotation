@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Quiz Show,\" directed by Robert Redford.",
+        "sentence_cn": "该图是罗伯特·雷德福执导的电影《智力竞赛》的电影海报。",
+        "words": [
+            "Quiz Show,",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a person shown from behind, wearing a suit and headphones, likely in a television studio.",
+        "sentence_cn": "海报上显示的是一名身穿西装、戴着耳机的背影，很可能是在电视演播室里。",
+        "words": [
+            "poster",
+            "person",
+            "suit",
+            "headphones",
+            "television",
+            "studio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a camera marked \"ON AIR\" is visible, suggesting a live broadcast setting.",
+        "sentence_cn": "背景中可以看到标有“ON AIR”的摄像机，暗示这是一个现场直播的场景。",
+        "words": [
+            "ON AIR",
+            "background",
+            "camera",
+            "broadcast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the person, the tagline reads: \"Fifty million people watched, but no one saw a thing.\"",
+        "sentence_cn": "人物上方的标语写着：“五千万人观看，但无人看见任何东西。”",
+        "words": [
+            "Fifty million people watched, but no one saw a thing.",
+            "person",
+            "tagline",
+            "Fifty",
+            "million",
+            "people",
+            "one",
+            "thing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the actors' names are listed: John Turturro, Rob Morrow, and Ralph Fiennes.",
+        "sentence_cn": "最上面列出的是演员的名字：约翰·特托罗、罗伯·莫洛和拉尔夫·费因斯。",
+        "words": [
+            "top",
+            "actors",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"QUIZ SHOW\" is prominently displayed in large red letters at the bottom, followed by a credit block detailing the film's producers, writers, and other contributors.",
+        "sentence_cn": "标题“QUIZ SHOW”以大红色字母突出显示在底部，随后是详细介绍电影制片人、编剧和其他贡献者的名单。",
+        "words": [
+            "QUIZ SHOW",
+            "title",
+            "QUIZ",
+            "letters",
+            "bottom",
+            "credit",
+            "block",
+            "film",
+            "producers",
+            "writers",
+            "contributors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has an overall dramatic and mysterious tone, reflecting the film's themes of deception and the television industry's darker side.",
+        "sentence_cn": "海报整体具有戏剧性和神秘感，体现了影片的欺骗主题和电视行业的阴暗面。",
+        "words": [
+            "poster",
+            "tone",
+            "film",
+            "themes",
+            "deception",
+            "television",
+            "industry"
+        ],
+        "id": null
+    }
+]

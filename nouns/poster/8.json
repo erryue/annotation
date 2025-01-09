@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Babe.\"",
+        "sentence_cn": "图片是电影《小猪宝贝》的海报。",
+        "words": [
+            "Babe.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title is displayed prominently in large, stylized white text with the tagline \"A Little Pig Goes a Long Way\" underneath.",
+        "sentence_cn": "标题以大号、风格化的白色文字突出显示，下方有标语“小猪走了很长的路”。",
+        "words": [
+            "A Little Pig Goes a Long Way",
+            "title",
+            "text",
+            "tagline",
+            "Pig",
+            "Way"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a vibrant sunset with colors of orange, pink, and purple over a pastoral landscape.",
+        "sentence_cn": "背景是绚烂的日落，田园风光上空飘洒着橙色、粉色和紫色。",
+        "words": [
+            "background",
+            "sunset",
+            "colors",
+            "orange",
+            "pink",
+            "purple",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, several farm animals are present, including a pink piglet on the right, a duck, a sheepdog, a sheep, and a horse on the left, all looking towards the piglet.",
+        "sentence_cn": "前景中，有几只农场动物，包括右边的一只粉红色的小猪，左边的一只鸭子、一只牧羊犬、一只绵羊和一匹马，它们都看着小猪。",
+        "words": [
+            "foreground",
+            "farm",
+            "animals",
+            "piglet",
+            "right",
+            "duck",
+            "sheepdog",
+            "sheep",
+            "horse",
+            "left",
+            "piglet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them, in the distance, there is a charming farmhouse surrounded by lush green fields.",
+        "sentence_cn": "在他们下方远处，有一座迷人的农舍，周围环绕着郁郁葱葱的绿色田野。",
+        "words": [
+            "distance",
+            "farmhouse",
+            "fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone is warm and whimsical, fitting for a family-friendly film.",
+        "sentence_cn": "影片整体基调温暖而异想天开，适合家庭观看。",
+        "words": [
+            "tone",
+            "family",
+            "film"
+        ],
+        "id": null
+    }
+]

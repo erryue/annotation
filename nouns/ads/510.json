@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image is an advertisement for the Nokia Lumia 1020 smartphone.",
+        "sentence_cn": "该图是诺基亚 Lumia 1020 智能手机的广告。",
+        "words": [
+            "1020",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a bright blue background with colorful hot air balloons.",
+        "sentence_cn": "它以明亮的蓝色背景和五颜六色的热气球为特色。",
+        "words": [
+            "background",
+            "air",
+            "balloons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focus is on a large, yellow Nokia Lumia 1020 phone displaying a photo of people in a hot air balloon basket.",
+        "sentence_cn": "焦点是一部黄色的诺基亚 Lumia 1020 大手机，上面展示着人们在热气球篮中的照片。",
+        "words": [
+            "focus",
+            "1020",
+            "phone",
+            "photo",
+            "people",
+            "air",
+            "balloon",
+            "basket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the left reads: \"COMING SOON NOKIA LUMIA 1020,\" highlighting its \"Brilliant zoom\" with \"41 megapixels.\"",
+        "sentence_cn": "左侧的文字为：“诺基亚 LUMIA 1020 即将上市”，重点突出了其具有“4100 万像素”的“出色变焦能力”。",
+        "words": [
+            "COMING SOON NOKIA LUMIA 1020,",
+            "Brilliant zoom",
+            "41 megapixels.",
+            "Text",
+            "left",
+            "1020",
+            "zoom",
+            "41",
+            "megapixels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, thereâs an email subscription prompt for updates, and information on social media accounts for AT&T.",
+        "sentence_cn": "下面是用于更新的电子邮件订阅提示，以及有关 AT&T 社交媒体帐户的信息。",
+        "words": [
+            "email",
+            "subscription",
+            "prompt",
+            "updates",
+            "information",
+            "media",
+            "accounts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom mentions it's running on Windows Phone.",
+        "sentence_cn": "底部提到它在 Windows Phone 上运行。",
+        "words": [
+            "bottom"
+        ],
+        "id": null
+    }
+]

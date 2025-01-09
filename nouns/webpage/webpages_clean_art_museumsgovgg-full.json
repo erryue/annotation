@@ -1,0 +1,197 @@
+[
+    {
+        "sentence": "The image is a website homepage for Guernsey Museums & Galleries.",
+        "sentence_cn": "该图片是根西岛博物馆和美术馆的网站主页。",
+        "words": [
+            "website",
+            "homepage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top banner features the logo and name prominently.",
+        "sentence_cn": "顶部横幅突出显示了徽标和名称。",
+        "words": [
+            "banner",
+            "logo",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there's a striking advertisement for the \"Wildlife Photographer of the Year\" exhibition, featuring a close-up of a reptile's eye and scales.",
+        "sentence_cn": "下面是“年度野生动物摄影师”展览的引人注目的广告，其中有一张爬行动物的眼睛和鳞片的近距离照片。",
+        "words": [
+            "Wildlife Photographer of the Year",
+            "Wildlife",
+            "Photographer",
+            "exhibition",
+            "close",
+            "up",
+            "reptile",
+            "eye",
+            "scales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The event is dated 17 October, 2015.",
+        "sentence_cn": "活动日期为2015年10月17日。",
+        "words": [
+            "event",
+            "17",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is co-owned by the Natural History Museum and BBC Worldwide, with Wildlife Magazine as a partner.",
+        "sentence_cn": "它由自然历史博物馆和 BBC Worldwide 共同拥有，野生动物杂志是其合作伙伴。",
+        "words": [
+            "partner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The site navigation includes links to:",
+        "sentence_cn": "网站导航包含以下链接：",
+        "words": [
+            "site",
+            "navigation",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visit Us",
+        "sentence_cn": "- 访问我们",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- What's On",
+        "sentence_cn": "- 最新动态",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Discovery Pass",
+        "sentence_cn": "- 探索通行证",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Guernsey Museum at Candie",
+        "sentence_cn": "- 坎迪的根西岛博物馆",
+        "words": [
+            "Candie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Castle Cornet",
+        "sentence_cn": "- 城堡短号",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Fort Grey",
+        "sentence_cn": "- 格雷堡",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Museums",
+        "sentence_cn": "- 博物馆",
+        "words": [
+            "Museums"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Collections",
+        "sentence_cn": "- 收藏品",
+        "words": [
+            "Collections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Historic Sites",
+        "sentence_cn": "- 历史遗迹",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "There are four featured sections each with an image:",
+        "sentence_cn": "共有四个特色部分，每个部分都有一张图片：",
+        "words": [
+            "four",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Guernsey Museum at Candie",
+        "sentence_cn": "1. 坎迪根西岛博物馆",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Castle Cornet",
+        "sentence_cn": "2. 城堡科内特",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "3. Fort Grey Shipwreck Museum",
+        "sentence_cn": "3. 格雷堡沉船博物馆",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "4. Historic Sites",
+        "sentence_cn": "4.历史遗迹",
+        "words": [
+            "Sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a Facebook widget showing âGuernsey Museumsâ with 1,130 likes, inviting users to like or share the page.",
+        "sentence_cn": "右侧有一个 Facebook 小部件，显示“根西岛博物馆”有 1,130 个赞，邀请用户点赞或分享该页面。",
+        "words": [
+            "right",
+            "widget",
+            "1,130",
+            "likes",
+            "users",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website also offers language selection and social media links, including Facebook, Twitter, and TripAdvisor, at the top-right corner.",
+        "sentence_cn": "该网站还在右上角提供语言选择和社交媒体链接，包括 Facebook、Twitter 和 TripAdvisor。",
+        "words": [
+            "website",
+            "language",
+            "selection",
+            "media",
+            "links",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Thereâs a search bar for entering search criteria as well.",
+        "sentence_cn": "还有一个搜索栏可以输入搜索条件。",
+        "words": [
+            "search",
+            "bar",
+            "search",
+            "criteria"
+        ],
+        "id": null
+    }
+]

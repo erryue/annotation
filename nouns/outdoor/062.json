@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image shows a vibrant city skyline on a clear day.",
+        "sentence_cn": "图片展示的是晴朗天气下充满活力的城市天际线。",
+        "words": [
+            "city",
+            "skyline",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a large ferry navigating across a body of water, which appears to be a bay or harbor.",
+        "sentence_cn": "前景中，有一艘大型渡轮正在一片水域中航行，那片水域看起来像是一个海湾或港口。",
+        "words": [
+            "foreground",
+            "ferry",
+            "body",
+            "water",
+            "bay",
+            "harbor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ferry is predominantly white with a green stripe along the side.",
+        "sentence_cn": "渡轮主要为白色，侧面有一条绿色条纹。",
+        "words": [
+            "ferry",
+            "stripe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the ferry is a bustling waterfront area with docks and smaller structures.",
+        "sentence_cn": "渡轮后面是一片繁华的海滨区，有码头和小型建筑。",
+        "words": [
+            "ferry",
+            "waterfront",
+            "area",
+            "docks",
+            "structures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The skyline is composed of several tall skyscrapers and modern buildings of varying architectural styles.",
+        "sentence_cn": "天际线由几座摩天大楼和不同建筑风格的现代建筑组成。",
+        "words": [
+            "skyline",
+            "skyscrapers",
+            "buildings",
+            "styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Most of the buildings feature glass and steel construction, with some having unique geometric shapes.",
+        "sentence_cn": "大多数建筑均采用玻璃和钢结构，其中一些具有独特的几何形状。",
+        "words": [
+            "buildings",
+            "glass",
+            "steel",
+            "construction",
+            "shapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A distinctive feature is a building with a turquoise dome nearer the shoreline.",
+        "sentence_cn": "其显著特征是靠近海岸线的一座带有绿松石色圆顶的建筑。",
+        "words": [
+            "feature",
+            "building",
+            "dome",
+            "shoreline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, suggesting it is a sunny day, enhancing the visibility of the buildings and the movement of the water.",
+        "sentence_cn": "天空晴朗，表明这是一个晴朗的日子，增强了建筑物和水流的可见度。",
+        "words": [
+            "sky",
+            "day",
+            "visibility",
+            "buildings",
+            "movement",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene conveys a sense of urban activity and scenic beauty.",
+        "sentence_cn": "这一场景传达出一种城市活力和风景秀丽的感觉。",
+        "words": [
+            "scene",
+            "sense",
+            "activity",
+            "beauty"
+        ],
+        "id": null
+    }
+]

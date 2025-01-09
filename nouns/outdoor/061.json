@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image features a rural winter scene with a red barn prominently in the foreground.",
+        "sentence_cn": "该图片展现的是乡村冬季景色，前景中有一个显眼的红色谷仓。",
+        "words": [
+            "winter",
+            "scene",
+            "barn",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The barn is covered with snow, and an American flag is painted on its side, adding a patriotic element.",
+        "sentence_cn": "谷仓被白雪覆盖，侧面画着一面美国国旗，增添了爱国元素。",
+        "words": [
+            "barn",
+            "snow",
+            "flag",
+            "element"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structure's roof is steeply pitched with two upper windows visible.",
+        "sentence_cn": "该建筑的屋顶坡度很大，上面有两扇窗户。",
+        "words": [
+            "structure",
+            "roof",
+            "two",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the barn, several cows can be seen, one standing and a few others lying down in the snowy field.",
+        "sentence_cn": "在谷仓前面，可以看到几头牛，一头站着，另外几头躺在雪地里。",
+        "words": [
+            "front",
+            "barn",
+            "cows",
+            "one",
+            "others",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is covered with a blanket of snow, enhancing the wintry atmosphere.",
+        "sentence_cn": "地面上覆盖着一层白雪，增添了冬天的气氛。",
+        "words": [
+            "ground",
+            "blanket",
+            "snow",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are leafless trees, suggesting it's late winter.",
+        "sentence_cn": "背景中，有光秃秃的树木，表明已经是冬末了。",
+        "words": [
+            "background",
+            "trees",
+            "winter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is partly cloudy, with some patches of blue visible.",
+        "sentence_cn": "天空多云，可见几片蓝色斑点。",
+        "words": [
+            "sky",
+            "patches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the scene captures a serene and picturesque winter day on a farm.",
+        "sentence_cn": "总的来说，该场景捕捉了农场宁静而美丽的冬日。",
+        "words": [
+            "scene",
+            "winter",
+            "day",
+            "farm"
+        ],
+        "id": null
+    }
+]

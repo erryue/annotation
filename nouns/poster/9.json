@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image is a movie poster for *Dead Man Walking.*",
+        "sentence_cn": "该图是电影《死囚漫步》的海报。",
+        "words": [
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two faces in profile, one behind the other.",
+        "sentence_cn": "它有两个侧面，一个在另一个后面。",
+        "words": [
+            "two",
+            "faces",
+            "profile",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person in the background appears contemplative, facing forward, while the one in the foreground is looking to the side.",
+        "sentence_cn": "背景中的人面朝前方，似乎陷入沉思，而前景中的人则看向一侧。",
+        "words": [
+            "person",
+            "background",
+            "one",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a warm, sepia tone.",
+        "sentence_cn": "海报呈现温暖的棕褐色色调。",
+        "words": [
+            "poster",
+            "sepia",
+            "tone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text at the bottom includes the film title in bold, capitalized letters.",
+        "sentence_cn": "底部的文字包括以粗体大写字母显示的电影名称。",
+        "words": [
+            "Text",
+            "bottom",
+            "film",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the title are the names \"Susan Sarandon\" and \"Sean Penn,\" with a smaller note indicating the film is by Tim Robbins.",
+        "sentence_cn": "标题上方是名字“苏珊·萨兰登”和“肖恩·潘”，还有一小段注释表明该电影是蒂姆·罗宾斯执导的。",
+        "words": [
+            "Susan Sarandon",
+            "Sean Penn,",
+            "title",
+            "names",
+            "note",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional credits, including production companies and other contributors, are listed beneath the title.",
+        "sentence_cn": "标题下方列出了其他人员名单，包括制作公司和其他贡献者。",
+        "words": [
+            "credits",
+            "production",
+            "companies",
+            "contributors",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design suggests a serious, dramatic theme.",
+        "sentence_cn": "整体设计体现了一种严肃、戏剧性的主题。",
+        "words": [
+            "design",
+            "theme"
+        ],
+        "id": null
+    }
+]

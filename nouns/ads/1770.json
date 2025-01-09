@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image features a container tipped over, spilling out several cheddar-stuffed pretzel nuggets, which appear golden brown and slightly glistening with salt.",
+        "sentence_cn": "照片中是一个翻倒的容器，洒出了几个塞满切达干酪的椒盐脆饼块，这些椒盐脆饼块呈金黄色，微微闪烁着盐光。",
+        "words": [
+            "container",
+            "cheddar",
+            "pretzel",
+            "nuggets",
+            "salt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These pretzels are small, bite-sized pastries with a soft, doughy appearance and visible salt crystals on their surface.",
+        "sentence_cn": "这些椒盐脆饼是小块、一口大小的糕点，外观柔软，有面团状，表面有可见的盐晶体。",
+        "words": [
+            "pretzels",
+            "bite",
+            "pastries",
+            "appearance",
+            "salt",
+            "crystals",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a warm, light orange color.",
+        "sentence_cn": "背景是温暖的浅橙色。",
+        "words": [
+            "background",
+            "orange",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's text in large capital letters stating, \"EVERY ONE IS A LITTLE CHEESY.\"",
+        "sentence_cn": "右侧用大写字母写着“每个人都有点俗气”。",
+        "words": [
+            "EVERY ONE IS A LITTLE CHEESY.",
+            "text",
+            "capital",
+            "letters",
+            "EVERY",
+            "ONE",
+            "CHEESY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there's a banner with the words \"NEW! CHEDDAR STUFFED PRETZEL NUGGETS\" along with a small graphic of a cheesy pretzel nugget, illustrating its interior.",
+        "sentence_cn": "下面是一条横幅，上面写着“新品！切达干酪馅椒盐卷饼块”，旁边还有一张奶酪椒盐卷饼块的小图片，展示了其内部结构。",
+        "words": [
+            "NEW! CHEDDAR STUFFED PRETZEL NUGGETS",
+            "banner",
+            "words",
+            "CHEDDAR",
+            "NUGGETS",
+            "graphic",
+            "pretzel",
+            "nugget",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic is warm and inviting, highlighting the cheesy and savory nature of the pretzel nuggets.",
+        "sentence_cn": "整体美感温暖而诱人，凸显了椒盐脆饼块的奶酪和咸味特性。",
+        "words": [
+            "aesthetic",
+            "nature",
+            "pretzel",
+            "nuggets"
+        ],
+        "id": null
+    }
+]

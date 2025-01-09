@@ -1,0 +1,371 @@
+[
+    {
+        "sentence": "This infographic illustrates the loading times for Twitter in various cities around the world from October 11 to October 15, 2012.",
+        "sentence_cn": "该信息图展示了 2012 年 10 月 11 日至 10 月 15 日期间 Twitter 在全球各个城市的加载时间。",
+        "words": [
+            "loading",
+            "times",
+            "cities",
+            "world",
+            "11",
+            "15",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It uses data from Dotcom-Monitor's BrowserView Monitoring, which conducted 21,600 tests with a frequency of every 5 minutes.",
+        "sentence_cn": "它使用来自 Dotcom-Monitor 的 BrowserView Monitoring 的数据，该数据每 5 分钟进行了 21,600 次测试。",
+        "words": [
+            "data",
+            "21,600",
+            "tests",
+            "frequency",
+            "5",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Cities and Load Times (in seconds):**",
+        "sentence_cn": "",
+        "words": [
+            "Cities and Load Times (in seconds):",
+            "Cities",
+            "Load",
+            "Times",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- San Francisco: 3.074",
+        "sentence_cn": "- 旧金山：3.074",
+        "words": [
+            "San",
+            "Francisco",
+            "3.074"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Calgary: 3.954",
+        "sentence_cn": "- 卡尔加里：3.954",
+        "words": [
+            "Calgary",
+            "3.954"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- New York: 3.717",
+        "sentence_cn": "- 纽约：3.717",
+        "words": [
+            "New",
+            "York",
+            "3.717"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Orlando: 6.722",
+        "sentence_cn": "- 奥兰多：6.722",
+        "words": [
+            "Orlando",
+            "6.722"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Buenos Aires: 9.281",
+        "sentence_cn": "- 布宜诺斯艾利斯： 9.281",
+        "words": [
+            "Buenos",
+            "Aires",
+            "9.281"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- London: 4.371",
+        "sentence_cn": "- 伦敦：4.371",
+        "words": [
+            "London",
+            "4.371"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Frankfurt: 4.212",
+        "sentence_cn": "- 法兰克福：4.212",
+        "words": [
+            "Frankfurt",
+            "4.212"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tel Aviv: 5.941",
+        "sentence_cn": "- 特拉维夫：5.941",
+        "words": [
+            "Tel",
+            "Aviv",
+            "5.941"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cape Town: 14.989",
+        "sentence_cn": "- 开普敦：14.989",
+        "words": [
+            "Cape",
+            "Town",
+            "14.989"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sydney: 4.174",
+        "sentence_cn": "- 悉尼：4.174",
+        "words": [
+            "Sydney",
+            "4.174"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hong Kong: 6.298",
+        "sentence_cn": "- 香港：6.298",
+        "words": [
+            "Hong",
+            "Kong",
+            "6.298"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tokyo: 7.575",
+        "sentence_cn": "- 东京：7.575",
+        "words": [
+            "Tokyo",
+            "7.575"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Overall Average Load Time:**",
+        "sentence_cn": "**总体平均加载时间：**",
+        "words": [
+            "Overall Average Load Time:",
+            "Load",
+            "Time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 6.1927 seconds",
+        "sentence_cn": "6.1927秒",
+        "words": [
+            "6.1927",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "**Pie Charts:**",
+        "sentence_cn": "**饼图：**",
+        "words": [
+            "Pie Charts:",
+            "Pie",
+            "Charts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. **Elements on the Page (for a total of 364KB):**",
+        "sentence_cn": "1. **页面元素（共计 364KB）：**",
+        "words": [
+            "Elements on the Page (for a total of 364KB):",
+            "Elements",
+            "Page",
+            "total",
+            "364",
+            "KB"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Images: 77%",
+        "sentence_cn": "- 图像：77%",
+        "words": [
+            "Images",
+            "77"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - CSS: 7%",
+        "sentence_cn": "CSS：7％",
+        "words": [
+            "CSS",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - JavaScript: 5%",
+        "sentence_cn": "JavaScript：5％",
+        "words": [
+            "JavaScript",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - HTML: 7%",
+        "sentence_cn": "- HTML：7％",
+        "words": [
+            "HTML",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Others: 4%",
+        "sentence_cn": "- 其他：4%",
+        "words": [
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. **Best Load Time (San Francisco, 3.074 sec):**",
+        "sentence_cn": "2. **最佳加载时间（旧金山，3.074 秒）：**",
+        "words": [
+            "Best Load Time (San Francisco, 3.074 sec):",
+            "Load",
+            "Time",
+            "San",
+            "Francisco",
+            "3.074",
+            "sec"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - DNS: 3%",
+        "sentence_cn": "DNS：3％",
+        "words": [
+            "DNS",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Connection: 29%",
+        "sentence_cn": "- 連線：29％",
+        "words": [
+            "Connection",
+            "29"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - SSL: 5%",
+        "sentence_cn": "SSL：5％",
+        "words": [
+            "SSL",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - First Packet: 3%",
+        "sentence_cn": "- 第一个包裹：3%",
+        "words": [
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Download: 60%",
+        "sentence_cn": "下载：60％",
+        "words": [
+            "Download",
+            "60"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. **Worst Load Time (Cape Town, 14.989 sec):**",
+        "sentence_cn": "3. **最差加载时间（开普敦，14.989 秒）：**",
+        "words": [
+            "Worst Load Time (Cape Town, 14.989 sec):",
+            "Load",
+            "Time",
+            "Cape",
+            "Town",
+            "14.989",
+            "sec"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - DNS: 8%",
+        "sentence_cn": "DNS：8％",
+        "words": [
+            "DNS",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Connection: 24%",
+        "sentence_cn": "- 连接：24％",
+        "words": [
+            "Connection",
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - SSL: 2%",
+        "sentence_cn": "SSL：2％",
+        "words": [
+            "SSL",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - First Packet: 32%",
+        "sentence_cn": "- 第一包：32%",
+        "words": [
+            "32"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Download: 24%",
+        "sentence_cn": "下载：24％",
+        "words": [
+            "Download",
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic highlights global discrepancies in Twitter's loading times, identifying San Francisco as the fastest and Cape Town as the slowest.",
+        "sentence_cn": "该信息图突出了 Twitter 加载时间的全球差异，其中旧金山最快，而开普敦最慢。",
+        "words": [
+            "discrepancies",
+            "loading",
+            "times",
+            "San",
+            "Francisco",
+            "Cape",
+            "Town"
+        ],
+        "id": null
+    }
+]

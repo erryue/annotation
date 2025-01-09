@@ -1,0 +1,124 @@
+[
+    {
+        "sentence": "The image depicts a cozy, warmly decorated living and dining area.",
+        "sentence_cn": "图像描绘的是一个舒适、温馨的装饰的客厅和餐厅。",
+        "words": [
+            "living",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a soft, warm orange tone, creating an inviting atmosphere.",
+        "sentence_cn": "墙壁漆成柔和、温暖的橙色，营造出温馨的氛围。",
+        "words": [
+            "walls",
+            "orange",
+            "tone",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is well-lit with natural light coming in through sheer curtains covering a large window.",
+        "sentence_cn": "房间光线充足，自然光透过覆盖大窗户的薄纱窗帘照射进来。",
+        "words": [
+            "room",
+            "light",
+            "curtains",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a wicker armchair with a purple cushion, accompanied by a small, round wooden table with a potted cactus.",
+        "sentence_cn": "前景中，有一把柳条扶手椅，上面放着一个紫色的垫子，旁边是一张小圆木桌，桌上放着一盆仙人掌。",
+        "words": [
+            "foreground",
+            "wicker",
+            "armchair",
+            "cushion",
+            "table",
+            "cactus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, a small side table with books and a decorative lamp is visible.",
+        "sentence_cn": "左边是一张小边桌，上面放着书籍和一盏装饰灯。",
+        "words": [
+            "left",
+            "table",
+            "books",
+            "lamp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The center of the room features a glass-topped dining table with wooden chairs around it.",
+        "sentence_cn": "房间的中央有一张玻璃餐桌，周围摆放着木椅。",
+        "words": [
+            "center",
+            "room",
+            "glass",
+            "dining",
+            "table",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the table hangs a modern black pendant light.",
+        "sentence_cn": "桌子上方悬挂着一盏现代风格的黑色吊灯。",
+        "words": [
+            "table",
+            "pendant",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is a polished hardwood, adding to the overall warmth of the room.",
+        "sentence_cn": "地板是抛光硬木，增添了房间整体的温暖感。",
+        "words": [
+            "floor",
+            "hardwood",
+            "warmth",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Towards the back, the living area includes a deep purple sofa with assorted throw pillows, accompanied by a floor lamp and decorative items on a corner console table.",
+        "sentence_cn": "客厅后面是一张深紫色的沙发，上面摆放着各式各样的抱枕，角落的控制台上还摆放着一盏落地灯和一些装饰品。",
+        "words": [
+            "back",
+            "living",
+            "area",
+            "sofa",
+            "throw",
+            "pillows",
+            "floor",
+            "lamp",
+            "items",
+            "corner",
+            "console",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room's layout and color scheme emphasize comfort and style.",
+        "sentence_cn": "房间的布局和配色方案强调舒适性和时尚性。",
+        "words": [
+            "room",
+            "layout",
+            "color",
+            "scheme",
+            "comfort",
+            "style"
+        ],
+        "id": null
+    }
+]

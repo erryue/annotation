@@ -1,0 +1,150 @@
+[
+    {
+        "sentence": "The image is a poster for the film \"Hoop Dreams.\"",
+        "sentence_cn": "图片是电影《篮球梦》的海报。",
+        "words": [
+            "Hoop Dreams.",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, it says \"An Extraordinary True Story.\"",
+        "sentence_cn": "顶部写着“一个非凡的真实故事”。",
+        "words": [
+            "An Extraordinary True Story.",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, it mentions that the film won the Audience Award at the 1994 Sundance Film Festival.",
+        "sentence_cn": "下面提到该片获得了1994年圣丹斯电影节观众奖。",
+        "words": [
+            "film",
+            "1994"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features several quotes from critics:",
+        "sentence_cn": "海报中引用了几位评论家的言论：",
+        "words": [
+            "poster",
+            "quotes",
+            "critics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Unforgettable: Two very enthusiastic thumbs up\" â Siskel & Ebert",
+        "sentence_cn": "- “令人难忘：两个非常热情的赞许” – 西斯克尔和艾伯特",
+        "words": [
+            "Unforgettable: Two very enthusiastic thumbs up",
+            "Two",
+            "thumbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Thrilling... A powerhouse.",
+        "sentence_cn": "——“惊险刺激……强者如林。”",
+        "words": [
+            "powerhouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of the best movies of the year!\" â Peter Travers, Rolling Stone",
+        "sentence_cn": "年度最佳电影之一！”——彼得·特拉弗斯，《滚石》",
+        "words": [
+            "One",
+            "movies",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Totally riveting.\"",
+        "sentence_cn": "——“非常引人入胜。”",
+        "words": [
+            "Totally riveting."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "â Elizabeth Pincus, L.A. Weekly",
+        "sentence_cn": "——伊丽莎白·平卡斯，《洛杉矶周刊》",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- \"Amazingly rich... A terrific movie as complex, nuanced and unpredictable as life itself.\"",
+        "sentence_cn": "- “内容极其丰富……一部如生活一样复杂、微妙且难以预测的精彩电影。”",
+        "words": [
+            "Amazingly rich... A terrific movie as complex, nuanced and unpredictable as life itself.",
+            "movie",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "â J. Hoberman, Premiere Magazine",
+        "sentence_cn": "– J. Hoberman，《Premiere 杂志》",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- \"One of the best films about American life I have ever seen.\"",
+        "sentence_cn": "- “这是我看过的关于美国生活的最好的电影之一。”",
+        "words": [
+            "One of the best films about American life I have ever seen.",
+            "One",
+            "films",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "â Roger Ebert, Siskel & Ebert",
+        "sentence_cn": "– 罗杰·艾伯特，《西斯克尔与艾伯特》",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Hoop Dreams\" is prominent.",
+        "sentence_cn": "“篮球梦”这个标题十分突出。",
+        "words": [
+            "Hoop Dreams",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Inside the first letter \"O\" is an image of a person with raised arms, standing in front of a city skyline.",
+        "sentence_cn": "第一个字母“O”里面是一个人举起双臂站在城市天际线前的图像。",
+        "words": [
+            "O",
+            "letter",
+            "O",
+            "person",
+            "arms",
+            "front",
+            "city",
+            "skyline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The credits at the bottom list the filmmakers and main contributors.",
+        "sentence_cn": "底部的名单列出了电影制片人和主要贡献者。",
+        "words": [
+            "credits",
+            "bottom",
+            "filmmakers",
+            "contributors"
+        ],
+        "id": null
+    }
+]
