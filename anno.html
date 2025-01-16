@@ -76,7 +76,7 @@
       const imageType = urlParams.get('type');
 
       // 加载 paths.json 文件
-      fetch('./paths_test.json')
+      fetch('./paths_example.json')
         .then(response => response.json())
         .then(data => {
           const Image = data.find(item => item.image_name === imageName && item.image_type === imageType);
