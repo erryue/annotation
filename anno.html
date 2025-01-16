@@ -192,53 +192,52 @@
           });
         }
 
-      });
-
-        // 创建下载按钮
-      function createDownloadButton() {
-        const button = document.createElement('button');
-        button.textContent = 'Download annotations';
-        button.style.margin = '10px';
-        button.style.padding = '10px 20px';
-        button.style.backgroundColor = '#007bff';
-        button.style.color = 'white';
-        button.style.border = 'none';
-        button.style.borderRadius = '5px';
-        button.style.cursor = 'pointer';
-
-        // 添加点击事件
-        button.addEventListener('click', () => {
-          downloadJSON(annotationsData,  `${imageName}_anno.json`);
-        });
-
-        // 将按钮添加到页面
-        document.body.appendChild(button);
-      }
-
-      // 创建下载功能
-      function downloadJSON(data, filename) {
-        // 将数据转换为 JSON 字符串
-        const jsonString = JSON.stringify(data, null, 2);
-
-        // 创建 Blob 对象
-        const blob = new Blob([jsonString], { type: 'application/json' });
-
-        // 创建下载链接
-        const link = document.createElement('a');
-        link.href = URL.createObjectURL(blob);
-        link.download = filename;
-
-        // 模拟点击链接进行下载
-        link.click();
-
-        // 释放 URL 对象
-        URL.revokeObjectURL(link.href);
-      }
-
-      // 初始化页面后调用
-      createDownloadButton();
       
-  
+
+          // 创建下载按钮
+        function createDownloadButton() {
+          const button = document.createElement('button');
+          button.textContent = 'Download annotations';
+          button.style.margin = '10px';
+          button.style.padding = '10px 20px';
+          button.style.backgroundColor = '#007bff';
+          button.style.color = 'white';
+          button.style.border = 'none';
+          button.style.borderRadius = '5px';
+          button.style.cursor = 'pointer';
+
+          // 添加点击事件
+          button.addEventListener('click', () => {
+            // 下载标注好的注释
+            downloadJSON(annotationsData,  `${imageName}_anno.json`); 
+
+            // 下载所有的注释
+            const allAnnotations = anno.getAnnotations();
+            downloadJSON(allAnnotations, `${imageName}_all.json`);
+          });
+
+          // 将按钮添加到页面
+          document.body.appendChild(button);
+        }
+
+        // 下载 JSON 文件
+        function downloadJSON(data, filename) {
+          const jsonString = JSON.stringify(data, null, 2);
+
+          const blob = new Blob([jsonString], { type: 'application/json' });
+
+          const link = document.createElement('a');
+          link.href = URL.createObjectURL(blob);
+          link.download = filename;
+          link.click();
+
+          URL.revokeObjectURL(link.href);
+        }
+
+        // 初始化页面后调用
+        createDownloadButton();
+      });
+      
       </script>
       
   </body>
