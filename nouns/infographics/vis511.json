@@ -1,0 +1,354 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Teaching Science in Cyberspace.\"",
+        "sentence_cn": "该图是一张题为“在网络空间教授科学”的信息图。",
+        "words": [
+            "Teaching Science in Cyberspace.",
+            "Science"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is designed with a gray background featuring various blue and gray elements.",
+        "sentence_cn": "它采用灰色背景设计，包含各种蓝色和灰色元素。",
+        "words": [
+            "background",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed breakdown:",
+        "sentence_cn": "以下是详细分析：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Section:",
+        "sentence_cn": "1. 顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Apps:",
+        "sentence_cn": "-应用程序：",
+        "words": [
+            "Apps:",
+            "Apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - For iOS, the top downloaded science app is \"NASA App HD.\"",
+        "sentence_cn": "- 对于 iOS，下载次数最多的科学应用程序是“NASA App HD”。",
+        "words": [
+            "NASA App HD.",
+            "science",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - For Android, the top free downloaded science app is \"Earth-Now.\"",
+        "sentence_cn": "- 对于 Android 来说，下载量最大的免费下载科学应用程序是“Earth-Now”。",
+        "words": [
+            "Earth-Now.",
+            "science",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - An illustration of a phone displays these apps, noting the \"Total number of NASA apps\" as 26.",
+        "sentence_cn": "- 手机插图显示了这些应用程序，并指出“NASA 应用程序总数”为 26 个。",
+        "words": [
+            "Total number of NASA apps",
+            "illustration",
+            "phone",
+            "apps",
+            "number",
+            "apps",
+            "26"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Pinterest:",
+        "sentence_cn": "-Pinterest：",
+        "words": [
+            "Pinterest:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Top Science Pinterest Board named 'Octopus' with 2,461,054 followers and 31 pins.",
+        "sentence_cn": "- 顶级科学 Pinterest 板块名为“章鱼”，拥有 2,461,054 名关注者和 31 个图钉。",
+        "words": [
+            "2,461,054",
+            "followers",
+            "31",
+            "pins"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Wikipedia:",
+        "sentence_cn": "-维基百科：",
+        "words": [
+            "Wikipedia:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - The 'Science' entry on Wikipedia was viewed 359,746 times in the last month.",
+        "sentence_cn": "- 维基百科上的“科学”条目上个月被浏览了 359,746 次。",
+        "words": [
+            "entry",
+            "359,746",
+            "times",
+            "month"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Section:",
+        "sentence_cn": "2. 中间部分：",
+        "words": [
+            "Middle Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - State and eBook:",
+        "sentence_cn": "- 状态和电子书：",
+        "words": [
+            "State and eBook:",
+            "State",
+            "eBook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The top US state searching for 'Science' on Google is New Mexico.",
+        "sentence_cn": "- 在 Google 上搜索“科学”次数最多的美国州是新墨西哥州。",
+        "words": [
+            "US",
+            "state",
+            "New",
+            "Mexico"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - The top science reference eBook on Amazon Kindle is \"Atlas of Human Anatomy.\"",
+        "sentence_cn": "- 亚马逊 Kindle 上最热门的科学参考电子书是《人体解剖学图谱》。",
+        "words": [
+            "Atlas of Human Anatomy.",
+            "science",
+            "reference",
+            "eBook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Teachers Association:",
+        "sentence_cn": "- 教师协会：",
+        "words": [
+            "Teachers Association:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - National Science Teachers Association has 60,000 members.",
+        "sentence_cn": "- 全国科学教师协会拥有 60,000 名会员。",
+        "words": [
+            "60,000",
+            "members"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lower Section:",
+        "sentence_cn": "3. 下部：",
+        "words": [
+            "Lower Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Jobs Projection:",
+        "sentence_cn": "- 就业预测：",
+        "words": [
+            "Jobs Projection:",
+            "Jobs",
+            "Projection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - By 2014, 2 million jobs were expected to be created in STEM-related fields, according to the Bill & Melinda Gates Foundation.",
+        "sentence_cn": "- 据比尔和梅琳达盖茨基金会称，到 2014 年，预计将在 STEM 相关领域创造 200 万个就业岗位。",
+        "words": [
+            "2014",
+            "2",
+            "million",
+            "jobs",
+            "STEM",
+            "fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Trend Graph:",
+        "sentence_cn": "- 趋势图：",
+        "words": [
+            "Trend Graph:",
+            "Trend",
+            "Graph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Displays an upward trend from 2012 to 2014, with figures starting at around 500,000 in 2012 and rising to approximately 3,000,000 by 2014.",
+        "sentence_cn": "- 从 2012 年到 2014 年呈上升趋势，2012 年的数字从 500,000 左右开始上升到 2014 年的约 3,000,000。",
+        "words": [
+            "trend",
+            "2012",
+            "2014",
+            "figures",
+            "500,000",
+            "2012",
+            "3,000,000",
+            "2014"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Top Websites:",
+        "sentence_cn": "- 热门网站：",
+        "words": [
+            "Top Websites:",
+            "Websites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - A list of the top 5 most visited science educational resource sites, according to Alexa:",
+        "sentence_cn": "- 根据 Alexa 排名，访问量最大的 5 个科学教育资源网站列表：",
+        "words": [
+            "list",
+            "5",
+            "science",
+            "resource",
+            "sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "       - howstuffworks.com",
+        "sentence_cn": "- howstuffworks.com",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "       - sciencedaily.com",
+        "sentence_cn": "- sciencedaily.com",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "       - nsf.gov",
+        "sentence_cn": "- 国家科学基金会",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "       - freevideolecures.com",
+        "sentence_cn": "- freevideolecures.com",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "       - sciencebuddies.org",
+        "sentence_cn": "- sciencebuddies.org",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "4. Footer:",
+        "sentence_cn": "4. 页脚：",
+        "words": [
+            "Footer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Source information from CHOMP.COM and iTunes Store Education App Charts, with figures as of August 2012.",
+        "sentence_cn": "- 信息来源于CHOMP.COM和iTunes Store Education App Charts，数据截至2012年8月。",
+        "words": [
+            "Source",
+            "information",
+            "figures",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Website address: www.avatargeneration.com",
+        "sentence_cn": "- 网站地址：www.avatargeneration.com",
+        "words": [
+            "Website",
+            "address"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the infographic provides insights into popular digital tools, resources, and trends in science education as of 2012.",
+        "sentence_cn": "总体而言，该信息图提供了截至 2012 年的流行数字工具、资源和科学教育趋势的见解。",
+        "words": [
+            "insights",
+            "tools",
+            "resources",
+            "trends",
+            "science",
+            "education",
+            "2012"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "sentence": "The image is an advertisement for Pepsi, showcasing four different designs of Pepsi cans, each with a vibrant and distinctive pop art style.",
+        "sentence_cn": "图片是百事可乐的广告，展示了四种不同设计的百事可乐罐子，每种罐子都具有鲜明的波普艺术风格。",
+        "words": [
+            "four",
+            "designs",
+            "cans",
+            "pop",
+            "art",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Left Can: This features a can with a colorful, abstract design incorporating various patterns and a bold \"PEPSI\" logo in blue and white.",
+        "sentence_cn": "1. 左上角的罐子：这个罐子采用色彩鲜艳的抽象设计，包含各种图案，以及蓝白相间的醒目“百事可乐”标志。",
+        "words": [
+            "Top Left Can",
+            "PEPSI",
+            "can",
+            "design",
+            "patterns",
+            "logo",
+            "blue",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is yellow.",
+        "sentence_cn": "背景是黄色。",
+        "words": [
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top Right Can: Displays a can with geometric and colorful shapes, along with the \"PEPSI\" logo in a more modern and edgy style.",
+        "sentence_cn": "2. 右上方的罐子：展示具有几何和彩色形状的罐子，以及更现代和前卫风格的“百事可乐”标志。",
+        "words": [
+            "Top Right Can",
+            "PEPSI",
+            "can",
+            "shapes",
+            "logo",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a purplish pink.",
+        "sentence_cn": "背景是紫粉色。",
+        "words": [
+            "background",
+            "pink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Left Can: Shows a can with swirling stripes in red and black tones, again featuring the \"PEPSI\" logo prominently.",
+        "sentence_cn": "3. 左下方的罐子：展示带有红色和黑色漩涡条纹的罐子，同样突出显示了“百事可乐”标志。",
+        "words": [
+            "Bottom Left Can",
+            "PEPSI",
+            "can",
+            "stripes",
+            "tones",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background here is red.",
+        "sentence_cn": "这里的背景是红色的。",
+        "words": [
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Right Can: This can has a more fluid design with blue and purple hues in wave-like patterns and the \"PEPSI\" logo.",
+        "sentence_cn": "4. 右下方罐子：这个罐子的设计更加流畅，有波浪状的蓝色和紫色色调以及“百事可乐”标志。",
+        "words": [
+            "Bottom Right Can",
+            "PEPSI",
+            "can",
+            "design",
+            "hues",
+            "wave",
+            "patterns",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is white.",
+        "sentence_cn": "背景是白色的。",
+        "words": [
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The headline above the cans reads, \"Our idea of pop art.\"",
+        "sentence_cn": "罐子上方的标题写着“我们对波普艺术的看法”。",
+        "words": [
+            "Our idea of pop art.",
+            "headline",
+            "cans",
+            "idea",
+            "pop",
+            "art"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the cans, there is a block of text describing the concept of the new can designs and inviting customers to collect them, emphasizing the artistic value and freshness of the product¡¯s presentation.",
+        "sentence_cn": "罐子下方有一段文字，描述了新罐子设计的概念并邀请顾客收藏，强调了产品呈现的艺术价值和新鲜感。",
+        "words": [
+            "cans",
+            "block",
+            "text",
+            "concept",
+            "can",
+            "designs",
+            "customers",
+            "value",
+            "freshness",
+            "product¡¯s",
+            "presentation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline \"The Choice of a New Generation\" appears at the bottom, reinforcing Pepsi's appeal to younger consumers.",
+        "sentence_cn": "底部印有“新一代的选择”的标语，增强了百事可乐对年轻消费者的吸引力。",
+        "words": [
+            "The Choice of a New Generation",
+            "tagline",
+            "bottom",
+            "appeal",
+            "consumers"
+        ],
+        "id": null
+    }
+]

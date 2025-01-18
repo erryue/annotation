@@ -1,0 +1,68 @@
+[
+    {
+        "sentence": "The image depicts a natural wetland area with a flock of ducks standing in shallow water.",
+        "sentence_cn": "图像描绘的是一片天然湿地，一群鸭子站在浅水中。",
+        "words": [
+            "wetland",
+            "area",
+            "flock",
+            "ducks",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water is covered partially with green vegetation, suggesting a marshy environment typical of wetlands.",
+        "sentence_cn": "水面部分被绿色植被覆盖，表明这里是湿地典型的沼泽环境。",
+        "words": [
+            "water",
+            "vegetation",
+            "environment",
+            "wetlands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ducks are grouped together and appear to be foraging or resting.",
+        "sentence_cn": "鸭子们聚集在一起，看起来是在觅食或休息。",
+        "words": [
+            "ducks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is more vegetation, including patches of dense green grass and reeds.",
+        "sentence_cn": "背景中有更多的植被，包括一片片茂密的绿草和芦苇。",
+        "words": [
+            "background",
+            "vegetation",
+            "patches",
+            "grass",
+            "reeds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a serene and natural habitat, likely home to various species of flora and fauna.",
+        "sentence_cn": "整体场景传达出一种宁静自然的栖息地，可能是各种动植物的家园。",
+        "words": [
+            "scene",
+            "habitat",
+            "home",
+            "species",
+            "flora",
+            "fauna"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is softer, indicating a possible overcast sky or late afternoon setting.",
+        "sentence_cn": "灯光较柔和，表明天空可能阴云密布或天色已晚。",
+        "words": [
+            "lighting",
+            "sky",
+            "afternoon"
+        ],
+        "id": null
+    }
+]

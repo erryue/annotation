@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image shows a screenshot of a mobile news app from \"14 WFIE,\" displaying the top stories.",
+        "sentence_cn": "该图为“14 WFIE”移动新闻应用程序的截图，其中显示的是头条新闻。",
+        "words": [
+            "14 WFIE,",
+            "mobile",
+            "news",
+            "app",
+            "14",
+            "stories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The weather is shown at 38 degrees with a cloud icon, indicating overcast conditions at 1:17 (the time is visible at the top).",
+        "sentence_cn": "天气显示为 38 度，带有云图标，表示 1:17 时为阴天（时间在顶部可见）。",
+        "words": [
+            "weather",
+            "38",
+            "degrees",
+            "cloud",
+            "icon",
+            "conditions",
+            "1:17",
+            "time",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main story has an image of a person and a dog, with the headline: \"Family reunited with dog after seven month disappearance,\" dated March 26, 2017, at 9:06 PM.",
+        "sentence_cn": "主线故事中有一张人和一只狗的图片，标题为“一家人与狗失踪七个月后重聚”，发布日期为 2017 年 3 月 26 日晚上 9 点 06 分。",
+        "words": [
+            "Family reunited with dog after seven month disappearance,",
+            "story",
+            "person",
+            "dog",
+            "headline",
+            "Family",
+            "dog",
+            "seven",
+            "month",
+            "disappearance",
+            "26",
+            "2017",
+            "9:06",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Following stories include:",
+        "sentence_cn": "以下故事包括：",
+        "words": [
+            "stories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"Crews repair water main break in Evansville,\" at 9:12 PM.",
+        "sentence_cn": "1.“工作人员正在修复埃文斯维尔的水管破裂处”，晚上 9 点 12 分。",
+        "words": [
+            "Crews repair water main break in Evansville,",
+            "Crews",
+            "water",
+            "main",
+            "break",
+            "Evansville",
+            "9:12",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"Accused cab driver robber turns himself in,\" at 7:45 PM, with a small thumbnail image of a person's face.",
+        "sentence_cn": "2.“被控抢劫出租车司机自首”，晚上 7 点 45 分，并附有一张人脸的小缩略图。",
+        "words": [
+            "Accused cab driver robber turns himself in,",
+            "cab",
+            "driver",
+            "robber",
+            "7:45",
+            "PM",
+            "thumbnail",
+            "person",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. \"14 News looks at local nightclub security,\" at 5:54 PM, featuring a small image of a yellow sign.",
+        "sentence_cn": "3.“14 News 关注当地夜总会安全”，下午 5:54，显示一张黄色标志的小图像。",
+        "words": [
+            "14 News looks at local nightclub security,",
+            "nightclub",
+            "security",
+            "5:54",
+            "PM",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, part of an advertisement from Ashley Furniture is visible, offering \"LOWEST PRICES of the season event\" and \"36 MONTHS NO INTEREST!\"",
+        "sentence_cn": "在底部，可以看到 Ashley Furniture 的部分广告，其中显示“本季活动最低价”和“36 个月免息！”",
+        "words": [
+            "LOWEST PRICES of the season event",
+            "36 MONTHS NO INTEREST!",
+            "bottom",
+            "part",
+            "PRICES",
+            "season",
+            "event",
+            "36",
+            "MONTHS",
+            "INTEREST"
+        ],
+        "id": null
+    }
+]

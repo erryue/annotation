@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "The image depicts a kitchen scene with a focus on a countertop in the foreground.",
+        "sentence_cn": "该图描绘的是厨房场景，焦点是前景中的台面。",
+        "words": [
+            "kitchen",
+            "scene",
+            "focus",
+            "countertop",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the countertop, there is a clear glass vase holding vibrant purple and white orchids, accompanied by green foliage.",
+        "sentence_cn": "台面上有一个透明的玻璃花瓶，里面插着鲜艳的紫色和白色兰花，还有绿色的叶子。",
+        "words": [
+            "countertop",
+            "glass",
+            "vase",
+            "orchids",
+            "foliage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flowers add a touch of color and freshness to the space.",
+        "sentence_cn": "鲜花给空间增添了一丝色彩和清新。",
+        "words": [
+            "flowers",
+            "touch",
+            "color",
+            "freshness",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the kitchen appears to be somewhat cluttered and used.",
+        "sentence_cn": "在背景中，厨房显得有些杂乱和破旧。",
+        "words": [
+            "background",
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a white refrigerator on the left side with a few magnets or notes.",
+        "sentence_cn": "左侧有一台白色冰箱，上面有几块磁铁或纸条。",
+        "words": [
+            "refrigerator",
+            "magnets",
+            "notes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cabinets above the countertop are wooden, with some doors open, revealing various kitchen items like mugs, dishes, and glassware.",
+        "sentence_cn": "台面上方的橱柜是木质的，有些门是打开的，里面放着各种厨房用品，如杯子、盘子和玻璃器皿。",
+        "words": [
+            "cabinets",
+            "countertop",
+            "doors",
+            "kitchen",
+            "items",
+            "mugs",
+            "dishes",
+            "glassware"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the cabinets is a white tiled backsplash, and a stove with items on it, such as a small pot and a kettle.",
+        "sentence_cn": "橱柜下面是白色瓷砖的后挡板，还有一个炉子，上面放着小锅和水壶等物品。",
+        "words": [
+            "cabinets",
+            "backsplash",
+            "stove",
+            "items",
+            "pot",
+            "kettle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop is filled with various kitchen essentials including a kettle, jars, and bottles.",
+        "sentence_cn": "台面上摆满了各种厨房必需品，包括水壶、罐子和瓶子。",
+        "words": [
+            "countertop",
+            "kitchen",
+            "essentials",
+            "kettle",
+            "jars",
+            "bottles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the kitchen has a cozy and lived-in feel, combining a hint of floral elegance with everyday functionality.",
+        "sentence_cn": "总体而言，厨房给人一种舒适、温馨的感觉，将花卉的优雅与日常功能融为一体。",
+        "words": [
+            "kitchen",
+            "feel",
+            "hint",
+            "elegance",
+            "functionality"
+        ],
+        "id": null
+    }
+]

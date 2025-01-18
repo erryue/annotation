@@ -1,0 +1,203 @@
+[
+    {
+        "sentence": "The image is a screenshot of a music application interface on a smartphone.",
+        "sentence_cn": "图片是智能手机上音乐应用程序界面的截图。",
+        "words": [
+            "music",
+            "application",
+            "interface",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a status bar displaying various icons such as notification, Wi-Fi, battery, and time (3:42).",
+        "sentence_cn": "顶部有一个状态栏，显示通知、Wi-Fi、电池和时间等各种图标（3:42）。",
+        "words": [
+            "top",
+            "status",
+            "bar",
+            "icons",
+            "notification",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "time",
+            "3:42"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the status bar, there are four navigation options: \"Activity,\" \"Playlists,\" \"Songs,\" and \"Folders.\"",
+        "sentence_cn": "状态栏下方有四个导航选项：“活动”、“播放列表”、“歌曲”和“文件夹”。",
+        "words": [
+            "Activity,",
+            "Playlists,",
+            "Songs,",
+            "Folders.",
+            "status",
+            "bar",
+            "four",
+            "navigation",
+            "options",
+            "Activity",
+            "Playlists",
+            "Songs",
+            "Folders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Songs\" tab is highlighted.",
+        "sentence_cn": "“歌曲”标签被突出显示。",
+        "words": [
+            "Songs",
+            "Songs",
+            "tab"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also an icon of a guitar with a musical note next to a search icon.",
+        "sentence_cn": "搜索图标旁边还有一个带有音符的吉他图标。",
+        "words": [
+            "icon",
+            "guitar",
+            "note",
+            "search",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A white pop-up window is prominently displayed, suggesting additional functions.",
+        "sentence_cn": "一个白色的弹出窗口显著地显示出来，提示附加功能。",
+        "words": [
+            "window",
+            "functions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It reads:",
+        "sentence_cn": "内容如下：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "\"You missed these function.",
+        "sentence_cn": "“您错过了这些功能。",
+        "words": [
+            "function"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "We believe that they would please you.\"",
+        "sentence_cn": "我们相信它们会让您满意。”",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Listed below are four features with colorful icons:",
+        "sentence_cn": "下面列出了四个带有彩色图标的功能：",
+        "words": [
+            "four",
+            "features",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Nice Visualization (blue icon with a wave pattern)",
+        "sentence_cn": "- 漂亮的可视化效果（带有波浪图案的蓝色图标）",
+        "words": [
+            "Visualization",
+            "icon",
+            "wave",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Flashlight (green icon with a flashlight)",
+        "sentence_cn": "- 手电筒（带手电筒的绿色图标）",
+        "words": [
+            "Flashlight",
+            "icon",
+            "flashlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Themes (multicolored icon with a paintbrush)",
+        "sentence_cn": "- 主题（带有画笔的多色图标）",
+        "words": [
+            "Themes",
+            "icon",
+            "paintbrush"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Equalizer (purple icon with equalizer bars)",
+        "sentence_cn": "- 均衡器（带均衡器条的紫色图标）",
+        "words": [
+            "icon",
+            "equalizer",
+            "bars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a faded yellow icon at the bottom for another option, with \"No, thanks.\" written underneath.",
+        "sentence_cn": "底部有一个褪色的黄色图标，表示另一个选项，下面写着“不，谢谢。”。",
+        "words": [
+            "No, thanks.",
+            "icon",
+            "bottom",
+            "option",
+            "thanks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the screen, there is a music playback interface with the track title \"joyful_new\" by \"unknown.\"",
+        "sentence_cn": "屏幕下方是音乐播放界面，曲目名为“joyful_new”，由“unknown”演唱。",
+        "words": [
+            "joyful_new",
+            "unknown.",
+            "bottom",
+            "screen",
+            "music",
+            "playback",
+            "interface",
+            "track",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a play button and playlist icon visible.",
+        "sentence_cn": "有一个可见的播放按钮和播放列表图标。",
+        "words": [
+            "play",
+            "button",
+            "playlist",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has a gradient of dark purple to light purple.",
+        "sentence_cn": "背景从深紫色渐变为浅紫色。",
+        "words": [
+            "background",
+            "gradient",
+            "purple",
+            "purple"
+        ],
+        "id": null
+    }
+]

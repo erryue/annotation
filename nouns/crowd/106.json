@@ -1,113 +1,58 @@
 [
     {
-        "sentence": "The image depicts a group of people sitting on a carpeted floor, appearing to be engaged in a card game.",
-        "sentence_cn": "图像描绘了一群人坐在地毯上，似乎在玩纸牌游戏。",
+        "sentence": "The image shows a group of five people sitting in a circle on a patterned carpet, possibly in a conference or event room.",
+        "sentence_cn": "图片显示，五个人围坐在一张有图案的地毯上，可能是在会议室或活动室里。",
         "words": [
             "group",
+            "five",
             "people",
-            "floor",
-            "card",
-            "game"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The setting resembles a casual meeting or event in a room with a decorative red and gold patterned carpet.",
-        "sentence_cn": "该场景类似于在铺有红色和金色图案装饰地毯的房间里举行的非正式会议或活动。",
-        "words": [
-            "meeting",
+            "circle",
+            "carpet",
+            "conference",
             "event",
-            "room",
-            "red",
-            "gold",
-            "carpet"
+            "room"
         ],
         "id": null
     },
     {
-        "sentence": "There are four individuals closely focused on a layout of cards on the floor.",
-        "sentence_cn": "有四个人正全神贯注地观察着地板上的卡片布局。",
+        "sentence": "They appear to be engaged in a card game, as several cards are laid out on the floor between them.",
+        "sentence_cn": "他们似乎在玩纸牌游戏，因为他们之间的地板上摆放着几张纸牌。",
         "words": [
-            "four",
-            "individuals",
-            "layout",
+            "card",
+            "game",
             "cards",
             "floor"
         ],
         "id": null
     },
     {
-        "sentence": "The cards seem to be arranged in rows and columns, suggesting they might be playing a strategy or collectible card game.",
-        "sentence_cn": "这些卡片似乎按行和列排列，表明他们可能在玩一种策略或集换式卡牌游戏。",
-        "words": [
-            "cards",
-            "rows",
-            "columns",
-            "strategy",
-            "card",
-            "game"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- The people are seated in a circle, suggesting an informal and relaxed atmosphere.",
-        "sentence_cn": "- 人们围坐成一圈，营造出一种非正式、轻松的氛围。",
+        "sentence": "The people are casually dressed, and a few empty chairs are visible around the room.",
+        "sentence_cn": "人们都穿着随意，房间周围有几把空椅子。",
         "words": [
             "people",
-            "circle",
-            "atmosphere"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- Some individuals are wearing casual clothing, such as t-shirts and hoodies.",
-        "sentence_cn": "- 有些人穿着休闲服装，例如 T 恤和连帽衫。",
-        "words": [
-            "individuals",
-            "clothing",
-            "t",
-            "-",
-            "shirts",
-            "hoodies"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- A round table with folded chairs can be seen in the background, indicating a community or social event.",
-        "sentence_cn": "- 背景中可以看到一张摆放着折叠椅的圆桌，表明正在举行社区或社交活动。",
-        "words": [
-            "round",
-            "table",
             "chairs",
-            "background",
-            "community",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting has a relaxed and informal atmosphere, suggesting they might be participating in a hobby or casual event.",
+        "sentence_cn": "这里的环境气氛轻松而随意，表明他们可能正在参加一项业余爱好或休闲活动。",
+        "words": [
+            "atmosphere",
+            "hobby",
             "event"
         ],
         "id": null
     },
     {
-        "sentence": "- The lighting appears to be indoor, typical of a meeting room or conference space.",
-        "sentence_cn": "- 照明似乎是室内的，典型的会议室或会议空间。",
+        "sentence": "One person in the background is standing near the chairs, possibly observing or moving around.",
+        "sentence_cn": "背景中有一个人在椅子旁边站着，可能正在观察或走动。",
         "words": [
-            "lighting",
-            "meeting",
-            "room",
-            "conference",
-            "space"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "Overall, the scene captures a moment of leisure and interaction centered around a card game, set in a social gathering space.",
-        "sentence_cn": "总体而言，该场景捕捉了社交聚会场所中以纸牌游戏为中心的休闲和互动时刻。",
-        "words": [
-            "scene",
-            "leisure",
-            "interaction",
-            "card",
-            "game",
-            "gathering",
-            "space"
+            "One",
+            "person",
+            "background",
+            "chairs"
         ],
         "id": null
     }

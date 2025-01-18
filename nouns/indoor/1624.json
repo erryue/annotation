@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image depicts a cozy, modern living room setup.",
+        "sentence_cn": "图片描绘的是一个舒适、现代的客厅布置。",
+        "words": [
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's an orange couch with a clean, straight design, accented with silver nailhead trim.",
+        "sentence_cn": "有一张橙色的沙发，设计简洁、直线，饰有银色钉头饰边。",
+        "words": [
+            "orange",
+            "couch",
+            "design",
+            "nailhead",
+            "trim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is adorned with two matching orange cushions and a contrasting black and white patterned throw pillow.",
+        "sentence_cn": "床上装饰有两个相配的橙色靠垫和一个黑白对比图案的抱枕。",
+        "words": [
+            "two",
+            "orange",
+            "cushions",
+            "throw",
+            "pillow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the couch hangs a large, abstract artwork with vibrant hues of red, orange, green, and white, adding a pop of color to the gray wall behind it.",
+        "sentence_cn": "沙发上方悬挂着一幅巨大的抽象艺术作品，以鲜艳的红色、橙色、绿色和白色为主色调，为其后方的灰色墙壁增添了一抹色彩。",
+        "words": [
+            "couch",
+            "artwork",
+            "hues",
+            "red",
+            "orange",
+            "green",
+            "white",
+            "pop",
+            "color",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the couch are large white vases, each containing tall bamboo stalks, bringing a zen-like atmosphere to the room.",
+        "sentence_cn": "沙发两侧是白色的大花瓶，每个花瓶里都插着高高的竹子，给房间带来了一种禅宗般的氛围。",
+        "words": [
+            "couch",
+            "vases",
+            "bamboo",
+            "stalks",
+            "zen",
+            "atmosphere",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the couch, there's a green chair with a sleek design.",
+        "sentence_cn": "沙发左边有一把设计时尚的绿色椅子。",
+        "words": [
+            "left",
+            "couch",
+            "chair",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the couch stands a white coffee table, on which there's a potted plant with red flowers and green leaves, introducing a touch of nature to the scene.",
+        "sentence_cn": "沙发前方是一张白色茶几，茶几上摆放着一盆红花绿叶的植物，给整个场景增添了一丝自然的气息。",
+        "words": [
+            "front",
+            "couch",
+            "coffee",
+            "table",
+            "plant",
+            "flowers",
+            "leaves",
+            "touch",
+            "nature",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rug is a light beige, complementing the overall color scheme and adding warmth to the room.",
+        "sentence_cn": "地毯是浅米色的，与整体配色方案相得益彰，为房间增添了温暖。",
+        "words": [
+            "rug",
+            "beige",
+            "color",
+            "scheme",
+            "warmth",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the arrangement is stylish and harmonious, balancing color and form.",
+        "sentence_cn": "总体而言，布局时尚和谐，色彩和形式达到平衡。",
+        "words": [
+            "arrangement",
+            "color",
+            "form"
+        ],
+        "id": null
+    }
+]

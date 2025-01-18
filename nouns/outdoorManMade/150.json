@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image shows a luxurious outdoor living area during the evening, featuring a covered patio with a ceiling fan and comfortable seating.",
+        "sentence_cn": "图片显示的是夜晚的豪华户外生活区，设有带吊扇和舒适座椅的带顶露台。",
+        "words": [
+            "living",
+            "area",
+            "evening",
+            "patio",
+            "ceiling",
+            "fan",
+            "seating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The patio leads out to a beautifully designed pool area, surrounded by natural landscape and subtle lighting, creating an inviting ambiance.",
+        "sentence_cn": "露台通向设计精美的泳池区，周围环绕着自然景观和柔和的灯光，营造出温馨的氛围。",
+        "words": [
+            "patio",
+            "pool",
+            "area",
+            "landscape",
+            "lighting",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool appears to be adjacent to a hot tub, nestled among rocks and greenery.",
+        "sentence_cn": "该游泳池似乎毗邻热水浴缸，坐落在岩石和绿色植物之间。",
+        "words": [
+            "pool",
+            "tub",
+            "rocks",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are mountains silhouetted against the fading blue twilight sky.",
+        "sentence_cn": "背景中，群山的轮廓映衬在渐渐消逝的蓝色暮色天空中。",
+        "words": [
+            "background",
+            "mountains",
+            "twilight",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The house has a stucco finish, with arched doorways and windows, complementing the Southwestern architectural style.",
+        "sentence_cn": "房子采用灰泥装饰，配有拱形门窗，与西南建筑风格相得益彰。",
+        "words": [
+            "house",
+            "stucco",
+            "finish",
+            "doorways",
+            "windows",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A decorative element is visible on the wall, adding to the aesthetic appeal.",
+        "sentence_cn": "墙上可以看到装饰元素，增添了美感。",
+        "words": [
+            "element",
+            "wall",
+            "appeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is serene and designed for relaxation and outdoor enjoyment.",
+        "sentence_cn": "这里环境宁静，非常适合放松和户外娱乐。",
+        "words": [
+            "relaxation",
+            "enjoyment"
+        ],
+        "id": null
+    }
+]

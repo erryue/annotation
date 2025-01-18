@@ -1,0 +1,76 @@
+[
+    {
+        "sentence": "The image is a promotional banner featuring the Fairfax County Courthouse on the left, depicted as a red-brick building with tall, arched windows.",
+        "sentence_cn": "该图是一条宣传横幅，左侧是费尔法克斯县法院，是一座红砖建筑，有高高的拱形窗户。",
+        "words": [
+            "banner",
+            "left",
+            "brick",
+            "building",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the upper portion of the building facade, \"FAIRFAX COUNTY COURTHOUSE\" is inscribed.",
+        "sentence_cn": "建筑立面的上部刻有“费尔法克斯县法院”字样。",
+        "words": [
+            "FAIRFAX COUNTY COURTHOUSE",
+            "portion",
+            "building",
+            "facade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, the text announces the availability of the \"NEW 8th Edition Fairfax Circuit Court Practice Manual (2014)\" for $206.70, including tax.",
+        "sentence_cn": "右侧的文字宣布“新版第 8 版费尔法克斯巡回法院实践手册（2014 年）”现已上市，售价为 206.70 美元（含税）。",
+        "words": [
+            "NEW 8th Edition Fairfax Circuit Court Practice Manual (2014)",
+            "text",
+            "availability",
+            "2014",
+            "206.70",
+            "tax"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It notes that the manual comes with a USB drive and offers options for pickup at the FBA office or shipping for an additional $25.00.",
+        "sentence_cn": "它指出该手册附带一个 USB 驱动器，并提供在 FBA 办公室取货或额外支付 25.00 美元运费的选项。",
+        "words": [
+            "manual",
+            "USB",
+            "drive",
+            "options",
+            "pickup",
+            "office",
+            "shipping",
+            "25.00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A blue button with the text \"CLICK HERE TO ORDER NOW!\" is prominently featured at the bottom.",
+        "sentence_cn": "底部显著的位置有一个蓝色按钮，上面写着“单击此处立即订购！”。",
+        "words": [
+            "CLICK HERE TO ORDER NOW!",
+            "button",
+            "text",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design combines architectural imagery with marketing text to advertise the legal manual.",
+        "sentence_cn": "整体设计将建筑图像与营销文字相结合，以宣传法律手册。",
+        "words": [
+            "design",
+            "imagery",
+            "marketing",
+            "text",
+            "manual"
+        ],
+        "id": null
+    }
+]

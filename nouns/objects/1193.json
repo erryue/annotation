@@ -1,0 +1,125 @@
+[
+    {
+        "sentence": "The image depicts a minimalist interior shelf or mantelpiece decorated with various items.",
+        "sentence_cn": "图像描绘的是一个简约的室内架子或壁炉架，上面装饰着各种物品。",
+        "words": [
+            "shelf",
+            "mantelpiece",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is a large mustard-yellow vase with a wide body and narrow neck.",
+        "sentence_cn": "左边是一个宽身细颈的芥末黄色大花瓶。",
+        "words": [
+            "left",
+            "mustard",
+            "vase",
+            "body",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it is a tall, slender, deep red vase with a shiny finish.",
+        "sentence_cn": "旁边是一个高大、细长、深红色、表面闪亮的花瓶。",
+        "words": [
+            "vase",
+            "finish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of these is a small, round white vase with a narrow neck.",
+        "sentence_cn": "前面是一个细颈的小圆形白色花瓶。",
+        "words": [
+            "front",
+            "vase",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Towards the center, there are two white vases with ribbed textures.",
+        "sentence_cn": "朝向中心，有两个带有肋状纹理的白色花瓶。",
+        "words": [
+            "center",
+            "two",
+            "vases",
+            "textures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each vase contains a single yellow tulip with green leaves, adding a touch of natural color to the arrangement.",
+        "sentence_cn": "每个花瓶中都有一株带绿叶的黄色郁金香，给花束增添了一抹自然的色彩。",
+        "words": [
+            "vase",
+            "tulip",
+            "leaves",
+            "touch",
+            "color",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the shelf, there is a framed piece of art.",
+        "sentence_cn": "架子的右侧有一幅镶框的艺术品。",
+        "words": [
+            "shelf",
+            "piece",
+            "art"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The artwork features a stylized bird in gray with a floral design in the body and accents of yellow.",
+        "sentence_cn": "该艺术品的特色是一只灰色的鸟，身体上有花卉图案，并带有黄色点缀。",
+        "words": [
+            "artwork",
+            "bird",
+            "gray",
+            "design",
+            "body",
+            "accents",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are additional yellow flower motifs around the bird on a white background.",
+        "sentence_cn": "在白色背景上，鸟的周围还有黄色的花卉图案。",
+        "words": [
+            "flower",
+            "motifs",
+            "bird",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The frame is simple and white, complementing the vases and overall color scheme.",
+        "sentence_cn": "框架简洁且白色，与花瓶和整体配色方案相得益彰。",
+        "words": [
+            "frame",
+            "vases",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wall behind the objects is painted in a neutral gray, providing a subtle backdrop that highlights the decorations.",
+        "sentence_cn": "物品后面的墙壁漆成中性灰色，提供了突显装饰品的微妙背景。",
+        "words": [
+            "wall",
+            "objects",
+            "gray",
+            "backdrop",
+            "decorations"
+        ],
+        "id": null
+    }
+]

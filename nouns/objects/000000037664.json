@@ -1,0 +1,62 @@
+[
+    {
+        "sentence": "The image features a neatly arranged breakfast setting.",
+        "sentence_cn": "图片展示的是整齐摆放的早餐场景。",
+        "words": [
+            "breakfast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes a triangular white plate holding five brown donuts.",
+        "sentence_cn": "它包括一个三角形的白色盘子，里面装着五个棕色甜甜圈。",
+        "words": [
+            "plate",
+            "five",
+            "donuts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate is placed on a textured, dark grid-patterned placemat.",
+        "sentence_cn": "盘子放在有纹理的、深色网格图案的餐垫上。",
+        "words": [
+            "plate",
+            "grid",
+            "placemat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the plate is a similarly shaped triangular white cup, filled with dark coffee, accompanied by a small silver spoon resting on its edge.",
+        "sentence_cn": "盘子旁边是一个形状相似的三角形白色杯子，里面盛满了黑咖啡，杯子边缘放着一把小银勺。",
+        "words": [
+            "plate",
+            "cup",
+            "coffee",
+            "spoon",
+            "edge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a plain, beige surface that contrasts with the dark placemat, creating a visually appealing composition.",
+        "sentence_cn": "背景是纯米色表面，与深色餐垫形成对比，创造出具有视觉吸引力的构图。",
+        "words": [
+            "background",
+            "surface",
+            "placemat",
+            "composition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall arrangement gives a minimalist and elegant vibe.",
+        "sentence_cn": "整体布置给人一种简约而优雅的氛围。",
+        "words": [
+            "arrangement",
+            "vibe"
+        ],
+        "id": null
+    }
+]

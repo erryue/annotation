@@ -1,0 +1,119 @@
+[
+    {
+        "sentence": "The image is a vintage movie poster for the film \"Faster, Pussycat! Kill! Kill!\" directed by Russ Meyer.",
+        "sentence_cn": "该图是拉斯·迈耶 (Russ Meyer) 执导的电影“Faster, Pussycat! Kill! Kill!”的复古电影海报。",
+        "words": [
+            "Faster, Pussycat! Kill! Kill!",
+            "vintage",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features bold, large red and black lettering with the film's title prominently displayed at the top.",
+        "sentence_cn": "海报采用大胆、大号的红黑色字体，电影名称突出显示在顶部。",
+        "words": [
+            "poster",
+            "lettering",
+            "film",
+            "title",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline reads \"Superwomen! Belted, Buckled and Booted!\".",
+        "sentence_cn": "标语写着“女超人！系好腰带，戴上扣环，穿上靴子！”。",
+        "words": [
+            "Superwomen! Belted, Buckled and Booted!",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a dramatic image of a woman in a dynamic pose, seemingly in the midst of a physical confrontation with a man on the ground.",
+        "sentence_cn": "画面中央是一幅戏剧性的图像，一名女子以动感的姿势站立，似乎正与地面上的一名男子发生肢体冲突。",
+        "words": [
+            "center",
+            "woman",
+            "pose",
+            "midst",
+            "confrontation",
+            "man",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is dressed in tight, black clothing, emphasizing a sense of power and aggression.",
+        "sentence_cn": "她穿着紧身的黑色衣服，强调力量和侵略感。",
+        "words": [
+            "clothing",
+            "sense",
+            "power",
+            "aggression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another woman in shorts is shown in a dynamic kicking pose above to the right.",
+        "sentence_cn": "右上方显示另一位身穿短裤的女子，做出动感的踢腿姿势。",
+        "words": [
+            "woman",
+            "shorts",
+            "kicking",
+            "pose",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The names of the starring actors, including Tura Satana, Haji, and Lori Williams, are listed below the central image.",
+        "sentence_cn": "中央图像下方列出了主演的名字，包括图拉·萨塔纳 (Tura Satana)、哈吉 (Haji) 和洛里·威廉姆斯 (Lori Williams)。",
+        "words": [
+            "names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Vintage cars are shown on both sides of the poster, adding to the retro feel.",
+        "sentence_cn": "海报两侧均有老式汽车，增添了复古感。",
+        "words": [
+            "cars",
+            "sides",
+            "poster",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a mention of a song related to the film by the Bostweeds.",
+        "sentence_cn": "其中还提到了 Bostweeds 演唱的一首与这部电影相关的歌曲。",
+        "words": [
+            "mention",
+            "song",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is stark and eye-catching, utilizing a high-contrast black, red, and white color scheme typical of 1960s exploitation and action film posters.",
+        "sentence_cn": "整体设计鲜明、引人注目，采用了 20 世纪 60 年代剥削和动作电影海报典型的高对比度黑色、红色和白色配色方案。",
+        "words": [
+            "design",
+            "eye",
+            "contrast",
+            "color",
+            "scheme",
+            "1960s",
+            "exploitation",
+            "action",
+            "film",
+            "posters"
+        ],
+        "id": null
+    }
+]

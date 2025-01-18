@@ -1,0 +1,59 @@
+[
+    {
+        "sentence": "The image shows a herd of cows standing in a field with tall grass and wildflowers.",
+        "sentence_cn": "图像显示，一群牛站在长满高草和野花的田野中。",
+        "words": [
+            "herd",
+            "cows",
+            "field",
+            "grass",
+            "wildflowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The colors in the image are altered, giving the landscape a surreal, orange-brown tint, which contrasts with the white flowers scattered throughout the field.",
+        "sentence_cn": "图像中的颜色发生了改变，使风景呈现出一种超现实的橙棕色色调，与散布在整个田野的白色花朵形成鲜明对比。",
+        "words": [
+            "colors",
+            "landscape",
+            "tint",
+            "flowers",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows are facing the camera, some with visible ear tags.",
+        "sentence_cn": "奶牛正面向镜头，其中一些奶牛的耳标清晰可见。",
+        "words": [
+            "cows",
+            "camera",
+            "ear",
+            "tags"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are scattered shrubs and a line of trees under a cloudy sky.",
+        "sentence_cn": "背景中，云朵的天空下散落着灌木丛和一排树木。",
+        "words": [
+            "background",
+            "shrubs",
+            "line",
+            "trees",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image has a warm and slightly dreamlike quality due to the color alteration.",
+        "sentence_cn": "由于色彩的改变，图像具有一种温暖且略带梦幻的质感。",
+        "words": [
+            "quality",
+            "color",
+            "alteration"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image depicts four people in a room decorated with greenery.",
+        "sentence_cn": "画中描绘了四个人处在一个以绿色植物装饰的房间里。",
+        "words": [
+            "four",
+            "people",
+            "room",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three women, two wearing bonnets and long dresses in patterns typical of a historical style, are part of the circle.",
+        "sentence_cn": "这个圈子里有三位妇女，其中两位戴着软帽，穿着具有典型历史风格图案的长裙。",
+        "words": [
+            "Three",
+            "women",
+            "two",
+            "bonnets",
+            "dresses",
+            "patterns",
+            "style",
+            "part",
+            "circle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The third woman is dressed in a modern style, with a white top, red scarf, and a red skirt with black polka dots, accompanied by tall brown boots.",
+        "sentence_cn": "第三位女士穿着现代风格的服装，白色上衣，红色围巾，带有黑色圆点的红色裙子，搭配棕色高筒靴。",
+        "words": [
+            "woman",
+            "style",
+            "top",
+            "scarf",
+            "skirt",
+            "polka",
+            "dots",
+            "boots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A man is also part of the circle, wearing glasses and dressed in traditional historical attire with a vest and black bow tie.",
+        "sentence_cn": "圆圈里还有一名男子，戴着眼镜，穿着传统历史服装，背心，戴着黑色领结。",
+        "words": [
+            "man",
+            "part",
+            "circle",
+            "glasses",
+            "attire",
+            "vest",
+            "bow",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are all holding hands in a circle, suggesting they are participating in a dance or historical reenactment.",
+        "sentence_cn": "他们手拉手围成一圈，看起来像是在参加舞蹈或历史重演。",
+        "words": [
+            "hands",
+            "circle",
+            "dance",
+            "reenactment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features wooden chairs and walls with stenciled patterns, contributing to an old-fashioned, vintage atmosphere.",
+        "sentence_cn": "房间里有木椅，墙壁上有模印的图案，营造出一种古朴、复古的氛围。",
+        "words": [
+            "room",
+            "chairs",
+            "walls",
+            "patterns",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

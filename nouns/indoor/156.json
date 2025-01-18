@@ -1,135 +1,139 @@
 [
     {
-        "sentence": "The image depicts an elegant and cozy living room with a vintage aesthetic.",
-        "sentence_cn": "图片描绘的是一间优雅、舒适且具有复古美感的客厅。",
+        "sentence": "The image depicts a cozy and eclectic living room interior.",
+        "sentence_cn": "该图描绘的是舒适且不拘一格的客厅内部环境。",
         "words": [
+            "living",
             "room",
-            "vintage",
-            "aesthetic"
+            "interior"
         ],
         "id": null
     },
     {
-        "sentence": "The room features a large fireplace at the center, above which hangs a portrait painting of a woman.",
-        "sentence_cn": "房间中央有一个大壁炉，壁炉上方悬挂着一幅女性肖像画。",
+        "sentence": "The focal point is a fireplace, above which hangs a portrait of a person with a simple, muted expression.",
+        "sentence_cn": "焦点是一个壁炉，上方悬挂着一幅表情朴素、沉静的人物肖像。",
         "words": [
-            "room",
+            "point",
             "fireplace",
-            "center",
             "portrait",
-            "painting",
-            "woman"
+            "person",
+            "expression"
         ],
         "id": null
     },
     {
-        "sentence": "On the mantel, there are decorative elements, including framed art pieces.",
-        "sentence_cn": "壁炉架上有装饰元素，包括带框的艺术品。",
+        "sentence": "The wall appears to be finished with a warm textured material, possibly plaster.",
+        "sentence_cn": "墙壁似乎是用一种温暖的纹理材料（可能是石膏）装饰的。",
         "words": [
-            "mantel",
-            "elements",
-            "art",
-            "pieces"
+            "wall",
+            "material",
+            "plaster"
         ],
         "id": null
     },
     {
-        "sentence": "To the left of the fireplace, there is a warmly lit table lamp with a green base, adding a gentle ambiance.",
-        "sentence_cn": "壁炉左侧，有一盏带有绿色底座的暖光台灯，增添了温柔的氛围。",
+        "sentence": "In front of the fireplace is a glass-topped coffee table adorned with several decorative items, including a prominent green ceramic pagoda and a similar green bird figurine.",
+        "sentence_cn": "壁炉前有一张玻璃面的咖啡桌，上面摆放着几件装饰品，包括一个显眼的绿色陶瓷宝塔和一个类似的绿色鸟雕像。",
         "words": [
-            "left",
+            "front",
             "fireplace",
-            "table",
-            "lamp",
-            "base",
-            "ambiance"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "In the center of the room sits a glass coffee table, adorned with a prominent green pagoda sculpture and lush plants, creating a focal point.",
-        "sentence_cn": "房间中央摆放着一张玻璃咖啡桌，上面装饰着显眼的绿色宝塔雕塑和茂盛的植物，形成一个焦点。",
-        "words": [
-            "center",
-            "room",
             "glass",
             "coffee",
             "table",
+            "items",
             "pagoda",
-            "sculpture",
-            "plants",
-            "point"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "Ceramic bird figurines add a touch of personality.",
-        "sentence_cn": "陶瓷鸟雕像增添了一丝个性。",
-        "words": [
             "bird",
-            "figurines",
-            "touch",
-            "personality"
+            "figurine"
         ],
         "id": null
     },
     {
-        "sentence": "The seating includes an orange cushioned armchair on the left and a richly textured green sofa on the right.",
-        "sentence_cn": "座位左侧是一张橙色软垫扶手椅，右侧是一张纹理丰富的绿色沙发。",
+        "sentence": "The table is flanked by lush green plants.",
+        "sentence_cn": "桌子两侧摆放着郁郁葱葱的绿色植物。",
         "words": [
-            "seating",
-            "orange",
-            "armchair",
-            "left",
-            "sofa",
-            "right"
+            "table",
+            "plants"
         ],
         "id": null
     },
     {
-        "sentence": "The sofa is accessorized with vibrant orange and checkered pillows.",
-        "sentence_cn": "沙发上配有鲜艳的橙色和格子枕头。",
+        "sentence": "On either side of the room are comfortable seating areas.",
+        "sentence_cn": "房间两侧均设有舒适的休息区。",
         "words": [
-            "sofa",
-            "orange",
-            "pillows"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "A modern lamp with a dark shade is placed next to the sofa, providing additional lighting.",
-        "sentence_cn": "沙发旁边放置了一盏带有深色灯罩的现代灯，提供额外的照明。",
-        "words": [
-            "lamp",
-            "shade",
-            "sofa",
-            "lighting"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The rug has a geometric pattern in shades of green and black, complementing the color scheme.",
-        "sentence_cn": "地毯具有绿色和黑色的几何图案，与配色方案相得益彰。",
-        "words": [
-            "rug",
-            "pattern",
-            "shades",
-            "green",
-            "black",
-            "color",
-            "scheme"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "Warm tones and the blend of textures and ornaments give the room a classic yet inviting atmosphere.",
-        "sentence_cn": "温暖的色调以及纹理和装饰的混合给房间带来了经典而又温馨的氛围。",
-        "words": [
-            "tones",
-            "blend",
-            "textures",
-            "ornaments",
             "room",
+            "seating",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left is an orange chair with a deep green pillow, while to the right is a green-patterned sofa accentuated by orange pillows with a shiny, checkerboard pattern.",
+        "sentence_cn": "左边是一把橙色的椅子，配着一个深绿色的枕头，右边是一张绿色图案的沙发，上面放着一些带有闪亮棋盘格图案的橙色枕头。",
+        "words": [
+            "left",
+            "orange",
+            "chair",
+            "pillow",
+            "right",
+            "sofa",
+            "pillows",
+            "checkerboard",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Lighting is provided by two table lamps with green bases; the one on the left has a cream shade, and the right has a black shade.",
+        "sentence_cn": "照明由两个带有绿色底座的台灯提供；左边的台灯带有奶油色灯罩，右边的台灯带有黑色灯罩。",
+        "words": [
+            "Lighting",
+            "two",
+            "table",
+            "lamps",
+            "bases",
+            "one",
+            "left",
+            "cream",
+            "shade",
+            "right",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the lamps are small framed landscape paintings, lending an artistic ambiance to the room.",
+        "sentence_cn": "灯后面是小幅相框风景画，为房间增添了艺术氛围。",
+        "words": [
+            "lamps",
+            "landscape",
+            "paintings",
+            "ambiance",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also various books and decorative objects visible in the shelves to the left.",
+        "sentence_cn": "左边的书架上还可以看到各种书籍和装饰品。",
+        "words": [
+            "books",
+            "objects",
+            "shelves",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme mixes earthy orange and green tones with touches of gold and cream, creating a warm and inviting atmosphere.",
+        "sentence_cn": "整体配色方案混合了泥土的橙色和绿色色调以及金色和奶油色的点缀，营造出温暖而温馨的氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "orange",
+            "tones",
+            "touches",
+            "gold",
+            "cream",
             "atmosphere"
         ],
         "id": null

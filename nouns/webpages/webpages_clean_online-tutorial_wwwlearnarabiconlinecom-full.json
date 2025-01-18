@@ -1,0 +1,137 @@
+[
+    {
+        "sentence": "The image is a webpage from LearnArabicOnline.com, a platform offering free online Arabic lessons.",
+        "sentence_cn": "图片是 LearnArabicOnline.com 的一个网页，该网站是一个提供免费在线阿拉伯语课程的平台。",
+        "words": [
+            "webpage",
+            "platform",
+            "lessons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header includes a logo, social media links, and options to share the site.",
+        "sentence_cn": "标题包括徽标、社交媒体链接和网站共享选项。",
+        "words": [
+            "header",
+            "logo",
+            "media",
+            "links",
+            "options",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A navigation bar with tabs such as \"Get Started,\" \"Reading & Writing,\" \"Verbs,\" \"Grammar,\" \"Vocabulary,\" and more is displayed.",
+        "sentence_cn": "显示一个导航栏，其中包含“开始”、“阅读和写作”、“动词”、“语法”、“词汇”等选项卡。",
+        "words": [
+            "Get Started,",
+            "Reading & Writing,",
+            "Verbs,",
+            "Grammar,",
+            "Vocabulary,",
+            "navigation",
+            "bar",
+            "tabs",
+            "Reading",
+            "Verbs",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there's a section introducing free Arabic lessons, mentioning the site's extensive resources for learning Arabic, including basics like the alphabet and advanced topics like Arabic poetry.",
+        "sentence_cn": "下面有一个介绍免费阿拉伯语课程的部分，提到了该网站学习阿拉伯语的大量资源，包括字母表等基础知识和阿拉伯诗歌等高级主题。",
+        "words": [
+            "section",
+            "lessons",
+            "site",
+            "resources",
+            "basics",
+            "alphabet",
+            "topics",
+            "poetry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A checkbox allows users to select Beginner, Intermediate, or Advanced levels, and a \"Go To Free Lessons\" button is present.",
+        "sentence_cn": "复选框允许用户选择初级、中级或高级水平，并且有一个“转到免费课程”按钮。",
+        "words": [
+            "Go To Free Lessons",
+            "checkbox",
+            "users",
+            "Beginner",
+            "levels",
+            "Lessons",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Prominent red handwritten text offers \"Free Instant Access To Over 2 Hours of Free Video Lessons... plus free learning guides.\"",
+        "sentence_cn": "显眼的红色手写文字写道“免费即时访问超过 2 小时的免费视频课程……以及免费学习指南。”",
+        "words": [
+            "Free Instant Access To Over 2 Hours of Free Video Lessons... plus free learning guides.",
+            "text",
+            "Access",
+            "2",
+            "Hours",
+            "Video",
+            "Lessons",
+            "learning",
+            "guides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below it is a blue button to get free access by entering an email address.",
+        "sentence_cn": "下面是一个蓝色按钮，通过输入电子邮件地址即可免费访问。",
+        "words": [
+            "button",
+            "access",
+            "email",
+            "address"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An image of a book or DVD cover is to the right of the button.",
+        "sentence_cn": "按钮右侧有一张书籍或 DVD 封面的图像。",
+        "words": [
+            "book",
+            "DVD",
+            "cover",
+            "right",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there's a quote in smaller text about reading and understanding Arabic in 21 days, emphasizing efficiency and comprehensive learning.",
+        "sentence_cn": "此外，较小的文字中还有一段关于 21 天阅读和理解阿拉伯语的引文，强调效率和全面的学习。",
+        "words": [
+            "quote",
+            "text",
+            "21",
+            "days",
+            "efficiency",
+            "learning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design includes subtle decorative elements, like orange arrows and discrete patterns.",
+        "sentence_cn": "该设计包含一些微妙的装饰元素，例如橙色箭头和离散图案。",
+        "words": [
+            "design",
+            "elements",
+            "orange",
+            "arrows",
+            "patterns"
+        ],
+        "id": null
+    }
+]

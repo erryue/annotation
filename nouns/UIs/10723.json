@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app page with a bright blue background.",
+        "sentence_cn": "该图片是具有亮蓝色背景的移动应用程序页面的屏幕截图。",
+        "words": [
+            "app",
+            "page",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, several status icons are visible, such as Wi-Fi, Bluetooth, and battery status, along with the time displayed as 5:58.",
+        "sentence_cn": "在顶部，可以看到几个状态图标，例如 Wi-Fi、蓝牙和电池状态，以及显示为 5:58 的时间。",
+        "words": [
+            "top",
+            "status",
+            "icons",
+            "Wi",
+            "-",
+            "Fi",
+            "Bluetooth",
+            "battery",
+            "status",
+            "time",
+            "5:58"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The word \"SKIP\" is located in the top right corner.",
+        "sentence_cn": "“SKIP”字样位于右上角。",
+        "words": [
+            "SKIP",
+            "word",
+            "SKIP",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there are calendar-style pages stacked with numbers \"1,\" \"2,\" and \"3,\" and a check mark.",
+        "sentence_cn": "中间是日历样式的页面，上面堆满了数字“1”，“2”，“3”，以及一个复选标记。",
+        "words": [
+            "1,",
+            "2,",
+            "3,",
+            "center",
+            "calendar",
+            "style",
+            "pages",
+            "numbers",
+            "1",
+            "2",
+            "3",
+            "check",
+            "mark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there is text that reads \"Something new every day\" in white font.",
+        "sentence_cn": "下面，有白色字体的文字“每天都有新鲜事”。",
+        "words": [
+            "Something new every day",
+            "text",
+            "day",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath that, it says \"Great offers on free apps every day\" in smaller white font.",
+        "sentence_cn": "下面用较小的白色字体写着“每天免费应用超值优惠”。",
+        "words": [
+            "Great offers on free apps every day",
+            "offers",
+            "apps",
+            "day",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are navigation dots indicating a series of screens, with the first one filled.",
+        "sentence_cn": "底部有导航点，指示一系列屏幕，其中第一个屏幕已填满。",
+        "words": [
+            "bottom",
+            "navigation",
+            "dots",
+            "series",
+            "screens",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A button labeled \"NEXT\" is highlighted in blue near the bottom.",
+        "sentence_cn": "底部附近有一个标有“下一步”的按钮，以蓝色突出显示。",
+        "words": [
+            "NEXT",
+            "button",
+            "NEXT",
+            "blue",
+            "bottom"
+        ],
+        "id": null
+    }
+]

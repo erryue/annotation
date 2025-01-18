@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image depicts a classroom setting with several adults seated at desks arranged in rows.",
+        "sentence_cn": "图片描绘的是一个教室场景，几个成年人坐在排成一排的课桌旁。",
+        "words": [
+            "classroom",
+            "adults",
+            "desks",
+            "rows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be engaged in a lecture or presentation, looking toward the front where a table holds a laptop and a projector.",
+        "sentence_cn": "他们似乎正在听讲座或演讲，目光望向前方，桌子上放着一台笔记本电脑和一台投影仪。",
+        "words": [
+            "lecture",
+            "presentation",
+            "front",
+            "table",
+            "laptop",
+            "projector"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The individuals are diverse in appearance and are dressed casually.",
+        "sentence_cn": "这些人外貌各异，穿着随意。",
+        "words": [
+            "individuals",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some are holding papers or notebooks, suggesting they are taking notes or following along with the presentation.",
+        "sentence_cn": "有些人手里拿着纸张或笔记本，表明他们正在做笔记或跟着演示。",
+        "words": [
+            "papers",
+            "notebooks",
+            "notes",
+            "presentation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has natural lighting coming from a window on the left side, and there are more papers and binders stacked on a shelf in the background.",
+        "sentence_cn": "房间左侧有窗户，自然光照进房间，背景中的架子上堆放着更多纸张和活页夹。",
+        "words": [
+            "room",
+            "lighting",
+            "window",
+            "papers",
+            "binders",
+            "shelf",
+            "background"
+        ],
+        "id": null
+    }
+]

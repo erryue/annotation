@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image depicts a serene scene in a savanna landscape.",
+        "sentence_cn": "该图描绘的是大草原上一片宁静的景象。",
+        "words": [
+            "scene",
+            "savanna",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is an antelope, likely a waterbuck due to its characteristic markings and build.",
+        "sentence_cn": "前景中有一只羚羊，根据其特征性的斑纹和体型来看，它很可能是一只水羚。",
+        "words": [
+            "foreground",
+            "antelope",
+            "waterbuck",
+            "markings",
+            "build"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Its coat is brown and it has distinctive white markings on its rear and face.",
+        "sentence_cn": "它的皮毛是棕色的，后部和脸上有明显的白色斑纹。",
+        "words": [
+            "coat",
+            "markings",
+            "rear",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The antelope is centered in the image, walking through a field of dry, yellow-brown grass.",
+        "sentence_cn": "这只羚羊位于图片中央，正走过一片干燥的黄褐色草地。",
+        "words": [
+            "antelope",
+            "field",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the antelope, there are several zebras with their iconic black and white stripes.",
+        "sentence_cn": "在这只羚羊周围，还有几只斑马，它们有着标志性的黑白条纹。",
+        "words": [
+            "antelope",
+            "zebras",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are grazing and positioned in a scattered formation across the field.",
+        "sentence_cn": "斑马正在田野里吃草，散乱地排列着。",
+        "words": [
+            "zebras",
+            "formation",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is populated with a mix of green vegetation and scattered bushy trees, typical of a savanna environment.",
+        "sentence_cn": "背景中混合着绿色植被和散落的茂密树木，这是典型的热带草原环境。",
+        "words": [
+            "background",
+            "mix",
+            "vegetation",
+            "trees",
+            "savanna",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast with a light, misty atmosphere, suggesting early morning or late afternoon lighting.",
+        "sentence_cn": "天空阴云密布，薄雾弥漫，预示着清晨或傍晚的光线。",
+        "words": [
+            "sky",
+            "atmosphere",
+            "morning",
+            "afternoon",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene is peaceful and captures the natural beauty of wildlife in their habitat.",
+        "sentence_cn": "整体场景宁静，捕捉到了野生动物栖息地的自然美景。",
+        "words": [
+            "scene",
+            "beauty",
+            "wildlife",
+            "habitat"
+        ],
+        "id": null
+    }
+]

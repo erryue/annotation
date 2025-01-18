@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image depicts a cozy bedroom with a simple, clean design.",
+        "sentence_cn": "图片描绘的是一间设计简洁、舒适的卧室。",
+        "words": [
+            "bedroom",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center, there is a bed with white bedding and a wooden headboard featuring geometric patterns.",
+        "sentence_cn": "房间中央有一张床，床上用品为白色，床头板为几何图案的木质。",
+        "words": [
+            "center",
+            "bed",
+            "bedding",
+            "headboard",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the bed are small white nightstands with lamps.",
+        "sentence_cn": "床的两侧是带灯的白色小床头柜。",
+        "words": [
+            "bed",
+            "nightstands",
+            "lamps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there's a white vanity table with a circular mirror and a black chair.",
+        "sentence_cn": "左边有一张白色的梳妆台，上面有一面圆形镜子和一把黑色的椅子。",
+        "words": [
+            "left",
+            "vanity",
+            "table",
+            "mirror",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A notepad and a small item are placed on the table.",
+        "sentence_cn": "桌子上放着一本记事本和一个小物品。",
+        "words": [
+            "notepad",
+            "item",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's an adjoining bathroom visible through an open doorway, furnished with basic amenities.",
+        "sentence_cn": "通过敞开的门就可以看到相邻的浴室，其中配备有基本设施。",
+        "words": [
+            "bathroom",
+            "doorway",
+            "amenities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted white, with the wall behind the bed featuring subtle decorative patterns.",
+        "sentence_cn": "墙壁漆成白色，床后面的墙壁上有精致的装饰图案。",
+        "words": [
+            "walls",
+            "wall",
+            "bed",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A window on the right side is dressed with patterned curtains, allowing natural light to enter the room.",
+        "sentence_cn": "",
+        "words": [
+            "window",
+            "curtains",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is finished with light-colored tiles.",
+        "sentence_cn": "地板铺有浅色瓷砖。",
+        "words": [
+            "floor",
+            "tiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a sloped ceiling with a ceiling fan and light fixture.",
+        "sentence_cn": "房间有一个倾斜的天花板，配有吊扇和灯具。",
+        "words": [
+            "room",
+            "ceiling",
+            "ceiling",
+            "fan",
+            "light",
+            "fixture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room exudes a neat and welcoming atmosphere.",
+        "sentence_cn": "总体而言，房间散发出整洁、温馨的氛围。",
+        "words": [
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "id": "d6602411-7a09-4581-8214-b06aeb67bf63",
+        "confidence": 0.90726,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 478.60416,
+                        "minY": 203.42694,
+                        "maxX": 630.26587,
+                        "maxY": 283.33774
+                    },
+                    "x": 478.60416,
+                    "y": 203.42694,
+                    "w": 151.66170999999997,
+                    "h": 79.9108
+                }
+            }
+        }
+    },
+    {
+        "id": "c959ce52-b34c-4431-9b33-409da973ff34",
+        "confidence": 0.90188,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 364.19019,
+                        "minY": 293.03763,
+                        "maxX": 579.49017,
+                        "maxY": 423.17294
+                    },
+                    "x": 364.19019,
+                    "y": 293.03763,
+                    "w": 215.29998000000006,
+                    "h": 130.13531
+                }
+            }
+        }
+    },
+    {
+        "id": "87fc45f8-e81c-41a5-b2f8-937d98c0125e",
+        "confidence": 0.89484,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 185.88255,
+                        "minY": 245.132,
+                        "maxX": 292.80112,
+                        "maxY": 382.82214
+                    },
+                    "x": 185.88255,
+                    "y": 245.132,
+                    "w": 106.91857000000002,
+                    "h": 137.69013999999999
+                }
+            }
+        }
+    },
+    {
+        "id": "b4a45afd-6355-4a3c-954d-8e43fdedab23",
+        "confidence": 0.88006,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 519.63965,
+                        "minY": 343.82544,
+                        "maxX": 638.91956,
+                        "maxY": 422.59933
+                    },
+                    "x": 519.63965,
+                    "y": 343.82544,
+                    "w": 119.27991000000009,
+                    "h": 78.77389
+                }
+            }
+        }
+    },
+    {
+        "id": "19c8f75c-8bf6-49f0-8a91-56d468646c4b",
+        "confidence": 0.86563,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 342.01089,
+                        "minY": 135.94923,
+                        "maxX": 413.2681,
+                        "maxY": 191.46544
+                    },
+                    "x": 342.01089,
+                    "y": 135.94923,
+                    "w": 71.25720999999999,
+                    "h": 55.51621
+                }
+            }
+        }
+    },
+    {
+        "id": "14314655-127d-460c-8151-b216e232e7b7",
+        "confidence": 0.85516,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 40.34408,
+                        "minY": 144.99854,
+                        "maxX": 66.55254,
+                        "maxY": 184.7823
+                    },
+                    "x": 40.34408,
+                    "y": 144.99854,
+                    "w": 26.208459999999995,
+                    "h": 39.78376
+                }
+            }
+        }
+    },
+    {
+        "id": "b4a2f2bb-5077-4665-af91-96afa958253b",
+        "confidence": 0.81764,
+        "class": "elephant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 91.22974,
+                        "minY": 198.51575,
+                        "maxX": 188.22668,
+                        "maxY": 312.70837
+                    },
+                    "x": 91.22974,
+                    "y": 198.51575,
+                    "w": 96.99693999999998,
+                    "h": 114.19262
+                }
+            }
+        }
+    }
+]

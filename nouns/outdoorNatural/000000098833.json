@@ -1,0 +1,54 @@
+[
+    {
+        "sentence": "The image depicts a group of five Barbary sheep grazing in a lush, green meadow.",
+        "sentence_cn": "图像描绘了一群五只巴巴里羊在郁郁葱葱的草地上吃草。",
+        "words": [
+            "group",
+            "five",
+            "sheep",
+            "meadow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is vibrant and well-maintained, with scattered patches of small white flowers.",
+        "sentence_cn": "草地生机勃勃，维护良好，散落着一片片白色小花。",
+        "words": [
+            "grass",
+            "patches",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each sheep has a furry, brown coat and distinctive curved horns.",
+        "sentence_cn": "每只羊都有毛茸茸的棕色皮毛和独特的弯曲角。",
+        "words": [
+            "sheep",
+            "coat",
+            "horns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are tall trees, providing shade and adding depth to the scene.",
+        "sentence_cn": "背景中有高大的树木，提供遮荫并增添场景的深度。",
+        "words": [
+            "background",
+            "trees",
+            "shade",
+            "depth",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep appear to be peacefully feeding, suggesting a serene and natural environment.",
+        "sentence_cn": "羊群似乎正在安静地吃草，体现出宁静而自然的环境。",
+        "words": [
+            "sheep",
+            "environment"
+        ],
+        "id": null
+    }
+]

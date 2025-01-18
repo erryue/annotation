@@ -1,0 +1,54 @@
+[
+    {
+        "sentence": "The image depicts a lush alpine meadow with a group of cows grazing.",
+        "sentence_cn": "图像描绘的是一片茂盛的高山草甸，一群奶牛正在吃草。",
+        "words": [
+            "meadow",
+            "group",
+            "cows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Foreground features two brown cows standing among green vegetation and yellow flowers.",
+        "sentence_cn": "前景是两头棕色的奶牛站在绿色植被和黄色花朵之中。",
+        "words": [
+            "Foreground",
+            "two",
+            "cows",
+            "vegetation",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is vibrant and dotted with wildflowers.",
+        "sentence_cn": "这里景色生机勃勃，野花点缀其间。",
+        "words": [
+            "landscape",
+            "wildflowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, more cows are visible grazing, with dense, dark green coniferous trees lining the hillside.",
+        "sentence_cn": "在背景中，可以看到更多的奶牛在吃草，山坡上排列着茂密的深绿色针叶树。",
+        "words": [
+            "background",
+            "cows",
+            "trees",
+            "hillside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene exudes a peaceful, pastoral atmosphere under bright daylight.",
+        "sentence_cn": "明媚的日光下，场景散发着宁静的田园气息。",
+        "words": [
+            "scene",
+            "atmosphere",
+            "daylight"
+        ],
+        "id": null
+    }
+]

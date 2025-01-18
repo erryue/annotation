@@ -1,0 +1,302 @@
+[
+    {
+        "sentence": "The image is a screenshot of a website for The Bank of Nashville under Synovus Bank.",
+        "sentence_cn": "该图是 Synovus Bank 旗下纳什维尔银行网站的截图。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a clean and professional layout with a red and white color scheme.",
+        "sentence_cn": "它具有简洁、专业的布局和红白配色方案。",
+        "words": [
+            "layout",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Top Section:",
+        "sentence_cn": "顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top has the Synovus and The Bank of Nashville logos.",
+        "sentence_cn": "- 顶部有 Synovus 和纳什维尔银行的标志。",
+        "words": [
+            "top",
+            "logos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There are menu options: Home, Personal, Business, Corporate, Wealth Management.",
+        "sentence_cn": "- 有菜单选项：家庭、个人、商务、公司、财富管理。",
+        "words": [
+            "menu",
+            "options",
+            "Business",
+            "Management"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- It includes links for ATM/Branch Locations, Contact Us, About Us, Careers, and Investor Relations, along with a search bar.",
+        "sentence_cn": "- 它包括 ATM/分行位置、联系我们、关于我们、职业和投资者关系的链接以及搜索栏。",
+        "words": [
+            "links",
+            "Locations",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Banner:",
+        "sentence_cn": "主横幅：",
+        "words": [
+            "Main Banner:",
+            "Banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Features an image of smiling graduates in caps and gowns.",
+        "sentence_cn": "- 以头戴学位帽和毕业服的毕业生微笑的形象为特色。",
+        "words": [
+            "graduates",
+            "caps",
+            "gowns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text reads, \"Open a Student Checking Account today!\" with details about fee-free enrollment in online and mobile banking.",
+        "sentence_cn": "- 文字内容为“今天就开设学生支票账户！”，其中包含有关免费注册网上银行和手机银行的详细信息。",
+        "words": [
+            "Open a Student Checking Account today!",
+            "Text",
+            "Student",
+            "Account",
+            "today",
+            "details",
+            "fee",
+            "enrollment",
+            "banking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A \"learn more\" link is provided.",
+        "sentence_cn": "- 提供了“了解更多”链接。",
+        "words": [
+            "learn more",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Middle Section:",
+        "sentence_cn": "中间部分：",
+        "words": [
+            "Middle Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Three buttons:",
+        "sentence_cn": "- 三个按钮：",
+        "words": [
+            "Three",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Student Checking Account\"",
+        "sentence_cn": "- “学生支票账户”",
+        "words": [
+            "Student Checking Account",
+            "Student",
+            "Account"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"We've moved to The Gulch\"",
+        "sentence_cn": "- “我们搬到了 The Gulch”",
+        "words": [
+            "We've moved to The Gulch",
+            "The",
+            "Gulch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Download the all-new mobile banking app\"",
+        "sentence_cn": "- “下载全新手机银行应用程序”",
+        "words": [
+            "Download the all-new mobile banking app",
+            "mobile",
+            "banking",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Right Section:",
+        "sentence_cn": "右侧部分：",
+        "words": [
+            "Right Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Login area for account access with fields for User ID and Password.",
+        "sentence_cn": "- 用于访问帐户的登录区域，其中包含用户 ID 和密码字段。",
+        "words": [
+            "Login",
+            "area",
+            "account",
+            "access",
+            "fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Options for enrolling and password recovery.",
+        "sentence_cn": "- 注册和密码恢复选项。",
+        "words": [
+            "Options",
+            "password",
+            "recovery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Information on how to bank with them and a guide for account transfers.",
+        "sentence_cn": "- 有关如何在该银行办理业务的信息以及账户转账指南。",
+        "words": [
+            "Information",
+            "guide",
+            "account",
+            "transfers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A contact section with phone number \"615-271-2000\" and address \"1033 Demonbreun Street, Nashville TN 37203\".",
+        "sentence_cn": "- 联系部分，电话号码为“615-271-2000”，地址为“1033 Demonbreun Street, Nashville TN 37203”。",
+        "words": [
+            "615-271-2000",
+            "1033 Demonbreun Street, Nashville TN 37203",
+            "contact",
+            "section",
+            "phone",
+            "number",
+            "615",
+            "-",
+            "271",
+            "-",
+            "2000",
+            "address",
+            "1033",
+            "Nashville",
+            "TN",
+            "37203"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A zip code field for finding a branch.",
+        "sentence_cn": "- 用于查找分支机构的邮政编码字段。",
+        "words": [
+            "zip",
+            "code",
+            "field",
+            "branch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bottom Section:",
+        "sentence_cn": "底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- News & Events section with links:",
+        "sentence_cn": "- 新闻和活动部分链接：",
+        "words": [
+            "Events",
+            "section",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Protecting against wire transfer fraud.",
+        "sentence_cn": "- 防止电汇欺诈。",
+        "words": [
+            "wire",
+            "transfer",
+            "fraud"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Recognition of Synovus as a reputable bank.",
+        "sentence_cn": "- 认可 Synovus 是一家信誉良好的银行。",
+        "words": [
+            "Recognition",
+            "bank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Branch relocation to The Gulch.",
+        "sentence_cn": "- 分行迁至 The Gulch。",
+        "words": [
+            "Branch",
+            "relocation",
+            "The",
+            "Gulch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Footer:",
+        "sentence_cn": "页脚：",
+        "words": [
+            "Footer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Synovus Bank's legal information, terms and conditions, privacy policies, safety & security, and site map.",
+        "sentence_cn": "- Synovus Bank 的法律信息、条款和条件、隐私政策、安全与保障以及站点地图。",
+        "words": [
+            "information",
+            "terms",
+            "conditions",
+            "privacy",
+            "policies",
+            "safety",
+            "security",
+            "site",
+            "map"
+        ],
+        "id": null
+    }
+]

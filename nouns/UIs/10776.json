@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app interface, specifically for Navionics Boating.",
+        "sentence_cn": "该图是 Navionics Boating 专用的移动应用程序界面的屏幕截图。",
+        "words": [
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows an aerial view of a large body of water with a boat creating a white trail as it moves across the blue water.",
+        "sentence_cn": "背景是一大片水域的鸟瞰图，一艘船在蓝色的水面上行驶时留下了一条白色的痕迹。",
+        "words": [
+            "background",
+            "view",
+            "body",
+            "water",
+            "boat",
+            "trail",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the text reads \"We start where the road ends.\"",
+        "sentence_cn": "顶部的文字写着“我们从路的尽头开始。”",
+        "words": [
+            "We start where the road ends.",
+            "top",
+            "text",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there's the Navionics logo with the word \"Boating.\"",
+        "sentence_cn": "下面是 Navionics 徽标和“划船”字样。",
+        "words": [
+            "Boating.",
+            "logo",
+            "word",
+            "Boating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a prompt reading \"Agree with Terms of use and Privacy Policy?\" with a link to those terms.",
+        "sentence_cn": "在底部，有一个提示“是否同意使用条款和隐私政策？”，并带有指向这些条款的链接。",
+        "words": [
+            "Agree with Terms of use and Privacy Policy?",
+            "bottom",
+            "prompt",
+            "use",
+            "link",
+            "terms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that is a prominent blue \"OK\" button for the user to click and agree.",
+        "sentence_cn": "下面是一个显眼的蓝色“确定”按钮，供用户点击并同意。",
+        "words": [
+            "OK",
+            "button",
+            "user"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The status bar at the top of the screen shows common icons, such as notifications, a padlock, location, battery status, and time, which is 5:10.",
+        "sentence_cn": "屏幕顶部的状态栏显示常见图标，如通知、挂锁、位置、电池状态和时间，即 5:10。",
+        "words": [
+            "status",
+            "bar",
+            "top",
+            "screen",
+            "icons",
+            "notifications",
+            "padlock",
+            "location",
+            "battery",
+            "status",
+            "time",
+            "5:10"
+        ],
+        "id": null
+    }
+]

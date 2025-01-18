@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"What's Eating Gilbert Grape.\"",
+        "sentence_cn": "图片是《不一样的天空》的电影海报。",
+        "words": [
+            "What's Eating Gilbert Grape.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names \"Johnny Depp\" and \"Juliette Lewis\" are displayed.",
+        "sentence_cn": "顶部显示了名字“Johnny Depp”和“Juliette Lewis”。",
+        "words": [
+            "Johnny Depp",
+            "Juliette Lewis",
+            "top",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, the tagline \"Life is a terrible thing to sleep through\" is written in large text.",
+        "sentence_cn": "下面，用大号字体写着标语“睡过头的生活真是一件可怕的事情”。",
+        "words": [
+            "Life is a terrible thing to sleep through",
+            "tagline",
+            "Life",
+            "thing",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main section of the poster features a black and white scene of a small town with a vast sky filled with clouds.",
+        "sentence_cn": "海报主体部分为黑白色调的小镇场景，天空广阔，云朵飘渺。",
+        "words": [
+            "section",
+            "poster",
+            "scene",
+            "town",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A vintage pickup truck is parked on a deserted street, and there is a railway crossing sign visible.",
+        "sentence_cn": "一辆老式皮卡车停在一条荒凉的街道上，可见铁路道口的标志。",
+        "words": [
+            "pickup",
+            "truck",
+            "street",
+            "railway",
+            "crossing",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a water tower can be seen.",
+        "sentence_cn": "在背景中可以看到一座水塔。",
+        "words": [
+            "background",
+            "water",
+            "tower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, on the right side, there is a portrait of a young man with long hair, wearing a jacket over a sweater.",
+        "sentence_cn": "前景右侧是一幅长发年轻男子的肖像，他身穿夹克，外面套着毛衣。",
+        "words": [
+            "foreground",
+            "portrait",
+            "man",
+            "hair",
+            "jacket",
+            "sweater"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the film's title, \"What's Eating Gilbert Grape,\" is prominently displayed, along with production credits and additional cast information.",
+        "sentence_cn": "在底部，电影的名字“不一样的天空”被突出显示，同时还有制作人员名单和其他演员信息。",
+        "words": [
+            "What's Eating Gilbert Grape,",
+            "bottom",
+            "film",
+            "title",
+            "production",
+            "credits",
+            "cast",
+            "information"
+        ],
+        "id": null
+    }
+]

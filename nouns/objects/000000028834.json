@@ -1,0 +1,234 @@
+[
+    {
+        "sentence": "The image shows a variety of fruits and vegetables neatly arranged on a wooden floor.",
+        "sentence_cn": "图中显示各种水果和蔬菜整齐地排列在木地板上。",
+        "words": [
+            "variety",
+            "fruits",
+            "vegetables",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top row (left to right):",
+        "sentence_cn": "1. 顶行（从左到右）：",
+        "words": [
+            "Top row",
+            "row",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Three bags of leafy greens and herbs, likely containing dill, parsley, and possibly cilantro.",
+        "sentence_cn": "- 三袋绿叶蔬菜和香草，可能含有莳萝、欧芹，也可能有香菜。",
+        "words": [
+            "Three",
+            "bags",
+            "greens",
+            "herbs",
+            "dill",
+            "parsley",
+            "cilantro"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A small bunch of bananas (about three).",
+        "sentence_cn": "- 一小串香蕉（大约三根）。",
+        "words": [
+            "bunch",
+            "bananas",
+            "three"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A whole watermelon.",
+        "sentence_cn": "- 一整个西瓜。",
+        "words": [
+            "watermelon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A bag of leafy greens, possibly spinach.",
+        "sentence_cn": "- 一袋绿叶蔬菜，可能是菠菜。",
+        "words": [
+            "bag",
+            "greens",
+            "spinach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second row:",
+        "sentence_cn": "2. 第二行：",
+        "words": [
+            "Second row",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A package of what seems to be tortillas or similar flatbreads.",
+        "sentence_cn": "- 一包看起来像玉米饼或类似的扁面包的东西。",
+        "words": [
+            "package",
+            "tortillas",
+            "flatbreads"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A bag of oranges.",
+        "sentence_cn": "- 一袋橘子。",
+        "words": [
+            "bag",
+            "oranges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Several bunches of bananas (two sets of three to four).",
+        "sentence_cn": "- 几串香蕉（两组，每组三至四根）。",
+        "words": [
+            "bunches",
+            "bananas",
+            "two",
+            "sets",
+            "three",
+            "four"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A bag containing what looks like kale or a similar green.",
+        "sentence_cn": "- 袋子里装有看起来像羽衣甘蓝或类似绿色蔬菜的东西。",
+        "words": [
+            "bag",
+            "kale",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A pile of red apples.",
+        "sentence_cn": "- 一堆红苹果。",
+        "words": [
+            "pile",
+            "apples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Third row:",
+        "sentence_cn": "3. 第三行：",
+        "words": [
+            "Third row",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Several lemons wrapped in plastic.",
+        "sentence_cn": "- 几个用塑料包裹的柠檬。",
+        "words": [
+            "lemons",
+            "plastic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Another large bunch of bananas.",
+        "sentence_cn": "- 又一大串香蕉。",
+        "words": [
+            "bunch",
+            "bananas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Two kiwis.",
+        "sentence_cn": "- 两颗猕猴桃。",
+        "words": [
+            "Two",
+            "kiwis"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A yellow and a red bell pepper in a bag.",
+        "sentence_cn": "- 袋子里有一个黄色和红色的甜椒。",
+        "words": [
+            "bell",
+            "pepper",
+            "bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom row:",
+        "sentence_cn": "4. 底行：",
+        "words": [
+            "Bottom row",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - More bananas in a large bunch.",
+        "sentence_cn": "- 一大串里有更多的香蕉。",
+        "words": [
+            "bananas",
+            "bunch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A bag with several yellow bell peppers.",
+        "sentence_cn": "- 一袋中有几个黄甜椒。",
+        "words": [
+            "bag",
+            "bell",
+            "peppers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A bag containing cucumbers or zucchini.",
+        "sentence_cn": "- 装有黄瓜或西葫芦的袋子。",
+        "words": [
+            "bag",
+            "cucumbers",
+            "zucchini"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, part of a bicycle wheel is visible, suggesting the scene might be in a home or casual setting.",
+        "sentence_cn": "在背景中，可以看到自行车车轮的一部分，这表明场景可能是在家里或休闲场所。",
+        "words": [
+            "background",
+            "part",
+            "bicycle",
+            "wheel",
+            "scene",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall organization indicates a possibly recent grocery shopping trip with an emphasis on fresh produce.",
+        "sentence_cn": "整体组织表明最近可能进行一次食品购物之旅，重点是新鲜农产品。",
+        "words": [
+            "organization",
+            "grocery",
+            "shopping",
+            "trip",
+            "produce"
+        ],
+        "id": null
+    }
+]

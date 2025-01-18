@@ -1,0 +1,55 @@
+[
+    {
+        "sentence": "The image showcases a white table with a green bowl filled with several green apples.",
+        "sentence_cn": "图片展示了一张白色的桌子，桌子上有一个绿色的碗，碗里装满了几个青苹果。",
+        "words": [
+            "table",
+            "bowl",
+            "apples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bowl has a pattern of white leaf-like shapes.",
+        "sentence_cn": "碗上有白色叶子状的图案。",
+        "words": [
+            "bowl",
+            "pattern",
+            "leaf",
+            "shapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the bowl, there is a decorative red and yellow apple-shaped object, possibly a candle.",
+        "sentence_cn": "碗的右侧有一个红黄色苹果形装饰物，可能是一支蜡烛。",
+        "words": [
+            "right",
+            "bowl",
+            "apple",
+            "object",
+            "candle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a light-colored chair and a curtain with a leafy design.",
+        "sentence_cn": "背景中有一把浅色的椅子和一块带有树叶图案的窗帘。",
+        "words": [
+            "background",
+            "chair",
+            "curtain",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall lighting is soft, giving the image a cozy feel.",
+        "sentence_cn": "整体灯光柔和，给图像一种舒适的感觉。",
+        "words": [
+            "lighting",
+            "feel"
+        ],
+        "id": null
+    }
+]

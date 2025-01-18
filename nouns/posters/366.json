@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Dangerous Minds.\"",
+        "sentence_cn": "图片是《危险思想》的电影海报。",
+        "words": [
+            "Dangerous Minds.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the name \"Michelle Pfeiffer\" is prominently displayed in bold white letters.",
+        "sentence_cn": "在顶部，“Michelle Pfeiffer”的名字以粗体白色字母突出显示。",
+        "words": [
+            "Michelle Pfeiffer",
+            "top",
+            "name",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, the poster features a group of diverse people standing together.",
+        "sentence_cn": "下面，海报上是一群不同的人站在一起。",
+        "words": [
+            "poster",
+            "group",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central figure is a woman with a serious expression, wearing a leather jacket and jeans.",
+        "sentence_cn": "中心人物是一位表情严肃的女性，身穿皮夹克和牛仔裤。",
+        "words": [
+            "figure",
+            "woman",
+            "expression",
+            "leather",
+            "jacket",
+            "jeans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Dangerous Minds\" is written in large red letters across the lower part of the poster.",
+        "sentence_cn": "海报下部用大红字写着“危险思想”这个标题。",
+        "words": [
+            "Dangerous Minds",
+            "title",
+            "letters",
+            "part",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various production credits and names are listed at the bottom of the image.",
+        "sentence_cn": "图像底部列出了各种制作人员的名单和名称。",
+        "words": [
+            "production",
+            "credits",
+            "names",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone is serious and urban, suggesting themes of drama and intensity.",
+        "sentence_cn": "整体基调严肃而都市化，暗示着戏剧性和强度的主题。",
+        "words": [
+            "tone",
+            "themes",
+            "drama",
+            "intensity"
+        ],
+        "id": null
+    }
+]

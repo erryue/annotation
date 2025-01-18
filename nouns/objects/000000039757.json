@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image shows a home office or workstation setup.",
+        "sentence_cn": "该图显示的是家庭办公室或工作站的设置。",
+        "words": [
+            "home",
+            "office",
+            "workstation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes a laptop on the left, elevated on some small stands.",
+        "sentence_cn": "它包括左侧的一台笔记本电脑，放置在一些小支架上。",
+        "words": [
+            "laptop",
+            "stands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The laptop is open, and the screen is displaying a web page or application with text.",
+        "sentence_cn": "笔记本电脑已打开，屏幕上显示带有文本的网页或应用程序。",
+        "words": [
+            "laptop",
+            "screen",
+            "web",
+            "page",
+            "application",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a larger external monitor displaying a social media webpage and a music library.",
+        "sentence_cn": "右侧有一个更大的外接显示器，显示社交媒体网页和音乐库。",
+        "words": [
+            "right",
+            "monitor",
+            "media",
+            "webpage",
+            "music",
+            "library"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desktop monitor is connected to the workspace, likely extending the laptop's screen to provide more display area.",
+        "sentence_cn": "台式机显示器连接到工作区，可能会扩展笔记本电脑的屏幕以提供更多的显示区域。",
+        "words": [
+            "desktop",
+            "monitor",
+            "workspace",
+            "laptop",
+            "screen",
+            "display",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the monitors, there's a wireless keyboard situated on the wooden desk.",
+        "sentence_cn": "显示器前面的木桌上有一个无线键盘。",
+        "words": [
+            "front",
+            "monitors",
+            "keyboard",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wireless mouse is placed to the left of the keyboard.",
+        "sentence_cn": "无线鼠标位于键盘左侧。",
+        "words": [
+            "mouse",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small plush toy, resembling a monkey, is sitting on the desk behind the laptop.",
+        "sentence_cn": "笔记本电脑后面的桌子上放着一只形似猴子的小毛绒玩具。",
+        "words": [
+            "toy",
+            "monkey",
+            "desk",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk has a simple and clean setup, typical of a personal or home office.",
+        "sentence_cn": "办公桌布置简洁，是个人办公室或家庭办公室的典型风格。",
+        "words": [
+            "desk",
+            "home",
+            "office"
+        ],
+        "id": null
+    }
+]

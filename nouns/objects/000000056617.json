@@ -1,0 +1,182 @@
+[
+    {
+        "sentence": "The image shows a cluttered workspace featuring electronic devices and accessories.",
+        "sentence_cn": "图中显示的是一个杂乱的工作空间，里面摆满了电子设备和配件。",
+        "words": [
+            "workspace",
+            "devices",
+            "accessories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Laptop: A silver laptop with a black and white keyboard is positioned on the left side of the desk.",
+        "sentence_cn": "1. 笔记本电脑：一台配有黑白色键盘的银色笔记本电脑放在桌子左侧。",
+        "words": [
+            "Laptop",
+            "Laptop",
+            "laptop",
+            "keyboard",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It appears to be a MacBook, given its aluminum body and design.",
+        "sentence_cn": "从其铝制机身和设计来看，它似乎是一台 MacBook。",
+        "words": [
+            "aluminum",
+            "body",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. External Keyboard: In front of the laptop, there is a white external keyboard, partially placed over the laptop's keyboard.",
+        "sentence_cn": "2. 外接键盘：在笔记本电脑的前面，有一个白色的外接键盘，部分覆盖在笔记本电脑的键盘上。",
+        "words": [
+            "External Keyboard",
+            "Keyboard",
+            "front",
+            "laptop",
+            "keyboard",
+            "laptop",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Mouse: A clear, possibly wireless mouse, rests on a gray mouse pad placed to the right of the external keyboard.",
+        "sentence_cn": "3. 鼠标：一个透明的、可能是无线的鼠标，放在外接键盘右侧的灰色鼠标垫上。",
+        "words": [
+            "Mouse",
+            "Mouse",
+            "mouse",
+            "mouse",
+            "pad",
+            "right",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Drinkware: Next to the mouse, there is an empty glass, suggesting previous use for drinking.",
+        "sentence_cn": "4. 饮具：老鼠旁边有一个空杯子，表明以前用来喝水。",
+        "words": [
+            "Drinkware",
+            "Drinkware",
+            "",
+            "mouse",
+            "glass",
+            "use",
+            "drinking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Second Monitor/Screen: On the upper right part of the image, part of a second monitor or screen is visible.",
+        "sentence_cn": "5. 第二台显示器/屏幕：在图像的右上角，可以看到第二台显示器或屏幕的一部分。",
+        "words": [
+            "Second Monitor/Screen",
+            "Monitor",
+            "Screen",
+            "part",
+            "part",
+            "monitor",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It displays a cluttered desktop interface with several icons.",
+        "sentence_cn": "它显示一个带有多个图标的混乱的桌面界面。",
+        "words": [
+            "desktop",
+            "interface",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Miscellaneous Items:",
+        "sentence_cn": "6. 杂项：",
+        "words": [
+            "Miscellaneous Items",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A blue USB hub or device sits between the keyboards with attached cables.",
+        "sentence_cn": "- 蓝色 USB 集线器或设备位于键盘之间，并连接有电缆。",
+        "words": [
+            "USB",
+            "hub",
+            "device",
+            "keyboards",
+            "cables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A memory card is placed near the external keyboard.",
+        "sentence_cn": "- 存储卡放置在外部键盘附近。",
+        "words": [
+            "memory",
+            "card",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the top right, another keyboard (possibly white) is slightly visible.",
+        "sentence_cn": "- 在右上角，另一个键盘（可能是白色的）略微可见。",
+        "words": [
+            "right",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Various cables are spread across the desk, connected to the devices.",
+        "sentence_cn": "- 各种电缆遍布桌面，连接到各个设备。",
+        "words": [
+            "cables",
+            "desk",
+            "devices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The wooden desk surface provides a warm background to the electronic equipment, and the overall setup suggests a work or study environment.",
+        "sentence_cn": "木质桌面为电子设备提供了温暖的背景，整体设置暗示着工作或学习环境。",
+        "words": [
+            "desk",
+            "surface",
+            "background",
+            "equipment",
+            "work",
+            "study",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The presence of a drink glass indicates a casual aspect to the workspace.",
+        "sentence_cn": "饮料杯的存在表明工作空间具有一种休闲的氛围。",
+        "words": [
+            "presence",
+            "drink",
+            "glass",
+            "aspect",
+            "workspace"
+        ],
+        "id": null
+    }
+]

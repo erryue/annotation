@@ -1,0 +1,253 @@
+[
+    {
+        "sentence": "The image is a screenshot of The Seattle Times website.",
+        "sentence_cn": "图片是《西雅图时报》网站的截图。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features several sections:",
+        "sentence_cn": "它包含几个部分：",
+        "words": [
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: Includes navigation links such as Local, Biz/Tech, Sports, Entertainment, Life, Travel, Homes, Opinion, Jobs, and Marketplace.",
+        "sentence_cn": "- 标题：包括本地、商业/科技、体育、娱乐、生活、旅游、家居、观点、工作和市场等导航链接。",
+        "words": [
+            "Header",
+            "Header",
+            "navigation",
+            "links",
+            "Tech"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are options to log in or subscribe.",
+        "sentence_cn": "有登录或订阅的选项。",
+        "words": [
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main News Section:",
+        "sentence_cn": "- 主要新闻部分：",
+        "words": [
+            "Main News Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, there's a photo of a performer on stage with bright lighting and audience hands raised.",
+        "sentence_cn": "- 左边是舞台上表演者的照片，灯光明亮，观众举起双手。",
+        "words": [
+            "left",
+            "photo",
+            "performer",
+            "stage",
+            "lighting",
+            "audience",
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The caption mentions the performer will be at Bumbershoot on September 5th.",
+        "sentence_cn": "标题提到表演者将于 9 月 5 日出现在 Bumbershoot。",
+        "words": [
+            "caption",
+            "performer",
+            "5th"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Below the photo, there's a headline \"What you need to hear at Bumbershoot this year\" with a description of the festival highlights, including music genres and venues.",
+        "sentence_cn": "- 照片下方有一个标题“今年你需要在 Bumbershoot 听到什么”，其中描述了音乐节的亮点，包括音乐流派和场地。",
+        "words": [
+            "What you need to hear at Bumbershoot this year",
+            "photo",
+            "headline",
+            "year",
+            "festival",
+            "highlights",
+            "music",
+            "genres",
+            "venues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- News Briefs:",
+        "sentence_cn": "- 新闻简报：",
+        "words": [
+            "News Briefs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Several updated news headlines are listed on the right:",
+        "sentence_cn": "- 右侧列出了几条更新的新闻标题：",
+        "words": [
+            "news",
+            "headlines",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Cop won¡¯t face charges in shooting of 2 alleged shoplifters in Olympia\"",
+        "sentence_cn": "- “奥林匹亚警方不会因枪击两名涉嫌偷窃者而受到指控”",
+        "words": [
+            "Cop won¡¯t face charges in shooting of 2 alleged shoplifters in Olympia",
+            "Cop",
+            "charges",
+            "shooting",
+            "2",
+            "shoplifters",
+            "Olympia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Marysville shooter texted before killings that he didn¡¯t want to ¡®go alone¡¯\"",
+        "sentence_cn": "- “玛丽斯维尔枪手在杀人前发短信说他不想‘一个人去’”",
+        "words": [
+            "Marysville shooter texted before killings that he didn¡¯t want to ¡®go alone¡¯",
+            "Marysville",
+            "shooter",
+            "killings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Chinese president may visit Seattle en route to D.C.\"",
+        "sentence_cn": "- “中国国家主席可能在前往华盛顿途中访问西雅图。”",
+        "words": [
+            "Chinese president may visit Seattle en route to D.C.",
+            "president",
+            "Seattle",
+            "route",
+            "D.C."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Families can cash out of GET, state¡¯s college-tuition plan\"",
+        "sentence_cn": "- “家庭可以从州政府的大学学费计划 GET 中套现”",
+        "words": [
+            "Families can cash out of GET, state¡¯s college-tuition plan",
+            "Families",
+            "state¡¯s",
+            "college",
+            "tuition",
+            "plan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"SPD releases video of suspects in attack on tourists\"",
+        "sentence_cn": "- “社民党公布袭击游客嫌疑人的视频”",
+        "words": [
+            "SPD releases video of suspects in attack on tourists",
+            "video",
+            "suspects",
+            "attack",
+            "tourists"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Six sickened by E. coli linked to local food truck\"",
+        "sentence_cn": "- “当地食品卡车导致六人感染大肠杆菌”",
+        "words": [
+            "Six sickened by E. coli linked to local food truck",
+            "Six",
+            "E.",
+            "coli",
+            "food",
+            "truck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Uber driver feels squeeze as ride-share giant takes share of...\"",
+        "sentence_cn": "- “随着共享乘车巨头抢占市场份额，Uber 司机感到压力……”",
+        "words": [
+            "Uber driver feels squeeze as ride-share giant takes share of...",
+            "driver",
+            "squeeze",
+            "ride",
+            "share",
+            "giant",
+            "share"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Advertisements:",
+        "sentence_cn": "- 广告：",
+        "words": [
+            "Advertisements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There are two ads from Xfinity promoting TV and DVR services.",
+        "sentence_cn": "- Xfinity 有两则广告宣传电视和 DVR 服务。",
+        "words": [
+            "two",
+            "ads",
+            "TV",
+            "DVR",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Another ad at the bottom right encourages subscribing to The Seattle Times starting at $1, with an aerial view of a crowd.",
+        "sentence_cn": "- 右下角的另一个广告鼓励以 1 美元起的价格订阅《西雅图时报》，并附有人群的鸟瞰图。",
+        "words": [
+            "ad",
+            "bottom",
+            "right",
+            "1",
+            "view",
+            "crowd"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall layout is typical of a news website, with a mix of headlines, images, and ads.",
+        "sentence_cn": "整体布局是典型的新闻网站，混合了标题、图片和广告。",
+        "words": [
+            "layout",
+            "news",
+            "website",
+            "mix",
+            "headlines",
+            "images",
+            "ads"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"6 Types of Frustrated Jobseekers.\"",
+        "sentence_cn": "该图是一张信息图，标题为“6 种沮丧的求职者”。",
+        "words": [
+            "6 Types of Frustrated Jobseekers.",
+            "6",
+            "Types"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a silhouette of a person's head with a brain illustrated inside.",
+        "sentence_cn": "该图案描绘的是人的头部轮廓，里面画着大脑。",
+        "words": [
+            "silhouette",
+            "person",
+            "head",
+            "brain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark, with various circular elements.",
+        "sentence_cn": "背景是深色的，有各种圆形元素。",
+        "words": [
+            "background",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each of the six types is listed around the silhouette with a corresponding icon and number:",
+        "sentence_cn": "轮廓周围列出了六种类型，并附有相应的图标和数字：",
+        "words": [
+            "six",
+            "types",
+            "silhouette",
+            "icon",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Misguided Confidence",
+        "sentence_cn": "1. 错误的信心",
+        "words": [
+            "Misguided Confidence",
+            "Confidence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon: Compass",
+        "sentence_cn": "- 图标：指南针",
+        "words": [
+            "Icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description emphasizes the importance of listening to others and understanding the reality of job seeking.",
+        "sentence_cn": "- 描述强调倾听他人和了解求职现实的重要性。",
+        "words": [
+            "Description",
+            "importance",
+            "others",
+            "reality",
+            "job",
+            "seeking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Your Way or the Highway",
+        "sentence_cn": "2. 要么按你的方式，要么走人",
+        "words": [
+            "Your Way or the Highway",
+            "Way",
+            "Highway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon: Wrench",
+        "sentence_cn": "- 图标：扳手",
+        "words": [
+            "Icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description advises re-evaluating techniques and qualifications to align with industry expectations.",
+        "sentence_cn": "- 描述建议重新评估技术和资格以符合行业期望。",
+        "words": [
+            "Description",
+            "techniques",
+            "qualifications",
+            "industry",
+            "expectations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Blinded with Anger",
+        "sentence_cn": "3. 愤怒蒙蔽了双眼",
+        "words": [
+            "Blinded with Anger",
+            "Anger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon: Cloud with lightning",
+        "sentence_cn": "- 图标：带有闪电的云",
+        "words": [
+            "Icon",
+            "Cloud",
+            "lightning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description stresses the need to maintain positivity and avoid taking anger into the job search.",
+        "sentence_cn": "- 描述强调需要保持积极性并避免将愤怒带入求职过程中。",
+        "words": [
+            "Description",
+            "need",
+            "positivity",
+            "anger",
+            "job",
+            "search"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Hiding While Seeking",
+        "sentence_cn": "4. 寻找时隐藏",
+        "words": [
+            "Hiding While Seeking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon: Speech bubble",
+        "sentence_cn": "- 图标：对话泡泡",
+        "words": [
+            "Icon",
+            "Speech",
+            "bubble"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description warns against hiding behind digital profiles and emphasizes the importance of real networking.",
+        "sentence_cn": "- 描述警告不要隐藏在数字资料背后，并强调真实网络的重要性。",
+        "words": [
+            "Description",
+            "profiles",
+            "importance",
+            "networking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Creatures of Comfort",
+        "sentence_cn": "5. 追求舒适的生物",
+        "words": [
+            "Creatures of Comfort"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon: X symbol",
+        "sentence_cn": "- 图标：X 符号",
+        "words": [
+            "Icon",
+            "X",
+            "symbol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description highlights the need to accept rejection as part of the job search.",
+        "sentence_cn": "- 描述强调了接受拒绝作为求职的一部分的必要性。",
+        "words": [
+            "Description",
+            "need",
+            "rejection",
+            "part",
+            "job",
+            "search"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Nick of Time",
+        "sentence_cn": "6. 千钧一发",
+        "words": [
+            "Nick of Time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon: Thumbs up",
+        "sentence_cn": "- 图标：竖起大拇指",
+        "words": [
+            "Icon",
+            "Thumbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description suggests learning from mistakes and putting in hard work to secure the desired job.",
+        "sentence_cn": "- 描述建议从错误中吸取教训并努力工作以获得理想的工作。",
+        "words": [
+            "Description",
+            "mistakes",
+            "work",
+            "job"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center, a quote emphasizes self-awareness in job seeking: \"If you're looking for a job, get out of your own way.\"",
+        "sentence_cn": "封面中央的一句话强调了求职时的自我意识：“如果你在找工作，那就走出自己的路。”",
+        "words": [
+            "If you're looking for a job, get out of your own way.",
+            "center",
+            "quote",
+            "self",
+            "awareness",
+            "job",
+            "seeking",
+            "job",
+            "way"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- John Lees, Harvard Business Review.",
+        "sentence_cn": "- 约翰·利斯，《哈佛商业评论》。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The bottom includes a credit to the Harvard Business Review and the website \"www.miningoilgasjobs.com.\"",
+        "sentence_cn": "底部注明了《哈佛商业评论》和网站“www.miningoilgasjobs.com”。",
+        "words": [
+            "www.miningoilgasjobs.com.",
+            "bottom",
+            "credit",
+            "website"
+        ],
+        "id": null
+    }
+]

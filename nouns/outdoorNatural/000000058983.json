@@ -1,0 +1,68 @@
+[
+    {
+        "sentence": "The image depicts a group of elephants standing and wading in a shallow river with gently flowing water.",
+        "sentence_cn": "画中描绘了一群大象站在一条浅浅的河里，水流缓缓流淌。",
+        "words": [
+            "group",
+            "elephants",
+            "river",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting suggests a natural environment, possibly a nature reserve or sanctuary.",
+        "sentence_cn": "该环境表明这是一个自然环境，可能是自然保护区或自然保护区。",
+        "words": [
+            "environment",
+            "nature",
+            "reserve",
+            "sanctuary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The elephants appear to be relaxed and are variously grouped, with some standing close to each other and others more isolated.",
+        "sentence_cn": "大象看上去很放松​​，分成不同的群体，有的站得很近，有的则比较孤立。",
+        "words": [
+            "elephants",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The riverbank is visible in the background, lined with lush greenery and tall palm trees, indicative of a tropical landscape.",
+        "sentence_cn": "背景中可以看到河岸，两旁是茂密的绿色植物和高大的棕榈树，呈现出热带风光。",
+        "words": [
+            "riverbank",
+            "background",
+            "greenery",
+            "palm",
+            "trees",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The earthy tones of the elephants contrast with the clear, flowing water and the vibrant green vegetation surrounding them.",
+        "sentence_cn": "大象的泥土色调与周围清澈的流水和充满活力的绿色植被形成鲜明对比。",
+        "words": [
+            "tones",
+            "elephants",
+            "water",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a peaceful and harmonious interaction between the elephants and their natural habitat.",
+        "sentence_cn": "整体场景传达了大象与其自然栖息地之间和平和谐的互动。",
+        "words": [
+            "scene",
+            "interaction",
+            "elephants",
+            "habitat"
+        ],
+        "id": null
+    }
+]

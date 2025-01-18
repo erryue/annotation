@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image shows four people sitting around a wooden table in a bar or pub setting.",
+        "sentence_cn": "图像显示四个人坐在酒吧或酒馆里的一张木桌旁。",
+        "words": [
+            "four",
+            "people",
+            "table",
+            "bar",
+            "pub"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be having a good time, engaging in conversation and smiling joyfully.",
+        "sentence_cn": "他们看起来玩得很开心，交谈着，笑容满面。",
+        "words": [
+            "time",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each person is holding a pint glass filled with a golden-colored beverage, likely beer.",
+        "sentence_cn": "每个人都拿着一杯盛有金色饮料（可能是啤酒）的品脱杯。",
+        "words": [
+            "person",
+            "pint",
+            "glass",
+            "beverage",
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person on the left is wearing a red shirt and has short hair.",
+        "sentence_cn": "- 左边的人穿着红色衬衫，留着短发。",
+        "words": [
+            "person",
+            "left",
+            "shirt",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are holding their drink and smiling towards the group.",
+        "sentence_cn": "他们手里拿着饮料，面带微笑地看着这群人。",
+        "words": [
+            "drink",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to them, a person with long blonde hair is wearing a sleeveless, striped top.",
+        "sentence_cn": "- 他们旁边的一位留着金色长发的人身穿无袖条纹上衣。",
+        "words": [
+            "person",
+            "hair",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They're laughing heartily while holding their drink.",
+        "sentence_cn": "他们手里拿着饮料，开怀大笑。",
+        "words": [
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The third person, with medium-length dreadlocks, is wearing a sleeveless top with a white undershirt.",
+        "sentence_cn": "- 第三个人，留着中等长度的脏辫，穿着无袖上衣和白色内衣。",
+        "words": [
+            "person",
+            "length",
+            "dreadlocks",
+            "top",
+            "undershirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are also smiling and engaged in the conversation.",
+        "sentence_cn": "他们也面带微笑并参与交谈。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person on the right is wearing a light blue shirt.",
+        "sentence_cn": "- 右边的人穿着一件浅蓝色的衬衫。",
+        "words": [
+            "person",
+            "right",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have short hair and are smiling while holding their drink.",
+        "sentence_cn": "他们留着短发，手里拿着饮料，面带微笑。",
+        "words": [
+            "hair",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are shelves with bottles, likely alcohol, and some framed pictures or signs, enhancing the bar atmosphere.",
+        "sentence_cn": "背景中，架子上摆放着瓶子，可能是酒，还有一些带框的图片或标志，增强了酒吧的氛围。",
+        "words": [
+            "background",
+            "shelves",
+            "bottles",
+            "alcohol",
+            "pictures",
+            "signs",
+            "bar",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is warm, contributing to a friendly and inviting ambiance.",
+        "sentence_cn": "灯光温暖，营造出友好而温馨的氛围。",
+        "words": [
+            "lighting",
+            "ambiance"
+        ],
+        "id": null
+    }
+]

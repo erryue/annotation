@@ -1,0 +1,202 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Educating Girls is Smart, For All of Us.\"",
+        "sentence_cn": "该图是一张信息图，标题为“教育女孩对我们所有人来说都是明智之举”。",
+        "words": [
+            "Educating Girls is Smart, For All of Us.",
+            "Girls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights the benefits of educating girls.",
+        "sentence_cn": "它强调了教育女孩的好处。",
+        "words": [
+            "benefits",
+            "girls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Introductory Statement: It emphasizes that when a girl is educated, she can break the cycle of poverty in a single generation.",
+        "sentence_cn": "1. 引言：它强调，当女孩接受教育时，她可以在一代人的时间内打破贫困的循环。",
+        "words": [
+            "Introductory Statement",
+            "Statement",
+            "girl",
+            "cycle",
+            "poverty",
+            "generation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It asserts Intel's belief that education is a fundamental right.",
+        "sentence_cn": "它体现了英特尔的信念：教育是一项基本权利。",
+        "words": [
+            "belief",
+            "education",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Statistics on Out-of-School Youth:",
+        "sentence_cn": "2. 失学青少年统计：",
+        "words": [
+            "Statistics on Out-of-School Youth",
+            "Statistics",
+            "School",
+            "Youth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It mentions that out of the world's 130 million out-of-school youth, 70% are girls.",
+        "sentence_cn": "- 其中提到，全球1.3亿失学青少年中，70%是女童。",
+        "words": [
+            "world",
+            "130",
+            "million",
+            "school",
+            "youth",
+            "70",
+            "girls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Economic Impact of Educated Girls:",
+        "sentence_cn": "3. 受过教育的女孩对经济的影响：",
+        "words": [
+            "Economic Impact of Educated Girls",
+            "Impact",
+            "Girls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - When a girl goes to school, she will reinvest 90% of her income into her family, compared to 30-40% for a man.",
+        "sentence_cn": "- 当女孩上学时，她会将90%的收入重新投资于家庭，而男性这一比例仅为30-40%。",
+        "words": [
+            "girl",
+            "school",
+            "90",
+            "income",
+            "family",
+            "30",
+            "40",
+            "%",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- When 10% more girls attend school, a country¡¯s GDP increases by an average of 3%.",
+        "sentence_cn": "- 当入学女孩人数增加10%时，一个国家的GDP平均会增加3%。",
+        "words": [
+            "10",
+            "girls",
+            "school",
+            "GDP",
+            "average",
+            "3",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Visual Elements:",
+        "sentence_cn": "4. 视觉元素：",
+        "words": [
+            "Visual Elements",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Various icons and graphs such as pie charts and family symbols depict economic reinvestment differences.",
+        "sentence_cn": "- 饼图和家庭符号等各种图标和图表描绘了经济再投资差异。",
+        "words": [
+            "icons",
+            "graphs",
+            "pie",
+            "charts",
+            "family",
+            "symbols",
+            "reinvestment",
+            "differences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are icons illustrating youth and percentages related to girls out of school.",
+        "sentence_cn": "- 有图标表示失学女孩的青春和百分比。",
+        "words": [
+            "icons",
+            "youth",
+            "percentages",
+            "girls",
+            "school"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Call to Action and Branding:",
+        "sentence_cn": "5. 号召行动和品牌推广：",
+        "words": [
+            "Call to Action and Branding",
+            "Call",
+            "Action",
+            "Branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Encourages viewers to find out more at takepart.com/dayofthegirl.",
+        "sentence_cn": "- 鼓励观众访问 takepart.com/dayofthegirl 了解更多信息。",
+        "words": [
+            "viewers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Features logos from Intel and Take Part.",
+        "sentence_cn": "- 展示英特尔和 Take Part 的标志。",
+        "words": [
+            "logos",
+            "Part"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Sources:",
+        "sentence_cn": "6.来源：",
+        "words": [
+            "Sources",
+            "Sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cites Human Rights Watch and Council on Foreign Relations for data references.",
+        "sentence_cn": "- 引用人权观察和外交关系委员会的数据参考。",
+        "words": [
+            "data",
+            "references"
+        ],
+        "id": null
+    }
+]

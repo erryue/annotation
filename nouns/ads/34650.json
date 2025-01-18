@@ -1,0 +1,176 @@
+[
+    {
+        "sentence": "The image is an advertisement for a \"4 Day Carnival Cruise\" to the Bahamas.",
+        "sentence_cn": "该图是前往巴哈马的“4 天嘉年华邮轮”的广告。",
+        "words": [
+            "4 Day Carnival Cruise",
+            "4",
+            "Bahamas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features three images of large, luxurious cruise ships on the ocean, arranged in a stylish geometric layout.",
+        "sentence_cn": "该作品以三艘海上大型豪华游轮的图像为特色，以时尚的几何布局排列。",
+        "words": [
+            "three",
+            "images",
+            "cruise",
+            "ships",
+            "ocean",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the text reads \"Exclusively Caribbean Vacations\" in elegant gold script.",
+        "sentence_cn": "顶部用优雅的金色字体写着“专属加勒比假期”。",
+        "words": [
+            "Exclusively Caribbean Vacations",
+            "top",
+            "text",
+            "script"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, in bold blue letters, it announces the \"4 Day Carnival Cruise\" to the Bahamas.",
+        "sentence_cn": "下面用蓝色粗体字标明了前往巴哈马的“4天嘉年华游轮”行程。",
+        "words": [
+            "4 Day Carnival Cruise",
+            "letters",
+            "4",
+            "Bahamas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cruise begins on \"Sunday Feb. 9th @ 4PM.\"",
+        "sentence_cn": "游轮将于“2 月 9 日星期日下午 4 点”出发。",
+        "words": [
+            "Sunday Feb. 9th @ 4PM.",
+            "cruise",
+            "9th",
+            "4PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cost \"starting at $249\" is highlighted in a blue circle, and there is a note stating a \"$25 deposit to reserve a cabin due by September 30th.\"",
+        "sentence_cn": "费用“起价 249 美元”以蓝色圆圈突出显示，并有一条注释写着“预订客舱需支付 25 美元押金，截止日期为 9 月 30 日”。",
+        "words": [
+            "starting at $249",
+            "$25 deposit to reserve a cabin due by September 30th.",
+            "cost",
+            "249",
+            "circle",
+            "note",
+            "25",
+            "deposit",
+            "cabin",
+            "30th"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional benefits are listed as:",
+        "sentence_cn": "额外福利如下：",
+        "words": [
+            "benefits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- All meals and snacks",
+        "sentence_cn": "- 所有餐点和小吃",
+        "words": [
+            "meals",
+            "snacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Spectacular stage shows and lots of live entertainment",
+        "sentence_cn": "- 精彩的舞台表演和众多现场娱乐表演",
+        "words": [
+            "stage",
+            "shows",
+            "lots",
+            "entertainment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Spacious staterooms",
+        "sentence_cn": "- 宽敞的客舱",
+        "words": [
+            "staterooms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Full schedule of shipboard activities",
+        "sentence_cn": "- 船上活动的完整日程表",
+        "words": [
+            "schedule",
+            "shipboard",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Clubs and lounges",
+        "sentence_cn": "- 俱乐部和休息室",
+        "words": [
+            "Clubs",
+            "lounges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pools, whirlpools, and waterslides",
+        "sentence_cn": "- 泳池、漩涡浴池和水滑梯",
+        "words": [
+            "Pools",
+            "whirlpools",
+            "waterslides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "For more information, a contact number and email, \"1-866-643-5886\" and \"KAREN@EXCLUSIVECARIBBEANVACATIONS.COM,\" are provided, along with credits to the designers at \"www.VIP-CO.com.\"",
+        "sentence_cn": "欲了解更多信息，请访问“www.VIP-CO.com”获取联系电话和电子邮箱“1-866-643-5886”和“KAREN@EXCLUSIVECARIBBEANVACATIONS.COM”，并注明设计师姓名。",
+        "words": [
+            "1-866-643-5886",
+            "KAREN@EXCLUSIVECARIBBEANVACATIONS.COM,",
+            "www.VIP-CO.com.",
+            "information",
+            "contact",
+            "number",
+            "email",
+            "1",
+            "-",
+            "866",
+            "-",
+            "643",
+            "-",
+            "5886",
+            "credits",
+            "designers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design includes a dot pattern on part of the background, adding to the visual appeal.",
+        "sentence_cn": "该设计在背景部分包含一个点状图案，增加了视觉吸引力。",
+        "words": [
+            "design",
+            "dot",
+            "pattern",
+            "part",
+            "background",
+            "appeal"
+        ],
+        "id": null
+    }
+]

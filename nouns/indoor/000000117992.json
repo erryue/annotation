@@ -1,0 +1,165 @@
+[
+    {
+        "sentence": "The image shows a modern kitchen interior with a stylish, minimalist design.",
+        "sentence_cn": "图片展示了时尚简约的现代厨房内部。",
+        "words": [
+            "kitchen",
+            "interior",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen features a deep blue wall with white cabinets.",
+        "sentence_cn": "厨房的特色是深蓝色的墙壁和白色的橱柜。",
+        "words": [
+            "kitchen",
+            "wall",
+            "cabinets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cabinets have flat-panel doors and dark handles, creating a sleek contrast.",
+        "sentence_cn": "橱柜配有平板门和深色把手，形成了时尚的对比。",
+        "words": [
+            "cabinets",
+            "panel",
+            "doors",
+            "handles",
+            "contrast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the countertop, there are glass-front cabinets displaying dishes and cups.",
+        "sentence_cn": "台面上方有玻璃柜，用于展示盘子和杯子。",
+        "words": [
+            "countertop",
+            "glass",
+            "front",
+            "cabinets",
+            "dishes",
+            "cups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop is wooden, adding warmth to the space.",
+        "sentence_cn": "台面是木质的，给空间增添了温暖。",
+        "words": [
+            "countertop",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the counter, various kitchen appliances are visible, including a toaster, a kettle, and a coffee grinder on the left side.",
+        "sentence_cn": "柜台上可以看到各种厨房用具，包括左侧的烤面包机、水壶和咖啡研磨机。",
+        "words": [
+            "counter",
+            "kitchen",
+            "appliances",
+            "toaster",
+            "kettle",
+            "coffee",
+            "grinder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a white farmhouse sink centrally located, with a silver faucet and a window above it, allowing natural light into the room.",
+        "sentence_cn": "房间中央有一个白色的农舍水槽，配有银色的水龙头和上方的一扇窗户，让自然光照进房间。",
+        "words": [
+            "farmhouse",
+            "sink",
+            "faucet",
+            "window",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various bottles and kitchen items are placed on the window ledge.",
+        "sentence_cn": "窗台上摆放着各种瓶子和厨房用品。",
+        "words": [
+            "bottles",
+            "kitchen",
+            "items",
+            "window",
+            "ledge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the sink, there is a built-in black oven with a ceramic cooktop above it.",
+        "sentence_cn": "水槽右侧有一个内置黑色烤箱，上面有陶瓷炉灶。",
+        "words": [
+            "right",
+            "sink",
+            "oven",
+            "cooktop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pots, pans, and a grill are placed on the cooktop.",
+        "sentence_cn": "锅、锅和烤架都放在炉灶上。",
+        "words": [
+            "Pots",
+            "pans",
+            "grill",
+            "cooktop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cabinets are well-organized and make effective use of the space, extending to a tall unit on the far right.",
+        "sentence_cn": "橱柜井然有序，有效利用了空间，延伸至最右边的一个高大的单元。",
+        "words": [
+            "cabinets",
+            "use",
+            "space",
+            "unit",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is tiled with large, dark gray tiles, which complement the dark wall color and add to the kitchen's modern aesthetic.",
+        "sentence_cn": "地板上铺着大块深灰色瓷砖，与深色墙壁颜色相得益彰，增添了厨房的现代美感。",
+        "words": [
+            "floor",
+            "tiles",
+            "wall",
+            "color",
+            "kitchen",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Recessed ceiling lights provide ambient illumination.",
+        "sentence_cn": "嵌入式天花板灯提供环境照明。",
+        "words": [
+            "ceiling",
+            "lights",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the kitchen has a clean, orderly appearance with a balance of functionality and style.",
+        "sentence_cn": "总体而言，厨房外观整洁有序，功能性和风格平衡。",
+        "words": [
+            "kitchen",
+            "appearance",
+            "balance",
+            "functionality",
+            "style"
+        ],
+        "id": null
+    }
+]

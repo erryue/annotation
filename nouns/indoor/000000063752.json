@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image depicts a cozy living and dining area with a festive atmosphere.",
+        "sentence_cn": "图像描绘的是一个充满节日气氛的舒适的起居和用餐区。",
+        "words": [
+            "living",
+            "dining",
+            "area",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, there is a Christmas tree adorned with silver and white decorations, topped with a white star.",
+        "sentence_cn": "角落里有一棵装饰着银色和白色装饰物的圣诞树，顶部有一颗白色的星星。",
+        "words": [
+            "corner",
+            "tree",
+            "decorations",
+            "star"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tree is placed next to a wall decorated with framed artwork.",
+        "sentence_cn": "这棵树被放置在一面挂有画框艺术品装饰的墙旁边。",
+        "words": [
+            "tree",
+            "wall",
+            "artwork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Cream-colored curtains hang from the windows, allowing soft light to enter the room.",
+        "sentence_cn": "奶油色的窗帘挂在窗户上，柔和的光线照进房间。",
+        "words": [
+            "Cream",
+            "curtains",
+            "windows",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A round wooden dining table is in the foreground, featuring a decorative centerpiece and surrounded by four chairs with red cushioned seats.",
+        "sentence_cn": "前景是一张圆形木质餐桌，中央有一个装饰品，周围摆放着四把带红色软垫的椅子。",
+        "words": [
+            "dining",
+            "table",
+            "foreground",
+            "centerpiece",
+            "four",
+            "chairs",
+            "seats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the table, there is a red and brown upholstered armchair with a small matching footstool and cushions in various colors.",
+        "sentence_cn": "桌子旁边有一把红色和棕色的软垫扶手椅，配有一个配套的小脚凳和各种颜色的靠垫。",
+        "words": [
+            "table",
+            "armchair",
+            "footstool",
+            "cushions",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a side table with a patterned surface holding a box of tissues and a decorative bowl.",
+        "sentence_cn": "背景中，有一张表面有图案的边桌，上面放着一盒纸巾和一个装饰碗。",
+        "words": [
+            "background",
+            "table",
+            "surface",
+            "box",
+            "tissues",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is tiled in a light, neutral color, contributing to the warm and inviting feel of the space.",
+        "sentence_cn": "地板铺有浅色、中性色调的瓷砖，营造出空间温暖而温馨的感觉。",
+        "words": [
+            "floor",
+            "color",
+            "feel",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space is illuminated by a central ceiling light.",
+        "sentence_cn": "该空间由中央天花板灯照亮。",
+        "words": [
+            "space",
+            "ceiling",
+            "light"
+        ],
+        "id": null
+    }
+]

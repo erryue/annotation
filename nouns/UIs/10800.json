@@ -1,0 +1,217 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a music app's \"Explore\" page.",
+        "sentence_cn": "该图片看起来是音乐应用程序“探索”页面的屏幕截图。",
+        "words": [
+            "Explore",
+            "music",
+            "app",
+            "Explore",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the screen has a banner advertisement for \"Holy Bible - A Free Gift.\"",
+        "sentence_cn": "屏幕顶部有一条横幅广告，“圣经——一份免费的礼物”。",
+        "words": [
+            "Holy Bible - A Free Gift.",
+            "top",
+            "screen",
+            "banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the advertisement, there are navigation options with an \"Explore\" tab highlighted and a search icon on the right.",
+        "sentence_cn": "广告下方是导航选项，其中突出显示了“探索”标签，右侧有一个搜索图标。",
+        "words": [
+            "Explore",
+            "navigation",
+            "options",
+            "Explore",
+            "tab",
+            "search",
+            "icon",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is divided into sections:",
+        "sentence_cn": "该页面分为几个部分：",
+        "words": [
+            "page",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Featured Playlists:",
+        "sentence_cn": "1. 精选播放列表：",
+        "words": [
+            "Featured Playlists",
+            "Playlists"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Rock Cristiano: The thumbnail shows a person playing a guitar.",
+        "sentence_cn": "- 摇滚克里斯蒂亚诺：缩略图显示一个人正在弹吉他。",
+        "words": [
+            "Rock Cristiano",
+            "thumbnail",
+            "person",
+            "guitar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - M¨²sica de Adoraci¨®n y Oraci¨®n: The image has hands raised in worship with blurred lights in the background.",
+        "sentence_cn": "- M¨²sica de Adoraci¨®n y Oraci¨®n：图像上有举起崇拜的双手，背景有模糊的灯光。",
+        "words": [
+            "M¨²sica de Adoraci¨®n y Oraci¨®n",
+            "hands",
+            "worship",
+            "lights",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Solo Alabanza y Adoraci¨®n: Shows a silhouette of a crowd in front of a bright stage.",
+        "sentence_cn": "- Solo Alabanza y Adoraci¨®n：展示明亮的舞台前人群的轮廓。",
+        "words": [
+            "Solo Alabanza y Adoraci¨®n",
+            "silhouette",
+            "crowd",
+            "front",
+            "stage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Genres",
+        "sentence_cn": "2. 类型",
+        "words": [
+            "Genres"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Alabanza y Adoraci¨®n: A blue background with text.",
+        "sentence_cn": "- Alabanza y Adoraci¨®n：带有文字的蓝色背景。",
+        "words": [
+            "Alabanza y Adoraci¨®n",
+            "background",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bachata y Salsa: Features a sunset with palm trees.",
+        "sentence_cn": "- Bachata y Salsa：以棕榈树和日落为特色。",
+        "words": [
+            "Bachata y Salsa",
+            "sunset",
+            "palm",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Balada: Displays a colorful twilight sky with text.",
+        "sentence_cn": "- Balada：用文字显示色彩斑斓的黄昏天空。",
+        "words": [
+            "Balada",
+            "twilight",
+            "sky",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Featured Artists:",
+        "sentence_cn": "3. 特色艺术家：",
+        "words": [
+            "Featured Artists",
+            "Artists"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Three artists are shown with their names and photos.",
+        "sentence_cn": "- 显示三位艺术家的姓名和照片。",
+        "words": [
+            "Three",
+            "artists",
+            "names",
+            "photos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - The first is wearing glasses and a brown jacket.",
+        "sentence_cn": "- 第一个戴着眼镜，穿着棕色夹克。",
+        "words": [
+            "glasses",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - The second is a woman with short hair wearing a dark jacket.",
+        "sentence_cn": "- 第二位是一位身穿深色夹克的短发女性。",
+        "words": [
+            "woman",
+            "hair",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - The third is a man in a collared shirt and sweater.",
+        "sentence_cn": "- 第三位是一位身穿有领衬衫和毛衣的男士。",
+        "words": [
+            "man",
+            "shirt",
+            "sweater"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom text on the screen reads \"Top Songs\" but does not display content from that section.",
+        "sentence_cn": "屏幕底部的文字显示“热门歌曲”，但并未显示该部分的内容。",
+        "words": [
+            "Top Songs",
+            "text",
+            "screen",
+            "Songs",
+            "content",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time on the device shows 4:44.",
+        "sentence_cn": "设备上的时间显示4:44。",
+        "words": [
+            "time",
+            "device",
+            "4:44"
+        ],
+        "id": null
+    }
+]

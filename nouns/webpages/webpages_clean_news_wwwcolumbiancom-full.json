@@ -1,0 +1,233 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a webpage from \"The Columbian\" website.",
+        "sentence_cn": "该图片似乎是《哥伦比亚人报》网站网页的截图。",
+        "words": [
+            "The Columbian",
+            "webpage",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Header:",
+        "sentence_cn": "标题：",
+        "words": [
+            "Header:",
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Contains navigation links including Login, Subscriptions, e-Edition, eNewsletters, Classifieds, Real Estate, Wheels, and Jobs.",
+        "sentence_cn": "- 包含导航链接，包括登录、订阅、电子版、电子通讯、分类广告、房地产、车轮和工作。",
+        "words": [
+            "navigation",
+            "links",
+            "Login",
+            "Subscriptions",
+            "e",
+            "-",
+            "Edition",
+            "eNewsletters",
+            "Classifieds",
+            "Estate",
+            "Wheels",
+            "Jobs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The Columbian logo is visible.",
+        "sentence_cn": "- 哥伦比亚标志清晰可见。",
+        "words": [
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Various news categories listed: News, Sports, Business, Life, Opinion, Blogs, Neighbors, Obituaries, More.",
+        "sentence_cn": "- 列出各种新闻类别：新闻、体育、商业、生活、观点、博客、邻居、讣告等。",
+        "words": [
+            "news",
+            "categories",
+            "Life",
+            "Opinion",
+            "Blogs",
+            "Neighbors",
+            "Obituaries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weather information showing a temperature of 70¡ãF.",
+        "sentence_cn": "- 天气信息显示温度为 70°F。",
+        "words": [
+            "Weather",
+            "information",
+            "temperature",
+            "70¡ãF."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A search bar and advertisement for \"Quali Homes.\"",
+        "sentence_cn": "- “Quali Homes” 的搜索栏和广告。",
+        "words": [
+            "Quali Homes.",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Banner Advertisement:",
+        "sentence_cn": "横幅广告：",
+        "words": [
+            "Banner Advertisement:",
+            "Banner",
+            "Advertisement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Promotes The Columbian's 125th Anniversary Celebration.",
+        "sentence_cn": "- 宣传《哥伦比亚报》125周年纪念庆典。",
+        "words": [
+            "Anniversary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Date and venue details: \"Saturday, September\" at 701 W 8th St, Vancouver.",
+        "sentence_cn": "- 日期和地点详情：“9 月星期六”，温哥华，西 8 街 701 号。",
+        "words": [
+            "Saturday, September",
+            "Date",
+            "venue",
+            "details",
+            "701",
+            "Vancouver"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Image of a person in a suit.",
+        "sentence_cn": "- 穿着西装的人的图像。",
+        "words": [
+            "Image",
+            "person",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mentions \"Meet Editor Lou Brancaccio and the Columbian Reporters.\"",
+        "sentence_cn": "- 提到“会见编辑 Lou Brancaccio 和《哥伦比亚记者报》。”",
+        "words": [
+            "Meet Editor Lou Brancaccio and the Columbian Reporters.",
+            "Mentions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Features and attractions like Columbo the Dog, tours, prizes, and more.",
+        "sentence_cn": "- 特色和景点，如哥伦布狗、旅游、奖品等。",
+        "words": [
+            "Features",
+            "attractions",
+            "tours",
+            "prizes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Logos and themes celebrating 125 years (1890-2015).",
+        "sentence_cn": "- 庆祝 125 周年 (1890-2015) 的标志和主题。",
+        "words": [
+            "Logos",
+            "themes",
+            "125",
+            "years",
+            "1890",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Content:",
+        "sentence_cn": "主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"MUST CLICKS\" and \"QUICK LINKS\" section with topics like fairs, elections, marketplace, garage sales, and movie times.",
+        "sentence_cn": "- “必点击”和“快速链接”部分，主题包括展览会、选举、市场、车库销售和电影时间。",
+        "words": [
+            "MUST CLICKS",
+            "QUICK LINKS",
+            "CLICKS",
+            "QUICK",
+            "section",
+            "topics",
+            "fairs",
+            "elections",
+            "marketplace",
+            "garage",
+            "sales",
+            "movie",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main photo shows a group of police officers, with one standing and others seated.",
+        "sentence_cn": "- 主图显示一群警察，其中一人站着，其他人坐着。",
+        "words": [
+            "photo",
+            "group",
+            "police",
+            "officers",
+            "one",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear engaged in a demonstration.",
+        "sentence_cn": "他们似乎正在进行示威活动。",
+        "words": [
+            "demonstration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Inset with latest and trending news headlines about various topics such as fires, deaths, wildfires, government actions, and more.",
+        "sentence_cn": "- 插入有关火灾、死亡、野火、政府行动等各种主题的最新和热门新闻标题。",
+        "words": [
+            "news",
+            "headlines",
+            "topics",
+            "fires",
+            "deaths",
+            "wildfires",
+            "government",
+            "actions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout indicates a news-focused website with promotional and informative elements.",
+        "sentence_cn": "该布局表明该网站以新闻为中心，并包含促销和信息元素。",
+        "words": [
+            "layout",
+            "news",
+            "website",
+            "elements"
+        ],
+        "id": null
+    }
+]

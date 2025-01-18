@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image features a vibrant street mural painted on a building wall.",
+        "sentence_cn": "该图为建筑物墙壁上绘制的充满活力的街道壁画。",
+        "words": [
+            "street",
+            "mural",
+            "building",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mural depicts an indoor scene with a prominent red staircase leading upwards.",
+        "sentence_cn": "壁画描绘的是室内场景，其中有一条显眼的红色楼梯通向上方。",
+        "words": [
+            "mural",
+            "scene",
+            "staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The staircase is decorated with maroon carpeting and is complemented by red walls adorned with various framed pictures and art pieces.",
+        "sentence_cn": "楼梯铺有栗色地毯，红色墙壁上挂有各种相框和艺术品。",
+        "words": [
+            "staircase",
+            "carpeting",
+            "walls",
+            "pictures",
+            "art",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor of the painted room is in a checkered pattern of alternating colors, creating a 3D optical illusion.",
+        "sentence_cn": "彩绘房间的地板呈交替颜色的方格图案，营造出 3D 视觉错觉。",
+        "words": [
+            "floor",
+            "room",
+            "pattern",
+            "colors",
+            "illusion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the mural, two people are walking on the sidewalk.",
+        "sentence_cn": "壁画前，两个人正在人行道上行走。",
+        "words": [
+            "front",
+            "mural",
+            "two",
+            "people",
+            "sidewalk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One person is holding a large multicolored umbrella with red, blue, yellow, and green sections, while the other person holds a black and white umbrella.",
+        "sentence_cn": "一个人拿着一把有红、蓝、黄、绿等色段的大彩色伞，而另一个人拿着一把黑白相间的伞。",
+        "words": [
+            "One",
+            "person",
+            "umbrella",
+            "sections",
+            "person",
+            "umbrella"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sidewalk appears wet, suggesting that it has been raining.",
+        "sentence_cn": "人行道看上去很湿，说明刚下过雨。",
+        "words": [
+            "sidewalk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene combines the lively street art with the real-life movement of people passing by.",
+        "sentence_cn": "整体场景将生动的街头艺术与路过人们的真实运动融为一体。",
+        "words": [
+            "scene",
+            "street",
+            "art",
+            "life",
+            "movement",
+            "people"
+        ],
+        "id": null
+    }
+]

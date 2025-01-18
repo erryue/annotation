@@ -1,0 +1,169 @@
+[
+    {
+        "sentence": "The image is an infographic focused on breast cancer awareness.",
+        "sentence_cn": "该图是一张重点关注乳腺癌意识的信息图。",
+        "words": [
+            "breast",
+            "cancer",
+            "awareness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a pink background, and the main message is about the importance of early detection.",
+        "sentence_cn": "它的背景是粉红色的，主要信息是早期检测的重要性。",
+        "words": [
+            "background",
+            "message",
+            "importance",
+            "detection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Title: \"Breast Cancer Awareness\" is prominently displayed at the top, with the tagline \"Early detection can save your life.\"",
+        "sentence_cn": "1. 标题：“乳腺癌意识”突出显示在顶部，标语为“早期发现可以挽救您的生命”。",
+        "words": [
+            "Title",
+            "Breast Cancer Awareness",
+            "Early detection can save your life.",
+            "Title",
+            "Awareness",
+            "top",
+            "tagline",
+            "detection",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Statistics:",
+        "sentence_cn": "2. 统计：",
+        "words": [
+            "Statistics",
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It states \"1 in 8 US women will develop invasive breast cancer over the course of her lifetime.\"",
+        "sentence_cn": "- 报告指出“美国每 8 名女性中就有 1 名在其一生中会患上浸润性乳腺癌。”",
+        "words": [
+            "1 in 8 US women will develop invasive breast cancer over the course of her lifetime.",
+            "1",
+            "8",
+            "US",
+            "women",
+            "breast",
+            "cancer",
+            "course",
+            "lifetime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An illustration of eight silhouettes of women is presented, with one silhouette highlighted.",
+        "sentence_cn": "- 展示了八个女性轮廓的插图，其中一个轮廓被突出显示。",
+        "words": [
+            "illustration",
+            "eight",
+            "silhouettes",
+            "women",
+            "one",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Message of Hope:",
+        "sentence_cn": "3. 希望的信息：",
+        "words": [
+            "Message of Hope",
+            "Message"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The text \"But there is HOPE\" is included, emphasizing positivity and encourage early detection.",
+        "sentence_cn": "- 包含“但还有希望”的文字，强调积极性并鼓励早期发现。",
+        "words": [
+            "But there is HOPE",
+            "text",
+            "HOPE",
+            "positivity",
+            "detection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Survival Rates:",
+        "sentence_cn": "4. 存活率：",
+        "words": [
+            "Survival Rates",
+            "Survival",
+            "Rates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The survival rate in advanced-stage breast cancer is shown as 27%.",
+        "sentence_cn": "- 晚期乳腺癌的生存率为27%。",
+        "words": [
+            "survival",
+            "rate",
+            "stage",
+            "breast",
+            "cancer",
+            "27"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The survival rate with early detection is depicted as 98%.",
+        "sentence_cn": "- 早期发现的存活率为 98%。",
+        "words": [
+            "survival",
+            "rate",
+            "detection",
+            "98"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - These statistics are accompanied by bar graphs illustrating the stark difference between them.",
+        "sentence_cn": "- 这些统计数据附有条形图，说明了它们之间的明显差异。",
+        "words": [
+            "statistics",
+            "bar",
+            "graphs",
+            "difference"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Website: The bottom of the image includes the website \"www.joniandfriends.org.\"",
+        "sentence_cn": "5. 网站：图片底部包括网站“www.joniandfriends.org”。",
+        "words": [
+            "Website",
+            "www.joniandfriends.org.",
+            "Website",
+            "bottom",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic uses a clear and concise design to convey crucial information about the impact of breast cancer and the benefits of early detection.",
+        "sentence_cn": "该信息图采用清晰简洁的设计来传达有关乳腺癌的影响和早期发现的好处的重要信息。",
+        "words": [
+            "design",
+            "information",
+            "impact",
+            "breast",
+            "cancer",
+            "benefits",
+            "detection"
+        ],
+        "id": null
+    }
+]

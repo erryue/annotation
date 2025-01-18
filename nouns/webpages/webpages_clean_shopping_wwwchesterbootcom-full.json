@@ -1,0 +1,252 @@
+[
+    {
+        "sentence": "The image is a webpage from Chester Boot Shop.",
+        "sentence_cn": "图片是 Chester Boot Shop 的网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a yellow banner with the store's logo, \"Chester Boot Shop since 1948,\" and a phone number, (586) 779-8460.",
+        "sentence_cn": "顶部有一条黄色横幅，上面印有商店的标志“Chester Boot Shop since 1948”，以及电话号码 (586) 779-8460。",
+        "words": [
+            "Chester Boot Shop since 1948,",
+            "top",
+            "banner",
+            "store",
+            "logo",
+            "1948",
+            "phone",
+            "number",
+            "586",
+            "779",
+            "-",
+            "8460"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below are black-and-white and color photos of the shop.",
+        "sentence_cn": "以下是该商店的黑白和彩色照片。",
+        "words": [
+            "color",
+            "photos",
+            "shop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner is a navigation menu with options: Home, About, Articles, Metro Events, Links, Photos, and Store Hours.",
+        "sentence_cn": "横幅下方是导航菜单，其中包含以下选项：主页、关于、文章、大都会活动、链接、照片和营业时间。",
+        "words": [
+            "banner",
+            "navigation",
+            "menu",
+            "options",
+            "Home",
+            "About",
+            "Articles",
+            "Metro",
+            "Events",
+            "Links",
+            "Photos",
+            "Store",
+            "Hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Social media icons are shown for Facebook, Twitter, and Google+.",
+        "sentence_cn": "显示社交媒体图标 Facebook、Twitter 和 Google+。",
+        "words": [
+            "media",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main section welcomes visitors to Chester Boot Shop, highlighting that it's a family-owned business since 1948.",
+        "sentence_cn": "主要部分欢迎游客来到切斯特靴子店，强调这是一家自 1948 年以来的家族企业。",
+        "words": [
+            "section",
+            "visitors",
+            "family",
+            "business",
+            "1948"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It invites customers to get fitted for boots or shoes and offers a full line of shoe care products.",
+        "sentence_cn": "它邀请顾客试穿靴子或鞋子，并提供全系列的鞋类护理产品。",
+        "words": [
+            "customers",
+            "boots",
+            "shoes",
+            "line",
+            "shoe",
+            "care",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are images of various boots and accessories organized into categories:",
+        "sentence_cn": "有各种靴子和配饰的图片，分为以下类别：",
+        "words": [
+            "images",
+            "boots",
+            "accessories",
+            "categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Work Boots: Shows a brown work boot.",
+        "sentence_cn": "- 工作靴：展示一双棕色的工作靴。",
+        "words": [
+            "Work Boots",
+            "Work",
+            "Boots",
+            "work",
+            "boot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Uniform Boots: Displays a shiny black boot.",
+        "sentence_cn": "- 制服靴：展示一只闪亮的黑色靴子。",
+        "words": [
+            "Uniform Boots",
+            "boot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Western Boots: Features a pair of brown cowboy boots.",
+        "sentence_cn": "- 西部靴：一双棕色牛仔靴。",
+        "words": [
+            "Western Boots",
+            "pair",
+            "cowboy",
+            "boots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dr. Martens: Shows a pair of Dr. Martens boots.",
+        "sentence_cn": "- Dr. Martens：展示一双 Dr. Martens 靴子。",
+        "words": [
+            "Dr. Martens",
+            "pair",
+            "boots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Classic: Displays a brown classic boot.",
+        "sentence_cn": "- 经典：展示一款棕色经典靴子。",
+        "words": [
+            "Classic",
+            "boot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hiking Boots: Shows a rugged hiking boot.",
+        "sentence_cn": "- 登山靴：展示坚固的登山靴。",
+        "words": [
+            "Hiking Boots",
+            "Hiking",
+            "Boots",
+            "hiking",
+            "boot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Motorcycle/Biker: Displays a black biker boot.",
+        "sentence_cn": "- 摩托车/骑车人：展示黑色骑车人靴子。",
+        "words": [
+            "Motorcycle/Biker",
+            "Motorcycle",
+            "Biker",
+            "biker",
+            "boot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Moccasins: Shows two pairs of moccasins.",
+        "sentence_cn": "- 莫卡辛鞋：展示两双莫卡辛鞋。",
+        "words": [
+            "Moccasins",
+            "two",
+            "pairs",
+            "moccasins"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these, there are categories for:",
+        "sentence_cn": "下面有以下类别：",
+        "words": [
+            "categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Shirts: Displays a western-style shirt.",
+        "sentence_cn": "- 衬衫：显示西式衬衫。",
+        "words": [
+            "Shirts",
+            "Shirts",
+            "style",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hats: Shows a cowboy hat.",
+        "sentence_cn": "- 帽子：展示一顶牛仔帽。",
+        "words": [
+            "Hats",
+            "Hats",
+            "cowboy",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Accessories: Displays various shoe care products.",
+        "sentence_cn": "- 配件：展示各种鞋护理产品。",
+        "words": [
+            "Accessories",
+            "Accessories",
+            "shoe",
+            "care",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's a sidebar with links to different product categories like Work Boots, Uniform Boots, Western Boots, etc., alongside a badge that reads \"67 Years in Business\" and a logo for \"The Best Current Variety.\"",
+        "sentence_cn": "左侧有一个侧边栏，其中有指向不同产品类别的链接，如工作靴、制服靴、西部靴等，旁边还有“67 年经营”的徽章和“最佳当前品种”的标志。",
+        "words": [
+            "67 Years in Business",
+            "The Best Current Variety.",
+            "left",
+            "sidebar",
+            "links",
+            "product",
+            "categories",
+            "badge",
+            "67",
+            "Years",
+            "Business",
+            "logo"
+        ],
+        "id": null
+    }
+]

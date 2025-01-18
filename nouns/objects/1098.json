@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image depicts a neatly arranged desk setup featuring several Apple products.",
+        "sentence_cn": "图片展示的是一张整齐摆放的办公桌，上面摆放着几款 Apple 产品。",
+        "words": [
+            "desk",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center is a MacBook laptop with its screen displaying the default Apple macOS desktop, characterized by a vibrant purple and blue cosmic background.",
+        "sentence_cn": "中心是一台 MacBook 笔记本电脑，其屏幕显示默认的 Apple macOS 桌面，其特点是充满活力的紫色和蓝色宇宙背景。",
+        "words": [
+            "center",
+            "laptop",
+            "screen",
+            "desktop",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the laptop, an iPhone is positioned vertically on a dock, showing the lock screen with the time.",
+        "sentence_cn": "在笔记本电脑的右侧，一台 iPhone 垂直放置在底座上，显示带有时间的锁定屏幕。",
+        "words": [
+            "right",
+            "laptop",
+            "dock",
+            "lock",
+            "screen",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small desk lamp with a curved arm and dome-shaped shade provides subtle lighting to the area, casting a soft glow over the devices.",
+        "sentence_cn": "一盏带有弯曲臂和圆顶灯罩的小型台灯为该区域提供了柔和的照明，在设备上投射出柔和的光芒。",
+        "words": [
+            "desk",
+            "lamp",
+            "arm",
+            "dome",
+            "shade",
+            "lighting",
+            "area",
+            "glow",
+            "devices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the iPhone is a classic Apple iPod with its characteristic click wheel, resting on a docking station.",
+        "sentence_cn": "iPhone 旁边是经典的 Apple iPod，带有其特有的点击轮，放置在基座上。",
+        "words": [
+            "click",
+            "wheel",
+            "docking",
+            "station"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby is a white Apple device, possibly an AirPort router or similar equipment, noticeable by the glowing green light indicating it is powered on.",
+        "sentence_cn": "附近有一台白色的 Apple 设备，可能是 AirPort 路由器或类似设备，它发出绿光，表明其已打开。",
+        "words": [
+            "device",
+            "router",
+            "equipment",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the MacBook, there appears to be a compact speaker or small electronic device, with its shape partly obscured by the side view angle.",
+        "sentence_cn": "在 MacBook 的左侧，似乎有一个小型扬声器或小型电子设备，其形状部分被侧视角遮挡。",
+        "words": [
+            "left",
+            "speaker",
+            "device",
+            "shape",
+            "view",
+            "angle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wooden surface of the desk and the overall subdued lighting create a calm, organized environment, highlighting the sleek design and aesthetic of the Apple products.",
+        "sentence_cn": "桌子的木质表面和整体柔和的灯光营造出一种平静、有序的环境，凸显了 Apple 产品的时尚设计和美感。",
+        "words": [
+            "surface",
+            "desk",
+            "lighting",
+            "environment",
+            "design",
+            "aesthetic",
+            "products"
+        ],
+        "id": null
+    }
+]

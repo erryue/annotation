@@ -1,0 +1,332 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"CUT OUT DISSECTION\" created by PETA.",
+        "sentence_cn": "该图是 PETA 制作的题为“CUT OUT DISSECTION”的信息图。",
+        "words": [
+            "CUT OUT DISSECTION",
+            "DISSECTION"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights issues related to the dissection of animals in classrooms.",
+        "sentence_cn": "它强调了与课堂上解剖动物相关的问题。",
+        "words": [
+            "issues",
+            "dissection",
+            "animals",
+            "classrooms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Section 1: Dissection Victims",
+        "sentence_cn": "第一部分：解剖受害者",
+        "words": [
+            "Section 1: Dissection Victims",
+            "Section",
+            "1",
+            "Dissection",
+            "Victims"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- States that over 10 million animals are killed each year for classroom dissection.",
+        "sentence_cn": "- 指出每年有超过 1000 万只动物因课堂解剖而被宰杀。",
+        "words": [
+            "10",
+            "million",
+            "animals",
+            "year",
+            "classroom",
+            "dissection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Section 2: Sources of Animals",
+        "sentence_cn": "第 2 部分：动物来源",
+        "words": [
+            "Section 2: Sources of Animals",
+            "Section",
+            "2",
+            "Sources",
+            "Animals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Animals are obtained from various sources:",
+        "sentence_cn": "- 动物的来源多种多样：",
+        "words": [
+            "Animals",
+            "sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bred in warehouses",
+        "sentence_cn": "- 在仓库中养殖",
+        "words": [
+            "warehouses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Snatched from the wild",
+        "sentence_cn": "- 从野外捕获",
+        "words": [
+            "wild"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Factory farms",
+        "sentence_cn": "- 工厂化农场",
+        "words": [
+            "Factory",
+            "farms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Animal shelters",
+        "sentence_cn": "- 动物收容所",
+        "words": [
+            "Animal",
+            "shelters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Fur farms",
+        "sentence_cn": "- 毛皮养殖场",
+        "words": [
+            "Fur",
+            "farms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Notes that many animals are suffocated with gas, and fetal pigs are cut from their mothers' wombs in slaughterhouses.",
+        "sentence_cn": "- 注意到许多动物被毒气窒息，猪胎在屠宰场被从母亲的子宫中取出。",
+        "words": [
+            "animals",
+            "gas",
+            "pigs",
+            "mothers",
+            "wombs",
+            "slaughterhouses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Section 3: Costs",
+        "sentence_cn": "第 3 部分：费用",
+        "words": [
+            "Section 3: Costs",
+            "Section",
+            "3",
+            "Costs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Compares the costs of traditional animal dissection and digital alternatives:",
+        "sentence_cn": "- 比较传统动物解剖与数字化替代方案的成本：",
+        "words": [
+            "costs",
+            "animal",
+            "dissection",
+            "alternatives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Traditional dissection costs increase over five-year increments ($13,700, $20,550, $27,400).",
+        "sentence_cn": "- 传统解剖成本每五年增加一次（13,700 美元、20,550 美元、27,400 美元）。",
+        "words": [
+            "dissection",
+            "costs",
+            "five",
+            "year",
+            "increments",
+            "13,700",
+            "20,550",
+            "27,400"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Digital alternatives remain constant at $884.",
+        "sentence_cn": "- 数字替代品的价格保持不变，为 884 美元。",
+        "words": [
+            "alternatives",
+            "884"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Section 4: Environmental Impact",
+        "sentence_cn": "第 4 部分：环境影响",
+        "words": [
+            "Section 4: Environmental Impact",
+            "Section",
+            "4",
+            "Impact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dissection isn't environmentally friendly:",
+        "sentence_cn": "- 解剖不环保：",
+        "words": [
+            "Dissection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Removing frogs disrupts ecosystems, increasing insect populations.",
+        "sentence_cn": "- 消除青蛙会破坏生态系统，增加昆虫数量。",
+        "words": [
+            "frogs",
+            "ecosystems",
+            "insect",
+            "populations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Leads to crop destruction, pesticide use, and disease spread.",
+        "sentence_cn": "- 导致农作物毁坏、农药使用和疾病传播。",
+        "words": [
+            "crop",
+            "destruction",
+            "pesticide",
+            "use",
+            "disease",
+            "spread"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Notes that dissection animals are embalmed with formaldehyde, a carcinogen.",
+        "sentence_cn": "- 注意到解剖动物要用致癌物甲醛进行防腐处理。",
+        "words": [
+            "Notes",
+            "dissection",
+            "animals",
+            "formaldehyde",
+            "carcinogen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Section 5: U.S. Regulation Map",
+        "sentence_cn": "第 5 部分：美国监管地图",
+        "words": [
+            "Section 5: U.S. Regulation Map",
+            "Section",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A map of the U.S. shows where students can opt-out of dissection:",
+        "sentence_cn": "- 美国地图显示了学生可以选择不参加解剖的地方：",
+        "words": [
+            "map",
+            "U.S.",
+            "students",
+            "dissection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - States with policies allowing students to refuse (represented with hearts).",
+        "sentence_cn": "- 允许学生拒绝的政策的州（以心形表示）。",
+        "words": [
+            "States",
+            "policies",
+            "students",
+            "hearts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - States needing action to implement such policies (represented in red).",
+        "sentence_cn": "- 需要采取行动实施此类政策的国家（以红色表示）。",
+        "words": [
+            "States",
+            "action",
+            "policies",
+            "red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Call to Action",
+        "sentence_cn": "行动呼吁",
+        "words": [
+            "Call to Action",
+            "Call",
+            "Action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Encourages visiting www.peta2.com/Dissection and contacting PETA for more information on speaking out against animal dissection.",
+        "sentence_cn": "- 鼓励访问www.peta2.com/Dissection 并联系 PETA 获取更多有关反对动物解剖的信息。",
+        "words": [
+            "Encourages",
+            "information",
+            "animal",
+            "dissection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Design Elements",
+        "sentence_cn": "设计元素",
+        "words": [
+            "Design Elements",
+            "Design",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Uses bold colors and simple illustrations for animals and graphs.",
+        "sentence_cn": "- 使用大胆的色彩和简单的插图来描绘动物和图形。",
+        "words": [
+            "colors",
+            "illustrations",
+            "animals",
+            "graphs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Provides a clear comparison and actionable information with visual support.",
+        "sentence_cn": "- 通过视觉支持提供清晰的比较和可操作的信息。",
+        "words": [
+            "comparison",
+            "information",
+            "support"
+        ],
+        "id": null
+    }
+]

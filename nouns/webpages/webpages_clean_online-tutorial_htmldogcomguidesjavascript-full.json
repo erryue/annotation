@@ -1,0 +1,197 @@
+[
+    {
+        "sentence": "The image is a webpage screenshot from \"HTML Dog,\" focusing on JavaScript tutorials.",
+        "sentence_cn": "图片是“HTML Dog”的网页截图，主要介绍 JavaScript 教程。",
+        "words": [
+            "HTML Dog,",
+            "webpage",
+            "JavaScript",
+            "tutorials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header at the top displays the site¡¯s name and menu options like Home and Tutorials.",
+        "sentence_cn": "顶部的标题显示网站的名称和菜单选项，如主页和教程。",
+        "words": [
+            "header",
+            "top",
+            "site¡¯s",
+            "name",
+            "menu",
+            "options",
+            "Home",
+            "Tutorials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's a navigation menu with sections for Tutorials, Techniques, Examples, and References, including HTML, CSS, and JavaScript, with subcategories like Beginner, Intermediate, and Advanced.",
+        "sentence_cn": "左侧有一个导航菜单，其中包含教程、技术、示例和参考部分，包括 HTML、CSS 和 JavaScript，以及初学者、中级和高级等子类别。",
+        "words": [
+            "left",
+            "navigation",
+            "menu",
+            "sections",
+            "Tutorials",
+            "Techniques",
+            "Examples",
+            "References",
+            "HTML",
+            "JavaScript",
+            "subcategories",
+            "Beginner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content area highlights JavaScript tutorials.",
+        "sentence_cn": "主要内容区域重点介绍 JavaScript 教程。",
+        "words": [
+            "content",
+            "area",
+            "tutorials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It describes JavaScript as a language for interactivity, providing a brief history and current applications.",
+        "sentence_cn": "它将 JavaScript 描述为一种交互语言，并提供了简要的历史和当前的应用。",
+        "words": [
+            "language",
+            "interactivity",
+            "history",
+            "applications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"JavaScript Beginner Tutorial\" section lists topics like:",
+        "sentence_cn": "“JavaScript 初学者教程”部分列出了以下主题：",
+        "words": [
+            "JavaScript Beginner Tutorial",
+            "Beginner",
+            "Tutorial",
+            "section",
+            "topics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Making Stuff Happen",
+        "sentence_cn": "- 让事情发生",
+        "words": [
+            "Stuff"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Variables and Data",
+        "sentence_cn": "- 变量和数据",
+        "words": [
+            "Variables",
+            "Data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Doing Math",
+        "sentence_cn": "- 做数学",
+        "words": [
+            "Math"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Logic",
+        "sentence_cn": "- 逻辑",
+        "words": [
+            "Logic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Conditional",
+        "sentence_cn": "- 有条件",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Looping",
+        "sentence_cn": "- 循环",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Functions",
+        "sentence_cn": "- 功能",
+        "words": [
+            "Functions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Objects",
+        "sentence_cn": "- 对象",
+        "words": [
+            "Objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Arrays",
+        "sentence_cn": "- 数组",
+        "words": [
+            "Arrays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a section for \"JavaScript Intermediate Tutorial\" covering:",
+        "sentence_cn": "还有“JavaScript 中级教程”部分，内容如下：",
+        "words": [
+            "JavaScript Intermediate Tutorial",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The DOM",
+        "sentence_cn": "DOM",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Events and Callbacks",
+        "sentence_cn": "- 事件和回调",
+        "words": [
+            "Events",
+            "Callbacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side are ads, including one for New Relic Browser and another for responsive HTML5/CSS3 development.",
+        "sentence_cn": "右侧是广告，其中一个是 New Relic 浏览器的广告，另一个是响应式 HTML5/CSS3 开发的广告。",
+        "words": [
+            "ads",
+            "one",
+            "HTML5",
+            "CSS3",
+            "development"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these, there are additional ads for WordPress themes and web hosting services.",
+        "sentence_cn": "在这些广告下面，还有 WordPress 主题和网络托管服务的附加广告。",
+        "words": [
+            "ads",
+            "themes",
+            "web",
+            "hosting",
+            "services"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image depicts a tall, rectangular brick tower located at the end of a street.",
+        "sentence_cn": "图像描绘的是位于街道尽头的一座高大的矩形砖塔。",
+        "words": [
+            "brick",
+            "tower",
+            "end",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tower features a large, round clock face on its upper section.",
+        "sentence_cn": "塔的上部有一个巨大的圆形钟面。",
+        "words": [
+            "tower",
+            "clock",
+            "face",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The exterior has signs of age with some vegetation, like ivy, growing along its walls.",
+        "sentence_cn": "外部有老化的痕迹，墙壁上生长着一些植物，比如常春藤。",
+        "words": [
+            "exterior",
+            "signs",
+            "age",
+            "vegetation",
+            "ivy",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two arches are visible above the clock face, likely for bells.",
+        "sentence_cn": "钟面上方可见两个拱门，可能用于钟铃。",
+        "words": [
+            "Two",
+            "arches",
+            "clock",
+            "face",
+            "bells"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a leafy tree partially obscures the base of the tower.",
+        "sentence_cn": "在前景中，一棵茂密的树遮住了部分塔基。",
+        "words": [
+            "foreground",
+            "tree",
+            "base",
+            "tower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a street with a couple of pedestrians walking, and a person is riding a bicycle.",
+        "sentence_cn": "街道上，有几个行人在行走，还有一个人骑着自行车。",
+        "words": [
+            "street",
+            "couple",
+            "pedestrians",
+            "person",
+            "bicycle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a parked car.",
+        "sentence_cn": "左边停着一辆汽车。",
+        "words": [
+            "left",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, part of a building is visible, along with a streetlight and a \"no parking\" sign.",
+        "sentence_cn": "右侧可见部分建筑物、路灯和“禁止停车”标志。",
+        "words": [
+            "no parking",
+            "right",
+            "part",
+            "building",
+            "streetlight",
+            "parking",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a hilly landscape is discernible under the clear blue sky.",
+        "sentence_cn": "在背景中，湛蓝的天空下，丘陵景观清晰可见。",
+        "words": [
+            "background",
+            "landscape",
+            "sky"
+        ],
+        "id": null
+    }
+]

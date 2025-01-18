@@ -1,0 +1,236 @@
+[
+    {
+        "sentence": "The infographic is from the ACLU of California, titled \"Think Outside the Box.\"",
+        "sentence_cn": "该信息图来自加州美国公民自由联盟，标题为“跳出框框思考”。",
+        "words": [
+            "Think Outside the Box.",
+            "Box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights disparities in spending between education and incarceration.",
+        "sentence_cn": "它凸显了教育和监禁之间的支出差异。",
+        "words": [
+            "disparities",
+            "education",
+            "incarceration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Key Statistics:",
+        "sentence_cn": "### 关键统计数据：",
+        "words": [
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- $10.7 Billion: Amount spent on California's criminal justice budget, 11% of the general fund.",
+        "sentence_cn": "- 107 亿美元：加州刑事司法预算支出，占普通基金的 11%。",
+        "words": [
+            "$10.7 Billion",
+            "10.7",
+            "Billion",
+            "Amount",
+            "California",
+            "justice",
+            "budget",
+            "11",
+            "fund"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 25%: Proportion of the world's prisoners in the U.S.",
+        "sentence_cn": "- 25%：美国囚犯占世界囚犯的比例。",
+        "words": [
+            "25%",
+            "25",
+            "Proportion",
+            "world",
+            "prisoners",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- $8,908: Amount CA spends annually on each K-12 student.",
+        "sentence_cn": "- 8,908 美元：CA 每年在每名 K-12 学生身上花费的金额。",
+        "words": [
+            "$8,908",
+            "8,908",
+            "Amount",
+            "K-12",
+            "student"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- $50,000: Amount CA spends annually on each adult in prison.",
+        "sentence_cn": "- 50,000 美元：加州每年在每个监狱成年人身上花费的金额。",
+        "words": [
+            "$50,000",
+            "50,000",
+            "Amount",
+            "adult",
+            "prison"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Incarceration in California:",
+        "sentence_cn": "### 加州监禁：",
+        "words": [
+            "Incarceration",
+            "California"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 123,000: People in CA state prisons.",
+        "sentence_cn": "- 123,000：加州监狱中的囚犯。",
+        "words": [
+            "123,000",
+            "People",
+            "CA",
+            "state",
+            "prisons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 71,000: People in CA county jails, with 50,000 awaiting trial.",
+        "sentence_cn": "- 71,000：加州监狱中关押的人员中，有 50,000 人等待审判。",
+        "words": [
+            "71,000",
+            "71,000",
+            "People",
+            "CA",
+            "county",
+            "jails",
+            "50,000",
+            "trial"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Costs: $50,000/year for each adult in state prison, $25,000/year in county jail.",
+        "sentence_cn": "- 费用：州监狱每名成年人每年 50,000 美元，县监狱每名成年人每年 25,000 美元。",
+        "words": [
+            "Costs",
+            "Costs",
+            "50,000",
+            "year",
+            "adult",
+            "state",
+            "prison",
+            "25,000",
+            "year",
+            "county",
+            "jail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Higher Education Funding Alternatives:",
+        "sentence_cn": "### 高等教育资助替代方案：",
+        "words": [
+            "Education",
+            "Funding",
+            "Alternatives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- CCs: 1 year costs for 12,500 full-time community college students.",
+        "sentence_cn": "- CC：12,500 名全日制社区大学学生一年的费用。",
+        "words": [
+            "CCs",
+            "CCs",
+            "1",
+            "year",
+            "costs",
+            "12,500",
+            "time",
+            "community",
+            "college",
+            "students"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- CSU: 1 year tuition for 7 full-time and 1 half-time Cal State students.",
+        "sentence_cn": "- CSU：7 名全日制加州州立大学学生和 1 名半日制加州州立大学学生 1 年的学费。",
+        "words": [
+            "CSU",
+            "1",
+            "year",
+            "tuition",
+            "7",
+            "time",
+            "1",
+            "time",
+            "students"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- UC: 1 year tuition for 6 full-time UC students.",
+        "sentence_cn": "- UC：6 名全日制 UC 学生的 1 年学费。",
+        "words": [
+            "UC",
+            "1",
+            "year",
+            "tuition",
+            "6",
+            "time",
+            "students"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Call to Action:",
+        "sentence_cn": "### 行动呼吁：",
+        "words": [
+            "Call",
+            "Action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Encourages visiting www.ThinkOutsidetheBoxCA.org to fix the system.",
+        "sentence_cn": "- 鼓励访问 www.ThinkOutsidetheBoxCA.org 来修复系统。",
+        "words": [
+            "Encourages",
+            "system"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Includes social media information for engagement.",
+        "sentence_cn": "- 包括用于参与的社交媒体信息。",
+        "words": [
+            "media",
+            "information",
+            "engagement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The graphic contrasts the high financial cost of incarceration with potential higher education funding, urging a reconsideration of budget priorities.",
+        "sentence_cn": "该图表将监禁的高昂财务成本与潜在的高等教育资金进行了对比，呼吁重新考虑预算优先事项。",
+        "words": [
+            "graphic",
+            "cost",
+            "incarceration",
+            "education",
+            "funding",
+            "reconsideration",
+            "budget",
+            "priorities"
+        ],
+        "id": null
+    }
+]

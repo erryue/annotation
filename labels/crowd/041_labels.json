@@ -1,0 +1,90 @@
+[
+    {
+        "id": "040b8e88-8377-4e8c-88b6-a67bcd7b8945",
+        "confidence": 0.9442,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.6565,
+                        "minY": 47.93666,
+                        "maxX": 539.73383,
+                        "maxY": 1068.03113
+                    },
+                    "x": 0.6565,
+                    "y": 47.93666,
+                    "w": 539.07733,
+                    "h": 1020.0944700000001
+                }
+            }
+        }
+    },
+    {
+        "id": "bc150da3-45a1-4e8a-a149-22b75185af3d",
+        "confidence": 0.93199,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 640.42059,
+                        "minY": 102.62511,
+                        "maxX": 1137.79443,
+                        "maxY": 1069.17139
+                    },
+                    "x": 640.42059,
+                    "y": 102.62511,
+                    "w": 497.37384,
+                    "h": 966.54628
+                }
+            }
+        }
+    },
+    {
+        "id": "639d71ac-bdc2-4cd8-b1b4-1de480d2a7f7",
+        "confidence": 0.9278,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1069.30115,
+                        "minY": 156.48187,
+                        "maxX": 1446.83948,
+                        "maxY": 1070.31445
+                    },
+                    "x": 1069.30115,
+                    "y": 156.48187,
+                    "w": 377.5383300000001,
+                    "h": 913.8325800000001
+                }
+            }
+        }
+    },
+    {
+        "id": "1b96227c-d43d-4a49-884f-cfc82493ddaa",
+        "confidence": 0.87573,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1263.77576,
+                        "minY": 5.96082,
+                        "maxX": 1917.65833,
+                        "maxY": 1066.29175
+                    },
+                    "x": 1263.77576,
+                    "y": 5.96082,
+                    "w": 653.88257,
+                    "h": 1060.33093
+                }
+            }
+        }
+    }
+]

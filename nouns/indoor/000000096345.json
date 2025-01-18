@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "The image shows a clean and well-appointed hotel room.",
+        "sentence_cn": "图为干净、设备齐全的酒店房间。",
+        "words": [
+            "hotel",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point is a large bed with white linens and a gray decorative runner.",
+        "sentence_cn": "焦点是一张铺着白色床单和灰色装饰垫的大床。",
+        "words": [
+            "point",
+            "bed",
+            "linens",
+            "runner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bed has a tall, padded black leather headboard, and there are several pillows, including white ones and a decorative pillow with a complex black and white pattern.",
+        "sentence_cn": "床上有一个高高的、带衬垫的黑色皮革床头板，还有几个枕头，包括白色的枕头和一个带有复杂黑白图案的装饰枕头。",
+        "words": [
+            "bed",
+            "leather",
+            "headboard",
+            "pillows",
+            "ones",
+            "pillow",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the bed is a stylish nightstand with a modern lamp featuring a transparent base.",
+        "sentence_cn": "床的右侧是一个时尚的床头柜，上面摆放着一盏带有透明底座的现代灯。",
+        "words": [
+            "right",
+            "bed",
+            "nightstand",
+            "lamp",
+            "base"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wall behind the bed is light-colored, possibly beige or cream, adding to the room's calm and welcoming atmosphere.",
+        "sentence_cn": "床后面的墙壁是浅色的，可能是米色或奶油色，增添了房间平静而温馨的氛围。",
+        "words": [
+            "wall",
+            "bed",
+            "cream",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the bed is a small work desk and a modern chair, suitable for business or writing purposes.",
+        "sentence_cn": "床旁边有一张小办公桌和一把现代化的椅子，适合商务或写作。",
+        "words": [
+            "bed",
+            "work",
+            "desk",
+            "chair",
+            "business",
+            "writing",
+            "purposes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the desk, there is a framed picture on the wall.",
+        "sentence_cn": "书桌上方的墙上挂着一幅相框。",
+        "words": [
+            "desk",
+            "picture",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features dark wood furniture, including what appears to be a wardrobe or storage cabinet next to the desk.",
+        "sentence_cn": "房间里有深色木质家具，包括书桌旁边的衣柜或储物柜。",
+        "words": [
+            "room",
+            "wood",
+            "furniture",
+            "wardrobe",
+            "storage",
+            "cabinet",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room is modern, with neutral tones accented by the dark wood and black leather, creating a sophisticated and comfortable environment.",
+        "sentence_cn": "总体而言，房间很现代，采用中性色调，配以深色木材和黑色皮革，营造出精致舒适的环境。",
+        "words": [
+            "room",
+            "tones",
+            "wood",
+            "leather",
+            "environment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "sentence": "The image features a flock of birds flying against a clear blue sky.",
+        "sentence_cn": "图片上是一群鸟在晴朗的蓝天中飞翔。",
+        "words": [
+            "flock",
+            "birds",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The birds vary in color, predominantly appearing in shades of white, yellow, and brown.",
+        "sentence_cn": "鸟类的颜色各异，主要为白色、黄色和棕色。",
+        "words": [
+            "birds",
+            "color",
+            "shades",
+            "white",
+            "yellow",
+            "brown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are captured in various positions of flight, with wings spread wide.",
+        "sentence_cn": "它们以各种不同的姿势飞行，双翼张开。",
+        "words": [
+            "positions",
+            "flight",
+            "wings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The birds are dispersed across the image, creating a dynamic scene that conveys movement and freedom.",
+        "sentence_cn": "鸟儿分散在图像各处，创造出传达运动和自由的动态场景。",
+        "words": [
+            "birds",
+            "scene",
+            "movement",
+            "freedom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bright blue background enhances the vibrant colors of the birds, making them stand out.",
+        "sentence_cn": "明亮的蓝色背景增强了鸟儿的鲜艳色彩，使它们脱颖而出。",
+        "words": [
+            "background",
+            "colors",
+            "birds"
+        ],
+        "id": null
+    }
+]

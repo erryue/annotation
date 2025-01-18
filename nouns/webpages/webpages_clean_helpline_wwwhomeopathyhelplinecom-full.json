@@ -1,0 +1,153 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage for \"Homeopathy Helpline.\"",
+        "sentence_cn": "该图是“顺势疗法帮助热线”网页的截图。",
+        "words": [
+            "Homeopathy Helpline.",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout features:",
+        "sentence_cn": "布局特点：",
+        "words": [
+            "layout",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The title \"HOMEOPATHY HELPLINE\" in green and grey at the top, with the phrase \"Dedicated to delivering individual solutions to your health problems using homeopathy. since 1984.\"",
+        "sentence_cn": "- 顶部用绿色和灰色标出“顺势疗法热线”的标题，并写着“自 1984 年以来，致力于通过顺势疗法为您的健康问题提供个性化解决方案。”",
+        "words": [
+            "HOMEOPATHY HELPLINE",
+            "Dedicated to delivering individual solutions to your health problems using homeopathy. since 1984.",
+            "title",
+            "HOMEOPATHY",
+            "green",
+            "grey",
+            "top",
+            "phrase",
+            "solutions",
+            "health",
+            "problems",
+            "homeopathy",
+            "1984"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, there's a navigation menu with links: Welcome, Consultations, About Homeopathy, About Francis Treuherz, Support & Supervision, Books by Francis, Articles & Resources, London Homeopath Blog, and Contact.",
+        "sentence_cn": "- 左侧有一个带有链接的导航菜单：欢迎、咨询、关于顺势疗法、关于 Francis Treuherz、支持和监督、Francis 的书籍、文章和资源、伦敦顺势疗法博客和联系方式。",
+        "words": [
+            "left",
+            "navigation",
+            "menu",
+            "links",
+            "Welcome",
+            "Contact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the menu, there are small images of homeopathic bottles and a book cover that says \"Books by Francis.\"",
+        "sentence_cn": "- 菜单下方是顺势疗法药瓶的小图像和写着“弗朗西斯的书籍”的书封面。",
+        "words": [
+            "Books by Francis.",
+            "menu",
+            "images",
+            "bottles",
+            "book",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the main content area, there is a header with \"Welcome\" and a statement about Francis Treuherz, a registered homeopath with 30 years of experience.",
+        "sentence_cn": "- 在主要内容区域，有一个带有“欢迎”的标题和关于 Francis Treuherz 的声明，他是一位拥有 30 年经验的注册顺势疗法医生。",
+        "words": [
+            "Welcome",
+            "content",
+            "area",
+            "header",
+            "Welcome",
+            "statement",
+            "homeopath",
+            "30",
+            "years",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A quote is highlighted in green: ¡°I established this to ensure that the best quality advice, care and information is available to people",
+        "sentence_cn": "- 引言以绿色突出显示：“我建立这个机构是为了确保人们能够获得最优质的建议、护理和信息",
+        "words": [
+            "quote",
+            "green",
+            "quality",
+            "advice",
+            "care",
+            "information",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "wherever in the world they live.¡±",
+        "sentence_cn": "无论他们生活在世界的哪个角落。”",
+        "words": [
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right side, there's a Facebook link and a section titled \"About Francis\" with a photo of an older man with a beard and glasses.",
+        "sentence_cn": "- 右侧有一个 Facebook 链接和一个名为“关于弗朗西斯”的部分，其中有一张留着胡须、戴着眼镜的老年男子的照片。",
+        "words": [
+            "About Francis",
+            "link",
+            "section",
+            "photo",
+            "man",
+            "beard",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The description notes his practice since 1984 in London NW2.",
+        "sentence_cn": "描述中提到了他自 1984 年以来在伦敦 NW2 的执业经历。",
+        "words": [
+            "practice",
+            "1984",
+            "London"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An image of homeopathic pills on a leaf and a blurred background is at the top of the main content.",
+        "sentence_cn": "- 主要内容的顶部是一张位于叶子上的顺势疗法药丸的图片，背景模糊。",
+        "words": [
+            "pills",
+            "leaf",
+            "background",
+            "top",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme includes greens, white, and grey.",
+        "sentence_cn": "整体配色方案包括绿色、白色和灰色。",
+        "words": [
+            "color",
+            "scheme",
+            "greens",
+            "white",
+            "grey"
+        ],
+        "id": null
+    }
+]

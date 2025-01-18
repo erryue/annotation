@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Judge Dredd.\"",
+        "sentence_cn": "图片是《特警判官》的电影海报。",
+        "words": [
+            "Judge Dredd.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a close-up of a character's face wearing a futuristic helmet with a red, ornate design.",
+        "sentence_cn": "该图片突出地展示了一个人物的脸部特写镜头，该人物戴着一个带有红色华丽设计的未来派头盔。",
+        "words": [
+            "close",
+            "up",
+            "character",
+            "face",
+            "helmet",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The helmet covers the eyes with a reflective visor showing a cityscape.",
+        "sentence_cn": "头盔上有一块可以反射城市景观的反光面罩，遮住了眼睛。",
+        "words": [
+            "helmet",
+            "eyes",
+            "visor",
+            "cityscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the visor, there are three stars, and the name \"STALLONE\" is written at the top in bold red letters.",
+        "sentence_cn": "遮阳板上方有三颗星，顶部用粗体红色字母写着“STALLONE”的名字。",
+        "words": [
+            "STALLONE",
+            "visor",
+            "three",
+            "stars",
+            "name",
+            "top",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the face, the title \"JUDGE DREDD\" appears in large red font, followed by the tagline \"In The Future, One Man Is The Law.\"",
+        "sentence_cn": "脸部下方以大红色字体显示标题“JUDGE DREDD”，后面跟着标语“在未来，一人就是法律”。",
+        "words": [
+            "JUDGE DREDD",
+            "In The Future, One Man Is The Law.",
+            "face",
+            "title",
+            "JUDGE",
+            "DREDD",
+            "font",
+            "tagline",
+            "Future",
+            "One",
+            "Man",
+            "Law"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom part of the poster contains credits and names of people involved in the film, written in smaller text.",
+        "sentence_cn": "海报的底部以较小的文字写着片尾字幕和参与电影制作的人员姓名。",
+        "words": [
+            "part",
+            "poster",
+            "credits",
+            "names",
+            "people",
+            "film",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is dark with highlights of red, conveying a dramatic and intense atmosphere.",
+        "sentence_cn": "整体配色为深色，带红色亮点，传达出一种戏剧性和强烈的氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "highlights",
+            "red",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

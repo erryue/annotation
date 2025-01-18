@@ -1,87 +1,179 @@
 [
     {
-        "sentence": "The image depicts a home office or study room with a dark wooden desk and matching built-in shelving.",
-        "sentence_cn": "图中描绘的是一间家庭办公室或书房，里面有一张深色木质书桌和配套的内置搁架。",
+        "sentence": "The image depicts a well-organized home office space.",
+        "sentence_cn": "图像描绘的是一个井然有序的家庭办公空间。",
         "words": [
             "home",
             "office",
-            "study",
-            "room",
-            "desk",
-            "shelving"
+            "space"
         ],
         "id": null
     },
     {
-        "sentence": "On the desk, there is a laptop and an external monitor, along with a computer mouse.",
-        "sentence_cn": "桌子上有一台笔记本电脑和一台外接显示器，还有一只电脑鼠标。",
+        "sentence": "The room has dark wood furniture, including a desk and a large bookshelf filled with various items.",
+        "sentence_cn": "房间里有深色木质家具，包括一张书桌和一个摆满各种物品的大书架。",
         "words": [
+            "room",
+            "wood",
+            "furniture",
             "desk",
+            "bookshelf",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Desk: There is a laptop with an Apple logo and a mouse placed on the desk.",
+        "sentence_cn": "- 桌子：桌子上放着一台带有 Apple 标志的笔记本电脑和一只鼠标。",
+        "words": [
+            "Desk",
+            "Desk",
+            "laptop",
+            "logo",
+            "mouse",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the laptop, a monitor is visible, connected with cables.",
+        "sentence_cn": "在笔记本电脑后面，可以看到一个通过电缆连接着的显示器。",
+        "words": [
             "laptop",
             "monitor",
-            "computer",
-            "mouse"
+            "cables"
         ],
         "id": null
     },
     {
-        "sentence": "The desk chair is ergonomic and mesh-backed.",
-        "sentence_cn": "办公椅符合人体工程学并且带有网状靠背。",
+        "sentence": "The desk appears clean and neatly arranged.",
+        "sentence_cn": "书桌显得干净、摆放整齐。",
         "words": [
-            "desk",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Chair: An ergonomic office chair is positioned in front of the desk.",
+        "sentence_cn": "- 椅子：一张符合人体工程学的办公椅摆放在桌子前面。",
+        "words": [
+            "Chair",
+            "Chair",
+            "office",
             "chair",
-            "mesh"
+            "front",
+            "desk"
         ],
         "id": null
     },
     {
-        "sentence": "The shelves are filled with a variety of books, small decorative items, and framed photographs.",
-        "sentence_cn": "书架上摆满了各种各样的书籍、小装饰品和相框。",
+        "sentence": "- Bookshelf:",
+        "sentence_cn": "- 书架：",
         "words": [
-            "shelves",
-            "variety",
+            "Bookshelf",
+            "Bookshelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bookshelf is integrated with the desk, featuring several shelves.",
+        "sentence_cn": "书架与书桌连为一体，有多个架子。",
+        "words": [
+            "bookshelf",
+            "desk",
+            "shelves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It holds a diverse collection of books, some picture frames, a small plush toy, and decorative items.",
+        "sentence_cn": "它收藏了各种各样的书籍、一些相框、小毛绒玩具和装饰品。",
+        "words": [
+            "collection",
             "books",
-            "items",
-            "photographs"
+            "picture",
+            "frames",
+            "toy",
+            "items"
         ],
         "id": null
     },
     {
-        "sentence": "Some books are stacked horizontally, while others are aligned vertically.",
-        "sentence_cn": "有些书是水平堆叠的，而有些书是垂直排列的。",
+        "sentence": "Notably, there is a box with handwritten text \"702 W 30 MARKED\" and a few stringed badges or passes are hanging from the side.",
+        "sentence_cn": "值得注意的是，有一个盒子，上面手写着“702 W 30 MARKED”，侧面挂着几枚带绳的徽章或通行证。",
         "words": [
-            "books",
-            "others"
+            "702 W 30 MARKED",
+            "box",
+            "text",
+            "702",
+            "30",
+            "badges",
+            "passes"
         ],
         "id": null
     },
     {
-        "sentence": "There's a distinctive, colorful abstract painting on the blue-painted wall to the left.",
-        "sentence_cn": "左边的蓝色墙壁上有一幅独特的、色彩丰富的抽象画。",
+        "sentence": "- Decorative Items: A uniquely shaped vase with wavy patterns and blue-green lines stands on one of the shelves.",
+        "sentence_cn": "- 装饰品：其中一个架子上摆放着一个形状独特的花瓶，上面有波浪图案和蓝绿色线条。",
         "words": [
-            "painting",
-            "wall",
-            "left"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "A small lamp or decorative vase is placed on one of the lower shelves.",
-        "sentence_cn": "较低的架子上放置着一盏小灯或装饰花瓶。",
-        "words": [
-            "lamp",
+            "Decorative Items",
+            "Items",
             "vase",
+            "patterns",
+            "lines",
             "one",
             "shelves"
         ],
         "id": null
     },
     {
-        "sentence": "The room appears tidy, organized, and functional, with an emphasis on a cozy and professional workspace.",
-        "sentence_cn": "房间看上去整洁、有序且实用，强调舒适和专业的工作空间。",
+        "sentence": "- Wall Art: On the wall, there is a colorful abstract framed artwork, adding vibrancy to the room.",
+        "sentence_cn": "- 墙壁艺术：墙壁上有一幅色彩缤纷的抽象框架艺术品，为房间增添了活力。",
         "words": [
+            "Wall Art",
+            "Wall",
+            "Art",
+            "wall",
+            "artwork",
+            "vibrancy",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The artwork uses a mix of colors, including red, green, purple, and yellow.",
+        "sentence_cn": "该艺术品采用了多种颜色，包括红色、绿色、紫色和黄色。",
+        "words": [
+            "artwork",
+            "mix",
+            "colors",
+            "red",
+            "green",
+            "purple",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lighting: The room is softly lit, perhaps implying a warm and inviting ambiance.",
+        "sentence_cn": "- 灯光：房间灯光柔和，也许暗示着一种温暖而诱人的氛围。",
+        "words": [
+            "Lighting",
+            "Lighting",
             "room",
-            "workspace"
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space is functional and aesthetically pleasing, combining elements of technology, literature, and art.",
+        "sentence_cn": "整体而言，空间兼具实用与美感，融合了科技、文学与艺术的元素。",
+        "words": [
+            "space",
+            "elements",
+            "technology",
+            "literature",
+            "art"
         ],
         "id": null
     }

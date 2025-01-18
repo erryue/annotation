@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image shows a warm and playful scene of a man and a young child engaging in a joyful moment together.",
+        "sentence_cn": "图片展示了一位男子与一位小孩一起享受欢乐时光的温馨而有趣的场景。",
+        "words": [
+            "scene",
+            "man",
+            "child"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man, wearing a pale yellow shirt and light blue pants, is playfully leaning over the child, who is dressed in a red shirt and jeans.",
+        "sentence_cn": "这位身穿淡黄色上衣和浅蓝色裤子的男子正顽皮地俯身看着身穿红色上衣和牛仔裤的孩子。",
+        "words": [
+            "man",
+            "shirt",
+            "pants",
+            "child",
+            "shirt",
+            "jeans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both are smiling and appear to be enjoying each other's company.",
+        "sentence_cn": "两人都面带微笑，看上去很享受彼此的陪伴。",
+        "words": [
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are seated on the floor of a living room, which has a light-colored wooden floor and a green sofa in the background, accented with an orange cushion.",
+        "sentence_cn": "他们坐在客厅的地板上，客厅铺着浅色木地板，背景是绿色的沙发，上面放着一个橙色的靠垫。",
+        "words": [
+            "floor",
+            "living",
+            "room",
+            "floor",
+            "sofa",
+            "background",
+            "orange",
+            "cushion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Scattered around them are various large, colorful building blocks in shades of purple, green, red, and white, indicating that they might have been building or playing with these toys.",
+        "sentence_cn": "他们周围散落着各种大型、色彩鲜艳的积木，有紫色、绿色、红色和白色等色调，表明他们可能正在建造或玩这些玩具。",
+        "words": [
+            "building",
+            "blocks",
+            "shades",
+            "purple",
+            "green",
+            "red",
+            "white",
+            "toys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is light-hearted and filled with familial warmth.",
+        "sentence_cn": "气氛轻松，充满家庭温暖。",
+        "words": [
+            "atmosphere",
+            "warmth"
+        ],
+        "id": null
+    }
+]

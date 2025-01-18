@@ -1,0 +1,67 @@
+[
+    {
+        "sentence": "The image showcases a decorative floral arrangement consisting of three tall, cylindrical vases.",
+        "sentence_cn": "图片展示了由三个高大的圆柱形花瓶组成的装饰性花卉布置。",
+        "words": [
+            "arrangement",
+            "three",
+            "vases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each vase contains a collection of tropical leaves and vibrant red anthurium flowers.",
+        "sentence_cn": "每个花瓶中都盛放着一些热带树叶和鲜艳的红色花烛。",
+        "words": [
+            "vase",
+            "collection",
+            "leaves",
+            "anthurium",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The anthurium flowers, known for their striking heart-shaped spathes and protruding spadices, add a pop of color against the rich green leaves.",
+        "sentence_cn": "红掌花以其引人注目的心形佛焰苞和突出的肉穗花序而闻名，为浓绿的叶子增添了一抹色彩。",
+        "words": [
+            "anthurium",
+            "flowers",
+            "heart",
+            "spathes",
+            "spadices",
+            "pop",
+            "color",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vases are placed on a light-colored marble or stone surface, and a warm light casts shadows on the neutral-toned wall behind them, enhancing the composition and adding depth to the arrangement.",
+        "sentence_cn": "花瓶放置在浅色的大理石或石头表面上，暖光在花瓶后面的中性色调墙壁上投射阴影，增强了构图效果并增加了布置的深度。",
+        "words": [
+            "vases",
+            "marble",
+            "stone",
+            "surface",
+            "light",
+            "shadows",
+            "wall",
+            "composition",
+            "depth",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic combines elegance and simplicity, likely intended for decorative purposes in an interior setting.",
+        "sentence_cn": "整体美学融合了优雅与简约，可能旨在用于室内装饰目的。",
+        "words": [
+            "aesthetic",
+            "elegance",
+            "simplicity",
+            "purposes"
+        ],
+        "id": null
+    }
+]

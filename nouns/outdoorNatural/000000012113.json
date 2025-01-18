@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image features a group of Highland cows walking along a road in a rural landscape.",
+        "sentence_cn": "照片中，一群高地牛在乡村道路上行走。",
+        "words": [
+            "group",
+            "cows",
+            "road",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These cows are known for their distinctive long, shaggy coats and long horns.",
+        "sentence_cn": "这些牛以其独特的长而蓬松的皮毛和长角而闻名。",
+        "words": [
+            "cows",
+            "coats",
+            "horns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is set in a hilly, open countryside with rolling hills in the background, covered in patches of grass and some sparse vegetation.",
+        "sentence_cn": "场景设置在丘陵密布的开阔乡村，背景是连绵起伏的山丘，上面覆盖着一片片草地和一些稀疏的植被。",
+        "words": [
+            "scene",
+            "countryside",
+            "hills",
+            "background",
+            "patches",
+            "grass",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, casting a soft, diffused light over the landscape.",
+        "sentence_cn": "天空阴云密布，在大地上投射出柔和、散射的光线。",
+        "words": [
+            "sky",
+            "light",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The road is paved and curves through the natural scenery, adding depth to the image.",
+        "sentence_cn": "道路是铺好的，蜿蜒穿过自然风光，为图像增添了深度。",
+        "words": [
+            "road",
+            "scenery",
+            "depth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is peaceful and rustic, emphasizing the beauty of the natural environment and the unique appearance of the Highland cows.",
+        "sentence_cn": "整体氛围宁静而质朴，强调了自然环境的美丽和高地牛的独特外观。",
+        "words": [
+            "atmosphere",
+            "beauty",
+            "environment",
+            "appearance",
+            "cows"
+        ],
+        "id": null
+    }
+]

@@ -1,121 +1,66 @@
 [
     {
-        "sentence": "The image is an advertisement for Audi, focusing on their design and lighting technology.",
-        "sentence_cn": "图片是奥迪的广告，重点展示了其设计和照明技术。",
+        "sentence": "The image is an advertisement for Audi, focusing on their \"electrifying design.\"",
+        "sentence_cn": "图片是奥迪的广告，重点宣传其“电动设计”。",
         "words": [
-            "design",
-            "lighting",
-            "technology"
+            "electrifying design.",
+            "design"
         ],
         "id": null
     },
     {
-        "sentence": "On the left side of the image, there is a close-up of an Audi vehicle's headlight, showcasing its sleek and modern design with bright LED elements.",
-        "sentence_cn": "图片左侧是奥迪汽车前灯的特写，通过明亮的 LED 元素展示了其时尚现代的造型。",
+        "sentence": "The foreground features a close-up of a car's sleek, futuristic headlight with blue-toned lighting, emphasizing advanced technology.",
+        "sentence_cn": "前景是汽车光滑、未来主义风格的前灯的特写，带有蓝色调的灯光，强调了先进的技术。",
         "words": [
+            "foreground",
             "close",
             "up",
-            "vehicle",
+            "car",
             "headlight",
-            "design",
-            "LED",
-            "elements"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The lighting appears vibrant and futuristic, highlighting the advanced technology used.",
-        "sentence_cn": "灯光显得充满活力和未来感，凸显了所使用的先进技术。",
-        "words": [
             "lighting",
             "technology"
         ],
         "id": null
     },
     {
-        "sentence": "The text on the image includes:",
-        "sentence_cn": "图片上的文字包括：",
+        "sentence": "Text in the image includes \"Audi design,\" with the tagline \"The future of automotive form,\" and \"Electrifying design,\" referencing the car's progressive lighting.",
+        "sentence_cn": "图片中的文字包括“奥迪设计”，标语为“汽车形态的未来”和“电动设计”，指的是汽车的渐进式照明。",
         "words": [
-            "text"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- \"Audi design - The future of automotive form.\"",
-        "sentence_cn": "- “奥迪设计——汽车形态的未来。”",
-        "words": [
-            "Audi design - The future of automotive form.",
+            "Audi design,",
+            "The future of automotive form,",
+            "Electrifying design,",
+            "Text",
             "design",
+            "tagline",
             "future",
-            "form"
+            "form",
+            "design",
+            "car",
+            "lighting"
         ],
         "id": null
     },
     {
-        "sentence": "- \"Electrifying design.",
-        "sentence_cn": "- “令人振奋的设计。",
-        "words": [
-            "design"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "Brighter, more efficient and characteristic: progressive Audi light design.\"",
-        "sentence_cn": "更明亮、更高效、更有特色：先进的奥迪灯光设计。”",
-        "words": [
-            "design"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- A web link: \"www.audi.com/vorsprung-durch-technik\"",
-        "sentence_cn": "- 网络链接：“www.audi.com/vorsprung-durch-technik”",
-        "words": [
-            "www.audi.com/vorsprung-durch-technik",
-            "web",
-            "link"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "In the background, on the right side, there's a person standing with a camera facing the car, wearing a red coat, which adds a dynamic element to the scene.",
-        "sentence_cn": "在背景右侧，有一个人站在那里，手里拿着摄像机，面向汽车，身穿红色外套，为场景增添了动感的元素。",
+        "sentence": "In the background, a person in a red coat stands near a cityscape, seemingly photographing or admiring the car.",
+        "sentence_cn": "在背景中，一个穿着红色外套的人站在城市景观附近，似乎在拍摄或欣赏这辆汽车。",
         "words": [
             "background",
             "person",
-            "camera",
-            "car",
             "coat",
-            "element",
-            "scene"
+            "cityscape",
+            "car"
         ],
         "id": null
     },
     {
-        "sentence": "Above this person, the sky has a gradient from dark to light, and the Audi logo with the phrase \"Vorsprung durch Technik\" (\"Advancement through Technology\") can be seen in the upper corner.",
-        "sentence_cn": "在这个人的上方，天空呈现出由暗到亮的渐变色，在右上角可以看到奥迪的标志和“Vorsprung durch Technik”（“通过科技进步”）。",
+        "sentence": "The scene is visually striking, with dynamic elements and a modern aesthetic, highlighting Audi's innovation in automotive design.",
+        "sentence_cn": "场景视觉冲击力十足，包含动感元素和现代美感，凸显了奥迪在汽车设计方面的创新。",
         "words": [
-            "Vorsprung durch Technik",
-            "Advancement through Technology",
-            "person",
-            "sky",
-            "gradient",
-            "light",
-            "logo",
-            "phrase",
-            "Advancement",
-            "corner"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The overall theme of the ad emphasizes innovation and modern aesthetics.",
-        "sentence_cn": "广告整体主题强调创新和现代美学。",
-        "words": [
-            "theme",
-            "ad",
+            "scene",
+            "elements",
+            "aesthetic",
             "innovation",
-            "aesthetics"
+            "design"
         ],
         "id": null
     }

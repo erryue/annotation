@@ -1,0 +1,175 @@
+[
+    {
+        "sentence": "The image depicts an opulent, traditionally styled living room.",
+        "sentence_cn": "图像描绘的是一间华丽的传统风格的客厅。",
+        "words": [
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is richly decorated with a focus on luxurious textures and classical elements.",
+        "sentence_cn": "房间装饰华丽，注重奢华的质感和古典元素。",
+        "words": [
+            "room",
+            "focus",
+            "textures",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Wall and Tapestry: The walls are paneled in warm, rich wood, contributing to the room's cozy and sophisticated atmosphere.",
+        "sentence_cn": "1. 墙壁和挂毯：墙壁采用温暖、丰富的木材镶板，营造出房间舒适而精致的氛围。",
+        "words": [
+            "Wall and Tapestry",
+            "Wall",
+            "Tapestry",
+            "walls",
+            "wood",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large tapestry on the main wall features detailed, classical imagery of figures in a pastoral scene, adding a sense of history and elegance.",
+        "sentence_cn": "主墙上的大型挂毯描绘了田园风光中细致而古典的人物形象，增添了历史感和优雅感。",
+        "words": [
+            "tapestry",
+            "wall",
+            "imagery",
+            "figures",
+            "scene",
+            "sense",
+            "history",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Furniture: The room contains several pieces of plush, upholstered furniture.",
+        "sentence_cn": "2. 家具：房间里有几件豪华的软垫家具。",
+        "words": [
+            "Furniture",
+            "Furniture",
+            "room",
+            "pieces",
+            "furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An armchair with a patterned fabric is visible in the foreground, and other seating includes sofas adorned with ornate pillows, which have intricate designs and rich, earthy tones.",
+        "sentence_cn": "前景中可以看到带有图案织物的扶手椅，其他座位包括装饰有华丽枕头的沙发，这些枕头具有复杂的图案和丰富的泥土色调。",
+        "words": [
+            "armchair",
+            "fabric",
+            "foreground",
+            "seating",
+            "sofas",
+            "pillows",
+            "designs",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lighting: The room is warmly lit with the help of several lamps.",
+        "sentence_cn": "3. 照明：房间在几盏灯的帮助下散发出温暖的灯光。",
+        "words": [
+            "Lighting",
+            "Lighting",
+            "room",
+            "help",
+            "lamps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Table lamps with pleated shades and green glass bases are positioned on surfaces around the room, casting a gentle glow.",
+        "sentence_cn": "带有褶皱灯罩和绿色玻璃底座的台灯摆放在房间周围的表面上，散发出柔和的光芒。",
+        "words": [
+            "Table",
+            "lamps",
+            "shades",
+            "glass",
+            "bases",
+            "surfaces",
+            "room",
+            "glow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Decorative Objects:",
+        "sentence_cn": "4. 装饰物品：",
+        "words": [
+            "Decorative Objects",
+            "Objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room showcases numerous decorative items.",
+        "sentence_cn": "房间里展示了许多装饰品。",
+        "words": [
+            "room",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On a console table, there is a classical-style urn and sculptures of figures.",
+        "sentence_cn": "玄关桌上摆放着古典风格的瓮和人物雕塑。",
+        "words": [
+            "console",
+            "table",
+            "style",
+            "urn",
+            "sculptures",
+            "figures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table also holds books, suggesting a cultured and learned setting.",
+        "sentence_cn": "桌子上还放着书籍，体现出一种文化和学识的氛围。",
+        "words": [
+            "table",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Rug: The floor is covered with an elaborate patterned rug, reflecting the room's color scheme and adding warmth and depth to the space.",
+        "sentence_cn": "5. 地毯：地板上铺着精致图案的地毯，反映了房间的配色方案，并为空间增添了温暖和深度。",
+        "words": [
+            "Rug",
+            "Rug",
+            "floor",
+            "rug",
+            "room",
+            "color",
+            "scheme",
+            "warmth",
+            "depth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space exudes a sense of luxury and comfort, combining classical elements with cozy, inviting touches.",
+        "sentence_cn": "总体而言，该空间散发出一种奢华和舒适的感觉，融合了古典元素和舒适、温馨的氛围。",
+        "words": [
+            "space",
+            "sense",
+            "luxury",
+            "comfort",
+            "elements",
+            "touches"
+        ],
+        "id": null
+    }
+]

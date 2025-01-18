@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image depicts a well-designed outdoor patio area.",
+        "sentence_cn": "图像描绘的是一个精心设计的户外露台区域。",
+        "words": [
+            "patio",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a square coffee table with a glass surface.",
+        "sentence_cn": "中央是一张方形的玻璃桌。",
+        "words": [
+            "center",
+            "coffee",
+            "table",
+            "glass",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are a bowl of green apples and a small vase with yellow flowers, along with two glasses filled with orange juice.",
+        "sentence_cn": "桌子上放着一碗青苹果、一个插着黄色花朵的小花瓶，还有两只盛着橙汁的玻璃杯。",
+        "words": [
+            "table",
+            "bowl",
+            "apples",
+            "vase",
+            "flowers",
+            "two",
+            "glasses",
+            "orange",
+            "juice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the coffee table is a modern outdoor seating arrangement.",
+        "sentence_cn": "咖啡桌周围是现代化的户外座位安排。",
+        "words": [
+            "coffee",
+            "table",
+            "seating",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is an L-shaped sectional sofa and a matching armchair, both featuring wicker frames and cushioned with orange fabric.",
+        "sentence_cn": "有一个 L 形组合沙发和一把配套的扶手椅，均采用柳条框架，并铺有橙色织物垫。",
+        "words": [
+            "L",
+            "sofa",
+            "armchair",
+            "wicker",
+            "frames",
+            "orange",
+            "fabric"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cushions have decorative patterns with orange and red circular designs.",
+        "sentence_cn": "垫子上有橙色和红色的圆形装饰图案。",
+        "words": [
+            "cushions",
+            "patterns",
+            "orange",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The patio is paved with light-colored square tiles.",
+        "sentence_cn": "天井铺有浅色方形瓷砖。",
+        "words": [
+            "patio",
+            "tiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around the seating area, there is lush greenery, including a variety of plants such as banana palms, ferns, and flowering bushes.",
+        "sentence_cn": "座位区周围绿树成荫，包括香蕉树、蕨类植物和开花灌木等各种植物。",
+        "words": [
+            "seating",
+            "area",
+            "greenery",
+            "variety",
+            "plants",
+            "banana",
+            "palms",
+            "ferns",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a view of a swimming pool partially visible next to a wrought-iron fence.",
+        "sentence_cn": "背景中，可以看到铁艺栅栏旁边部分游泳池的景色。",
+        "words": [
+            "background",
+            "view",
+            "swimming",
+            "pool",
+            "iron",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Lounge chairs can also be seen at the far end.",
+        "sentence_cn": "远处还可以看到躺椅。",
+        "words": [
+            "Lounge",
+            "chairs",
+            "end"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setting is vibrant and inviting, perfect for relaxation or social gatherings.",
+        "sentence_cn": "总体而言，这里的环境充满活力且温馨，非常适合放松或社交聚会。",
+        "words": [
+            "relaxation",
+            "gatherings"
+        ],
+        "id": null
+    }
+]

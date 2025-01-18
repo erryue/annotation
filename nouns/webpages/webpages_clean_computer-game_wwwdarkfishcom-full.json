@@ -1,0 +1,141 @@
+[
+    {
+        "sentence": "The image is a webpage for \"Darkfish Games.\"",
+        "sentence_cn": "该图是“Darkfish Games”的网页。",
+        "words": [
+            "Darkfish Games.",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The heading \"Darkfish games\" is prominently displayed in large red text at the top.",
+        "sentence_cn": "标题“Darkfish 游戏”以大红色文字显著地显示在顶部。",
+        "words": [
+            "Darkfish games",
+            "heading",
+            "games",
+            "text",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the heading, there are six sections, each with a small image and a corresponding game title in pink text:",
+        "sentence_cn": "标题下方有六个部分，每个部分都有一个小图像和相应的粉色文字游戏标题：",
+        "words": [
+            "heading",
+            "six",
+            "sections",
+            "game",
+            "title",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Five Field Kono: An image that seems to depict a board game.",
+        "sentence_cn": "1. 五场科诺：一幅看似描绘棋盘游戏的图像。",
+        "words": [
+            "Five Field Kono",
+            "Five",
+            "board",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Reversi: Features a green board with black and white pieces.",
+        "sentence_cn": "2. 黑白棋：棋盘为绿色，棋子为黑白两色。",
+        "words": [
+            "Reversi",
+            "Reversi",
+            "board",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Checkers: Shows a checkerboard pattern with red and white pieces.",
+        "sentence_cn": "3. 跳棋：显示由红色和白色棋子组成的棋盘图案。",
+        "words": [
+            "Checkers",
+            "Checkers",
+            "checkerboard",
+            "pattern",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Nim Skulls: Displays rows of skull images.",
+        "sentence_cn": "4. Nim Skulls：显示一排排的头骨图像。",
+        "words": [
+            "Nim Skulls",
+            "rows",
+            "skull",
+            "images"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Pentalpha: Illustrates a star-like pattern with yellow circles at the vertices.",
+        "sentence_cn": "5. Pentalpha：表示顶点带有黄色圆圈的星形图案。",
+        "words": [
+            "Pentalpha",
+            "Pentalpha",
+            "star",
+            "pattern",
+            "circles",
+            "vertices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Taxi: Displays a grid-like structure with colored markers.",
+        "sentence_cn": "6. Taxi：显示带有彩色标记的网格状结构。",
+        "words": [
+            "Taxi",
+            "Taxi",
+            "grid",
+            "structure",
+            "markers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these sections, there is a paragraph inviting users to explore online casino games at CasinoGuide.com.",
+        "sentence_cn": "在这些部分下方，有一个段落邀请用户探索 CasinoGuide.com 上的在线赌场游戏。",
+        "words": [
+            "sections",
+            "paragraph",
+            "users",
+            "casino",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions game software copyright by Timothy J. Rogers in 1996.",
+        "sentence_cn": "其中提到游戏软件版权归Timothy J. Rogers于1996年所有。",
+        "words": [
+            "game",
+            "software",
+            "copyright",
+            "1996"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The entire page is set against a black background, and the links text are in purple.",
+        "sentence_cn": "整个页面采用黑色背景，链接文本为紫色。",
+        "words": [
+            "page",
+            "background",
+            "links",
+            "text",
+            "purple"
+        ],
+        "id": null
+    }
+]

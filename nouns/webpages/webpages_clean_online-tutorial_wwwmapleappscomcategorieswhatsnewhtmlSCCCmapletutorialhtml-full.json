@@ -1,0 +1,133 @@
+[
+    {
+        "sentence": "The image is a screenshot of the Maplesoft Application Center webpage.",
+        "sentence_cn": "该图是 Maplesoft 应用中心网页的屏幕截图。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top part of the page includes a navigation menu with options such as \"Products,\" \"Solutions,\" \"Purchase,\" \"Support,\" \"Resources,\" and \"Company.\"",
+        "sentence_cn": "页面顶部包含一个导航菜单，其中有“产品”、“解决方案”、“购买”、“支持”、“资源”和“公司”等选项。",
+        "words": [
+            "Products,",
+            "Solutions,",
+            "Purchase,",
+            "Support,",
+            "Resources,",
+            "Company.",
+            "part",
+            "page",
+            "navigation",
+            "menu",
+            "options",
+            "Products",
+            "Solutions",
+            "Purchase",
+            "Support",
+            "Resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A search bar is located in the upper right corner.",
+        "sentence_cn": "搜索栏位于右上角。",
+        "words": [
+            "search",
+            "bar",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the navigation, a banner welcomes users to the Application Center, highlighting that it features over 2350 applications.",
+        "sentence_cn": "导航下方，横幅欢迎用户来到应用程序中心，并强调其拥有超过 2350 个应用程序。",
+        "words": [
+            "navigation",
+            "banner",
+            "users",
+            "2350",
+            "applications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Editor's Choice section showcases a \"Suspension Design\" model with an illustration of a suspension system, credited to author Avesta Goodarzi.",
+        "sentence_cn": "编辑精选部分展示了“悬架设计”模型，其中配有悬架系统图示，由作者 Avesta Goodarzi 提供。",
+        "words": [
+            "Suspension Design",
+            "section",
+            "Suspension",
+            "Design",
+            "model",
+            "illustration",
+            "suspension",
+            "system",
+            "author"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A sidebar allows users to search for applications by type and browse various categories like Mathematics, Communications, Computer Science, Education, etc.",
+        "sentence_cn": "侧边栏允许用户按类型搜索应用程序并浏览数学、通信、计算机科学、教育等各种类别。",
+        "words": [
+            "sidebar",
+            "users",
+            "applications",
+            "type",
+            "categories",
+            "Mathematics",
+            "Communications",
+            "Science",
+            "Education"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also an advertisement to download \"MapleSim Models\" on the right side of the page.",
+        "sentence_cn": "页面右侧还有下载“MapleSim 模型”的广告。",
+        "words": [
+            "MapleSim Models",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further down, the \"What's New in the Application Center\" section lists new applications with thumbnails, titles, authors, and the type of document (Maple Document).",
+        "sentence_cn": "再往下，“应用中心的新功能”部分列出了新的应用程序，其中包括缩略图、标题、作者和文档类型（Maple 文档）。",
+        "words": [
+            "What's New in the Application Center",
+            "section",
+            "applications",
+            "thumbnails",
+            "titles",
+            "authors",
+            "type",
+            "document"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some listed applications include topics like \"Jump-diffusion stochastic processes with Maple,\" \"Analysis of a Refrigeration Cycle with CoolProp,\" and \"Collision detection between toolholder and workpiece on ball nut.\"",
+        "sentence_cn": "一些列出的应用包括“使用 Maple 的跳跃扩散随机过程”、“使用 CoolProp 分析制冷循环”和“滚珠螺母上的刀架和工件之间的碰撞检测”等主题。",
+        "words": [
+            "Jump-diffusion stochastic processes with Maple,",
+            "Analysis of a Refrigeration Cycle with CoolProp,",
+            "Collision detection between toolholder and workpiece on ball nut.",
+            "applications",
+            "topics",
+            "Jump",
+            "diffusion",
+            "processes",
+            "Analysis",
+            "Collision",
+            "detection",
+            "toolholder",
+            "workpiece",
+            "ball",
+            "nut"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image depicts a city street lined with tall buildings.",
+        "sentence_cn": "图像描绘的是一条高楼林立的城市街道。",
+        "words": [
+            "city",
+            "street",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is a large building with a textured facade and many windows.",
+        "sentence_cn": "左边有一栋大楼，其外观富有纹理，有很多窗户。",
+        "words": [
+            "left",
+            "building",
+            "facade",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Shops and businesses line the street below, with some neon and vertical signage indicating various establishments.",
+        "sentence_cn": "街道两旁林立着商店和商业楼，还有一些霓虹灯和垂直标牌指示着各种机构。",
+        "words": [
+            "Shops",
+            "businesses",
+            "street",
+            "neon",
+            "signage",
+            "establishments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, another tall building features a more modern glass and steel design with some signage visible on the wall.",
+        "sentence_cn": "右侧，另一栋高楼采用更现代的玻璃和钢材设计，墙上可以看到一些标志。",
+        "words": [
+            "building",
+            "glass",
+            "steel",
+            "design",
+            "signage",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street is relatively wide, with a few vehicles including a white truck labeled \"BEKINS\" on the right side.",
+        "sentence_cn": "街道比较宽阔，停着几辆车辆，包括右侧一辆标有“BEKINS”的白色卡车。",
+        "words": [
+            "BEKINS",
+            "street",
+            "vehicles",
+            "truck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pedestrians are crossing the street in the distance, and the street is wet, suggesting recent rain.",
+        "sentence_cn": "远处行人正在过马路，街道湿滑，暗示着最近刚下过雨。",
+        "words": [
+            "Pedestrians",
+            "street",
+            "distance",
+            "street",
+            "rain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the immediate vicinity, more skyscrapers rise in the background, indicating an urban downtown area.",
+        "sentence_cn": "在附近区域之外，背景中耸立着更多的摩天大楼，表明这里是城市中心区。",
+        "words": [
+            "vicinity",
+            "skyscrapers",
+            "background",
+            "downtown",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is that of a bustling city street on a possibly overcast day.",
+        "sentence_cn": "整体氛围就像阴天里的繁华城市街道。",
+        "words": [
+            "atmosphere",
+            "city",
+            "street",
+            "day"
+        ],
+        "id": null
+    }
+]

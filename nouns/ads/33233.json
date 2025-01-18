@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image is an advertisement for CoverGirl cosmetics featuring a woman in a long, elegant white gown standing confidently outdoors.",
+        "sentence_cn": "图片是 CoverGirl 化妆品的广告，图中女子身穿优雅的白色长裙，自信地站在户外。",
+        "words": [
+            "cosmetics",
+            "woman",
+            "gown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her hand is on her hip, and she has long, wavy hair.",
+        "sentence_cn": "她的手叉腰，有一头长长的波浪形头发。",
+        "words": [
+            "hand",
+            "hip",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background includes some greenery and trees.",
+        "sentence_cn": "背景包括一些绿色植物和树木。",
+        "words": [
+            "background",
+            "greenery",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The headline says, \"GO OUT WITHOUT MY COVERGIRL ON- ARE YOU CRAZY?\" in large, bold letters.",
+        "sentence_cn": "标题用大而粗的字体写着：“出去时别穿我的封面女郎的衣服，你疯了吗？”",
+        "words": [
+            "GO OUT WITHOUT MY COVERGIRL ON- ARE YOU CRAZY?",
+            "headline",
+            "COVERGIRL",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there's a paragraph discussing her personal experience with the brand's products, though the text is not fully readable.",
+        "sentence_cn": "下面是一段讨论她对该品牌产品的个人体验的文字，但文字不是完全可读。",
+        "words": [
+            "paragraph",
+            "experience",
+            "brand",
+            "products",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are images showcasing three specific CoverGirl products:",
+        "sentence_cn": "底部的图片展示了三款特定的 CoverGirl 产品：",
+        "words": [
+            "bottom",
+            "images",
+            "three",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Simply Ageless - with a picture focusing on the eye and cheek area.",
+        "sentence_cn": "1. 永葆青春——图片重点关注眼部和脸颊区域。",
+        "words": [
+            "picture",
+            "eye",
+            "cheek",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. LashBlast - highlighting the eyes, likely emphasizing mascara.",
+        "sentence_cn": "2. LashBlast-突出眼睛，可能强调睫毛膏。",
+        "words": [
+            "LashBlast",
+            "eyes",
+            "mascara"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Outlast Lipcolor - showing lips with vibrant lipstick.",
+        "sentence_cn": "3. Outlast Lipcolor-用鲜艳的唇膏展现双唇。",
+        "words": [
+            "Lipcolor",
+            "lips",
+            "lipstick"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each product image is accompanied by small text descriptions.",
+        "sentence_cn": "每个产品图片均附有小文字说明。",
+        "words": [
+            "product",
+            "text",
+            "descriptions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme emphasizes beauty and confidence associated with using CoverGirl products.",
+        "sentence_cn": "整体主题强调使用 CoverGirl 产品所带来的美丽和自信。",
+        "words": [
+            "theme",
+            "beauty",
+            "confidence",
+            "products"
+        ],
+        "id": null
+    }
+]

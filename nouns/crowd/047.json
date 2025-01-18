@@ -1,0 +1,108 @@
+[
+    {
+        "sentence": "The image depicts a busy urban scene with several people outdoors on a sunny day.",
+        "sentence_cn": "图片描绘的是阳光明媚的日子里户外有几个人的繁忙城市场景。",
+        "words": [
+            "scene",
+            "people",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there's a classic red telephone booth, which is a common sight in the UK.",
+        "sentence_cn": "左边有一个经典的红色电话亭，这在英国很常见。",
+        "words": [
+            "left",
+            "telephone",
+            "booth",
+            "sight",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the telephone booth, a woman is standing next to a bicycle, wearing a dark tank top and a light skirt.",
+        "sentence_cn": "在电话亭附近，一名身穿深色背心和浅色裙子的女子站在一辆自行车旁边。",
+        "words": [
+            "telephone",
+            "booth",
+            "woman",
+            "bicycle",
+            "tank",
+            "top",
+            "skirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other individuals are seen walking or standing around, some with bicycles.",
+        "sentence_cn": "其他人则在周围行走或站立，有的还骑着自行车。",
+        "words": [
+            "individuals",
+            "bicycles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a building under construction with scaffolding and a sign that reads \"Opening 2008.\"",
+        "sentence_cn": "背景中，有一座正在建设中的建筑物，上面搭着脚手架，还有一块标牌，上面写着“2008 年开业”。",
+        "words": [
+            "Opening 2008.",
+            "background",
+            "building",
+            "construction",
+            "scaffolding",
+            "sign",
+            "Opening",
+            "2008"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the right part of the image, a group of people, some in shorts, stand near the entrance of a NatWest bank.",
+        "sentence_cn": "在图片的右侧，一群人站在 NatWest 银行的入口附近，其中一些人穿着短裤。",
+        "words": [
+            "part",
+            "group",
+            "people",
+            "shorts",
+            "entrance",
+            "bank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bank's signage is visible above the entrance.",
+        "sentence_cn": "银行的标牌在入口上方清晰可见。",
+        "words": [
+            "bank",
+            "signage",
+            "entrance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A double-decker bus can also be seen in the background, further suggesting the location might be in the UK.",
+        "sentence_cn": "背景中还可以看到一辆双层巴士，进一步表明该地点可能位于英国。",
+        "words": [
+            "decker",
+            "bus",
+            "background",
+            "location",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene is lively, with people going about their day, enjoying the weather.",
+        "sentence_cn": "总体场景很热闹，人们忙碌地度过一天，享受着天气。",
+        "words": [
+            "scene",
+            "people",
+            "day",
+            "weather"
+        ],
+        "id": null
+    }
+]

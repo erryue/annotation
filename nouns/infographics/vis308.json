@@ -1,0 +1,241 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Rising Asian Economic Integration\" from the Asian Development Bank (ADB).",
+        "sentence_cn": "该图是亚洲开发银行（ADB）的一张题为“崛起的亚洲经济一体化”的信息图。",
+        "words": [
+            "Rising Asian Economic Integration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It discusses the potential for continued economic integration in Asia following the Eurozone economic crisis.",
+        "sentence_cn": "文章讨论了欧元区经济危机后亚洲继续进行经济一体化的潜力。",
+        "words": [
+            "potential",
+            "integration",
+            "Asia",
+            "crisis"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key elements include:",
+        "sentence_cn": "关键要素包括：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Title and Question:",
+        "sentence_cn": "1. 标题和问题：",
+        "words": [
+            "Title and Question",
+            "Title",
+            "Question",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Rising Asian Economic Integration\" with the question, \"Following Economic Crisis in the Eurozone, will Asian Economies Continue to Integrate?\"",
+        "sentence_cn": "- “亚洲经济一体化进程不断加快”，问题为“欧元区经济危机之后，亚洲经济是否会继续一体化？”",
+        "words": [
+            "Rising Asian Economic Integration",
+            "Following Economic Crisis in the Eurozone, will Asian Economies Continue to Integrate?",
+            "Integration",
+            "question",
+            "Crisis",
+            "Economies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Main Answer:",
+        "sentence_cn": "2. 主要答案：",
+        "words": [
+            "Main Answer",
+            "Answer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ADB's Asian Economic Integration Monitor says \"Yes.\"",
+        "sentence_cn": "- 亚洲开发银行的亚洲经济一体化监测机构表示“是”。",
+        "words": [
+            "Yes."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Visualization:",
+        "sentence_cn": "3.可视化：",
+        "words": [
+            "Visualization",
+            "Visualization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A map highlighting Europe in blue and Asia in red, suggesting a focus on these regions.",
+        "sentence_cn": "- 地图上用蓝色突出显示欧洲，用红色突出显示亚洲，建议重点关注这些地区。",
+        "words": [
+            "map",
+            "Europe",
+            "blue",
+            "Asia",
+            "red",
+            "focus",
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Progress in Regional Cooperation and Integration:",
+        "sentence_cn": "4. 区域合作与一体化取得进展",
+        "words": [
+            "Progress in Regional Cooperation and Integration",
+            "Progress"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Intraregional and \"South-South\" trade: Growing faster than traditional markets in the US and Europe.",
+        "sentence_cn": "- 区域内和“南南”贸易：增长速度快于美国和欧洲的传统市场。",
+        "words": [
+            "Intraregional and \"South-South\" trade",
+            "trade",
+            "markets",
+            "US",
+            "Europe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - International Transmigration: Contributes to growth in both source and host economies via remittances.",
+        "sentence_cn": "- 国际移民：通过汇款促进来源国和东道国经济体的增长。",
+        "words": [
+            "International Transmigration",
+            "Transmigration",
+            "growth",
+            "source",
+            "host",
+            "economies",
+            "remittances"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cross-Border Connectivity: Strengthens intraregional trade.",
+        "sentence_cn": "- 跨境连通：加强区域内贸易。",
+        "words": [
+            "Cross-Border Connectivity",
+            "trade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Regional Economic Update:",
+        "sentence_cn": "5. 区域经济更新：",
+        "words": [
+            "Regional Economic Update",
+            "Update"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - GDP Growth Forecast: 6.6% in 2012 and 7.1% in 2013.",
+        "sentence_cn": "- 国内生产总值增长预测：2012年为6.6%，2013年为7.1%。",
+        "words": [
+            "6.6",
+            "2012",
+            "7.1",
+            "%",
+            "2013"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Regional Integration: A Balanced View:",
+        "sentence_cn": "6. 区域一体化：平衡的观点：",
+        "words": [
+            "Regional Integration: A Balanced View",
+            "Integration",
+            "View"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Regional Integration: Expands markets, allocates resources better, and accelerates growth.",
+        "sentence_cn": "- 区域一体化：扩大市场，更好地配置资源，加速增长。",
+        "words": [
+            "Regional Integration",
+            "Integration",
+            "markets",
+            "resources",
+            "growth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Risk of Integration: Poses contagion risks and may increase inequality within countries.",
+        "sentence_cn": "- 融合风险：带来传染风险，并可能加剧国家内部的不平等。",
+        "words": [
+            "Risk of Integration",
+            "Risk",
+            "Integration",
+            "contagion",
+            "risks",
+            "inequality",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cooperation Works: Can manage risks and maximize benefits.",
+        "sentence_cn": "- 合作有效：可以管理风险并实现利益最大化。",
+        "words": [
+            "Cooperation Works",
+            "Cooperation",
+            "Works",
+            "risks",
+            "benefits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Logos and Branding:",
+        "sentence_cn": "7. 标志和品牌：",
+        "words": [
+            "Logos and Branding",
+            "Logos",
+            "Branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Asian Development Bank logo with a note about fighting poverty in Asia and the Pacific, along with a reference to their Facebook page.",
+        "sentence_cn": "- 亚洲开发银行的徽标上印有关于亚洲和太平洋地区消除贫困的说明，并附有其 Facebook 页面的参考。",
+        "words": [
+            "logo",
+            "note",
+            "poverty",
+            "Asia",
+            "Pacific",
+            "reference",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic summarizes the potential benefits and challenges of increased economic integration among Asian economies.",
+        "sentence_cn": "该信息图总结了亚洲经济体之间加强经济一体化的潜在利益和挑战。",
+        "words": [
+            "benefits",
+            "challenges",
+            "integration",
+            "economies"
+        ],
+        "id": null
+    }
+]

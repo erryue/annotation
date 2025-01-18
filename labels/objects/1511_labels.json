@@ -1,0 +1,46 @@
+[
+    {
+        "id": "b9de0b5c-cdec-4639-900b-ffe6c116be3c",
+        "confidence": 0.86255,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 444.37485,
+                        "minY": 47.34104,
+                        "maxX": 622.48865,
+                        "maxY": 264.3826
+                    },
+                    "x": 444.37485,
+                    "y": 47.34104,
+                    "w": 178.11380000000003,
+                    "h": 217.04156000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "c4675ad7-3367-42ed-b023-049aaf9556b5",
+        "confidence": 0.82416,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 701.16956,
+                        "minY": 298.55353,
+                        "maxX": 799.48273,
+                        "maxY": 428.70459
+                    },
+                    "x": 701.16956,
+                    "y": 298.55353,
+                    "w": 98.3131699999999,
+                    "h": 130.15105999999997
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Evil Dead 2: Dead by Dawn.\"",
+        "sentence_cn": "图片是《鬼玩人2：黎明杀机》的电影海报。",
+        "words": [
+            "Evil Dead 2: Dead by Dawn.",
+            "movie",
+            "poster",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a close-up of a skull with lifelike eyes peering directly at the viewer.",
+        "sentence_cn": "该作品突出展示了头骨的特写镜头，头骨上栩栩如生的眼睛直视着观众。",
+        "words": [
+            "close",
+            "skull",
+            "eyes",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The skull appears aged and weathered, with visible cracking and discoloration.",
+        "sentence_cn": "头骨看起来陈旧且饱经风霜，有明显的裂痕和变色。",
+        "words": [
+            "skull",
+            "cracking",
+            "discoloration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, the title \"EVIL DEAD 2\" is written in bold, red, stylized letters, with \"DEAD BY DAWN\" in white below it.",
+        "sentence_cn": "图片下方，标题“EVIL DEAD 2”以粗体红色风格字母写成，下方有白色“DEAD BY DAWN”。",
+        "words": [
+            "EVIL DEAD 2",
+            "DEAD BY DAWN",
+            "title",
+            "2",
+            "letters",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section provides production details, including:",
+        "sentence_cn": "底部提供生产详细信息，包括：",
+        "words": [
+            "section",
+            "production",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Renaissance Pictures Presents\"",
+        "sentence_cn": "- “文艺复兴影业出品”",
+        "words": [
+            "Renaissance Pictures Presents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cast: Bruce Campbell, Sarah Berry, Dan Hicks, Kassie Wesley, Richard Domeier",
+        "sentence_cn": "- 演员：布鲁斯·坎贝尔、莎拉·贝瑞、丹·希克斯、卡西·韦斯利、理查德·多梅尔",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Music by Joseph Lo Duca",
+        "sentence_cn": "- 音乐：Joseph Lo Duca",
+        "words": [
+            "Music"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Special Makeup Effects by Mark Shostrom",
+        "sentence_cn": "- 特殊化妆效果由 Mark Shostrom 制作",
+        "words": [
+            "Makeup",
+            "Effects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Edited by Kaye Davis",
+        "sentence_cn": "- Kaye Davis 编辑",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Director of Photography: Peter Deming",
+        "sentence_cn": "- 摄影指导：彼得·戴明",
+        "words": [
+            "Director"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Executive Producers: Irvin Shapiro, Alex De Benedetti",
+        "sentence_cn": "- 监制：Irvin Shapiro、Alex De Benedetti",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Written by Sam Raimi and Scott Spiegel",
+        "sentence_cn": "- 由山姆·雷米和斯科特·斯皮格尔撰写",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Produced by Robert Tapert",
+        "sentence_cn": "- 由罗伯特·泰珀特 (Robert Tapert) 制作",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Directed by Sam Raimi",
+        "sentence_cn": "- 导演：山姆·雷米",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "There are cautionary notes and additional credits at the very bottom, including distribution information.",
+        "sentence_cn": "最底部有警告和附加说明，包括分发信息。",
+        "words": [
+            "notes",
+            "credits",
+            "bottom",
+            "distribution",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is dark and foreboding, fitting the horror theme of the movie.",
+        "sentence_cn": "整体设计阴暗而令人恐惧，符合电影的恐怖主题。",
+        "words": [
+            "design",
+            "horror",
+            "theme",
+            "movie"
+        ],
+        "id": null
+    }
+]

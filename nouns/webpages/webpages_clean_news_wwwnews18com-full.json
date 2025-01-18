@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image is a screenshot of the News18 website, featuring a news article about a remark made by PM Modi regarding \"DNA\" and a response from Arvind Kejriwal.",
+        "sentence_cn": "该图片是 News18 网站的截图，其中刊登了一篇关于莫迪总理就“DNA”发表的言论以及阿尔温德·凯杰里瓦尔的回应的新闻文章。",
+        "words": [
+            "DNA",
+            "website",
+            "news",
+            "article",
+            "remark",
+            "response"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is dated August 28, 2015.",
+        "sentence_cn": "该页面的日期为 2015 年 8 月 28 日。",
+        "words": [
+            "page",
+            "28",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A prominent image in the article shows two men, presumably involved in the news story.",
+        "sentence_cn": "文章中一张显眼的图片显示了两名男子，据推测他们与该新闻报道有关。",
+        "words": [
+            "article",
+            "two",
+            "men",
+            "news",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various sections of the website are visible, including:",
+        "sentence_cn": "网站的各个部分均可见，包括：",
+        "words": [
+            "sections",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A navigation bar with links to sections such as Nation, Cricket, Movies, and more.",
+        "sentence_cn": "- 导航栏包含指向“国家”、“板球”、“电影”等部分的链接。",
+        "words": [
+            "navigation",
+            "bar",
+            "links",
+            "sections",
+            "Nation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A top advertisement banner featuring a Land Rover vehicle.",
+        "sentence_cn": "- 顶部广告横幅上印有路虎汽车的图案。",
+        "words": [
+            "banner",
+            "vehicle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An alert at the top about two constables sent to police lines for custodial torture.",
+        "sentence_cn": "- 顶部发布有关两名警员被送往警察局接受监禁酷刑的警报。",
+        "words": [
+            "alert",
+            "top",
+            "two",
+            "constables",
+            "police",
+            "lines",
+            "torture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A \"Lakme Fashion Week\" banner beneath the navigation.",
+        "sentence_cn": "- 导航下方有“Lakme 时装周”横幅。",
+        "words": [
+            "Lakme Fashion Week",
+            "banner",
+            "navigation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A sidebar on the right with a \"Live TV\" section and News18 picks, including articles on societal issues and events.",
+        "sentence_cn": "- 右侧边栏包含“直播电视”部分和 News18 精选，包括有关社会问题和事件的文章。",
+        "words": [
+            "Live TV",
+            "sidebar",
+            "right",
+            "section",
+            "picks",
+            "articles",
+            "issues",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Other news headlines listed include topics on Sonia Gandhi, rakhi-making for PM Modi, issues in Taj city, and security concerns.",
+        "sentence_cn": "- 其他新闻标题包括有关索尼娅·甘地、为莫迪总理制作拉基、泰姬陵问题以及安全问题等话题。",
+        "words": [
+            "news",
+            "headlines",
+            "topics",
+            "rakhi",
+            "making",
+            "issues",
+            "Taj",
+            "city",
+            "security",
+            "concerns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface includes options for language selection and a search function.",
+        "sentence_cn": "该界面包括语言选择选项和搜索功能。",
+        "words": [
+            "interface",
+            "options",
+            "language",
+            "selection",
+            "search",
+            "function"
+        ],
+        "id": null
+    }
+]

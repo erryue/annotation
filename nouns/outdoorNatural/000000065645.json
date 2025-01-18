@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image depicts a serene natural landscape featuring a grassy area with a few sparsely distributed trees.",
+        "sentence_cn": "该图描绘了一片宁静的自然景观，其中有一片草地和几棵稀疏的树木。",
+        "words": [
+            "landscape",
+            "area",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, two giraffes are present, appearing to feed or graze among the trees.",
+        "sentence_cn": "图片中心有两只长颈鹿，似乎在树丛中觅食或吃草。",
+        "words": [
+            "center",
+            "two",
+            "giraffes",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The trees have thin trunks and are covered with lush green leaves.",
+        "sentence_cn": "树干细长，覆盖着茂盛的绿叶。",
+        "words": [
+            "trees",
+            "trunks",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the giraffes, a fence is visible, suggesting an enclosure, possibly in a wildlife park or zoo.",
+        "sentence_cn": "在长颈鹿身后，可以看到一道栅栏，这表明这里是一个围栏，可能是野生动物公园或动物园。",
+        "words": [
+            "giraffes",
+            "fence",
+            "enclosure",
+            "wildlife",
+            "park",
+            "zoo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, indicating a sunny day, and the grass is vibrant, suggesting a well-maintained area.",
+        "sentence_cn": "天空晴朗，表明这是一个阳光明媚的日子，草地生机勃勃，表明这是一个维护良好的区域。",
+        "words": [
+            "sky",
+            "day",
+            "grass",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a peaceful and natural environment.",
+        "sentence_cn": "整体场景传达出一种宁静自然的环境。",
+        "words": [
+            "scene",
+            "environment"
+        ],
+        "id": null
+    }
+]

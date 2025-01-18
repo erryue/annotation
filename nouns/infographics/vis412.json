@@ -1,0 +1,258 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Peer-to-Peer 2011 Fundraising Benchmarks.\"",
+        "sentence_cn": "该图是一张信息图，标题为“2011 年点对点筹款基准”。",
+        "words": [
+            "Peer-to-Peer 2011 Fundraising Benchmarks.",
+            "Peer",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It discusses trends in peer-to-peer fundraising based on data from Blackbaud.",
+        "sentence_cn": "它根据 Blackbaud 的数据讨论了点对点筹款的趋势。",
+        "words": [
+            "trends",
+            "peer",
+            "peer",
+            "fundraising",
+            "data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Sections:",
+        "sentence_cn": "### 主要部分：",
+        "words": [
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Percentage of All Online Donations (2008-2011):",
+        "sentence_cn": "1. 占所有在线捐款的百分比（2008-2011）：",
+        "words": [
+            "Percentage of All Online Donations (2008-2011):",
+            "Percentage",
+            "Donations",
+            "2008",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2008: 0%",
+        "sentence_cn": "- 2008年：0%",
+        "words": [
+            "2008:",
+            "2008",
+            "0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2009: 10%",
+        "sentence_cn": "- 2009年： 10%",
+        "words": [
+            "2009:",
+            "2009",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2010 and 2011: 15%",
+        "sentence_cn": "- 2010 年和 2011 年： 15%",
+        "words": [
+            "2010 and 2011:",
+            "2010",
+            "2011",
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   This section uses icons of people in different colors to represent the percentage increase each year.",
+        "sentence_cn": "此部分使用不同颜色的人物图标来表示每年的百分比增长。",
+        "words": [
+            "section",
+            "icons",
+            "people",
+            "colors",
+            "percentage",
+            "increase",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. 2010 to 2011 Social Giving:",
+        "sentence_cn": "2. 2010 年至 2011 年社会捐赠：",
+        "words": [
+            "2010 to 2011 Social Giving:",
+            "2010",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 27% increase in average gift size.",
+        "sentence_cn": "- 平均礼物价值增加27%。",
+        "words": [
+            "27",
+            "increase",
+            "gift",
+            "size"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 29% increase in total giving.",
+        "sentence_cn": "- 捐赠总额增加29%。",
+        "words": [
+            "29",
+            "increase",
+            "total",
+            "giving"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Branded fundraising and donation pages increased donations by 5 times.",
+        "sentence_cn": "- 品牌筹款和捐赠页面使捐款增加了 5 倍。",
+        "words": [
+            "fundraising",
+            "donation",
+            "pages",
+            "donations",
+            "5",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 1 out of 4 fundraisers return the next year.",
+        "sentence_cn": "- 四分之一的筹款人会在第二年再次回来。",
+        "words": [
+            "1",
+            "4",
+            "fundraisers",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Additional Insight:",
+        "sentence_cn": "3. 附加见解：",
+        "words": [
+            "Additional Insight:",
+            "Insight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Online giving overall grew by 13%.",
+        "sentence_cn": "- 网上捐赠总额增长了 13%。",
+        "words": [
+            "Online",
+            "giving",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. How, What, and Why?",
+        "sentence_cn": "4. 如何、什么、为什么？",
+        "words": [
+            "How, What, and Why?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Online Tools: 50% of participants actively use online tools in fundraising.",
+        "sentence_cn": "- 在线工具：50% 的参与者积极使用在线工具进行筹款。",
+        "words": [
+            "Online Tools:",
+            "Tools",
+            "50",
+            "participants",
+            "tools",
+            "fundraising"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Expectations: 47% of fundraisers reported no one asked them to fundraise, while 17% didn't know they were supposed to.",
+        "sentence_cn": "- 期望：47% 的筹款人表示没有人要求他们筹款，而 17% 的筹款人不知道他们应该这样做。",
+        "words": [
+            "Expectations:",
+            "Expectations",
+            "47",
+            "fundraisers",
+            "17",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Good Cause: 75% of people chose to raise funds because it was for a good cause; only 8% did so for incentives or prizes.",
+        "sentence_cn": "- 好的事业：75% 的人选择筹集资金是因为这是为了一个好的事业；只有 8% 的人这样做是为了奖励或奖品。",
+        "words": [
+            "Good Cause:",
+            "Cause",
+            "75",
+            "people",
+            "funds",
+            "cause",
+            "8",
+            "%",
+            "incentives",
+            "prizes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Sources:",
+        "sentence_cn": "5.来源：",
+        "words": [
+            "Sources:",
+            "Sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Information comes from various sources, such as Network for Good's Digital Giving Index 2011 and Blackbaud reports.",
+        "sentence_cn": "- 信息来自各种来源，例如 Network for Good 的 2011 年数字捐赠指数和 Blackbaud 报告。",
+        "words": [
+            "Information",
+            "sources",
+            "2011",
+            "reports"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design employs pastel colors like blue, yellow, red, and teal, with illustrations and charts set on a cream background.",
+        "sentence_cn": "该设计采用了蓝色、黄色、红色和青色等柔和的色彩，并在奶油色背景上设置了插图和图表。",
+        "words": [
+            "design",
+            "colors",
+            "blue",
+            "yellow",
+            "red",
+            "teal",
+            "illustrations",
+            "charts",
+            "cream",
+            "background"
+        ],
+        "id": null
+    }
+]

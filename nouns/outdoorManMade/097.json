@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image shows a historic building with distinct architectural features, likely a church or cathedral.",
+        "sentence_cn": "图中显示的是一座具有独特建筑特色的历史建筑，可能是一座教堂或大教堂。",
+        "words": [
+            "building",
+            "features",
+            "church",
+            "cathedral"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a striking dome in a weathered stone color, topped with a cross.",
+        "sentence_cn": "它有一个引人注目的圆顶，呈风化的石色，顶部有一个十字架。",
+        "words": [
+            "dome",
+            "stone",
+            "color",
+            "cross"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the dome is a tall, ornate bell tower with a conical spire also adorned with a cross.",
+        "sentence_cn": "圆顶前面是一座高大华丽的钟楼，钟楼的圆锥形尖顶上也装饰着十字架。",
+        "words": [
+            "front",
+            "dome",
+            "bell",
+            "tower",
+            "spire",
+            "cross"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tower has several arched windows or openings.",
+        "sentence_cn": "塔上有几个拱形窗户或开口。",
+        "words": [
+            "tower",
+            "windows",
+            "openings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structure is surrounded by abundant greenery, including trees and bushes.",
+        "sentence_cn": "该建筑周围绿树成荫，有树木和灌木丛。",
+        "words": [
+            "structure",
+            "greenery",
+            "trees",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are faint outlines of mountains under a cloudy sky, adding depth to the photograph.",
+        "sentence_cn": "背景中，云朵天空下隐约可见山脉的轮廓，为照片增添了深度。",
+        "words": [
+            "background",
+            "outlines",
+            "mountains",
+            "sky",
+            "depth",
+            "photograph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance is serene, with the architecture showcasing intricate details typical of historic religious buildings.",
+        "sentence_cn": "整体氛围宁静，建筑展现了历史宗教建筑典型的复杂细节。",
+        "words": [
+            "ambiance",
+            "architecture",
+            "details",
+            "buildings"
+        ],
+        "id": null
+    }
+]

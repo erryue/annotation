@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot from a social media app showcasing various album covers.",
+        "sentence_cn": "该图片似乎是一个社交媒体应用程序的截图，展示了各种专辑封面。",
+        "words": [
+            "media",
+            "app",
+            "album",
+            "covers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are four images of album covers by an artist named Ednita:",
+        "sentence_cn": "这里有四张名为 Ednita 的艺术家的专辑封面图片：",
+        "words": [
+            "four",
+            "images",
+            "album",
+            "covers",
+            "artist"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Left: An album cover featuring a close-up of Ednita, with a blue thumbs-up emoji.",
+        "sentence_cn": "1. 左上：专辑封面上有 Ednita 的特写镜头，以及蓝色的竖起大拇指表情符号。",
+        "words": [
+            "Top Left",
+            "album",
+            "cover",
+            "close",
+            "up",
+            "thumbs",
+            "emoji"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top Right: Another album cover, displaying Ednita bowing on stage, with a heart emoji.",
+        "sentence_cn": "2. 右上：另一张专辑封面，展示了 Ednita 在舞台上鞠躬，并带有心形表情符号。",
+        "words": [
+            "Top Right",
+            "album",
+            "cover",
+            "stage",
+            "heart",
+            "emoji"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Left: A close-up of Ednita¡¯s face with a laughing emoji.",
+        "sentence_cn": "3. 左下：埃德尼塔脸部特写，带有笑脸表情符号。",
+        "words": [
+            "Bottom Left",
+            "close",
+            "up",
+            "face",
+            "emoji"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Right: An album cover with a mysterious, ethereal background and a surprised emoji.",
+        "sentence_cn": "4. 右下：专辑封面有着神秘、空灵的背景和惊讶的表情符号。",
+        "words": [
+            "Bottom Right",
+            "album",
+            "cover",
+            "background",
+            "emoji"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the album covers, there's text that includes hashtags like #ThrowBackThursday, #EdnitaNazario, #Ticketpop, #TBT, #UnaVida, and #PuertoRico, posted two hours ago.",
+        "sentence_cn": "专辑封面下方的文字包括两小时前发布的#ThrowBackThursday、#EdnitaNazario、#Ticketpop、#TBT、#UnaVida 和#PuertoRico 等标签。",
+        "words": [
+            "album",
+            "covers",
+            "text",
+            "hashtags",
+            "#",
+            "#",
+            "EdnitaNazario",
+            "#",
+            "Ticketpop",
+            "#",
+            "TBT",
+            "#",
+            "UnaVida",
+            "PuertoRico",
+            "two",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, part of another image or album cover is visible, with the name \"Pedro Cap¨®\" partially shown.",
+        "sentence_cn": "在底部，可以看到另一张图片或专辑封面的一部分，其中部分显示了“Pedro Cap¨®”这个名称。",
+        "words": [
+            "Pedro Cap¨®",
+            "bottom",
+            "part",
+            "album",
+            "cover",
+            "name"
+        ],
+        "id": null
+    }
+]

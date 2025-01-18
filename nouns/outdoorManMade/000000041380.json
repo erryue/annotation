@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image depicts a waterfront scene with various boats and birds.",
+        "sentence_cn": "该图描绘的是海滨的景色，有各种船只和鸟类。",
+        "words": [
+            "waterfront",
+            "scene",
+            "boats",
+            "birds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's a large boat labeled \"OCEAN STATE\" and the partial name \"AND FAST FERRY.\"",
+        "sentence_cn": "左侧有一艘大船，上面标有“OCEAN STATE”和部分名称“AND FAST FERRY”。",
+        "words": [
+            "OCEAN STATE",
+            "AND FAST FERRY.",
+            "boat",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This vessel is in the water alongside a marina area.",
+        "sentence_cn": "这艘船位于码头区附近的水中。",
+        "words": [
+            "vessel",
+            "water",
+            "marina",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a group of birds is perched on a dock that has several small boats moored to it.",
+        "sentence_cn": "右边，一群鸟栖息在停泊着几艘小船的码头上。",
+        "words": [
+            "right",
+            "group",
+            "birds",
+            "dock",
+            "boats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The birds appear to be cormorants, some with wings spread, possibly drying them.",
+        "sentence_cn": "这些鸟看起来像是鸬鹚，有些张开翅膀，可能在晒干翅膀。",
+        "words": [
+            "birds",
+            "cormorants",
+            "wings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One bird is swimming in the water nearby.",
+        "sentence_cn": "一只鸟正在附近的水中游泳。",
+        "words": [
+            "One",
+            "bird",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, numerous sailboats and other types of boats are anchored, with masts visible above.",
+        "sentence_cn": "背景中，无数帆船和其他类型的船只停泊在那里，上面清晰可见桅杆。",
+        "words": [
+            "background",
+            "sailboats",
+            "types",
+            "boats",
+            "masts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is calm, with the water reflecting parts of the boats and the dock.",
+        "sentence_cn": "场景很平静，水面上倒映着船只和码头的部分。",
+        "words": [
+            "scene",
+            "water",
+            "parts",
+            "boats",
+            "dock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Vegetation and trees line the distant shore, indicating a serene and somewhat overcast day.",
+        "sentence_cn": "远处的海岸边长满了植被和树木，预示着天气宁静而略显阴沉。",
+        "words": [
+            "Vegetation",
+            "trees",
+            "shore",
+            "day"
+        ],
+        "id": null
+    }
+]

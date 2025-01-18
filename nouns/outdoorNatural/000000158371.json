@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image depicts a group of zebras grazing in a grassland area.",
+        "sentence_cn": "图像描绘的是一群斑马在草原上吃草。",
+        "words": [
+            "group",
+            "zebras",
+            "grassland",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are five zebras in total, and they are dispersed across the dry, brownish grass.",
+        "sentence_cn": "总共有五只斑马，它们分散在干燥的褐色草丛中。",
+        "words": [
+            "five",
+            "zebras",
+            "total",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is filled with sparse trees and bushes, indicating a savannah-like environment.",
+        "sentence_cn": "背景中布满了稀疏的树木和灌木丛，表明环境类似于大草原。",
+        "words": [
+            "background",
+            "trees",
+            "bushes",
+            "savannah",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The trees have some green foliage and appear scattered across the landscape.",
+        "sentence_cn": "这些树上有一些绿叶，散布在整个景观中。",
+        "words": [
+            "trees",
+            "foliage",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above the scene is not visible, but the lighting suggests a clear, sunny day.",
+        "sentence_cn": "场景上方的天空不可见，但灯光表明天气晴朗。",
+        "words": [
+            "sky",
+            "scene",
+            "lighting",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are displaying their characteristic black and white striped patterns, and they appear to be peacefully feeding.",
+        "sentence_cn": "斑马展现出它们特有的黑白条纹图案，而且它们似乎正在安静地进食。",
+        "words": [
+            "zebras",
+            "patterns"
+        ],
+        "id": null
+    }
+]

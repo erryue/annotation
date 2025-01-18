@@ -1,0 +1,146 @@
+[
+    {
+        "sentence": "The image depicts a hospital room with a single bed that has white sheets.",
+        "sentence_cn": "图中显示的是一间病房，里面有一张铺着白色床单的单人床。",
+        "words": [
+            "hospital",
+            "room",
+            "bed",
+            "sheets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a light-colored wooden floor and cream-colored walls.",
+        "sentence_cn": "房间设有浅色木地板和奶油色墙壁。",
+        "words": [
+            "room",
+            "floor",
+            "cream",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a bed with white linen.",
+        "sentence_cn": "前景中有一张铺着白色亚麻布的床。",
+        "words": [
+            "foreground",
+            "bed",
+            "linen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a small sink area with a faucet, paper towel holder, and a small bouquet of flowers.",
+        "sentence_cn": "左边有一个小水槽区，里面有水龙头、纸巾架和一小束鲜花。",
+        "words": [
+            "left",
+            "sink",
+            "area",
+            "faucet",
+            "paper",
+            "towel",
+            "holder",
+            "bouquet",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A waste bin is located beneath the sink.",
+        "sentence_cn": "水槽下方有一个垃圾箱。",
+        "words": [
+            "waste",
+            "bin",
+            "sink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the sink are some medical charts or information boards on the wall.",
+        "sentence_cn": "水槽旁边的墙上贴着一些病历或信息板。",
+        "words": [
+            "sink",
+            "charts",
+            "information",
+            "boards",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, a television is mounted toward the ceiling, with a remote control and a few items on a small shelf beneath.",
+        "sentence_cn": "角落里，一台电视机朝天花板安装，下面的小架子上放着一个遥控器和一些物品。",
+        "words": [
+            "corner",
+            "television",
+            "ceiling",
+            "control",
+            "items",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wall clock is positioned below the television.",
+        "sentence_cn": "挂钟位于电视机下方。",
+        "words": [
+            "wall",
+            "clock",
+            "television"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the image, there is a small round table with four wooden chairs with red cushioning.",
+        "sentence_cn": "图片右侧有一张小圆桌，桌上摆放着四把带红色坐垫的木椅。",
+        "words": [
+            "right",
+            "table",
+            "four",
+            "chairs",
+            "cushioning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the window sill, a few bags and items are placed.",
+        "sentence_cn": "窗台上，摆放着一些袋子和物品。",
+        "words": [
+            "window",
+            "sill",
+            "bags",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The windows have blinds that are partially closed.",
+        "sentence_cn": "窗户配有百叶窗，但部分关闭。",
+        "words": [
+            "windows",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A rolling suitcase is partially visible beside the table.",
+        "sentence_cn": "桌子旁边有一个滚动的手提箱，可以部分看见。",
+        "words": [
+            "suitcase",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is clean and functional, typical of a hospital or medical facility.",
+        "sentence_cn": "整体氛围整洁、实用，具有医院或医疗机构的典型风格。",
+        "words": [
+            "atmosphere",
+            "hospital",
+            "facility"
+        ],
+        "id": null
+    }
+]

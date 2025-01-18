@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image shows five people sitting around a circular metal table, enjoying each other's company in a bright indoor setting, possibly a caf¨¦.",
+        "sentence_cn": "照片中，五个人围坐在一张圆形金属桌旁，在明亮的室内环境中（可能是咖啡馆）享受着彼此的陪伴。",
+        "words": [
+            "five",
+            "people",
+            "metal",
+            "table",
+            "company",
+            "caf¨"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The group appears to be engaged in a lively conversation, all smiling and holding disposable cups, suggesting they might be having coffee or a similar drink.",
+        "sentence_cn": "- 这群人似乎正在进行热烈的交谈，全都面带微笑，手里拿着一次性杯子，似乎他们正在喝咖啡或类似的饮料。",
+        "words": [
+            "group",
+            "conversation",
+            "cups",
+            "coffee",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The background includes some large green indoor plants, and blurry interior elements, contributing to a pleasant atmosphere.",
+        "sentence_cn": "- 背景包括一些大型绿色室内植物和模糊的室内元素，营造出愉快的氛围。",
+        "words": [
+            "background",
+            "plants",
+            "elements",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The individuals are dressed casually, indicating a relaxed social gathering.",
+        "sentence_cn": "- 大家衣着随意，体现出轻松的社交聚会。",
+        "words": [
+            "individuals",
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood of the image is friendly and cheerful, conveying camaraderie and enjoyment.",
+        "sentence_cn": "图像的整体氛围友好而愉快，传达出友情和快乐。",
+        "words": [
+            "mood",
+            "camaraderie",
+            "enjoyment"
+        ],
+        "id": null
+    }
+]

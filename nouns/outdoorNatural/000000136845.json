@@ -1,0 +1,55 @@
+[
+    {
+        "sentence": "The image depicts three brown bears walking along a grassy hillside.",
+        "sentence_cn": "图片描绘的是三只棕熊沿着长满青草的山坡行走。",
+        "words": [
+            "three",
+            "bears",
+            "hillside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is uneven with patches of green grass interspersed with some areas of dirt.",
+        "sentence_cn": "地面凹凸不平，几片绿草与一些泥土区域交错。",
+        "words": [
+            "ground",
+            "patches",
+            "grass",
+            "areas",
+            "dirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bears are scattered, with one towards the left side and two more towards the center and right.",
+        "sentence_cn": "这些熊分散开来，一只在左边，另外两只在中间和右边。",
+        "words": [
+            "bears",
+            "one",
+            "two",
+            "center",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests it might be early or late in the day, casting long shadows on the ground.",
+        "sentence_cn": "从灯光来看，时间可能是白天的早些时候或晚些时候，在地面上投下长长的阴影。",
+        "words": [
+            "lighting",
+            "day",
+            "shadows",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be natural and undisturbed, likely in the wild.",
+        "sentence_cn": "该环境看起来很自然，未受干扰，就像在野外一样。",
+        "words": [
+            "wild"
+        ],
+        "id": null
+    }
+]

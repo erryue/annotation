@@ -1,0 +1,137 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Star Trek III: The Search for Spock.\"",
+        "sentence_cn": "图片是《星际迷航 III：寻找斯波克》的电影海报。",
+        "words": [
+            "Star Trek III: The Search for Spock.",
+            "movie",
+            "poster",
+            "III"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, in bold white letters, is the tagline: \"A DYING PLANET.",
+        "sentence_cn": "顶部用粗体白色字母写着标语：“一个垂死的星球。",
+        "words": [
+            "top",
+            "letters",
+            "tagline",
+            "PLANET"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A FIGHT FOR LIFE.",
+        "sentence_cn": "为生命而战。",
+        "words": [
+            "FIGHT",
+            "LIFE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "THE SEARCH FOR SPOCK.\"",
+        "sentence_cn": "寻找斯波克。”",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Below the tagline, there's a dramatic cosmic scene featuring a large, ghostly image of a character's face with pointed ears, likely Spock, rendered in blue.",
+        "sentence_cn": "标语下方是一幅戏剧性的宇宙场景，其中有一张巨大的、幽灵般的人物脸，长着尖耳朵，很可能是斯波克 (Spock)，以蓝色呈现。",
+        "words": [
+            "tagline",
+            "scene",
+            "character",
+            "face",
+            "ears",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, the Starship Enterprise is depicted, emitting beams of light as if traveling at warp speed.",
+        "sentence_cn": "左侧描绘的是企业号星舰，它发出的光束仿佛以曲速行驶。",
+        "words": [
+            "left",
+            "beams",
+            "light",
+            "warp",
+            "speed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, another smaller spacecraft is also present, possibly in pursuit or conflict.",
+        "sentence_cn": "右侧还有另一艘较小的航天器，可能正在追击或发生冲突。",
+        "words": [
+            "right",
+            "spacecraft",
+            "pursuit",
+            "conflict"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backdrop is filled with stars and space-themed visuals, evoking a sense of mystery and adventure.",
+        "sentence_cn": "背景充满星星和太空主题的视觉效果，唤起一种神秘和冒险的感觉。",
+        "words": [
+            "backdrop",
+            "stars",
+            "space",
+            "visuals",
+            "sense",
+            "mystery",
+            "adventure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, a group of characters, including one prominently in red, are shown in a more realistic style, suggesting they are key figures in the film.",
+        "sentence_cn": "底部的一组角色（其中一个身穿红色衣服）以更加逼真的风格显示，暗示他们是电影中的关键人物。",
+        "words": [
+            "bottom",
+            "group",
+            "characters",
+            "one",
+            "red",
+            "style",
+            "figures",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film's title, \"STAR TREK III THE SEARCH FOR SPOCK,\" is prominently displayed, along with credits for the film's production team, including director Leonard Nimoy and other cast members.",
+        "sentence_cn": "影片的片名“星际迷航 3：寻找斯波克”被放在显眼的位置，同时还显示了包括导演伦纳德·尼莫伊和其他演员在内的影片制作团队的名单。",
+        "words": [
+            "STAR TREK III THE SEARCH FOR SPOCK,",
+            "film",
+            "title",
+            "III",
+            "credits",
+            "film",
+            "production",
+            "team",
+            "director",
+            "cast",
+            "members"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the poster conveys a sense of urgency and exploration, consistent with the film's science fiction and adventurous themes.",
+        "sentence_cn": "整体而言，海报传递出一种紧迫感和探索感，与影片的科幻、冒险主题相一致。",
+        "words": [
+            "poster",
+            "sense",
+            "urgency",
+            "exploration",
+            "film",
+            "science",
+            "fiction",
+            "themes"
+        ],
+        "id": null
+    }
+]

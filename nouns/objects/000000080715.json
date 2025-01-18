@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image shows a wooden table in a casual dining setting.",
+        "sentence_cn": "图中显示的是休闲餐厅里的一张木桌。",
+        "words": [
+            "table",
+            "dining"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there is a tray holding a sandwich and a side of potato salad.",
+        "sentence_cn": "桌子上有一个托盘，上面放着一份三明治和一份土豆沙拉。",
+        "words": [
+            "table",
+            "tray",
+            "sandwich",
+            "potato",
+            "salad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sandwich is on a white paper liner and appears to be made with a baguette-style bread, filled with lettuce, tomato, cheese, and deli meats.",
+        "sentence_cn": "三明治放在白色的纸衬里，看起来像是用法式长棍面包做成的，里面填满了生菜、西红柿、奶酪和熟食肉。",
+        "words": [
+            "sandwich",
+            "paper",
+            "liner",
+            "baguette",
+            "style",
+            "bread",
+            "lettuce",
+            "tomato",
+            "cheese",
+            "deli",
+            "meats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The potato salad is creamy, with visible chunks of potatoes, possibly mixed with mayonnaise or a similar dressing.",
+        "sentence_cn": "土豆沙拉呈奶油状，有明显的土豆块，可能混合了蛋黄酱或类似的调料。",
+        "words": [
+            "potato",
+            "salad",
+            "chunks",
+            "potatoes",
+            "mayonnaise",
+            "dressing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the sandwich, there is a bottle of orange juice with a colorful label.",
+        "sentence_cn": "三明治的右边，有一瓶贴有彩色标签的橙汁。",
+        "words": [
+            "right",
+            "sandwich",
+            "bottle",
+            "orange",
+            "juice",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the tray, there is a holder containing salt and pepper shakers, as well as a menu or card holder displaying some printed materials.",
+        "sentence_cn": "托盘后面有一个支架，上面放着盐瓶和胡椒瓶，还有一个菜单或卡片支架，上面展示着一些印刷材料。",
+        "words": [
+            "tray",
+            "holder",
+            "salt",
+            "pepper",
+            "shakers",
+            "menu",
+            "card",
+            "holder",
+            "materials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surroundings suggest a relaxed, casual environment, likely a caf¨¦ or sandwich shop.",
+        "sentence_cn": "周围环境给人一种轻松、休闲的感觉，像是咖啡馆或三明治店。",
+        "words": [
+            "surroundings",
+            "environment",
+            "sandwich",
+            "shop"
+        ],
+        "id": null
+    }
+]

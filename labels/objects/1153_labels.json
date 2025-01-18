@@ -1,0 +1,68 @@
+[
+    {
+        "id": "e3435349-3a42-4554-a812-f2281e51b490",
+        "confidence": 0.91701,
+        "class": "laptop",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.0,
+                        "minY": 103.56598,
+                        "maxX": 343.49295,
+                        "maxY": 448.54416
+                    },
+                    "x": 0.0,
+                    "y": 103.56598,
+                    "w": 343.49295,
+                    "h": 344.97817999999995
+                }
+            }
+        }
+    },
+    {
+        "id": "42971fd0-fb94-415a-a0fa-3e6cc84a8058",
+        "confidence": 0.91513,
+        "class": "mouse",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 297.81934,
+                        "minY": 290.50403,
+                        "maxX": 376.28616,
+                        "maxY": 342.81689
+                    },
+                    "x": 297.81934,
+                    "y": 290.50403,
+                    "w": 78.46681999999998,
+                    "h": 52.31286
+                }
+            }
+        }
+    },
+    {
+        "id": "bbcaaa1d-fcbb-4123-86b6-063b462b4084",
+        "confidence": 0.84536,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 499.16962,
+                        "minY": 308.38858,
+                        "maxX": 691.94244,
+                        "maxY": 469.35791
+                    },
+                    "x": 499.16962,
+                    "y": 308.38858,
+                    "w": 192.77282000000002,
+                    "h": 160.96933
+                }
+            }
+        }
+    }
+]

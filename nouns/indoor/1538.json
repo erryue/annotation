@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a modern, minimalist living room.",
+        "sentence_cn": "图片描绘的是现代简约的客厅。",
+        "words": [
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space features two white sofas adorned with a mix of black, white, and red cushions that have polka dot designs.",
+        "sentence_cn": "该空间设有两张白色沙发，上面装饰有黑色、白色和红色圆点图案的靠垫。",
+        "words": [
+            "space",
+            "two",
+            "sofas",
+            "mix",
+            "cushions",
+            "polka",
+            "dot",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large, round glass coffee table sits centrally on a light-colored wooden floor.",
+        "sentence_cn": "浅色木地板的中央摆放着一张大型圆形玻璃咖啡桌。",
+        "words": [
+            "glass",
+            "coffee",
+            "table",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is well-lit, thanks to a large floor-to-ceiling window that offers a view of lush greenery outside, suggesting the room is on an upper level or surrounded by trees.",
+        "sentence_cn": "房间光线充足，得益于一扇落地大窗，可以看到外面郁郁葱葱的绿色植物，这意味着房间位于楼上或被树木环绕。",
+        "words": [
+            "room",
+            "thanks",
+            "floor",
+            "ceiling",
+            "window",
+            "view",
+            "greenery",
+            "room",
+            "level",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On one wall, a black-and-white photo of a woman is displayed.",
+        "sentence_cn": "一面墙上挂着一张女人的黑白照片。",
+        "words": [
+            "one",
+            "wall",
+            "photo",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black side table with a tall candle stands next to one of the sofas.",
+        "sentence_cn": "一张黑色的边桌摆放在一张沙发的旁边，桌上放着一支高高的蜡烛。",
+        "words": [
+            "table",
+            "candle",
+            "one",
+            "sofas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is contemporary and bright, with a harmonious blend of colors and a focus on simplicity and natural light.",
+        "sentence_cn": "整体氛围现代而明亮，色彩融合和谐，注重简约和自然光。",
+        "words": [
+            "atmosphere",
+            "blend",
+            "colors",
+            "focus",
+            "simplicity",
+            "light"
+        ],
+        "id": null
+    }
+]

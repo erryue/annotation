@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "The image is a cartoon depicting a man on stage with a conductor's baton facing a crowd.",
+        "sentence_cn": "该图为一幅漫画，描绘的是一名男子站在舞台上，手持指挥棒，面对着人群。",
+        "words": [
+            "cartoon",
+            "man",
+            "stage",
+            "conductor",
+            "baton",
+            "crowd"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The stage has a red curtain as the backdrop.",
+        "sentence_cn": "舞台有一块红色的幕布作为背景。",
+        "words": [
+            "stage",
+            "curtain",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above him is the text: \"It's Easy, and FREE! DON'T GIVE TO PSEA-PACE,\" which appears to be a message discouraging contributions to a specific organization.",
+        "sentence_cn": "他上方写着：“这很简单，而且免费！不要给 PSEA-PACE 捐款”，这似乎是一条不鼓励向特定组织捐款的信息。",
+        "words": [
+            "It's Easy, and FREE! DON'T GIVE TO PSEA-PACE,",
+            "text",
+            "PACE",
+            "message",
+            "contributions",
+            "organization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The audience is holding various signs with messages that suggest negative education policies or attitudes, including:",
+        "sentence_cn": "观众们举着各种标语，上面写着暗示消极教育政策或态度的信息，其中包括：",
+        "words": [
+            "audience",
+            "signs",
+            "messages",
+            "education",
+            "policies",
+            "attitudes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"I DON'T VOTE\"",
+        "sentence_cn": "- “我不投票”",
+        "words": [
+            "I DON'T VOTE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"SAY NO TO PRO-PUBLIC EDUCATION CANDIDATES\"",
+        "sentence_cn": "- “对支持公立教育的候选人说不”",
+        "words": [
+            "SAY NO TO PRO-PUBLIC EDUCATION CANDIDATES",
+            "EDUCATION",
+            "CANDIDATES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"MORE STANDARDIZED TESTS!\"",
+        "sentence_cn": "- “更多标准化测试！”",
+        "words": [
+            "MORE STANDARDIZED TESTS!",
+            "TESTS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"I DON'T GIVE TO PACE\"",
+        "sentence_cn": "- “我不屈服于步伐”",
+        "words": [
+            "I DON'T GIVE TO PACE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"LARGER CLASS SIZES\"",
+        "sentence_cn": "- “班级规模更大”",
+        "words": [
+            "LARGER CLASS SIZES",
+            "LARGER",
+            "CLASS",
+            "SIZES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"I DON'T NEED MY PENSION\"",
+        "sentence_cn": "- “我不需要养老金”",
+        "words": [
+            "I DON'T NEED MY PENSION",
+            "PENSION"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"OUTSOURCE EVERYTHING!\"",
+        "sentence_cn": "- “外包一切！”",
+        "words": [
+            "OUTSOURCE EVERYTHING!"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"I'M A FAN OF CORPORATE TAX BREAKS\"",
+        "sentence_cn": "- “我支持企业减税”",
+        "words": [
+            "I'M A FAN OF CORPORATE TAX BREAKS",
+            "FAN",
+            "TAX",
+            "BREAKS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"I LIKE SCHOOL FUNDING CUTS\"",
+        "sentence_cn": "- “我喜欢削减学校经费”",
+        "words": [
+            "I LIKE SCHOOL FUNDING CUTS",
+            "SCHOOL",
+            "CUTS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"WHO NEEDS FULL-DAY KINDERGARTEN?\"",
+        "sentence_cn": "- “谁需要全日制幼儿园？”",
+        "words": [
+            "WHO NEEDS FULL-DAY KINDERGARTEN?",
+            "DAY",
+            "KINDERGARTEN"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cartoon appears to be a satirical commentary on education funding and policy issues, with the conductor-like figure leading the crowd in these views.",
+        "sentence_cn": "这幅漫画似乎是对教育经费和政策问题的讽刺，其中的指挥家般的人物引导着人群发表这些观点。",
+        "words": [
+            "cartoon",
+            "commentary",
+            "education",
+            "funding",
+            "policy",
+            "issues",
+            "conductor",
+            "figure",
+            "crowd",
+            "views"
+        ],
+        "id": null
+    }
+]

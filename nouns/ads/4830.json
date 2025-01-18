@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image shows a large outdoor advertisement banner attached to a building.",
+        "sentence_cn": "图像显示了附在建筑物上的大型户外广告横幅。",
+        "words": [
+            "banner",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad is for Banana Republic¡¯s ¡°Mad Men¡± collection.",
+        "sentence_cn": "该广告是 Banana Republic 的“广告狂人”系列的广告。",
+        "words": [
+            "ad",
+            "collection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a woman wearing a stylish, elegant red dress with a floral pattern.",
+        "sentence_cn": "这幅画的主角是一名身穿时尚优雅的带有花卉图案的红色连衣裙的女子。",
+        "words": [
+            "woman",
+            "dress",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her hair is dark and wavy, styled in a classic, retro look.",
+        "sentence_cn": "她的头发又黑又卷，造型经典而复古。",
+        "words": [
+            "hair",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is wearing gold earrings and a bracelet, enhancing the sophisticated style associated with the \"Mad Men\" era.",
+        "sentence_cn": "她戴着金耳环和手镯，彰显了“广告狂人”时代的精致风格。",
+        "words": [
+            "Mad Men",
+            "earrings",
+            "bracelet",
+            "style",
+            "era"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind her is a patterned backdrop, and below the image, the text reads: \"The Limited Edition BANANA REPUBLIC MAD MEN COLLECTION IN STORES MARCH 1.\"",
+        "sentence_cn": "在她身后是一个有图案的背景，图像下方写着一行字：“香蕉共和国广告狂人限量版系列将于 3 月 1 日在各大商店上市。”",
+        "words": [
+            "The Limited Edition BANANA REPUBLIC MAD MEN COLLECTION IN STORES MARCH 1.",
+            "backdrop",
+            "text",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background consists of a modern, multi-story building with large windows and various architectural elements.",
+        "sentence_cn": "背景是一栋现代化的多层建筑，有大窗户和各种建筑元素。",
+        "words": [
+            "background",
+            "building",
+            "windows",
+            "elements"
+        ],
+        "id": null
+    }
+]

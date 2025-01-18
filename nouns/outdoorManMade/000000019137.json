@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image depicts two airplanes near an airport runway.",
+        "sentence_cn": "图像显示，机场跑道附近有两架飞机。",
+        "words": [
+            "two",
+            "airplanes",
+            "airport",
+            "runway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a plane with the \"ANA\" logo on its tail, positioned on the runway as if preparing for takeoff or having just landed.",
+        "sentence_cn": "前景中，有一架飞机，尾部印有“ANA”标志，停在跑道上，仿佛准备起飞或刚刚降落。",
+        "words": [
+            "ANA",
+            "foreground",
+            "plane",
+            "logo",
+            "tail",
+            "runway",
+            "takeoff"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, another aircraft, marked with \"American Airlines\" and displaying the \"AA\" logo on its tail, is in flight, appearing to be in the process of landing.",
+        "sentence_cn": "背景中，另一架飞机正在飞行，机尾印有“美国航空”和“AA”标识，似乎正在降落。",
+        "words": [
+            "American Airlines",
+            "AA",
+            "background",
+            "aircraft",
+            "logo",
+            "tail",
+            "flight",
+            "process",
+            "landing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scenery includes a body of water in the foreground and hilly, mountainous terrain in the distance under a clear blue sky.",
+        "sentence_cn": "风景包括前景中的一片水域和远处蓝天下的丘陵山地地形。",
+        "words": [
+            "scenery",
+            "body",
+            "water",
+            "foreground",
+            "terrain",
+            "distance",
+            "sky"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image is an advertisement for Heineken.",
+        "sentence_cn": "该图片是喜力啤酒的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features a green background with water droplets, giving a refreshing and cool vibe.",
+        "sentence_cn": "它以绿色背景和水滴为特色，给人一种清新凉爽的感觉。",
+        "words": [
+            "background",
+            "water",
+            "droplets",
+            "vibe",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a rectangular block of ice cubes arranged to look like a shoe print or footprint.",
+        "sentence_cn": "中心有一块矩形冰块，排列成鞋印或脚印的样子。",
+        "words": [
+            "center",
+            "block",
+            "ice",
+            "cubes",
+            "shoe",
+            "print",
+            "footprint",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some of the ice cubes are filled with a yellow liquid, resembling beer, and there is a small Heineken logo on one of the cubes.",
+        "sentence_cn": "一些冰块中装有类似啤酒的黄色液体，其中一块冰块上印有小小的喜力标志。",
+        "words": [
+            "ice",
+            "cubes",
+            "liquid",
+            "beer",
+            "logo",
+            "one",
+            "cubes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Toothpicks are inserted into the cubes, adding a unique touch.",
+        "sentence_cn": "将牙签插入冰块中，增添独特的感觉。",
+        "words": [
+            "Toothpicks",
+            "cubes",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text \"Heineken\" is in the upper left corner in yellow.",
+        "sentence_cn": "左上角有黄色的“Heineken”文字。",
+        "words": [
+            "Heineken",
+            "text",
+            "corner",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, the phrase \"l'esprit bi¨¨re par\" is visible.",
+        "sentence_cn": "在左侧，可以看到短语“l'esprit bi¨¨re par”。",
+        "words": [
+            "l'esprit bi¨¨re par",
+            "phrase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a cautionary message about alcohol consumption, emphasizing moderation.",
+        "sentence_cn": "底部有一条关于饮酒的警告信息，强调适度饮酒。",
+        "words": [
+            "bottom",
+            "message",
+            "alcohol",
+            "consumption",
+            "moderation"
+        ],
+        "id": null
+    }
+]

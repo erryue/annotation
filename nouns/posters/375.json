@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Showgirls,\" directed by Paul Verhoeven.",
+        "sentence_cn": "该图是保罗·范霍文 (Paul Verhoeven) 执导的电影《艳舞女郎》的电影海报。",
+        "words": [
+            "Showgirls,",
+            "movie",
+            "poster",
+            "film",
+            "Showgirls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is black, with the title \"SHOW GIRLS\" in large, stylized white and pink letters at the center.",
+        "sentence_cn": "背景为黑色，中间用大号、风格化的白色和粉红色字母写着标题“SHOW GIRLS”。",
+        "words": [
+            "SHOW GIRLS",
+            "background",
+            "title",
+            "letters",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text is creatively integrated with an image of a woman's legs and torso, leaving the impression of a figure with her body positioned diagonally across the poster.",
+        "sentence_cn": "文字与女性腿部和躯干的图像创造性地融合在一起，给人一种身体斜跨海报的印象。",
+        "words": [
+            "text",
+            "woman",
+            "legs",
+            "torso",
+            "impression",
+            "figure",
+            "body",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman¡¯s body appears nude but is strategically obscured to maintain modesty, with her legs and arms creating an abstract, elongated silhouette.",
+        "sentence_cn": "女人的身体看似裸体，但为了保持端庄，她巧妙地隐藏了身体，而她的腿和手臂则形成了一个抽象的、细长的轮廓。",
+        "words": [
+            "woman¡¯s",
+            "body",
+            "modesty",
+            "legs",
+            "arms",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her head is featured at the top, with curly hair and a neutral expression.",
+        "sentence_cn": "她的头部位于顶部，有着卷曲的头发和自然的表情。",
+        "words": [
+            "head",
+            "top",
+            "hair",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster gives a sensual yet artistic feel, with the taglines \"Leave your inhibitions at the door...\" on the left and \"The show is about to begin\" on the right side.",
+        "sentence_cn": "海报给人一种感性而又艺术的感觉，左侧写着“抛开顾虑...”，右侧写着“演出即将开始”。",
+        "words": [
+            "Leave your inhibitions at the door...",
+            "The show is about to begin",
+            "poster",
+            "feel",
+            "taglines",
+            "inhibitions",
+            "door",
+            "left",
+            "show"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a credit block listing cast and crew members in smaller letters, typical of movie posters, with additional production and distribution logos.",
+        "sentence_cn": "在底部，有一个较小的字母列明了演员和剧组成员，这是电影海报的典型特征，另外还有制作和发行徽标。",
+        "words": [
+            "bottom",
+            "credit",
+            "block",
+            "cast",
+            "crew",
+            "members",
+            "letters",
+            "movie",
+            "posters",
+            "production",
+            "distribution",
+            "logos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film has an NC-17 rating on the bottom left corner.",
+        "sentence_cn": "这部电影的左下角标有 NC-17 评级。",
+        "words": [
+            "film",
+            "rating",
+            "corner"
+        ],
+        "id": null
+    }
+]

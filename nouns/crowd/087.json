@@ -1,0 +1,67 @@
+[
+    {
+        "sentence": "The image shows a group of four people sitting around a table, enjoying a meal together.",
+        "sentence_cn": "图中四个人围坐在桌旁，一起享用美食。",
+        "words": [
+            "group",
+            "four",
+            "people",
+            "table",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are engaged in conversation and appear to be having a good time.",
+        "sentence_cn": "他们正在交谈，看上去玩得很开心。",
+        "words": [
+            "conversation",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table is set with plates of food, including what looks like pizza on a pan.",
+        "sentence_cn": "桌子上摆满了食物，其中包括平底锅里看起来像披萨的东西。",
+        "words": [
+            "table",
+            "plates",
+            "food",
+            "pizza",
+            "pan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people are holding drinks with straws and cutlery.",
+        "sentence_cn": "人们手里拿着插着吸管的饮料，还有餐具。",
+        "words": [
+            "people",
+            "drinks",
+            "straws",
+            "cutlery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems lively and friendly, suggesting they might be at a cafe or casual dining restaurant.",
+        "sentence_cn": "气氛似乎很活跃和友好，表明他们可能在咖啡馆或休闲餐厅。",
+        "words": [
+            "atmosphere",
+            "cafe",
+            "dining",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is slightly blurred, focusing on the people in the forefront.",
+        "sentence_cn": "背景略微模糊，焦点集中在最前方的人物上。",
+        "words": [
+            "background",
+            "people",
+            "forefront"
+        ],
+        "id": null
+    }
+]

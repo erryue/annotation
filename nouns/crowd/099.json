@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image shows three men engaged in conversation in a room with ornate wallpaper.",
+        "sentence_cn": "图像显示三个男子在一间贴有华丽墙纸的房间里交谈。",
+        "words": [
+            "three",
+            "men",
+            "conversation",
+            "room",
+            "wallpaper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The man on the left is wearing a light-colored suit jacket over a yellow shirt and glasses.",
+        "sentence_cn": "- 左边的男子身穿浅色西装外套，里面是黄色衬衫，戴着眼镜。",
+        "words": [
+            "man",
+            "left",
+            "suit",
+            "jacket",
+            "shirt",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has a glass in one hand and a name tag around his neck.",
+        "sentence_cn": "他一手拿着酒杯，脖子上挂着名牌。",
+        "words": [
+            "glass",
+            "one",
+            "hand",
+            "name",
+            "tag",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The man in the center, with a goatee, is wearing a black turtleneck and gesturing with his hands as if explaining something.",
+        "sentence_cn": "- 中间的男子留着山羊胡，身穿黑色高领毛衣，用双手做着手势，好像在解释什么。",
+        "words": [
+            "man",
+            "center",
+            "goatee",
+            "turtleneck",
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The man on the right is wearing a gray suit with a light blue shirt, slightly turned towards the center.",
+        "sentence_cn": "- 右边的男人穿着灰色西装，里面衬着浅蓝色衬衫，稍微偏向中心。",
+        "words": [
+            "man",
+            "right",
+            "suit",
+            "shirt",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room appears elegantly furnished, with a large framed mirror on the wall and a table lamp with a white shade.",
+        "sentence_cn": "房间布置得十分典雅，墙上挂着一面大镜框镜子，还有一盏带白色灯罩的台灯。",
+        "words": [
+            "room",
+            "mirror",
+            "wall",
+            "table",
+            "lamp",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A part of a chandelier is visible above, and there is a sign with the word \"Boardroom\" on the wall behind them.",
+        "sentence_cn": "上方可见一盏枝形吊灯的一部分，其后的墙上挂着一块写有“董事会会议室”字样的标志。",
+        "words": [
+            "Boardroom",
+            "part",
+            "chandelier",
+            "sign",
+            "word",
+            "Boardroom",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere suggests a formal or professional setting.",
+        "sentence_cn": "其氛围表明这是一种正式或专业的环境。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

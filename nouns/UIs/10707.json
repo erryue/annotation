@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "The image is a Father¡¯s Day greeting card.",
+        "sentence_cn": "图为一张父亲节贺卡。",
+        "words": [
+            "greeting",
+            "card"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows a silhouette of a father holding hands with two children, walking along a beach at sunset.",
+        "sentence_cn": "图片上是一位父亲和两个孩子手牵手在日落时分沿着海滩散步的侧影。",
+        "words": [
+            "silhouette",
+            "father",
+            "hands",
+            "two",
+            "children",
+            "beach",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The warm glow of the setting sun highlights their outlines against the ocean.",
+        "sentence_cn": "落日的温暖光芒凸显了它们在海洋中的轮廓。",
+        "words": [
+            "glow",
+            "sun",
+            "outlines",
+            "ocean"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the image reads:",
+        "sentence_cn": "图片上的文字如下：",
+        "words": [
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Your guiding hand on my shoulder will remain with me forever.",
+        "sentence_cn": "“你放在我肩上的引导之手将永远陪伴着我。",
+        "words": [
+            "hand",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Thanks for always being there, Dear Dad.",
+        "sentence_cn": "亲爱的爸爸，谢谢您一直陪伴在我身边。",
+        "words": [
+            "Thanks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Happy Father's Day!\"",
+        "sentence_cn": "父亲节快乐！”",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The serene beach setting and heartfelt message create a warm, loving tribute to fathers.",
+        "sentence_cn": "宁静的海滩环境和真挚的讯息向父亲们表达了温暖而充满爱意的敬意。",
+        "words": [
+            "beach",
+            "message",
+            "tribute",
+            "fathers"
+        ],
+        "id": null
+    }
+]

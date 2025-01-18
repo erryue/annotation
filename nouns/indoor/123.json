@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": "The image depicts a stylishly decorated interior of a living room.",
+        "sentence_cn": "图像描绘的是装饰时尚的客厅内部。",
+        "words": [
+            "interior",
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design appears to be influenced by an organic architectural style.",
+        "sentence_cn": "该设计似乎受到有机建筑风格的影响。",
+        "words": [
+            "design",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features:",
+        "sentence_cn": "房间特色：",
+        "words": [
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Flooring: Rich, polished wooden flooring adds warmth to the space.",
+        "sentence_cn": "1. 地板：丰富的抛光木地板为空间增添了温暖。",
+        "words": [
+            "Flooring",
+            "Flooring",
+            "flooring",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Seating Area: A comfortable sofa is visible in the foreground with light upholstery.",
+        "sentence_cn": "2. 座位区：前景中可见一张带有浅色装饰的舒适沙发。",
+        "words": [
+            "Seating Area",
+            "Seating",
+            "Area",
+            "sofa",
+            "foreground",
+            "upholstery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Decor: A round table holds a bouquet of vibrant purple flowers, adding a pop of color.",
+        "sentence_cn": "3. 装饰：圆桌上摆放着一束鲜艳的紫色鲜花，增添了一抹色彩。",
+        "words": [
+            "Decor",
+            "Decor",
+            "table",
+            "bouquet",
+            "flowers",
+            "pop",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Furniture: There is a wooden grand piano on the right side, adding elegance and artistic charm to the space.",
+        "sentence_cn": "4.家具：右侧有一架木制三角钢琴，为空间增添了优雅和艺术魅力。",
+        "words": [
+            "Furniture",
+            "Furniture",
+            "piano",
+            "elegance",
+            "charm",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Table and Chairs: A set of unique, drum-shaped wooden chairs surrounds a rectangular table in the middle-ground.",
+        "sentence_cn": "5. 桌子和椅子：一组独特的鼓形木椅围绕着中间的一张长方形桌子。",
+        "words": [
+            "Table and Chairs",
+            "Table",
+            "Chairs",
+            "set",
+            "drum",
+            "chairs",
+            "table",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Architecture: The walls are adorned with intricately carved stone or concrete blocks, contributing to the textured and complex aesthetic of the space.",
+        "sentence_cn": "6. 建筑：墙壁上装饰有精雕细琢的石头或混凝土块，增添了空间的纹理和复杂的美感。",
+        "words": [
+            "Architecture",
+            "Architecture",
+            "walls",
+            "stone",
+            "concrete",
+            "blocks",
+            "aesthetic",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Lighting: Natural light streams in from a window or open space, drawing attention to the greenery outside.",
+        "sentence_cn": "7. 照明：自然光从窗户或开放空间射入，吸引人们注意外面的绿色植物。",
+        "words": [
+            "Lighting",
+            "Lighting",
+            "light",
+            "window",
+            "space",
+            "attention",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Outdoor View: There is a glimpse of a patio or garden area with a hint of green foliage, creating a harmonious connection with nature.",
+        "sentence_cn": "8. 户外景观：可以看到带有淡淡绿叶的露台或花园区域，与大自然和谐相处。",
+        "words": [
+            "Outdoor View",
+            "View",
+            "glimpse",
+            "patio",
+            "garden",
+            "area",
+            "hint",
+            "foliage",
+            "connection",
+            "nature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room combines natural materials, innovative design, and nature-inspired elements, creating a space that is both functional and aesthetically pleasing.",
+        "sentence_cn": "总体而言，房间结合了天然材料、创新设计和自然风格的元素，创造出既实用又美观的空间。",
+        "words": [
+            "room",
+            "materials",
+            "design",
+            "nature",
+            "elements",
+            "space"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "sentence": "The image depicts a cozy living and dining area with a traditional and eclectic style.",
+        "sentence_cn": "该图描绘的是具有传统和折衷风格的舒适起居和用餐区。",
+        "words": [
+            "living",
+            "dining",
+            "area",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are wooden armchairs with patterned cushions.",
+        "sentence_cn": "前景中摆放着带有图案垫子的木制扶手椅。",
+        "words": [
+            "foreground",
+            "armchairs",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wood is dark and polished, giving a rustic feel.",
+        "sentence_cn": "木材颜色深且抛光，给人一种质朴的感觉。",
+        "words": [
+            "wood",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden coffee table is set centrally, adorned with decorative items like vases and figurines.",
+        "sentence_cn": "一张木制咖啡桌摆放在中央，上面摆放着花瓶和小雕像等装饰品。",
+        "words": [
+            "coffee",
+            "table",
+            "items",
+            "vases",
+            "figurines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a large abstract painting with bold red, black, and green swirls hanging on a white wall.",
+        "sentence_cn": "右边的白色墙壁上挂着一幅巨大的抽象画，上面有鲜艳的红色、黑色和绿色漩涡。",
+        "words": [
+            "right",
+            "painting",
+            "swirls",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the painting is a corner sofa with patterned fabric, complementing the chairs.",
+        "sentence_cn": "画的下方是一个带有图案布料的转角沙发，与椅子相得益彰。",
+        "words": [
+            "painting",
+            "corner",
+            "sofa",
+            "fabric",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sofa is L-shaped, upholstered in a muted tone with matching cushions.",
+        "sentence_cn": "沙发呈 L 形，采用柔和的色调装饰，并配有相配的靠垫。",
+        "words": [
+            "sofa",
+            "L",
+            "tone",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the sofa, there are wooden side tables.",
+        "sentence_cn": "沙发的两侧，分别有木质的边桌。",
+        "words": [
+            "sofa",
+            "side",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of them holds a lamp with a white shade, while the other displays a few decorative ceramics.",
+        "sentence_cn": "其中一个陈列室里放着一盏带白色灯罩的灯，另一个陈列着一些装饰陶瓷。",
+        "words": [
+            "One",
+            "lamp",
+            "shade",
+            "ceramics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, through an open doorway, there's a dining area.",
+        "sentence_cn": "在背景中，穿过一扇敞开的门，有一个用餐区。",
+        "words": [
+            "background",
+            "doorway",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It contains a dark wooden dining table surrounded by chairs in a similar style to those in the living area.",
+        "sentence_cn": "房间里有一张深色木质餐桌，周围摆放着与起居区风格相似的椅子。",
+        "words": [
+            "dining",
+            "table",
+            "chairs",
+            "style",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A couple of framed artworks hang on the wall in the dining space, and there is a chandelier-like light fixture hanging from the ceiling.",
+        "sentence_cn": "餐厅的墙上挂着几幅带框的艺术品，天花板上悬挂着一个枝形吊灯般的灯具。",
+        "words": [
+            "couple",
+            "artworks",
+            "wall",
+            "dining",
+            "space",
+            "chandelier",
+            "light",
+            "fixture",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring throughout the space is wooden, with a richly colored area rug under the living room furniture, adding warmth and texture.",
+        "sentence_cn": "整个空间的地板都是木地板，客厅家具下铺着色彩丰富的地毯，增添了温暖和质感。",
+        "words": [
+            "flooring",
+            "space",
+            "area",
+            "rug",
+            "living",
+            "room",
+            "furniture",
+            "warmth",
+            "texture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance is inviting and well-balanced between color and texture.",
+        "sentence_cn": "整体氛围令人愉悦，色彩和纹理达到了良好的平衡。",
+        "words": [
+            "ambiance",
+            "color",
+            "texture"
+        ],
+        "id": null
+    }
+]

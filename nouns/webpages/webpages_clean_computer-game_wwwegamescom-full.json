@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image displays a webpage for \"eGames,\" featuring free online games.",
+        "sentence_cn": "该图片显示了“eGames”的网页，其中包含免费在线游戏。",
+        "words": [
+            "eGames,",
+            "webpage",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top banner has a green background with the eGames logo, which is colorful and playful.",
+        "sentence_cn": "顶部横幅以绿色为背景，上面印有eGames的标志，色彩丰富，充满趣味。",
+        "words": [
+            "banner",
+            "background",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo, there are navigation tabs labeled \"New Download,\" \"Top Download,\" \"Arcade & Action,\" \"Mahjong,\" \"Puzzle,\" and \"Card & Board.\"",
+        "sentence_cn": "徽标下方有导航标签，标签内容为“最新下载”、“热门下载”、“街机与动作”、“麻将”、“益智”和“卡牌与棋盘”。",
+        "words": [
+            "New Download,",
+            "Top Download,",
+            "Arcade & Action,",
+            "Mahjong,",
+            "Puzzle,",
+            "Card & Board.",
+            "logo",
+            "navigation",
+            "tabs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left panel highlights \"Today's New Release,\" showcasing a game titled \"Hotel Solitaire\" with a colorful, animated character.",
+        "sentence_cn": "左侧面板重点介绍“今日新品”，展示了一款名为“酒店纸牌”的游戏，其中有一个色彩鲜艳的动画角色。",
+        "words": [
+            "Today's New Release,",
+            "Hotel Solitaire",
+            "panel",
+            "game",
+            "character"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, several other games are listed with release dates from 24th to 31st August, each with a small image and brief description.",
+        "sentence_cn": "下面列出了其他几款游戏的发布日期，从 8 月 24 日到 31 日，每款游戏都配有一张小图片和简短的描述。",
+        "words": [
+            "games",
+            "release",
+            "dates",
+            "24th",
+            "31st"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Titles include \"Maze: Subject 360,\" \"Mystery Tales: Alaskan Wild,\" and more.",
+        "sentence_cn": "标题包括“迷宫：主题 360”、“神秘故事：阿拉斯加荒野”等。",
+        "words": [
+            "Maze: Subject 360,",
+            "Mystery Tales: Alaskan Wild,",
+            "Titles",
+            "360"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there¡¯s a \"Browse Archive\" section with a list of game categories such as \"All Games,\" \"Word,\" \"Casino,\" \"Adventure,\" \"Strategy,\" and more, all within a green box.",
+        "sentence_cn": "右侧有一个“浏览档案”部分，其中列出了“所有游戏”、“文字”、“赌场”、“冒险”、“策略”等游戏类别，全部位于一个绿色框内。",
+        "words": [
+            "Browse Archive",
+            "All Games,",
+            "Word,",
+            "Casino,",
+            "Adventure,",
+            "Strategy,",
+            "right",
+            "Archive",
+            "section",
+            "list",
+            "game",
+            "categories",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is light green, adorned with floral designs and abstract shapes, giving the site a lively and friendly appearance.",
+        "sentence_cn": "背景为浅绿色，饰有花卉图案和抽象形状，使网站看起来生动活泼、友好。",
+        "words": [
+            "background",
+            "designs",
+            "shapes",
+            "site",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Ads appear in banners at the top and bottom of the page.",
+        "sentence_cn": "广告出现在页面顶部和底部的横幅中。",
+        "words": [
+            "Ads",
+            "banners",
+            "top",
+            "bottom",
+            "page"
+        ],
+        "id": null
+    }
+]

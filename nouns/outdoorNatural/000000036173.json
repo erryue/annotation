@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "The image features three zebras standing on a grassy plain.",
+        "sentence_cn": "照片中，三匹斑马站在草原上。",
+        "words": [
+            "three",
+            "zebras",
+            "plain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are aligned closely together, with their black and white stripes creating a striking pattern against the green grass.",
+        "sentence_cn": "斑马紧密地排成一排，黑白相间的条纹在绿草的映衬下形成引人注目的图案。",
+        "words": [
+            "zebras",
+            "stripes",
+            "pattern",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each zebra is facing forward, directly at the camera, and their ears are perked up, suggesting alertness.",
+        "sentence_cn": "每只斑马都面朝前方，直视镜头，耳朵竖起，表示警觉。",
+        "words": [
+            "zebra",
+            "camera",
+            "ears",
+            "alertness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a soft focus, showing more of the grassy terrain, indicating a natural savannah or grassland setting.",
+        "sentence_cn": "背景是柔焦，显示出更多的草地地形，表明存在天然的大草原或草地环境。",
+        "words": [
+            "background",
+            "focus",
+            "terrain",
+            "savannah",
+            "grassland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is even, allowing for a clear view of the zebras' distinctive striping patterns.",
+        "sentence_cn": "灯光均匀，可以清晰地看到斑马独特的条纹图案。",
+        "words": [
+            "lighting",
+            "view",
+            "zebras",
+            "striping",
+            "patterns"
+        ],
+        "id": null
+    }
+]

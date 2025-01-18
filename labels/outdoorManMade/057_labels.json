@@ -1,0 +1,24 @@
+[
+    {
+        "id": "0ed39aea-e21e-4be4-98ba-97b3470db2e2",
+        "confidence": 0.84018,
+        "class": "dog",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 92.94052,
+                        "minY": 853.56537,
+                        "maxX": 214.3856,
+                        "maxY": 958.06897
+                    },
+                    "x": 92.94052,
+                    "y": 853.56537,
+                    "w": 121.44508,
+                    "h": 104.5036
+                }
+            }
+        }
+    }
+]

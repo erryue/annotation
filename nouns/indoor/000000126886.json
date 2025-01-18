@@ -1,0 +1,133 @@
+[
+    {
+        "sentence": "The image depicts a modern kitchen area with a distinctive industrial aesthetic.",
+        "sentence_cn": "图像描绘了一个具有独特工业美感的现代厨房区域。",
+        "words": [
+            "kitchen",
+            "area",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a high ceiling with a large glass skylight, allowing plenty of natural light to flood the space.",
+        "sentence_cn": "其特点是天花板很高，配有大型玻璃天窗，充足的自然光可照亮整个空间。",
+        "words": [
+            "ceiling",
+            "glass",
+            "skylight",
+            "plenty",
+            "light",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Exposed metal beams and large industrial-style pendant lights accentuate the industrial feel.",
+        "sentence_cn": "外露的金属横梁和大型工业风格的吊灯凸显了工业感。",
+        "words": [
+            "metal",
+            "beams",
+            "style",
+            "pendant",
+            "lights",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen area includes sleek, metallic cabinets and a silver refrigerator.",
+        "sentence_cn": "厨房区配有光滑的金属橱柜和银色冰箱。",
+        "words": [
+            "kitchen",
+            "area",
+            "cabinets",
+            "refrigerator"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A long countertop lines one side, complete with small kitchen appliances and a decorative plant.",
+        "sentence_cn": "一侧是长长的台面，配有小型厨房用具和装饰植物。",
+        "words": [
+            "countertop",
+            "one",
+            "kitchen",
+            "appliances",
+            "plant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large countertop or bar features a modern barstool with a red cushion.",
+        "sentence_cn": "宽大的台面或吧台上配有现代风格的高脚凳和红色垫子。",
+        "words": [
+            "countertop",
+            "bar",
+            "barstool",
+            "cushion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a dining table with a light grey surface and chairs with wooden legs.",
+        "sentence_cn": "前景中有一张浅灰色桌面的餐桌和几把木腿的椅子。",
+        "words": [
+            "foreground",
+            "dining",
+            "table",
+            "surface",
+            "chairs",
+            "legs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One chair has a yellow backrest, matching the yellow bowl on the table.",
+        "sentence_cn": "一把椅子的靠背是黄色的，与桌子上的黄色碗相配。",
+        "words": [
+            "One",
+            "chair",
+            "backrest",
+            "bowl",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring consists of a patterned tile in shades of gray and beige.",
+        "sentence_cn": "地板由灰色和米色的图案瓷砖构成。",
+        "words": [
+            "flooring",
+            "tile",
+            "shades",
+            "gray",
+            "beige"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A poster featuring stylized black and red imagery adds a touch of art to the otherwise monochrome palette.",
+        "sentence_cn": "海报以风格化的黑色和红色图像为单色增添了一丝艺术气息。",
+        "words": [
+            "poster",
+            "imagery",
+            "touch",
+            "art",
+            "palette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere of the space is contemporary and inviting, combining minimalism with a touch of industrial chic.",
+        "sentence_cn": "空间的整体氛围现代而温馨，将简约主义与工业时尚风格融为一体。",
+        "words": [
+            "atmosphere",
+            "space",
+            "minimalism",
+            "touch",
+            "chic"
+        ],
+        "id": null
+    }
+]

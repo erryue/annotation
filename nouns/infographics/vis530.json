@@ -1,0 +1,175 @@
+[
+    {
+        "sentence": "The image is an infographic featuring a triangular skyscraper named \"Triangle,\" set to become a new emblem for the Parc des Expositions.",
+        "sentence_cn": "该图是一张信息图，展示了一座名为“三角形”的三角形摩天大楼，它将成为巴黎展览中心的新标志。",
+        "words": [
+            "Triangle,",
+            "skyscraper",
+            "emblem"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key features highlighted in the infographic include:",
+        "sentence_cn": "信息图中突出显示的主要特点包括：",
+        "words": [
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Total Project Cost: 500 million euros.",
+        "sentence_cn": "1.项目总成本：5亿欧元。",
+        "words": [
+            "Total Project Cost",
+            "Project",
+            "Cost",
+            "500",
+            "million",
+            "euros"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Office Space: 88,000 square meters of new-generation offices.",
+        "sentence_cn": "2. 办公空间：88,000平方米的新一代办公室。",
+        "words": [
+            "Office Space",
+            "Office",
+            "88,000",
+            "meters",
+            "generation",
+            "offices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Retail Space: 1,500 square meters dedicated to shops and services.",
+        "sentence_cn": "3. 零售空间：1,500 平方米用于商店和服务。",
+        "words": [
+            "Retail Space",
+            "Space",
+            "1,500",
+            "meters",
+            "shops",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Dining Capacity: 3,000 indoor covers for dining, with over 50 dining points within a 500-meter radius around the tower.",
+        "sentence_cn": "4、餐饮容量：室内餐饮座位数3000个，塔身周围500米范围内有50多个餐饮点。",
+        "words": [
+            "Dining Capacity",
+            "Dining",
+            "Capacity",
+            "3,000",
+            "covers",
+            "dining",
+            "50",
+            "dining",
+            "points",
+            "500",
+            "meter",
+            "radius",
+            "tower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Bike Parking: 1,000 bicycle spaces within the building.",
+        "sentence_cn": "5. 自行车停车场：大楼内有 1,000 个自行车位。",
+        "words": [
+            "Bike Parking",
+            "Bike",
+            "Parking",
+            "1,000",
+            "bicycle",
+            "spaces",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Facade Development: 47,000 square meters of developed facade.",
+        "sentence_cn": "6. 外墙开发：已开发外墙 47,000 平方米。",
+        "words": [
+            "Facade Development",
+            "Facade",
+            "Development",
+            "47,000",
+            "meters",
+            "facade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Employment: 5,000 employees, with several hundred workers during the 3-year construction period.",
+        "sentence_cn": "7. 就业：5,000 名员工，3 年建设期内将有数百名工人。",
+        "words": [
+            "Employment",
+            "Employment",
+            "5,000",
+            "employees",
+            "hundred",
+            "workers",
+            "3",
+            "year",
+            "construction",
+            "period"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Events: 160 potential events and synergies with accessible public spaces.",
+        "sentence_cn": "8. 活动：160 个潜在活动和与可访问公共空间的协同作用。",
+        "words": [
+            "Events",
+            "Events",
+            "160",
+            "events",
+            "synergies",
+            "spaces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Public Garden: An 8,000 square meter public garden included in the project.",
+        "sentence_cn": "9.公共花园：项目内包含一个8000平方米的公共花园。",
+        "words": [
+            "Public Garden",
+            "Garden",
+            "8,000",
+            "meter",
+            "garden",
+            "project"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design promotes dynamism and modernity, contributing to the renewal of the Parc des Expositions area in Paris.",
+        "sentence_cn": "该设计彰显了活力和现代感，为巴黎展览公园地区的复兴做出了贡献。",
+        "words": [
+            "design",
+            "dynamism",
+            "modernity",
+            "renewal",
+            "area",
+            "Paris"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The project is aimed at increasing the attractiveness of the site and ensuring synergies with exhibitions and events.",
+        "sentence_cn": "该项目旨在提高场地的吸引力并确保与展览和活动的协同作用。",
+        "words": [
+            "project",
+            "attractiveness",
+            "site",
+            "synergies",
+            "exhibitions",
+            "events"
+        ],
+        "id": null
+    }
+]

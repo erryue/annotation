@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "The image depicts a container filled with a variety of fresh vegetables and fruits.",
+        "sentence_cn": "图中是一个容器，里面装满了各种新鲜蔬菜和水果。",
+        "words": [
+            "container",
+            "variety",
+            "vegetables",
+            "fruits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Top Left: There are two kohlrabi, light green in color with leafy tops.",
+        "sentence_cn": "- 左上：有两棵球形甘蓝，颜色为浅绿色，顶部有叶子。",
+        "words": [
+            "Top Left",
+            "two",
+            "kohlrabi",
+            "color",
+            "tops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Center: A group of bright orange persimmons is stacked with stems visible.",
+        "sentence_cn": "- 顶部中心：一组鲜橙色的柿子堆叠在一起，茎清晰可见。",
+        "words": [
+            "Top Center",
+            "group",
+            "orange",
+            "persimmons",
+            "stems"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Right: There are several small red potatoes.",
+        "sentence_cn": "- 右上：有几个小红土豆。",
+        "words": [
+            "Top Right",
+            "potatoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Middle Left: Large green leaves, possibly Swiss chard, with white stems are visible.",
+        "sentence_cn": "- 中左：可以看到大片绿叶，可能是瑞士甜菜，带有白色的茎。",
+        "words": [
+            "Middle Left",
+            "leaves",
+            "chard",
+            "stems"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Middle Right: Green broccoli florets are tucked next to the persimmons.",
+        "sentence_cn": "- 中右：绿色西兰花小花藏在柿子旁边。",
+        "words": [
+            "Middle Right",
+            "broccoli",
+            "florets",
+            "persimmons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Right: A cluster of small orange carrots with green tops.",
+        "sentence_cn": "- 右下：一串顶部为绿色的橙色小胡萝卜。",
+        "words": [
+            "Bottom Right",
+            "cluster",
+            "orange",
+            "carrots",
+            "tops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Center: A white daikon radish is partially visible, lying against the carrots.",
+        "sentence_cn": "- 底部中央：白色萝卜部分可见，靠在胡萝卜上。",
+        "words": [
+            "Bottom Center",
+            "Center",
+            "daikon",
+            "radish",
+            "carrots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Left: There is a bunch of fresh green cilantro.",
+        "sentence_cn": "- 左下：有一束新鲜的绿色香菜。",
+        "words": [
+            "Bottom Left",
+            "bunch",
+            "cilantro"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Right (Foreground): A head of purple cabbage.",
+        "sentence_cn": "- 右下（前景）：一颗紫甘蓝。",
+        "words": [
+            "Bottom Right (Foreground)",
+            "Foreground",
+            "head",
+            "cabbage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vegetables and fruits are neatly arranged, showcasing a colorful and diverse selection of produce.",
+        "sentence_cn": "蔬菜和水果整齐地排列，展示了丰富多彩的农产品选择。",
+        "words": [
+            "vegetables",
+            "fruits",
+            "selection",
+            "produce"
+        ],
+        "id": null
+    }
+]

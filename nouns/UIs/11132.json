@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image shows a digital interface for Walmart GameCenter, featuring Issue 47 of their magazine.",
+        "sentence_cn": "该图展示了沃尔玛游戏中心的数字界面，其中包含其杂志第 47 期。",
+        "words": [
+            "interface",
+            "Issue",
+            "47",
+            "magazine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cover showcases \"Mass Effect: Andromeda\" with a space-themed visual.",
+        "sentence_cn": "封面展示了具有太空主题视觉效果的“质量效应：仙女座”。",
+        "words": [
+            "Mass Effect: Andromeda",
+            "cover",
+            "space",
+            "visual"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the left details:",
+        "sentence_cn": "左侧文字详情：",
+        "words": [
+            "Text",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The release date as 02.22.2017, with a file size of 154 MB.",
+        "sentence_cn": "- 发布日期为 2017 年 2 月 22 日，文件大小为 154 MB。",
+        "words": [
+            "release",
+            "date",
+            "02.22.2017",
+            "file",
+            "size",
+            "154",
+            "MB"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Two buttons: \"Read\" and \"Delete.\"",
+        "sentence_cn": "- 两个按钮：“阅读”和“删除”。",
+        "words": [
+            "Read",
+            "Delete.",
+            "Two",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the cover, a description reads:",
+        "sentence_cn": "封面下方有一段描述：",
+        "words": [
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Now that the Nintendo Switch is upon us, what do you need to know?",
+        "sentence_cn": "“现在 Nintendo Switch 已经上市，您需要了解什么？",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The latest free digital issue of Walmart GameCenter magazine includes your guide to the most anticipated console launch in years!",
+        "sentence_cn": "沃尔玛游戏中心杂志的最新免费数字版包含多年来最受期待的游戏机发布的指南！",
+        "words": [
+            "issue",
+            "magazine",
+            "guide",
+            "console",
+            "launch",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "We also have a look at Mass Effect: Andromeda, previews of Mario Kart 8 Deluxe, Persona 5 and Injustice 2, and our review of the terrifying Resident Evil 7.",
+        "sentence_cn": "我们还会关注《质量效应：仙女座》、《马里奥赛车 8 豪华版》、《女神异闻录 5》和《不义联盟 2》的预览，以及对恐怖的《生化危机 7》的评论。",
+        "words": [
+            "look",
+            "previews",
+            "8",
+            "5",
+            "review",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Plus, secrets, strategy from Prima, and more in your source for everything gaming!\"",
+        "sentence_cn": "另外，还有来自 Prima 的秘密、策略以及更多游戏资源！”",
+        "words": [
+            "secrets",
+            "strategy",
+            "source",
+            "gaming"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen has a loading overlay with \"Please wait\" and \"Preparing Magazine.\"",
+        "sentence_cn": "屏幕上有一个加载覆盖，上面写着“请等待”和“准备杂志”。",
+        "words": [
+            "Please wait",
+            "Preparing Magazine.",
+            "screen",
+            "loading",
+            "overlay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, a message states: \"All your purchases have been restored.\"",
+        "sentence_cn": "底部有一条消息：“您购买的所有商品已恢复。”",
+        "words": [
+            "All your purchases have been restored.",
+            "bottom",
+            "message",
+            "purchases"
+        ],
+        "id": null
+    }
+]

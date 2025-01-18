@@ -1,0 +1,287 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile app or website interface related to music tracks by an entity named \"Lil Medic Beats.\"",
+        "sentence_cn": "该图片似乎是一个名为“Lil Medic Beats”的实体所发布的与音乐曲目相关的移动应用程序或网站界面的截图。",
+        "words": [
+            "Lil Medic Beats.",
+            "mobile",
+            "app",
+            "website",
+            "interface",
+            "music",
+            "tracks",
+            "entity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: At the top, there's a black bar with a few icons that likely represent various functions (like messages or notifications) and the time showing 8:16.",
+        "sentence_cn": "- 标题：在顶部，有一个黑条，其中有几个图标，可能代表各种功能（如消息或通知）和显示 8:16 的时间。",
+        "words": [
+            "Header:",
+            "Header",
+            "top",
+            "bar",
+            "icons",
+            "functions",
+            "messages",
+            "notifications",
+            "time",
+            "8:16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Title: Below the bar, \"Lil Medic Beats\" is written prominently.",
+        "sentence_cn": "- 标题：在栏目下方，醒目地写着“Lil Medic Beats”。",
+        "words": [
+            "Title:",
+            "Lil Medic Beats",
+            "Title",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Stats: On the right, details include \"Total Plays: 28327\" and \"Page Views: 17115\" in blue font.",
+        "sentence_cn": "- 统计信息：右侧的详细信息包括蓝色字体的“总播放次数：28327”和“页面浏览量：17115”。",
+        "words": [
+            "Stats:",
+            "Total Plays: 28327",
+            "Page Views: 17115",
+            "Stats",
+            "right",
+            "details",
+            "Plays",
+            "28327",
+            "Page",
+            "Views",
+            "17115",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation Buttons:",
+        "sentence_cn": "- 导航按钮：",
+        "words": [
+            "Navigation Buttons:",
+            "Navigation",
+            "Buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Email,\" \"BIO,\" and \"#\" buttons are located under the title.",
+        "sentence_cn": "- 标题下方有“电子邮件”、“个人简介”和“#”按钮。",
+        "words": [
+            "Email,",
+            "BIO,",
+            "#",
+            "Email",
+            "BIO",
+            "#",
+            "buttons",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Search and Home:",
+        "sentence_cn": "- 搜索和主页：",
+        "words": [
+            "Search and Home:",
+            "Search",
+            "Home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A search bar with an orange outline is at the center.",
+        "sentence_cn": "- 带有橙色轮廓的搜索栏位于中心。",
+        "words": [
+            "search",
+            "bar",
+            "outline",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Home\" button is on the right.",
+        "sentence_cn": "“主页”按钮在右边。",
+        "words": [
+            "Home",
+            "Home",
+            "button",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Track List:",
+        "sentence_cn": "- 曲目列表：",
+        "words": [
+            "Track List:",
+            "Track",
+            "List"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Four tracks are listed with basic info and interaction options:",
+        "sentence_cn": "- 列出了四条轨道的基本信息和交互选项：",
+        "words": [
+            "Four",
+            "tracks",
+            "info",
+            "interaction",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    1. \"Chris Brown Tina She Party\" with stats: Share: 131, Download: 1645, Play: 8606, Music: 71.",
+        "sentence_cn": "1.“Chris Brown Tina She Party”数据：分享：131，下载：1645，播放：8606，音乐：71。",
+        "words": [
+            "Chris Brown Tina She Party",
+            "Party",
+            "stats",
+            "131",
+            "Download",
+            "1645",
+            "Play",
+            "8606",
+            "Music",
+            "71"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    2. \"Sad Guitar Tired\" with stats: Share: 120, Download: 1832, Play: 7492, Music: 22.",
+        "sentence_cn": "2.“Sad Guitar Tired” 数据：分享：120，下载：1832，播放：7492，音乐：22。",
+        "words": [
+            "Sad Guitar Tired",
+            "Guitar",
+            "stats",
+            "120",
+            "Download",
+            "1832",
+            "Play",
+            "7492",
+            "Music",
+            "22"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    3. \"Schoolboy q The Game friday 13th\" with stats: Share: 82, Download: 1109, Play: 7056, Music: 14.",
+        "sentence_cn": "3.“Schoolboy q The Game friday 13th”数据：分享：82，下载：1109，播放：7056，音乐：14。",
+        "words": [
+            "Schoolboy q The Game friday 13th",
+            "13th",
+            "stats",
+            "82",
+            "Download",
+            "1109",
+            "Play",
+            "7056",
+            "Music",
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    4. \"Chris Brown August Alsina whatcha wanna do\" with stats: Share: 109, Download: 1099, Play: 5764, Music: 17.",
+        "sentence_cn": "4.“Chris Brown August Alsina whatcha wanna do” 数据：分享：109，下载：1099，播放：5764，音乐：17。",
+        "words": [
+            "Chris Brown August Alsina whatcha wanna do",
+            "stats",
+            "109",
+            "Download",
+            "1099",
+            "Play",
+            "5764",
+            "Music",
+            "17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Each track has icons for sharing, downloading, and possibly playing or previewing.",
+        "sentence_cn": "- 每首曲目都有用于共享、下载以及播放或预览的图标。",
+        "words": [
+            "track",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background: The lower portion shows a stylized, abstract red and black digital art design.",
+        "sentence_cn": "- 背景：下部展示了一种风格化的、抽象的红黑色数字艺术设计。",
+        "words": [
+            "Background:",
+            "Background",
+            "portion",
+            "art",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Footer:",
+        "sentence_cn": "- 页脚：",
+        "words": [
+            "Footer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"You shared this post\" message appears.",
+        "sentence_cn": "- 出现“您分享了此帖子”消息。",
+        "words": [
+            "You shared this post",
+            "post",
+            "message"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Social media icons (Facebook, Twitter, YouTube, etc.) allow users to connect or follow.",
+        "sentence_cn": "- 社交媒体图标（Facebook、Twitter、YouTube 等）允许用户连接或关注。",
+        "words": [
+            "media",
+            "icons",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Overall Design: The user interface is structured to enable easy navigation, song interaction, and artist following.",
+        "sentence_cn": "- 整体设计：用户界面的结构便于导航、歌曲互动和艺术家关注。",
+        "words": [
+            "Overall Design:",
+            "Design",
+            "user",
+            "interface",
+            "navigation",
+            "song",
+            "interaction",
+            "artist",
+            "following"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "sentence": "The image is an advertisement for a KFC meal called the \"Green Curry Combo.\"",
+        "sentence_cn": "该图是肯德基一款名为“绿咖喱套餐”的套餐广告。",
+        "words": [
+            "Green Curry Combo.",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features the KFC logo and the meal offering.",
+        "sentence_cn": "它显著地展现了肯德基的标志和提供的餐食。",
+        "words": [
+            "logo",
+            "meal",
+            "offering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the image describes the combo, which includes:",
+        "sentence_cn": "图片上的文字描述了该组合，其中包括：",
+        "words": [
+            "text",
+            "combo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2 pieces of hot & spicy chicken",
+        "sentence_cn": "- 2 块辣鸡",
+        "words": [
+            "2",
+            "pieces",
+            "chicken"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 1 serving of rice",
+        "sentence_cn": "- 1份米饭",
+        "words": [
+            "1",
+            "serving",
+            "rice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 1 portion of green curry",
+        "sentence_cn": "- 1 份绿咖喱",
+        "words": [
+            "1",
+            "portion",
+            "curry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 1 regular size carbonated drink (Pepsi shown in a cup)",
+        "sentence_cn": "- 1 杯普通容量碳酸饮料（图中所示为杯子中的百事可乐）",
+        "words": [
+            "1",
+            "size",
+            "drink",
+            "Pepsi",
+            "cup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline reads, \"So authentic even the Thais want it.\"",
+        "sentence_cn": "标语写着“如此正宗，连泰国人都想要。”",
+        "words": [
+            "So authentic even the Thais want it.",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The phrase emphasizes the authentic taste of the meal.",
+        "sentence_cn": "这句话强调了这顿饭的正宗味道。",
+        "words": [
+            "phrase",
+            "taste",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The meal is displayed on a plate with the green curry being poured over the chicken.",
+        "sentence_cn": "饭菜盛放在盘子里，绿咖喱浇在鸡肉上。",
+        "words": [
+            "meal",
+            "plate",
+            "curry",
+            "chicken"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has a traditional woven mat design, adding to the authentic theme.",
+        "sentence_cn": "背景采用传统的编织垫设计，增添了真实的主题。",
+        "words": [
+            "background",
+            "mat",
+            "design",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Ingredients for green curry, like coconut, garlic, and chili, are also visible in the image.",
+        "sentence_cn": "图中还可以看到绿咖喱的配料，例如椰子、大蒜和辣椒。",
+        "words": [
+            "Ingredients",
+            "curry",
+            "coconut",
+            "garlic",
+            "chili"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom of the advertisement mentions that the promotion is available at all KFC outlets nationwide and specifies its duration, noting that it's valid while stocks last, serving as an illustration only.",
+        "sentence_cn": "广告底部提到此促销活动在全国所有肯德基门店进行，并注明活动持续时间，并指出有效期至售完即止，仅供参考。",
+        "words": [
+            "bottom",
+            "promotion",
+            "outlets",
+            "duration",
+            "stocks",
+            "illustration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The KFC slogan \"so good\" is shown with the colonel's image.",
+        "sentence_cn": "肯德基的广告语“so good”与上校的形象一起出现。",
+        "words": [
+            "so good",
+            "slogan",
+            "colonel"
+        ],
+        "id": null
+    }
+]

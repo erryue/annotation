@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a zoo or wildlife park setting with a verdant, grassy enclosure.",
+        "sentence_cn": "该图描绘的是动物园或野生动物公园的场景，其中有青翠的草地。",
+        "words": [
+            "zoo",
+            "wildlife",
+            "park",
+            "enclosure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the scene, there are two giraffes standing in the background under tall, leafy trees.",
+        "sentence_cn": "场景中，有两只长颈鹿站在高大的茂密树木下的背景中。",
+        "words": [
+            "scene",
+            "two",
+            "giraffes",
+            "background",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their long necks and distinctive spotted patterns are visible.",
+        "sentence_cn": "它们的长脖子和独特的斑点图案清晰可见。",
+        "words": [
+            "necks",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a zebra grazing on the grass.",
+        "sentence_cn": "右边有一只斑马在草地上吃草。",
+        "words": [
+            "right",
+            "zebra",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The enclosure is surrounded by a wooden and metal fence, visible in the background.",
+        "sentence_cn": "围栏周围有木栅栏和金属栅栏，从背景中可以看到。",
+        "words": [
+            "enclosure",
+            "metal",
+            "fence",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Rocks are scattered on the ground, adding to the naturalistic environment.",
+        "sentence_cn": "岩石散落在地面上，增添了自然环境的质感。",
+        "words": [
+            "Rocks",
+            "ground",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape appears lush with various trees and shrubbery around the periphery of the enclosure.",
+        "sentence_cn": "围场周围有各种树木和灌木丛，景观郁郁葱葱。",
+        "words": [
+            "landscape",
+            "trees",
+            "shrubbery",
+            "periphery",
+            "enclosure"
+        ],
+        "id": null
+    }
+]

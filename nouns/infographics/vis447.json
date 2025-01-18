@@ -1,0 +1,342 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Party Schools That Pay,\" using data from PayScale to showcase 10 party schools ranked by post-graduation salary potential.",
+        "sentence_cn": "该图是一张名为“付费派对学校”的信息图，它使用 PayScale 的数据展示了 10 所按毕业后薪资潜力排名的派对学校。",
+        "words": [
+            "Party Schools That Pay,",
+            "Party",
+            "Schools",
+            "data",
+            "10",
+            "party",
+            "schools",
+            "salary",
+            "potential"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. University of Illinois Urbana-Champaign (UIUC)",
+        "sentence_cn": "1. 伊利诺伊大学厄巴纳-香槟分校 (UIUC)",
+        "words": [
+            "University of Illinois Urbana-Champaign (UIUC)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $95,900",
+        "sentence_cn": "- 年薪：95,900美元",
+        "words": [
+            "Salary",
+            "95,900"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #4",
+        "sentence_cn": "- 派对学校排名：#4",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. University of California, Santa Barbara (UCSB)",
+        "sentence_cn": "2. 加州大学圣巴巴拉分校（UCSB）",
+        "words": [
+            "University of California, Santa Barbara (UCSB)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $90,800",
+        "sentence_cn": "- 年薪：90,800美元",
+        "words": [
+            "Salary",
+            "90,800"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #7",
+        "sentence_cn": "- 派对学校排名：#7",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. University of Texas (UT) - Austin",
+        "sentence_cn": "3. 德克萨斯大学（UT）-奥斯汀",
+        "words": [
+            "University of Texas (UT) - Austin",
+            "Austin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $90,800",
+        "sentence_cn": "- 年薪：90,800美元",
+        "words": [
+            "Salary",
+            "90,800"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #15",
+        "sentence_cn": "- 派对学校排名：#15",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. University of Maryland (UMD)",
+        "sentence_cn": "4. 马里兰大学（UMD）",
+        "words": [
+            "University of Maryland (UMD)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $87,100",
+        "sentence_cn": "- 年薪：87,100美元",
+        "words": [
+            "Salary",
+            "87,100"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #16",
+        "sentence_cn": "- 派对学校排名：#16",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Syracuse University",
+        "sentence_cn": "5. 雪城大学",
+        "words": [
+            "Syracuse University"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $86,200",
+        "sentence_cn": "- 年薪：86,200 美元",
+        "words": [
+            "Salary",
+            "86,200"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #10",
+        "sentence_cn": "- 派对学校排名：#10",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Miami University - Oxford",
+        "sentence_cn": "6. 迈阿密大学 - 牛津",
+        "words": [
+            "Miami University - Oxford"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $85,500",
+        "sentence_cn": "- 年薪：85,500美元",
+        "words": [
+            "Salary",
+            "85,500"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #20",
+        "sentence_cn": "- 派对学校排名：#20",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "20"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. DePauw University",
+        "sentence_cn": "7. 德堡大学",
+        "words": [
+            "DePauw University"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $84,200",
+        "sentence_cn": "- 年薪：84,200美元",
+        "words": [
+            "Salary",
+            "84,200"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #12",
+        "sentence_cn": "- 派对学校排名：#12",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Pennsylvania State University (PSU)",
+        "sentence_cn": "8. 宾夕法尼亚州立大学 (PSU)",
+        "words": [
+            "Pennsylvania State University (PSU)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $83,000",
+        "sentence_cn": "- 薪资：83,000 美元",
+        "words": [
+            "Salary",
+            "83,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #11",
+        "sentence_cn": "- 派对学校排名：#11",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. James Madison University (JMU)",
+        "sentence_cn": "9. 詹姆斯麦迪逊大学（JMU）",
+        "words": [
+            "James Madison University (JMU)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salary: $82,600",
+        "sentence_cn": "- 年薪：82,600 美元",
+        "words": [
+            "Salary",
+            "82,600"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Party School Rank: #18",
+        "sentence_cn": "- 派对学校排名：#18",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "18"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. University of Wisconsin (UW) - Madison",
+        "sentence_cn": "10. 威斯康星大学（UW）-麦迪逊分校",
+        "words": [
+            "University of Wisconsin (UW) - Madison",
+            "Madison"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Salary: $82,200",
+        "sentence_cn": "- 年薪：82,200 美元",
+        "words": [
+            "Salary",
+            "82,200"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Party School Rank: #13",
+        "sentence_cn": "- 派对学校排名：#13",
+        "words": [
+            "Party",
+            "Rank",
+            "#",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom of the image shows a depiction of red solo cups and ping pong balls, commonly associated with party games.",
+        "sentence_cn": "图片底部描绘的是红色一次性杯子和乒乓球，通常与派对游戏有关。",
+        "words": [
+            "bottom",
+            "depiction",
+            "solo",
+            "cups",
+            "ping",
+            "pong",
+            "balls",
+            "party",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The methodology notes that salaries listed are for full-time bachelor¡¯s degree holders with no higher degree and 10+ years of experience.",
+        "sentence_cn": "该方法指出，所列薪水适用于拥有全日制学士学位且无更高学位和 10 年以上工作经验的人士。",
+        "words": [
+            "methodology",
+            "salaries",
+            "time",
+            "bachelor¡¯s",
+            "degree",
+            "holders",
+            "degree",
+            "10",
+            "years",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sources are PayScale and the Princeton Review's Top Party Schools list.",
+        "sentence_cn": "数据来源是 PayScale 和普林斯顿评论的顶级派对学校名单。",
+        "words": [
+            "Sources",
+            "list"
+        ],
+        "id": null
+    }
+]

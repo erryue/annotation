@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image shows a winter scene with a snowy landscape.",
+        "sentence_cn": "图片展示的是冬季雪景场景。",
+        "words": [
+            "winter",
+            "scene",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three bison are seen to the left, standing on a patch of grass amid the snow.",
+        "sentence_cn": "左边有三头野牛站在雪地里的一片草地上。",
+        "words": [
+            "Three",
+            "bison",
+            "left",
+            "patch",
+            "grass",
+            "snow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their thick fur is dark brown, contrasting against the white snow.",
+        "sentence_cn": "它们厚厚的皮毛是深棕色的，与白雪形成鲜明对比。",
+        "words": [
+            "fur",
+            "snow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a lone wolf is approaching or interacting with the bison.",
+        "sentence_cn": "右边，一只孤狼正在接近或与野牛互动。",
+        "words": [
+            "right",
+            "wolf",
+            "bison"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is a mix of brown grass and patches of snow, and there's a small body of water, likely a stream, reflecting light in the foreground.",
+        "sentence_cn": "地面上长满了棕色的草和斑块状的积雪，前景中有一小片水体，可能是一条小溪，反射着光线。",
+        "words": [
+            "ground",
+            "mix",
+            "grass",
+            "patches",
+            "snow",
+            "body",
+            "water",
+            "stream",
+            "light",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, snow-covered logs and branches lie on a slope, with a few green pine trees adding to the wintry scene.",
+        "sentence_cn": "背景中，白雪覆盖的原木和树枝躺在斜坡上，几棵绿色的松树为冬天的景色增添了色彩。",
+        "words": [
+            "background",
+            "snow",
+            "logs",
+            "branches",
+            "slope",
+            "pine",
+            "trees",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Shadows cast by the trees are visible on the snow.",
+        "sentence_cn": "雪地上清晰可见树木投下的阴影。",
+        "words": [
+            "Shadows",
+            "trees",
+            "snow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood is cold and natural, depicting a wild interaction in a winter landscape.",
+        "sentence_cn": "整体氛围冷峻自然，描绘了冬季景观中的野性互动。",
+        "words": [
+            "mood",
+            "interaction",
+            "winter",
+            "landscape"
+        ],
+        "id": null
+    }
+]

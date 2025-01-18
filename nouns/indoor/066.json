@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image depicts a cozy living room corner with a blend of vintage and eclectic styles.",
+        "sentence_cn": "该图描绘的是舒适的客厅角落，融合了复古和折衷风格。",
+        "words": [
+            "living",
+            "room",
+            "corner",
+            "blend",
+            "styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A floral sofa with a mix of patterned and striped cushions is adorned with a throw blanket.",
+        "sentence_cn": "花卉沙发配有图案和条纹混合的靠垫，并铺有毯子。",
+        "words": [
+            "sofa",
+            "mix",
+            "cushions",
+            "throw",
+            "blanket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden armchair with a checkered cushion and a small pillow is positioned nearby.",
+        "sentence_cn": "附近有一把木制扶手椅，上面有格子垫子和小枕头。",
+        "words": [
+            "armchair",
+            "cushion",
+            "pillow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa, a round white coffee table displays a blue and white vase filled with tall pink and white flowers.",
+        "sentence_cn": "沙发前的圆形白色咖啡桌上摆放着一个蓝白色的花瓶，花瓶里插着高大的粉色和白色花朵。",
+        "words": [
+            "front",
+            "sofa",
+            "coffee",
+            "table",
+            "vase",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table also holds a decorative birdcage, some stacked books, and a plate with oranges.",
+        "sentence_cn": "桌子上还放着一个装饰性的鸟笼、一些叠放的书籍和一盘橘子。",
+        "words": [
+            "table",
+            "birdcage",
+            "books",
+            "plate",
+            "oranges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the sofa, a small wooden shelf holds decorative plates with various floral designs.",
+        "sentence_cn": "沙发后面有一个小木架，上面摆放着各种花卉图案的装饰盘。",
+        "words": [
+            "sofa",
+            "shelf",
+            "plates",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the shelf, a shutter-style wall decoration adds a rustic touch.",
+        "sentence_cn": "架子旁边，百叶窗风格的墙壁装饰增添了质朴的气息。",
+        "words": [
+            "shelf",
+            "shutter",
+            "style",
+            "wall",
+            "decoration",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a table lamp with a brass finish sits on a side table, accompanied by a vase of vibrant orange flowers.",
+        "sentence_cn": "右边的边桌上摆放着一盏黄铜饰面的台灯，旁边还有一瓶鲜艳的橙色花朵。",
+        "words": [
+            "right",
+            "table",
+            "lamp",
+            "brass",
+            "finish",
+            "table",
+            "vase",
+            "orange",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large potted plant adds greenery, while a diamond-patterned wall decor completes the room's aesthetic.",
+        "sentence_cn": "大型盆栽增添了绿意，而菱形图案的墙壁装饰则完善了房间的美感。",
+        "words": [
+            "plant",
+            "greenery",
+            "diamond",
+            "wall",
+            "decor",
+            "room",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space is filled with an array of textures, patterns, and colors, creating a warm and inviting atmosphere.",
+        "sentence_cn": "总体而言，空间充满了各种纹理、图案和颜色，营造出温暖而诱人的氛围。",
+        "words": [
+            "space",
+            "array",
+            "textures",
+            "patterns",
+            "colors",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image shows a waterfront scene featuring a prominent walkway made of wooden planks, leading towards a tall tower in the background.",
+        "sentence_cn": "照片展示了海滨的景色，其中有一条由木板制成的显眼的走道，通向背景中的一座高塔。",
+        "words": [
+            "waterfront",
+            "scene",
+            "walkway",
+            "planks",
+            "tower",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tower is square with several small windows and an open platform at the top with a roof and railings.",
+        "sentence_cn": "塔呈方形，有数扇小窗，顶部为露天平台，有屋顶和栏杆。",
+        "words": [
+            "tower",
+            "windows",
+            "platform",
+            "top",
+            "roof",
+            "railings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is surrounded by palm trees and greenery.",
+        "sentence_cn": "周围环绕着棕榈树和绿树。",
+        "words": [
+            "palm",
+            "trees",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the tower, there is a two-story building with a gabled roof, painted in bright colors such as orange, blue, and pink.",
+        "sentence_cn": "塔的右侧是一栋两层楼的建筑，带有山墙式屋顶，漆成橙色、蓝色和粉红色等鲜艳的颜色。",
+        "words": [
+            "right",
+            "tower",
+            "two",
+            "story",
+            "building",
+            "roof",
+            "colors",
+            "orange",
+            "blue",
+            "pink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building has open sections on the upper floor, possibly for outdoor seating or observation, and is adjacent to water reflecting the clear blue sky.",
+        "sentence_cn": "该建筑的上层设有开放区域，可能用于户外座位或观景，毗邻倒映着湛蓝天空的水面。",
+        "words": [
+            "building",
+            "sections",
+            "floor",
+            "seating",
+            "observation",
+            "water",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is mostly clear with a few wispy clouds.",
+        "sentence_cn": "天空晴朗，略有几朵云。",
+        "words": [
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the image, street lamps and informational signs are visible along the wooden walkway.",
+        "sentence_cn": "在图片的左侧，可以看到木质步道旁边的路灯和信息标志。",
+        "words": [
+            "street",
+            "lamps",
+            "signs",
+            "walkway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a tropical or coastal setting, likely a tourist or leisure area.",
+        "sentence_cn": "整体场景呈现热带或沿海风光，可能是一个旅游或休闲区。",
+        "words": [
+            "scene",
+            "tourist",
+            "leisure",
+            "area"
+        ],
+        "id": null
+    }
+]

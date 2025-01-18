@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image is a screenshot of the \"mapmyride\" app, featuring a prominent blurred background of a bicycle in motion.",
+        "sentence_cn": "该图片是“mapmyride”应用程序的屏幕截图，其中突出了行驶中的自行车的模糊背景。",
+        "words": [
+            "mapmyride",
+            "app",
+            "background",
+            "bicycle",
+            "motion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app logo, which includes the text \"mapmyride\" with a bicycle icon, is displayed at the top.",
+        "sentence_cn": "该应用程序的徽标显示在顶部，包含文字“mapmyride”和自行车图标。",
+        "words": [
+            "mapmyride",
+            "app",
+            "logo",
+            "text",
+            "bicycle",
+            "icon",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo is a circular icon depicting a smartphone with a map, suggesting navigation or route tracking.",
+        "sentence_cn": "标志下方是一个圆形图标，描绘了一台带有地图的智能手机，用于导航或路线跟踪。",
+        "words": [
+            "logo",
+            "icon",
+            "smartphone",
+            "map",
+            "navigation",
+            "route",
+            "tracking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text below reads \"Join The Movement,\" inviting users to sign up for the app.",
+        "sentence_cn": "下面的文字是“加入运动”，邀请用户注册该应用程序。",
+        "words": [
+            "Join The Movement,",
+            "text",
+            "Movement",
+            "users",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights features like tracking routes, distance, speed, and calories burned.",
+        "sentence_cn": "它突出显示了跟踪路线、距离、速度和燃烧卡路里等功能。",
+        "words": [
+            "features",
+            "routes",
+            "distance",
+            "speed",
+            "calories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are two buttons: \"EXISTING USERS\" in gray and \"JOIN NOW\" in green.",
+        "sentence_cn": "底部有两个按钮：灰色的“现有用户”和绿色的“立即加入”。",
+        "words": [
+            "EXISTING USERS",
+            "JOIN NOW",
+            "bottom",
+            "two",
+            "buttons",
+            "USERS",
+            "gray",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The notification bar at the top shows various app icons, connectivity symbols, battery level, and the current time of 7:35.",
+        "sentence_cn": "顶部的通知栏显示各种应用程序图标、连接符号、电池电量以及当前时间 7:35。",
+        "words": [
+            "notification",
+            "bar",
+            "top",
+            "app",
+            "icons",
+            "connectivity",
+            "symbols",
+            "battery",
+            "level",
+            "time",
+            "7:35"
+        ],
+        "id": null
+    }
+]

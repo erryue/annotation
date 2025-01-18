@@ -1,0 +1,214 @@
+[
+    {
+        "sentence": "The image features a selection of NBA mascots, each represented with their team's branding:",
+        "sentence_cn": "图片展示了 NBA 的一些吉祥物，每个吉祥物都代表着各自球队的品牌：",
+        "words": [
+            "selection",
+            "mascots",
+            "team",
+            "branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Row:",
+        "sentence_cn": "1. 顶行：",
+        "words": [
+            "Top Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 1: Appears to be a bird wearing an Atlanta jersey indicating it's from the Atlanta Hawks.",
+        "sentence_cn": "- 吉祥物 1：看起来像一只穿着亚特兰大球衣的鸟，表明它来自亚特兰大老鹰队。",
+        "words": [
+            "Mascot 1:",
+            "Mascot",
+            "1",
+            "bird",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 2: A figure in a green outfit with shamrocks, likely from the Boston Celtics.",
+        "sentence_cn": "- 吉祥物 2：身穿绿色服装、手持三叶草的人物，可能是来自波士顿凯尔特人队。",
+        "words": [
+            "Mascot 2:",
+            "2",
+            "figure",
+            "outfit",
+            "shamrocks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 3: A blue insect-like character with \"HUGO\" written, representing the Charlotte Hornets.",
+        "sentence_cn": "- 吉祥物 3：一只蓝色的昆虫状人物，上面写着“HUGO”，代表夏洛特黄蜂队。",
+        "words": [
+            "Mascot 3:",
+            "HUGO",
+            "Mascot",
+            "3",
+            "insect",
+            "character"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Row:",
+        "sentence_cn": "2. 第二行：",
+        "words": [
+            "Second Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 4: A red bull wearing a Chicago Bulls jersey, labeled \"BENNY.\"",
+        "sentence_cn": "- 吉祥物 4：一头身穿芝加哥公牛队球衣的红牛，标有“BENNY”。",
+        "words": [
+            "Mascot 4:",
+            "BENNY.",
+            "Mascot",
+            "4",
+            "bull",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 5: Two characters, a dog and a person, labeled \"MOON DOG & SIR CC\" for the Cleveland Cavaliers.",
+        "sentence_cn": "- 吉祥物 5：两个角色，一只狗和一个人，标记为克利夫兰骑士队的“MOON DOG & SIR CC”。",
+        "words": [
+            "Mascot 5:",
+            "MOON DOG & SIR CC",
+            "Mascot",
+            "5",
+            "Two",
+            "characters",
+            "dog",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 6: A horse and a human labeled \"MAVS MAN & CHAMP,\" representing the Dallas Mavericks.",
+        "sentence_cn": "- 吉祥物 6：一匹马和一个人，上面标有“MAVS MAN & CHAMP”，代表达拉斯小牛队。",
+        "words": [
+            "Mascot 6:",
+            "MAVS MAN & CHAMP,",
+            "Mascot",
+            "6",
+            "horse",
+            "human"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Third Row:",
+        "sentence_cn": "3. 第三行：",
+        "words": [
+            "Third Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 7: A yellow mountain lion-like figure labeled \"ROCKY\" for the Denver Nuggets.",
+        "sentence_cn": "- 吉祥物 7：一只黄色的美洲狮状图案，上面标有“ROCKY”，代表丹佛掘金队。",
+        "words": [
+            "Mascot 7:",
+            "ROCKY",
+            "Mascot",
+            "7",
+            "mountain",
+            "lion",
+            "figure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 8: A horse labeled \"HOOPER,\" from the Detroit Pistons.",
+        "sentence_cn": "- 吉祥物 8：一匹标有“HOOPER”的马，来自底特律活塞队。",
+        "words": [
+            "Mascot 8:",
+            "HOOPER,",
+            "8",
+            "horse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 9: A bear on a rocket labeled \"ROCKETS,\" representing the Houston Rockets.",
+        "sentence_cn": "- 吉祥物 9：一只熊骑在一枚标有“ROCKETS”的火箭上，代表休斯顿火箭队。",
+        "words": [
+            "Mascot 9:",
+            "ROCKETS,",
+            "Mascot",
+            "9",
+            "bear",
+            "rocket",
+            "ROCKETS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Fourth Row:",
+        "sentence_cn": "4. 第四行：",
+        "words": [
+            "Fourth Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 10: A cat character riding a bicycle in Indiana Pacers colors.",
+        "sentence_cn": "- 吉祥物 10：一只猫角色骑着一辆印第安纳步行者队颜色的自行车。",
+        "words": [
+            "Mascot 10:",
+            "Mascot",
+            "10",
+            "cat",
+            "character",
+            "bicycle",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 11: A bird labeled \"CHUCK,\" representing the Los Angeles Clippers.",
+        "sentence_cn": "- 吉祥物 11：一只标有“CHUCK”的鸟，代表洛杉矶快船队。",
+        "words": [
+            "Mascot 11:",
+            "CHUCK,",
+            "Mascot",
+            "11",
+            "bird"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mascot 12: A superhero-like bear labeled \"GRIZZ,\" for the Memphis Grizzlies.",
+        "sentence_cn": "- 吉祥物 12：一只标有“GRIZZ”的超级英雄般的熊，代表孟菲斯灰熊队。",
+        "words": [
+            "Mascot 12:",
+            "GRIZZ,",
+            "Mascot",
+            "12",
+            "superhero",
+            "bear"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mascots are cartoonish and colorful, each clearly associated with their respective NBA team.",
+        "sentence_cn": "这些吉祥物造型卡通、色彩鲜艳，每个吉祥物都与各自的 NBA 球队有着明确的联系。",
+        "words": [
+            "mascots",
+            "team"
+        ],
+        "id": null
+    }
+]

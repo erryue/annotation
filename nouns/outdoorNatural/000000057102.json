@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene with a green field in the foreground, scattered with tufts of grass.",
+        "sentence_cn": "画作描绘的是一幅田园风光，前景是一片绿色的田野，上面散落着一簇簇草。",
+        "words": [
+            "scene",
+            "field",
+            "foreground",
+            "tufts",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black and white dog, possibly a sheepdog, is positioned center-left, facing away, appearing to herd a group of sheep.",
+        "sentence_cn": "一只黑白相间的狗，可能是牧羊犬，位于左中央，背对着前方，似乎在放牧一群羊。",
+        "words": [
+            "dog",
+            "sheepdog",
+            "group",
+            "sheep"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep are mostly clustered together, heading towards the right side of the image.",
+        "sentence_cn": "羊群大多聚集在一起，朝着图像的右侧走去。",
+        "words": [
+            "sheep"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the midground, the landscape is dotted with trees and bushes, showcasing a mix of vibrant green hues.",
+        "sentence_cn": "在中景中，景观中点缀着树木和灌木丛，呈现出充满活力的绿色色调。",
+        "words": [
+            "midground",
+            "landscape",
+            "trees",
+            "bushes",
+            "mix",
+            "hues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A notable feature is a small stone building or church with a pointed roof and arched windows, mostly obscured by the trees.",
+        "sentence_cn": "其显著特征是一座小型石头建筑或教堂，有尖尖的屋顶和拱形窗户，大部分被树木遮挡。",
+        "words": [
+            "feature",
+            "stone",
+            "building",
+            "church",
+            "roof",
+            "windows",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background stretches out into rolling hills, covered with dense forest, and a hazy horizon which might suggest the presence of water or a distant coastline.",
+        "sentence_cn": "背景延伸至连绵起伏的丘陵，覆盖着茂密的森林，朦胧的地平线可能暗示着水或远处海岸线的存在。",
+        "words": [
+            "background",
+            "hills",
+            "forest",
+            "horizon",
+            "presence",
+            "water",
+            "coastline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is clear with a slight haze, typical of a calm, possibly spring or summer day.",
+        "sentence_cn": "上方的天空晴朗，略带薄雾，这是平静的春天或夏日的典型特征。",
+        "words": [
+            "sky",
+            "haze",
+            "spring",
+            "summer",
+            "day"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Spawn.\"",
+        "sentence_cn": "图片是电影《再生侠》的电影海报。",
+        "words": [
+            "Spawn.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a close-up of the character Spawn's face, with a stark contrast between light and shadow.",
+        "sentence_cn": "该照片突出了角色 Spawn 的脸部特写，光影形成鲜明对比。",
+        "words": [
+            "close",
+            "up",
+            "character",
+            "face",
+            "contrast",
+            "light",
+            "shadow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Spawn's mask is visible, mostly in dark blue with highlights.",
+        "sentence_cn": "再生侠的面具清晰可见，大部分为深蓝色，带有高光。",
+        "words": [
+            "mask",
+            "blue",
+            "highlights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The eyes are glowing green, creating an intense and dramatic effect.",
+        "sentence_cn": "眼睛发出绿光，营造出强烈而戏剧性的效果。",
+        "words": [
+            "eyes",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is a hint of a red cape or fabric, adding a splash of color to the predominantly dark background.",
+        "sentence_cn": "在左侧，有一丝红色的斗篷或布料，为以深色为主的背景增添了一抹色彩。",
+        "words": [
+            "hint",
+            "cape",
+            "fabric",
+            "splash",
+            "color",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline \"Born in Darkness. Sworn to Justice.\" is written in white on the right side of the image, enhancing the mysterious and dark theme of the poster.",
+        "sentence_cn": "标语“生于黑暗，宣誓正义。”用白色写在图片右侧，增强了海报的神秘和黑暗主题。",
+        "words": [
+            "Born in Darkness. Sworn to Justice.",
+            "tagline",
+            "Darkness",
+            "Justice",
+            "white",
+            "theme",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"SPAWN\" is displayed at the bottom in large, blue letters.",
+        "sentence_cn": "标题“SPAWN”以大号蓝色字母显示在底部。",
+        "words": [
+            "SPAWN",
+            "title",
+            "bottom",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there is a smaller text detailing the production credits, displaying names and roles associated with the film.",
+        "sentence_cn": "标题下方有一小段文字，详细介绍了制作人员名单，显示了与电影相关的姓名和角色。",
+        "words": [
+            "title",
+            "text",
+            "production",
+            "credits",
+            "names",
+            "roles",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme of the poster conveys a sense of darkness, justice, and intrigue, aligning with the character's narrative.",
+        "sentence_cn": "海报的整体主题传达出一种黑暗、正义和阴谋的感觉，与角色的叙事相一致。",
+        "words": [
+            "theme",
+            "poster",
+            "sense",
+            "darkness",
+            "justice",
+            "intrigue",
+            "character",
+            "narrative"
+        ],
+        "id": null
+    }
+]

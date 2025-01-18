@@ -1,0 +1,176 @@
+[
+    {
+        "sentence": "The image is a section of a webpage from the \"Pregnancy Helpline Center.\"",
+        "sentence_cn": "该图是“怀孕帮助热线中心”网页的一部分。",
+        "words": [
+            "Pregnancy Helpline Center.",
+            "section",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header:",
+        "sentence_cn": "-标题：",
+        "words": [
+            "Header:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - It features a navigation menu with options for Education, About Us, Contact Us, Services, Giving, Events, and Blogs.",
+        "sentence_cn": "- 它具有一个导航菜单，其中包含教育、关于我们、联系我们、服务、捐赠、活动和博客等选项。",
+        "words": [
+            "navigation",
+            "menu",
+            "options",
+            "Education",
+            "Services",
+            "Events",
+            "Blogs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Image:",
+        "sentence_cn": "-主图：",
+        "words": [
+            "Main Image:",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A silhouette of a person running is set against a background of a cloudy blue sky, with text overlayed.",
+        "sentence_cn": "- 在多云的蓝天背景下，描绘出一个人奔跑的轮廓，上面叠加着文字。",
+        "words": [
+            "silhouette",
+            "person",
+            "background",
+            "sky",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The text promotes a \"5k Baby Love Run/Walk,\" specifically the 2nd Annual event on October 3, 2015.",
+        "sentence_cn": "- 该文字宣传了“5k宝贝爱跑步/散步”，特别是2015年10月3日的第二届年度活动。",
+        "words": [
+            "5k Baby Love Run/Walk,",
+            "text",
+            "5k",
+            "event",
+            "3",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The event is described as \"Fun for the Whole Family,\" including activities like running, walking, children's activities, and food.",
+        "sentence_cn": "该活动被描述为“全家同乐”，包括跑步、散步、儿童活动和美食等。",
+        "words": [
+            "Fun for the Whole Family,",
+            "event",
+            "activities",
+            "running",
+            "walking",
+            "children",
+            "activities",
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Content Below:",
+        "sentence_cn": "- 以下内容：",
+        "words": [
+            "Content Below:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A section titled \"Are You Pregnant?\" addresses individuals who may be dealing with concerns about an unplanned pregnancy.",
+        "sentence_cn": "- “您怀孕了吗？”部分针对那些可能担心意外怀孕的个人。",
+        "words": [
+            "Are You Pregnant?",
+            "section",
+            "individuals",
+            "concerns",
+            "pregnancy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- It emphasizes that they don¡¯t judge or tell people what to decide.",
+        "sentence_cn": "- 强调他们不会评判或告诉人们该如何决定。",
+        "words": [
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Instead, they offer support by providing free lab-quality pregnancy tests and accurate medical information.",
+        "sentence_cn": "相反，他们通过提供免费的实验室质量妊娠测试和准确的医疗信息提供支持。",
+        "words": [
+            "support",
+            "lab",
+            "quality",
+            "pregnancy",
+            "tests",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The text reassures that all services are confidential and free of charge and encourages visitors to discuss options in a safe environment.",
+        "sentence_cn": "- 文字保证所有服务都是保密且免费的，并鼓励访客在安全的环境中讨论选择。",
+        "words": [
+            "text",
+            "services",
+            "charge",
+            "visitors",
+            "options",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visual Style:",
+        "sentence_cn": "- 视觉风格：",
+        "words": [
+            "Visual Style:",
+            "Style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The page uses a clean and professional layout with a light blue, green, and white color scheme.",
+        "sentence_cn": "- 页面采用简洁、专业的布局，配色方案为浅蓝色、绿色和白色。",
+        "words": [
+            "page",
+            "layout",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    }
+]

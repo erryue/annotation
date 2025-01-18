@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image depicts a vibrant carnival scene at sunset.",
+        "sentence_cn": "这幅图描绘的是日落时分热闹的狂欢节场景。",
+        "words": [
+            "carnival",
+            "scene",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main focal point is a large Ferris wheel with multicolored cabins¡ªred, yellow, and green¡ªset against a softly lit, dusky sky.",
+        "sentence_cn": "主要的焦点是一个巨大的摩天轮，上面有五颜六色的车厢——红色、黄色和绿色——映衬着柔和的昏暗天空。",
+        "words": [
+            "point",
+            "wheel",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Ferris wheel structure is decorated with bright lights, and at its center is a crest-like design.",
+        "sentence_cn": "摩天轮结构装饰有明亮的灯光，其中心呈徽章状设计。",
+        "words": [
+            "wheel",
+            "structure",
+            "lights",
+            "center",
+            "crest",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are various amusement rides with colorful tents and flags.",
+        "sentence_cn": "前景是各种游乐设施，有五颜六色的帐篷和旗帜。",
+        "words": [
+            "foreground",
+            "amusement",
+            "rides",
+            "tents",
+            "flags"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One tent is striped with shades of red, yellow, and a hint of orange, adding to the festivities.",
+        "sentence_cn": "其中一个帐篷上有红色、黄色和橙色的条纹，增添了喜庆的气氛。",
+        "words": [
+            "One",
+            "tent",
+            "shades",
+            "red",
+            "yellow",
+            "hint",
+            "orange",
+            "festivities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there are people engaging in activities and attractions, though individual details are obscured by the distance and lighting.",
+        "sentence_cn": "下面，人们正在从事各种活动和景点，但由于距离和灯光的原因，个人细节被遮挡住了。",
+        "words": [
+            "people",
+            "activities",
+            "attractions",
+            "details",
+            "distance",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bright lights and vivid colors create an energetic and lively atmosphere, typical of a fairground setting.",
+        "sentence_cn": "明亮的灯光和鲜艳的色彩营造出充满活力和生机的氛围，这是游乐场的典型特征。",
+        "words": [
+            "lights",
+            "colors",
+            "atmosphere",
+            "fairground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance suggests a joyful, family-friendly environment filled with entertainment and excitement.",
+        "sentence_cn": "整体氛围体现出一种充满娱乐和兴奋的欢乐、家庭友好的环境。",
+        "words": [
+            "ambiance",
+            "family",
+            "environment",
+            "entertainment",
+            "excitement"
+        ],
+        "id": null
+    }
+]

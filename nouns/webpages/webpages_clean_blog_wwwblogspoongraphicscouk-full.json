@@ -1,0 +1,133 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from \"Blog.SpoonGraphics.\"",
+        "sentence_cn": "该图片是“Blog.SpoonGraphics”网页的截图。",
+        "words": [
+            "Blog.SpoonGraphics.",
+            "webpage",
+            "Blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a header with social media links to Twitter, Facebook, a newsletter, and an RSS feed icon.",
+        "sentence_cn": "它的标题包含指向 Twitter、Facebook、时事通讯和 RSS 提要图标的社交媒体链接。",
+        "words": [
+            "header",
+            "media",
+            "links",
+            "newsletter",
+            "RSS",
+            "feed",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main heading reads \"Video Tutorial: How To Create a Fun Vector Illustration.\"",
+        "sentence_cn": "主要标题为“视频教程：如何创建有趣的矢量插图”。",
+        "words": [
+            "Video Tutorial: How To Create a Fun Vector Illustration.",
+            "heading",
+            "Tutorial",
+            "Vector",
+            "Illustration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the heading, there is a colorful abstract graphic with geometric shapes in red, green, blue, and yellow.",
+        "sentence_cn": "标题下方有一个彩色的抽象图形，其中有红色、绿色、蓝色和黄色的几何形状。",
+        "words": [
+            "heading",
+            "graphic",
+            "shapes",
+            "red",
+            "green",
+            "blue",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text details an Adobe Illustrator tutorial, describing the process of creating vector artwork with basic tools and shapes.",
+        "sentence_cn": "文本详细介绍了 Adob​​e Illustrator 教程，描述了使用基本工具和形状创建矢量图片的过程。",
+        "words": [
+            "text",
+            "tutorial",
+            "process",
+            "vector",
+            "artwork",
+            "tools",
+            "shapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights the versatility and scalability of vector graphics.",
+        "sentence_cn": "它突出了矢量图形的多功能性和可扩展性。",
+        "words": [
+            "versatility",
+            "scalability",
+            "vector",
+            "graphics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there is a subscription box encouraging users to subscribe for updates and receive a free resources bundle.",
+        "sentence_cn": "右侧有一个订阅框，鼓励用户订阅更新并获得免费资源包。",
+        "words": [
+            "subscription",
+            "box",
+            "users",
+            "updates",
+            "resources",
+            "bundle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a button labeled \"SUBSCRIBE NOW.\"",
+        "sentence_cn": "有一个按钮标有“立即订阅”。",
+        "words": [
+            "SUBSCRIBE NOW.",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there is an image promoting \"The Huge Font Bundle.\"",
+        "sentence_cn": "下面是一张宣传“巨型字体包”的图片。",
+        "words": [
+            "The Huge Font Bundle."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page design uses an earthy color palette with beige backgrounds and brown text accents.",
+        "sentence_cn": "页面设计使用了泥土色调，搭配米色背景和棕色文字点缀。",
+        "words": [
+            "page",
+            "design",
+            "color",
+            "palette",
+            "backgrounds",
+            "text",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A \"READ MORE\" button is located at the bottom of the text section.",
+        "sentence_cn": "文本部分的底部有一个“阅读更多”按钮。",
+        "words": [
+            "READ MORE",
+            "button",
+            "bottom",
+            "text",
+            "section"
+        ],
+        "id": null
+    }
+]

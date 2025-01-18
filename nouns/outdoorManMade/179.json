@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image shows a scenic outdoor dining area on a wooden deck with a breathtaking view of a large body of water, possibly a lake, under a bright blue sky scattered with fluffy clouds.",
+        "sentence_cn": "照片中显示的是木质甲板上的风景优美的户外用餐区，可以欣赏到一大片水域（可能是湖泊）的壮丽景色，蓝天白云点缀其间。",
+        "words": [
+            "dining",
+            "area",
+            "deck",
+            "view",
+            "body",
+            "water",
+            "lake",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The deck is furnished with several round glass tables and wicker chairs, organized neatly to accommodate multiple seating arrangements.",
+        "sentence_cn": "甲板上摆放着几张圆形玻璃桌和柳条椅，整齐地摆放以适应多种座位安排。",
+        "words": [
+            "deck",
+            "glass",
+            "tables",
+            "wicker",
+            "chairs",
+            "seating",
+            "arrangements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area seems to be elevated, suggesting it's part of a hillside or cliffside terrace.",
+        "sentence_cn": "该地区似乎是高架的，表明它是山坡或悬崖露台的一部分。",
+        "words": [
+            "area",
+            "part",
+            "hillside",
+            "cliffside",
+            "terrace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the turquoise water stretches out with land visible in the distance, adding to the panoramic beauty.",
+        "sentence_cn": "背景中，碧绿的海水延伸开来，远处可见陆地，更增添了全景之美。",
+        "words": [
+            "background",
+            "water",
+            "land",
+            "distance",
+            "beauty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some trees and foliage can be seen around the deck, enhancing the natural ambiance.",
+        "sentence_cn": "甲板周围可以看到一些树木和树叶，增强了自然氛围。",
+        "words": [
+            "trees",
+            "foliage",
+            "deck",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there are large fans mounted on poles, likely to provide cooling on warm days.",
+        "sentence_cn": "此外，还有安装在杆子上的大型风扇，可以在温暖的日子提供凉爽。",
+        "words": [
+            "fans",
+            "poles",
+            "cooling",
+            "days"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere suggests a peaceful and relaxing setting, perfect for dining or leisure.",
+        "sentence_cn": "整体氛围营造出一种宁静、轻松的环境，非常适合用餐或休闲。",
+        "words": [
+            "atmosphere",
+            "dining",
+            "leisure"
+        ],
+        "id": null
+    }
+]

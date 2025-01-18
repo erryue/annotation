@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image depicts a serene scene of mallard ducks swimming in a body of water.",
+        "sentence_cn": "图像描绘了绿头鸭在水中畅游的宁静场景。",
+        "words": [
+            "scene",
+            "mallard",
+            "ducks",
+            "body",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several ducks, both male and female, visible in the frame.",
+        "sentence_cn": "画面中可以看到几只鸭子，有公的，也有母的。",
+        "words": [
+            "ducks",
+            "frame"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Foreground Ducks: In the foreground, two male mallards are prominently visible.",
+        "sentence_cn": "1. 前景鸭子：在前景中，两只雄性绿头鸭清晰可见。",
+        "words": [
+            "Foreground Ducks",
+            "foreground",
+            "two",
+            "mallards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have characteristic bright green heads, white neck rings, and yellow beaks.",
+        "sentence_cn": "它们的特点是具有鲜绿色的头部、白色的颈环和黄色的喙。",
+        "words": [
+            "heads",
+            "neck",
+            "rings",
+            "beaks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their bodies are a mix of gray and brown tones.",
+        "sentence_cn": "它们的身体颜色混合了灰色和棕色。",
+        "words": [
+            "bodies",
+            "mix",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The reflection of their vibrant colors shimmers on the water's surface.",
+        "sentence_cn": "它们的鲜艳色彩在水面上闪闪发光。",
+        "words": [
+            "reflection",
+            "colors",
+            "water",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Background Ducks: In the background, there are more ducks, including what appear to be female mallards.",
+        "sentence_cn": "2. 背景鸭子：背景中有更多的鸭子，包括看起来像雌性绿头鸭的鸭子。",
+        "words": [
+            "Background Ducks",
+            "Background",
+            "Ducks",
+            "background",
+            "ducks",
+            "mallards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have mottled brown plumage and slightly muted colors compared to the males.",
+        "sentence_cn": "与雄性相比，它们的羽毛呈斑驳的棕色，颜色略显柔和。",
+        "words": [
+            "plumage",
+            "colors",
+            "males"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Water and Surroundings: The water is calm, creating soft reflections and ripples around the ducks.",
+        "sentence_cn": "3. 水和周围环境：水很平静，在鸭子周围形成柔和的倒影和涟漪。",
+        "words": [
+            "Water and Surroundings",
+            "Water",
+            "Surroundings",
+            "water",
+            "reflections",
+            "ripples",
+            "ducks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is natural, with brown reeds or grasses lining the edge of the water, suggesting a wetland or pond habitat.",
+        "sentence_cn": "这里的环境很自然，水边长满了棕色的芦苇或草，表明这里是湿地或池塘栖息地。",
+        "words": [
+            "reeds",
+            "grasses",
+            "edge",
+            "water",
+            "wetland",
+            "pond",
+            "habitat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests it might be late afternoon, casting a warm, golden glow over the scene.",
+        "sentence_cn": "灯光表明当时可能已是傍晚，整个场景笼罩在温暖的金色光芒中。",
+        "words": [
+            "lighting",
+            "afternoon",
+            "glow",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the composition captures a peaceful, natural environment with a focus on the ducks' interactions.",
+        "sentence_cn": "总体而言，该构图捕捉到了宁静、自然的环境，重点展现了鸭子的互动。",
+        "words": [
+            "composition",
+            "environment",
+            "focus",
+            "ducks",
+            "interactions"
+        ],
+        "id": null
+    }
+]

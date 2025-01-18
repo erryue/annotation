@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image shows a lively urban scene in what appears to be a European city square.",
+        "sentence_cn": "图片展示了一个类似欧洲城市广场的热闹的城市景象。",
+        "words": [
+            "scene",
+            "city",
+            "square"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground features a fountain with arcing water jets, creating a semi-circular pattern.",
+        "sentence_cn": "前景是一座喷泉，喷出弧形水流，形成半圆形图案。",
+        "words": [
+            "foreground",
+            "fountain",
+            "water",
+            "jets",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a small group of people are engaged in conversation on the paved square.",
+        "sentence_cn": "右边，一小群人在铺砌的广场上交谈。",
+        "words": [
+            "right",
+            "group",
+            "people",
+            "conversation",
+            "square"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind them, trees offer some greenery amidst the architecture.",
+        "sentence_cn": "在它们身后，树木为建筑物增添了几分绿意。",
+        "words": [
+            "trees",
+            "greenery",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background showcases buildings with decorative facades, characterized by large windows with shutters and small balconies.",
+        "sentence_cn": "背景展示了具有装饰性外观的建筑，其特点是带有百叶窗的大窗户和小阳台。",
+        "words": [
+            "background",
+            "buildings",
+            "facades",
+            "windows",
+            "shutters",
+            "balconies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A white SUV and a green car are parked along the street adjacent to the square.",
+        "sentence_cn": "一辆白色SUV和一辆绿色轿车停在广场旁边的街道上。",
+        "words": [
+            "car",
+            "street",
+            "square"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pedestrians are visible in the distance, along with traffic signals and street lamps, adding to the city atmosphere.",
+        "sentence_cn": "远处可以看到行人，还有交通信号灯和路灯，增添了城市氛围。",
+        "words": [
+            "Pedestrians",
+            "distance",
+            "traffic",
+            "signals",
+            "street",
+            "lamps",
+            "city",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a sunny day, giving the scene a warm and vibrant feel.",
+        "sentence_cn": "整体场景呈现晴朗的天气，给人一种温暖而充满活力的感觉。",
+        "words": [
+            "day",
+            "scene",
+            "feel"
+        ],
+        "id": null
+    }
+]

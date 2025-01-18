@@ -1,0 +1,108 @@
+[
+    {
+        "sentence": "The image displays a speed test interface on a mobile device.",
+        "sentence_cn": "图像显示的是移动设备上的速度测试界面。",
+        "words": [
+            "speed",
+            "test",
+            "interface",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a notification bar with icons and the time \"7:35\".",
+        "sentence_cn": "顶部有一个带有图标和时间“7:35”的通知栏。",
+        "words": [
+            "7:35",
+            "top",
+            "notification",
+            "bar",
+            "icons",
+            "time",
+            "7:35"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there's an orange banner with a warning symbol and the message, \"Install latest version to improve accuracy.\"",
+        "sentence_cn": "下面有一个橙色横幅，上面有警告符号和消息“安装最新版本以提高准确性”。",
+        "words": [
+            "Install latest version to improve accuracy.",
+            "banner",
+            "symbol",
+            "message",
+            "version",
+            "accuracy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, a speedometer-style gauge shows the internet speed at \"0.32 Mb/s\" with an orange indicator.",
+        "sentence_cn": "在中心，一个速度计式的仪表用橙色指示器显示互联网速度为“0.32 Mb/s”。",
+        "words": [
+            "0.32 Mb/s",
+            "center",
+            "speedometer",
+            "style",
+            "gauge",
+            "internet",
+            "speed",
+            "0.32",
+            "Mb",
+            "/",
+            "s",
+            "indicator"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The gauge ranges from 0 to 50 Mb/s.",
+        "sentence_cn": "该测量范围从 0 到 50 Mb/s。",
+        "words": [
+            "gauge",
+            "0",
+            "50",
+            "Mb",
+            "/"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the speed reading, the progress is stated as \"PROGRESS: 1%\".",
+        "sentence_cn": "在速读下方，进度显示为“进度：1%”。",
+        "words": [
+            "PROGRESS: 1%",
+            "speed",
+            "reading",
+            "progress",
+            "PROGRESS",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further down, the PING is shown as \"41 ms\".",
+        "sentence_cn": "再往下，PING 显示为“41 毫秒”。",
+        "words": [
+            "41 ms",
+            "PING",
+            "41",
+            "ms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large orange button at the bottom reads, \"DOWNLOAD TEST IN PROGRESS...\".",
+        "sentence_cn": "底部有一个大的橙色按钮，上面写着“下载测试正在进行中……”。",
+        "words": [
+            "DOWNLOAD TEST IN PROGRESS...",
+            "orange",
+            "button",
+            "bottom",
+            "TEST",
+            "PROGRESS"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Hot Stuff: Which Chilli Sauce to Choose?\"",
+        "sentence_cn": "该图是一张信息图，标题为“辣味食品：选择哪种辣椒酱？”",
+        "words": [
+            "Hot Stuff: Which Chilli Sauce to Choose?",
+            "Stuff",
+            "Chilli",
+            "Sauce"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a flowchart designed to help choose a chili sauce based on preferences.",
+        "sentence_cn": "它有一个流程图，旨在帮助您根据喜好选择辣椒酱。",
+        "words": [
+            "flowchart",
+            "chili",
+            "sauce",
+            "preferences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark purple with orange borders, and the text is in white and orange.",
+        "sentence_cn": "背景为深紫色，带有橙色边框，文字为白色和橙色。",
+        "words": [
+            "background",
+            "orange",
+            "borders",
+            "text",
+            "white",
+            "orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Starting at the top, the chart asks a series of questions:",
+        "sentence_cn": "从顶部开始，图表提出了一系列问题：",
+        "words": [
+            "top",
+            "chart",
+            "series",
+            "questions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"Dipping?\"",
+        "sentence_cn": "1.“浸渍？”",
+        "words": [
+            "Dipping?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"Yes\", it suggests \"Sweet Chilli.\"",
+        "sentence_cn": "- 如果选择“是”，则建议选择“甜辣椒”。",
+        "words": [
+            "Yes",
+            "Sweet Chilli."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"No\", it moves to \"Just a Dash?\"",
+        "sentence_cn": "- 如果选择“否”，则转为“只需一点？”",
+        "words": [
+            "No",
+            "Just a Dash?",
+            "Dash"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"Just a Dash?\"",
+        "sentence_cn": "2.“只是一点点？”",
+        "words": [
+            "Just a Dash?",
+            "Dash"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"Yes\", it recommends \"Tabasco.\"",
+        "sentence_cn": "- 如果回答“是”，则推荐“Tabasco”。",
+        "words": [
+            "Yes",
+            "Tabasco."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"No\", it leads to \"Something Milder?\"",
+        "sentence_cn": "- 如果“否”，则询问“要更温和的吗？”",
+        "words": [
+            "No",
+            "Something Milder?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. \"Something Milder?\"",
+        "sentence_cn": "3.“来点更温和的吗？”",
+        "words": [
+            "Something Milder?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"Yes\", it suggests \"Harissa.\"",
+        "sentence_cn": "- 如果“是”，则建议使用“Harissa”。",
+        "words": [
+            "Yes",
+            "Harissa."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"No\", it goes to \"American?\"",
+        "sentence_cn": "- 如果“否”，则改为“美国人？”",
+        "words": [
+            "No",
+            "American?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. \"American?\"",
+        "sentence_cn": "4.“美国人？”",
+        "words": [
+            "American?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"Yes\", it asks \"Smoked?\"",
+        "sentence_cn": "- 如果回答“是”，则会询问“抽烟了吗？”",
+        "words": [
+            "Yes",
+            "Smoked?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - If \"Yes\", it suggests \"Chipotle.\"",
+        "sentence_cn": "- 如果“是”，则建议“Chipotle”。",
+        "words": [
+            "Yes",
+            "Chipotle."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - If \"No\", it recommends \"Louisiana.\"",
+        "sentence_cn": "- 如果选择“否”，则推荐“路易斯安那州”。",
+        "words": [
+            "No",
+            "Louisiana.",
+            "Louisiana"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"No\", it proceeds to \"Garlic?\"",
+        "sentence_cn": "- 如果“否”，则继续询问“大蒜？”",
+        "words": [
+            "No",
+            "Garlic?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. \"Garlic?\"",
+        "sentence_cn": "5.“大蒜？”",
+        "words": [
+            "Garlic?",
+            "Garlic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"Yes\", it recommends \"Peri Peri.\"",
+        "sentence_cn": "- 如果“是”，则推荐“Peri Peri”。",
+        "words": [
+            "Yes",
+            "Peri Peri."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - If \"No\", it suggests \"Jamaican Hot Pepper.\"",
+        "sentence_cn": "- 如果“否”，则建议“牙买加辣椒”。",
+        "words": [
+            "No",
+            "Jamaican Hot Pepper."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each sauce suggestion is accompanied by an illustration of a bottle with the sauce name.",
+        "sentence_cn": "每种酱汁建议都附有一张带有酱汁名称的瓶子插图。",
+        "words": [
+            "sauce",
+            "suggestion",
+            "illustration",
+            "bottle",
+            "sauce",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is credited to \"stephenwildish.co.uk\" at the bottom.",
+        "sentence_cn": "信息图底部注明来源为“stephenwildish.co.uk”。",
+        "words": [
+            "stephenwildish.co.uk",
+            "bottom"
+        ],
+        "id": null
+    }
+]

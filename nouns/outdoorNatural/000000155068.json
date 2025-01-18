@@ -1,0 +1,53 @@
+[
+    {
+        "sentence": "The image shows a group of five cows grazing in a lush, green field.",
+        "sentence_cn": "图中是五头牛在郁郁葱葱的绿色田野中吃草。",
+        "words": [
+            "group",
+            "five",
+            "cows",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows are dark brown or black and are spread out, leisurely eating the grass.",
+        "sentence_cn": "奶牛呈深棕色或黑色，散开来，悠闲地吃着草。",
+        "words": [
+            "cows",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is dense greenery consisting of bushes and trees, adding depth to the scene.",
+        "sentence_cn": "背景中，有灌木和树木组成的茂密绿色植物，为场景增添了深度。",
+        "words": [
+            "background",
+            "greenery",
+            "bushes",
+            "trees",
+            "depth",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is not visible, and there are buildings partially obscured by the foliage, suggesting a rural or semi-rural setting.",
+        "sentence_cn": "看不到天空，建筑物部分被树叶遮挡，表明这是一个乡村或半乡村环境。",
+        "words": [
+            "sky",
+            "buildings",
+            "foliage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is peaceful and pastoral.",
+        "sentence_cn": "整体氛围是宁静而田园的。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,7 +1,7 @@
 [
     {
         "sentence": "The image depicts a warm and cozy living and dining area with an inviting ambiance.",
-        "sentence_cn": "图片描绘的是一个温暖、舒适、充满诱人氛围的起居和用餐区。",
+        "sentence_cn": "图片描绘的是温暖、舒适、充满诱人氛围的起居和用餐区。",
         "words": [
             "living",
             "dining",
@@ -23,8 +23,8 @@
         "id": null
     },
     {
-        "sentence": "**Living Area:**",
-        "sentence_cn": "**居住面积：**",
+        "sentence": "Living Area:",
+        "sentence_cn": "居住面积：",
         "words": [
             "Living Area:",
             "Living",
@@ -77,8 +77,8 @@
         "id": null
     },
     {
-        "sentence": "**Dining Area:**",
-        "sentence_cn": "**用餐区：**",
+        "sentence": "Dining Area:",
+        "sentence_cn": "用餐区：",
         "words": [
             "Dining Area:",
             "Dining",
@@ -123,8 +123,8 @@
         "id": null
     },
     {
-        "sentence": "**Additional Features:**",
-        "sentence_cn": "**附加功能：**",
+        "sentence": "Additional Features:",
+        "sentence_cn": "附加功能：",
         "words": [
             "Additional Features:",
             "Features"

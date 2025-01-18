@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a scenic coastal view with a clear blue sky and calm waters.",
+        "sentence_cn": "图片描绘的是风景秀丽的海岸景色，天空湛蓝，海水平静。",
+        "words": [
+            "view",
+            "sky",
+            "waters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several yellow patio umbrellas and chairs, indicating an outdoor seating area, possibly for a restaurant or caf¨¦.",
+        "sentence_cn": "前景中，有几把黄色的露台遮阳伞和椅子，表明这里有一个户外座位区，可能是餐厅或咖啡馆。",
+        "words": [
+            "foreground",
+            "patio",
+            "umbrellas",
+            "chairs",
+            "seating",
+            "area",
+            "restaurant",
+            "caf¨"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond this, a wooden pier extends into the water, where a large sailing ship with multiple masts is docked.",
+        "sentence_cn": "除此之外，还有一个木制码头延伸到水中，一艘有着多根桅杆的大型帆船停靠在那里。",
+        "words": [
+            "pier",
+            "water",
+            "sailing",
+            "ship",
+            "masts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ship is equipped with flags and has a classic, tall ship design.",
+        "sentence_cn": "该船配有旗帜，具有经典的高大船舶设计。",
+        "words": [
+            "ship",
+            "flags",
+            "ship",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the water, several other boats and yachts are anchored, creating a lively harbor scene.",
+        "sentence_cn": "水中停泊着几艘船只和游艇，呈现出热闹的海港景象。",
+        "words": [
+            "water",
+            "boats",
+            "yachts",
+            "harbor",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a lush, green, tree-covered landmass that stretches along the horizon, suggesting a natural and serene environment.",
+        "sentence_cn": "背景中，有一片郁郁葱葱、树木覆盖的大陆，沿着地平线延伸，呈现出一种自然而宁静的环境。",
+        "words": [
+            "background",
+            "tree",
+            "landmass",
+            "horizon",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is one of leisure and relaxation, capturing the essence of a picturesque waterfront location.",
+        "sentence_cn": "整体氛围是休闲和放松的，体现了风景如画的海滨风光的精髓。",
+        "words": [
+            "atmosphere",
+            "one",
+            "leisure",
+            "relaxation",
+            "essence",
+            "waterfront",
+            "location"
+        ],
+        "id": null
+    }
+]

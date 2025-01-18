@@ -1,0 +1,24 @@
+[
+    {
+        "id": "3f4fbc9e-2190-45e5-9f3a-534e83bd8a9b",
+        "confidence": 0.8996,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 36.67789,
+                        "minY": 280.24994,
+                        "maxX": 168.67929,
+                        "maxY": 537.46191
+                    },
+                    "x": 36.67789,
+                    "y": 280.24994,
+                    "w": 132.00140000000002,
+                    "h": 257.21197
+                }
+            }
+        }
+    }
+]

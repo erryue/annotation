@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image depicts a picturesque traditional English cottage.",
+        "sentence_cn": "图像描绘的是一座风景如画的传统英式小屋。",
+        "words": [
+            "cottage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structure is primarily built with red brick and features distinctive black timber framing, characteristic of Tudor architecture.",
+        "sentence_cn": "该建筑主要以红砖砌成，并具有独特的黑色木结构，这是都铎式建筑的典型特征。",
+        "words": [
+            "structure",
+            "brick",
+            "timber",
+            "framing",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The roof is covered with red, weathered shingles, adding to its rustic charm.",
+        "sentence_cn": "屋顶覆盖着红色的、风化的木瓦，更增添了它的乡村魅力。",
+        "words": [
+            "roof",
+            "shingles",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cottage has several small, white-framed windows, and there's a white door at the center.",
+        "sentence_cn": "小屋有几扇白色框架的小窗户，中央有一扇白色的门。",
+        "words": [
+            "cottage",
+            "windows",
+            "door",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area in front of the building is adorned with vibrant flower beds and climbing plants, giving the home a welcoming, lush appearance.",
+        "sentence_cn": "建筑物前面的区域装饰有鲜艳的花坛和攀缘植物，给房屋带来了温馨、郁郁葱葱的外观。",
+        "words": [
+            "area",
+            "front",
+            "building",
+            "flower",
+            "beds",
+            "climbing",
+            "plants",
+            "home",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large tree and dense greenery can be seen on the right, providing a natural backdrop.",
+        "sentence_cn": "右侧有一棵大树和茂密的绿色植物，形成了自然的背景。",
+        "words": [
+            "tree",
+            "greenery",
+            "right",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a grassy path leading to the cottage with a unique, weathered wooden bench or sculpture, contributing to the quaint, idyllic setting.",
+        "sentence_cn": "在前景中，有一条草路通往小屋，小屋旁有独特的、风化的木凳或雕塑，营造出古雅、田园诗般的氛围。",
+        "words": [
+            "foreground",
+            "path",
+            "cottage",
+            "bench",
+            "sculpture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is bright and sunny, enhancing the vibrant colors and overall charm of this rural countryside home.",
+        "sentence_cn": "场景明亮而阳光充足，增强了这座乡村住宅的鲜艳色彩和整体魅力。",
+        "words": [
+            "scene",
+            "colors",
+            "charm",
+            "countryside",
+            "home"
+        ],
+        "id": null
+    }
+]

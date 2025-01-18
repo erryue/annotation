@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image shows a decorative arrangement on a shelf or table against a plain white wall.",
+        "sentence_cn": "图像显示了白色墙壁旁的架子或桌子上的装饰布置。",
+        "words": [
+            "arrangement",
+            "shelf",
+            "table",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Ceramic Figurine: There is a ceramic figurine of a woman wearing traditional clothing, possibly a kimono, holding a decorated fan.",
+        "sentence_cn": "1. 陶瓷雕像：有一个陶瓷雕像，雕像中的女性身穿传统服装，可能是和服，手里拿着一把装饰扇子。",
+        "words": [
+            "Ceramic Figurine",
+            "Figurine",
+            "figurine",
+            "woman",
+            "clothing",
+            "kimono",
+            "fan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The figurine is intricately detailed with subtle colors and patterns.",
+        "sentence_cn": "该小雕像色彩和图案精致，细节复杂。",
+        "words": [
+            "figurine",
+            "colors",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Orchid Flower:",
+        "sentence_cn": "2. 兰花：",
+        "words": [
+            "Orchid Flower",
+            "Orchid",
+            "Flower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the figurine, there is an artificial or real orchid plant in a small, round white pot.",
+        "sentence_cn": "小雕像旁边有一个小圆形白色花盆，里面栽种着一株假兰花或真兰花。",
+        "words": [
+            "figurine",
+            "orchid",
+            "plant",
+            "pot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plant has arching stems with white flowers and green buds, and two large dark green leaves at the base.",
+        "sentence_cn": "该植物有拱形茎，有白色的花朵和绿色的花蕾，基部有两片深绿色的大叶子。",
+        "words": [
+            "plant",
+            "stems",
+            "flowers",
+            "buds",
+            "two",
+            "leaves",
+            "base"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Pink Candle: To the left of the ceramic figurine, there is a pink, cylindrical candle with a visible wick, placed on a flat surface.",
+        "sentence_cn": "3. 粉色蜡烛：陶瓷小雕像的左边有一个粉色圆柱形蜡烛，灯芯清晰可见，放置在平坦的表面上。",
+        "words": [
+            "Pink Candle",
+            "Candle",
+            "left",
+            "figurine",
+            "candle",
+            "wick",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition is elegant and minimalistic, combining elements of traditional and natural aesthetics.",
+        "sentence_cn": "整体构图优雅简约，融合了传统与自然美学元素。",
+        "words": [
+            "composition",
+            "elements",
+            "aesthetics"
+        ],
+        "id": null
+    }
+]

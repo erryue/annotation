@@ -1,0 +1,54 @@
+[
+    {
+        "sentence": "The image shows a woman wearing a white gown with a sash reading \"MISS NEW YORK USA\" draped across her body.",
+        "sentence_cn": "照片中，一名女子身穿白色长袍，腰间系着一条写有“美国纽约小姐”字样的腰带。",
+        "words": [
+            "MISS NEW YORK USA",
+            "woman",
+            "gown",
+            "sash",
+            "body"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is also wearing a sparkling crown.",
+        "sentence_cn": "她还戴着一顶闪闪发光的皇冠。",
+        "words": [
+            "crown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is holding a large bouquet of red and white flowers, with a big white ribbon tied around them.",
+        "sentence_cn": "女子手捧一大束红白相间的鲜花，花束上系着一条白色大丝带。",
+        "words": [
+            "woman",
+            "bouquet",
+            "flowers",
+            "ribbon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is standing in front of a house with a gray shingled roof, white siding, and brown shutters.",
+        "sentence_cn": "她站在一栋房子前，房子有灰色的木瓦屋顶、白色的墙板和棕色的百叶窗。",
+        "words": [
+            "front",
+            "house",
+            "roof",
+            "siding",
+            "shutters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be outdoors, with greenery visible around the house.",
+        "sentence_cn": "场景似乎是在户外，房子周围可以看到绿色植物。",
+        "words": [
+            "greenery",
+            "house"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "sentence": "The image displays a webpage for DPD Software Ltd.",
+        "sentence_cn": "该图显示的是 DPD Software Ltd. 的网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Section:",
+        "sentence_cn": "- 顶部部分：",
+        "words": [
+            "Top Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A logo with the text \"DPD Software Ltd.\" is on the left.",
+        "sentence_cn": "- 左侧有带有“DPD Software Ltd.”文字的徽标。",
+        "words": [
+            "DPD Software Ltd.",
+            "logo",
+            "text",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Contact information includes an address in Winnipeg, MB, a phone number, and a toll-free number.",
+        "sentence_cn": "- 联系信息包括位于马尼托巴省温尼伯的地址、电话号码和免费电话号码。",
+        "words": [
+            "Contact",
+            "information",
+            "address",
+            "Winnipeg",
+            "MB",
+            "phone",
+            "number",
+            "toll",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The date shown is Wednesday, September 2, 2015.",
+        "sentence_cn": "- 显示的日期为 2015 年 9 月 2 日，星期三。",
+        "words": [
+            "date",
+            "2",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation Bar:",
+        "sentence_cn": "- 导航栏：",
+        "words": [
+            "Navigation Bar",
+            "Navigation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Located below the logo, with tabs labeled: Home, Foreword, Products and Services, Why Choose DPD, Philosophy, Contact Us, Affiliations, Testimonials.",
+        "sentence_cn": "- 位于徽标下方，标签为：主页、前言、产品和服务、为什么选择 DPD、理念、联系我们、附属机构、推荐。",
+        "words": [
+            "logo",
+            "tabs",
+            "Home",
+            "Foreword",
+            "Services",
+            "Philosophy",
+            "Affiliations",
+            "Testimonials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Content:",
+        "sentence_cn": "- 主要内容：",
+        "words": [
+            "Main Content",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Three icons are displayed horizontally:",
+        "sentence_cn": "- 三个图标水平显示：",
+        "words": [
+            "Three",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - A gear icon labeled \"Products & Services\".",
+        "sentence_cn": "- 标有“产品和服务”的齿轮图标。",
+        "words": [
+            "Products & Services",
+            "gear",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - A silhouette with a question mark labeled \"Why Choose DPD\".",
+        "sentence_cn": "- 一个带有问号的轮廓，标有“为什么选择 DPD”。",
+        "words": [
+            "Why Choose DPD",
+            "silhouette",
+            "question",
+            "mark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - A telephone icon labeled \"Contact Us\".",
+        "sentence_cn": "- 标有“联系我们”的电话图标。",
+        "words": [
+            "Contact Us",
+            "telephone",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mission Statement:",
+        "sentence_cn": "- 使命宣言：",
+        "words": [
+            "Mission Statement",
+            "Mission",
+            "Statement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Text in blue reads \"Mission Statement\" with the purpose outlined:",
+        "sentence_cn": "- 蓝色文字为“使命宣言”，其目的概述如下：",
+        "words": [
+            "Mission Statement",
+            "Text",
+            "purpose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- To guide in identifying IT needs.",
+        "sentence_cn": "- 指导识别 IT 需求。",
+        "words": [
+            "needs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - To design and implement complementing solutions.",
+        "sentence_cn": "- 设计并实施补充解决方案。",
+        "words": [
+            "solutions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - To commit to customer success.",
+        "sentence_cn": "- 致力于客户成功。",
+        "words": [
+            "customer",
+            "success"
+        ],
+        "id": null
+    }
+]

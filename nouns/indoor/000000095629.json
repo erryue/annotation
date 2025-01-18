@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image depicts a warmly decorated living room that combines traditional and Arts and Crafts styles.",
+        "sentence_cn": "图像描绘的是一间装饰温馨的客厅，融合了传统风格和工艺美术风格。",
+        "words": [
+            "living",
+            "room",
+            "styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a mix of wooden and upholstered furniture.",
+        "sentence_cn": "房间里混合了木质家具和软垫家具。",
+        "words": [
+            "room",
+            "mix",
+            "furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Central to the room is a wooden sofa with a floral-patterned cushion set facing a coffee table, which is placed on a dark green area rug.",
+        "sentence_cn": "房间中央是一张木质沙发，沙发上摆放着一个花卉图案的靠垫，沙发对面是一张咖啡桌，咖啡桌放在深绿色的地毯上。",
+        "words": [
+            "room",
+            "sofa",
+            "floral",
+            "cushion",
+            "coffee",
+            "table",
+            "area",
+            "rug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the sofa is a chair with striped upholstery.",
+        "sentence_cn": "沙发右侧是一把带有条纹装饰的椅子。",
+        "words": [
+            "right",
+            "sofa",
+            "chair",
+            "upholstery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is a combination of wood and tile, with the wooden section being a lighter tone that adds warmth to the space.",
+        "sentence_cn": "地板是木材和瓷砖的组合，木质部分采用较浅的色调，为空间增添了温暖。",
+        "words": [
+            "floor",
+            "combination",
+            "wood",
+            "tile",
+            "section",
+            "tone",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ceiling features wooden beams with recessed lighting, enhancing the room's cozy atmosphere.",
+        "sentence_cn": "天花板采用木梁和嵌入式照明，增强了房间的舒适氛围。",
+        "words": [
+            "ceiling",
+            "beams",
+            "lighting",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Hanging from the ceiling are three pendant lights with a craftsman style, adding to the traditional aesthetic.",
+        "sentence_cn": "天花板上悬挂着三盏工匠风格的吊灯，增添了传统美感。",
+        "words": [
+            "ceiling",
+            "three",
+            "pendant",
+            "lights",
+            "craftsman",
+            "style",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Large windows on the far wall are framed with dark drapes, allowing natural light to illuminate the room.",
+        "sentence_cn": "远处墙上的大窗户装有深色窗帘，让自然光照亮房间。",
+        "words": [
+            "windows",
+            "wall",
+            "drapes",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a dining area with a small table and chairs can be seen, while decorative elements such as wall art and a floral arrangement add visual interest.",
+        "sentence_cn": "左侧是用餐区，内有一张小桌子和椅子，而墙壁艺术和插花等装饰元素则增添了视觉趣味。",
+        "words": [
+            "left",
+            "dining",
+            "area",
+            "table",
+            "chairs",
+            "elements",
+            "wall",
+            "art",
+            "arrangement",
+            "interest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An open doorway leads into another room, where a bed is partially visible, indicating proximity to a bedroom.",
+        "sentence_cn": "一扇敞开的门通向另一个房间，房间里有一张半透明的床，表明距离卧室很近。",
+        "words": [
+            "doorway",
+            "room",
+            "bed",
+            "proximity",
+            "bedroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space is harmoniously blended with natural materials, warm tones, and a mix of functional and decorative elements.",
+        "sentence_cn": "总体而言，空间与天然材料、暖色调以及功能性和装饰元素和谐地融合在一起。",
+        "words": [
+            "space",
+            "materials",
+            "tones",
+            "mix",
+            "elements"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image shows a group of people gathered in a cozy living room.",
+        "sentence_cn": "图中显示一群人聚集在一个舒适的客厅里。",
+        "words": [
+            "group",
+            "people",
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are four women seated on a beige sectional sofa engaged in conversation.",
+        "sentence_cn": "四个女人坐在米色的组合沙发上交谈。",
+        "words": [
+            "four",
+            "women",
+            "sofa",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the far left is wearing a brown top and light-colored pants and appears to be listening intently.",
+        "sentence_cn": "最左边的女子身穿棕色上衣和浅色裤子，似乎正在专心聆听。",
+        "words": [
+            "woman",
+            "left",
+            "top",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman beside her has long blonde hair and wears a black outfit, holding a green plate.",
+        "sentence_cn": "她身边的女子有着一头金色长发，身穿黑色服装，手里拿着一个绿色盘子。",
+        "words": [
+            "woman",
+            "hair",
+            "outfit",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The third woman, sitting next to them, is holding a plate as well, wearing a dark outfit.",
+        "sentence_cn": "坐在他们旁边的第三个女人也拿着盘子，穿着深色衣服。",
+        "words": [
+            "woman",
+            "plate",
+            "outfit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, a woman with long hair is sitting on the floor or on a lower seat facing the others.",
+        "sentence_cn": "右侧，一位长发女子坐在地板上或面对其他人的较低座位上。",
+        "words": [
+            "woman",
+            "hair",
+            "floor",
+            "seat",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, two more people are partially visible sitting at a dining table, one wearing a green top.",
+        "sentence_cn": "在背景中，可以看到另外两个人坐在餐桌旁，其中一个人穿着绿色上衣。",
+        "words": [
+            "background",
+            "two",
+            "people",
+            "dining",
+            "table",
+            "one",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa is a glass-topped wooden coffee table adorned with a few books, a wine glass, a water bottle, and a decorative item resembling a small cat figurine.",
+        "sentence_cn": "沙发前面是一张玻璃面的木质咖啡桌，上面摆放着几本书、一个酒杯、一个水瓶和一个类似小猫雕像的装饰品。",
+        "words": [
+            "front",
+            "sofa",
+            "glass",
+            "coffee",
+            "table",
+            "books",
+            "wine",
+            "glass",
+            "water",
+            "bottle",
+            "item",
+            "cat",
+            "figurine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The decor features warm, neutral tones, and there is a large framed picture on the wall.",
+        "sentence_cn": "装潢采用温暖、中性的色调，墙上挂着一幅大型画框。",
+        "words": [
+            "decor",
+            "tones",
+            "picture",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting suggests a relaxed, social gathering or informal meeting.",
+        "sentence_cn": "这种环境让人感觉像是一次轻松的社交聚会或非正式会议。",
+        "words": [
+            "gathering",
+            "meeting"
+        ],
+        "id": null
+    }
+]

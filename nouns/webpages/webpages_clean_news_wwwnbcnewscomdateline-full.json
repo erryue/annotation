@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image is a screenshot from NBC News' \"Dateline\" website.",
+        "sentence_cn": "该图片是从 NBC 新闻“Dateline”网站截取的。",
+        "words": [
+            "Dateline",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a banner with the NBC News logo and navigation links for categories like Home, Top Videos, and Ongoing news topics such as Hurricane Katrina Anniversary and New York Prison Escape.",
+        "sentence_cn": "它的横幅上印有 NBC 新闻标识，并有首页、热门视频和持续新闻主题（如飓风卡特里娜周年纪念和纽约越狱）等类别的导航链接。",
+        "words": [
+            "banner",
+            "logo",
+            "navigation",
+            "links",
+            "categories",
+            "Home",
+            "Videos",
+            "news",
+            "topics",
+            "Anniversary",
+            "New",
+            "York",
+            "Prison",
+            "Escape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A highlighted headline at the top reads, \"WATCH LIVE: WDBJ UPDATE ON SHOOTING OF ITS REPORTER, PHOTOGRAPHER.\"",
+        "sentence_cn": "顶部的突出显示标题写着：“现场观看：WDBJ 对记者、摄影师枪击事件的最新消息。”",
+        "words": [
+            "WATCH LIVE: WDBJ UPDATE ON SHOOTING OF ITS REPORTER, PHOTOGRAPHER.",
+            "headline",
+            "top",
+            "UPDATE",
+            "SHOOTING",
+            "REPORTER",
+            "PHOTOGRAPHER"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, \"DATELINE\" is prominently displayed with a background image that includes the show's host.",
+        "sentence_cn": "下面，“DATELINE”以显著的方式显示，背景图像包括该节目的主持人。",
+        "words": [
+            "DATELINE",
+            "background",
+            "show",
+            "host"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main section advertises \"SNEAK PEEK Thursday Night Mystery: The Promise,\" with a play button overlay on an image.",
+        "sentence_cn": "主要部分宣传“周四夜间神秘事件抢先看：承诺”，并在图像上叠加播放按钮。",
+        "words": [
+            "SNEAK PEEK Thursday Night Mystery: The Promise,",
+            "section",
+            "play",
+            "button",
+            "overlay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a description of a mystery involving a missing 20-year-old student, hinting at a story to be shown tonight at 9/8c.",
+        "sentence_cn": "其中描述了一名 20 岁失踪学生的神秘事件，暗示该故事将于今晚 9 点/8 点播出。",
+        "words": [
+            "mystery",
+            "20",
+            "year",
+            "student",
+            "story",
+            "tonight",
+            "9/8c"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this are suggested video links, including previews and full episodes titled \"The Root of All Evil.\"",
+        "sentence_cn": "下面是推荐的视频链接，包括预告片和完整剧集，题为“万恶之源”。",
+        "words": [
+            "The Root of All Evil.",
+            "video",
+            "links",
+            "previews",
+            "episodes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Social media sharing buttons are visible next to the description.",
+        "sentence_cn": "社交媒体分享按钮位于描述旁边。",
+        "words": [
+            "media",
+            "sharing",
+            "buttons"
+        ],
+        "id": null
+    }
+]

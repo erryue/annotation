@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image shows a group of people sitting around a wooden dining table in a restaurant setting.",
+        "sentence_cn": "照片中，一群人围坐在餐厅的木制餐桌旁。",
+        "words": [
+            "group",
+            "people",
+            "dining",
+            "table",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears warm and inviting, with soft lighting.",
+        "sentence_cn": "灯光柔和，气氛温暖而温馨。",
+        "words": [
+            "atmosphere",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table is laden with various small dishes and drinks, suggesting a shared meal or tapas-style dining.",
+        "sentence_cn": "桌子上摆满了各种小菜和饮料，适合共享餐点或享用西班牙小吃风格的餐点。",
+        "words": [
+            "table",
+            "dishes",
+            "drinks",
+            "meal",
+            "tapas",
+            "style",
+            "dining"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several wooden platforms on the table to hold additional food items, creating a layered effect.",
+        "sentence_cn": "桌子上有几个木质平台，可以放置额外的食物，形成分层效果。",
+        "words": [
+            "platforms",
+            "table",
+            "food",
+            "items",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people are engaged in conversation, smiling and interacting with each other, indicating a social gathering.",
+        "sentence_cn": "人们正在交谈、微笑、互动，表明正在举行社交聚会。",
+        "words": [
+            "people",
+            "conversation",
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Plates with bread and greens are visible, along with glasses of beverages.",
+        "sentence_cn": "可以看到盘子里有面包和蔬菜，还有饮料杯。",
+        "words": [
+            "Plates",
+            "bread",
+            "greens",
+            "glasses",
+            "beverages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems informal and friendly.",
+        "sentence_cn": "这里的环境显得非正式且友好。",
+        "words": [],
+        "id": null
+    }
+]

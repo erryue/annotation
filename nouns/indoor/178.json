@@ -1,0 +1,168 @@
+[
+    {
+        "sentence": "The image depicts a cozy, elegantly decorated room with a warm and inviting atmosphere.",
+        "sentence_cn": "图像描绘的是一间舒适、装饰典雅的房间，充满温暖而温馨的氛围。",
+        "words": [
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Seating Area:",
+        "sentence_cn": "1. 座位区：",
+        "words": [
+            "Seating Area",
+            "Seating",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two plush white armchairs are placed near one another, creating a comfortable nook for relaxation or reading.",
+        "sentence_cn": "两张舒适的白色扶手椅彼此相邻，营造出一个供休息或阅读的舒适角落。",
+        "words": [
+            "Two",
+            "armchairs",
+            "one",
+            "nook",
+            "relaxation",
+            "reading"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cushion on one of the chairs adds to the coziness.",
+        "sentence_cn": "其中一把椅子上的垫子增添了舒适感。",
+        "words": [
+            "cushion",
+            "one",
+            "chairs",
+            "coziness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Curtains and Windows: Large windows are adorned with rich, dark curtains, which have decorative tiebacks.",
+        "sentence_cn": "2. 窗帘和窗户：大窗户装饰有华丽的深色窗帘，窗帘带有装饰性的系带。",
+        "words": [
+            "Curtains and Windows",
+            "Curtains",
+            "Windows",
+            "windows",
+            "curtains",
+            "tiebacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sunlight filtering through casts a warm glow, enhancing the room's ambiance.",
+        "sentence_cn": "阳光透过窗户照射进来，散发出温暖的光芒，增强了房间的氛围。",
+        "words": [
+            "sunlight",
+            "glow",
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Wall Art: Two pieces of framed artwork hang on the wall, adding an artistic touch to the room.",
+        "sentence_cn": "3. 墙壁艺术：两幅带框的艺术品挂在墙上，为房间增添了艺术气息。",
+        "words": [
+            "Wall Art",
+            "Wall",
+            "Art",
+            "Two",
+            "pieces",
+            "artwork",
+            "wall",
+            "touch",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Chess Set: A detailed chess set is arranged on a wooden table, suggesting a space for leisure or intellectual pursuits.",
+        "sentence_cn": "4. 棋盘：精致的棋盘摆放在木桌上，暗示着这是一个休闲或智力追求的空间。",
+        "words": [
+            "Chess Set",
+            "Chess",
+            "Set",
+            "chess",
+            "set",
+            "table",
+            "space",
+            "leisure",
+            "pursuits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Side Table and Lamp: A wooden side table with an intricately designed base supports a stylish lamp, providing additional lighting and a touch of elegance.",
+        "sentence_cn": "5. 边桌和灯：带有精心设计的底座的木质边桌支撑着一盏时尚的灯，提供额外的照明和一丝优雅。",
+        "words": [
+            "Side Table and Lamp",
+            "Side",
+            "Table",
+            "Lamp",
+            "table",
+            "base",
+            "lamp",
+            "lighting",
+            "touch",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Decorative Vases: Two large, ornate vases are mounted on the wall above the fireplace, contributing an exotic and decorative element.",
+        "sentence_cn": "6. 装饰花瓶：壁炉上方的墙壁上安装有两个大型华丽的花瓶，增添了异国情调和装饰元素。",
+        "words": [
+            "Decorative Vases",
+            "Vases",
+            "Two",
+            "vases",
+            "wall",
+            "fireplace",
+            "element"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Fireplace: On the right side of the image, there is a white, traditional-style fireplace.",
+        "sentence_cn": "7. 壁炉：图片右侧有一个白色、传统风格的壁炉。",
+        "words": [
+            "Fireplace",
+            "Fireplace",
+            "style",
+            "fireplace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Fireplace tools are neatly arranged beside it, ready for use.",
+        "sentence_cn": "壁炉工具整齐地摆放在旁边，随时可用。",
+        "words": [
+            "Fireplace",
+            "tools",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room exudes a sense of comfort and sophistication, combining traditional decor with functional elements for both leisure and living.",
+        "sentence_cn": "总体而言，房间散发出一种舒适和精致的感觉，将传统的装饰与休闲和生活的功能元素结合在一起。",
+        "words": [
+            "room",
+            "sense",
+            "comfort",
+            "sophistication",
+            "decor",
+            "elements",
+            "leisure",
+            "living"
+        ],
+        "id": null
+    }
+]

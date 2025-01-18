@@ -1,0 +1,143 @@
+[
+    {
+        "sentence": "The image depicts a quaint and vintage-style bedroom.",
+        "sentence_cn": "图像描绘的是一间古雅、复古风格的卧室。",
+        "words": [
+            "style",
+            "bedroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a large wooden bed with an ornate headboard and a white bedspread.",
+        "sentence_cn": "房间里有一张大木床，配有华丽的床头板和白色的床罩。",
+        "words": [
+            "room",
+            "bed",
+            "headboard",
+            "bedspread"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a dark pillow accenting the bed.",
+        "sentence_cn": "床上有一个深色枕头。",
+        "words": [
+            "pillow",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the bed, a window is covered with sheer lace curtains, allowing soft light to filter through.",
+        "sentence_cn": "床的左边，窗户上挂着薄薄的蕾丝窗帘，柔和的光线透进来。",
+        "words": [
+            "bed",
+            "window",
+            "lace",
+            "curtains",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath the window, there's a vintage table lamp with a fringed shade.",
+        "sentence_cn": "窗户下面有一盏带流苏灯罩的复古台灯。",
+        "words": [
+            "window",
+            "vintage",
+            "table",
+            "lamp",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the bed is a wooden luggage rack.",
+        "sentence_cn": "床旁边有一个木质的行李架。",
+        "words": [
+            "bed",
+            "luggage",
+            "rack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the room, a small wooden desk with intricate carvings is accompanied by a matching wooden chair.",
+        "sentence_cn": "房间的右侧，有一张雕刻精美的小木桌，旁边还有一把配套的木椅。",
+        "words": [
+            "room",
+            "desk",
+            "carvings",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk holds an antique-looking lamp with a glass shade.",
+        "sentence_cn": "桌子上有一盏带玻璃灯罩的古董灯。",
+        "words": [
+            "desk",
+            "lamp",
+            "glass",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the desk, there is a framed picture hanging on the wall.",
+        "sentence_cn": "书桌上方的墙上挂着一幅相框。",
+        "words": [
+            "desk",
+            "picture",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A door in the room is painted in a muted brown, matching the room's vintage aesthetic.",
+        "sentence_cn": "房间里的一扇门漆成柔和的棕色，与房间的复古美感相符。",
+        "words": [
+            "door",
+            "room",
+            "brown",
+            "room",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the door, shelves hold decorative items, including a bouquet of flowers.",
+        "sentence_cn": "靠近门的架子上摆放着装饰品，包括一束鲜花。",
+        "words": [
+            "door",
+            "shelves",
+            "items",
+            "bouquet",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is made of polished wood, adding warmth to the room¡¯s ambiance.",
+        "sentence_cn": "地板由抛光木材制成，为房间增添了温暖的氛围。",
+        "words": [
+            "floor",
+            "wood",
+            "warmth",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted a light color, complementing the overall classic and cozy feel of the space.",
+        "sentence_cn": "墙壁漆成浅色，与空间整体的古典和舒适的感觉相得益彰。",
+        "words": [
+            "walls",
+            "color",
+            "feel",
+            "space"
+        ],
+        "id": null
+    }
+]

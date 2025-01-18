@@ -1,0 +1,55 @@
+[
+    {
+        "sentence": "The image shows a group of people sitting in a row, likely outdoors.",
+        "sentence_cn": "照片显示一群人坐成一排，可能是在户外。",
+        "words": [
+            "group",
+            "people",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focus is on a person in the foreground wearing a light blue jacket over a white collared shirt, who is smiling.",
+        "sentence_cn": "焦点是前景中一个身穿浅蓝色夹克和白色领子衬衫、面带微笑的人。",
+        "words": [
+            "focus",
+            "person",
+            "foreground",
+            "jacket",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people around her are engaged in conversation or looking in the same direction, suggesting they might be watching an event.",
+        "sentence_cn": "她周围的人正在交谈或朝同一方向看，表明他们可能正在观看某个事件。",
+        "words": [
+            "people",
+            "conversation",
+            "direction",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is slightly out of focus, and some individuals are wearing sunglasses or hats.",
+        "sentence_cn": "背景稍微失焦，有些人戴着墨镜或帽子。",
+        "words": [
+            "background",
+            "focus",
+            "individuals",
+            "sunglasses",
+            "hats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears casual and social.",
+        "sentence_cn": "这里的气氛显得随意而又社交性强。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

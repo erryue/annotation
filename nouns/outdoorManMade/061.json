@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image shows a rural winter scene featuring a large red barn with a snow-covered roof.",
+        "sentence_cn": "图片展示的是乡村冬日的景色，有一座红色的大谷仓，屋顶上覆盖着皑皑白雪。",
+        "words": [
+            "winter",
+            "scene",
+            "barn",
+            "snow",
+            "roof"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The barn has an American flag displayed on its front and small white window accents.",
+        "sentence_cn": "谷仓正面悬挂着一面美国国旗，并有白色的小窗户装饰。",
+        "words": [
+            "barn",
+            "flag",
+            "window",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the barn, there are snow-covered fields, and several cows are visible¡ªsome standing and others lying in the snow.",
+        "sentence_cn": "谷仓前面是白雪覆盖的田野，可以看到几头牛，有的站着，有的躺在雪地里。",
+        "words": [
+            "front",
+            "barn",
+            "snow",
+            "fields",
+            "cows",
+            "others",
+            "snow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is filled with leafless trees, indicating a wintry setting, and the sky is partly cloudy.",
+        "sentence_cn": "背景中布满了光秃秃的树木，预示着冬天的景象，天空多云。",
+        "words": [
+            "background",
+            "trees",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance is calm and pastoral, highlighting a typical countryside landscape in winter.",
+        "sentence_cn": "整体氛围平静而田园，凸显出冬季典型的乡村风光。",
+        "words": [
+            "ambiance",
+            "countryside",
+            "landscape",
+            "winter"
+        ],
+        "id": null
+    }
+]

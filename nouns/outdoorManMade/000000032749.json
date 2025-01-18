@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image depicts a scene along a narrow, seemingly abandoned path overgrown with grass and weeds.",
+        "sentence_cn": "这幅图描绘的是一条狭窄、看似废弃的小路沿途长满青草和杂草的场景。",
+        "words": [
+            "scene",
+            "path",
+            "grass",
+            "weeds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground on the right, there is a solitary black plastic chair, slightly weathered, positioned on the side of the path.",
+        "sentence_cn": "在右侧的前景中，有一把孤独的黑色塑料椅子，略微风化，放置在路边。",
+        "words": [
+            "foreground",
+            "right",
+            "plastic",
+            "chair",
+            "path"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the chair is a crumpled aluminum can, suggesting past human activity.",
+        "sentence_cn": "椅子旁边有一个皱巴巴的铝罐，暗示着过去人类的活动。",
+        "words": [
+            "chair",
+            "aluminum",
+            "can",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the path, a bright yellow, partially collapsed umbrella leans against a wooden fence.",
+        "sentence_cn": "小路左侧，一把半折叠的亮黄色雨伞靠在木栅栏上。",
+        "words": [
+            "path",
+            "umbrella",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The umbrella is a vivid contrast to the muted tones of the surrounding environment.",
+        "sentence_cn": "这把伞与周围环境的柔和色调形成了鲜明的对比。",
+        "words": [
+            "umbrella",
+            "contrast",
+            "tones",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The fence runs parallel to the path, leading the eye toward the background.",
+        "sentence_cn": "栅栏与小路平行，引导人们的视线看向背景。",
+        "words": [
+            "fence",
+            "path",
+            "eye",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is flanked by overgrown bushes and barren trees, adding an atmosphere of neglect.",
+        "sentence_cn": "场景两侧是杂草丛生的灌木丛和光秃秃的树木，增添了一种荒废的氛围。",
+        "words": [
+            "scene",
+            "bushes",
+            "trees",
+            "atmosphere",
+            "neglect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, contributing to the somber, melancholic tone of the image.",
+        "sentence_cn": "天空阴云密布，更增添了图像的阴沉、忧郁的色调。",
+        "words": [
+            "sky",
+            "tone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A purple flower or piece of fabric lies on the ground near the chair, adding a small splash of color to the natural setting.",
+        "sentence_cn": "一朵紫色的花朵或一块紫色的布料躺在椅子附近的地面上，为自然环境增添了一抹色彩。",
+        "words": [
+            "flower",
+            "piece",
+            "fabric",
+            "ground",
+            "chair",
+            "splash",
+            "color"
+        ],
+        "id": null
+    }
+]

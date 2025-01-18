@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image depicts a close-up view of a meal setup next to a laptop.",
+        "sentence_cn": "该图为笔记本电脑旁边的餐食布置的近景。",
+        "words": [
+            "view",
+            "meal",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is a foam takeout container with fried rice and what appears to be fried chicken or beef.",
+        "sentence_cn": "左侧有一个泡沫外卖容器，里面装有炒饭和看似炸鸡或牛肉的食物。",
+        "words": [
+            "foam",
+            "takeout",
+            "container",
+            "rice",
+            "chicken",
+            "beef"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A plastic fork is placed in the rice.",
+        "sentence_cn": "将塑料叉子放在米饭中。",
+        "words": [
+            "fork",
+            "rice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the food, there is a tall can of Arizona tea with a decorative floral design.",
+        "sentence_cn": "食物旁边是一罐高高的亚利桑那茶，上面有装饰性的花卉图案。",
+        "words": [
+            "food",
+            "can",
+            "Arizona",
+            "tea",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a laptop is open, showing a desktop screen with a collage of images featuring various people and elements.",
+        "sentence_cn": "右侧，一台笔记本电脑打开了，桌面屏幕上显示了各种人物和元素的拼贴图像。",
+        "words": [
+            "right",
+            "laptop",
+            "desktop",
+            "screen",
+            "collage",
+            "images",
+            "people",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The laptop is situated on a table, and in the background, there are horizontal blinds covering a window.",
+        "sentence_cn": "笔记本电脑放在桌子上，背景中，有水平的百叶窗遮住了窗户。",
+        "words": [
+            "laptop",
+            "table",
+            "background",
+            "blinds",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a casual dining or work-from-home environment.",
+        "sentence_cn": "整体布置体现出一种休闲用餐或在家办公的环境。",
+        "words": [
+            "dining",
+            "home",
+            "environment"
+        ],
+        "id": null
+    }
+]

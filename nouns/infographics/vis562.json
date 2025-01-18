@@ -1,0 +1,168 @@
+[
+    {
+        "sentence": "The infographic titled \"Hunger Project: Gender Discrimination\" highlights several key points related to gender and hunger issues in developing countries:",
+        "sentence_cn": "题为“饥饿项目：性别歧视”的信息图表强调了发展中国家性别和饥饿问题的几个关键点：",
+        "words": [
+            "Hunger Project: Gender Discrimination",
+            "points",
+            "gender",
+            "hunger",
+            "issues",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Agricultural Labor and Hunger:",
+        "sentence_cn": "1. 农业劳动与饥饿：",
+        "words": [
+            "Agricultural Labor and Hunger:",
+            "Labor",
+            "Hunger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Despite women providing 70% of the agricultural labor in developing countries, 60% of the world's hungry are women.",
+        "sentence_cn": "- 尽管妇女提供了发展中国家70%的农业劳动力，但全球60%的饥饿人口是妇女。",
+        "words": [
+            "women",
+            "70",
+            "labor",
+            "countries",
+            "60",
+            "%",
+            "world",
+            "women"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Maternal Care:",
+        "sentence_cn": "2. 产妇护理：",
+        "words": [
+            "Maternal Care:",
+            "Care"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 50% of pregnant women in developing countries lack proper maternal care.",
+        "sentence_cn": "- 发展中国家 50% 的孕妇缺乏适当的产妇护理。",
+        "words": [
+            "50",
+            "women",
+            "countries",
+            "care"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This deficiency results in over 300,000 maternal deaths annually from childbirth.",
+        "sentence_cn": "这种缺陷每年导致30多万产妇因分娩而死亡。",
+        "words": [
+            "deficiency",
+            "300,000",
+            "deaths",
+            "childbirth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Childbirth Statistics:",
+        "sentence_cn": "3. 生育统计：",
+        "words": [
+            "Childbirth Statistics:",
+            "Childbirth",
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 1 out of 6 infants in developing countries are born with a low birth weight.",
+        "sentence_cn": "- 发展中国家每 6 个婴儿中就有 1 个出生体重过轻。",
+        "words": [
+            "1",
+            "6",
+            "infants",
+            "countries",
+            "birth",
+            "weight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Hunger in Sub-Saharan Africa:",
+        "sentence_cn": "4. 撒哈拉以南非洲的饥饿问题：",
+        "words": [
+            "Hunger in Sub-Saharan Africa:",
+            "Hunger",
+            "Sub",
+            "-",
+            "Saharan",
+            "Africa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A third of all childhood deaths in sub-Saharan Africa are caused by hunger.",
+        "sentence_cn": "- 撒哈拉以南非洲地区三分之一的儿童死亡是由饥饿造成的。",
+        "words": [
+            "third",
+            "childhood",
+            "deaths",
+            "sub",
+            "-",
+            "Saharan",
+            "Africa",
+            "hunger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Child Mortality:",
+        "sentence_cn": "5. 儿童死亡率：",
+        "words": [
+            "Child Mortality:",
+            "Child",
+            "Mortality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Globally, a child dies from hunger-related diseases every five seconds.",
+        "sentence_cn": "- 全球每五秒钟就有一名儿童死于饥饿相关疾病。",
+        "words": [
+            "child",
+            "hunger",
+            "diseases",
+            "five",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic uses various visual elements, such as icons, maps, and charts, to emphasize the statistics.",
+        "sentence_cn": "该信息图使用各种视觉元素，例如图标、地图和图表，来强调统计数据。",
+        "words": [
+            "elements",
+            "icons",
+            "maps",
+            "charts",
+            "statistics"
+        ],
+        "id": null
+    }
+]

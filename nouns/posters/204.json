@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Back to the Future,\" a film directed by Robert Zemeckis.",
+        "sentence_cn": "该图是罗伯特·泽米吉斯执导的电影《回到未来》的电影海报。",
+        "words": [
+            "Back to the Future,",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a young man, likely the protagonist, standing beside a car with its gull-wing door open.",
+        "sentence_cn": "海报上有一个年轻男子，很可能是主角，站在一辆鸥翼门打开的汽车旁边。",
+        "words": [
+            "poster",
+            "man",
+            "protagonist",
+            "car",
+            "gull",
+            "wing",
+            "door"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a red puffer vest, jeans, and sneakers, and is looking at his wristwatch with a surprised expression.",
+        "sentence_cn": "他身穿红色羽绒背心、牛仔裤和运动鞋，带着惊讶的表情看着手表。",
+        "words": [
+            "puffer",
+            "vest",
+            "jeans",
+            "sneakers",
+            "wristwatch",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "His other hand is lifting a pair of goggles on his forehead.",
+        "sentence_cn": "他的另一只手正抬起额头上的护目镜。",
+        "words": [
+            "hand",
+            "pair",
+            "goggles",
+            "forehead"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are dramatic streaks of light and fiery tire tracks, implying speed and time travel.",
+        "sentence_cn": "背景中，有戏剧性的光线和炽热的轮胎痕迹，暗示着速度和时间旅行。",
+        "words": [
+            "background",
+            "streaks",
+            "tire",
+            "tracks",
+            "speed",
+            "time",
+            "travel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film's title is prominently displayed at the top with a colorful, dynamic style, leaning forward to suggest motion.",
+        "sentence_cn": "电影的标题以色彩丰富、动感十足的风格显著地显示在顶部，向前倾斜以暗示动作。",
+        "words": [
+            "film",
+            "title",
+            "top",
+            "style",
+            "motion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline on the left reads:",
+        "sentence_cn": "左侧的标语如下：",
+        "words": [
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"He was never in time for his classes...",
+        "sentence_cn": "“他从来没有按时上课......",
+        "words": [
+            "time",
+            "classes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He wasn¡¯t in time for his dinner",
+        "sentence_cn": "他没能及时吃晚饭",
+        "words": [
+            "time",
+            "dinner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "...",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Then one day... he wasn't in his time at all.\"",
+        "sentence_cn": "然后有一天……他完全不在他的时间里。”",
+        "words": [
+            "one",
+            "day",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The credits at the bottom mention Steven Spielberg as a presenter, and list some of the cast and crew, including Michael J. Fox, Christopher Lloyd, and Lea Thompson.",
+        "sentence_cn": "底部的致谢名单提到史蒂文·斯皮尔伯格 (Steven Spielberg) 是主持人，并列出了部分演员和工作人员，包括迈克尔·J·福克斯 (Michael J. Fox)、克里斯托弗·劳埃德 (Christopher Lloyd) 和莉·汤普森 (Lea Thompson)。",
+        "words": [
+            "credits",
+            "bottom",
+            "presenter",
+            "cast",
+            "crew"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster sets an adventurous and futuristic tone.",
+        "sentence_cn": "海报营造出一种冒险和未来主义的氛围。",
+        "words": [
+            "poster",
+            "tone"
+        ],
+        "id": null
+    }
+]

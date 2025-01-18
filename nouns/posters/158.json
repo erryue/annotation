@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Weekend at Bernie's.\"",
+        "sentence_cn": "图片是《疯狂的伯尼家的周末夜》的电影海报。",
+        "words": [
+            "Weekend at Bernie's.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two men lying on a sandy beach.",
+        "sentence_cn": "画面上有两个男人躺在沙滩上。",
+        "words": [
+            "two",
+            "men",
+            "beach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One man is on the left, wearing a blue shirt, plaid shorts, and boat shoes, with his hands behind his head in a relaxed pose.",
+        "sentence_cn": "左边是一名男子，身穿蓝色衬衫、格子短裤和船鞋，双手放在脑后，姿势放松。",
+        "words": [
+            "One",
+            "man",
+            "left",
+            "shirt",
+            "shorts",
+            "boat",
+            "shoes",
+            "hands",
+            "head",
+            "pose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other man is on the right, wearing a colorful Hawaiian shirt, yellow T-shirt, shorts, and purple high-top sneakers, holding a drink with an umbrella.",
+        "sentence_cn": "另一名男子在右边，穿着彩色夏威夷衬衫、黄色 T 恤、短裤和紫色高帮运动鞋，手里拿着饮料，还撑着伞。",
+        "words": [
+            "man",
+            "right",
+            "shirt",
+            "T",
+            "shirt",
+            "shorts",
+            "top",
+            "sneakers",
+            "drink",
+            "umbrella"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Between them, a face peeks out from the sand with sunglasses and a mustache, suggested to be Bernie, with his buried body and feet visible.",
+        "sentence_cn": "在他们之间，一张戴着太阳镜、留着小胡子的脸从沙地中探出，似乎是伯尼，他的身体和双脚埋在地下，清晰可见。",
+        "words": [
+            "face",
+            "sand",
+            "sunglasses",
+            "mustache",
+            "body",
+            "feet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sand has \"WEEKEND AT BERNIE'S\" written on it.",
+        "sentence_cn": "沙滩上写着“伯尼家的周末”。",
+        "words": [
+            "WEEKEND AT BERNIE'S",
+            "sand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, there¡¯s a tagline: \"Bernie would be the perfect host, except for one small thing... he's dead.",
+        "sentence_cn": "海报的顶部有一行字：“伯尼将是完美的主持人，但有一件小事......他死了。",
+        "words": [
+            "top",
+            "poster",
+            "tagline",
+            "host",
+            "one",
+            "thing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now, he's the life of the party.\"",
+        "sentence_cn": "现在，他是派对上的焦点人物。”",
+        "words": [
+            "life",
+            "party"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, it says, \"A lively comedy about a guy who isn't.\"",
+        "sentence_cn": "标题下方写着“一部关于一个不存在的男人的生动喜剧”。",
+        "words": [
+            "A lively comedy about a guy who isn't.",
+            "title",
+            "comedy",
+            "guy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are production credits and information, including mentions of the director Ted Kotcheff, and cast members Andrew McCarthy and Jonathan Silverman.",
+        "sentence_cn": "底部是制作人员名单和信息，包括导演泰德·科特切夫 (Ted Kotcheff) 以及演员安德鲁·麦卡锡 (Andrew McCarthy) 和乔纳森·西尔弗曼 (Jonathan Silverman) 的提及。",
+        "words": [
+            "bottom",
+            "production",
+            "credits",
+            "information",
+            "mentions",
+            "director",
+            "cast",
+            "members"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a PG-13 rating.",
+        "sentence_cn": "该海报的评级为 PG-13。",
+        "words": [
+            "poster",
+            "PG-13",
+            "rating"
+        ],
+        "id": null
+    }
+]

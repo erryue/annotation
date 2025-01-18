@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image shows a login screen for an application called \"GROWL,\" which is evident from the logo at the top.",
+        "sentence_cn": "该图显示了一个名为“GROWL”的应用程序的登录屏幕，从顶部的徽标就可以看出。",
+        "words": [
+            "GROWL,",
+            "login",
+            "screen",
+            "application",
+            "logo",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The logo has the word \"GROWL\" in orange-yellow letters with a stylized 'L' that extends to look like an exclamation mark.",
+        "sentence_cn": "该标志由橙黄色字母组成“GROWL”，其中的“L”风格化，延伸开来看起来像一个感叹号。",
+        "words": [
+            "GROWL",
+            "logo",
+            "word",
+            "letters",
+            "L",
+            "exclamation",
+            "mark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo, there's an icon of a cartoon bear face.",
+        "sentence_cn": "标志下方有一个卡通熊脸的图标。",
+        "words": [
+            "logo",
+            "icon",
+            "cartoon",
+            "bear",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the bear, there's text instructing users to enter their email and password if they already have an account.",
+        "sentence_cn": "除了熊之外，还有文字指导用户（如果已经有账户）输入他们的电子邮件和密码。",
+        "words": [
+            "bear",
+            "text",
+            "users",
+            "email",
+            "password",
+            "account"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Account Info\" section has two input fields labeled \"Email\" and \"Password,\" both marked as \"Required.\"",
+        "sentence_cn": "“帐户信息”部分有两个输入字段，分别标记为“电子邮件”和“密码”，均标记为“必填”。",
+        "words": [
+            "Account Info",
+            "Email",
+            "Password,",
+            "Required.",
+            "Account",
+            "Info",
+            "section",
+            "two",
+            "input",
+            "fields",
+            "Email",
+            "Password"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these fields are three buttons: \"Login,\" \"Create New Account,\" and \"Forgot Password,\" all designed in a brown color.",
+        "sentence_cn": "这些字段下方有三个按钮：“登录”、“创建新帐户”和“忘记密码”，全部采用棕色设计。",
+        "words": [
+            "Login,",
+            "Create New Account,",
+            "Forgot Password,",
+            "fields",
+            "three",
+            "buttons",
+            "Login",
+            "Password",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the screen also shows a status bar with connectivity icons and the time displayed as 7:14.",
+        "sentence_cn": "屏幕顶部还显示一个带有连接图标的状态栏，时间显示为 7:14。",
+        "words": [
+            "top",
+            "screen",
+            "status",
+            "bar",
+            "connectivity",
+            "icons",
+            "time",
+            "7:14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is predominantly white.",
+        "sentence_cn": "背景主要是白色。",
+        "words": [
+            "background"
+        ],
+        "id": null
+    }
+]

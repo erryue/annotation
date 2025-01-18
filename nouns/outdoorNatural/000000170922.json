@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a group of Highland cattle in a grassy field.",
+        "sentence_cn": "图像描绘的是草地上的一群高地牛。",
+        "words": [
+            "group",
+            "cattle",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point is a distinctive brown cow with long, shaggy fur and large, curved horns.",
+        "sentence_cn": "焦点是一头独特的棕色奶牛，它有长而蓬松的皮毛和大而弯曲的角。",
+        "words": [
+            "point",
+            "cow",
+            "fur",
+            "horns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Its thick coat covers much of its eyes and face.",
+        "sentence_cn": "它的厚毛遮住了大部分眼睛和脸。",
+        "words": [
+            "coat",
+            "eyes",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it is a lighter-colored cow with a similar build.",
+        "sentence_cn": "旁边是一头体型相似、颜色较浅的牛。",
+        "words": [
+            "cow",
+            "build"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, other cattle can be seen grazing.",
+        "sentence_cn": "在背景中，可以看到其他牛正在吃草。",
+        "words": [
+            "background",
+            "cattle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape features scattered trees and appears to be a sunny day with clear skies.",
+        "sentence_cn": "景观中树木稀疏，看上去就像晴朗天空的景象。",
+        "words": [
+            "landscape",
+            "trees",
+            "day",
+            "skies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is dotted with patches of light and shadow, suggesting a low sun angle, possibly indicating morning or late afternoon.",
+        "sentence_cn": "草地上点缀着斑驳的光影，表明太阳照射角度较低，可能预示着是早晨或傍晚。",
+        "words": [
+            "grass",
+            "patches",
+            "light",
+            "shadow",
+            "sun",
+            "angle",
+            "morning",
+            "afternoon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bare trees and distant greenery add depth to the scene.",
+        "sentence_cn": "光秃秃的树木和远处的绿色植物为场景增添了深度。",
+        "words": [
+            "trees",
+            "greenery",
+            "depth",
+            "scene"
+        ],
+        "id": null
+    }
+]

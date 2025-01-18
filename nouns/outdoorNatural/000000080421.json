@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image shows a group of six ducks swimming in a body of water.",
+        "sentence_cn": "图中是六只鸭子在水中游泳。",
+        "words": [
+            "group",
+            "six",
+            "ducks",
+            "body",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water appears calm, with gentle ripples creating a textured surface.",
+        "sentence_cn": "水面看似平静，轻轻的涟漪形成了纹理表面。",
+        "words": [
+            "water",
+            "ripples",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ducks are positioned in a slightly scattered formation, moving together across the water.",
+        "sentence_cn": "鸭子们排成稍微分散的队形，一起在水面上移动。",
+        "words": [
+            "ducks",
+            "formation",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have distinct markings; some have lighter bodies with darker heads and some show more varied patterns on their wings.",
+        "sentence_cn": "它们有不同的标记；有些身体颜色较浅，头部颜色较深，有些翅膀上的图案更加多样。",
+        "words": [
+            "markings",
+            "bodies",
+            "heads",
+            "patterns",
+            "wings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting is one of a peaceful aquatic environment.",
+        "sentence_cn": "整体环境是一片宁静的水生环境。",
+        "words": [
+            "one",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The light suggests a bright, possibly sunny day, highlighting the water's reflective surface.",
+        "sentence_cn": "光线突显了水面的反射光，预示着明亮的、可能是阳光明媚的一天。",
+        "words": [
+            "light",
+            "day",
+            "water",
+            "surface"
+        ],
+        "id": null
+    }
+]

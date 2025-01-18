@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image depicts a workspace with a variety of items on a desk.",
+        "sentence_cn": "图像描绘了一个工作区，桌子上有各种物品。",
+        "words": [
+            "workspace",
+            "variety",
+            "items",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Laptop: On the left side, there is an open MacBook with an illuminated screen showing a desktop interface.",
+        "sentence_cn": "1. 笔记本电脑：左侧有一台打开的 MacBook，其屏幕发光，显示桌面界面。",
+        "words": [
+            "Laptop",
+            "screen",
+            "desktop",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it is an Apple Magic Mouse.",
+        "sentence_cn": "旁边是一只Apple Magic Mouse。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Wallet: In front of the laptop, a wallet is partially open, revealing some contents like cards and possibly cash.",
+        "sentence_cn": "2. 钱包：在笔记本电脑前面，钱包部分打开，里面有一些卡和现金等内容。",
+        "words": [
+            "Wallet",
+            "Wallet",
+            "front",
+            "laptop",
+            "wallet",
+            "contents",
+            "cards",
+            "cash"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Mail / Envelope: At the back, there is a large brown envelope with an addressed document or paper partially visible.",
+        "sentence_cn": "3. 邮件/信封：在背面，有一个棕色的大信封，里面有部分写有地址的文件或纸张。",
+        "words": [
+            "Mail / Envelope",
+            "Mail",
+            "Envelope",
+            "back",
+            "envelope",
+            "document",
+            "paper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Devices: Near the envelope, there are two mobile devices; one looks like a classic flip phone, and the other seems to be a smartphone.",
+        "sentence_cn": "4. 设备：在信封附近，有两个移动设备；一个看起来像经典的翻盖手机，另一个看起来像是智能手机。",
+        "words": [
+            "Devices",
+            "Devices",
+            "envelope",
+            "two",
+            "devices",
+            "one",
+            "phone",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. iPod: To the right, there is a classic iPod with earphones plugged in, resting on the table.",
+        "sentence_cn": "5. iPod：右边有一个经典的 iPod，插着耳机，放在桌子上。",
+        "words": [
+            "iPod",
+            "right",
+            "earphones",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Book: A book titled \"Light Science & Magic: An Introduction to Photographic Lighting\" lies on the desk.",
+        "sentence_cn": "6. 书：桌子上有一本书，名为《光的科学与魔法：摄影照明简介》。",
+        "words": [
+            "Book",
+            "Light Science & Magic: An Introduction to Photographic Lighting",
+            "Book",
+            "book",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Miscellaneous: A small pack of Wrigley's chewing gum is also present on the desk.",
+        "sentence_cn": "7. 杂项：桌子上还有一小包箭牌口香糖。",
+        "words": [
+            "Miscellaneous",
+            "pack",
+            "chewing",
+            "gum",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk is simple and uncluttered, suggesting a focus on technology and possibly photography or lighting given the book.",
+        "sentence_cn": "桌子简洁干净，表明这本书的重点是技术，也可能是摄影或灯光。",
+        "words": [
+            "desk",
+            "focus",
+            "technology",
+            "photography",
+            "lighting",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting appears organized, ideal for work or study.",
+        "sentence_cn": "整体环境井然有序，非常适合工作或学习。",
+        "words": [
+            "work",
+            "study"
+        ],
+        "id": null
+    }
+]

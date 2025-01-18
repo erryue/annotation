@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Heavyweights,\" presented by Walt Disney Pictures.",
+        "sentence_cn": "图片是华特迪士尼影业出品的电影《重量级人物》的海报。",
+        "words": [
+            "Heavyweights,",
+            "poster",
+            "movie",
+            "Heavyweights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the text reads, \"From the Creator of 'The Mighty Ducks.'\"",
+        "sentence_cn": "顶部的文字写着“来自《飞天巨鸭》的创作者。”",
+        "words": [
+            "From the Creator of 'The Mighty Ducks.'",
+            "top",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that, it says, \"They don't run the fastest.",
+        "sentence_cn": "下面写着：“他们跑得不是最快的。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "They don't jump the highest.",
+        "sentence_cn": "他们跳的不是最高。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "But they sure are getting the last laugh.\"",
+        "sentence_cn": "但他们肯定会笑到最后。”",
+        "words": [
+            "laugh"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main visual features five boys standing and smiling.",
+        "sentence_cn": "主视觉为五个男孩站立并微笑。",
+        "words": [
+            "visual",
+            "five",
+            "boys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are holding up a large sandwich with one of the boys lying inside.",
+        "sentence_cn": "他们手里拿着一个大三明治，一个男孩躺在里面。",
+        "words": [
+            "sandwich",
+            "one",
+            "boys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sandwich includes layers of melted cheese, lettuce, and mustard or another sauce.",
+        "sentence_cn": "三明治由多层融化的奶酪、生菜、芥末或其他酱料组成。",
+        "words": [
+            "sandwich",
+            "layers",
+            "cheese",
+            "lettuce",
+            "mustard",
+            "sauce"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The boy inside the sandwich seems to be playfully poking his head out.",
+        "sentence_cn": "三明治里面的男孩似乎正顽皮地探出头来。",
+        "words": [
+            "boy",
+            "sandwich",
+            "head"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the title \"HEAVYWEIGHTS\" is prominently displayed in large green letters.",
+        "sentence_cn": "在底部，标题“HEAVYWEIGHTS”以大绿色字母突出显示。",
+        "words": [
+            "HEAVYWEIGHTS",
+            "bottom",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the text reads, \"They never met a hot dog they didn't like¡­ until now.\"",
+        "sentence_cn": "标题下方写着：“直到现在，他们从未遇到过他们不喜欢的热狗。”",
+        "words": [
+            "They never met a hot dog they didn't like¡­ until now.",
+            "title",
+            "text",
+            "dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster includes information about the movie's production and distribution in smaller print near the bottom.",
+        "sentence_cn": "海报底部附近以较小的字体印有有关电影制作和发行的信息。",
+        "words": [
+            "poster",
+            "information",
+            "movie",
+            "production",
+            "distribution",
+            "print",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone is lighthearted and comedic, suggesting a fun, family-friendly film.",
+        "sentence_cn": "影片整体基调轻松幽默，是一部适合全家人观看的欢乐电影。",
+        "words": [
+            "tone",
+            "family",
+            "film"
+        ],
+        "id": null
+    }
+]

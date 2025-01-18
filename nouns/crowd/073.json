@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image depicts a group of people gathered in an indoor setting.",
+        "sentence_cn": "图像描绘了一群人聚集在室内的场景。",
+        "words": [
+            "group",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central figure is a man holding a microphone and speaking.",
+        "sentence_cn": "中心人物是一名手持麦克风讲话的男子。",
+        "words": [
+            "figure",
+            "man",
+            "microphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing glasses, a yellow T-shirt with \"NETWORKING\" partially visible, a long-sleeved shirt underneath, jeans, and black shoes.",
+        "sentence_cn": "他戴着眼镜，身穿黄色 T 恤，上面部分显示“NETWORKING”字样，里面穿着长袖衬衫、牛仔裤和黑色鞋子。",
+        "words": [
+            "NETWORKING",
+            "glasses",
+            "T",
+            "shirt",
+            "NETWORKING",
+            "shirt",
+            "jeans",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to him are two other men, each wearing dark blazers over similar yellow T-shirts with visible lanyards around their necks, suggesting a formal or semi-formal networking event.",
+        "sentence_cn": "他旁边是另外两名男子，均穿着深色西装外套，里面是类似的黄色 T 恤，脖子上挂着明显的挂绳，这表明他们正在参加正式或半正式的社交活动。",
+        "words": [
+            "two",
+            "men",
+            "blazers",
+            "T",
+            "shirts",
+            "lanyards",
+            "necks",
+            "networking",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear relaxed and engaged.",
+        "sentence_cn": "他们看上去很放松​​，而且很投入。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are more attendees, including a woman with long red hair, holding an item in her hands and another man dressed in a dark shirt and jeans.",
+        "sentence_cn": "背景中还有更多的出席者，其中包括一名留着红色长发、手里拿着物品的女子和另一名身穿深色衬衫和牛仔裤的男子。",
+        "words": [
+            "background",
+            "attendees",
+            "woman",
+            "hair",
+            "item",
+            "hands",
+            "man",
+            "shirt",
+            "jeans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a red wall, wooden floors, and is decorated with a few items like a fire extinguisher, some jackets on hangers, and a door marked with a restroom sign.",
+        "sentence_cn": "房间有一面红色的墙壁和木地板，装饰有灭火器等一些物品，衣架上挂着一些夹克，门上标有洗手间标志。",
+        "words": [
+            "room",
+            "wall",
+            "floors",
+            "items",
+            "fire",
+            "extinguisher",
+            "jackets",
+            "hangers",
+            "door",
+            "restroom",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems casual yet professional, consistent with a conference or social gathering.",
+        "sentence_cn": "这里的氛围看似随意却又专业，与会议或社交聚会一致。",
+        "words": [
+            "atmosphere",
+            "conference",
+            "gathering"
+        ],
+        "id": null
+    }
+]

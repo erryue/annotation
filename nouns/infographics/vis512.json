@@ -1,0 +1,382 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"KEEPING FIT: Workplace Workouts for Savvy Marketers\" by LeadFormix.",
+        "sentence_cn": "该图是 LeadFormix 制作的一张信息图，题为“保持健康：精明营销人员的职场锻炼”。",
+        "words": [
+            "KEEPING FIT: Workplace Workouts for Savvy Marketers",
+            "FIT",
+            "Workplace",
+            "Workouts",
+            "Marketers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It uses fitness metaphors to suggest skills and strategies for marketers.",
+        "sentence_cn": "它使用健身隐喻来为营销人员提供技巧和策略。",
+        "words": [
+            "fitness",
+            "metaphors",
+            "skills",
+            "strategies",
+            "marketers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background resembles wooden flooring.",
+        "sentence_cn": "背景类似木地板。",
+        "words": [
+            "background",
+            "flooring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Strength:",
+        "sentence_cn": "1.强度：",
+        "words": [
+            "Strength",
+            "Strength"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Build professional networks through LinkedIn.",
+        "sentence_cn": "- 描述：通过 LinkedIn 建立专业网络。",
+        "words": [
+            "Description",
+            "networks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person doing a plank exercise.",
+        "sentence_cn": "- 视觉：做平板支撑练习的人。",
+        "words": [
+            "Person",
+            "plank",
+            "exercise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Flexibility",
+        "sentence_cn": "2. 灵活性",
+        "words": [
+            "Flexibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Be open to feedback and criticism on social media; respond gracefully.",
+        "sentence_cn": "- 描述：对社交媒体上的反馈和批评持开放态度并优雅地回应。",
+        "words": [
+            "Description",
+            "feedback",
+            "criticism",
+            "media"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person in a yoga pose.",
+        "sentence_cn": "- 视觉：摆出瑜伽姿势的人。",
+        "words": [
+            "Person",
+            "yoga",
+            "pose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Endurance:",
+        "sentence_cn": "3. 耐力：",
+        "words": [
+            "Endurance",
+            "Endurance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Manage your online reputation and personal brand; endurance helps you stay longer.",
+        "sentence_cn": "- 描述：管理您的在线声誉和个人品牌；耐力可以帮助您坚持更长时间。",
+        "words": [
+            "Description",
+            "reputation",
+            "brand",
+            "endurance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person on an elliptical machine.",
+        "sentence_cn": "- 视觉：椭圆机上的人。",
+        "words": [
+            "Person",
+            "machine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. ",
+        "sentence_cn": "4. ",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Power",
+        "sentence_cn": "力量",
+        "words": [
+            "Power"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Gain domain knowledge by consuming content like eBooks and webcasts.",
+        "sentence_cn": "- 描述：通过消费电子书和网络广播等内容获取领域知识。",
+        "words": [
+            "Description",
+            "domain",
+            "knowledge",
+            "content",
+            "eBooks",
+            "webcasts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person lifting weights.",
+        "sentence_cn": "- 视觉：举重的人。",
+        "words": [
+            "Person",
+            "weights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Balance:",
+        "sentence_cn": "5. 平衡：",
+        "words": [
+            "Balance",
+            "Balance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Balance all activities, such as blogging or tweeting, wisely.",
+        "sentence_cn": "- 描述：明智地平衡所有活动，例如写博客或发推文。",
+        "words": [
+            "Description",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person balancing on a fitness ball with social media icons.",
+        "sentence_cn": "- 视觉：一个人在健身球上保持平衡，旁边还有社交媒体图标。",
+        "words": [
+            "Person",
+            "fitness",
+            "ball",
+            "media",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Stamina",
+        "sentence_cn": "6. 耐力",
+        "words": [
+            "Stamina"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Essential for maintaining a blog; persistence leads to rewards.",
+        "sentence_cn": "- 描述：维护博客的必备条件；坚持就会有回报。",
+        "words": [
+            "Description",
+            "blog",
+            "persistence",
+            "rewards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person running on a treadmill.",
+        "sentence_cn": "- 视觉：跑步机上跑步的人。",
+        "words": [
+            "Person",
+            "treadmill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Agile:",
+        "sentence_cn": "7.敏捷：",
+        "words": [
+            "Agile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Stay updated with fast-changing environments using tools like Google Alerts.",
+        "sentence_cn": "- 描述：使用 Google Alerts 等工具随时了解快速变化的环境。",
+        "words": [
+            "Description",
+            "environments",
+            "tools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person juggling.",
+        "sentence_cn": "- 视觉：人们在玩杂耍。",
+        "words": [
+            "Person",
+            "juggling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Coordination:",
+        "sentence_cn": "8.协调：",
+        "words": [
+            "Coordination",
+            "Coordination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Use technology tools for better team coordination.",
+        "sentence_cn": "- 描述：使用技术工具实现更好的团队协调。",
+        "words": [
+            "Description",
+            "technology",
+            "tools",
+            "team",
+            "coordination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person using a punching bag.",
+        "sentence_cn": "- 视觉：使用沙袋的人。",
+        "words": [
+            "Person",
+            "punching",
+            "bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Accuracy:",
+        "sentence_cn": "9.准确性：",
+        "words": [
+            "Accuracy",
+            "Accuracy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Emphasize objective accuracy; let numbers lead decision-making.",
+        "sentence_cn": "- 描述：强调客观准确性；让数字引领决策。",
+        "words": [
+            "Description",
+            "accuracy",
+            "numbers",
+            "decision",
+            "making"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: Person using a speedometer with graphs.",
+        "sentence_cn": "- 视觉：使用带图表的速度计的人。",
+        "words": [
+            "Person",
+            "speedometer",
+            "graphs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Speed:",
+        "sentence_cn": "10.速度：",
+        "words": [
+            "Speed",
+            "Speed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Description: Short, high-intensity tasks akin to Twitter¡¯s 140-character limit.",
+        "sentence_cn": "- 描述：简短、高强度的任务，类似于 Twitter 的 140 个字符的限制。",
+        "words": [
+            "Description",
+            "intensity",
+            "tasks",
+            "140",
+            "character",
+            "limit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Visual: Person cycling with Twitter icon.",
+        "sentence_cn": "- 视觉：骑自行车的人和 Twitter 图标。",
+        "words": [
+            "Person",
+            "cycling",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The LeadFormix logo is at the bottom, indicating the source.",
+        "sentence_cn": "LeadFormix 徽标位于底部，标明来源。",
+        "words": [
+            "logo",
+            "bottom",
+            "source"
+        ],
+        "id": null
+    }
+]

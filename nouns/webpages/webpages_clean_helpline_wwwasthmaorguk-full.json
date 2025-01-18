@@ -1,0 +1,260 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from the Asthma UK website.",
+        "sentence_cn": "该图片是英国哮喘协会网站网页的截图。",
+        "words": [
+            "webpage",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Section:",
+        "sentence_cn": "- 顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A notification bar with a dark background about cookie usage with an \"ACCEPT COOKIES\" button.",
+        "sentence_cn": "- 带有关于 Cookie 使用情况的深色背景通知栏，并带有“接受 Cookie”按钮。",
+        "words": [
+            "ACCEPT COOKIES",
+            "notification",
+            "bar",
+            "background",
+            "cookie",
+            "usage",
+            "ACCEPT",
+            "COOKIES",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A purple strip contains links for logging in, signing up, and a cart icon.",
+        "sentence_cn": "- 紫色条包含登录、注册和购物车图标的链接。",
+        "words": [
+            "strip",
+            "links",
+            "cart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A turquoise box asks users to \"Ask a nurse\" with a helpline number, accompanied by an icon with a nurse and a cross.",
+        "sentence_cn": "- 一个绿松石色的框要求用户“询问护士”，并提供一个热线号码，旁边还有一个带有护士和十字架的图标。",
+        "words": [
+            "Ask a nurse",
+            "box",
+            "users",
+            "nurse",
+            "helpline",
+            "number",
+            "icon",
+            "nurse",
+            "cross"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Header:",
+        "sentence_cn": "- 主标题：",
+        "words": [
+            "Main Header:",
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The Asthma UK logo is present, featuring intertwined loops.",
+        "sentence_cn": "- 有英国哮喘协会的标志，以相互交织的环为特征。",
+        "words": [
+            "logo",
+            "loops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The slogan \"with you every breath of the way\" is prominently displayed.",
+        "sentence_cn": "- “一路与您相伴”的标语清晰可见。",
+        "words": [
+            "with you every breath of the way",
+            "slogan",
+            "breath",
+            "way"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- There are several tabs with rounded edges labeled ¡°Just diagnosed,¡± ¡°Recently hospitalised,¡± ¡°My child has asthma,¡± ¡°Severe asthma,¡± ¡°Am I at risk of an attack?¡± and a red ¡°Donate¡± button accompanied by social media icons for Facebook and Twitter.",
+        "sentence_cn": "- 有多个带圆边的标签，分别标有“刚刚诊断”、“最近住院”、“我的孩子患有哮喘”、“严重哮喘”、“我有发病的风险吗？”，以及一个红色的“捐赠”按钮，旁边是 Facebook 和 Twitter 的社交媒体图标。",
+        "words": [
+            "tabs",
+            "edges",
+            "child",
+            "risk",
+            "button",
+            "media",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation Bar:",
+        "sentence_cn": "- 导航栏：",
+        "words": [
+            "Navigation Bar:",
+            "Navigation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A purple bar contains links for \"Home,\" \"Advice,\" \"Knowledge bank,\" \"Research,\" \"Get involved,\" \"About us,\" and \"Resources.\"",
+        "sentence_cn": "- 紫色栏包含“主页”、“建议”、“知识库”、“研究”、“参与”、“关于我们”和“资源”的链接。",
+        "words": [
+            "Home,",
+            "Advice,",
+            "Knowledge bank,",
+            "Research,",
+            "Get involved,",
+            "About us,",
+            "Resources.",
+            "bar",
+            "links",
+            "Home",
+            "Advice",
+            "Knowledge",
+            "bank",
+            "Research",
+            "Resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A search box with a magnifying glass icon is located on the right.",
+        "sentence_cn": "- 右侧有一个带有放大镜图标的搜索框。",
+        "words": [
+            "search",
+            "box",
+            "magnifying",
+            "glass",
+            "icon",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Announcement Section:",
+        "sentence_cn": "- 公告部分：",
+        "words": [
+            "Announcement Section:",
+            "Announcement",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A light blue box announces a helpline number for asthmatic specialist nurse support, available Monday to Friday from 9am to 5pm.",
+        "sentence_cn": "- 浅蓝色方框中显示哮喘专科护士支持热线号码，服务时间为周一至周五上午 9 点至下午 5 点。",
+        "words": [
+            "box",
+            "helpline",
+            "number",
+            "specialist",
+            "nurse",
+            "support",
+            "9",
+            "am",
+            "5",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Accompanied by an icon of a megaphone.",
+        "sentence_cn": "- 伴随着一个扩音器图标。",
+        "words": [
+            "icon",
+            "megaphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Regional News Section:",
+        "sentence_cn": "- 区域新闻部分：",
+        "words": [
+            "Regional News Section:",
+            "News",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A text prompt advises users to select their region for news and events, with links for ¡°Cymru,¡± ¡°England,¡± ¡°Northern Ireland,¡± ¡°Scotland,¡± and ¡°See all.¡±",
+        "sentence_cn": "- 文本提示建议用户选择其所在地区以查看新闻和事件，并提供“威尔士”、“英格兰”、“北爱尔兰”、“苏格兰”和“查看全部”链接。",
+        "words": [
+            "text",
+            "prompt",
+            "users",
+            "region",
+            "news",
+            "events",
+            "links",
+            "Northern",
+            "Ireland,¡±"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Illustration:",
+        "sentence_cn": "- 插图：",
+        "words": [
+            "Illustration:",
+            "Illustration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Stick figures holding hands in different shades of purple, representing community support.",
+        "sentence_cn": "- 不同深浅的紫色线条人物手拉手，代表社区支持。",
+        "words": [
+            "Stick",
+            "figures",
+            "hands",
+            "shades",
+            "purple",
+            "community",
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design uses a combination of purple, turquoise, and white, which gives a soothing and professional look.",
+        "sentence_cn": "整体设计采用紫色、青绿色和白色的组合，给人一种舒缓而专业的感觉。",
+        "words": [
+            "design",
+            "combination",
+            "purple",
+            "turquoise",
+            "white",
+            "look"
+        ],
+        "id": null
+    }
+]

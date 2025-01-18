@@ -1,0 +1,138 @@
+[
+    {
+        "sentence": "The image shows a wooden desk with several electronic devices and a drink.",
+        "sentence_cn": "图中是一张木桌，上面放着几台电子设备和一杯饮料。",
+        "words": [
+            "desk",
+            "devices",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Laptop: There's an open white MacBook with a visible screen showing the music player interface.",
+        "sentence_cn": "1. 笔记本电脑：有一台打开的白色 MacBook，其可见屏幕显示音乐播放器界面。",
+        "words": [
+            "Laptop",
+            "screen",
+            "music",
+            "player",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is playing a song titled \"Liar (It Takes One to Know One)\" by the band Taking Back Sunday from the album \"Louder Now.\"",
+        "sentence_cn": "正在播放的是乐队 Taking Back Sunday 的专辑《Louder Now》中的一首歌曲《Liar (It Takes One to Know One)》。",
+        "words": [
+            "Liar (It Takes One to Know One)",
+            "Louder Now.",
+            "song",
+            "One",
+            "One",
+            "band",
+            "album"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The track is at 1 minute and 3 seconds of playtime out of 2 minutes and 7 seconds.",
+        "sentence_cn": "该曲目播放时间为 2 分 7 秒，总时长为 1 分 3 秒。",
+        "words": [
+            "track",
+            "1",
+            "minute",
+            "3",
+            "seconds",
+            "playtime",
+            "2",
+            "minutes",
+            "7",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Music Player and Remote: In front of the laptop, there's a small green iPod Nano connected to the MacBook, alongside a white remote.",
+        "sentence_cn": "2. 音乐播放器和遥控器：在笔记本电脑前面，有一个连接到 MacBook 的小型绿色 iPod Nano，旁边还有一个白色遥控器。",
+        "words": [
+            "Music Player and Remote",
+            "Music",
+            "Player",
+            "Remote",
+            "front",
+            "laptop",
+            "remote"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The iPod is likely being used as a medium for the audio being played on the laptop.",
+        "sentence_cn": "iPod 很可能被用作笔记本电脑播放音频的媒介。",
+        "words": [
+            "medium",
+            "audio",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottle: To the right of the laptop, there's a half-consumed bottle of Coca-Cola with a white cap.",
+        "sentence_cn": "3. 瓶子：笔记本电脑的右侧有一瓶喝了一半的可口可乐，瓶盖是白色的。",
+        "words": [
+            "Bottle",
+            "Bottle",
+            "right",
+            "laptop",
+            "bottle",
+            "cap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Earbuds and Phone: A pair of white earbuds are plugged into a small black flip phone resting on the desk.",
+        "sentence_cn": "4. 耳机和手机：一对白色耳机插在桌子上的一个黑色翻盖小手机上。",
+        "words": [
+            "Earbuds and Phone",
+            "Earbuds",
+            "Phone",
+            "pair",
+            "earbuds",
+            "phone",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The earbud wire is intertwined with the phone, suggesting they were recently used.",
+        "sentence_cn": "耳机线与手机缠绕在一起，表明它们最近被使用过。",
+        "words": [
+            "earbud",
+            "wire",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk surface is wooden, and there's also a pale green textured wall in the background.",
+        "sentence_cn": "桌面是木质的，背景还有一面淡绿色纹理的墙壁。",
+        "words": [
+            "desk",
+            "surface",
+            "wall",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting implies a casual, tech-savvy environment, possibly for listening to music or doing work.",
+        "sentence_cn": "整体布置体现出一种休闲、科技感十足的环境，适合听音乐或工作。",
+        "words": [
+            "tech",
+            "environment",
+            "music",
+            "work"
+        ],
+        "id": null
+    }
+]

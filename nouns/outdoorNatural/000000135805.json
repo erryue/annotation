@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image showcases a natural scene in a savannah-like environment.",
+        "sentence_cn": "该图像展示了类似大草原的环境中出现的自然景观。",
+        "words": [
+            "scene",
+            "savannah",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several giraffes standing and grazing among sparse vegetation.",
+        "sentence_cn": "几只长颈鹿站在稀疏的植被中吃草。",
+        "words": [
+            "giraffes",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is dry with various bushes and tall grasses.",
+        "sentence_cn": "景观干燥，有各种灌木和高草。",
+        "words": [
+            "landscape",
+            "bushes",
+            "grasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a large acacia tree providing some shade.",
+        "sentence_cn": "背景中，有一棵大金合欢树，为其提供遮荫。",
+        "words": [
+            "background",
+            "acacia",
+            "tree",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffes, with their long necks and distinctive patterns, seem to be feeding on the foliage of the tree and surrounding shrubs.",
+        "sentence_cn": "长颈鹿有着长长的脖子和独特的花纹，似乎正在以树木和周围灌木的叶子为食。",
+        "words": [
+            "giraffes",
+            "necks",
+            "patterns",
+            "foliage",
+            "tree",
+            "shrubs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is clear, indicating a bright and sunny day.",
+        "sentence_cn": "天空晴朗，预示着这将是一个阳光明媚的日子。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene is one of tranquility and natural beauty, typical of an African savannah habitat.",
+        "sentence_cn": "整体景色宁静而自然，是典型的非洲大草原景观。",
+        "words": [
+            "scene",
+            "one",
+            "tranquility",
+            "beauty",
+            "savannah",
+            "habitat"
+        ],
+        "id": null
+    }
+]

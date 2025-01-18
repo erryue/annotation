@@ -1,0 +1,319 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"How Connected is Russia?\"",
+        "sentence_cn": "该图是一张信息图，标题为“俄罗斯的连通性如何？”",
+        "words": [
+            "How Connected is Russia?",
+            "Russia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It provides various statistics about internet and mobile device usage in Russia:",
+        "sentence_cn": "它提供了有关俄罗斯互联网和移动设备使用情况的各种统计数据：",
+        "words": [
+            "statistics",
+            "internet",
+            "device",
+            "usage",
+            "Russia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Internet Usage (2014 Projection):",
+        "sentence_cn": "1. 互联网使用情况（2014年预测）：",
+        "words": [
+            "Internet Usage (2014 Projection):",
+            "Internet",
+            "Usage",
+            "2014",
+            "Projection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - By 2014, 71% of Russian adults (80 million people) were expected to access the internet, driven by rapid technological adoption.",
+        "sentence_cn": "- 到 2014 年，随着技术快速普及，预计 71% 的俄罗斯成年人（8000 万人）将访问互联网。",
+        "words": [
+            "2014",
+            "71",
+            "adults",
+            "80",
+            "million",
+            "people",
+            "internet",
+            "adoption"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. European Internet Usage by Country (September 2011):",
+        "sentence_cn": "2. 欧洲各国互联网使用情况（2011 年 9 月）：",
+        "words": [
+            "European Internet Usage by Country (September 2011):",
+            "Internet",
+            "Usage",
+            "Country",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Italy: 23,748 unique visitors.",
+        "sentence_cn": "- 意大利：23,748 名独立访客。",
+        "words": [
+            "Italy",
+            "23,748",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - United Kingdom: 37,997 unique visitors.",
+        "sentence_cn": "- 英国：37,997 位独立访客。",
+        "words": [
+            "United",
+            "Kingdom",
+            "37,997",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - France: 42,349 unique visitors.",
+        "sentence_cn": "- 法国：42,349 名独立访客。",
+        "words": [
+            "France",
+            "42,349",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Germany: 50,039 unique visitors.",
+        "sentence_cn": "- 德国：50,039 名独立访客。",
+        "words": [
+            "Germany",
+            "50,039",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Russia leads with 50,810 unique visitors.",
+        "sentence_cn": "- 俄罗斯以 50,810 名独立访客领先。",
+        "words": [
+            "Russia",
+            "50,810",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Mobile Device Ownership:",
+        "sentence_cn": "3. 移动设备所有权：",
+        "words": [
+            "Mobile Device Ownership:",
+            "Mobile",
+            "Device",
+            "Ownership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Nearly 99% of the Russian population aged 14-65 owns a mobile device.",
+        "sentence_cn": "- 近99％的14-65岁俄罗斯人口拥有移动设备。",
+        "words": [
+            "99",
+            "population",
+            "14",
+            "65",
+            "mobile",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Russia boasts the largest online population in Europe.",
+        "sentence_cn": "- 俄罗斯拥有欧洲最多的上网人口。",
+        "words": [
+            "Russia",
+            "population",
+            "Europe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. GDP and Economy:",
+        "sentence_cn": "4. GDP与经济：",
+        "words": [
+            "GDP and Economy:",
+            "GDP",
+            "Economy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Russia had the highest GDP per capita among the BRIC countries in 2011, at USD 16,736.",
+        "sentence_cn": "- 2011年俄罗斯人均GDP为16,736美元，是金砖国家中最高的国家。",
+        "words": [
+            "Russia",
+            "GDP",
+            "capita",
+            "BRIC",
+            "countries",
+            "2011",
+            "16,736"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Population: 143,030,106.",
+        "sentence_cn": "- 人口：143,030,106。",
+        "words": [
+            "Population",
+            "143,030,106"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Nominal GDP: $1.86 trillion.",
+        "sentence_cn": "-名义GDP：1.86万亿美元。",
+        "words": [
+            "1.86",
+            "trillion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Average salary: $812 a month.",
+        "sentence_cn": "- 平均工资：每月812美元。",
+        "words": [
+            "salary",
+            "812",
+            "month"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Internet Usage Among Youth:",
+        "sentence_cn": "5. 青少年互联网使用情况：",
+        "words": [
+            "Internet Usage Among Youth:",
+            "Internet",
+            "Usage",
+            "Youth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 84% of 18-24-year-olds in Russia use the internet.",
+        "sentence_cn": "- 84% 的俄罗斯 18-24 岁年轻人使用互联网。",
+        "words": [
+            "84",
+            "18",
+            "24",
+            "year",
+            "olds",
+            "Russia",
+            "internet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Sim Cards:",
+        "sentence_cn": "6. SIM 卡：",
+        "words": [
+            "Sim Cards:",
+            "Cards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are 225.9 million SIM cards in Russia.",
+        "sentence_cn": "- 俄罗斯共有2.259亿张SIM卡。",
+        "words": [
+            "225.9",
+            "million",
+            "SIM",
+            "cards",
+            "Russia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Internet Users Over Time:",
+        "sentence_cn": "7. 互联网用户随时间变化：",
+        "words": [
+            "Internet Users Over Time:",
+            "Internet",
+            "Users",
+            "Time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2010: 50.6 million users.",
+        "sentence_cn": "- 2010 年：5060 万用户。",
+        "words": [
+            "2010",
+            "50.6",
+            "million",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2011: 54.9 million users.",
+        "sentence_cn": "- 2011年：5490万用户。",
+        "words": [
+            "2011",
+            "54.9",
+            "million",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2012: 58.7 million users.",
+        "sentence_cn": "- 2012 年：5870 万用户。",
+        "words": [
+            "2012",
+            "58.7",
+            "million",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2013: 61.9 million users.",
+        "sentence_cn": "- 2013 年：6190 万用户。",
+        "words": [
+            "2013",
+            "61.9",
+            "million",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is presented by Mobile TeleSystems OJSC (\"MTS\"), Russia's leading telecommunications group, with sources including AC&M, Comscore, eMarketer, and others.",
+        "sentence_cn": "该信息图由俄罗斯领先的电信集团 Mobile TeleSystems OJSC（“MTS”）提供，数据来源包括 AC&M、Comscore、eMarketer 等。",
+        "words": [
+            "MTS",
+            "Russia",
+            "telecommunications",
+            "group",
+            "sources",
+            "others"
+        ],
+        "id": null
+    }
+]

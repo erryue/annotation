@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image features a promotional poster for badminton.",
+        "sentence_cn": "图片是一张羽毛球宣传海报。",
+        "words": [
+            "poster",
+            "badminton"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A male athlete is shown in a dynamic, mid-air motion, suggesting he's playing badminton.",
+        "sentence_cn": "一名男运动员在空中动态地运动，表明他正在打羽毛球。",
+        "words": [
+            "athlete",
+            "motion",
+            "badminton"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He's wearing a sleeveless white sports shirt with blue accents and blue shorts.",
+        "sentence_cn": "他穿着一件带有蓝色装饰的无袖白色运动衫和蓝色短裤。",
+        "words": [
+            "sports",
+            "shirt",
+            "accents",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The athlete is holding a badminton racket with his right hand, striking a shuttlecock.",
+        "sentence_cn": "运动员右手握住羽毛球拍，击打羽毛球。",
+        "words": [
+            "athlete",
+            "badminton",
+            "racket",
+            "hand",
+            "shuttlecock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He's wearing sports shoes with visible branding.",
+        "sentence_cn": "他穿着带有明显品牌标志的运动鞋。",
+        "words": [
+            "sports",
+            "shoes",
+            "branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a gradient of grey with a blue diagonal stripe across the lower third of the image.",
+        "sentence_cn": "背景是渐变的灰色，图像下三分之一处有一条蓝色对角条纹。",
+        "words": [
+            "background",
+            "gradient",
+            "grey",
+            "stripe",
+            "third"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "White and grey text on the poster reads \"BADMINTON can YOU handle the pace?\"",
+        "sentence_cn": "海报上用白色和灰色的文字写着“羽毛球，你能跟上节奏吗？”",
+        "words": [
+            "BADMINTON can YOU handle the pace?",
+            "text",
+            "poster",
+            "pace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A web address, \"WWW.AUCKBAD.CO.NZ,\" is located in small text under \"BADMINTON.\"",
+        "sentence_cn": "在“BADMINTON”下方的小文本中有一个网址“WWW.AUCKBAD.CO.NZ”。",
+        "words": [
+            "WWW.AUCKBAD.CO.NZ,",
+            "BADMINTON.",
+            "web",
+            "address",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The name \"Kevin Dennerly-Minturn\" is prominently displayed along with the affiliation \"College Rifles Club\" on the blue stripe, indicating the player's identity and club association.",
+        "sentence_cn": "蓝色条纹上显著地显示着“凯文·丹纳利-明特恩”的名字和“大学步枪俱乐部”的隶属关系，表明了球员的身份和俱乐部协会。",
+        "words": [
+            "Kevin Dennerly-Minturn",
+            "College Rifles Club",
+            "name",
+            "affiliation",
+            "stripe",
+            "player",
+            "identity",
+            "club",
+            "association"
+        ],
+        "id": null
+    }
+]

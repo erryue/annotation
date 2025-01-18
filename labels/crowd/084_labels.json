@@ -1,0 +1,90 @@
+[
+    {
+        "id": "4c2abfde-d44f-4628-9788-0271a67eb745",
+        "confidence": 0.91446,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 307.84531,
+                        "minY": 153.92879,
+                        "maxX": 970.33002,
+                        "maxY": 818.75647
+                    },
+                    "x": 307.84531,
+                    "y": 153.92879,
+                    "w": 662.48471,
+                    "h": 664.8276800000001
+                }
+            }
+        }
+    },
+    {
+        "id": "ae3653d5-9363-4031-8fa2-543e85ecdf2b",
+        "confidence": 0.90978,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 973.72644,
+                        "minY": 124.10147,
+                        "maxX": 1607.48938,
+                        "maxY": 1069.01245
+                    },
+                    "x": 973.72644,
+                    "y": 124.10147,
+                    "w": 633.76294,
+                    "h": 944.9109799999999
+                }
+            }
+        }
+    },
+    {
+        "id": "2d488228-6cc8-4f93-8664-037f8fbfacdf",
+        "confidence": 0.89361,
+        "class": "cup",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 506.18695,
+                        "minY": 703.54272,
+                        "maxX": 623.28992,
+                        "maxY": 862.31018
+                    },
+                    "x": 506.18695,
+                    "y": 703.54272,
+                    "w": 117.10297000000003,
+                    "h": 158.76745999999991
+                }
+            }
+        }
+    },
+    {
+        "id": "281e30e4-1e18-45fd-bddf-12ee70cf3a25",
+        "confidence": 0.85192,
+        "class": "cup",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 968.04779,
+                        "minY": 754.91846,
+                        "maxX": 1086.19421,
+                        "maxY": 931.94305
+                    },
+                    "x": 968.04779,
+                    "y": 754.91846,
+                    "w": 118.14642000000015,
+                    "h": 177.02459
+                }
+            }
+        }
+    }
+]

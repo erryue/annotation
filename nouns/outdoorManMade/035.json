@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image depicts a well-lit outdoor staircase leading up to a modern building.",
+        "sentence_cn": "图像描绘的是通往现代建筑的光线充足的室外楼梯。",
+        "words": [
+            "staircase",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The stairs are wide, made of concrete, and feature grooved lines for traction.",
+        "sentence_cn": "楼梯很宽，由混凝土制成，并带有用于牵引的凹槽。",
+        "words": [
+            "stairs",
+            "concrete",
+            "lines",
+            "traction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Small spotlights are embedded along the sides of the steps, casting a warm glow and enhancing visibility.",
+        "sentence_cn": "台阶两侧嵌有小型聚光灯，发出温暖的光芒，增强可见度。",
+        "words": [
+            "spotlights",
+            "sides",
+            "steps",
+            "glow",
+            "visibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are metallic railings on both sides of the staircase.",
+        "sentence_cn": "楼梯两侧均有金属栏杆。",
+        "words": [
+            "railings",
+            "sides",
+            "staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, the landscape includes rocks and plants, with strategically placed lampposts providing additional lighting.",
+        "sentence_cn": "左边的景观包括岩石和植物，策略性放置的灯柱提供额外的照明。",
+        "words": [
+            "left",
+            "landscape",
+            "rocks",
+            "plants",
+            "lampposts",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building itself is made of brick with large windows, and a covered walkway or awning extends along its length.",
+        "sentence_cn": "建筑物本身由砖砌成，设有大窗户，沿建筑物长度延伸有带顶棚的走道或遮阳篷。",
+        "words": [
+            "building",
+            "brick",
+            "windows",
+            "walkway",
+            "awning",
+            "length"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is set during early evening or twilight, with a partly cloudy sky visible.",
+        "sentence_cn": "场景设定为傍晚或黄昏时分，可见部分多云的天空。",
+        "words": [
+            "scene",
+            "evening",
+            "twilight",
+            "sky"
+        ],
+        "id": null
+    }
+]

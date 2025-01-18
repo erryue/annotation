@@ -25,8 +25,8 @@
         "id": null
     },
     {
-        "sentence": "- **Title**: \"ÐÑÐ»ÑÐºÑÑÑÑ Ð´ÐµÐ¿ÑÑÐ°ÑÐ¾Ðº Ñ Ð¿Ð°ÑÐ»Ð°Ð¼ÐµÐ½ÑÐ°Ñ ÑÐ²ÑÑÑ\"",
-        "sentence_cn": "- **标题**：“ÐÑÐ»ÑÐºÑÑÑÑ Ð´ÐµÐ¿ÑÑÐ°ÑÐ¸Ðº Ñ Ð¿唷唷唷呸呸呸呸呸呸”",
+        "sentence": "- Title: \"ÐÑÐ»ÑÐºÑÑÑÑ Ð´ÐµÐ¿ÑÑÐ°ÑÐ¾Ðº Ñ Ð¿Ð°ÑÐ»Ð°Ð¼ÐµÐ½ÑÐ°Ñ ÑÐ²ÑÑÑ\"",
+        "sentence_cn": "- 标题：“ÐÑÐ»ÑÐºÑÑÑÑ Ð´ÐµÐ¿ÑÑÐ°ÑÐ¸Ðº Ñ Ð¿唷唷唷呸呸呸呸呸呸”",
         "words": [
             "Title",
             "ÐÑÐ»ÑÐºÑÑÑÑ Ð´ÐµÐ¿ÑÑÐ°ÑÐ¾Ðº Ñ Ð¿Ð°ÑÐ»Ð°Ð¼ÐµÐ½ÑÐ°Ñ ÑÐ²ÑÑÑ"
@@ -34,8 +34,8 @@
         "id": null
     },
     {
-        "sentence": "- **Countries and Percentages**:",
-        "sentence_cn": "- **国家和百分比**：",
+        "sentence": "- Countries and Percentages:",
+        "sentence_cn": "- 国家和百分比：",
         "words": [
             "Countries and Percentages",
             "Countries",
@@ -127,8 +127,8 @@
         "id": null
     },
     {
-        "sentence": "- **Title**: \"ÐÑÐµÐ´ÑÑÐ°Ð²Ð½Ð¸ÑÑÐ²Ð¾ Ð¶ÑÐ½Ð¾Ðº ÑÐµÑÐµÐ´ ÐºÐ°Ð½Ð´Ð¸Ð´Ð°ÑÑÐ² Ð² Ð¼Ð°Ð¶Ð¾ÑÐ¸ÑÐ°ÑÐ½Ð¸Ñ Ð¾ÐºÑÑÐ³Ð°Ñ\"",
-        "sentence_cn": "- **标题**：“ÐÑÐµÐ´ÑÑÐ°Ð²Ð½Ð¸ÑÑÐ²Ðœ Ð¶ÑÐ½Ð¸Ðº ÑÐµÑÐµÐ´ ”",
+        "sentence": "- Title: \"ÐÑÐµÐ´ÑÑÐ°Ð²Ð½Ð¸ÑÑÐ²Ð¾ Ð¶ÑÐ½Ð¾Ðº ÑÐµÑÐµÐ´ ÐºÐ°Ð½Ð´Ð¸Ð´Ð°ÑÑÐ² Ð² Ð¼Ð°Ð¶Ð¾ÑÐ¸ÑÐ°ÑÐ½Ð¸Ñ Ð¾ÐºÑÑÐ³Ð°Ñ\"",
+        "sentence_cn": "- 标题：“ÐÑÐµÐ´ÑÑÐ°Ð²Ð½Ð¸ÑÑÐ²Ðœ Ð¶ÑÐ½Ð¸Ðº ÑÐµÑÐµÐ´ ”",
         "words": [
             "Title",
             "ÐÑÐµÐ´ÑÑÐ°Ð²Ð½Ð¸ÑÑÐ²Ð¾ Ð¶ÑÐ½Ð¾Ðº ÑÐµÑÐµÐ´ ÐºÐ°Ð½Ð´Ð¸Ð´Ð°ÑÑÐ² Ð² Ð¼Ð°Ð¶Ð¾ÑÐ¸ÑÐ°ÑÐ½Ð¸Ñ Ð¾ÐºÑÑÐ³Ð°Ñ"
@@ -136,8 +136,8 @@
         "id": null
     },
     {
-        "sentence": "- **Map**: Shows the percentage of female candidates in different regions of Ukraine, with percentages ranging from 3.1% to 20.1%.",
-        "sentence_cn": "- **地图**：显示乌克兰不同地区女性候选人的百分比，百分比从 3.1% 到 20.1% 不等。",
+        "sentence": "- Map: Shows the percentage of female candidates in different regions of Ukraine, with percentages ranging from 3.1% to 20.1%.",
+        "sentence_cn": "- 地图：显示乌克兰不同地区女性候选人的百分比，百分比从 3.1% 到 20.1% 不等。",
         "words": [
             "Map",
             "Map",
@@ -153,8 +153,8 @@
         "id": null
     },
     {
-        "sentence": "- **Overall Statistic**: 13.5% of candidates are women across Ukraine.",
-        "sentence_cn": "- **总体统计**：乌克兰全国 13.5% 的候选人为女性。",
+        "sentence": "- Overall Statistic: 13.5% of candidates are women across Ukraine.",
+        "sentence_cn": "- 总体统计：乌克兰全国 13.5% 的候选人为女性。",
         "words": [
             "Overall Statistic",
             "Statistic",
@@ -166,8 +166,8 @@
         "id": null
     },
     {
-        "sentence": "- **Details**: Notes on districts with significantly low or high female representation and mentions specific districts with no women candidates.",
-        "sentence_cn": "- **详细信息**：注明女性代表比例明显偏低或偏高的地区，并提及没有女性候选人的具体地区。",
+        "sentence": "- Details: Notes on districts with significantly low or high female representation and mentions specific districts with no women candidates.",
+        "sentence_cn": "- 详细信息：注明女性代表比例明显偏低或偏高的地区，并提及没有女性候选人的具体地区。",
         "words": [
             "Details",
             "Details",
@@ -192,8 +192,8 @@
         "id": null
     },
     {
-        "sentence": "- **Title**: \"ÐÑÐ»ÑÐºÑÑÑÑ Ð¶ÑÐ½Ð¾Ðº Ñ Ð¿ÐµÑÑÐ¸Ñ Ð¿âÑÑÑÑÑÑ, Ð´ÐµÑÑÑÑÑ ÑÐ° ÑÑÐ¸Ð´ÑÑÑÑÑ Ð·Ð° Ð¿Ð°ÑÑÑÐ¹Ð½Ð¸Ð¼Ð¸ ÑÐ¿Ð¸ÑÐºÐ°Ð¼Ð¸\"",
-        "sentence_cn": "- **Title**: \"ÐÑÐ»ÑÐºÑÑÑÑ Ð¶ÑÐ½Ð¾Ðº Ñ Ð¿ÐµÑÑÐ¸ÑÐ¿âÑÑÑÑÑÑ, Ð´ÐµÑÑÑÑÑ ÑÐ° ÑÑÐ¸Ð´ÑÑÑÑ Ñ Ð·Ð°吖吖吖吖吖吖吖噫噫噫噫”",
+        "sentence": "- Title: \"ÐÑÐ»ÑÐºÑÑÑÑ Ð¶ÑÐ½Ð¾Ðº Ñ Ð¿ÐµÑÑÐ¸Ñ Ð¿âÑÑÑÑÑÑ, Ð´ÐµÑÑÑÑÑ ÑÐ° ÑÑÐ¸Ð´ÑÑÑÑÑ Ð·Ð° Ð¿Ð°ÑÑÑÐ¹Ð½Ð¸Ð¼Ð¸ ÑÐ¿Ð¸ÑÐºÐ°Ð¼Ð¸\"",
+        "sentence_cn": "- 标题：“ÐÑÐ»ÑÐºÑÑÑÑÐ¶ÑÐ½Ð¸Ðº Ñ Ð¿ Ð¿âÑÑÑÑÑ¤Ñ¸, Ð´ÐµÑÑÑÑÑ ÑÐ° ÑÑÐ¸Ð´ÑÑÑÑª Ñ Ð·Ð°吖吖吖吖吖吖吖噫噫噫噫”",
         "words": [
             "Title",
             "ÐÑÐ»ÑÐºÑÑÑÑ Ð¶ÑÐ½Ð¾Ðº Ñ Ð¿ÐµÑÑÐ¸Ñ Ð¿âÑÑÑÑÑÑ, Ð´ÐµÑÑÑÑÑ ÑÐ° ÑÑÐ¸Ð´ÑÑÑÑÑ Ð·Ð° Ð¿Ð°ÑÑÑÐ¹Ð½Ð¸Ð¼Ð¸ ÑÐ¿Ð¸ÑÐºÐ°Ð¼Ð¸"
@@ -225,8 +225,8 @@
         "id": null
     },
     {
-        "sentence": "- **Title**: \"ÐÑÐ¾Ð³Ð½Ð¾Ð·Ð¸, ÑÐºÑÐ¾ ÑÐµÐ½Ð´ÐµÐ½ÑÑÑ Ð·Ð±ÐµÑÐµÐ¶ÐµÑÑÑÑ\"",
-        "sentence_cn": "- **标题**：“ÐÐÐ⁄Ð3Ð½Ð⁄Ð·Ð¸, ÑÐºÑÐª ÑÐµÐ½Ð´ÐµÐ¸ÑÑÑ ”",
+        "sentence": "- Title: \"ÐÑÐ¾Ð³Ð½Ð¾Ð·Ð¸, ÑÐºÑÐ¾ ÑÐµÐ½Ð´ÐµÐ½ÑÑÑ Ð·Ð±ÐµÑÐµÐ¶ÐµÑÑÑÑ\"",
+        "sentence_cn": "- 标题：“ÐÐÐ¸Ð3Ð½Ð⁄Ð·Ð¸, ÑÐºÑÐª ÑÐµÐ½Ð´ÐµÐ¸ÑÑÑ ”",
         "words": [
             "Title",
             "ÐÑÐ¾Ð³Ð½Ð¾Ð·Ð¸, ÑÐºÑÐ¾ ÑÐµÐ½Ð´ÐµÐ½ÑÑÑ Ð·Ð±ÐµÑÐµÐ¶ÐµÑÑÑÑ"
@@ -234,8 +234,8 @@
         "id": null
     },
     {
-        "sentence": "- **Positive Scenario**: Based on UNDP research, a potential increase to 13.3% female representation by 2012, projecting 32% by 2028.",
-        "sentence_cn": "- **积极情景**：根据联合国开发计划署的研究，到 2012 年女性代表比例可能增加到 13.3%，预计到 2028 年将达到 32%。",
+        "sentence": "- Positive Scenario: Based on UNDP research, a potential increase to 13.3% female representation by 2012, projecting 32% by 2028.",
+        "sentence_cn": "- 积极情景：根据联合国开发计划署的研究，到 2012 年女性代表比例可能增加到 13.3%，预计到 2028 年将达到 32%。",
         "words": [
             "Positive Scenario",
             "Scenario",
@@ -251,8 +251,8 @@
         "id": null
     },
     {
-        "sentence": "- **Negative Scenario**: Describes a possible decline to 6% by 2012 and 0% by 2024 if trends persist, based on NDI research.",
-        "sentence_cn": "- **负面情景**：根据 NDI 的研究，如果趋势持续下去，到 2012 年可能下降到 6%，到 ​​2024 年可能下降到 0%。",
+        "sentence": "- Negative Scenario: Describes a possible decline to 6% by 2012 and 0% by 2024 if trends persist, based on NDI research.",
+        "sentence_cn": "- 负面情景：根据 NDI 的研究，如果趋势持续下去，到 2012 年可能下降到 6%，到 ​​2024 年可能下降到 0%。",
         "words": [
             "Negative Scenario",
             "Scenario",

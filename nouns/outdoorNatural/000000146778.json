@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image depicts a group of giraffes standing in a vast, open field with tall grasses.",
+        "sentence_cn": "画中描绘了一群长颈鹿站在一片广阔、长满高草的田野中。",
+        "words": [
+            "group",
+            "giraffes",
+            "field",
+            "grasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is set in a savanna landscape.",
+        "sentence_cn": "场景设定在一片热带草原。",
+        "words": [
+            "scene",
+            "savanna",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several giraffes visible, with one standing separately to the left and a group gathered more closely to the right.",
+        "sentence_cn": "可以看到几只长颈鹿，其中一只单独站在左边，一群聚集在右边。",
+        "words": [
+            "giraffes",
+            "one",
+            "group",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear with a hint of haze in the background, indicating a hot or humid day.",
+        "sentence_cn": "天空晴朗，背景有一丝雾霾，预示着天气炎热或潮湿。",
+        "words": [
+            "sky",
+            "hint",
+            "haze",
+            "background",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a line of green shrubbery or trees, providing a natural barrier or horizon line.",
+        "sentence_cn": "背景以一排绿色灌木或树木为特色，提供天然屏障或地平线。",
+        "words": [
+            "background",
+            "line",
+            "shrubbery",
+            "trees",
+            "barrier",
+            "horizon",
+            "line"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, the grass is lush, and there are some small logs or branches lying on the ground, possibly remnants of fallen trees.",
+        "sentence_cn": "前景中，草木茂盛，地上散落着一些小木头或树枝，可能是倒下的树木的残余。",
+        "words": [
+            "foreground",
+            "grass",
+            "logs",
+            "branches",
+            "ground",
+            "remnants",
+            "trees"
+        ],
+        "id": null
+    }
+]

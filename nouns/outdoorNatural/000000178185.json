@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image depicts a picturesque rural landscape.",
+        "sentence_cn": "图像描绘的是一幅风景如画的乡村风景。",
+        "words": [
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a field of vibrant purple and pink wildflowers stretching across the scene.",
+        "sentence_cn": "前景中，有一片鲜艳的紫色和粉红色野花遍布整个场景。",
+        "words": [
+            "foreground",
+            "field",
+            "wildflowers",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the flowers, lush green pastures are visible, where several cows are grazing.",
+        "sentence_cn": "在花丛后面，可见郁郁葱葱的绿色牧场，几头牛正在吃草。",
+        "words": [
+            "flowers",
+            "pastures",
+            "cows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rolling hills in the midground are dotted with patches of bushes and trees, adding texture to the landscape.",
+        "sentence_cn": "中景的起伏山丘上点缀着一片片灌木和树木，为景观增添了质感。",
+        "words": [
+            "hills",
+            "midground",
+            "patches",
+            "bushes",
+            "trees",
+            "texture",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several houses with white walls and colorful roofs are nestled amidst the greenery, giving a quaint village feel.",
+        "sentence_cn": "几栋白色墙壁、彩色屋顶的房屋掩映在绿树之中，给人一种古朴的乡村感觉。",
+        "words": [
+            "houses",
+            "walls",
+            "roofs",
+            "greenery",
+            "village",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a range of rugged hills or low mountains rise under a partly cloudy sky.",
+        "sentence_cn": "背景中，多云的天空下，一排崎岖的山丘或低矮的山脉耸立着。",
+        "words": [
+            "background",
+            "range",
+            "hills",
+            "mountains",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The clouds are white and fluffy, and the overall atmosphere is bright and sunny, casting warm light over the entire scene.",
+        "sentence_cn": "云朵洁白而蓬松，整体氛围明亮而阳光明媚，整个场景散发着温暖的光芒。",
+        "words": [
+            "clouds",
+            "atmosphere",
+            "light",
+            "scene"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Hard Rain.\"",
+        "sentence_cn": "图片是《Hard Rain》的电影海报。",
+        "words": [
+            "Hard Rain.",
+            "movie",
+            "poster",
+            "Rain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the poster features the names \"Morgan Freeman\" and \"Christian Slater\" in bold white letters.",
+        "sentence_cn": "海报顶部用粗体白色字母写着“摩根·弗里曼”和“克里斯汀·史莱特”的名字。",
+        "words": [
+            "Morgan Freeman",
+            "Christian Slater",
+            "top",
+            "poster",
+            "names",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there's a tagline: \"A simple plan.",
+        "sentence_cn": "下面有一句标语：“一个简单的计划。",
+        "words": [
+            "tagline",
+            "plan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An instant fortune.",
+        "sentence_cn": "一夜暴富。",
+        "words": [
+            "fortune"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Just add water.\"",
+        "sentence_cn": "只需加水即可。”",
+        "words": [
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central image shows a dramatic scene with a man splashing through water, drenched in heavy rain.",
+        "sentence_cn": "中间的图片展示了一个戏剧性的场景：一名男子在大雨中溅起水花，浑身湿透。",
+        "words": [
+            "scene",
+            "man",
+            "water",
+            "rain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme is predominantly red at the top, transitioning to blue at the bottom, creating a striking contrast.",
+        "sentence_cn": "配色方案顶部主要是红色，底部过渡为蓝色，形成鲜明的对比。",
+        "words": [
+            "color",
+            "scheme",
+            "top",
+            "blue",
+            "bottom",
+            "contrast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are three shadowy figures with flashlights, suggesting a tense or suspenseful situation.",
+        "sentence_cn": "背景中，有三个手持手电筒的黑影，暗示着紧张或悬疑的局势。",
+        "words": [
+            "background",
+            "three",
+            "figures",
+            "flashlights",
+            "situation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Hard Rain\" is prominently displayed in bold red letters at the bottom of the image.",
+        "sentence_cn": "标题“Hard Rain”以粗体红色字母突出显示在图像的底部。",
+        "words": [
+            "Hard Rain",
+            "title",
+            "Rain",
+            "letters",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The credits and additional information about the film are listed at the very bottom.",
+        "sentence_cn": "电影的演职员名单和其他信息列在最底部。",
+        "words": [
+            "credits",
+            "information",
+            "film",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood of the poster conveys action and drama.",
+        "sentence_cn": "海报的整体氛围传达出动作和戏剧效果。",
+        "words": [
+            "mood",
+            "poster",
+            "action",
+            "drama"
+        ],
+        "id": null
+    }
+]

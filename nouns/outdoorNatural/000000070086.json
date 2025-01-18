@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a serene rural landscape with several sheep grazing in a grass field.",
+        "sentence_cn": "图像描绘了一片宁静的乡村风景，几只羊在草地上吃草。",
+        "words": [
+            "landscape",
+            "sheep",
+            "grass",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is a pastoral scene dominated by a large tree on the right, with its branches and trunk prominently visible.",
+        "sentence_cn": "场景是一幅田园风光，右侧有一棵大树，树枝和树干清晰可见。",
+        "words": [
+            "scene",
+            "tree",
+            "right",
+            "branches",
+            "trunk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass in the foreground is lush and green, providing a verdant pasture for the sheep.",
+        "sentence_cn": "前景中的草长势茂盛，为羊群提供了青翠的牧场。",
+        "words": [
+            "grass",
+            "foreground",
+            "pasture",
+            "sheep"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are open fields stretching out to the horizon, dotted with more trees.",
+        "sentence_cn": "背景中，开阔的田野一直延伸到地平线，其间点缀着更多树木。",
+        "words": [
+            "background",
+            "fields",
+            "horizon",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is tranquil, capturing the essence of a peaceful countryside environment.",
+        "sentence_cn": "整体氛围宁静，体现了宁静乡村环境的精髓。",
+        "words": [
+            "atmosphere",
+            "essence",
+            "countryside",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests it might be morning or late afternoon, with soft, natural light illuminating the scene.",
+        "sentence_cn": "灯光表明当时可能是早晨或傍晚，柔和的自然光照亮了场景。",
+        "words": [
+            "lighting",
+            "morning",
+            "afternoon",
+            "light",
+            "scene"
+        ],
+        "id": null
+    }
+]

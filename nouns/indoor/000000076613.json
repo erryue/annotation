@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image features a small, neatly organized home office or study area in a room with bright green walls.",
+        "sentence_cn": "图片展示的是一间房间，里面有一个小型、整洁的家庭办公室或学习区，墙壁是亮绿色。",
+        "words": [
+            "home",
+            "office",
+            "study",
+            "area",
+            "room",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point is a dark wooden desk with white metal legs positioned in front of a window.",
+        "sentence_cn": "焦点是一张位于窗前的深色木质桌子，配有白色金属桌腿。",
+        "words": [
+            "point",
+            "desk",
+            "metal",
+            "legs",
+            "front",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window has closed blinds, allowing soft natural light into the room.",
+        "sentence_cn": "窗户拉上了百叶窗，柔和的自然光照进房间。",
+        "words": [
+            "window",
+            "blinds",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there is a flat-screen computer monitor centered, a keyboard, and a mouse nearby.",
+        "sentence_cn": "办公桌上，中央放着一台平板电脑显示器，旁边有一个键盘和一只鼠标。",
+        "words": [
+            "desk",
+            "screen",
+            "computer",
+            "monitor",
+            "keyboard",
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the monitor is a stack of paper trays and a few small decorative items resembling figurines.",
+        "sentence_cn": "显示器左侧是一叠纸盘和一些类似小雕像的小装饰品。",
+        "words": [
+            "monitor",
+            "stack",
+            "paper",
+            "trays",
+            "items",
+            "figurines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A green chair made of plastic or metal is placed at the desk.",
+        "sentence_cn": "书桌旁摆放着一把由塑料或金属制成的绿色椅子。",
+        "words": [
+            "chair",
+            "plastic",
+            "metal",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the desk, there is a metallic filing cabinet with several drawers and some books placed on top.",
+        "sentence_cn": "书桌右侧有一个金属文件柜，里面有几个抽屉，上面放着一些书。",
+        "words": [
+            "right",
+            "desk",
+            "filing",
+            "cabinet",
+            "drawers",
+            "books",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two wall-mounted shelves hang on the right wall, displaying small figurines, framed pictures, and other decorative items.",
+        "sentence_cn": "右侧墙壁上悬挂着两个壁挂式架子，上面摆放着小雕像、相框和其他装饰品。",
+        "words": [
+            "Two",
+            "wall",
+            "shelves",
+            "wall",
+            "figurines",
+            "pictures",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small piece of framed artwork is also visible on the wall to the right of the window.",
+        "sentence_cn": "窗户右侧的墙上还可以看到一小块镶框的艺术品。",
+        "words": [
+            "piece",
+            "artwork",
+            "wall",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is wooden, and the overall atmosphere is tidy and inviting, with a blend of modern and personal touches.",
+        "sentence_cn": "地板是木质的，整体氛围整洁温馨，融合了现代风格和个性化风格。",
+        "words": [
+            "floor",
+            "atmosphere",
+            "blend",
+            "touches"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,139 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"MASH.\"",
+        "sentence_cn": "图片是《MASH》的电影海报。",
+        "words": [
+            "MASH.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, in large red and yellow text, is a quote: \"'MASH' IS WHAT THE NEW FREEDOM OF THE SCREEN IS ALL ABOUT!\" attributed to Richard Schickel from Life magazine.",
+        "sentence_cn": "顶部用大号红色和黄色字体引用了这样一句话：“《陆军野战医院》就是银幕上的新自由！”这句话出自《生活》杂志的理查德·希克尔 (Richard Schickel)。",
+        "words": [
+            "'MASH' IS WHAT THE NEW FREEDOM OF THE SCREEN IS ALL ABOUT!",
+            "top",
+            "text",
+            "quote",
+            "FREEDOM",
+            "SCREEN",
+            "magazine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the quote is a large image of a human hand giving a peace sign.",
+        "sentence_cn": "这句话的下面是一张巨大的图像，画中是一只人类的手比出和平的手势。",
+        "words": [
+            "quote",
+            "hand",
+            "peace",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The fingers are shaped to resemble legs, and the hand wears a combat boot, creating an anthropomorphic visual effect.",
+        "sentence_cn": "手指的形状像腿，手穿着战斗靴，营造出拟人化的视觉效果。",
+        "words": [
+            "fingers",
+            "legs",
+            "hand",
+            "combat",
+            "boot",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A military helmet with the American flag is perched on the index finger, and dog tags hang from the hand.",
+        "sentence_cn": "食指上戴着一顶印有美国国旗的军用头盔，手上挂着军队的牌子。",
+        "words": [
+            "helmet",
+            "flag",
+            "finger",
+            "dog",
+            "tags",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several quotes from critics are printed next to the image, praising the film:",
+        "sentence_cn": "图片旁边印有数位评论家对这部电影的称赞：",
+        "words": [
+            "quotes",
+            "critics",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"The funniest... you will be bowled over by its wit!\"",
+        "sentence_cn": "- “最有趣的......你会被它的智慧所折服！”",
+        "words": [
+            "The funniest... you will be bowled over by its wit!",
+            "wit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "¡ª Judith Crist, NBC-TV",
+        "sentence_cn": "— 朱迪思·克里斯特，NBC 电视台",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- \"'MASH' is the best American war comedy since sound came in.\"",
+        "sentence_cn": "- “《陆军野战医院》是自有声电影问世以来最好的美国战争喜剧。”",
+        "words": [
+            "'MASH' is the best American war comedy since sound came in.",
+            "war",
+            "comedy",
+            "sound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "¡ª Pauline Kael, New Yorker",
+        "sentence_cn": "— 保琳·凯尔，《纽约客》",
+        "words": [
+            "New",
+            "Yorker"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- ¡°¡®MASH¡¯ is a cockeyed masterpiece¡ªsee it twice.¡± ¡ª Joseph Morgenstern, Newsweek",
+        "sentence_cn": "- “《陆军野战医院》是一部荒诞不经的杰作——看两遍吧。”— 约瑟夫·摩根斯坦，《新闻周刊》",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, the text reads \"20th Century-Fox presents MASH, An Ingo Preminger Production.\"",
+        "sentence_cn": "海报底部的文字写着“二十世纪福克斯出品的《陆军野战医院》，英戈·普雷明格制作”。",
+        "words": [
+            "20th Century-Fox presents MASH, An Ingo Preminger Production.",
+            "bottom",
+            "poster",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster lists credits for the film, including the starring actors Donald Sutherland, Elliott Gould, and Tom Skerritt, as well as the director, Robert Altman, and other key crew members.",
+        "sentence_cn": "海报列出了影片的演职员名单，包括主演唐纳德·萨瑟兰、埃利奥特·古尔德、汤姆·斯凯里特，以及导演罗伯特·奥特曼和其他主要剧组成员。",
+        "words": [
+            "poster",
+            "credits",
+            "film",
+            "actors",
+            "director",
+            "crew",
+            "members"
+        ],
+        "id": null
+    }
+]

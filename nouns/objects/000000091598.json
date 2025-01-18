@@ -1,0 +1,180 @@
+[
+    {
+        "sentence": "The image depicts a neatly arranged tabletop scene featuring three vases with flowers, placed on a wooden surface with a woven placemat.",
+        "sentence_cn": "图像描绘了一幅整齐排列的桌面场景，其中有三个花瓶，插着鲜花，放置在铺有编织餐垫的木质表面上。",
+        "words": [
+            "tabletop",
+            "scene",
+            "three",
+            "vases",
+            "flowers",
+            "surface",
+            "placemat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Vases:",
+        "sentence_cn": "1. 花瓶：",
+        "words": [
+            "Vases:",
+            "Vases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The vases are of different colors and sizes.",
+        "sentence_cn": "- 花瓶的颜色和尺寸各不相同。",
+        "words": [
+            "vases",
+            "colors",
+            "sizes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The yellow vase is round and contains white tulips with green stems and leaves.",
+        "sentence_cn": "- 黄色花瓶是圆形的，里面插着带有绿色茎和叶的白色郁金香。",
+        "words": [
+            "vase",
+            "tulips",
+            "stems",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The orange vase is smaller and holds a few stalks of green leaves without visible flowers.",
+        "sentence_cn": "- 橙色花瓶较小，插着几根绿叶，没有可见的花朵。",
+        "words": [
+            "orange",
+            "vase",
+            "stalks",
+            "leaves",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The dark blue vase is taller, featuring two large white gerbera daisies with dark centers.",
+        "sentence_cn": "- 深蓝色花瓶较高，上面插着两朵中心为深色的大白色非洲菊。",
+        "words": [
+            "vase",
+            "two",
+            "gerbera",
+            "daisies",
+            "centers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Flowers:",
+        "sentence_cn": "2. 鲜花：",
+        "words": [
+            "Flowers:",
+            "Flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The tulips are white and appear fresh, complementing the bright yellow vase.",
+        "sentence_cn": "- 郁金香是白色的，看起来很新鲜，与明亮的黄色花瓶相得益彰。",
+        "words": [
+            "tulips",
+            "vase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The daisies in the dark blue vase add height and contrast against the other elements.",
+        "sentence_cn": "- 深蓝色花瓶中的雏菊增加了高度并与其他元素形成了对比。",
+        "words": [
+            "daisies",
+            "vase",
+            "height",
+            "contrast",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Napkins:",
+        "sentence_cn": "3. 餐巾：",
+        "words": [
+            "Napkins:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are neatly folded plaid napkins beside the vases, featuring a pattern of earthy tones.",
+        "sentence_cn": "- 花瓶旁边有折叠整齐的格子餐巾，呈现出泥土色调的图案。",
+        "words": [
+            "napkins",
+            "vases",
+            "pattern",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Background:",
+        "sentence_cn": "4. 背景：",
+        "words": [
+            "Background:",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The background shows a wine rack filled with rows of wine bottles, suggesting a setting that could be a dining room or a wine cellar.",
+        "sentence_cn": "- 背景显示一个摆满了一排排酒瓶的酒架，表明该场景可能是餐厅或酒窖。",
+        "words": [
+            "background",
+            "wine",
+            "rack",
+            "rows",
+            "wine",
+            "bottles",
+            "dining",
+            "room",
+            "wine",
+            "cellar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Tabletop:",
+        "sentence_cn": "5. 桌面：",
+        "words": [
+            "Tabletop:",
+            "Tabletop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The table surface is wooden, blending well with the earthy and neutral tones of the arrangement.",
+        "sentence_cn": "- 桌面为木质，与布置的泥土色和中性色调完美融合。",
+        "words": [
+            "table",
+            "surface",
+            "tones",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition creates a cozy and elegant atmosphere, suitable for a decorative setting.",
+        "sentence_cn": "整体构图营造出舒适而优雅的氛围，适合装饰环境。",
+        "words": [
+            "composition",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image displays five cans of Dasani sparkling water in various flavors, arranged in a row.",
+        "sentence_cn": "图片展示了五罐不同口味的达萨尼苏打水，排成一排。",
+        "words": [
+            "five",
+            "cans",
+            "water",
+            "flavors",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cans have a blue gradient background with noticeable fruit imagery corresponding to each flavor:",
+        "sentence_cn": "罐子采用蓝色渐变背景，上面有明显的水果图像，与每种口味相对应：",
+        "words": [
+            "cans",
+            "gradient",
+            "background",
+            "fruit",
+            "imagery",
+            "flavor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Black Cherry - Purple and pink accents.",
+        "sentence_cn": "1. 黑樱桃 - 紫色和粉色点缀。",
+        "words": [
+            "Black Cherry",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Berry - Red and pink accents.",
+        "sentence_cn": "2. 浆果——红色和粉色点缀。",
+        "words": [
+            "Berry",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lemon - Yellow accents and a lemon graphic.",
+        "sentence_cn": "3. 柠檬——黄色点缀和柠檬图形。",
+        "words": [
+            "Lemon",
+            "Lemon",
+            "accents",
+            "lemon",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Lime - Green accents with a lime graphic.",
+        "sentence_cn": "4. 酸橙色 - 带有酸橙色图形的绿色点缀。",
+        "words": [
+            "Lime",
+            "Lime",
+            "accents",
+            "lime",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Raspberry Lemonade - Red and pink accents, featuring raspberries and a lemon graphic.",
+        "sentence_cn": "5. 覆盆子柠檬水——以红色和粉色为点缀，以覆盆子和柠檬图案为特色。",
+        "words": [
+            "Raspberry Lemonade",
+            "accents",
+            "raspberries",
+            "lemon",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cans are branded with \"Dasani sparkling\" text.",
+        "sentence_cn": "罐子上印有“Dasani 起泡酒”的字样。",
+        "words": [
+            "Dasani sparkling",
+            "cans",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's a yellow circular graphic with \"$1 for a 12 pack\" written inside.",
+        "sentence_cn": "右侧有一个黄色圆形图形，里面写着“12 包售价 1 美元”。",
+        "words": [
+            "$1 for a 12 pack",
+            "graphic",
+            "1",
+            "12",
+            "pack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the row of cans is the Target logo, which includes a red bullseye symbol and the word \"TARGET\" in black.",
+        "sentence_cn": "一排罐子下面是 Target 的标志，包括一个红色靶心符号和黑色的“TARGET”字样。",
+        "words": [
+            "TARGET",
+            "row",
+            "cans",
+            "logo",
+            "bullseye",
+            "symbol",
+            "word",
+            "black"
+        ],
+        "id": null
+    }
+]

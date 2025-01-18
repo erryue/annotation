@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image is an advertisement featuring a close-up view of a plastic cup filled with beer.",
+        "sentence_cn": "该图是一则广告，特写展示了装满啤酒的塑料杯。",
+        "words": [
+            "view",
+            "plastic",
+            "cup",
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a noticeable insect, likely a fly, floating on the surface of the beer.",
+        "sentence_cn": "有一只明显的昆虫，可能是苍蝇，漂浮在啤酒表面。",
+        "words": [
+            "insect",
+            "fly",
+            "surface",
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, bold black text reads: \"A BUG IN YOUR BEER? HOORAY!\"",
+        "sentence_cn": "左侧用黑色粗体字体写着：“你的啤酒里有虫子？好棒！”",
+        "words": [
+            "A BUG IN YOUR BEER? HOORAY!",
+            "text",
+            "BUG",
+            "BEER"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, smaller text continues: \"Ever glance in your brew while you¡¯re at a ballgame and find a critter?",
+        "sentence_cn": "下面较小的文字继续写道：“观看球赛时，你有没有瞥过你喝的啤酒并发现了小动物？",
+        "words": [
+            "text",
+            "brew",
+            "ballgame",
+            "critter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It¡¯s a bummer actually.",
+        "sentence_cn": "事实上，这是一件令人沮丧的事。",
+        "words": [
+            "bummer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "But when you consider that means you¡¯re outside with that suds, maybe it makes the whole thing kind of great.\"",
+        "sentence_cn": "但当你考虑到这意味着你在外面有泡沫时，也许这会让整个事情变得很棒。”",
+        "words": [
+            "suds",
+            "thing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further down, it says, \"THE BEAUTY OF OUTDOOR BASEBALL, RETURNING IN 2010.\"",
+        "sentence_cn": "再往下写着：“户外棒球之美，2010年回归。”",
+        "words": [
+            "THE BEAUTY OF OUTDOOR BASEBALL, RETURNING IN 2010.",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom of the image features a logo shaped like the state of Minnesota with the text \"THIS IS TWINS TERRITORY\" and includes contact information and a website: \"612-33-TWINS, TWINSBASEBALL.COM.\"",
+        "sentence_cn": "图片底部有一个明尼苏达州形状的标志，上面写着“这是双胞胎的领地”，并包含联系信息和网站：“612-33-TWINS，TWINSBASEBALL.COM”。",
+        "words": [
+            "THIS IS TWINS TERRITORY",
+            "612-33-TWINS, TWINSBASEBALL.COM.",
+            "bottom",
+            "logo",
+            "state",
+            "Minnesota",
+            "text",
+            "TWINS",
+            "TERRITORY",
+            "contact",
+            "information",
+            "website",
+            "612",
+            "33"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a clear blue sky, emphasizing the outdoor setting.",
+        "sentence_cn": "背景是晴朗的蓝天，强调了户外环境。",
+        "words": [
+            "background",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall message highlights the experience of outdoor baseball games, associating it with the occasional bug in your drink as part of the charm.",
+        "sentence_cn": "整体信息强调了户外棒球比赛的体验，并将其与饮料中偶尔出现的虫子联系起来，这也是其魅力的一部分。",
+        "words": [
+            "message",
+            "experience",
+            "baseball",
+            "games",
+            "bug",
+            "drink",
+            "part",
+            "charm"
+        ],
+        "id": null
+    }
+]

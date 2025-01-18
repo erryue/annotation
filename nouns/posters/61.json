@@ -1,0 +1,125 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"White,\" directed by Krzysztof Kieslowski.",
+        "sentence_cn": "图片是克日什托夫·基耶斯洛夫斯基执导的电影《白色》的电影海报。",
+        "words": [
+            "White,",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a close-up of two individuals.",
+        "sentence_cn": "照片是两个人的特写镜头。",
+        "words": [
+            "close",
+            "up",
+            "two",
+            "individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A woman with long, light-colored hair is looking down intently at a man, who is lying down with his eyes closed.",
+        "sentence_cn": "一名有着浅色长发的女子正专注地低头注视着一名躺着闭上眼睛的男子。",
+        "words": [
+            "woman",
+            "hair",
+            "man",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a subtle gradient that transitions from a light to a darker shade, creating a soft focus on the central figures.",
+        "sentence_cn": "背景是一个微妙的渐变，从浅色过渡到深色，在中心人物上形成柔和的焦点。",
+        "words": [
+            "background",
+            "gradient",
+            "light",
+            "shade",
+            "focus",
+            "figures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text at the top of the poster reads \"A Marin Karmitz Production.\"",
+        "sentence_cn": "海报顶部的文字写着“马林·卡米茨 (Marin Karmitz) 作品”。",
+        "words": [
+            "A Marin Karmitz Production.",
+            "text",
+            "top",
+            "poster",
+            "Production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film's title, \"White,\" is prominently displayed in large, bold letters in the upper portion.",
+        "sentence_cn": "影片的片名“白色”以大号粗体字突出显示在影片的上部。",
+        "words": [
+            "White,",
+            "film",
+            "title",
+            "letters",
+            "portion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the credits read, \"Zbigniew Zamachowski\" and \"Julie Delpy,\" likely indicating the main cast members.",
+        "sentence_cn": "片名下方的演职员表写着“Zbigniew Zamachowski”和“Julie Delpy”，可能指的是主要演员。",
+        "words": [
+            "Zbigniew Zamachowski",
+            "Julie Delpy,",
+            "title",
+            "credits",
+            "cast",
+            "members"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The director's name, Krzysztof Kieslowski, is also mentioned.",
+        "sentence_cn": "片中还提到了导演克日什托夫·基耶斯洛夫斯基 (Krzysztof Kieslowski) 的名字。",
+        "words": [
+            "director",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is an acknowledgment that the film won \"Best Director\" at the Berlin Film Festival.",
+        "sentence_cn": "据悉，该片荣获柏林电影节“最佳导演”奖。",
+        "words": [
+            "Best Director",
+            "acknowledgment",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, additional credits and production details are listed, along with the Miramax Films logo.",
+        "sentence_cn": "底部列出了额外的演职员名单和制作细节，以及米拉麦克斯影业的标志。",
+        "words": [
+            "bottom",
+            "credits",
+            "production",
+            "details",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The movie is rated R.",
+        "sentence_cn": "这部电影被评级为R级。",
+        "words": [
+            "movie",
+            "R."
+        ],
+        "id": null
+    }
+]

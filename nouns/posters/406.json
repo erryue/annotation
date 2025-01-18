@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Thinner,\" based on Stephen King's work.",
+        "sentence_cn": "该图是改编自斯蒂芬·金作品的电影《瘦身男女》的海报。",
+        "words": [
+            "Thinner,",
+            "movie",
+            "poster",
+            "work"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a dramatic and eerie image of a man's face.",
+        "sentence_cn": "海报上是一个男人面部的戏剧性而又诡异的图像。",
+        "words": [
+            "poster",
+            "man",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Half of his face appears normal, while the other half is skeletal, symbolizing a curse or transformation.",
+        "sentence_cn": "他的脸有一半正常，另一半则骨瘦如柴，象征着诅咒或转变。",
+        "words": [
+            "Half",
+            "face",
+            "half",
+            "curse",
+            "transformation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme is predominantly blue with purple and pink highlights, enhancing the supernatural and ominous feel.",
+        "sentence_cn": "配色方案主要是蓝色，带有紫色和粉色亮点，增强了超自然和不祥的感觉。",
+        "words": [
+            "color",
+            "scheme",
+            "highlights",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the poster includes the tagline, \"Let The Curse Fit The Crime.\"",
+        "sentence_cn": "海报上的文字包括标语“让诅咒与罪行相符”。",
+        "words": [
+            "Let The Curse Fit The Crime.",
+            "Text",
+            "poster",
+            "tagline",
+            "Curse",
+            "Crime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"THINNER\" is prominently displayed in large white and pink letters.",
+        "sentence_cn": "“THINNER（瘦身者）”这个标题以白色和粉红色的大字母突出显示。",
+        "words": [
+            "THINNER",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there are credits for the film's production, mentioning Stephen King's involvement, and indicating a release \"Coming This Fall.\"",
+        "sentence_cn": "片名下方是影片的制作人员名单，提到了斯蒂芬·金的参与，并表明影片将于“今年秋季上映”。",
+        "words": [
+            "Coming This Fall.",
+            "title",
+            "credits",
+            "film",
+            "production",
+            "involvement",
+            "release",
+            "Fall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster evokes a sense of horror and mystery, typical of Stephen King's adaptations.",
+        "sentence_cn": "海报营造出一种恐怖和神秘的感觉，这是斯蒂芬·金改编作品的典型特征。",
+        "words": [
+            "poster",
+            "sense",
+            "horror",
+            "mystery",
+            "adaptations"
+        ],
+        "id": null
+    }
+]

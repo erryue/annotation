@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image is a mobile app login screen with a background photo of two children.",
+        "sentence_cn": "图像是一个手机应用程序登录屏幕，背景是两个孩子的照片。",
+        "words": [
+            "mobile",
+            "app",
+            "login",
+            "screen",
+            "background",
+            "photo",
+            "two",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The older child is wearing a white ballet outfit and is smiling, while the younger child is also dressed in a ballet outfit.",
+        "sentence_cn": "大一点的孩子穿着白色的芭蕾舞服，面带微笑，小一点的孩子也穿着芭蕾舞服。",
+        "words": [
+            "child",
+            "ballet",
+            "outfit",
+            "child",
+            "ballet",
+            "outfit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are standing in front of a blue brick wall.",
+        "sentence_cn": "他们站在一堵青砖墙前。",
+        "words": [
+            "front",
+            "brick",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The login options overlay the image.",
+        "sentence_cn": "登录选项覆盖图像。",
+        "words": [
+            "login",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They include:",
+        "sentence_cn": "它们包括：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A blue button labeled \"Continue with Facebook\" with the Facebook icon.",
+        "sentence_cn": "- 带有 Facebook 图标且标有“继续使用 Facebook”的蓝色按钮。",
+        "words": [
+            "Continue with Facebook",
+            "button",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A blue button labeled \"Continue with LinkedIn\" with the LinkedIn icon.",
+        "sentence_cn": "- 带有 LinkedIn 图标且标有“继续使用 LinkedIn”的蓝色按钮。",
+        "words": [
+            "Continue with LinkedIn",
+            "button",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An option to \"Sign Up with Email\" in green text with a white background.",
+        "sentence_cn": "- 白色背景下绿色文字“使用电子邮件注册”选项。",
+        "words": [
+            "Sign Up with Email",
+            "option",
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a toggle option labeled \"Send me updates and tips,\" which is shown off with a yellow circle.",
+        "sentence_cn": "有一个标记为“向我发送更新和提示”的切换选项，以黄色圆圈显示。",
+        "words": [
+            "Send me updates and tips,",
+            "toggle",
+            "option",
+            "updates",
+            "tips",
+            "circle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is small text stating, \"By logging on you agree to our Terms of Service and Privacy Policy,\" with links to both policies.",
+        "sentence_cn": "在底部，有一小段文字，“登录即表示您同意我们的服务条款和隐私政策”，并附有这两项政策的链接。",
+        "words": [
+            "By logging on you agree to our Terms of Service and Privacy Policy,",
+            "bottom",
+            "text",
+            "links",
+            "policies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the screen shows typical mobile interface icons such as notifications, signal strength, and battery level.",
+        "sentence_cn": "屏幕顶部显示典型的移动界面图标，例如通知、信号强度和电池电量。",
+        "words": [
+            "top",
+            "screen",
+            "mobile",
+            "interface",
+            "icons",
+            "notifications",
+            "signal",
+            "strength",
+            "battery",
+            "level"
+        ],
+        "id": null
+    }
+]

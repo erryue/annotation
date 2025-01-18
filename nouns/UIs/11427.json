@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image shows a weather screen with the current conditions in San Francisco.",
+        "sentence_cn": "图像显示的是旧金山当前的天气状况。",
+        "words": [
+            "weather",
+            "screen",
+            "conditions",
+            "San",
+            "Francisco"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The temperature is 53¡ãF, with a high of 72¡ãF and a low of 49¡ãF. The weather is clear.",
+        "sentence_cn": "气温为 53°F，最高气温为 72°F，最低气温为 49°F。天气晴朗。",
+        "words": [
+            "temperature",
+            "53¡ãF",
+            "high",
+            "72¡ãF",
+            "low",
+            "49¡ãF.",
+            "weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A person is holding a cat in the foreground.",
+        "sentence_cn": "前景中一个人正抱着一只猫。",
+        "words": [
+            "person",
+            "cat",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cat has a tabby pattern and is looking relaxed, with its eyes partly closed and its tongue sticking out slightly.",
+        "sentence_cn": "这只猫有着虎斑纹，看起来很放松，眼睛半闭，舌头微微伸出。",
+        "words": [
+            "cat",
+            "tabby",
+            "pattern",
+            "eyes",
+            "tongue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Its paws and chin are white.",
+        "sentence_cn": "它的爪子和下巴是白色的。",
+        "words": [
+            "paws",
+            "chin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a clear blue sky, suggesting a pleasant day.",
+        "sentence_cn": "背景是晴朗的蓝天，预示着这是一个愉快的一天。",
+        "words": [
+            "background",
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a small paw print icon at the bottom left corner of the image.",
+        "sentence_cn": "图像左下角还有一个小爪印图标。",
+        "words": [
+            "paw",
+            "print",
+            "icon",
+            "corner"
+        ],
+        "id": null
+    }
+]

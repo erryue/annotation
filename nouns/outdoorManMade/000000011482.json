@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image depicts a picturesque coastal scene with several small boats beached on a rocky and seaweed-strewn shore.",
+        "sentence_cn": "照片描绘的是风景如画的海岸景色，几艘小船搁浅在布满岩石和海藻的海岸上。",
+        "words": [
+            "scene",
+            "boats",
+            "seaweed",
+            "shore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The boats are primarily red and white, with one having a blue interior.",
+        "sentence_cn": "这些船主要以红色和白色为主，其中一艘船的内饰为蓝色。",
+        "words": [
+            "boats",
+            "one",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are tethered and appear to be resting as the tide is low, revealing the rocky ground beneath.",
+        "sentence_cn": "它们被拴在绳子上，退潮时似乎在休息，露出了下面的岩石地面。",
+        "words": [
+            "tide",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, across the water, is an old stone castle or fortress standing prominently on what appears to be a small island or promontory.",
+        "sentence_cn": "背景中，水的对面，是一座古老的石头城堡或堡垒，矗立在看似小岛或海角的地方。",
+        "words": [
+            "background",
+            "water",
+            "stone",
+            "castle",
+            "fortress",
+            "island",
+            "promontory"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The castle has multiple towers and walls, giving it a historic and somewhat mysterious appearance.",
+        "sentence_cn": "城堡拥有多座塔楼和城墙，显得历史悠久，且有些神秘。",
+        "words": [
+            "castle",
+            "towers",
+            "walls",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the water are rolling hills with sparse vegetation, indicating a rugged landscape typical of coastal regions.",
+        "sentence_cn": "水周围是连绵起伏的山丘，植被稀疏，显示出沿海地区典型的崎岖地貌。",
+        "words": [
+            "water",
+            "hills",
+            "vegetation",
+            "landscape",
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast with soft lighting, suggesting a mild day with clouds that diffuse the sunlight.",
+        "sentence_cn": "天空阴云密布，光线柔和，云朵散射着阳光，预示着天气温和。",
+        "words": [
+            "sky",
+            "lighting",
+            "day",
+            "clouds",
+            "sunlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is serene and slightly nostalgic, capturing the charm of a remote maritime location.",
+        "sentence_cn": "整体氛围宁静而略带怀旧气息，体现出遥远海滨的魅力。",
+        "words": [
+            "atmosphere",
+            "charm",
+            "location"
+        ],
+        "id": null
+    }
+]

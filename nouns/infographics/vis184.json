@@ -1,0 +1,289 @@
+[
+    {
+        "sentence": "The image is an educational infographic about tsunamis, titled \"Tsunami Science.\"",
+        "sentence_cn": "该图是一张关于海啸的教育信息图，标题为“海啸科学”。",
+        "words": [
+            "Tsunami Science.",
+            "tsunamis",
+            "Tsunami",
+            "Science"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Top Section: Title and Intro",
+        "sentence_cn": "### 顶部部分：标题和简介",
+        "words": [
+            "Section",
+            "Title",
+            "Intro"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"Tsunami Science\"",
+        "sentence_cn": "- 标题：“海啸科学”",
+        "words": [
+            "Title",
+            "Tsunami Science",
+            "Title",
+            "Tsunami",
+            "Science"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Description: Brief explanation that tsunamis are ocean waves caused by disturbances like earthquakes or underwater landslides displacing large water masses.",
+        "sentence_cn": "- 描述：简要说明海啸是由于地震或水下滑坡等干扰导致大量水体移位而引起的海浪。",
+        "words": [
+            "Description",
+            "Description",
+            "explanation",
+            "tsunamis",
+            "ocean",
+            "waves",
+            "disturbances",
+            "earthquakes",
+            "landslides",
+            "water",
+            "masses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other causes include meteor impacts.",
+        "sentence_cn": "其他原因包括流星撞击。",
+        "words": [
+            "causes",
+            "meteor",
+            "impacts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Causes:",
+        "sentence_cn": "### 主要原因：",
+        "words": [
+            "Causes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Earthquakes",
+        "sentence_cn": "1. 地震",
+        "words": [
+            "Earthquakes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Depicts the process of underwater tectonic activity.",
+        "sentence_cn": "- 描绘水下构造活动的过程。",
+        "words": [
+            "process",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrations show how large earthquakes beneath the seafloor generate tsunamis.",
+        "sentence_cn": "- 插图展示了海底大地震如何引发海啸。",
+        "words": [
+            "Illustrations",
+            "earthquakes",
+            "seafloor",
+            "tsunamis"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Landslides:",
+        "sentence_cn": "2. 山体滑坡：",
+        "words": [
+            "Landslides",
+            "Landslides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrates underwater landslides.",
+        "sentence_cn": "- 说明水下山体滑坡。",
+        "words": [
+            "landslides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Describes how displaced material pushes water, creating tsunamis.",
+        "sentence_cn": "- 描述流离失所的物质如何推动水，从而引发海啸。",
+        "words": [
+            "material",
+            "water",
+            "tsunamis"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Volcanic Eruptions:",
+        "sentence_cn": "3. 火山爆发：",
+        "words": [
+            "Volcanic Eruptions",
+            "Eruptions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Uses labeled diagrams to explain:",
+        "sentence_cn": "- 使用标记图表来解释：",
+        "words": [
+            "diagrams"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     1. Volcano summit collapse.",
+        "sentence_cn": "1.火山顶部塌陷。",
+        "words": [
+            "Volcano",
+            "summit",
+            "collapse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     2. Lateral blast.",
+        "sentence_cn": "2. 侧面爆炸。",
+        "words": [
+            "blast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     3. Rapid water displacement forming waves.",
+        "sentence_cn": "3. 快速的水位移形成波浪。",
+        "words": [
+            "water",
+            "displacement",
+            "waves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Characteristics:",
+        "sentence_cn": "＃＃＃ 特征：",
+        "words": [
+            "Characteristics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Describes that tsunamis slow down but grow in height when approaching the shore.",
+        "sentence_cn": "- 描述海啸在接近海岸时速度减慢但高度增加。",
+        "words": [
+            "tsunamis",
+            "height",
+            "shore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Illustration shows a side view of a tsunami's progression from deep ocean to shore.",
+        "sentence_cn": "- 插图显示了海啸从深海向海岸移动的侧视图。",
+        "words": [
+            "Illustration",
+            "view",
+            "tsunami",
+            "progression",
+            "ocean",
+            "shore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Indicates wave height can reach up to 10 meters and potentially cause devastation.",
+        "sentence_cn": "- 表示海浪高度可达 10 米并可能造成破坏。",
+        "words": [
+            "wave",
+            "height",
+            "10",
+            "meters",
+            "devastation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Graph on wave speed:",
+        "sentence_cn": "- 波速图：",
+        "words": [
+            "Graph",
+            "wave",
+            "speed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Faster in the deep ocean (up to 800 km/h) and slowing down near the coast.",
+        "sentence_cn": "- 在深海中速度较快（高达 800 公里/小时），在海岸附近速度减慢。",
+        "words": [
+            "ocean",
+            "800",
+            "km",
+            "h",
+            "coast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Logos and Sources:",
+        "sentence_cn": "### 徽标和来源：",
+        "words": [
+            "Logos",
+            "Sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Includes logos of organizations like USAID and CDEMA, and web addresses for more information on tsunamis and coastal hazards.",
+        "sentence_cn": "- 包括美国国际开发署和加勒比紧急经济援助等组织的徽标，以及有关海啸和沿海灾害的更多信息的网址。",
+        "words": [
+            "logos",
+            "organizations",
+            "web",
+            "addresses",
+            "information",
+            "tsunamis",
+            "hazards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This infographic serves as a comprehensive guide to understanding the science behind tsunamis, their causes, and characteristics.",
+        "sentence_cn": "该信息图可以作为了解海啸背后的科学、其原因和特征的全面指南。",
+        "words": [
+            "guide",
+            "science",
+            "tsunamis",
+            "causes",
+            "characteristics"
+        ],
+        "id": null
+    }
+]

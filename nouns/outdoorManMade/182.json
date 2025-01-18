@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image depicts a luxurious outdoor setting with a modern rectangular infinity pool surrounded by a wide wooden deck.",
+        "sentence_cn": "图片描绘的是一个豪华的户外场景，其中有一个现代化的矩形无边泳池，周围环绕着宽阔的木质甲板。",
+        "words": [
+            "infinity",
+            "pool",
+            "deck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are two white lounge chairs with a colorful towel featuring a floral pattern on one.",
+        "sentence_cn": "前景中有两把白色的躺椅，其中一张躺椅上铺着一条带有花卉图案的彩色毛巾。",
+        "words": [
+            "foreground",
+            "two",
+            "lounge",
+            "chairs",
+            "towel",
+            "pattern",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The chairs are shaded by a large umbrella.",
+        "sentence_cn": "一把大遮阳伞为椅子遮荫。",
+        "words": [
+            "chairs",
+            "umbrella"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there¡¯s a contemporary outdoor living area with a flat roof, partially enclosed with stone accents.",
+        "sentence_cn": "背景中有一个现代化的户外生活区，带有平屋顶，部分用石头装饰。",
+        "words": [
+            "background",
+            "living",
+            "area",
+            "roof",
+            "stone",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene overlooks a stunning view of the ocean, visible beyond the pool, with clear blue skies dotted with a few fluffy clouds.",
+        "sentence_cn": "该场景俯瞰着令人惊叹的海景，从游泳池那边清晰可见，湛蓝的天空上点缀着几朵蓬松的云彩。",
+        "words": [
+            "scene",
+            "view",
+            "ocean",
+            "pool",
+            "skies",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Lush greenery and large boulders surround the area, enhancing the tranquil seaside atmosphere.",
+        "sentence_cn": "郁郁葱葱的绿色植物和巨大的巨石环绕该地区，增添了宁静的海滨氛围。",
+        "words": [
+            "greenery",
+            "boulders",
+            "area",
+            "seaside",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

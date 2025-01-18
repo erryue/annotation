@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image shows six wooden buttons arranged on a wooden surface.",
+        "sentence_cn": "图中显示了六个木质纽扣排列在木质表面上。",
+        "words": [
+            "six",
+            "buttons",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each button has a unique shape and design:",
+        "sentence_cn": "每个按钮都有独特的形状和设计：",
+        "words": [
+            "button",
+            "shape",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Sleeping Cat: A long, horizontal button resembling a cat lying down with its tail curled.",
+        "sentence_cn": "1. 睡猫：一个长长的水平按钮，形状类似一只躺着、尾巴卷曲的猫。",
+        "words": [
+            "Sleeping Cat",
+            "Cat",
+            "button",
+            "cat",
+            "tail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Ball of Yarn: A circular shape depicting a ball of yarn with lines woven across it.",
+        "sentence_cn": "2. 毛线球：一个圆形的毛线球，上面编织着线条。",
+        "words": [
+            "Ball of Yarn",
+            "Yarn",
+            "shape",
+            "ball",
+            "yarn",
+            "lines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Sitting Cat: A button shaped like a cat sitting upright with a cheerful expression.",
+        "sentence_cn": "3. 坐猫：形状像一只直立坐着、表情欢快的猫的按钮。",
+        "words": [
+            "Sitting Cat",
+            "button",
+            "cat",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Snail: A snail-shaped button with a spiral shell and antennae.",
+        "sentence_cn": "4. 蜗牛：带有螺旋壳和触角的蜗牛形状的按钮。",
+        "words": [
+            "Snail",
+            "Snail",
+            "snail",
+            "button",
+            "shell",
+            "antennae"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Owl: A button in the shape of an owl, complete with large eyes and detailed feather markings.",
+        "sentence_cn": "5. 猫头鹰：猫头鹰形状的纽扣，有大大的眼睛和细致的羽毛斑纹。",
+        "words": [
+            "Owl",
+            "Owl",
+            "button",
+            "shape",
+            "owl",
+            "eyes",
+            "feather",
+            "markings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Star: A five-pointed star button with two holes.",
+        "sentence_cn": "6. 星星：有两个孔的五角星按钮。",
+        "words": [
+            "Star",
+            "Star",
+            "five",
+            "star",
+            "button",
+            "two",
+            "holes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the buttons, there's a portion of a white card with printed text partially visible in black font.",
+        "sentence_cn": "按钮右侧是白色卡片的一部分，上面的印刷文字部分以黑色字体显示。",
+        "words": [
+            "right",
+            "buttons",
+            "portion",
+            "card",
+            "text",
+            "font"
+        ],
+        "id": null
+    }
+]

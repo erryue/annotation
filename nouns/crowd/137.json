@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "The image depicts a crowded indoor gathering, likely a dinner or a social event, taking place in a restaurant or a similar venue.",
+        "sentence_cn": "该图描绘的是一次拥挤的室内聚会，可能是晚宴或社交活动，发生在餐馆或类似场所。",
+        "words": [
+            "gathering",
+            "dinner",
+            "event",
+            "place",
+            "restaurant",
+            "venue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are many people seated at long tables, engaged in conversation, with drinks and glassware arranged on the tables.",
+        "sentence_cn": "很多人坐在长桌旁，交谈着，桌子上摆放着饮料和玻璃器皿。",
+        "words": [
+            "people",
+            "tables",
+            "conversation",
+            "drinks",
+            "glassware",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some attendees are wearing shirts with the \"Fedora\" logo, indicating a possible connection to the Fedora Project or a related tech community.",
+        "sentence_cn": "一些与会者穿着带有“Fedora”标志的衬衫，这表明可能与 Fedora 项目或相关技术社区有联系。",
+        "words": [
+            "Fedora",
+            "attendees",
+            "shirts",
+            "logo",
+            "connection",
+            "tech",
+            "community"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is decorated with artwork on the walls and has a warm ambiance with dim lighting.",
+        "sentence_cn": "房间的墙上装饰着艺术品，灯光昏暗，氛围温馨。",
+        "words": [
+            "room",
+            "artwork",
+            "walls",
+            "ambiance",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large plant and a shelf with bottles are visible in the background.",
+        "sentence_cn": "背景中可以看到一株大型植物和一个摆放着瓶子的架子。",
+        "words": [
+            "plant",
+            "shelf",
+            "bottles",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The crowd appears to be enjoying the event, and there's a casual, friendly atmosphere.",
+        "sentence_cn": "人群似乎很享受这次活动，气氛轻松而友好。",
+        "words": [
+            "crowd",
+            "event",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The event seems to be an informal get-together with a focus on social interaction.",
+        "sentence_cn": "该活动似乎是一次非正式的聚会，注重社交互动。",
+        "words": [
+            "event",
+            "get",
+            "together",
+            "focus",
+            "interaction"
+        ],
+        "id": null
+    }
+]

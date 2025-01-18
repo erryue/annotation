@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Cinema Paradiso.\"",
+        "sentence_cn": "图片是《天堂电影院》的电影海报。",
+        "words": [
+            "Cinema Paradiso.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a tagline: \"An enchanted village.",
+        "sentence_cn": "顶部有一行标语：“一个迷人的村庄。",
+        "words": [
+            "top",
+            "tagline",
+            "village"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wonderful friendship.",
+        "sentence_cn": "美好的友谊。",
+        "words": [
+            "friendship"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Star-crossed lovers.",
+        "sentence_cn": "不幸的恋人。",
+        "words": [
+            "Star",
+            "lovers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "And the magic of the movies.\"",
+        "sentence_cn": "还有电影的魔力。”",
+        "words": [
+            "magic",
+            "movies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central image features an older man and a young boy, with the man looking over the boy's shoulder affectionately.",
+        "sentence_cn": "中央的图像描绘的是一位老年男子和一个小男孩，男子深情地从男孩的肩膀上望着。",
+        "words": [
+            "man",
+            "boy",
+            "man",
+            "boy",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are positioned above a massive marquee displaying a romantic scene of a couple kissing on a large movie screen.",
+        "sentence_cn": "它们被放置在一个巨大的帐篷上方，大型电影屏幕上播放着一对情侣接吻的浪漫场景。",
+        "words": [
+            "marquee",
+            "scene",
+            "couple",
+            "movie",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The marquee and screen are surrounded by bright lights, evoking the classic cinema experience.",
+        "sentence_cn": "帐篷和屏幕周围环绕着明亮的灯光，让人回想起经典的电影体验。",
+        "words": [
+            "marquee",
+            "screen",
+            "lights",
+            "cinema",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Cinema Paradiso\" is written in bold, colorful letters above the marquee.",
+        "sentence_cn": "帐篷上方用彩色粗体字写着“天堂电影院”​​。",
+        "words": [
+            "Cinema Paradiso",
+            "letters",
+            "marquee"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the cinema scene, there is an audience watching the film, adding depth and immersion to the theme of the movie¡¯s magic.",
+        "sentence_cn": "电影院场景下方，还有观众在观看电影，为电影魔力的主题增添了深度和沉浸感。",
+        "words": [
+            "cinema",
+            "scene",
+            "audience",
+            "film",
+            "depth",
+            "immersion",
+            "theme",
+            "movie¡¯s",
+            "magic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main image, accolades are mentioned, highlighting it as a Golden Globe winner for Best Foreign Film and a recipient of the Special Jury Prize at the Cannes Film Festival in 1989.",
+        "sentence_cn": "主图下方提到了荣誉，强调该片荣获 1989 年金球奖最佳外语片奖和戛纳电影节评审团特别奖。",
+        "words": [
+            "accolades",
+            "winner",
+            "recipient",
+            "1989"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom are the credits, listing the names of the director, cast, and other key contributors, including the famous composer Ennio Morricone, and the distributing company Miramax Films.",
+        "sentence_cn": "底部是演职员表，列出了导演、演员和其他主要贡献者的姓名，包括著名作曲家埃尼奥·莫里康内和发行公司米拉麦克斯影业。",
+        "words": [
+            "bottom",
+            "credits",
+            "names",
+            "director",
+            "cast",
+            "contributors",
+            "composer",
+            "company"
+        ],
+        "id": null
+    }
+]

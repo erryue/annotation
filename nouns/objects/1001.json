@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image shows a desk setup with various items.",
+        "sentence_cn": "图中展示了一张摆放着各种物品的书桌。",
+        "words": [
+            "desk",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a white plate containing a sandwich with cheese and what appears to be a layer of chutney or sauce on top, two slices of brown bread, and an apple.",
+        "sentence_cn": "白色的盘子里装着一个夹有奶酪的三明治，上面有一层酸辣酱或酱汁，还有两片黑面包和一个苹果。",
+        "words": [
+            "plate",
+            "sandwich",
+            "cheese",
+            "layer",
+            "chutney",
+            "sauce",
+            "top",
+            "two",
+            "slices",
+            "bread",
+            "apple"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the plate is a clear glass cup filled with a light-colored liquid, likely milk.",
+        "sentence_cn": "盘子旁边是一个透明的玻璃杯，里面盛满了浅色的液体，可能是牛奶。",
+        "words": [
+            "plate",
+            "glass",
+            "cup",
+            "liquid",
+            "milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black electronic device, possibly an older model of a media player or smartphone, is positioned above the plate, along with a tangled set of white earphones.",
+        "sentence_cn": "盘子上方放置着一个黑色电子设备，可能是旧款的媒体播放器或智能手机，旁边还有一副缠在一起的白色耳机。",
+        "words": [
+            "device",
+            "model",
+            "media",
+            "player",
+            "smartphone",
+            "plate",
+            "set",
+            "earphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A laptop is partially visible on the left side of the desk, and a keyboard is seen at the bottom right.",
+        "sentence_cn": "桌子左侧有一台笔记本电脑部分可见，右下方有一个键盘。",
+        "words": [
+            "laptop",
+            "desk",
+            "keyboard",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a white coffee cup with coffee or tea towards the top right corner.",
+        "sentence_cn": "右上角还有一个白色的咖啡杯，里面盛着咖啡或茶。",
+        "words": [
+            "coffee",
+            "cup",
+            "coffee",
+            "tea",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk surface is light-colored, contributing to a tidy and organized workspace atmosphere.",
+        "sentence_cn": "桌面采用浅色系，营造整洁有序的工作空间氛围。",
+        "words": [
+            "desk",
+            "surface",
+            "workspace",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

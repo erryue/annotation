@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image is an advertisement for the Audi A1 Sportback featuring 3D Maps.",
+        "sentence_cn": "该图是带有 3D 地图的奥迪 A1 Sportback 的广告。",
+        "words": [
+            "3D",
+            "Maps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a white Audi A1 Sportback is prominently displayed, facing left.",
+        "sentence_cn": "前景中，一辆白色奥迪 A1 Sportback 显眼地展示在左侧。",
+        "words": [
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The car is positioned on an open pop-up book, which serves as the backdrop of the image.",
+        "sentence_cn": "汽车放置在一本打开的立体书上，作为图像的背景。",
+        "words": [
+            "car",
+            "book",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pop-up book contains intricate paper cutouts depicting various iconic architectural landmarks, suggesting a theme of navigation and travel.",
+        "sentence_cn": "这本立体书包含精美的剪纸，描绘了各种标志性的建筑地标，暗示了导航和旅行的主题。",
+        "words": [
+            "book",
+            "paper",
+            "cutouts",
+            "landmarks",
+            "theme",
+            "navigation",
+            "travel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These landmarks include a stylized representation of the Colosseum, among others, representing different famous locations around the world.",
+        "sentence_cn": "这些地标包括罗马斗兽场的风格化代表作，以及其他代表世界各地不同著名地点的代表作。",
+        "words": [
+            "landmarks",
+            "representation",
+            "others",
+            "locations",
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has a light, gradient sky-blue tone, providing a clean and minimalist aesthetic.",
+        "sentence_cn": "背景采用浅色、渐变的天蓝色调，呈现出一种干净、简约的美感。",
+        "words": [
+            "background",
+            "gradient",
+            "sky",
+            "tone",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the image, the Audi logo and slogan \"Vorsprung durch Technik\" are displayed, along with the text \"The Audi A1 Sportback with 3D Maps.\"",
+        "sentence_cn": "图像右侧显示了奥迪徽标和口号“突破科技，启迪未来”，以及文字“配备 3D 地图的奥迪 A1 Sportback”。",
+        "words": [
+            "Vorsprung durch Technik",
+            "The Audi A1 Sportback with 3D Maps.",
+            "logo",
+            "slogan",
+            "Vorsprung",
+            "text",
+            "Maps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition emphasizes the car's modernity and advanced features, particularly its navigation abilities showcased through the pop-up map concept.",
+        "sentence_cn": "整体构图强调了汽车的现代性和先进性，特别是通过弹出式地图概念展示的导航能力。",
+        "words": [
+            "composition",
+            "car",
+            "modernity",
+            "features",
+            "navigation",
+            "abilities",
+            "map",
+            "concept"
+        ],
+        "id": null
+    }
+]

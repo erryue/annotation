@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image depicts a simple yet elegant interior corner.",
+        "sentence_cn": "图像描绘了一个简单而优雅的室内角落。",
+        "words": [
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a wooden table with slatted design, upon which rests a white ceramic pot containing a leafy green plant with delicate branches.",
+        "sentence_cn": "有一张板条设计的木桌，上面放着一个白色陶瓷花盆，花盆里种着一株枝叶纤细的绿叶植物。",
+        "words": [
+            "table",
+            "design",
+            "pot",
+            "plant",
+            "branches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the plant, there are three white pillar candles of varying heights arranged in a neat cluster.",
+        "sentence_cn": "植物旁边，有三根高低不一的白色柱状蜡烛，整齐地排列成一簇。",
+        "words": [
+            "plant",
+            "three",
+            "pillar",
+            "candles",
+            "heights",
+            "cluster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The candles add a touch of coziness and warmth to the setup.",
+        "sentence_cn": "蜡烛给布置增添了一丝舒适和温暖。",
+        "words": [
+            "candles",
+            "touch",
+            "coziness",
+            "warmth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the table, mounted on a light-colored wall, is a framed photograph or artwork featuring a scenic coastal landscape.",
+        "sentence_cn": "桌子上方的浅色墙壁上挂着一幅描绘美丽海岸风景的相框或艺术品。",
+        "words": [
+            "table",
+            "wall",
+            "photograph",
+            "artwork",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The picture shows a view of the ocean with waves gently rolling towards a rocky shoreline, under a clear blue sky.",
+        "sentence_cn": "照片中显示的是湛蓝天空下大海的景色，海浪轻轻地向岩石海岸滚动。",
+        "words": [
+            "picture",
+            "view",
+            "ocean",
+            "waves",
+            "shoreline",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition of the image suggests a peaceful and serene atmosphere, with a mix of natural elements highlighting simplicity and tranquility.",
+        "sentence_cn": "图像整体构图呈现出一种平和安详的氛围，融合了自然元素，凸显了朴素与宁静。",
+        "words": [
+            "composition",
+            "atmosphere",
+            "mix",
+            "elements",
+            "simplicity",
+            "tranquility"
+        ],
+        "id": null
+    }
+]

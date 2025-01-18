@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image shows a group of young children sitting around a blue table engaged in a bead threading activity with a teacher or caregiver.",
+        "sentence_cn": "图中显示一群小孩围坐在一张蓝色桌子旁，与老师或看护人一起进行穿珠子活动。",
+        "words": [
+            "group",
+            "children",
+            "table",
+            "bead",
+            "threading",
+            "activity",
+            "teacher",
+            "caregiver"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children appear to be focused and interested, handling colorful beads that are either spherical or cylindrical in shape.",
+        "sentence_cn": "孩子们看上去注意力很集中，很感兴趣，手里拿着球形或圆柱形的彩色珠子。",
+        "words": [
+            "children",
+            "beads",
+            "shape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The teacher is smiling, wearing glasses and a yellow sweater, and is actively participating in the activity, helping or guiding the children.",
+        "sentence_cn": "老师面带微笑，戴着眼镜，穿着黄色毛衣，积极参与活动，帮助或指导孩子们。",
+        "words": [
+            "teacher",
+            "glasses",
+            "sweater",
+            "activity",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems to be a classroom or educational environment, as suggested by the number chart visible in the background on the wall.",
+        "sentence_cn": "从墙壁背景中的数字表可以看出，场景似乎是一个教室或教育环境。",
+        "words": [
+            "classroom",
+            "environment",
+            "number",
+            "chart",
+            "background",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are diverse, each focused on stringing beads onto strings.",
+        "sentence_cn": "孩子们各有不同，每个人都专注于把珠子串到绳子上。",
+        "words": [
+            "children",
+            "beads",
+            "strings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are sitting closely together, suggesting a collaborative or group learning experience.",
+        "sentence_cn": "他们紧密地坐在一起，表明他们正在进行协作或小组学习。",
+        "words": [
+            "group",
+            "learning",
+            "experience"
+        ],
+        "id": null
+    }
+]

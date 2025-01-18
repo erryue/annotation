@@ -1,0 +1,345 @@
+[
+    {
+        "sentence": "The image is a workout routine diagram titled \"Take Your Routine on the Road with our 30-minute workout\" from Best Life.",
+        "sentence_cn": "该图是来自 Best Life 的一份锻炼常规图，标题为“通过我们的 30 分钟锻炼，在旅途中养成您的日常锻炼习惯”。",
+        "words": [
+            "Take Your Routine on the Road with our 30-minute workout",
+            "workout",
+            "routine",
+            "diagram",
+            "Routine",
+            "Road",
+            "30",
+            "minute",
+            "workout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It details a series of exercises, each illustrated with a simple icon, and is structured to cover 30 minutes in total.",
+        "sentence_cn": "它详细介绍了一系列练习，每个练习都用一个简单的图标说明，总共持续 30 分钟。",
+        "words": [
+            "series",
+            "exercises",
+            "icon",
+            "30",
+            "minutes",
+            "total"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a breakdown:",
+        "sentence_cn": "具体如下：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Warm-Up (5 minutes)",
+        "sentence_cn": "1. 热身（5 分钟）",
+        "words": [
+            "Warm-Up (5 minutes)",
+            "Warm",
+            "5",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Go for a fast walk or a slow jog.",
+        "sentence_cn": "- 锻炼：快走或慢跑。",
+        "words": [
+            "Exercise",
+            "walk",
+            "jog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon depicts a person walking.",
+        "sentence_cn": "- 图标描绘了一个人在行走。",
+        "words": [
+            "Icon",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Sprints (5 minutes)",
+        "sentence_cn": "2. 冲刺（5 分钟）",
+        "words": [
+            "Sprints (5 minutes)",
+            "Sprints",
+            "5",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Run 20 seconds, walk back, and repeat.",
+        "sentence_cn": "- 锻炼：跑20秒，走回来，然后重复。",
+        "words": [
+            "Exercise",
+            "20",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon shows a person sprinting.",
+        "sentence_cn": "- 图标显示一个人正在冲刺。",
+        "words": [
+            "Icon",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Squats (2 sets of 10-12 reps)",
+        "sentence_cn": "3. 深蹲（2 组，每组 10-12 次）",
+        "words": [
+            "Squats (2 sets of 10-12 reps)",
+            "Squats",
+            "2",
+            "sets",
+            "10",
+            "12",
+            "reps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Keep your feet shoulder-width apart, squat like you¡¯re sitting, and ensure your knees don¡¯t cross over your toes.",
+        "sentence_cn": "- 锻炼方式：双脚分开与肩同宽，像坐着一样下蹲，确保膝盖不要交叉在脚趾上。",
+        "words": [
+            "Exercise",
+            "feet",
+            "shoulder",
+            "width",
+            "knees",
+            "toes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon displays a person squatting.",
+        "sentence_cn": "- 图标显示一个人蹲着。",
+        "words": [
+            "Icon",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Heel Raises (2 sets of 10-12 reps)",
+        "sentence_cn": "4. 提踵练习（2 组，每组 10-12 次）",
+        "words": [
+            "Heel Raises (2 sets of 10-12 reps)",
+            "2",
+            "sets",
+            "10",
+            "12",
+            "reps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Keep feet shoulder-width apart, raise up on toes, and lower slowly.",
+        "sentence_cn": "- 练习：双脚与肩同宽，用脚趾抬起身体，然后慢慢放下。",
+        "words": [
+            "Exercise",
+            "feet",
+            "shoulder",
+            "width",
+            "toes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon features a person raising their heels.",
+        "sentence_cn": "- 图标示出了一个人抬起脚跟的场景。",
+        "words": [
+            "Icon",
+            "person",
+            "heels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Push-Ups (2 sets of 10-12 reps)",
+        "sentence_cn": "5. 俯卧撑（2 组，每组 10-12 次）",
+        "words": [
+            "Push-Ups (2 sets of 10-12 reps)",
+            "Push",
+            "Ups",
+            "2",
+            "sets",
+            "10",
+            "12",
+            "reps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Keep your core tight, lower your body while keeping a straight back, then push up.",
+        "sentence_cn": "- 练习：保持核心部位紧绷，放低身体同时保持背部挺直，然后向上推。",
+        "words": [
+            "Exercise",
+            "core",
+            "body",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon illustrates a person doing push-ups.",
+        "sentence_cn": "- 图标描绘了一个人在做俯卧撑。",
+        "words": [
+            "Icon",
+            "person",
+            "push",
+            "ups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Crunches (2 sets of 20 reps)",
+        "sentence_cn": "6. 仰卧起坐（2 组，每组 20 次）",
+        "words": [
+            "Crunches (2 sets of 20 reps)",
+            "Crunches",
+            "2",
+            "sets",
+            "20",
+            "reps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Sit up, crunch halfway up, and return to start.",
+        "sentence_cn": "- 锻炼：坐起，半蹲，然后回到开始状态。",
+        "words": [
+            "Exercise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon depicts a person performing crunches.",
+        "sentence_cn": "- 图标描绘了正在做仰卧起坐的人。",
+        "words": [
+            "Icon",
+            "person",
+            "crunches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Plank (Hold 20-30 seconds, twice)",
+        "sentence_cn": "7. 平板支撑（保持 20-30 秒，两次）",
+        "words": [
+            "Plank (Hold 20-30 seconds, twice)",
+            "Plank",
+            "20",
+            "30",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Keep abdominal muscles tight, hold a straight position.",
+        "sentence_cn": "- 锻炼方式：保持腹部肌肉紧绷，保持挺直姿势。",
+        "words": [
+            "Exercise",
+            "muscles",
+            "position"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon shows a person in a plank position.",
+        "sentence_cn": "- 图标显示一个人处于平板支撑姿势。",
+        "words": [
+            "Icon",
+            "person",
+            "plank",
+            "position"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Two-Leg Jump (2 sets of 5 jumps)",
+        "sentence_cn": "8. 双腿跳（2 组，每组 5 次）",
+        "words": [
+            "Two-Leg Jump (2 sets of 5 jumps)",
+            "Two",
+            "Leg",
+            "Jump",
+            "2",
+            "sets",
+            "5",
+            "jumps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exercise: Jump with feet shoulder-width apart, swinging arms for momentum, and land softly.",
+        "sentence_cn": "- 练习：双脚分开与肩同宽跳跃，摆动手臂以获得动力，然后轻轻落地。",
+        "words": [
+            "Exercise",
+            "feet",
+            "shoulder",
+            "width",
+            "arms",
+            "momentum"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon represents a person jumping.",
+        "sentence_cn": "- 图标代表一个人在跳跃。",
+        "words": [
+            "Icon",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom right corner of the diagram shows the entirety of 30 minutes completed, represented by a circular clock graphic.",
+        "sentence_cn": "图表的右下角显示了已完成的全部 30 分钟，以圆形时钟图形表示。",
+        "words": [
+            "corner",
+            "diagram",
+            "entirety",
+            "30",
+            "minutes",
+            "clock",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"things you'll need\" section shows icons for a yoga mat, athletic shoes, and a stopwatch.",
+        "sentence_cn": "“您需要的东西”部分显示了瑜伽垫、运动鞋和秒表的图标。",
+        "words": [
+            "things you'll need",
+            "things",
+            "section",
+            "icons",
+            "yoga",
+            "mat",
+            "shoes",
+            "stopwatch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is primarily gray with elements highlighted in green.",
+        "sentence_cn": "背景主要是灰色，元素以绿色突出显示。",
+        "words": [
+            "background",
+            "elements",
+            "green"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+        "sentence": "The image features a neatly arranged collection of items placed on a patterned fabric, resembling a bedspread.",
+        "sentence_cn": "图片展示的是整齐排列的物品，放置在类似床罩的图案织物上。",
+        "words": [
+            "collection",
+            "items",
+            "fabric",
+            "bedspread"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description of each item:",
+        "sentence_cn": "以下是每个项目的详细描述：",
+        "words": [
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Books:",
+        "sentence_cn": "1. 书籍：",
+        "words": [
+            "Books",
+            "Books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Getting Things Done\" by David Allen, a book on productivity, is placed at the top left.",
+        "sentence_cn": "- 大卫艾伦的《搞定一切》（Getting Things Done）是一本有关生产力的书，放在左上角。",
+        "words": [
+            "Getting Things Done",
+            "Things",
+            "book",
+            "productivity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Blink\" by Malcolm Gladwell is positioned next to it.",
+        "sentence_cn": "- 马尔科姆·格拉德威尔的《眨眼之间》就位于其旁边。",
+        "words": [
+            "Blink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Electronics:",
+        "sentence_cn": "2. 电子产品：",
+        "words": [
+            "Electronics",
+            "Electronics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A white Apple laptop with a visible Apple logo is centrally placed.",
+        "sentence_cn": "- 一台白色的 Apple 笔记本电脑，带有明显的 Apple 标志，放置在中央。",
+        "words": [
+            "laptop",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An iPod with white earphones, located to the left of the laptop.",
+        "sentence_cn": "- 带有白色耳机的 iPod，位于笔记本电脑的左侧。",
+        "words": [
+            "earphones",
+            "left",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A black computer mouse to the left of the iPod.",
+        "sentence_cn": "- iPod 左侧有一个黑色电脑鼠标。",
+        "words": [
+            "computer",
+            "mouse",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Cables and Accessories:",
+        "sentence_cn": "3.电缆和配件：",
+        "words": [
+            "Cables and Accessories",
+            "Cables",
+            "Accessories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A white power adapter with a coiled cable to the right of the laptop.",
+        "sentence_cn": "- 笔记本电脑右侧有一个白色电源适配器，带有盘绕的电缆。",
+        "words": [
+            "power",
+            "adapter",
+            "cable",
+            "right",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Additional cables, including a UK plug adapter, are found toward the top right corner.",
+        "sentence_cn": "- 右上角有附加电缆（包括英国插头适配器）。",
+        "words": [
+            "cables",
+            "UK",
+            "plug",
+            "adapter",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Stationery",
+        "sentence_cn": "4. 文具",
+        "words": [
+            "Stationery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Two pens (one blue and one black) placed beneath the laptop.",
+        "sentence_cn": "- 两支笔（一支蓝色，一支黑色）放在笔记本电脑下方。",
+        "words": [
+            "Two",
+            "pens",
+            "one",
+            "one",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A closed notebook with a brown cover is located near the pens, next to a small sheet of grid paper.",
+        "sentence_cn": "- 一本带棕色封面的合上的笔记本放在笔的附近，旁边是一小张方格纸。",
+        "words": [
+            "notebook",
+            "cover",
+            "pens",
+            "sheet",
+            "grid",
+            "paper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Miscellaneous:",
+        "sentence_cn": "5. 杂项：",
+        "words": [
+            "Miscellaneous"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A small blue box labeled \"Big Bang\" is at the lower left, possibly a card game or similar item.",
+        "sentence_cn": "- 左下角有一个标有“大爆炸”的小蓝盒子，可能是纸牌游戏或类似物品。",
+        "words": [
+            "Big Bang",
+            "box",
+            "card",
+            "game",
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An external hard drive at the top right next to the plug.",
+        "sentence_cn": "- 插头右上方有一个外部硬盘。",
+        "words": [
+            "drive",
+            "top",
+            "plug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the arrangement suggests a combination of tech gadgets and reading materials, possibly reflecting someone¡¯s essentials for work or travel.",
+        "sentence_cn": "总体而言，这种排列方式表明科技产品和阅读材料的结合，可能反映了某人工作或旅行的必需品。",
+        "words": [
+            "arrangement",
+            "combination",
+            "tech",
+            "gadgets",
+            "reading",
+            "materials",
+            "essentials",
+            "work",
+            "travel"
+        ],
+        "id": null
+    }
+]

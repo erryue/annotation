@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image depicts a serene outdoor scene featuring a swimming pool set on a wooden deck.",
+        "sentence_cn": "图片描绘的是宁静的户外场景，其中有一座设在木质甲板上的游泳池。",
+        "words": [
+            "scene",
+            "swimming",
+            "pool",
+            "deck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool is oval-shaped and surrounded by several lounging areas with straw umbrellas for shade.",
+        "sentence_cn": "游泳池呈椭圆形，周围有几处休息区，配有遮阳草伞。",
+        "words": [
+            "pool",
+            "oval",
+            "lounging",
+            "areas",
+            "straw",
+            "umbrellas",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are blue cushions and lounge chairs scattered around, providing comfortable seating for relaxation.",
+        "sentence_cn": "周围散落着蓝色的坐垫和躺椅，提供舒适的休息座位。",
+        "words": [
+            "cushions",
+            "lounge",
+            "chairs",
+            "seating",
+            "relaxation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are lush green mountains which create a stunning and picturesque backdrop.",
+        "sentence_cn": "背景是郁郁葱葱的绿色山脉，形成了令人惊叹的美丽如画的背景。",
+        "words": [
+            "background",
+            "mountains",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, contributing to a tranquil and inviting atmosphere.",
+        "sentence_cn": "天空晴朗，营造出一种宁静而迷人的氛围。",
+        "words": [
+            "sky",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This setting appears to be a relaxing retreat ideal for enjoying nature and leisure.",
+        "sentence_cn": "这里似乎是一个令人放松的休闲场所，非常适合享受自然和休闲。",
+        "words": [
+            "retreat",
+            "ideal",
+            "nature",
+            "leisure"
+        ],
+        "id": null
+    }
+]

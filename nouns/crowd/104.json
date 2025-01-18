@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image features a scene at a table where a woman and two young children are engaged in a baking or decorating activity.",
+        "sentence_cn": "照片展示的是餐桌上的场景，一名妇女和两个小孩正在烘焙或装饰东西。",
+        "words": [
+            "scene",
+            "table",
+            "woman",
+            "two",
+            "children",
+            "baking",
+            "decorating",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are sitting at a red tablecloth-covered table.",
+        "sentence_cn": "他们坐在一张铺着红色桌布的桌子旁。",
+        "words": [
+            "tablecloth",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various small cups containing different ingredients, possibly icing or sprinkles, are spread out on the table.",
+        "sentence_cn": "桌子上摆放着各种小杯子，里面装有各种不同的配料，可能是糖霜或糖屑。",
+        "words": [
+            "cups",
+            "ingredients",
+            "icing",
+            "sprinkles",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left is wearing a pink top.",
+        "sentence_cn": "左边的女人穿着一件粉色的上衣。",
+        "words": [
+            "woman",
+            "left",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The child in the middle has light brown hair with a clip and appears to be holding a small tool, focusing on a task.",
+        "sentence_cn": "中间的孩子有着浅棕色的头发，戴着发夹，似乎手里拿着一个小工具，正专注于一项任务。",
+        "words": [
+            "child",
+            "middle",
+            "hair",
+            "clip",
+            "tool",
+            "task"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The child on the right, wearing glasses, is carefully sprinkling or pouring an ingredient onto a gingerbread cookie.",
+        "sentence_cn": "右边戴着眼镜的孩子正在小心翼翼地将配料撒在或倒在姜饼上。",
+        "words": [
+            "child",
+            "right",
+            "glasses",
+            "ingredient",
+            "gingerbread",
+            "cookie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a small play kitchen area with a toy stove and utensils, suggesting that this is an indoor setting, possibly a classroom or play area.",
+        "sentence_cn": "在背景中，有一个小型玩具厨房区，里面有玩具炉和餐具，这表明这是一个室内环境，可能是教室或游乐区。",
+        "words": [
+            "background",
+            "play",
+            "kitchen",
+            "area",
+            "toy",
+            "stove",
+            "utensils",
+            "classroom",
+            "play",
+            "area"
+        ],
+        "id": null
+    }
+]

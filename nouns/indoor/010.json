@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image shows a home music studio setup in a room with yellow walls.",
+        "sentence_cn": "图中显示的是一间黄色墙壁房间内设置的家庭音乐工作室。",
+        "words": [
+            "home",
+            "music",
+            "studio",
+            "room",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's an electronic keyboard on a desk, and above it on a shelf, there are microphones and a small music-related item.",
+        "sentence_cn": "左边的桌子上放着一架电子键盘，上方的架子上放着麦克风和一个与音乐有关的小物件。",
+        "words": [
+            "left",
+            "keyboard",
+            "desk",
+            "shelf",
+            "microphones",
+            "music",
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A Santa hat is hung on the shelving unit.",
+        "sentence_cn": "搁架上挂着一顶圣诞帽。",
+        "words": [
+            "hat",
+            "shelving",
+            "unit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the desk is a box labeled \"Breezer.\"",
+        "sentence_cn": "桌子下面有一个标有“Breezer”的盒子。",
+        "words": [
+            "Breezer.",
+            "desk",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the center, there is a black office chair on a wooden mat.",
+        "sentence_cn": "中心的木垫上放着一把黑色的办公椅。",
+        "words": [
+            "center",
+            "office",
+            "chair",
+            "mat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A microphone on a stand is positioned in front of the keyboard, suggesting it may be used for recording music.",
+        "sentence_cn": "支架上的麦克风位于键盘前方，表明它可能用于录制音乐。",
+        "words": [
+            "microphone",
+            "stand",
+            "front",
+            "keyboard",
+            "music"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there is a computer setup with two monitors on a desk shelf.",
+        "sentence_cn": "右侧的桌子架子上放置着一台配备两台显示器的计算机。",
+        "words": [
+            "right",
+            "computer",
+            "two",
+            "monitors",
+            "desk",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screens display a digital audio workstation, indicating music production or editing work.",
+        "sentence_cn": "屏幕上显示的是一个数字音频工作站，显示音乐制作或编辑工作。",
+        "words": [
+            "screens",
+            "workstation",
+            "music",
+            "production",
+            "editing",
+            "work"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a printer on the top shelf along with other small items.",
+        "sentence_cn": "顶层架子上有一台打印机和其他小物件。",
+        "words": [
+            "printer",
+            "shelf",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Alongside the desk is a small drawer unit, and a white wastebasket is on the floor.",
+        "sentence_cn": "书桌旁边有一个小抽屉，地板上有一个白色的废纸篓。",
+        "words": [
+            "desk",
+            "drawer",
+            "unit",
+            "wastebasket",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A Canadian flag is visible on the shelving unit to the far left.",
+        "sentence_cn": "最左边的搁架上可以看到一面加拿大国旗。",
+        "words": [
+            "flag",
+            "shelving",
+            "unit",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room appears organized for music work with various gear and equipment.",
+        "sentence_cn": "这个房间看起来是为音乐工作而布置的，配备了各种设备和装置。",
+        "words": [
+            "room",
+            "music",
+            "work",
+            "gear",
+            "equipment"
+        ],
+        "id": null
+    }
+]

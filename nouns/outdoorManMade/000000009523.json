@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts an older man walking across a street at a crosswalk.",
+        "sentence_cn": "图片上是一位老人在人行横道上行走过马路。",
+        "words": [
+            "man",
+            "street",
+            "crosswalk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a white shirt and beige pants.",
+        "sentence_cn": "他穿着一件白衬衫和米色裤子。",
+        "words": [
+            "shirt",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind him, there are multiple buses parked closely to each other.",
+        "sentence_cn": "在他的身后，停着多辆紧密相连的公交车。",
+        "words": [
+            "buses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, a bus with an advertisement featuring a person's face and the text \"Days POP\" is visible.",
+        "sentence_cn": "左侧可见一辆公交车，上面印着一个人的脸和“Days POP”的文字广告。",
+        "words": [
+            "Days POP",
+            "bus",
+            "person",
+            "face",
+            "text",
+            "Days",
+            "POP"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other buses are in various colors including green and blue, and one of them is a Volvo.",
+        "sentence_cn": "其他巴士有绿色、蓝色等各种颜色，其中一辆是沃尔沃。",
+        "words": [
+            "buses",
+            "colors",
+            "green",
+            "blue",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene appears to be in an urban area, possibly in a bustling city with vehicle traffic.",
+        "sentence_cn": "该场景似乎是在市区，可能是车水马龙的繁华城市。",
+        "words": [
+            "scene",
+            "area",
+            "city",
+            "vehicle",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are trees and buildings in the background.",
+        "sentence_cn": "背景有树木和建筑物。",
+        "words": [
+            "trees",
+            "buildings",
+            "background"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "3007224a-92b8-4a80-8dfa-bdc3a6a0d963",
+        "confidence": 0.88399,
+        "class": "traffic light",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1123.1554,
+                        "minY": 382.06689,
+                        "maxX": 1236.31384,
+                        "maxY": 570.94385
+                    },
+                    "x": 1123.1554,
+                    "y": 382.06689,
+                    "w": 113.15843999999993,
+                    "h": 188.87696
+                }
+            }
+        }
+    }
+]

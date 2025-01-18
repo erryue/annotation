@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Sleepless in Seattle.\"",
+        "sentence_cn": "图片是《西雅图不眠夜》的电影海报。",
+        "words": [
+            "Sleepless in Seattle.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two individuals standing apart, on either side of the poster, seemingly separated by a backdrop split between day and night.",
+        "sentence_cn": "海报两侧有两个人分开站立，似乎被白天和黑夜的背景所分隔。",
+        "words": [
+            "two",
+            "individuals",
+            "poster",
+            "backdrop",
+            "day",
+            "night"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, the male figure, wearing a casual sweater and pants, stands with his arms crossed, looking contemplative.",
+        "sentence_cn": "左侧的男性身穿休闲毛衣和裤子，双手交叉站立，看上去若有所思。",
+        "words": [
+            "figure",
+            "sweater",
+            "pants",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background on his side shows a city skyline during the day, with a partly cloudy blue sky.",
+        "sentence_cn": "他一侧的背景是白天的城市天际线，天空部分多云，呈蓝色。",
+        "words": [
+            "background",
+            "city",
+            "skyline",
+            "day",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, the female figure, dressed in a gray suit, gazes into the distance.",
+        "sentence_cn": "右侧，身着灰色套装的女性身影凝视着远方。",
+        "words": [
+            "figure",
+            "suit",
+            "distance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her background shows a cityscape during sunset or nighttime, with a starry sky and a full moon.",
+        "sentence_cn": "她的背景是日落或夜晚的城市景观，有繁星点点的天空和满月。",
+        "words": [
+            "background",
+            "cityscape",
+            "sunset",
+            "nighttime",
+            "sky",
+            "moon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names \"Tom Hanks\" and \"Meg Ryan\" are prominently displayed.",
+        "sentence_cn": "在顶部，“汤姆·汉克斯”和“梅格·瑞安”的名字显眼地显示出来。",
+        "words": [
+            "Tom Hanks",
+            "Meg Ryan",
+            "top",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Between them, a text reads:",
+        "sentence_cn": "在它们中间，有一段文字：",
+        "words": [
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"What if someone you never met, someone you never saw, someone you never knew, was the only someone for you?\"",
+        "sentence_cn": "“如果一个你从未见过的人，一个你从未见过的人，一个你从未认识的人，是你唯一的人，那会怎样？”",
+        "words": [
+            "What if someone you never met, someone you never saw, someone you never knew, was the only someone for you?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"SLEEPLESS IN SEATTLE\" is located towards the bottom.",
+        "sentence_cn": "标题“西雅图不眠之夜”位于底部。",
+        "words": [
+            "SLEEPLESS IN SEATTLE",
+            "title",
+            "SLEEPLESS",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there is additional text listing the cast and crew involved in the film's production.",
+        "sentence_cn": "标题下方还有附加文字，列出了参与电影制作的演员和工作人员。",
+        "words": [
+            "title",
+            "text",
+            "cast",
+            "crew",
+            "film",
+            "production"
+        ],
+        "id": null
+    }
+]

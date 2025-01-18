@@ -1,0 +1,169 @@
+[
+    {
+        "sentence": "The image is a stylized advertisement for Barclays Corporate.",
+        "sentence_cn": "该图片是巴克莱银行风格的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Artwork Description:",
+        "sentence_cn": "艺术品描述：",
+        "words": [
+            "Artwork Description:",
+            "Artwork",
+            "Description"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The image features an illustration of an industrial building with a green roof and beige brick walls.",
+        "sentence_cn": "- 该图展示了一座工业建筑，具有绿色屋顶和米色砖墙。",
+        "words": [
+            "illustration",
+            "building",
+            "roof",
+            "brick",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building is bending at a corner, simulating the idea of \"turning the corner.\"",
+        "sentence_cn": "该建筑在拐角处弯曲，模拟了“转弯”的概念。",
+        "words": [
+            "turning the corner.",
+            "building",
+            "corner",
+            "idea",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There are small windows along the walls, and the building has two chimneys at the top, one of which is emitting white smoke, adding to the industrial theme.",
+        "sentence_cn": "- 墙壁上有小窗户，建筑顶部有两个烟囱，其中一个冒出白烟，增添了工业主题色彩。",
+        "words": [
+            "windows",
+            "walls",
+            "building",
+            "two",
+            "chimneys",
+            "top",
+            "one",
+            "smoke",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A blue delivery truck is parked at a loading dock, with small figures representing workers or businesspeople around it.",
+        "sentence_cn": "- 一辆蓝色的送货卡车停在装卸码头，周围有一些代表工人或商人的小人物。",
+        "words": [
+            "delivery",
+            "truck",
+            "loading",
+            "dock",
+            "figures",
+            "workers",
+            "businesspeople"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text Elements:",
+        "sentence_cn": "文本元素：",
+        "words": [
+            "Text Elements:",
+            "Text",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Text: \"TURN THE CORNER\"",
+        "sentence_cn": "- 正文：“转过弯”",
+        "words": [
+            "Main Text: \"TURN THE CORNER\"",
+            "Text",
+            "CORNER"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Accompanied by smaller text: \"to re-evaluate, reinvigorate and even thrive.\"",
+        "sentence_cn": "- 附有较小的文字：“重新评估、重振甚至繁荣。”",
+        "words": [
+            "to re-evaluate, reinvigorate and even thrive.",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Side Text: \"HELPING BUSINESS\"",
+        "sentence_cn": "- 旁注：“帮助企业”",
+        "words": [
+            "Side Text: \"HELPING BUSINESS\"",
+            "Side",
+            "Text",
+            "BUSINESS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - This text is oriented vertically.",
+        "sentence_cn": "- 此文本是垂直方向的。",
+        "words": [
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Further information is provided about Barclay's services in helping businesses prepare for a brighter future with a website link and contact number included.",
+        "sentence_cn": "- 提供了有关巴克莱银行帮助企业为更美好的未来做好准备的服务的更多信息，其中包括网站链接和联系电话。",
+        "words": [
+            "information",
+            "services",
+            "businesses",
+            "future",
+            "website",
+            "link",
+            "contact",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Logo:",
+        "sentence_cn": "标识：",
+        "words": [
+            "Logo:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The Barclays Corporate logo is positioned at the bottom right, featuring the iconic Barclays eagle emblem in blue.",
+        "sentence_cn": "- 巴克莱银行的企业徽标位于右下角，以蓝色呈现标志性的巴克莱鹰徽。",
+        "words": [
+            "logo",
+            "right",
+            "eagle",
+            "emblem",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme of the advertisement is about business growth and adaptability, suggesting that Barclays offers solutions to help businesses overcome challenges and move forward successfully.",
+        "sentence_cn": "广告的整体主题是业务增长和适应性，表明巴克莱银行提供解决方案来帮助企业克服挑战并成功前进。",
+        "words": [
+            "theme",
+            "business",
+            "growth",
+            "adaptability",
+            "solutions",
+            "businesses",
+            "challenges"
+        ],
+        "id": null
+    }
+]

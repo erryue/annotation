@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image shows a desk setup with a computer monitor, keyboard, and a plate of food.",
+        "sentence_cn": "图中显示的桌子上有一台电脑显示器、键盘和一盘食物。",
+        "words": [
+            "desk",
+            "computer",
+            "monitor",
+            "keyboard",
+            "plate",
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the keyboard, there is a large can of Arizona Green Tea with Ginseng and Honey.",
+        "sentence_cn": "键盘旁边放着一大罐亚利桑那人参蜂蜜绿茶。",
+        "words": [
+            "keyboard",
+            "can"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The can design includes decorative pink flowers on a light blue-green background.",
+        "sentence_cn": "罐子的设计包括浅蓝绿色背景上的装饰性粉红色花朵。",
+        "words": [
+            "can",
+            "design",
+            "flowers",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the keyboard, on the right side, there is a plate containing potato wedges and four dumplings or pastries.",
+        "sentence_cn": "键盘前面的右侧有一个盘子，里面有土豆角和四个饺子或糕点。",
+        "words": [
+            "front",
+            "keyboard",
+            "plate",
+            "potato",
+            "wedges",
+            "four",
+            "dumplings",
+            "pastries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The food appears to be arranged neatly on the plate, which has a striped pattern around the rim.",
+        "sentence_cn": "食物看起来整齐地排列在盘子上，盘子的边缘有条纹图案。",
+        "words": [
+            "food",
+            "plate",
+            "pattern",
+            "rim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate is placed on a wooden desk surface.",
+        "sentence_cn": "盘子放在木质桌面上。",
+        "words": [
+            "plate",
+            "desk",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, part of a giraffe figurine is visible to the left, and there is a lamp to the right, providing additional light.",
+        "sentence_cn": "在背景中，左侧可以看到长颈鹿雕像的一部分，右侧有一盏灯，提供额外的光线。",
+        "words": [
+            "background",
+            "part",
+            "giraffe",
+            "figurine",
+            "lamp",
+            "right",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen on the monitor displays a webpage or application, but the details are not clear.",
+        "sentence_cn": "显示器屏幕上显示网页或应用程序，但细节不清晰。",
+        "words": [
+            "screen",
+            "monitor",
+            "webpage",
+            "application",
+            "details"
+        ],
+        "id": null
+    }
+]

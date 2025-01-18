@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image is a promotional graphic encouraging users to \"GET CONNECTED\" to enhance their fitness experience.",
+        "sentence_cn": "该图片是一张宣传图，鼓励用户“连接”以增强他们的健身体验。",
+        "words": [
+            "GET CONNECTED",
+            "graphic",
+            "users",
+            "fitness",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the top, it shows a headline that reads \"GET CONNECTED.\"",
+        "sentence_cn": "- 顶部显示标题“GET CONNECTED”。",
+        "words": [
+            "GET CONNECTED.",
+            "top",
+            "headline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below it, there is a subheading: \"Take your fitness to the next level.",
+        "sentence_cn": "- 下面有一个副标题：“将您的健身提升到新的水平。",
+        "words": [
+            "subheading",
+            "fitness",
+            "level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Connect your favorite activity tracking devices and other apps.\"",
+        "sentence_cn": "连接您最喜爱的活动追踪设备和其他应用程序。”",
+        "words": [
+            "activity",
+            "tracking",
+            "devices",
+            "apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The center of the image features two items:",
+        "sentence_cn": "- 图片的中心有两件物品：",
+        "words": [
+            "center",
+            "two",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  1. A blue athletic shoe with red accents.",
+        "sentence_cn": "1. 一双带有红色装饰的蓝色运动鞋。",
+        "words": [
+            "shoe",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It likely represents a fitness brand known for combining technology with performance.",
+        "sentence_cn": "它可能代表一个以将技术与性能相结合而闻名的健身品牌。",
+        "words": [
+            "fitness",
+            "brand",
+            "technology",
+            "performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  2. A black fitness tracking band with a circular sensor displaying a logo in the center.",
+        "sentence_cn": "2. 黑色健身追踪带，带有圆形传感器，中央显示徽标。",
+        "words": [
+            "fitness",
+            "tracking",
+            "band",
+            "sensor",
+            "logo",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the bottom, there are two interactive buttons:",
+        "sentence_cn": "- 在底部有两个交互按钮：",
+        "words": [
+            "bottom",
+            "two",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A green button that says \"CONNECT APPS AND DEVICES.\"",
+        "sentence_cn": "- 一个绿色按钮，上面写着“连接应用程序和设备”。",
+        "words": [
+            "CONNECT APPS AND DEVICES.",
+            "button",
+            "APPS",
+            "DEVICES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A gray button that says \"SKIP AND FINISH SIGN UP.\"",
+        "sentence_cn": "- 一个灰色按钮，上面写着“跳过并完成注册”。",
+        "words": [
+            "SKIP AND FINISH SIGN UP.",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the image also shows a smartphone notification bar with icons for signals, battery life, etc.",
+        "sentence_cn": "图像顶部还显示了智能手机通知栏，其中包含信号、电池寿命等图标。",
+        "words": [
+            "top",
+            "smartphone",
+            "notification",
+            "bar",
+            "icons",
+            "signals",
+            "battery",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time displayed is 7:37.",
+        "sentence_cn": "显示的时间是7:37。",
+        "words": [
+            "time",
+            "7:37"
+        ],
+        "id": null
+    }
+]

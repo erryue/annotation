@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image depicts a cozy corner of a living room featuring a tall bookshelf positioned against a light-colored wall.",
+        "sentence_cn": "这幅图描绘的是客厅的一个舒适角落，其中有一个高大的书架，靠着一面浅色的墙壁。",
+        "words": [
+            "corner",
+            "room",
+            "bookshelf",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bookshelf is filled with a variety of books, some standing vertically and others stacked horizontally.",
+        "sentence_cn": "书架上摆满了各种各样的书，有的直立着，有的横着叠放着。",
+        "words": [
+            "bookshelf",
+            "variety",
+            "books",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Atop the bookshelf, there is an assortment of vintage cameras on display.",
+        "sentence_cn": "书架上展示着各种各样的老式相机。",
+        "words": [
+            "bookshelf",
+            "assortment",
+            "cameras",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the bookshelf is a brick fireplace mantle adorned with decorative glass items, including blue and clear vases.",
+        "sentence_cn": "书架旁边是一个砖砌的壁炉架，上面装饰着玻璃装饰物，包括蓝色和透明的花瓶。",
+        "words": [
+            "bookshelf",
+            "brick",
+            "fireplace",
+            "mantle",
+            "glass",
+            "items",
+            "vases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wicker basket filled with bags, likely snacks or miscellaneous items, sits at the base of the fireplace.",
+        "sentence_cn": "壁炉底部放着一个柳条篮，里面装满了袋子，里面可能是零食或杂物。",
+        "words": [
+            "wicker",
+            "basket",
+            "bags",
+            "snacks",
+            "items",
+            "base",
+            "fireplace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a cushioned wooden bench or low table is partially visible, adding to the room's comfortable atmosphere.",
+        "sentence_cn": "在前景中，可以部分看到带软垫的木凳或矮桌，增添了房间的舒适氛围。",
+        "words": [
+            "foreground",
+            "bench",
+            "table",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A few framed pictures or art pieces are leaning against the wall near the bookshelf.",
+        "sentence_cn": "书架附近的墙上靠着几幅相框或艺术品。",
+        "words": [
+            "pictures",
+            "art",
+            "pieces",
+            "wall",
+            "bookshelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme is warm and inviting, with hints of blue and natural wood tones throughout the room.",
+        "sentence_cn": "配色方案温暖而诱人，整个房间带有淡淡的蓝色和天然木质色调。",
+        "words": [
+            "color",
+            "scheme",
+            "hints",
+            "wood",
+            "tones",
+            "room"
+        ],
+        "id": null
+    }
+]

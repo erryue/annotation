@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image shows a screen from a mobile application focused on \"Breathing Awareness.\"",
+        "sentence_cn": "该图显示的是一款专注于“呼吸意识”的移动应用程序的屏幕。",
+        "words": [
+            "Breathing Awareness.",
+            "screen",
+            "application"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top portion has a green bar with the title \"Breathing Awareness.\"",
+        "sentence_cn": "顶部有一个绿色条，标题为“呼吸意识”。",
+        "words": [
+            "Breathing Awareness.",
+            "portion",
+            "bar",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below are four icons: a yellow trophy, a green bar graph, a blue flask, and a red icon with an owl face.",
+        "sentence_cn": "下面是四个图标：一个黄色的奖杯、一个绿色的条形图、一个蓝色的烧瓶和一个带有猫头鹰脸的红色图标。",
+        "words": [
+            "four",
+            "icons",
+            "trophy",
+            "bar",
+            "graph",
+            "flask",
+            "icon",
+            "owl",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main area has the heading \"Breathing Seasoned\" with a large green circle containing a smiling face beneath it.",
+        "sentence_cn": "主要区域的标题为“呼吸丰富”，下方有一个大的绿色圆圈，里面有一张笑脸。",
+        "words": [
+            "Breathing Seasoned",
+            "area",
+            "heading",
+            "circle",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there is a text block reading:",
+        "sentence_cn": "下面是一段文字：",
+        "words": [
+            "text",
+            "block"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Though there is still much you can discover about the benefits of breathing, you do know the basics.",
+        "sentence_cn": "“尽管你还可以发现很多有关呼吸的好处，但你确实了解一些基础知识。",
+        "words": [
+            "benefits",
+            "breathing",
+            "basics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Learn on and retake the test to level up to Breathing Guru!\"",
+        "sentence_cn": "继续学习并重新参加测试，升级为呼吸大师！”",
+        "words": [
+            "test"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are two buttons.",
+        "sentence_cn": "底部有两个按钮。",
+        "words": [
+            "bottom",
+            "two",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left button reads \"finish\" in gray, and the right button reads \"next\" in green.",
+        "sentence_cn": "左边的按钮用灰色显示“完成”，右边的按钮用绿色显示“下一步”。",
+        "words": [
+            "finish",
+            "next",
+            "button",
+            "finish",
+            "gray",
+            "button",
+            "next",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface resembles a mobile device's navigation bar with a back arrow, a home button, and a recent apps button at the very bottom.",
+        "sentence_cn": "该界面类似于移动设备的导航栏，最底部有后退箭头、主页按钮和最近的应用程序按钮。",
+        "words": [
+            "interface",
+            "device",
+            "navigation",
+            "bar",
+            "arrow",
+            "home",
+            "button",
+            "apps",
+            "button",
+            "bottom"
+        ],
+        "id": null
+    }
+]

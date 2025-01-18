@@ -21,8 +21,8 @@
         "id": null
     },
     {
-        "sentence": "1. **Person 1**: Sitting on the left side of the sofa, this individual is wearing a light pink shirt and dark pinstriped pants.",
-        "sentence_cn": "1. **人1**：坐在沙发的左侧，此人身穿浅粉色衬衫和深色细条纹裤子。",
+        "sentence": "1. Person 1: Sitting on the left side of the sofa, this individual is wearing a light pink shirt and dark pinstriped pants.",
+        "sentence_cn": "1. 人1：坐在沙发的左侧，此人身穿浅粉色衬衫和深色细条纹裤子。",
         "words": [
             "Person 1",
             "Person",
@@ -45,8 +45,8 @@
         "id": null
     },
     {
-        "sentence": "2. **Person 2**: Seated on the middle of the sofa, this person is wearing a black suit and a white shirt.",
-        "sentence_cn": "2. **人2**：坐在沙发中间，这个人穿着黑色西装和白色衬衫。",
+        "sentence": "2. Person 2: Seated on the middle of the sofa, this person is wearing a black suit and a white shirt.",
+        "sentence_cn": "2. 人2：坐在沙发中间，这个人穿着黑色西装和白色衬衫。",
         "words": [
             "Person 2",
             "Person",
@@ -68,8 +68,8 @@
         "id": null
     },
     {
-        "sentence": "3. **Person 3**: Standing behind the sofa next to Person 2, this person is wearing a light yellow shirt with rolled-up sleeves and dark pants.",
-        "sentence_cn": "3. **人物3**：站在人物2旁边的沙发后面，此人穿着一件卷起袖子的浅黄色衬衫和深色裤子。",
+        "sentence": "3. Person 3: Standing behind the sofa next to Person 2, this person is wearing a light yellow shirt with rolled-up sleeves and dark pants.",
+        "sentence_cn": "3. 人物3：站在人物2旁边的沙发后面，此人穿着一件卷起袖子的浅黄色衬衫和深色裤子。",
         "words": [
             "Person 3",
             "Person",
@@ -95,8 +95,8 @@
         "id": null
     },
     {
-        "sentence": "4. **Person 4**: On the far right of the sofa, this person is seated and dressed in a black suit with a white shirt, similar to Person 2.",
-        "sentence_cn": "4. **人物 4**：此人坐在沙发最右边，穿着黑色西装和白色衬衫，与人物 2 类似。",
+        "sentence": "4. Person 4: On the far right of the sofa, this person is seated and dressed in a black suit with a white shirt, similar to Person 2.",
+        "sentence_cn": "4. 人物 4：此人坐在沙发最右边，穿着黑色西装和白色衬衫，与人物 2 类似。",
         "words": [
             "Person 4",
             "Person",
@@ -121,8 +121,8 @@
         "id": null
     },
     {
-        "sentence": "5. **Person 5**: Sitting on the sofa next to Person 1, this individual is casually dressed in black with a necklace.",
-        "sentence_cn": "5. **人物 5**：坐在人物 1 旁边的沙发上，此人身着黑色休闲服装，戴着项链。",
+        "sentence": "5. Person 5: Sitting on the sofa next to Person 1, this individual is casually dressed in black with a necklace.",
+        "sentence_cn": "5. 人物 5：坐在人物 1 旁边的沙发上，此人身着黑色休闲服装，戴着项链。",
         "words": [
             "Person 5",
             "Person",
@@ -145,8 +145,8 @@
         "id": null
     },
     {
-        "sentence": "6. **Person 6**:",
-        "sentence_cn": "6.**第 6 人**：",
+        "sentence": "6. Person 6:",
+        "sentence_cn": "6.第 6 人：",
         "words": [
             "Person 6",
             "Person",

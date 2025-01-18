@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image depicts a serene rural landscape featuring a gently undulating valley.",
+        "sentence_cn": "该图描绘的是一片宁静的乡村风景，其中有起伏平缓的山谷。",
+        "words": [
+            "landscape",
+            "valley"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground shows a group of sheep grazing on a grassy hillside, their white wool contrasting with the lush greenery around them.",
+        "sentence_cn": "前景显示一群羊在长满青草的山坡上吃草，它们的白色羊毛与周围茂盛的绿色植物形成鲜明对比。",
+        "words": [
+            "foreground",
+            "group",
+            "sheep",
+            "hillside",
+            "wool",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The land is covered in various shades of green and brown, indicating a mix of grass and heathland.",
+        "sentence_cn": "这片土地覆盖着各种深浅不一的绿色和棕色，表明这里是草地和石南地的混合地。",
+        "words": [
+            "land",
+            "shades",
+            "green",
+            "brown",
+            "mix",
+            "grass",
+            "heathland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small stream meanders through the center of the scene, its path carved into the valley floor.",
+        "sentence_cn": "一条小溪蜿蜒流过场景的中心，其路径刻在谷底。",
+        "words": [
+            "stream",
+            "center",
+            "scene",
+            "path",
+            "valley",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is expansive, stretching out to distant hills under a sky covered with gray clouds, suggesting an overcast day.",
+        "sentence_cn": "景色广阔，延伸至远处的山丘，天空覆盖着灰云，预示着天气阴沉。",
+        "words": [
+            "landscape",
+            "hills",
+            "sky",
+            "clouds",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are few trees, indicating a moorland or upland area, likely in a region known for pastoral farming.",
+        "sentence_cn": "树木很少，表明这里是荒野或高地，很可能是位于以畜牧业闻名的地区。",
+        "words": [
+            "trees",
+            "moorland",
+            "area",
+            "region",
+            "farming"
+        ],
+        "id": null
+    }
+]

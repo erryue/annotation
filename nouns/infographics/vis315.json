@@ -1,0 +1,271 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Sink or Swim: Navigating the Four Data Waves.\"",
+        "sentence_cn": "该图是一张信息图，标题为“沉没或游泳：驾驭四波数据浪潮”。",
+        "words": [
+            "Sink or Swim: Navigating the Four Data Waves.",
+            "Four",
+            "Data",
+            "Waves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It discusses the impact of digital innovation on shopping, pricing, discounts, and payments.",
+        "sentence_cn": "它讨论了数字创新对购物、定价、折扣和支付的影响。",
+        "words": [
+            "impact",
+            "innovation",
+            "shopping",
+            "pricing",
+            "discounts",
+            "payments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is structured into several sections:",
+        "sentence_cn": "该信息图分为几个部分：",
+        "words": [
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Data's Role in Marketing:",
+        "sentence_cn": "1. 数据在营销中的作用：",
+        "words": [
+            "Data's Role in Marketing:",
+            "Role",
+            "Marketing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Search Data: Enables a personalized marketing relationship but is limited in measuring in-store actions.",
+        "sentence_cn": "- 搜索数据：可以实现个性化的营销关系，但在衡量店内行为方面受到限制。",
+        "words": [
+            "Search Data:",
+            "Search",
+            "Data",
+            "marketing",
+            "relationship",
+            "store",
+            "actions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Social Data: Helps tailor messages to consumers but lacks clear sales attribution.",
+        "sentence_cn": "- 社交数据：有助于向消费者定制信息，但缺乏明确的销售归因。",
+        "words": [
+            "Social Data:",
+            "Data",
+            "messages",
+            "consumers",
+            "sales",
+            "attribution"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Local Data: Bridges digital and in-store data, yet doesn¡¯t guarantee purchases.",
+        "sentence_cn": "- 本地数据：连接数字数据和店内数据，但不保证购买。",
+        "words": [
+            "Local Data:",
+            "store",
+            "data",
+            "purchases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Card-Linked Data: Debit and credit cards become tools for segmentation and measuring spending behavior.",
+        "sentence_cn": "- 与卡相关的数据：借记卡和信用卡成为细分和衡量消费行为的工具。",
+        "words": [
+            "Card-Linked Data:",
+            "Card",
+            "Data",
+            "Debit",
+            "credit",
+            "cards",
+            "tools",
+            "segmentation",
+            "spending",
+            "behavior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Statistics on Data:",
+        "sentence_cn": "2. 数据统计：",
+        "words": [
+            "Statistics on Data:",
+            "Statistics",
+            "Data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 90% of the world's data is created in the past two years.",
+        "sentence_cn": "- 全球90%的数据是在过去两年内产生的。",
+        "words": [
+            "90",
+            "world",
+            "data",
+            "two",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 90% of real-time information is unstructured.",
+        "sentence_cn": "- 90％的实时信息是非结构化的。",
+        "words": [
+            "90",
+            "time",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Daily digital activity generates 2.5 quintillion bytes of data.",
+        "sentence_cn": "- 日常数字活动会产生 2.5 千万亿字节的数据。",
+        "words": [
+            "activity",
+            "2.5",
+            "quintillion",
+            "bytes",
+            "data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Challenges for CMOs:",
+        "sentence_cn": "3. CMO 面临的挑战：",
+        "words": [
+            "Challenges for CMOs:",
+            "Challenges",
+            "CMOs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Scale: Managing large data volumes.",
+        "sentence_cn": "- 规模：管理大量数据。",
+        "words": [
+            "Scale:",
+            "Scale",
+            "data",
+            "volumes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Targeting: Precisely reaching audiences.",
+        "sentence_cn": "- 定位：精准触达受众。",
+        "words": [
+            "Targeting:",
+            "audiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Omni-Channel Measurement: Measuring effectiveness across multiple channels.",
+        "sentence_cn": "- 全渠道测量：测量跨多个渠道的有效性。",
+        "words": [
+            "Omni-Channel Measurement:",
+            "Channel",
+            "Measurement",
+            "effectiveness",
+            "channels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Closing the Redemption Loop:",
+        "sentence_cn": "4. 关闭赎回循环：",
+        "words": [
+            "Closing the Redemption Loop:",
+            "Redemption",
+            "Loop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Focuses on shifting communication from intent to action.",
+        "sentence_cn": "- 注重将沟通从意图转变为行动。",
+        "words": [
+            "Focuses",
+            "communication",
+            "intent",
+            "action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Emphasizes measuring, targeting, and personalizing consumer interactions.",
+        "sentence_cn": "- 强调衡量、定位和个性化消费者互动。",
+        "words": [
+            "consumer",
+            "interactions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Encourages the transition from online intent to in-store purchases.",
+        "sentence_cn": "- 鼓励从在线购买转向店内购买。",
+        "words": [
+            "transition",
+            "intent",
+            "store",
+            "purchases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Visuals and Logos:",
+        "sentence_cn": "5. 视觉效果和徽标：",
+        "words": [
+            "Visuals and Logos:",
+            "Visuals",
+            "Logos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes logos for companies like Google, Facebook, Foursquare, American Express, Visa, and MasterCard.",
+        "sentence_cn": "- 包括 Google、Facebook、Foursquare、美国运通、Visa 和万事达卡等公司的徽标。",
+        "words": [
+            "logos",
+            "companies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Depicts icons for data management and consumer targeting.",
+        "sentence_cn": "- 描绘数据管理和消费者定位的图标。",
+        "words": [
+            "Depicts",
+            "icons",
+            "data",
+            "management",
+            "consumer",
+            "targeting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is styled with a blue, green, and white color scheme for visual clarity, with various icons and graphs to illustrate concepts.",
+        "sentence_cn": "该信息图采用蓝色、绿色和白色的配色方案，以实现视觉清晰度，并配有各种图标和图形来阐明概念。",
+        "words": [
+            "color",
+            "scheme",
+            "clarity",
+            "icons",
+            "graphs",
+            "concepts"
+        ],
+        "id": null
+    }
+]

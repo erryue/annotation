@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Field of Dreams,\" featuring the name \"Kevin Costner\" prominently at the top.",
+        "sentence_cn": "该图片是电影《梦幻之地》的海报，顶部显著地印着“凯文·科斯特纳”的名字。",
+        "words": [
+            "Field of Dreams,",
+            "Kevin Costner",
+            "movie",
+            "poster",
+            "name",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline reads, \"All his life, Ray Kinsella was searching for his dreams.",
+        "sentence_cn": "标语写道：“雷·金塞拉的一生都在追寻自己的梦想。",
+        "words": [
+            "tagline",
+            "life",
+            "dreams"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Then one day, his dreams came looking for him.\"",
+        "sentence_cn": "然后有一天，他的梦想来寻找他。”",
+        "words": [
+            "one",
+            "day",
+            "dreams"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a man wearing a white t-shirt, brown leather jacket, and blue jeans with hands slightly tucked into the jacket pockets.",
+        "sentence_cn": "照片中央的男子身穿白色 T 恤、棕色皮夹克和蓝色牛仔裤，双手稍微插在夹克口袋里。",
+        "words": [
+            "center",
+            "man",
+            "t",
+            "shirt",
+            "leather",
+            "jacket",
+            "jeans",
+            "hands",
+            "jacket",
+            "pockets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The figure stands confidently with one foot crossed over the other.",
+        "sentence_cn": "这个人物自信地站立着，一只脚交叉在另一只脚上。",
+        "words": [
+            "figure",
+            "one",
+            "foot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind him is a field with rows of corn plants, and the horizon blends into a cloudy, starry sky.",
+        "sentence_cn": "他的身后是一片长满玉米的田地，地平线与多云的星空融为一体。",
+        "words": [
+            "field",
+            "rows",
+            "corn",
+            "plants",
+            "horizon",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Field of Dreams\" is displayed at the bottom.",
+        "sentence_cn": "底部显示标题“梦幻之地”。",
+        "words": [
+            "Field of Dreams",
+            "title",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The credits below list the cast and crew, with mentions of Amy Madigan, James Earl Jones, and others.",
+        "sentence_cn": "以下列出了演员和剧组人员，其中提到了艾米·麦迪根、詹姆斯·厄尔·琼斯等人。",
+        "words": [
+            "credits",
+            "cast",
+            "crew",
+            "mentions",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It indicates that it is a Gordon Company production, directed by Phil Alden Robinson and based on the book \"Shoeless Joe\" by W.P. Kinsella.",
+        "sentence_cn": "这表明这是一部戈登公司的作品，由菲尔·奥尔登·罗宾逊 (Phil Alden Robinson) 执导，改编自 W.P. 金塞拉 (W.P. Kinsella) 的著作《Shoeless Joe》。",
+        "words": [
+            "Shoeless Joe",
+            "production",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rating is PG with parental guidance suggested.",
+        "sentence_cn": "该电影评级为 PG，建议家长指导。",
+        "words": [
+            "rating",
+            "PG",
+            "guidance"
+        ],
+        "id": null
+    }
+]

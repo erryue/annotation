@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Star Trek II: The Wrath of Khan.\"",
+        "sentence_cn": "图片是电影《星际迷航II：可汗之怒》的海报。",
+        "words": [
+            "Star Trek II: The Wrath of Khan.",
+            "poster",
+            "movie",
+            "II"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a prominent figure at the top center with long white hair, wearing a futuristic outfit, and bearing a stern expression.",
+        "sentence_cn": "画面顶部中央有一个显眼的人物，他有一头长长的白发，穿着未来主义风格的服装，表情严肃。",
+        "words": [
+            "figure",
+            "center",
+            "hair",
+            "outfit",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a blend of fiery oranges and yellows, suggesting an intense, dramatic scene.",
+        "sentence_cn": "背景是火红的橙色和黄色的混合，暗示着强烈而戏剧性的场景。",
+        "words": [
+            "background",
+            "blend",
+            "oranges",
+            "yellows",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the character, text reads: \"At the end of the universe lies the beginning of vengeance.\"",
+        "sentence_cn": "角色上方有一行文字：“宇宙的尽头是复仇的开始。”",
+        "words": [
+            "At the end of the universe lies the beginning of vengeance.",
+            "character",
+            "text",
+            "end",
+            "universe",
+            "beginning",
+            "vengeance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there are smaller images of several figures in red uniforms, positioned together with serious expressions.",
+        "sentence_cn": "下面，是几幅较小的身穿红色制服的人物图像，他们并排站在一起，表情严肃。",
+        "words": [
+            "images",
+            "figures",
+            "uniforms",
+            "expressions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One character is giving a pointing gesture.",
+        "sentence_cn": "一个角色正在做出指向的手势。",
+        "words": [
+            "One",
+            "character",
+            "gesture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, spaceships are depicted in dynamic motion, with trails and sparks that convey a sense of action and conflict.",
+        "sentence_cn": "在前景中，宇宙飞船呈现动态运动，其轨迹和火花传达出一种动作和冲突的感觉。",
+        "words": [
+            "foreground",
+            "spaceships",
+            "motion",
+            "trails",
+            "sparks",
+            "sense",
+            "action",
+            "conflict"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Star Trek II: The Wrath of Khan\" appears prominently in bold, stylized letters at the bottom, accompanied by credits and technical details in smaller text beneath.",
+        "sentence_cn": "标题“星际迷航 II：可汗之怒”以粗体、风格化的字母突出显示在底部，旁边是下方较小文字的制作人员和技术细节。",
+        "words": [
+            "Star Trek II: The Wrath of Khan",
+            "title",
+            "II",
+            "letters",
+            "bottom",
+            "credits",
+            "details",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic is adventurous and intense, indicative of a science fiction epic.",
+        "sentence_cn": "整体美感充满冒险和强烈，体现出科幻史诗的风格。",
+        "words": [
+            "aesthetic",
+            "science",
+            "fiction",
+            "epic"
+        ],
+        "id": null
+    }
+]

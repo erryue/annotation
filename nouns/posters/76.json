@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Carlito's Way.\"",
+        "sentence_cn": "图片是电影《情窦初开》的海报。",
+        "words": [
+            "Carlito's Way.",
+            "poster",
+            "movie",
+            "Way"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the name \"PACINO\" is prominently displayed in large red letters, indicating the starring actor.",
+        "sentence_cn": "顶部以大红色字母“PACINO”突出显示，表明该片主演是谁。",
+        "words": [
+            "PACINO",
+            "top",
+            "name",
+            "letters",
+            "actor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, the silhouette of a man, presumably the central character, is seen holding a gun.",
+        "sentence_cn": "在中心，可以看到一个男人的轮廓，大概就是中心人物，手里拿着枪。",
+        "words": [
+            "center",
+            "silhouette",
+            "man",
+            "character",
+            "gun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a leather jacket and is positioned against a dimly lit wall, adding a sense of mystery and tension.",
+        "sentence_cn": "他身穿皮夹克，背靠昏暗的墙壁，增添了一份神秘感和紧张感。",
+        "words": [
+            "leather",
+            "jacket",
+            "wall",
+            "sense",
+            "mystery",
+            "tension"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"CARLITO'S WAY\" is written in large, bold, yellow letters across the front of the silhouette.",
+        "sentence_cn": "标题“CARLITO'S WAY”以大而粗的黄色字母写在剪影的正面。",
+        "words": [
+            "CARLITO'S WAY",
+            "title",
+            "letters",
+            "front",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the name \"Sean Penn\" appears in red letters, indicating another key actor in the film.",
+        "sentence_cn": "片名下方，用红色字母写着“肖恩·潘”的名字，表明这是本片的另一位关键演员。",
+        "words": [
+            "Sean Penn",
+            "title",
+            "name",
+            "letters",
+            "actor",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a dark and gritty aesthetic, fitting the theme of a crime drama.",
+        "sentence_cn": "海报具有黑暗、粗犷的美感，符合犯罪剧的主题。",
+        "words": [
+            "poster",
+            "aesthetic",
+            "theme",
+            "crime",
+            "drama"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom of the poster contains the production credits and other relevant details in smaller text.",
+        "sentence_cn": "海报底部以较小的文字包含制作人员名单和其他相关详细信息。",
+        "words": [
+            "bottom",
+            "poster",
+            "production",
+            "credits",
+            "details",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the visual style suggests an intense, dramatic film.",
+        "sentence_cn": "总体而言，视觉风格表明这是一部激烈、富有戏剧性的电影。",
+        "words": [
+            "style",
+            "film"
+        ],
+        "id": null
+    }
+]

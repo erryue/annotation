@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image features a website homepage for a company called \"INITION.\"",
+        "sentence_cn": "图片是一家名为“INITION”的公司的网站主页。",
+        "words": [
+            "INITION.",
+            "website",
+            "homepage",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design includes the company's tagline, \"Home of the Extraordinary,\" and highlights their focus on extraordinary technology and experiences.",
+        "sentence_cn": "该设计包括公司的标语“非凡之家”，并强调了他们对非凡技术和体验的关注。",
+        "words": [
+            "Home of the Extraordinary,",
+            "design",
+            "company",
+            "tagline",
+            "Home",
+            "focus",
+            "technology",
+            "experiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page menu includes links like \"EXTRAORDINARY TECHNOLOGY,\" \"EXTRAORDINARY EXPERIENCES,\" \"ABOUT INITION,\" \"CASE STUDIES,\" \"ARTICLES,\" and \"CONTACT US.\"",
+        "sentence_cn": "页面菜单包括“非凡技术”、“非凡体验”、“关于 INITION”、“案例研究”、“文章”和“联系我们”等链接。",
+        "words": [
+            "EXTRAORDINARY TECHNOLOGY,",
+            "EXTRAORDINARY EXPERIENCES,",
+            "ABOUT INITION,",
+            "CASE STUDIES,",
+            "ARTICLES,",
+            "CONTACT US.",
+            "page",
+            "menu",
+            "links",
+            "EXTRAORDINARY",
+            "TECHNOLOGY",
+            "EXTRAORDINARY",
+            "EXPERIENCES",
+            "ABOUT",
+            "CASE",
+            "STUDIES",
+            "ARTICLES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A \"DEMO STUDIO\" link is also prominently displayed.",
+        "sentence_cn": "“DEMO STUDIO”链接也突出显示。",
+        "words": [
+            "DEMO STUDIO",
+            "DEMO",
+            "STUDIO",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a holographic projection of a futuristic train on rails, surrounded by an audience in a dark environment.",
+        "sentence_cn": "背景中，有一列未来派火车在轨道上行驶的全息投影，周围是黑暗环境中的观众。",
+        "words": [
+            "background",
+            "projection",
+            "train",
+            "rails",
+            "audience",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text describes INITION as a production company specializing in immersive, installation-based experiences, utilizing technologies like 3D printing, 3D scanning, augmented reality, and virtual reality.",
+        "sentence_cn": "文中将 INITION 描述为一家专门提供沉浸式、基于装置的体验的制作公司，利用 3D 打印、3D 扫描、增强现实和虚拟现实等技术。",
+        "words": [
+            "text",
+            "production",
+            "company",
+            "installation",
+            "experiences",
+            "technologies",
+            "3D",
+            "printing",
+            "3D",
+            "scanning",
+            "reality",
+            "reality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cookie consent banner is at the bottom, with options to \"Dismiss\" or \"Read More.\"",
+        "sentence_cn": "底部有一个 cookie 同意横幅，其中有“关闭”或“阅读更多”选项。",
+        "words": [
+            "Dismiss",
+            "Read More.",
+            "cookie",
+            "consent",
+            "banner",
+            "bottom",
+            "options"
+        ],
+        "id": null
+    }
+]

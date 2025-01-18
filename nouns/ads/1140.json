@@ -1,0 +1,125 @@
+[
+    {
+        "sentence": "The image features an Audi racing car, specifically the Audi R18 e-tron quattro.",
+        "sentence_cn": "图片上的是一辆奥迪赛车，具体来说是奥迪 R18 e-tron quattro。",
+        "words": [
+            "racing",
+            "car",
+            "R18",
+            "e",
+            "-",
+            "tron",
+            "quattro"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This high-performance vehicle is central to the composition, viewed from a front angle that emphasizes its sleek design and advanced aerodynamics.",
+        "sentence_cn": "这款高性能车辆是构图的中心，从正面看，强调了其时尚的设计和先进的空气动力学性能。",
+        "words": [
+            "performance",
+            "vehicle",
+            "composition",
+            "angle",
+            "design",
+            "aerodynamics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The car bears the number \"1\" and logos of brands like Bosch, Mahle, and Michelin, indicating sponsorship and premium engineering partnerships.",
+        "sentence_cn": "该车身上带有数字“1”以及博世、马勒和米其林等品牌的标志，表明其赞助和高端工程合作伙伴关系。",
+        "words": [
+            "1",
+            "car",
+            "number",
+            "1",
+            "logos",
+            "brands",
+            "sponsorship",
+            "premium",
+            "engineering",
+            "partnerships"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a textured area in red and black waves, adds a dynamic element and contains the text \"Audi e-tron - The future of electric mobility.\"",
+        "sentence_cn": "背景中，红色和黑色波浪的纹理区域增添了动态元素，并包含文字“奥迪 e-tron - 电动汽车的未来”。",
+        "words": [
+            "Audi e-tron - The future of electric mobility.",
+            "background",
+            "area",
+            "waves",
+            "element",
+            "text",
+            "e",
+            "-",
+            "tron",
+            "future",
+            "mobility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the upper right corner, the Audi Sport logo, tagline \"Vorsprung durch Technik,\" and the four-ring Audi logo are present.",
+        "sentence_cn": "右上角有奥迪运动徽标、标语“Vorsprung durch Technik”和四环奥迪徽标。",
+        "words": [
+            "Vorsprung durch Technik,",
+            "corner",
+            "logo",
+            "tagline",
+            "Vorsprung",
+            "four",
+            "ring",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The right side of the image includes text highlighting a \"Triple victory for ultra, e-tron, and quattro,\" celebrating Audi's historical achievement at the 24 Hours of Le Mans, where they secured the top three positions.",
+        "sentence_cn": "图片右侧的文字突出显示了“ultra、e-tron 和 quattro 的三重胜利”，庆祝奥迪在勒芒 24 小时耐力赛上取得的历史性成就，并占据了前三名的位置。",
+        "words": [
+            "Triple victory for ultra, e-tron, and quattro,",
+            "text",
+            "victory",
+            "ultra",
+            "e",
+            "-",
+            "tron",
+            "quattro",
+            "achievement",
+            "24",
+            "three",
+            "positions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The description underscores the e-tron's advanced technology, which enhances braking and overall performance.",
+        "sentence_cn": "该描述强调了 e-tron 的先进技术，它增强了制动和整体性能。",
+        "words": [
+            "e",
+            "-",
+            "tron",
+            "technology",
+            "braking",
+            "performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This composition reflects both a celebration of Audi's racing success and a focus on innovation in electric mobility.",
+        "sentence_cn": "这一作品既体现了对奥迪赛车运动成功的庆祝，也体现了对电动汽车创新的关注。",
+        "words": [
+            "composition",
+            "celebration",
+            "racing",
+            "success",
+            "focus",
+            "innovation",
+            "mobility"
+        ],
+        "id": null
+    }
+]

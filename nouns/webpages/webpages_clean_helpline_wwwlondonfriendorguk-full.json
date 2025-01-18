@@ -1,0 +1,204 @@
+[
+    {
+        "sentence": "The image is a web page from London Friend, an organization focused on LGBT health and wellbeing.",
+        "sentence_cn": "该图片是来自伦敦之友的一个网页，该组织致力于关注 LGBT 健康和福祉。",
+        "words": [
+            "web",
+            "page",
+            "organization",
+            "health",
+            "wellbeing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a colorful and structured layout:",
+        "sentence_cn": "它具有丰富多彩且结构化的布局：",
+        "words": [
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Section:",
+        "sentence_cn": "1. 顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Logo: \"London Friend LGBT health and wellbeing\" with a colorful geometric design.",
+        "sentence_cn": "- 标志：“伦敦之友 LGBT 健康和福祉”，带有丰富多彩的几何图案。",
+        "words": [
+            "London Friend LGBT health and wellbeing",
+            "Logo",
+            "health",
+            "wellbeing",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Award Badge: \"National Diversity Awards 2014 Winner of the Community Organisation Award for LGBT.\"",
+        "sentence_cn": "- 奖章：“2014年度国家多元化奖 LGBT 社区组织奖获得者。”",
+        "words": [
+            "National Diversity Awards 2014 Winner of the Community Organisation Award for LGBT.",
+            "Award",
+            "Badge",
+            "2014",
+            "Winner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Navigation Menu: Includes options such as \"get support,\" \"get involved,\" \"about friend,\" and \"for professionals.\"",
+        "sentence_cn": "- 导航菜单：包括“获得支持”、“参与”、“关于朋友”和“专业人士”等选项。",
+        "words": [
+            "get support,",
+            "get involved,",
+            "about friend,",
+            "for professionals.",
+            "Navigation",
+            "Menu",
+            "options",
+            "support",
+            "friend",
+            "professionals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Section (Primary Content):",
+        "sentence_cn": "2. 中间部分（主要内容）：",
+        "words": [
+            "Middle Section (Primary Content):",
+            "Section",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Left Side: Features phrases like \"Messy weekend?\" and \"Chems taken over?\" over a red and blue background with abstract design, promoting the Antidote service for drug use recovery.",
+        "sentence_cn": "- 左侧：在具有抽象设计的红蓝色背景上，显示诸如“混乱的周末？”和“化学药品被接管了？”之类的短语，以宣传用于戒毒的解毒服务。",
+        "words": [
+            "Messy weekend?",
+            "Chems taken over?",
+            "phrases",
+            "weekend",
+            "Chems",
+            "background",
+            "design",
+            "service",
+            "drug",
+            "use",
+            "recovery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center: \"SWAP - Structured Weekend Antidote Programme,\" which supports people in gaining control over weekend partying.",
+        "sentence_cn": "- 中心：“SWAP——结构化周末解毒剂计划”，帮助人们控制周末聚会。",
+        "words": [
+            "SWAP - Structured Weekend Antidote Programme,",
+            "Center",
+            "people",
+            "control",
+            "weekend",
+            "partying"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Right Side: Green box with a photo of a smiling person and a quote, ¡°The groups at LF are great!¡±, adding ¡°Interesting, informative and fun.¡± A \"donate now\" button is present.",
+        "sentence_cn": "- 右侧：绿色方框中有一个微笑的人的照片和一句名言，“LF 的团体很棒！”，增加了“有趣、信息丰富且趣味十足”。有一个“立即捐赠”按钮。",
+        "words": [
+            "donate now",
+            "Side",
+            "box",
+            "photo",
+            "person",
+            "quote",
+            "groups",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Section:",
+        "sentence_cn": "3. 底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Left: \"Diary\" with upcoming events dates, like \"Thursday 3rd September: Mattrix\" and opportunities like \"Drop In Cafe.\"",
+        "sentence_cn": "- 左边：“日记”，记录即将举行的活动日期，如“9 月 3 日星期四：Mattrix”和“Drop In Cafe”等机会。",
+        "words": [
+            "Diary",
+            "Thursday 3rd September: Mattrix",
+            "Drop In Cafe.",
+            "events",
+            "dates",
+            "3rd",
+            "opportunities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center: \"LF Blog\" section linking to blog posts with topics about community groups and support services.",
+        "sentence_cn": "- 中心：“LF 博客”部分链接到有关社区团体和支持服务主题的博客文章。",
+        "words": [
+            "LF Blog",
+            "Center",
+            "section",
+            "blog",
+            "posts",
+            "topics",
+            "community",
+            "groups",
+            "support",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Right: \"Contact Us\" details with phone numbers for discussing drug or alcohol issues and general inquiries.",
+        "sentence_cn": "- 右侧：“联系我们”详情，其中包含用于讨论毒品或酒精问题以及一般询问的电话号码。",
+        "words": [
+            "Contact Us",
+            "details",
+            "phone",
+            "numbers",
+            "drug",
+            "alcohol",
+            "issues",
+            "inquiries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Also, instructions for donating via text.",
+        "sentence_cn": "此外，还通过文本提供捐赠说明。",
+        "words": [
+            "instructions",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is informative with a mix of vibrant colors and clear categorization for easy navigation.",
+        "sentence_cn": "整体设计信息丰富，融合了鲜艳的色彩和清晰的分类，方便导航。",
+        "words": [
+            "design",
+            "mix",
+            "colors",
+            "categorization",
+            "navigation"
+        ],
+        "id": null
+    }
+]

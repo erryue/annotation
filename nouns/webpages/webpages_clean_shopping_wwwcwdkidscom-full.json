@@ -1,0 +1,125 @@
+[
+    {
+        "sentence": "The image appears to be a webpage from a children's clothing retailer called CWDkids.",
+        "sentence_cn": "该图片似乎是一家名为 CWDkids 的儿童服装零售商的网页。",
+        "words": [
+            "webpage",
+            "children",
+            "clothing",
+            "retailer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top banner features the brand name along with the tagline \"Cute Well-Dressed Kids.\"",
+        "sentence_cn": "顶部横幅显示品牌名称以及标语“穿着考究的可爱孩子”。",
+        "words": [
+            "Cute Well-Dressed Kids.",
+            "banner",
+            "brand",
+            "name",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a navigation menu with categories such as back-to-school, Halloween, holiday, girls, boys, made in USA, family, baby/toddler, gifts, and sale.",
+        "sentence_cn": "导航菜单包含返校、万圣节、假日、女孩、男孩、美国制造、家庭、婴儿/幼儿、礼物和销售等类别。",
+        "words": [
+            "navigation",
+            "menu",
+            "categories",
+            "back",
+            "school",
+            "holiday",
+            "girls",
+            "boys",
+            "USA",
+            "family",
+            "baby",
+            "toddler",
+            "gifts",
+            "sale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a promotional image for back-to-school looks.",
+        "sentence_cn": "中间是一张开学季的宣传图片。",
+        "words": [
+            "center",
+            "school",
+            "looks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows a girl with long hair wearing glasses and a colorful, zigzag patterned dress in shades of pink, blue, and black with a backdrop of white lockers.",
+        "sentence_cn": "照片中是一个长发女孩，戴着眼镜，身穿色彩鲜艳的锯齿形图案连衣裙，裙子的颜色为粉色、蓝色和黑色，背景是白色的储物柜。",
+        "words": [
+            "girl",
+            "hair",
+            "glasses",
+            "zigzag",
+            "dress",
+            "shades",
+            "pink",
+            "blue",
+            "black",
+            "backdrop",
+            "lockers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is slightly tilting her glasses, looking towards the viewer.",
+        "sentence_cn": "她微微倾斜着眼镜，看向观看者。",
+        "words": [
+            "glasses",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the image reads \"Smart Looks for back-to-school\" in pink and blue fonts, with a \"Shop Now\" button.",
+        "sentence_cn": "图片上的文字用粉色和蓝色字体写着“开学季的时尚造型”，并带有“立即购买”按钮。",
+        "words": [
+            "Smart Looks for back-to-school",
+            "Shop Now",
+            "text",
+            "back",
+            "school",
+            "fonts",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above, there's a notice for free standard shipping on orders over $125.",
+        "sentence_cn": "上面有一条通知，订单金额超过 125 美元即可享受免费标准送货服务。",
+        "words": [
+            "notice",
+            "shipping",
+            "orders",
+            "125"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a note about \"FREE SHIPPING on orders of $125+ for a limited time only,\" with a standard shipping disclaimer.",
+        "sentence_cn": "在底部，有一条注释“限时免费送货，订单满 125 美元以上”，并附有标准的运输免责声明。",
+        "words": [
+            "FREE SHIPPING on orders of $125+ for a limited time only,",
+            "bottom",
+            "note",
+            "SHIPPING",
+            "orders",
+            "125",
+            "+",
+            "time",
+            "shipping",
+            "disclaimer"
+        ],
+        "id": null
+    }
+]

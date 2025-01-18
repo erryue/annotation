@@ -1,0 +1,24 @@
+[
+    {
+        "id": "9e5697f1-b649-4cb5-9a41-f8422646dbfb",
+        "confidence": 0.8298,
+        "class": "dining table",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 338.30893,
+                        "minY": 455.078,
+                        "maxX": 478.70233,
+                        "maxY": 638.40289
+                    },
+                    "x": 338.30893,
+                    "y": 455.078,
+                    "w": 140.39340000000004,
+                    "h": 183.32488999999998
+                }
+            }
+        }
+    }
+]

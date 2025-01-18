@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image depicts a sterile medical or veterinary room featuring concrete block walls and a cement floor.",
+        "sentence_cn": "图像描绘的是一间无菌医疗室或兽医室，其特点是混凝土砌块墙和水泥地板。",
+        "words": [
+            "room",
+            "block",
+            "walls",
+            "cement",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is equipped with several metal shelves that hold various supplies, such as red biohazard containers, boxes, and other medical equipment.",
+        "sentence_cn": "它配备了几个金属架子，可容纳各种用品，例如红色生物危害容器、盒子和其他医疗设备。",
+        "words": [
+            "metal",
+            "shelves",
+            "supplies",
+            "biohazard",
+            "containers",
+            "boxes",
+            "equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two surgical tables in the center, surrounded by adjustable lamps suspended from the ceiling.",
+        "sentence_cn": "中心有两张手术台，周围是悬挂在天花板上的可调节灯。",
+        "words": [
+            "two",
+            "tables",
+            "center",
+            "lamps",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An assortment of medical instruments and accessories is visible on trolleys and tables, including bottles, trays, and what appears to be an anesthesia machine.",
+        "sentence_cn": "手推车和桌子上摆放着各种医疗器械和配件，包括瓶子、托盘和看起来像麻醉机的东西。",
+        "words": [
+            "assortment",
+            "instruments",
+            "accessories",
+            "trolleys",
+            "tables",
+            "bottles",
+            "trays",
+            "anesthesia",
+            "machine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window on the back wall is covered with closed blinds.",
+        "sentence_cn": "后墙上的窗户被关闭的百叶窗遮住。",
+        "words": [
+            "window",
+            "wall",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space appears clean and organized, suitable for medical procedures.",
+        "sentence_cn": "总体而言，该空间显得干净整洁，适合进行医疗程序。",
+        "words": [
+            "space",
+            "procedures"
+        ],
+        "id": null
+    }
+]

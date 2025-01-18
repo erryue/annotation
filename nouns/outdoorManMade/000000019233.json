@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image depicts a serene beach scene.",
+        "sentence_cn": "图像描绘的是一片宁静的海滩场景。",
+        "words": [
+            "beach",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground on the left, there is a vintage red tractor parked on the sandy shore.",
+        "sentence_cn": "左侧前景中，一辆老式红色拖拉机停在沙滩上。",
+        "words": [
+            "foreground",
+            "left",
+            "tractor",
+            "shore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the tractor, two foldable chairs, one blue and one red, are set up facing the water, suggesting a relaxing spot for enjoying the view.",
+        "sentence_cn": "拖拉机旁边，面朝水面摆放着两张折叠椅，一张蓝色，一张红色，是欣赏美景的休闲场所。",
+        "words": [
+            "tractor",
+            "two",
+            "chairs",
+            "one",
+            "one",
+            "water",
+            "spot",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle ground, a person is wading in the shallow water, seemingly near a small motorboat.",
+        "sentence_cn": "在中间的场景中，一个人正在浅水中涉水，旁边似乎有一艘小型摩托艇。",
+        "words": [
+            "ground",
+            "person",
+            "water",
+            "motorboat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water is calm and reflects the clear blue sky, hinting at a pleasant, sunny day.",
+        "sentence_cn": "水面平静，倒映着湛蓝的天空，预示着这将是一个阳光明媚的好日子。",
+        "words": [
+            "water",
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The horizon is visible in the background, where the sky meets the vast expanse of water, adding to the tranquil atmosphere of the scene.",
+        "sentence_cn": "背景中可以看到地平线，天空与广阔的水域相接，增添了场景的宁静氛围。",
+        "words": [
+            "horizon",
+            "background",
+            "sky",
+            "expanse",
+            "water",
+            "atmosphere",
+            "scene"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile application or website focused on face drawing tutorials.",
+        "sentence_cn": "该图片似乎是一个专注于脸部绘画教程的移动应用程序或网站的截图。",
+        "words": [
+            "mobile",
+            "application",
+            "website",
+            "face",
+            "drawing",
+            "tutorials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is predominantly in red and white.",
+        "sentence_cn": "该设计主要以红色和白色为主。",
+        "words": [
+            "design",
+            "red",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Section:",
+        "sentence_cn": "1. 顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A red header with the title \"Face Draw\".",
+        "sentence_cn": "- 标题为“Face Draw”的红色标题。",
+        "words": [
+            "Face Draw",
+            "header",
+            "title",
+            "Face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An overlapping dropdown menu with options: \"Women Eyes\", \"Men Eyes\", \"Women Noses\", \"Men Noses\", \"Women Lips\", \"Men Lips\", \"Ears\", \"Faces Directions\", \"Hands\", and \"Legs\".",
+        "sentence_cn": "- 一个重叠的下拉菜单，其中包含以下选项：“女性的眼睛”、“男性的眼睛”、“女性的鼻子”、“男性的鼻子”、“女性的嘴唇”、“男性的嘴唇”、“耳朵”、“面部方向”、“手”和“腿”。",
+        "words": [
+            "Women Eyes",
+            "Men Eyes",
+            "Women Noses",
+            "Men Noses",
+            "Women Lips",
+            "Men Lips",
+            "Ears",
+            "Faces Directions",
+            "Hands",
+            "Legs",
+            "dropdown",
+            "menu",
+            "options",
+            "Women",
+            "Eyes",
+            "Men",
+            "Eyes",
+            "Women",
+            "Noses",
+            "Men",
+            "Noses",
+            "Women",
+            "Lips",
+            "Men",
+            "Lips",
+            "Ears",
+            "Faces",
+            "Directions",
+            "Hands",
+            "Legs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Icon Bar:",
+        "sentence_cn": "2. 图标栏：",
+        "words": [
+            "Icon Bar:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A row of small graphics/icons at the top, possibly indicating tabs related to different features or sections.",
+        "sentence_cn": "- 顶部的一排小图形/图标，可能表示与不同功能或部分相关的选项卡。",
+        "words": [
+            "row",
+            "graphics",
+            "icons",
+            "top",
+            "tabs",
+            "features",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Body Section:",
+        "sentence_cn": "3. 正文部分：",
+        "words": [
+            "Body Section:",
+            "Body",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A grid displaying various black and white sketches of eyes.",
+        "sentence_cn": "- 显示各种黑白眼睛草图的网格。",
+        "words": [
+            "grid",
+            "sketches",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The drawings show eyes with different styles, expressions, and techniques.",
+        "sentence_cn": "这些画作展现了不同风格、表情和技巧的眼睛。",
+        "words": [
+            "drawings",
+            "eyes",
+            "styles",
+            "expressions",
+            "techniques"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Section:",
+        "sentence_cn": "4. 底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A horizontal scrollable bar with more icons or thumbnails showing different sketches or drawing categories, such as eyes, faces, or characters.",
+        "sentence_cn": "- 水平滚动条带有更多图标或缩略图，显示不同的草图或绘图类别，例如眼睛、面部或人物。",
+        "words": [
+            "bar",
+            "icons",
+            "thumbnails",
+            "sketches",
+            "drawing",
+            "categories",
+            "eyes",
+            "faces",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Battery and Notification Icons:",
+        "sentence_cn": "5. 电池和通知图标：",
+        "words": [
+            "Battery and Notification Icons:",
+            "Battery",
+            "Notification",
+            "Icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Typical Android status icons are visible at the top of the screen, indicating notifications, battery level, and Bluetooth status.",
+        "sentence_cn": "- 屏幕顶部可见典型的 Android 状态图标，指示通知、电池电量和蓝牙状态。",
+        "words": [
+            "status",
+            "icons",
+            "top",
+            "screen",
+            "notifications",
+            "battery",
+            "level",
+            "Bluetooth",
+            "status"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme suggests a tutorial or guide related to drawing facial features using sketches for practice or inspiration.",
+        "sentence_cn": "总体主题建议使用草图来绘制面部特征作为练习或灵感的教程或指南。",
+        "words": [
+            "theme",
+            "tutorial",
+            "guide",
+            "features",
+            "sketches",
+            "practice",
+            "inspiration"
+        ],
+        "id": null
+    }
+]

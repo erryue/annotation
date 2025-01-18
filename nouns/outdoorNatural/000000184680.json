@@ -1,0 +1,55 @@
+[
+    {
+        "sentence": "The image depicts a pastoral landscape with a lush, green field where several cows are grazing.",
+        "sentence_cn": "画中描绘的是一幅田园风光，田野郁郁葱葱，几头牛正在吃草。",
+        "words": [
+            "landscape",
+            "field",
+            "cows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows vary in color, including white, brown, and black.",
+        "sentence_cn": "奶牛的颜色各异，有白色、棕色和黑色。",
+        "words": [
+            "cows",
+            "color",
+            "white",
+            "brown",
+            "black"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A dirt path runs diagonally through the right side of the image, bordered by a simple fence.",
+        "sentence_cn": "一条土路斜穿过图像的右侧，两边有一道简单的栅栏。",
+        "words": [
+            "dirt",
+            "path",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the path, there is a large tree providing some shade.",
+        "sentence_cn": "小路附近有一棵大树，可以提供一些遮荫。",
+        "words": [
+            "path",
+            "tree",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene appears serene and rural, with vibrant green grass covering most of the area, and the sky is not visible in the image.",
+        "sentence_cn": "整体场景显得宁静而质朴，生机勃勃的绿草覆盖了大部分区域，图像中看不到天空。",
+        "words": [
+            "scene",
+            "grass",
+            "area",
+            "sky"
+        ],
+        "id": null
+    }
+]

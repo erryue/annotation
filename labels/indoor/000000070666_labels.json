@@ -1,0 +1,24 @@
+[
+    {
+        "id": "8514792a-804a-4f7b-aed9-41ad5f8d530c",
+        "confidence": 0.91111,
+        "class": "toilet",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 276.34225,
+                        "minY": 182.93198,
+                        "maxX": 508.66702,
+                        "maxY": 478.83694
+                    },
+                    "x": 276.34225,
+                    "y": 182.93198,
+                    "w": 232.32477,
+                    "h": 295.90496
+                }
+            }
+        }
+    }
+]

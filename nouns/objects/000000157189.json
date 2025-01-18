@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image shows a simple kitchen setup with three main elements:",
+        "sentence_cn": "该图展示了一个简单的厨房设置，包含三个主要元素：",
+        "words": [
+            "kitchen",
+            "three",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Bowl and Spoon: A ceramic bowl is placed on a wooden surface.",
+        "sentence_cn": "1. 碗和勺子：陶瓷碗放在木质表面上。",
+        "words": [
+            "Bowl and Spoon",
+            "Bowl",
+            "Spoon",
+            "bowl",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bowl is filled with a white liquid, likely milk, and has a blue-green rim.",
+        "sentence_cn": "碗里盛满了白色液体，可能是牛奶，边缘呈蓝绿色。",
+        "words": [
+            "bowl",
+            "liquid",
+            "milk",
+            "rim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A metal spoon is resting inside the bowl.",
+        "sentence_cn": "碗里放着一把金属勺子。",
+        "words": [
+            "metal",
+            "spoon",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Bottle of Milk: Situated behind the bowl, there is a clear glass bottle filled with milk.",
+        "sentence_cn": "2. 牛奶瓶：碗后面有一个装满牛奶的透明玻璃瓶。",
+        "words": [
+            "Bottle of Milk",
+            "Bottle",
+            "Milk",
+            "bowl",
+            "glass",
+            "bottle",
+            "milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottle has a narrow neck and no visible label, suggesting a classic design.",
+        "sentence_cn": "瓶子颈部较窄，没有明显的标签，体现出经典的设计。",
+        "words": [
+            "bottle",
+            "neck",
+            "label",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Eggs: In front of the bowl are three brown eggs.",
+        "sentence_cn": "3. 鸡蛋：碗前面有三个棕色的鸡蛋。",
+        "words": [
+            "Eggs",
+            "Eggs",
+            "front",
+            "bowl",
+            "three",
+            "eggs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are arranged haphazardly on the wooden surface.",
+        "sentence_cn": "它们杂乱无章地排列在木质表面上。",
+        "words": [
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be a warm-toned kitchen, with wooden panels or cupboards in the background, creating a rustic and homey atmosphere.",
+        "sentence_cn": "场景似乎是一个暖色调的厨房，背景是木板或橱柜，营造出一种质朴而温馨的氛围。",
+        "words": [
+            "kitchen",
+            "panels",
+            "cupboards",
+            "background",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is warm, highlighting the natural textures of the eggs and the wood.",
+        "sentence_cn": "灯光很温暖，凸显了鸡蛋和木材的自然纹理。",
+        "words": [
+            "lighting",
+            "textures",
+            "eggs",
+            "wood"
+        ],
+        "id": null
+    }
+]

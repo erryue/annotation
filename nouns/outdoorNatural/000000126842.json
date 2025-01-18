@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image shows a group of elephants walking through a savannah landscape.",
+        "sentence_cn": "图像显示一群大象正在穿过大草原。",
+        "words": [
+            "group",
+            "elephants",
+            "savannah",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are four elephants visible, including one adult and three younger ones.",
+        "sentence_cn": "可以看到四头大象，其中包括一头成年大象和三头幼象。",
+        "words": [
+            "four",
+            "elephants",
+            "one",
+            "adult",
+            "three",
+            "ones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is covered with dry, yellowish-brown grass, typical of a savannah during the dry season.",
+        "sentence_cn": "地面覆盖着干燥的黄褐色草，这是旱季大草原的典型特征。",
+        "words": [
+            "ground",
+            "grass",
+            "savannah",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around the elephants, there are sparse trees with thin trunks and small canopies, characteristic of acacia trees commonly found in African landscapes.",
+        "sentence_cn": "大象周围生长着稀疏的树木，树干细长，树冠较小，这是非洲景观中常见的金合欢树的特征。",
+        "words": [
+            "elephants",
+            "trees",
+            "trunks",
+            "canopies",
+            "acacia",
+            "trees",
+            "landscapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, partially obscured by the trees, there are zebras grazing or walking.",
+        "sentence_cn": "背景中，被树木部分遮挡的斑马正在吃草或行走。",
+        "words": [
+            "background",
+            "trees",
+            "zebras"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras' distinctive black and white stripes contrast with the dry, muted colors of the surroundings.",
+        "sentence_cn": "斑马独特的黑白条纹与周围环境干燥、柔和的色彩形成鲜明对比。",
+        "words": [
+            "zebras",
+            "stripes",
+            "colors",
+            "surroundings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys the natural setting of a group of elephants moving through their habitat, suggesting a peaceful and typical day in the wild.",
+        "sentence_cn": "整体场景传达了一群大象在其栖息地中移动的自然环境，暗示着野外平静而典型的一天。",
+        "words": [
+            "scene",
+            "group",
+            "elephants",
+            "habitat",
+            "day",
+            "wild"
+        ],
+        "id": null
+    }
+]

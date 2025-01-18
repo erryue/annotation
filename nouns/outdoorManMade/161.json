@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image shows a tranquil backyard setting with a rectangular swimming pool surrounded by a well-maintained garden.",
+        "sentence_cn": "图片显示的是一个宁静的后院环境，有一个长方形的游泳池，周围环绕着维护良好的花园。",
+        "words": [
+            "backyard",
+            "swimming",
+            "pool",
+            "garden"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool's clear blue water is bordered by a smooth stone edge.",
+        "sentence_cn": "池塘边有一块光滑的石头，水质清澈湛蓝。",
+        "words": [
+            "pool",
+            "water",
+            "stone",
+            "edge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the pool, there is a tile pathway laid in a grid pattern, with grass growing between the tiles, giving a neat and orderly appearance.",
+        "sentence_cn": "水池旁边，有一条格子状的瓷砖小路，瓷砖之间长满了小草，显得整齐有序。",
+        "words": [
+            "pool",
+            "tile",
+            "pathway",
+            "grid",
+            "pattern",
+            "grass",
+            "tiles",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there are two wooden lounge chairs with white cushions positioned on the lawn, ideal for relaxing by the poolside.",
+        "sentence_cn": "右侧的草坪上摆放着两张带白色垫子的木质躺椅，非常适合在泳池边放松身心。",
+        "words": [
+            "two",
+            "lounge",
+            "chairs",
+            "cushions",
+            "lawn",
+            "poolside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the pool area, there's a low stone wall that adds an element of structure and privacy.",
+        "sentence_cn": "泳池周围有一堵低矮的石墙，增添了结构感和私密性。",
+        "words": [
+            "pool",
+            "area",
+            "stone",
+            "wall",
+            "element",
+            "structure",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the wall, several young trees and manicured bushes are planted, providing a lush green backdrop.",
+        "sentence_cn": "墙后种植了几棵幼树和修剪整齐的灌木，形成了郁郁葱葱的绿色背景。",
+        "words": [
+            "wall",
+            "trees",
+            "bushes",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscaping is further enhanced by a row of larger bushes and hedges, and the area is bordered by a dense line of taller trees, offering additional privacy and a sense of seclusion.",
+        "sentence_cn": "一排较大的灌木和树篱进一步增强了景观效果，并且该区域周围是一排茂密的高大树木，提供了额外的隐私和一种隐居感。",
+        "words": [
+            "landscaping",
+            "row",
+            "bushes",
+            "hedges",
+            "area",
+            "line",
+            "trees",
+            "privacy",
+            "sense",
+            "seclusion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setting is serene and inviting, perfect for outdoor leisure.",
+        "sentence_cn": "总体而言，环境宁静而迷人，非常适合户外休闲。",
+        "words": [
+            "leisure"
+        ],
+        "id": null
+    }
+]

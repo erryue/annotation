@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Jude.\"",
+        "sentence_cn": "图片是电影《Jude》的电影海报。",
+        "words": [
+            "Jude.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there¡¯s a quote praising Kate Winslet: \"Kate Winslet is the star of her time\" by Richard Corliss from Time Magazine.",
+        "sentence_cn": "顶部有《时代》杂志理查德科利斯对凯特·温斯莱特的称赞：“凯特·温斯莱特是她那个时代的明星”。",
+        "words": [
+            "Kate Winslet is the star of her time",
+            "top",
+            "quote",
+            "star",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the quote, there are large, faded images of two people, labeled as Christopher Eccleston and Kate Winslet.",
+        "sentence_cn": "这句话下面，有两个人已经褪色的大照片，分别标明是克里斯托弗·埃克莱斯顿和凯特·温斯莱特。",
+        "words": [
+            "quote",
+            "images",
+            "two",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a smaller image of a man and woman embracing each other, dressed in period clothing, suggesting a historical setting.",
+        "sentence_cn": "中心处有一幅较小的图像，一男一女穿着当时的服装，互相拥抱，暗示着一个历史场景。",
+        "words": [
+            "center",
+            "man",
+            "woman",
+            "period",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above this image, there are two phrases: \"His world could never change...\" and \"Until she became his world.\"",
+        "sentence_cn": "这张图片上方有两句话：“他的世界永远不会改变……”和“直到她成为他的世界。”",
+        "words": [
+            "His world could never change...",
+            "Until she became his world.",
+            "two",
+            "phrases",
+            "world",
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, the title \"Jude\" is prominently displayed.",
+        "sentence_cn": "海报底部显著地显示着“Jude”这个名字。",
+        "words": [
+            "Jude",
+            "bottom",
+            "poster",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, it states, \"A Michael Winterbottom Film.\"",
+        "sentence_cn": "标题下方写着“迈克尔·温特伯顿电影”。",
+        "words": [
+            "A Michael Winterbottom Film.",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower right corner, there is a small icon indicating that this is a DVD cover.",
+        "sentence_cn": "右下角有一个小图标，表示这是一个 DVD 封面。",
+        "words": [
+            "corner",
+            "icon",
+            "DVD",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is warm and sepia-toned, giving it a nostalgic and dramatic feel.",
+        "sentence_cn": "整体配色方案温暖且带有棕褐色调，给人一种怀旧和戏剧性的感觉。",
+        "words": [
+            "color",
+            "scheme",
+            "sepia",
+            "feel"
+        ],
+        "id": null
+    }
+]

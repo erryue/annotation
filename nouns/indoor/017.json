@@ -1,0 +1,173 @@
+[
+    {
+        "sentence": "The image shows a well-organized pantry with multiple shelves filled with a variety of food items and kitchen supplies.",
+        "sentence_cn": "图中显示的是一个井井有条的食品储藏室，里面有多个架子，上面摆满了各种食品和厨房用品。",
+        "words": [
+            "pantry",
+            "shelves",
+            "variety",
+            "food",
+            "items",
+            "kitchen",
+            "supplies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Shelving and Contents: The pantry features white shelving units.",
+        "sentence_cn": "- 搁架和内容：食品储藏室配有白色的搁架单元。",
+        "words": [
+            "Shelving and Contents",
+            "Shelving",
+            "Contents",
+            "pantry",
+            "shelving",
+            "units"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top shelves are stocked with canned goods, jars, and various dry goods.",
+        "sentence_cn": "顶层架子上摆满了罐头食品、罐子和各种干货。",
+        "words": [
+            "shelves",
+            "goods",
+            "jars",
+            "goods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are baskets and boxes for organization, along with cereal boxes and bottled items.",
+        "sentence_cn": "有用于整理的篮子和盒子，还有谷物盒和瓶装物品。",
+        "words": [
+            "baskets",
+            "boxes",
+            "organization",
+            "cereal",
+            "boxes",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Drawers and Baskets: Below the shelves, there are pull-out drawers and wire baskets, which appear to contain fruits and vegetables like apples, onions, and other produce.",
+        "sentence_cn": "- 抽屉和篮子：架子下面有抽屉和金属丝篮，里面似乎装有水果和蔬菜，如苹果、洋葱和其他农产品。",
+        "words": [
+            "Drawers and Baskets",
+            "Drawers",
+            "Baskets",
+            "shelves",
+            "drawers",
+            "wire",
+            "baskets",
+            "fruits",
+            "vegetables",
+            "apples",
+            "onions",
+            "produce"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Storage: On the left side, there is a corner with stacked wicker baskets and a wine rack.",
+        "sentence_cn": "- 额外的存储：在左侧，有一个角落，里面堆放着柳条篮和一个酒架。",
+        "words": [
+            "Additional Storage",
+            "Storage",
+            "corner",
+            "wicker",
+            "baskets",
+            "wine",
+            "rack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Kitchen Counter: In the foreground, part of a kitchen counter is visible with a decorative edge.",
+        "sentence_cn": "- 厨房台面：在前景中，可以看到厨房台面的一部分，并带有装饰边缘。",
+        "words": [
+            "Kitchen Counter",
+            "Kitchen",
+            "Counter",
+            "foreground",
+            "part",
+            "kitchen",
+            "counter",
+            "edge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On this counter, there is a wooden bowl with red and green bell peppers, a rolling pin, wooden utensils, and a bottle of oil.",
+        "sentence_cn": "这个柜台上放着一个木碗，里面装着红色和绿色的甜椒，一根擀面杖，木制餐具和一瓶油。",
+        "words": [
+            "counter",
+            "bowl",
+            "bell",
+            "peppers",
+            "rolling",
+            "pin",
+            "utensils",
+            "bottle",
+            "oil"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Walls and Decor: The walls are light-colored, and there are framed pictures hanging, adding warmth to the space.",
+        "sentence_cn": "- 墙壁和装饰：墙壁是浅色的，悬挂着相框，为空间增添了温暖。",
+        "words": [
+            "Walls and Decor",
+            "Walls",
+            "Decor",
+            "walls",
+            "pictures",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the pantry, there are more cabinets and kitchen decor items like a vase and possibly some fruit on another surface.",
+        "sentence_cn": "在食品储藏室旁边，还有更多的橱柜和厨房装饰物品，比如花瓶，另一个表面上可能还有一些水果。",
+        "words": [
+            "pantry",
+            "cabinets",
+            "kitchen",
+            "decor",
+            "items",
+            "vase",
+            "fruit",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Floor and Furniture: The floor is a light wood, and part of a chair and a rug with a red and gold pattern are visible.",
+        "sentence_cn": "- 地板和家具：地板是浅色木质的，可以看到部分椅子和带有红色和金色图案的地毯。",
+        "words": [
+            "Floor and Furniture",
+            "Floor",
+            "Furniture",
+            "floor",
+            "wood",
+            "part",
+            "chair",
+            "rug",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems to be part of an open kitchen area with a bright and inviting atmosphere.",
+        "sentence_cn": "该场景似乎是开放式厨房区域的一部分，具有明亮而温馨的氛围。",
+        "words": [
+            "part",
+            "kitchen",
+            "area",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

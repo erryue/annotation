@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image is a screenshot of an app interface titled \"Bass Vol Booster.\"",
+        "sentence_cn": "该图是名为“Bass Vol Booster”的应用程序界面的屏幕截图。",
+        "words": [
+            "Bass Vol Booster.",
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a digital display indicating \"BASS VOL\" at 1% with the overall volume at 81%.",
+        "sentence_cn": "它具有一个数字显示屏，显示“低音音量”为 1%，总音量为 81%。",
+        "words": [
+            "BASS VOL",
+            "display",
+            "1",
+            "volume",
+            "81",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this display, there's a section labeled \"BASS BOOSTER PRO\" with the text \"One Key to boost Bass.\"",
+        "sentence_cn": "在此显示屏下方，有一个标有“BASS BOOSTER PRO”的部分，上面写着“一键增强低音”。",
+        "words": [
+            "BASS BOOSTER PRO",
+            "One Key to boost Bass.",
+            "display",
+            "section",
+            "text",
+            "One",
+            "Key"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large, circular control dial dominates the center, outlined with a neon green ring and a small yellow dot, possibly indicating the level.",
+        "sentence_cn": "一个巨大的圆形控制转盘占据了中心位置，周围有一个霓虹绿色的环和一个小黄点，可能表示水平。",
+        "words": [
+            "control",
+            "dial",
+            "center",
+            "neon",
+            "ring",
+            "dot",
+            "level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A horizontal slider above the dial is set towards the left, with a neon green bar.",
+        "sentence_cn": "表盘上方的水平滑块位于左侧，带有霓虹绿色条。",
+        "words": [
+            "slider",
+            "dial",
+            "neon",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s a red button below the dial labeled \"MAX,\" presumably to maximize the bass boost.",
+        "sentence_cn": "表盘下方有一个红色按钮，标有“MAX”，大概是为了最大化低音增强。",
+        "words": [
+            "MAX,",
+            "button",
+            "dial",
+            "MAX",
+            "bass",
+            "boost"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design mainly uses dark tones with green accents for a high-tech, modern look.",
+        "sentence_cn": "该设计主要采用深色调并点缀绿色，营造出高科技、现代的外观。",
+        "words": [
+            "design",
+            "tones",
+            "accents",
+            "tech",
+            "look"
+        ],
+        "id": null
+    }
+]

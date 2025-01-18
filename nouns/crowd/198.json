@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image shows a group of people enjoying themselves in an outdoor setting, likely a beer garden or outdoor cafe.",
+        "sentence_cn": "图中显示一群人在户外玩耍，可能是啤酒花园或露天咖啡馆。",
+        "words": [
+            "group",
+            "people",
+            "beer",
+            "garden",
+            "cafe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are seated around a long wooden table, with benches on either side.",
+        "sentence_cn": "他们围坐在一张长长的木桌旁，两边都有长凳。",
+        "words": [
+            "table",
+            "benches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group includes both men and women who are casually dressed, suggesting a relaxed and social occasion.",
+        "sentence_cn": "这群人中有男士也有女士，都身着休闲服装，表明这是一个轻松的社交场合。",
+        "words": [
+            "group",
+            "men",
+            "women",
+            "occasion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are several glasses of beer, as well as a couple of bottles of water.",
+        "sentence_cn": "桌子上摆着几杯啤酒，还有几瓶水。",
+        "words": [
+            "table",
+            "glasses",
+            "beer",
+            "couple",
+            "bottles",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the group is a menu or listing, possibly of drinks or food options.",
+        "sentence_cn": "团体面前有一份菜单或清单，可能是饮料或食物选项。",
+        "words": [
+            "front",
+            "group",
+            "menu",
+            "listing",
+            "drinks",
+            "food",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows more people at similar tables, indicating a lively and communal atmosphere, with wooden tables and benches consistent throughout the space.",
+        "sentence_cn": "背景显示更多的人坐在类似的桌子旁，表明了一种活跃的社区氛围，整个空间都摆满了木桌和长凳。",
+        "words": [
+            "background",
+            "people",
+            "tables",
+            "atmosphere",
+            "tables",
+            "benches",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting has a natural and casual vibe, perfect for gatherings or casual meet-ups.",
+        "sentence_cn": "这里的环境具有自然而休闲的氛围，非常适合聚会或休闲会面。",
+        "words": [
+            "vibe",
+            "gatherings",
+            "meet",
+            "ups"
+        ],
+        "id": null
+    }
+]

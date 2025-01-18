@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile application displaying a map view with numerous red map pins spread across the San Francisco Bay Area.",
+        "sentence_cn": "该图是一个移动应用程序的屏幕截图，显示了一个地图视图，其中有无数红色地图图钉分布在旧金山湾区。",
+        "words": [
+            "mobile",
+            "application",
+            "map",
+            "view",
+            "map",
+            "pins",
+            "the",
+            "San",
+            "Francisco",
+            "Bay",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These pins likely represent job locations, as indicated by the header \"Jobs nearby.\"",
+        "sentence_cn": "这些图钉可能代表工作地点，如标题“附近的工作”所示。",
+        "words": [
+            "Jobs nearby.",
+            "pins",
+            "job",
+            "locations",
+            "header",
+            "Jobs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key features include:",
+        "sentence_cn": "主要特点包括：",
+        "words": [
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A top navigation bar with \"LIST\" and \"MAP\" options, with \"MAP\" currently selected.",
+        "sentence_cn": "- 顶部导航栏带有“列表”和“地图”选项，当前选择的是“地图”。",
+        "words": [
+            "LIST",
+            "MAP",
+            "MAP",
+            "navigation",
+            "bar",
+            "LIST",
+            "MAP",
+            "options",
+            "MAP"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Search and filter icons are present on the top right, suggesting features for refining searches or viewing options.",
+        "sentence_cn": "- 右上角有搜索和过滤图标，建议优化搜索或查看选项的功能。",
+        "words": [
+            "Search",
+            "filter",
+            "icons",
+            "right",
+            "features",
+            "searches",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The map itself shows various cities and landmarks such as San Francisco, Mill Valley, Richmond, and Walnut Creek.",
+        "sentence_cn": "- 地图本身显示了各种城市和地标，例如旧金山、米尔谷、里士满和核桃溪。",
+        "words": [
+            "map",
+            "cities",
+            "landmarks",
+            "San",
+            "Francisco",
+            "Mill",
+            "Valley",
+            "Richmond",
+            "Walnut",
+            "Creek"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A prominent blue circle on the map indicates a specific radius around a central point, likely representing a search radius for jobs.",
+        "sentence_cn": "- 地图上显眼的蓝色圆圈表示以中心点为中心的特定半径，可能代表工作搜索半径。",
+        "words": [
+            "circle",
+            "map",
+            "radius",
+            "point",
+            "search",
+            "radius",
+            "jobs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The phone's status bar at the top displays standard icons including Wi-Fi, battery, and time (11:30).",
+        "sentence_cn": "- 手机顶部的状态栏显示标准图标，包括 Wi-Fi、电池和时间（11:30）。",
+        "words": [
+            "phone",
+            "status",
+            "bar",
+            "top",
+            "icons",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "time",
+            "11:30"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the map, there is a small Google logo, indicating the use of Google Maps API.",
+        "sentence_cn": "地图下方有一个小小的Google标志，表示使用了Google Maps API。",
+        "words": [
+            "map",
+            "logo",
+            "use"
+        ],
+        "id": null
+    }
+]

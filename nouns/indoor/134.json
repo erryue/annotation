@@ -1,0 +1,248 @@
+[
+    {
+        "sentence": "The image depicts a modern, minimalist interior space with a focus on clean lines and a neutral color palette.",
+        "sentence_cn": "该图描绘了一个现代简约的室内空间，重点是简洁的线条和中性色调。",
+        "words": [
+            "interior",
+            "space",
+            "focus",
+            "lines",
+            "color",
+            "palette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Living Area:",
+        "sentence_cn": "1. 生活区：",
+        "words": [
+            "Living Area",
+            "Living",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A light-colored sofa with cushions is placed in the foreground.",
+        "sentence_cn": "- 前景中放置了一张浅色沙发和靠垫。",
+        "words": [
+            "sofa",
+            "cushions",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A mint green blanket is draped over it.",
+        "sentence_cn": "上面盖着一条薄荷绿色的毯子。",
+        "words": [
+            "mint",
+            "blanket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is a low, rectangular coffee table featuring a light wood finish and a minimalist design.",
+        "sentence_cn": "- 有一张低矮的矩形咖啡桌，采用浅色木质饰面和简约的设计。",
+        "words": [
+            "coffee",
+            "table",
+            "wood",
+            "finish",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A textured rug with a subtle linear pattern covers the floor in front of the sofa.",
+        "sentence_cn": "- 沙发前的地板上铺着一块带有精致线性图案的纹理地毯。",
+        "words": [
+            "rug",
+            "pattern",
+            "floor",
+            "front",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Entertainment and Decor:",
+        "sentence_cn": "2. 娱乐和装饰：",
+        "words": [
+            "Entertainment and Decor",
+            "Entertainment",
+            "Decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - To the left, a small television on the floor displays an image of a sunset.",
+        "sentence_cn": "- 左边的地板上有一台小电视正在播放日落的图像。",
+        "words": [
+            "left",
+            "television",
+            "floor",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A framed black and white artwork hangs on the wall.",
+        "sentence_cn": "- 墙上挂着一幅黑白相间的艺术品。",
+        "words": [
+            "artwork",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Staircase:",
+        "sentence_cn": "3. 楼梯：",
+        "words": [
+            "Staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A wooden staircase with open risers is situated centrally.",
+        "sentence_cn": "- 中央设有带开放式立管的木制楼梯。",
+        "words": [
+            "staircase",
+            "risers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It presents a floating effect with metal or glass railing.",
+        "sentence_cn": "它通过金属或玻璃栏杆呈现出一种漂浮的效果。",
+        "words": [
+            "effect",
+            "metal",
+            "glass",
+            "railing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The stairs lead to an upper level, emphasizing the use of space.",
+        "sentence_cn": "- 楼梯通向上层，强调空间的利用。",
+        "words": [
+            "stairs",
+            "level",
+            "use",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Walls and Lighting:",
+        "sentence_cn": "4. 墙壁和照明：",
+        "words": [
+            "Walls and Lighting",
+            "Walls",
+            "Lighting",
+            "",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The walls are painted in calm, neutral tones, enhancing the modern aesthetic.",
+        "sentence_cn": "- 墙壁漆成平静、中性的色调，增强了现代美感。",
+        "words": [
+            "walls",
+            "tones",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Recessed ceiling lights illuminate the area, creating a warm and inviting atmosphere.",
+        "sentence_cn": "- 嵌入式天花板灯照亮整个区域，营造出温暖而温馨的氛围。",
+        "words": [
+            "ceiling",
+            "lights",
+            "area",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Additional Features:",
+        "sentence_cn": "5.附加功能：",
+        "words": [
+            "Additional Features",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In the background, there is a kitchen or a dining area visible through an open section.",
+        "sentence_cn": "- 在背景中，可以通过开放区域看到厨房或用餐区。",
+        "words": [
+            "background",
+            "kitchen",
+            "dining",
+            "area",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bottles can be seen lined up neatly beneath the stairs, adding an artistic element.",
+        "sentence_cn": "- 可以看到楼梯下整齐排列的瓶子，增添了艺术元素。",
+        "words": [
+            "Bottles",
+            "stairs",
+            "element"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Unique, minimalist stools or side tables in various shapes and colors are placed to the right.",
+        "sentence_cn": "- 右侧摆放着各种形状和颜色的独特、简约的凳子或边桌。",
+        "words": [
+            "stools",
+            "tables",
+            "shapes",
+            "colors",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design emphasizes openness and functionality while maintaining a contemporary look.",
+        "sentence_cn": "该设计强调开放性和功能性，同时保持现代外观。",
+        "words": [
+            "design",
+            "openness",
+            "functionality",
+            "look"
+        ],
+        "id": null
+    }
+]

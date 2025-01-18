@@ -1,0 +1,274 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"National Boss Day,\" which is observed on October 16th each year.",
+        "sentence_cn": "该图是一张信息图表，标题为“国家老板日”，每年的 10 月 16 日是这一天。",
+        "words": [
+            "National Boss Day,",
+            "16th",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes several sections with facts and statistics about bosses.",
+        "sentence_cn": "它包括几个有关老板的事实和统计数据的部分。",
+        "words": [
+            "sections",
+            "facts",
+            "statistics",
+            "bosses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Introduction and Gift Suggestion:",
+        "sentence_cn": "1. 介绍及送礼建议：",
+        "words": [
+            "Introduction and Gift Suggestion",
+            "Introduction",
+            "Gift",
+            "Suggestion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Suggests that you may deserve a Boss Day gift.",
+        "sentence_cn": "- 暗示你可能值得得到一份老板节礼物。",
+        "words": [
+            "gift"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - States that 1 in 5 full-time workers have some level of managerial responsibility.",
+        "sentence_cn": "- 指出五分之一的全职工作者拥有一定程度的管理责任。",
+        "words": [
+            "1",
+            "5",
+            "time",
+            "workers",
+            "level",
+            "responsibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Job Satisfaction:",
+        "sentence_cn": "2. 工作满意度：",
+        "words": [
+            "Job Satisfaction",
+            "Job",
+            "Satisfaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Highlights that surveys confirm a positive relationship between a supervisor and an employee is vital for job satisfaction.",
+        "sentence_cn": "- 强调调查证实，主管和员工之间的积极关系对于工作满意度至关重要。",
+        "words": [
+            "Highlights",
+            "surveys",
+            "relationship",
+            "supervisor",
+            "employee",
+            "job",
+            "satisfaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. History of National Boss Day:",
+        "sentence_cn": "3. 国家Boss日的历史：",
+        "words": [
+            "History of National Boss Day",
+            "History"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Began on October 16, 1958, started by Patricia Haroski in honor of her father¡¯s birthday.",
+        "sentence_cn": "- 于 1958 年 10 月 16 日由 Patricia Haroski 为庆祝她父亲的生日而发起。",
+        "words": [
+            "16",
+            "1958",
+            "honor",
+            "birthday"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Employee Preferences:",
+        "sentence_cn": "4. 员工偏好：",
+        "words": [
+            "Employee Preferences",
+            "Employee",
+            "Preferences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 23% want their bosses to be both Visionaries and Democratic.",
+        "sentence_cn": "- 23% 的人希望他们的老板既有远见又有民主精神。",
+        "words": [
+            "23",
+            "bosses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 74% agree that a good boss rolls up their sleeves to help get the job done.",
+        "sentence_cn": "",
+        "words": [
+            "74",
+            "boss",
+            "sleeves",
+            "job"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 78% feel confident their bosses would fight on their behalf if their jobs were on the line.",
+        "sentence_cn": "- 78% 的人相信，如果他们的工作受到威胁，他们的老板会为他们争取利益。",
+        "words": [
+            "78",
+            "bosses",
+            "behalf",
+            "jobs",
+            "line"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Men are 76% more likely to have male bosses.",
+        "sentence_cn": "- 男性拥有男性老板的可能性高出 76％。",
+        "words": [
+            "Men",
+            "76",
+            "bosses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Women are 52% more likely to have female bosses.",
+        "sentence_cn": "- 女性拥有女性老板的可能性高出 52％。",
+        "words": [
+            "Women",
+            "52",
+            "bosses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Bosses with Children:",
+        "sentence_cn": "5. 有孩子的老板：",
+        "words": [
+            "Bosses with Children",
+            "Bosses",
+            "Children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 58% of bosses with children at home feel less stressed than those without.",
+        "sentence_cn": "- 58% 家里有孩子的老板比没有孩子的老板感觉压力更小。",
+        "words": [
+            "58",
+            "bosses",
+            "children",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Younger Managers:",
+        "sentence_cn": "6. 年轻的经理：",
+        "words": [
+            "Younger Managers",
+            "Managers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 1 in 3 workers have a younger manager.",
+        "sentence_cn": "- 三分之一的员工拥有一位更年轻的经理。",
+        "words": [
+            "1",
+            "3",
+            "workers",
+            "manager"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 34% claim their boss is younger, and 15% report their boss is at least 10 years younger.",
+        "sentence_cn": "- 34% 的人表示他们的老板比别人年轻，15% 的人表示他们的老板比别人年轻至少 10 岁。",
+        "words": [
+            "34",
+            "boss",
+            "15",
+            "%",
+            "boss",
+            "10",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Good Boss vs. Bad Boss:",
+        "sentence_cn": "7. 好老板与坏老板：",
+        "words": [
+            "Good Boss vs. Bad Boss"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Good Boss: Motivates employees, deals with problems, is empathetic, and puts others first.",
+        "sentence_cn": "- 好老板：激励员工，处理问题，富有同情心，把别人放在第一位。",
+        "words": [
+            "employees",
+            "problems",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bad Boss: Provides little direction, is micro-managing, gives no recognition, and is indecisive.",
+        "sentence_cn": "- 坏老板：很少提供指导，事无巨细，不给予认可，优柔寡断。",
+        "words": [
+            "direction",
+            "recognition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Conclusion:",
+        "sentence_cn": "8.结论：",
+        "words": [
+            "Conclusion",
+            "Conclusion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Encourages appreciation for bosses with a \"Thanks!\"",
+        "sentence_cn": "- 鼓励员工对老板说“谢谢！”",
+        "words": [
+            "Thanks!",
+            "appreciation",
+            "bosses",
+            "Thanks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is visually engaging, using icons, charts, and a cohesive color scheme.",
+        "sentence_cn": "该信息图使用图标、图表和一致的配色方案，具有视觉吸引力。",
+        "words": [
+            "icons",
+            "charts",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    }
+]

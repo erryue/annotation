@@ -1,0 +1,129 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage titled \"Father of the Blog.\"",
+        "sentence_cn": "该图是“博客之父”网页的截图。",
+        "words": [
+            "Father of the Blog.",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the page features a banner with the blog title, illustrated with cartoon figures of a family.",
+        "sentence_cn": "页面顶部有一个带有博客标题的横幅，上面绘有家庭卡通人物的插图。",
+        "words": [
+            "top",
+            "page",
+            "banner",
+            "blog",
+            "title",
+            "cartoon",
+            "figures",
+            "family"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, the article headline is \"CHILDREN'S HOSPITAL EMERGENCY SERVICES VISIT,\" written in bold brownish-red text.",
+        "sentence_cn": "横幅下方的文章标题是“儿童医院紧急服务访问”，以粗体棕红色文字书写。",
+        "words": [
+            "CHILDREN'S HOSPITAL EMERGENCY SERVICES VISIT,",
+            "banner",
+            "article",
+            "headline",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The article is written by Aaron Crall and dated August 31st, 2012.",
+        "sentence_cn": "本文由 Aaron Crall 撰写，日期为 2012 年 8 月 31 日。",
+        "words": [
+            "article",
+            "31st",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The opening paragraph discusses Cinco de Mayo, a Super Moon, and an ER visit.",
+        "sentence_cn": "开头段落讨论了五月五日节、超级月亮和急诊室就诊。",
+        "words": [
+            "paragraph",
+            "visit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The author humorously talks about his recent discovery of the term \"SuperMoon,\" explaining it as the moon appearing closest to Earth.",
+        "sentence_cn": "作者幽默地谈到了他最近发现的“超级月亮”一词，将其解释为距离地球最近的月亮。",
+        "words": [
+            "SuperMoon,",
+            "author",
+            "discovery",
+            "term",
+            "SuperMoon",
+            "moon",
+            "Earth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He recounts planning a family night to watch the moon, which didn¡¯t go as planned.",
+        "sentence_cn": "他回忆说，他曾计划与家人一起看月亮，但结果并没有按计划进行。",
+        "words": [
+            "family",
+            "night",
+            "moon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the page, there are several colorful advertisements or featured links for products and other blogs, including \"the divine miss mommy,\" \"The Land of Nod,\" \"Stuffed Animals,\" and \"baby earth.\"",
+        "sentence_cn": "在页面的右侧，有几个丰富多彩的广告或产品和其他博客的特色链接，包括“神圣的妈妈小姐”、“诺德之地”、“毛绒动物”和“婴儿地球”。",
+        "words": [
+            "the divine miss mommy,",
+            "The Land of Nod,",
+            "Stuffed Animals,",
+            "baby earth.",
+            "page",
+            "advertisements",
+            "links",
+            "products",
+            "blogs",
+            "miss",
+            "mommy",
+            "baby",
+            "earth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background of the page outside the content appears to be striped with various colors.",
+        "sentence_cn": "内容之外的页面背景呈现出各种颜色的条纹。",
+        "words": [
+            "background",
+            "page",
+            "content",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page includes navigation links at the top for \"Home,\" \"About,\" and \"Site Map.\"",
+        "sentence_cn": "该页面顶部包含“主页”、“关于”和“站点地图”的导航链接。",
+        "words": [
+            "Home,",
+            "About,",
+            "Site Map.",
+            "page",
+            "navigation",
+            "links",
+            "top",
+            "Home",
+            "About",
+            "Site"
+        ],
+        "id": null
+    }
+]

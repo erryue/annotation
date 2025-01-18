@@ -1,0 +1,245 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile app interface, likely for a train service.",
+        "sentence_cn": "该图片看起来是一张移动应用程序界面的截图，可能用于火车服务。",
+        "words": [
+            "app",
+            "interface",
+            "train",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Bar: Features a red background with icons resembling notification, signal strength, and battery indicators, along with the time displayed as 11:30.",
+        "sentence_cn": "1. 顶部栏：背景为红色，带有类似通知、信号强度和电池指示器的图标，时间显示为 11:30。",
+        "words": [
+            "Top Bar",
+            "Top",
+            "Bar",
+            "background",
+            "icons",
+            "notification",
+            "signal",
+            "strength",
+            "battery",
+            "indicators",
+            "time",
+            "11:30"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Title: Reads \"Connections\" in white text on a red background.",
+        "sentence_cn": "2. 标题：红色背景上用白色文字写着“连接”。",
+        "words": [
+            "Title",
+            "Connections",
+            "Title",
+            "Connections",
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a symbol on the right that may represent a train logo.",
+        "sentence_cn": "右边有一个符号可能代表火车标志。",
+        "words": [
+            "symbol",
+            "right",
+            "train",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. From Section: Displays \"From Luzern\", indicating the departure point for the train search.",
+        "sentence_cn": "3. 出发区段：显示“从卢塞恩出发”，表示火车搜索的出发地。",
+        "words": [
+            "From Section",
+            "From Luzern",
+            "Section",
+            "Luzern",
+            "departure",
+            "point",
+            "train",
+            "search"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Interface Elements:",
+        "sentence_cn": "4. 界面元素：",
+        "words": [
+            "Interface Elements",
+            "Interface",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Icon on the right side looks like a refresh or sync button.",
+        "sentence_cn": "- 右侧的图标看起来像刷新或同步按钮。",
+        "words": [
+            "Icon",
+            "refresh",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A percentage symbol in a circle overlays a part of the app, likely highlighting a feature related to discounts or offers.",
+        "sentence_cn": "- 圆圈内的百分比符号覆盖了应用程序的一部分，可能突出显示与折扣或优惠相关的功能。",
+        "words": [
+            "percentage",
+            "symbol",
+            "circle",
+            "part",
+            "app",
+            "feature",
+            "discounts",
+            "offers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Connection Details:",
+        "sentence_cn": "5. 连接详情：",
+        "words": [
+            "Connection Details",
+            "Connection",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows a connection going in the \"Direction Gen¨¨ve-A¨¦roport\" with timing and platform details.",
+        "sentence_cn": "- 显示“日内瓦-机场方向”的连接以及时间和平台详情。",
+        "words": [
+            "Direction Gen¨¨ve-A¨¦roport",
+            "connection",
+            "timing",
+            "platform",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays another connection \"Direction Olten\".",
+        "sentence_cn": "- 显示另一个连接“奥尔滕方向”。",
+        "words": [
+            "Direction Olten",
+            "connection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Supersaver Ticket Information:",
+        "sentence_cn": "6. 超级优惠票信息：",
+        "words": [
+            "Supersaver Ticket Information",
+            "Supersaver",
+            "Ticket",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text below the app screenshot reads: \"Overview of supersaver tickets\", in red bold font.",
+        "sentence_cn": "- 应用程序截图下方的文字为：“超级优惠票概览”，以红色粗体字体显示。",
+        "words": [
+            "Overview of supersaver tickets",
+            "Text",
+            "app",
+            "Overview",
+            "supersaver",
+            "tickets",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Additional text explains, \"For departures at least one hour after search time, a percent sign shows available supersaver tickets.\"",
+        "sentence_cn": "- 附加文字解释道，“对于搜索时间后至少一小时出发的航班，百分号表示有可用的超级优惠票。”",
+        "words": [
+            "For departures at least one hour after search time, a percent sign shows available supersaver tickets.",
+            "text",
+            "departures",
+            "one",
+            "hour",
+            "search",
+            "time",
+            "percent",
+            "sign",
+            "supersaver",
+            "tickets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Buttons",
+        "sentence_cn": "7. 按钮",
+        "words": [
+            "Buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - A large red \"Continue\" button below the explanatory text.",
+        "sentence_cn": "- 说明文字下方有一个大的红色“继续”按钮。",
+        "words": [
+            "Continue",
+            "button",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A \"Skip tutorial\" option, allowing users to bypass further instructions.",
+        "sentence_cn": "- “跳过教程”选项，允许用户绕过进一步的说明。",
+        "words": [
+            "Skip tutorial",
+            "tutorial",
+            "option",
+            "users",
+            "instructions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Progress Indicator: A series of circles near the top suggests it's part of a multi-step tutorial or guide.",
+        "sentence_cn": "8. 进度指示器：顶部附近的一系列圆圈表示它是多步骤教程或指南的一部分。",
+        "words": [
+            "Progress Indicator",
+            "Progress",
+            "Indicator",
+            "series",
+            "circles",
+            "top",
+            "part",
+            "tutorial",
+            "guide"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is clean, with a focus on user navigation and displaying key train connections.",
+        "sentence_cn": "整体设计简洁，注重用户导航并显示主要的火车连接。",
+        "words": [
+            "design",
+            "focus",
+            "user",
+            "navigation",
+            "train",
+            "connections"
+        ],
+        "id": null
+    }
+]

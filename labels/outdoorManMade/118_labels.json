@@ -1,0 +1,90 @@
+[
+    {
+        "id": "187c6551-410f-4dbe-b3fe-962b14c16610",
+        "confidence": 0.9162,
+        "class": "bus",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 279.9888,
+                        "minY": 561.81946,
+                        "maxX": 883.55255,
+                        "maxY": 871.76593
+                    },
+                    "x": 279.9888,
+                    "y": 561.81946,
+                    "w": 603.56375,
+                    "h": 309.94647
+                }
+            }
+        }
+    },
+    {
+        "id": "3b171b0d-9060-4aaa-b6e2-d3ac622aa0df",
+        "confidence": 0.85326,
+        "class": "bus",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 951.7337,
+                        "minY": 615.3869,
+                        "maxX": 1281.27637,
+                        "maxY": 842.11749
+                    },
+                    "x": 951.7337,
+                    "y": 615.3869,
+                    "w": 329.54267000000004,
+                    "h": 226.73059
+                }
+            }
+        }
+    },
+    {
+        "id": "3cc4d02a-b381-4a52-9c4d-5260a278a0b1",
+        "confidence": 0.82838,
+        "class": "bicycle",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 111.21456,
+                        "minY": 783.2359,
+                        "maxX": 264.74503,
+                        "maxY": 907.51465
+                    },
+                    "x": 111.21456,
+                    "y": 783.2359,
+                    "w": 153.53046999999998,
+                    "h": 124.27874999999995
+                }
+            }
+        }
+    },
+    {
+        "id": "4d74772f-c312-47f4-90a2-28669230cabc",
+        "confidence": 0.8106,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.0,
+                        "minY": 751.27679,
+                        "maxX": 175.45377,
+                        "maxY": 881.84235
+                    },
+                    "x": 0.0,
+                    "y": 751.27679,
+                    "w": 175.45377,
+                    "h": 130.56556
+                }
+            }
+        }
+    }
+]

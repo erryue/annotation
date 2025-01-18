@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image depicts a maritime scene at a harbor.",
+        "sentence_cn": "该图描绘的是港口的海上场景。",
+        "words": [
+            "scene",
+            "harbor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a large, light blue cargo or research ship moored at a dock.",
+        "sentence_cn": "前景中，有一艘大型的浅蓝色货船或研究船停泊在码头。",
+        "words": [
+            "foreground",
+            "cargo",
+            "research",
+            "ship",
+            "dock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ship has a prominent bow and is equipped with various antennas and communication devices on its deck.",
+        "sentence_cn": "该船船头突出，甲板上配备有各种天线和通讯设备。",
+        "words": [
+            "ship",
+            "bow",
+            "antennas",
+            "communication",
+            "devices",
+            "deck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An orange lifeboat is visible on the side of the ship, along with other equipment.",
+        "sentence_cn": "船侧有一艘橙色救生艇和其他设备。",
+        "words": [
+            "lifeboat",
+            "ship",
+            "equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a smaller yellow vessel with a crane, which appears to be designed for utility or maintenance purposes.",
+        "sentence_cn": "背景中，有一艘较小的黄色船只，上面装有起重机，看起来是为实用或维护目的而设计的。",
+        "words": [
+            "background",
+            "vessel",
+            "crane",
+            "utility",
+            "maintenance",
+            "purposes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This vessel is situated at a nearby docking area, possibly positioned for loading or unloading operations.",
+        "sentence_cn": "该船位于附近的泊位区域，可能正在进行装卸作业。",
+        "words": [
+            "vessel",
+            "docking",
+            "area",
+            "loading",
+            "unloading",
+            "operations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water in the harbor is calm, reflecting the blue sky above.",
+        "sentence_cn": "港口的水面平静，倒映着蔚蓝的天空。",
+        "words": [
+            "water",
+            "harbor",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Buildings and some greenery are visible beyond the docks, suggesting a coastal or port area.",
+        "sentence_cn": "码头外可以看到建筑物和一些绿色植物，表明这里是沿海地区或港口地区。",
+        "words": [
+            "Buildings",
+            "greenery",
+            "docks",
+            "port",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is serene, with clear weather and no immediate activity visible on the ships.",
+        "sentence_cn": "总体气氛平静，天气晴朗，船上没有任何活动。",
+        "words": [
+            "atmosphere",
+            "weather",
+            "activity",
+            "ships"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A few seagulls can be seen flying above the water, adding to the coastal ambiance.",
+        "sentence_cn": "可以看到几只海鸥在水面上飞翔，增添了沿海氛围。",
+        "words": [
+            "seagulls",
+            "water",
+            "ambiance"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "id": "558fa8be-35b3-446b-a244-dbee97b7deba",
+        "confidence": 0.8916,
+        "class": "knife",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.0,
+                        "minY": 407.17023,
+                        "maxX": 311.48157,
+                        "maxY": 600.0
+                    },
+                    "x": 0.0,
+                    "y": 407.17023,
+                    "w": 311.48157,
+                    "h": 192.82977
+                }
+            }
+        }
+    },
+    {
+        "id": "85e1ae97-d665-45cc-b190-4353971cd108",
+        "confidence": 0.8647,
+        "class": "cup",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 114.24248,
+                        "minY": 49.88907,
+                        "maxX": 466.32132,
+                        "maxY": 465.76605
+                    },
+                    "x": 114.24248,
+                    "y": 49.88907,
+                    "w": 352.07884,
+                    "h": 415.87698
+                }
+            }
+        }
+    },
+    {
+        "id": "88b2cad7-1afe-4272-add0-258393179c8c",
+        "confidence": 0.81998,
+        "class": "apple",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 520.89056,
+                        "minY": 257.70493,
+                        "maxX": 787.56354,
+                        "maxY": 532.65845
+                    },
+                    "x": 520.89056,
+                    "y": 257.70493,
+                    "w": 266.67297999999994,
+                    "h": 274.95352
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image shows an elegant game room featuring a sophisticated pool table with an intricately carved wooden frame and legs.",
+        "sentence_cn": "图片展示了一个优雅的游戏室，其中有一张精致的台球桌，其框架和桌腿均有精雕细琢的木制图案。",
+        "words": [
+            "game",
+            "room",
+            "pool",
+            "table",
+            "frame",
+            "legs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table has a rich maroon felt surface, with a cue stick and scattered billiard balls on top.",
+        "sentence_cn": "桌子表面铺着深栗色的毛毡，上面放着一根球杆和散落的台球。",
+        "words": [
+            "table",
+            "maroon",
+            "felt",
+            "surface",
+            "cue",
+            "stick",
+            "billiard",
+            "balls",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is carpeted in a neutral tone, complementing the warm yellowish walls.",
+        "sentence_cn": "地板上铺着中性色调的地毯，与暖黄色的墙壁相得益彰。",
+        "words": [
+            "flooring",
+            "tone",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall, there are two vibrant abstract paintings, each in a dark, ornate frame, adding a touch of artistic flair to the room.",
+        "sentence_cn": "墙上挂着两幅色彩鲜明的抽象画，每幅都镶着深色华丽的画框，给房间增添了一丝艺术气息。",
+        "words": [
+            "wall",
+            "two",
+            "paintings",
+            "frame",
+            "touch",
+            "flair",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, a small television is mounted on the wall, currently turned on.",
+        "sentence_cn": "角落里，墙上安装着一台小电视，正开着。",
+        "words": [
+            "corner",
+            "television",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large potted plant on the left side introduces a natural element to the space, while an open doorway on the right glimpses into another room, enhancing the openness and inviting atmosphere of the setting.",
+        "sentence_cn": "左侧的大型盆栽为空间带来了自然元素，右侧的敞开式门口则可看到另一个房间，增强了环境的开放性和温馨感。",
+        "words": [
+            "plant",
+            "element",
+            "space",
+            "doorway",
+            "right",
+            "room",
+            "openness",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is provided by recessed ceiling lights, offering a soft and cozy ambiance.",
+        "sentence_cn": "照明由嵌入式天花板灯提供，营造出柔和舒适的氛围。",
+        "words": [
+            "lighting",
+            "ceiling",
+            "lights",
+            "ambiance"
+        ],
+        "id": null
+    }
+]

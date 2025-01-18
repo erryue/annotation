@@ -1,0 +1,24 @@
+[
+    {
+        "id": "5b3a6316-0d7a-4531-883a-0b6f3ab0ed24",
+        "confidence": 0.84269,
+        "class": "bed",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.0,
+                        "minY": 264.26086,
+                        "maxX": 296.2179,
+                        "maxY": 422.90775
+                    },
+                    "x": 0.0,
+                    "y": 264.26086,
+                    "w": 296.2179,
+                    "h": 158.64689000000004
+                }
+            }
+        }
+    }
+]

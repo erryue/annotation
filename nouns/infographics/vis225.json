@@ -1,0 +1,253 @@
+[
+    {
+        "sentence": "The infographic titled \"UV and Your Eyes\" highlights the importance and impact of UV exposure on eye health.",
+        "sentence_cn": "题为“紫外线与您的眼睛”的信息图强调了紫外线照射对眼睛健康的重要性和影响。",
+        "words": [
+            "UV and Your Eyes",
+            "UV",
+            "Eyes",
+            "importance",
+            "impact",
+            "UV",
+            "exposure",
+            "eye",
+            "health"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Title and Introduction:",
+        "sentence_cn": "1. 标题与简介：",
+        "words": [
+            "Title and Introduction:",
+            "Title",
+            "Introduction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The main title is \"UV and Your Eyes.\"",
+        "sentence_cn": "- 主标题是“紫外线和你的眼睛”。",
+        "words": [
+            "UV and Your Eyes.",
+            "title",
+            "Eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A subtitle states, \"It's What You Can't See that Matters Most.\"",
+        "sentence_cn": "- 副标题为“你看不到的才是最重要的。”",
+        "words": [
+            "It's What You Can't See that Matters Most.",
+            "subtitle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Central Image:",
+        "sentence_cn": "2. 中心图像：",
+        "words": [
+            "Central Image:",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is an image of an eye with arrows indicating the entry of UV rays, illustrating how eyes are exposed to UV.",
+        "sentence_cn": "- 有一张眼睛的图像，其中箭头表示紫外线的进入，说明眼睛如何暴露在紫外线下。",
+        "words": [
+            "eye",
+            "arrows",
+            "entry",
+            "UV",
+            "rays",
+            "eyes",
+            "UV"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Key Points:",
+        "sentence_cn": "3. 要点：",
+        "words": [
+            "Key Points:",
+            "Points"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - UV Damage: Damage to the eyes from UV exposure is cumulative and often irreversible.",
+        "sentence_cn": "- 紫外线伤害：紫外线对眼睛的伤害是累积的，而且往往是不可逆的。",
+        "words": [
+            "UV Damage:",
+            "UV",
+            "Damage",
+            "Damage",
+            "eyes",
+            "UV",
+            "exposure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exposure: Eyes are the only internal tissue directly exposed to UV.",
+        "sentence_cn": "- 暴露：眼睛是唯一直接暴露于紫外线的内部组织。",
+        "words": [
+            "Exposure:",
+            "Exposure",
+            "Eyes",
+            "tissue",
+            "UV"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Public Awareness: 94% of people are unaware that UV exposure is harmful to their eyes.",
+        "sentence_cn": "- 公众意识：94% 的人没有意识到紫外线照射会损害他们的眼睛。",
+        "words": [
+            "Public Awareness:",
+            "Awareness",
+            "94",
+            "people",
+            "UV",
+            "exposure",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Exposure Insights:",
+        "sentence_cn": "4. 曝光洞察：",
+        "words": [
+            "Exposure Insights:",
+            "Exposure",
+            "Insights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 365 Days a Year: Your eyes are exposed to UV year-round.",
+        "sentence_cn": "- 一年 365 天：您的眼睛全年都会暴露在紫外线下。",
+        "words": [
+            "365 Days a Year:",
+            "365",
+            "Days",
+            "Year",
+            "eyes",
+            "UV",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Indirect Exposure: 40% of UV exposure occurs when not in full sunlight.",
+        "sentence_cn": "- 间接暴露：40% 的紫外线暴露发生在非阳光直射的情况下。",
+        "words": [
+            "Indirect Exposure:",
+            "Exposure",
+            "40",
+            "UV",
+            "exposure",
+            "sunlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Health Information:",
+        "sentence_cn": "5. 健康信息：",
+        "words": [
+            "Health Information:",
+            "Health",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Skin Cancer: 5-10% of skin cancer cases occur on the eyelids.",
+        "sentence_cn": "- 皮肤癌：5-10% 的皮肤癌病例发生在眼睑上。",
+        "words": [
+            "Skin Cancer:",
+            "Skin",
+            "Cancer",
+            "5",
+            "10",
+            "skin",
+            "cancer",
+            "cases",
+            "eyelids"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cataracts: More than 22 million Americans aged 40 and older are affected by cataracts.",
+        "sentence_cn": "- 白内障：超过 2200 万 40 岁及以上的美国人患有白内障。",
+        "words": [
+            "Cataracts:",
+            "Cataracts",
+            "22",
+            "million",
+            "40",
+            "cataracts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Premature Aging: 90% of visible premature aging around the eyes is due to UV damage.",
+        "sentence_cn": "- 过早衰老：90% 的眼睛周围可见的过早衰老是由于紫外线伤害造成的。",
+        "words": [
+            "Premature Aging:",
+            "Aging",
+            "90",
+            "aging",
+            "eyes",
+            "UV",
+            "damage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Prevention:",
+        "sentence_cn": "6.预防：",
+        "words": [
+            "Prevention:",
+            "Prevention"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Protective Eyewear: Wearing UV protective glasses, even with clear lenses, can help delay cataract onset.",
+        "sentence_cn": "- 防护眼镜：佩戴紫外线防护眼镜，即使是透明镜片，也可以帮助延缓白内障的发作。",
+        "words": [
+            "Protective Eyewear:",
+            "Eyewear",
+            "UV",
+            "glasses",
+            "lenses",
+            "cataract",
+            "onset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Further Information:",
+        "sentence_cn": "7. 更多信息：",
+        "words": [
+            "Further Information:",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A call to action for more information is provided with a website link: ESPF.com.",
+        "sentence_cn": "- 呼吁采取行动获取更多信息，请访问网站链接：ESPF.com。",
+        "words": [
+            "call",
+            "action",
+            "information",
+            "website",
+            "link"
+        ],
+        "id": null
+    }
+]

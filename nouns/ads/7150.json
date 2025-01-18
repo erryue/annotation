@@ -1,0 +1,178 @@
+[
+    {
+        "sentence": "The image is an advertisement for Ward B. Snyder, promoting baseball goods.",
+        "sentence_cn": "该图片是沃德·B·斯奈德 (Ward B. Snyder) 推销棒球商品的广告。",
+        "words": [
+            "baseball",
+            "goods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes a heading that reads, \"WARD B. SNYDER, HEADQUARTERS FOR Baseball Goods.\"",
+        "sentence_cn": "邮件标题为“沃德·B·斯奈德，棒球商品总部”。",
+        "words": [
+            "WARD B. SNYDER, HEADQUARTERS FOR Baseball Goods.",
+            "heading"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text mentions various baseball-related products available for purchase:",
+        "sentence_cn": "文中提到了可供购买的各种棒球相关产品：",
+        "words": [
+            "text",
+            "baseball",
+            "products",
+            "purchase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Fancy Baseball Caps: Available for $6 per dozen, with samples by mail for a postage cost of 60 cents.",
+        "sentence_cn": "- 花式棒球帽：每打售价 6 美元，邮寄样品需花费 60 美分。",
+        "words": [
+            "Fancy Baseball Caps:",
+            "Baseball",
+            "Caps",
+            "6",
+            "dozen",
+            "samples",
+            "mail",
+            "postage",
+            "cost",
+            "60",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Fancy Web Belts: Priced at $4 per dozen, with samples by mail for a postage cost of 40 cents.",
+        "sentence_cn": "- 花式织带腰带：每打售价 4 美元，邮寄样品的邮费为 40 美分。",
+        "words": [
+            "Fancy Web Belts:",
+            "Web",
+            "Belts",
+            "4",
+            "dozen",
+            "samples",
+            "mail",
+            "postage",
+            "cost",
+            "40",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Fine Shirts: Ranging from $2.50 to $3.25 each, featuring shield and initial letters.",
+        "sentence_cn": "- 精美衬衫：每件价格从 2.50 美元到 3.25 美元不等，带有盾牌和首字母。",
+        "words": [
+            "Fine Shirts:",
+            "Shirts",
+            "2.50",
+            "3.25",
+            "shield",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Baseball Bats: Best assorted regulation for $2.50 per dozen.",
+        "sentence_cn": "- 棒球棒：最佳组合规格为每打 2.50 美元。",
+        "words": [
+            "Baseball Bats:",
+            "Baseball",
+            "Bats",
+            "regulation",
+            "2.50",
+            "dozen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dead Balls: Price for red or white is $3 per dozen, with a reduced price for practice dead balls at $1.50 each.",
+        "sentence_cn": "- 死球：红色或白色死球的价格为每打 3 美元，练习用死球的价格为每个 1.50 美元。",
+        "words": [
+            "Dead Balls:",
+            "Balls",
+            "Price",
+            "3",
+            "dozen",
+            "price",
+            "practice",
+            "balls",
+            "1.50"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Baseball Rules for 1876: Available by mail for 10 cents.",
+        "sentence_cn": "- 1876 年棒球规则：可通过邮寄获得，价格为 10 美分。",
+        "words": [
+            "Baseball Rules for 1876:",
+            "1876",
+            "mail",
+            "10",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional items such as prize goods, shoes, stockings, bases, etc. are offered.",
+        "sentence_cn": "还提供奖品、鞋子、长袜、底座等额外物品。",
+        "words": [
+            "items",
+            "prize",
+            "goods",
+            "shoes",
+            "stockings",
+            "bases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a note advising not to order uniforms before receiving the new catalog, which contains a full illustrated directory of baseball items.",
+        "sentence_cn": "有一条说明建议在收到新目录之前不要订购制服，新目录包含棒球物品的完整插图目录。",
+        "words": [
+            "note",
+            "uniforms",
+            "catalog",
+            "directory",
+            "baseball",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement emphasizes \"ALL THE NEW STYLES FOR 1876 AT LOW PRICES\" and provides contact information, listing the address as \"84 Fulton Street, N.Y.\"",
+        "sentence_cn": "广告强调“1876 年所有新款均低价出售”，并提供了联系信息，地址为“纽约富尔顿街 84 号”。",
+        "words": [
+            "ALL THE NEW STYLES FOR 1876 AT LOW PRICES",
+            "84 Fulton Street, N.Y.",
+            "STYLES",
+            "1876",
+            "PRICES",
+            "contact",
+            "information",
+            "address",
+            "84",
+            "N.Y."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An illustration of a well-dressed man, wearing a cap and holding a baseball bat, is included to the right of the text.",
+        "sentence_cn": "文本右侧有一幅插图，画中一名衣着考究、头戴帽子、手握棒球棒的男子。",
+        "words": [
+            "illustration",
+            "man",
+            "cap",
+            "baseball",
+            "bat",
+            "right",
+            "text"
+        ],
+        "id": null
+    }
+]

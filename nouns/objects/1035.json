@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image shows a cozy table setting with a dessert, a beverage, and a few personal items.",
+        "sentence_cn": "图片展示了舒适的餐桌布置，上面摆放着甜点、饮料和一些个人物品。",
+        "words": [
+            "table",
+            "dessert",
+            "beverage",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wooden table, there is a slice of cake on a white plate.",
+        "sentence_cn": "木桌上，白色盘子上放着一块蛋糕。",
+        "words": [
+            "table",
+            "slice",
+            "cake",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cake appears to have layers and is topped with a crumbly texture, possibly including nuts.",
+        "sentence_cn": "蛋糕看起来有层，顶部有易碎的质地，可能有坚果。",
+        "words": [
+            "cake",
+            "layers",
+            "texture",
+            "nuts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the cake, strawberries are garnished with a dusting of powdered sugar and decorated with artistic chocolate sauce patterns.",
+        "sentence_cn": "蛋糕旁边的草莓上撒了糖粉，并用艺术巧克力酱图案装饰。",
+        "words": [
+            "cake",
+            "strawberries",
+            "dusting",
+            "sugar",
+            "chocolate",
+            "sauce",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the dessert, there is a large white cup filled with a hot beverage, likely coffee or cappuccino, as indicated by the frothy surface.",
+        "sentence_cn": "甜点旁边有一个大的白色杯子，里面盛满了热饮，从泡沫表面可以看出，可能是咖啡或卡布奇诺。",
+        "words": [
+            "dessert",
+            "cup",
+            "beverage",
+            "coffee",
+            "cappuccino",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cup sits on a saucer which has a small packet, possibly sugar or sweetener, resting on it.",
+        "sentence_cn": "杯子放在碟子上，碟子上放着一小包，可能是糖或甜味剂。",
+        "words": [
+            "cup",
+            "saucer",
+            "packet",
+            "sugar",
+            "sweetener"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A mobile phone with a physical keypad is placed on the right of the plate, suggesting a classic or older model design.",
+        "sentence_cn": "车牌右侧放置了带有实体键盘的手机，暗示着经典或较老的型号设计。",
+        "words": [
+            "phone",
+            "keypad",
+            "right",
+            "plate",
+            "model",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A pair of sunglasses and what appears to be a black item, possibly gloves or a hat, are near the top of the image, adding a personal touch to the scene.",
+        "sentence_cn": "一副太阳镜和一件看似黑色的物品（可能是手套或帽子）位于图像的顶部附近，为场景增添了个人风格。",
+        "words": [
+            "pair",
+            "sunglasses",
+            "item",
+            "gloves",
+            "hat",
+            "top",
+            "touch",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fork, knife, and napkin are also visible, suggesting preparation for eating.",
+        "sentence_cn": "还可以看到叉子、刀子和餐巾，表明准备吃饭。",
+        "words": [
+            "fork",
+            "knife",
+            "napkin",
+            "preparation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setting conveys a relaxed and inviting atmosphere, possibly in a caf¨¦.",
+        "sentence_cn": "总体而言，这里的环境传达出一种轻松而温馨的氛围，就像在咖啡馆一样。",
+        "words": [
+            "atmosphere",
+            "caf¨"
+        ],
+        "id": null
+    }
+]

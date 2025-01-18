@@ -1,0 +1,156 @@
+[
+    {
+        "sentence": "The image shows a group of seven young adults posing together indoors, likely in a gymnasium.",
+        "sentence_cn": "照片中，七名年轻人在室内（可能是在体育馆里）合影。",
+        "words": [
+            "group",
+            "seven",
+            "adults",
+            "gymnasium"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are smiling and appear to be enjoying themselves.",
+        "sentence_cn": "他们面带微笑，看上去很开心。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "From left to right:",
+        "sentence_cn": "从左到右：",
+        "words": [
+            "left",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A person in a navy t-shirt with yellow graphics and khaki shorts.",
+        "sentence_cn": "1. 身穿带有黄色图案的海军蓝 T 恤和卡其色短裤的人。",
+        "words": [
+            "person",
+            "t",
+            "shirt",
+            "graphics",
+            "khaki",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A person in a dark navy uniform with the number 4, likely a volleyball player, with long hair.",
+        "sentence_cn": "2. 一名身穿深色海军蓝制服（号码为 4）的人，可能是一名排球运动员，留着长发。",
+        "words": [
+            "person",
+            "navy",
+            "uniform",
+            "number",
+            "4",
+            "volleyball",
+            "player",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A person in a grey graphic t-shirt and sports shorts.",
+        "sentence_cn": "3. 身穿灰色图案 T 恤和运动短裤的人。",
+        "words": [
+            "person",
+            "t",
+            "-",
+            "shirt",
+            "sports",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A person in a dark navy uniform also with the number 4, possibly a volleyball player.",
+        "sentence_cn": "4. 一名身穿深蓝色制服的人，制服上也带有数字 4，可能是一名排球运动员。",
+        "words": [
+            "person",
+            "navy",
+            "uniform",
+            "number",
+            "4",
+            "volleyball",
+            "player"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. A person in a yellow t-shirt with a graphic design, wearing khaki shorts.",
+        "sentence_cn": "5. 一名身穿带有图案的黄色 T 恤、下穿卡其色短裤的人。",
+        "words": [
+            "person",
+            "t",
+            "shirt",
+            "design",
+            "khaki",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. A person with long hair in a red shirt with white lettering, possibly layered over a white top.",
+        "sentence_cn": "6. 一个长发男人，身穿带有白色字母的红色衬衫，可能还穿着白色上衣。",
+        "words": [
+            "person",
+            "hair",
+            "shirt",
+            "lettering",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. A person in a blue t-shirt with white and blue graphics, wearing khaki shorts.",
+        "sentence_cn": "7. 一名身穿带有白蓝图案的蓝色 T 恤和卡其色短裤的人。",
+        "words": [
+            "person",
+            "t",
+            "shirt",
+            "graphics",
+            "khaki",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have their arms around each other, in front of an empty set of tiered bleachers.",
+        "sentence_cn": "他们在空荡荡的分层看台前互相拥抱着。",
+        "words": [
+            "arms",
+            "front",
+            "set",
+            "bleachers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background includes part of a brick wall, and there's a person standing alone in the bleachers at the top left corner.",
+        "sentence_cn": "背景包括部分砖墙，左上角的看台上独自站着一个人。",
+        "words": [
+            "background",
+            "part",
+            "brick",
+            "wall",
+            "person",
+            "bleachers",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor appears to be a wooden gym floor.",
+        "sentence_cn": "地板看起来像是木质的健身房地板。",
+        "words": [
+            "floor",
+            "gym",
+            "floor"
+        ],
+        "id": null
+    }
+]

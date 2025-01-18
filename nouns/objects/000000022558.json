@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "The image depicts a domestic scene with a wooden table in the foreground.",
+        "sentence_cn": "该图描绘的是一幅家庭场景，前景有一张木桌。",
+        "words": [
+            "scene",
+            "table",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there is a green vase containing tall, thin branches with dried yellow leaves.",
+        "sentence_cn": "桌子上，放着一个绿色的花瓶，里面插着又高又细的树枝，树枝上还插着干枯发黄的叶子。",
+        "words": [
+            "table",
+            "vase",
+            "branches",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the vase, there is a small red and brown candle with visible smoke rising from it, suggesting it was recently extinguished.",
+        "sentence_cn": "花瓶旁边有一支红棕色的小蜡烛，上面明显冒出烟雾，表明它最近刚被熄灭。",
+        "words": [
+            "vase",
+            "candle",
+            "smoke"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a window with closed white blinds.",
+        "sentence_cn": "背景是一扇关闭着白色百叶窗的窗户。",
+        "words": [
+            "background",
+            "window",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted a pale green color, adding a warm tone to the overall composition.",
+        "sentence_cn": "墙壁漆成淡绿色，为整体构图增添了温暖的色调。",
+        "words": [
+            "walls",
+            "color",
+            "tone",
+            "composition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting appears to be indoor, casting a soft glow over the table and objects.",
+        "sentence_cn": "灯光似乎是在室内，在桌子和物体上投射出柔和的光芒。",
+        "words": [
+            "lighting",
+            "glow",
+            "table",
+            "objects"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image depicts a spacious and well-lit lounge area, likely in a hotel or resort setting.",
+        "sentence_cn": "图片描绘的是一个宽敞、光线充足的休息区，很可能位于酒店或度假村内。",
+        "words": [
+            "lounge",
+            "area",
+            "hotel",
+            "resort"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features polished tiled floors and large floor-to-ceiling windows, allowing ample natural light to fill the space.",
+        "sentence_cn": "房间设有抛光瓷砖地板和大型落地窗，充足的自然光充满整个空间。",
+        "words": [
+            "room",
+            "floors",
+            "floor",
+            "ceiling",
+            "windows",
+            "light",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The windows offer a view of an outdoor area, possibly a pool surrounded by umbrellas.",
+        "sentence_cn": "从窗户可以看到室外的景色，可能是被遮阳伞环绕的游泳池。",
+        "words": [
+            "windows",
+            "view",
+            "area",
+            "pool",
+            "umbrellas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The furniture in the lounge includes wicker-style armchairs, sofas, and tables.",
+        "sentence_cn": "休息室的家具包括柳条式扶手椅、沙发和桌子。",
+        "words": [
+            "furniture",
+            "lounge",
+            "wicker",
+            "style",
+            "armchairs",
+            "sofas",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The armchairs have a lattice design and are fitted with cushions that have bold green and white stripes.",
+        "sentence_cn": "扶手椅采用格子设计，配有带有醒目的绿色和白色条纹的靠垫。",
+        "words": [
+            "armchairs",
+            "lattice",
+            "design",
+            "cushions",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Similarly, the sofas are cushioned with fabric featuring wide stripes in green and white or shades of red and beige.",
+        "sentence_cn": "同样地，沙发上铺有绿色和白色或红色和米色宽条纹的织物。",
+        "words": [
+            "sofas",
+            "fabric",
+            "stripes",
+            "green",
+            "white",
+            "shades",
+            "red",
+            "beige"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A glass-topped coffee table is centrally positioned among the seating, complementing the wicker furniture style.",
+        "sentence_cn": "玻璃面咖啡桌位于座位中央，与柳条家具风格相得益彰。",
+        "words": [
+            "glass",
+            "coffee",
+            "table",
+            "seating",
+            "wicker",
+            "furniture",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Decorative elements include large potted plants and flower arrangements strategically placed throughout the room, contributing to a fresh and inviting ambiance.",
+        "sentence_cn": "装饰元素包括房间各处策略性摆放的大型盆栽和花卉布置，营造出清新诱人的氛围。",
+        "words": [
+            "elements",
+            "plants",
+            "flower",
+            "arrangements",
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls and ceiling are painted in neutral tones, with several tall columns adding to the architectural aesthetic of the space.",
+        "sentence_cn": "墙壁和天花板都漆成中性色调，几根高大的柱子增添了空间的建筑美感。",
+        "words": [
+            "walls",
+            "ceiling",
+            "tones",
+            "columns",
+            "aesthetic",
+            "space"
+        ],
+        "id": null
+    }
+]

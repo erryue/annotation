@@ -1,0 +1,166 @@
+[
+    {
+        "sentence": "The image is a collage of five advertisements for Adobe products and services.",
+        "sentence_cn": "该图片是五则 Adob​​e 产品和服务广告的拼贴画。",
+        "words": [
+            "collage",
+            "five",
+            "advertisements",
+            "products",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Left: An advertisement with a scenic rocky coastline and the text \"TAKE IT. MAKE IT.\"",
+        "sentence_cn": "1. 左上角：一则广告，上面有风景秀丽的岩石海岸线，还有文字“抓住机会，创造奇迹”。",
+        "words": [
+            "Top Left",
+            "TAKE IT. MAKE IT.",
+            "coastline",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It promotes the Adobe Creative Cloud Photography plan for USD 9.99 per month, featuring a \"Join now\" button.",
+        "sentence_cn": "它推广 Adob​​e Creative Cloud 摄影计划，价格为每月 9.99 美元，并带有“立即加入”按钮。",
+        "words": [
+            "Join now",
+            "plan",
+            "9.99",
+            "month",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top Right: A bright image of a person with colorful hair and sunglasses.",
+        "sentence_cn": "2. 右上：一张明亮的图像，图像中的人物有着五颜六色的头发，戴着太阳镜。",
+        "words": [
+            "Top Right",
+            "Top",
+            "Right",
+            "person",
+            "hair",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text offers \"10 FREE ADOBE STOCK IMAGES\" and encourages you to \"Start now.\"",
+        "sentence_cn": "文中提供“10 张免费 ADOBE 库存图片”，并鼓励您“立即开始”。",
+        "words": [
+            "10 FREE ADOBE STOCK IMAGES",
+            "Start now.",
+            "text",
+            "10",
+            "STOCK",
+            "IMAGES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Center Left: An abstract image of a body covered in colorful paint.",
+        "sentence_cn": "3. 左中：一幅被五彩缤纷的油漆覆盖的身体抽象图像。",
+        "words": [
+            "Center Left",
+            "body",
+            "paint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It offers \"10 FREE ADOBE STOCK IMAGES\" and mentions that the offer ends on November 30, with a \"Get started\" link.",
+        "sentence_cn": "它提供“10 张免费 ADOBE 图片”，并提到优惠将于 11 月 30 日结束，并附有“开始”链接。",
+        "words": [
+            "10 FREE ADOBE STOCK IMAGES",
+            "Get started",
+            "10",
+            "STOCK",
+            "IMAGES",
+            "offer",
+            "30",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Left: Displays a landscape with a vibrant red tree.",
+        "sentence_cn": "4. 左下：显示一片拥有鲜红树木的风景。",
+        "words": [
+            "Bottom Left",
+            "landscape",
+            "tree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It promotes the Adobe Creative Cloud's \"entire collection of apps & services\" starting at USD 49.99 per month with a \"Join now\" button.",
+        "sentence_cn": "它宣传 Adob​​e Creative Cloud 的“整个应用程序和服务集合”，起价为每月 49.99 美元，并带有“立即加入”按钮。",
+        "words": [
+            "entire collection of apps & services",
+            "Join now",
+            "collection",
+            "apps",
+            "services",
+            "49.99",
+            "month",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Bottom Right: Features another view of the rocky coastline, similar to the top left, with the text \"TAKE IT.",
+        "sentence_cn": "5. 右下：展示的是岩石海岸线的另一个景观，与左上角类似，并附有文字“拿去吧。",
+        "words": [
+            "Bottom Right",
+            "Right",
+            "view",
+            "coastline",
+            "left",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "MAKE IT.",
+        "sentence_cn": "做到了。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "\"",
+        "sentence_cn": "“",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Promotes the Adobe Creative Cloud Photography plan with Lightroom and Photoshop for USD 9.99 per month and includes a \"Join now\" button.",
+        "sentence_cn": "推广包含 Lightroom 和 Photoshop 的 Adob​​e Creative Cloud 摄影计划，每月收费 9.99 美元，并包含“立即加入”按钮。",
+        "words": [
+            "Join now",
+            "plan",
+            "9.99",
+            "month",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "All images prominently display the Adobe logo in the top left corner.",
+        "sentence_cn": "所有图像的左上角均突出显示 Adob​​e 徽标。",
+        "words": [
+            "images",
+            "logo",
+            "corner"
+        ],
+        "id": null
+    }
+]

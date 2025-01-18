@@ -1,0 +1,159 @@
+[
+    {
+        "sentence": "The image shows a section of a work desk with several items placed on it:",
+        "sentence_cn": "该图显示了办公桌的一部分，上面放置了一些物品：",
+        "words": [
+            "section",
+            "work",
+            "desk",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Tissue Box: On the left, there is a silver tissue box with a white tissue partially pulled out.",
+        "sentence_cn": "1. 纸巾盒：左边是一个银色的纸巾盒，里面有一张部分拉出的白色纸巾。",
+        "words": [
+            "Tissue Box",
+            "Tissue",
+            "tissue",
+            "box",
+            "tissue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Cream-Colored Bag: Partially visible on the far left edge.",
+        "sentence_cn": "2. 奶油色的袋子：最左边部分可见。",
+        "words": [
+            "Cream-Colored Bag",
+            "Cream",
+            "Bag",
+            "edge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Small Tray and Utensil: At the foreground, there's a yellow tray with a wrapped item (possibly a cheese) and a small fork on it.",
+        "sentence_cn": "3. 小托盘和餐具：在前景中，有一个黄色托盘，上面放着一个包装好的物品（可能是奶酪）和一把小叉子。",
+        "words": [
+            "Small Tray and Utensil",
+            "Tray",
+            "Utensil",
+            "foreground",
+            "tray",
+            "item",
+            "cheese",
+            "fork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Stacked Containers:",
+        "sentence_cn": "4. 堆叠的容器：",
+        "words": [
+            "Stacked Containers",
+            "Containers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the tray, there are two yellow containers stacked on top of each other.",
+        "sentence_cn": "托盘旁边有两个黄色容器叠放在一起。",
+        "words": [
+            "tray",
+            "two",
+            "containers",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top one has a label that mentions ¡°1,000 mg vitamin C¡± with a picture of fruit, and a couple of cherry-flavored candy pieces are placed on it.",
+        "sentence_cn": "最上面的标签上写着“1,000 毫克维生素 C”，旁边还有一张水果图片，上面还放了几块樱桃味的糖果。",
+        "words": [
+            "one",
+            "label",
+            "¡",
+            "°",
+            "1,000",
+            "mg",
+            "vitamin",
+            "picture",
+            "fruit",
+            "couple",
+            "cherry",
+            "candy",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. White Mug: A mug with the logo ¡°one egg¡± printed in orange is holding several writing utensils, including pens, yellow highlighters, scissors, and a long orange ruler.",
+        "sentence_cn": "5. 白色马克杯：马克杯上用橙色印着“一个鸡蛋”的标志，里面装着几件书写用具，包括钢笔、黄色荧光笔、剪刀和一把橙色的长尺。",
+        "words": [
+            "White Mug",
+            "mug",
+            "logo",
+            "one",
+            "orange",
+            "writing",
+            "utensils",
+            "pens",
+            "highlighters",
+            "scissors",
+            "orange",
+            "ruler"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Lemonade Cup: On the right, there is a large plastic cup with a green lid and a straw, decorated with images of lemons and the word ¡°LEMONADE¡± printed repeatedly.",
+        "sentence_cn": "6. 柠檬水杯：右边是一个大塑料杯，配有绿色盖子和吸管，上面装饰有柠檬的图像，并反复印有“LEMONADE”字样。",
+        "words": [
+            "Lemonade Cup",
+            "right",
+            "cup",
+            "lid",
+            "straw",
+            "images",
+            "lemons",
+            "word"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Computer Monitor: Partially visible on the extreme right, with two yellow sticky notes.",
+        "sentence_cn": "7. 电脑显示器：最右侧部分可见，有两张黄色便签。",
+        "words": [
+            "Computer Monitor",
+            "Computer",
+            "Monitor",
+            "right",
+            "two",
+            "notes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One has some handwritten text on it.",
+        "sentence_cn": "其中一个上面有一些手写的文字。",
+        "words": [
+            "One",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk and objects suggest a casual workspace setup, potentially in an office environment.",
+        "sentence_cn": "桌子和物品暗示了一种随意的工作空间设置，可能在办公室环境中。",
+        "words": [
+            "desk",
+            "objects",
+            "workspace",
+            "office",
+            "environment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image is an advertisement featuring a basketball player wearing a Chicago jersey.",
+        "sentence_cn": "图片是一则广告，主角是一名身穿芝加哥球衣的篮球运动员。",
+        "words": [
+            "basketball",
+            "player",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is holding a basketball and stands in front of two oversized basketball shoes.",
+        "sentence_cn": "他手里拿着一个篮球，站在两只超大号的篮球鞋前。",
+        "words": [
+            "basketball",
+            "front",
+            "two",
+            "basketball",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the image reads:",
+        "sentence_cn": "图片上的文字如下：",
+        "words": [
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"youngest mvp ever\"",
+        "sentence_cn": "- “史上最年轻的 MVP”",
+        "words": [
+            "youngest mvp ever",
+            "mvp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"adizero crazy light ¨C lightest ever 9.8oz\"",
+        "sentence_cn": "- “adizero crazy light — 史上最轻，9.8 盎司”",
+        "words": [
+            "adizero crazy light ¨C lightest ever 9.8oz",
+            "9.8",
+            "oz"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main text are two logos: the Adidas logo and the word \"adizero.\"",
+        "sentence_cn": "正文下方是两个标志：阿迪达斯标志和“adizero”字样。",
+        "words": [
+            "adizero.",
+            "text",
+            "two",
+            "logos",
+            "logo",
+            "word"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is dark, with the player and shoes highlighted to emphasize the product.",
+        "sentence_cn": "整体配色为深色，突出球员和鞋子以强调产品。",
+        "words": [
+            "color",
+            "scheme",
+            "player",
+            "shoes",
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The shoes have a black and red design, with white stripes.",
+        "sentence_cn": "该款鞋采用黑红配色，带有白色条纹。",
+        "words": [
+            "shoes",
+            "design",
+            "stripes"
+        ],
+        "id": null
+    }
+]

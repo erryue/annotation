@@ -1,0 +1,119 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Sealtest Ice Cream featuring four different frozen treats:",
+        "sentence_cn": "该图片是 Sealtest 冰淇淋的复古广告，其中有四种不同的冷冻食品：",
+        "words": [
+            "vintage",
+            "four",
+            "treats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Sealtest Ice Cream Bars Multi-Pak: A classic ice cream bar with a chocolate coating.",
+        "sentence_cn": "1. Sealtest 冰淇淋棒多包装：带有巧克力涂层的经典冰淇淋棒。",
+        "words": [
+            "Sealtest Ice Cream Bars Multi-Pak",
+            "",
+            "ice",
+            "cream",
+            "bar",
+            "chocolate",
+            "coating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Sealtest Ice Cream Cones Multi-Pak: A cone with vanilla ice cream topped with nuts and a chocolate shell.",
+        "sentence_cn": "2. Sealtest 冰淇淋甜筒多件装：甜筒内装有香草冰淇淋，顶部撒有坚果，外壳为巧克力。",
+        "words": [
+            "Sealtest Ice Cream Cones Multi-Pak",
+            "cone",
+            "vanilla",
+            "ice",
+            "cream",
+            "nuts",
+            "chocolate",
+            "shell"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Sealtest Toffee Krunch Bars Multi-Pak: An ice cream bar with a chocolate coating and pieces of toffee embedded in it.",
+        "sentence_cn": "3. Sealtest Toffee Krunch Bars Multi-Pak：一种表面裹有巧克力、内含太妃糖的冰淇淋。",
+        "words": [
+            "Sealtest Toffee Krunch Bars Multi-Pak",
+            "Multi",
+            "-",
+            "",
+            "ice",
+            "cream",
+            "bar",
+            "chocolate",
+            "coating",
+            "pieces",
+            "toffee"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Sealtest Ice Cream Sandwiches Multi-Pak: A traditional ice cream sandwich with chocolate cookie layers.",
+        "sentence_cn": "4. Sealtest 冰淇淋三明治多件装：带有巧克力饼干层的传统冰淇淋三明治。",
+        "words": [
+            "Sealtest Ice Cream Sandwiches Multi-Pak",
+            "ice",
+            "cream",
+            "sandwich",
+            "chocolate",
+            "cookie",
+            "layers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a bright orange, and beneath the images of the treats, there is a promotional offer: \"Buy any three, and send for one free!\"",
+        "sentence_cn": "背景是明亮的橙色，在零食图片下方，有一个促销优惠：“买三送一！”",
+        "words": [
+            "Buy any three, and send for one free!",
+            "background",
+            "orange",
+            "images",
+            "treats",
+            "offer",
+            "three",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad includes an illustration of a character named \"Mr. Cool\" who advertises the ice cream as being nutritious and delicious.",
+        "sentence_cn": "广告中有一个名为“酷先生”的人物插图，宣传这种冰淇淋营养丰富、味道鲜美。",
+        "words": [
+            "Mr. Cool",
+            "ad",
+            "illustration",
+            "character",
+            "ice",
+            "cream"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a section to fill out for participating in the offer.",
+        "sentence_cn": "还有一个部分需要填写以参与此优惠。",
+        "words": [
+            "section",
+            "offer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Sealtest Ice Cream logo is prominently featured at the bottom.",
+        "sentence_cn": "Sealtest 冰淇淋标志位于底部的显著位置。",
+        "words": [
+            "logo",
+            "bottom"
+        ],
+        "id": null
+    }
+]

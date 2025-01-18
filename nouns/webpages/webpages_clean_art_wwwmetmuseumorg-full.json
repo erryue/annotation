@@ -1,0 +1,229 @@
+[
+    {
+        "sentence": "The image is a webpage from The Metropolitan Museum of Art's website.",
+        "sentence_cn": "该图片是来自大都会艺术博物馆网站的网页。",
+        "words": [
+            "webpage",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Upper Section:",
+        "sentence_cn": "### 上部：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header:",
+        "sentence_cn": "-标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Contains the museum's name and logo on the left side.",
+        "sentence_cn": "- 左侧包含博物馆的名称和标志。",
+        "words": [
+            "museum",
+            "name",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Navigation menu includes links to ¡°Visit,¡± ¡°Exhibitions,¡± ¡°Collection,¡± ¡°Events,¡± ¡°Learn,¡± ¡°Research,¡± ¡°Give and Join,¡± ¡°About the Museum,¡± ¡°Blogs,¡± and ¡°Shop.¡±",
+        "sentence_cn": "- 导航菜单包括“参观”、“展览”、“收藏”、“活动”、“学习”、“研究”、“捐赠和加入”、“关于博物馆”、“博客”和“商店”的链接。",
+        "words": [
+            "Navigation",
+            "menu",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Options for \"MYMET Sign in / Register\" and a search bar are on the right.",
+        "sentence_cn": "- 右侧有“MYMET 登录/注册”选项和搜索栏。",
+        "words": [
+            "MYMET Sign in / Register",
+            "Options",
+            "search",
+            "bar",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Image:",
+        "sentence_cn": "- 主图：",
+        "words": [
+            "Main Image",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Features an artwork with a person painting another person.",
+        "sentence_cn": "- 展示一幅由一个人在画另一个人的作品。",
+        "words": [
+            "artwork",
+            "person",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Text on the image promotes the exhibition \"Sargent: Portraits of Artists and Friends,\" running through October 4, 2015, with member morning hours provided.",
+        "sentence_cn": "- 图片上的文字宣传“萨金特：艺术家和朋友的肖像”展览，该展览将持续到 2015 年 10 月 4 日，并为会员提供上午时间。",
+        "words": [
+            "Sargent: Portraits of Artists and Friends,",
+            "Text",
+            "exhibition",
+            "4",
+            "2015",
+            "member",
+            "morning",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Middle Section:",
+        "sentence_cn": "### 中间部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visit Section:",
+        "sentence_cn": "- 访问部分：",
+        "words": [
+            "Visit Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Details visiting hours (open 7 days a week), today's hours for the Main Building and The Cloisters, and admission information.",
+        "sentence_cn": "- 详细参观时间（每周 7 天开放）、主楼和修道院的今日开放时间以及入场信息。",
+        "words": [
+            "Details",
+            "visiting",
+            "hours",
+            "7",
+            "days",
+            "week",
+            "today",
+            "hours",
+            "admission",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A button labeled \"Buy Tickets Now.\"",
+        "sentence_cn": "- 标有“立即购买门票”的按钮。",
+        "words": [
+            "Buy Tickets Now.",
+            "button",
+            "Tickets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Digital Feature:",
+        "sentence_cn": "- 数字特征：",
+        "words": [
+            "Digital Feature",
+            "Feature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Promotes ¡°The Artist Project¡± with an image and the name Pat Steir associated with a piece called \"Kongo Power Figure.\"",
+        "sentence_cn": "- 使用与名为“Kongo Power Figure”的作品相关的图像和 Pat Steir 的名字来宣传“艺术家项目”。",
+        "words": [
+            "Kongo Power Figure.",
+            "name",
+            "piece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Includes a link to watch now.",
+        "sentence_cn": "- 包含立即观看的链接。",
+        "words": [
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- #MetKids:",
+        "sentence_cn": "-#MetKids：",
+        "words": [
+            "#MetKids"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Section introduces a digital feature designed for kids, with a prompt to \"Get a sneak peek.\"",
+        "sentence_cn": "- 本部分介绍了专为儿童设计的数字功能，并提示“先睹为快”。",
+        "words": [
+            "Get a sneak peek.",
+            "Section",
+            "feature",
+            "kids",
+            "prompt",
+            "sneak",
+            "peek"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Design:",
+        "sentence_cn": "＃＃＃ 设计：",
+        "words": [
+            "Design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The overall design is clean and organized, with a grey background, and black and white text.",
+        "sentence_cn": "- 整体设计简洁有序，采用灰色背景和黑白文字。",
+        "words": [
+            "design",
+            "background",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout prioritizes easy navigation and access to information about the museum and its exhibitions.",
+        "sentence_cn": "该布局优先考虑了轻松导航和获取有关博物馆及其展览的信息。",
+        "words": [
+            "layout",
+            "navigation",
+            "access",
+            "information",
+            "museum",
+            "exhibitions"
+        ],
+        "id": null
+    }
+]

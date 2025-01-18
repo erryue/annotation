@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image displays a collection of Burt's Bees skincare products arranged on a light-colored surface.",
+        "sentence_cn": "图片展示了 Burt's Bees 护肤产品的集合，排列在浅色表面上。",
+        "words": [
+            "collection",
+            "skincare",
+            "products",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The products include:",
+        "sentence_cn": "产品包括：",
+        "words": [
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Peppermint Foot Lotion: A tall tube with a yellow background and a picture of peppermint on the label.",
+        "sentence_cn": "1. 薄荷足部乳液：一根高管，背景为黄色，标签上有薄荷的图片。",
+        "words": [
+            "Peppermint Foot Lotion",
+            "Peppermint",
+            "Foot",
+            "Lotion",
+            "tube",
+            "background",
+            "picture",
+            "peppermint",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Hand Salve: A round, yellow tin featuring an illustration of a bearded man, labeled \"a farmer's friend.\"",
+        "sentence_cn": "2. 护手霜：一个圆形的黄色罐子，上面画着一个留着胡子的男人，标签上写着“农民的朋友”。",
+        "words": [
+            "Hand Salve",
+            "a farmer's friend.",
+            "Hand",
+            "tin",
+            "illustration",
+            "man",
+            "farmer",
+            "friend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Hand Sanitizer: A small spray bottle labeled \"Aloe & Witch Hazel.\"",
+        "sentence_cn": "3. 洗手液：一个标有“芦荟和金缕梅”的小喷雾瓶。",
+        "words": [
+            "Hand Sanitizer",
+            "Aloe & Witch Hazel.",
+            "Hand",
+            "Sanitizer",
+            "spray",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Hand Soap: A pump bottle labeled \"Naturally Nourishing Milk & Shea Butter.\"",
+        "sentence_cn": "4. 洗手液：标有“天然滋养牛奶和乳木果油”的泵瓶。",
+        "words": [
+            "Hand Soap",
+            "Naturally Nourishing Milk & Shea Butter.",
+            "Hand",
+            "Soap",
+            "pump",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Lemon Butter Cuticle Creme: A small round tin with an open lid showing the product inside.",
+        "sentence_cn": "5. 柠檬黄油角质层霜：一个小圆形罐，盖子打开，可以看到里面的产品。",
+        "words": [
+            "Lemon Butter Cuticle Creme",
+            "tin",
+            "lid",
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Almond Milk Beeswax Hand Creme: A glass jar with an open lid.",
+        "sentence_cn": "6. 杏仁奶蜂蜡护手霜：一个带开口盖子的玻璃罐。",
+        "words": [
+            "Almond Milk Beeswax Hand Creme",
+            "Almond",
+            "Beeswax",
+            "Hand",
+            "",
+            "glass",
+            "jar",
+            "lid"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a small ceramic bowl with a green cream, a lemon wedge, and some almonds placed next to it.",
+        "sentence_cn": "前景中有一个小陶瓷碗，旁边放着绿色奶油、柠檬角和一些杏仁。",
+        "words": [
+            "foreground",
+            "bowl",
+            "cream",
+            "lemon",
+            "wedge",
+            "almonds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall presentation highlights natural and nourishing aspects of the products.",
+        "sentence_cn": "整体展示突出产品的天然、滋养特色。",
+        "words": [
+            "presentation",
+            "aspects",
+            "products"
+        ],
+        "id": null
+    }
+]

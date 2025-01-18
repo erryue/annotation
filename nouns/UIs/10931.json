@@ -1,0 +1,149 @@
+[
+    {
+        "sentence": "The image is a screenshot from the WFIE weather app, displaying a weather video section.",
+        "sentence_cn": "该图片是 WFIE 天气应用程序的屏幕截图，显示的是天气视频部分。",
+        "words": [
+            "weather",
+            "app",
+            "weather",
+            "video",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a header with the WFIE logo and the text \"14 WFIE.\"",
+        "sentence_cn": "顶部有一个带有 WFIE 徽标和文字“14 WFIE”的标题。",
+        "words": [
+            "14 WFIE.",
+            "top",
+            "header",
+            "logo",
+            "text",
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cloud icon indicates the current temperature as 38¡ãF.",
+        "sentence_cn": "云状图标表示当前温度为 38°F。",
+        "words": [
+            "cloud",
+            "icon",
+            "temperature",
+            "38¡ãF."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is an image of a weather forecast, featuring a meteorologist gesturing at a map.",
+        "sentence_cn": "标题下方是一张天气预报的图片，其中有一位气象学家指着地图。",
+        "words": [
+            "header",
+            "weather",
+            "forecast",
+            "meteorologist",
+            "map"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The map shows the forecast for Monday at 1:00 PM, with areas of precipitation marked in green and yellow.",
+        "sentence_cn": "地图显示了周一下午 1:00 的天气预报，降水区域以绿色和黄色标记。",
+        "words": [
+            "map",
+            "forecast",
+            "1:00",
+            "PM",
+            "areas",
+            "precipitation",
+            "green",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title underneath reads \"Slight risk for severe weather on Monday,\" dated March 26, 2017, at 10:44 PM.",
+        "sentence_cn": "下面的标题写着“周一有轻微恶劣天气风险”，日期为2017年3月26日晚上10点44分。",
+        "words": [
+            "Slight risk for severe weather on Monday,",
+            "title",
+            "risk",
+            "weather",
+            "26",
+            "2017",
+            "10:44",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main video, there are several other weather video options with titles and timestamps:",
+        "sentence_cn": "在主视频下方，还有其他几个带有标题和时间戳的天气视频选项：",
+        "words": [
+            "video",
+            "weather",
+            "video",
+            "options",
+            "titles",
+            "timestamps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Active weather begins next week\" dated March 25, 2017, at 10:38 PM.",
+        "sentence_cn": "- “下周开始活跃天气”，日期：2017 年 3 月 25 日晚上 10 点 38 分。",
+        "words": [
+            "Active weather begins next week",
+            "weather",
+            "week",
+            "25",
+            "2017",
+            "10:38",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Scattered showers and a mild weekend\" dated March 25, 2017, at 8:15 PM.",
+        "sentence_cn": "- “零星阵雨，周末气候温和”，2017 年 3 月 25 日晚上 8 点 15 分。",
+        "words": [
+            "Scattered showers and a mild weekend",
+            "showers",
+            "weekend",
+            "25",
+            "2017",
+            "8:15",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Chance for storms this weekend\" dated March 24, 2017, at 10:32 PM.",
+        "sentence_cn": "- “本周末可能有暴风雨”，日期：2017 年 3 月 24 日晚上 10:32。",
+        "words": [
+            "Chance for storms this weekend",
+            "Chance",
+            "storms",
+            "weekend",
+            "24",
+            "2017",
+            "10:32",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is an ad for \"Teaneck Flowers & Gifts\" with a red button labeled \"CLICK HERE FOR MORE INFO.\"",
+        "sentence_cn": "在底部，有一则“Teaneck Flowers & Gifts”的广告，上面有一个红色按钮，上面写着“单击此处获取更多信息”。",
+        "words": [
+            "Teaneck Flowers & Gifts",
+            "CLICK HERE FOR MORE INFO.",
+            "bottom",
+            "ad",
+            "button",
+            "INFO"
+        ],
+        "id": null
+    }
+]

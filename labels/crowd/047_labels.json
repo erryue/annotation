@@ -1,0 +1,68 @@
+[
+    {
+        "id": "2460bbee-b966-4882-9fec-d24b819edca4",
+        "confidence": 0.90912,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1050.84412,
+                        "minY": 485.03162,
+                        "maxX": 1326.42371,
+                        "maxY": 1075.01306
+                    },
+                    "x": 1050.84412,
+                    "y": 485.03162,
+                    "w": 275.57959000000005,
+                    "h": 589.98144
+                }
+            }
+        }
+    },
+    {
+        "id": "3bd0e091-bd87-4207-99d8-d2702d139a43",
+        "confidence": 0.90881,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 775.57239,
+                        "minY": 446.56259,
+                        "maxX": 994.57153,
+                        "maxY": 993.07489
+                    },
+                    "x": 775.57239,
+                    "y": 446.56259,
+                    "w": 218.99914,
+                    "h": 546.5123
+                }
+            }
+        }
+    },
+    {
+        "id": "62c16dda-3911-4a28-8421-47d5190f240c",
+        "confidence": 0.81781,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1339.12268,
+                        "minY": 433.78885,
+                        "maxX": 1455.42163,
+                        "maxY": 1075.92468
+                    },
+                    "x": 1339.12268,
+                    "y": 433.78885,
+                    "w": 116.2989500000001,
+                    "h": 642.13583
+                }
+            }
+        }
+    }
+]

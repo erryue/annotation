@@ -1,0 +1,46 @@
+[
+    {
+        "id": "d3cae26b-8252-4e31-b42d-1191ca74a4eb",
+        "confidence": 0.9488,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 41.14495,
+                        "minY": 269.65659,
+                        "maxX": 298.3688,
+                        "maxY": 538.63934
+                    },
+                    "x": 41.14495,
+                    "y": 269.65659,
+                    "w": 257.22385,
+                    "h": 268.98274999999995
+                }
+            }
+        }
+    },
+    {
+        "id": "d95682ee-4b3d-479c-b485-5b6882047c5e",
+        "confidence": 0.91305,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 338.76666,
+                        "minY": 252.6282,
+                        "maxX": 563.82385,
+                        "maxY": 580.28229
+                    },
+                    "x": 338.76666,
+                    "y": 252.6282,
+                    "w": 225.05719,
+                    "h": 327.65409
+                }
+            }
+        }
+    }
+]

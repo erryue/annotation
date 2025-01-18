@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Ghost.\"",
+        "sentence_cn": "图片是《人鬼情未了》的电影海报。",
+        "words": [
+            "Ghost.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a stylized, ethereal, and intimate image of two people, seemingly embracing.",
+        "sentence_cn": "这幅画作描绘的是两个人拥抱在一起的风格化、空灵而又亲密的画面。",
+        "words": [
+            "two",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a soft, blue-tinted glow, giving it a ghostly, otherworldly feel.",
+        "sentence_cn": "海报散发着柔和的蓝色光芒，给人一种幽灵般、超凡脱俗的感觉。",
+        "words": [
+            "poster",
+            "glow",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the word \"BELIEVE\" is prominently displayed.",
+        "sentence_cn": "在顶部，“相信”一词显眼地显示出来。",
+        "words": [
+            "BELIEVE",
+            "top",
+            "word",
+            "BELIEVE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, the text reads:",
+        "sentence_cn": "图片下方的文字为：",
+        "words": [
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Before Sam was murdered, he told Molly he'd love and protect her forever.\"",
+        "sentence_cn": "“在萨姆被谋杀之前，他告诉莫莉，他会永远爱她、保护她。”",
+        "words": [
+            "Before Sam was murdered, he told Molly he'd love and protect her forever."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the title \"GHOST\" is displayed in bold, purple letters.",
+        "sentence_cn": "在底部，标题“GHOST”以粗体紫色字母显示。",
+        "words": [
+            "GHOST",
+            "bottom",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster includes credits and mentions the production companies at the bottom, with \"PARAMOUNT\" appearing clearly.",
+        "sentence_cn": "海报下方标明了片尾字幕和制作公司，其中清晰可见“派拉蒙”的字样。",
+        "words": [
+            "PARAMOUNT",
+            "poster",
+            "credits",
+            "production",
+            "companies",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is romantic and mysterious, reflecting the themes of love and the supernatural.",
+        "sentence_cn": "整体设计浪漫而神秘，体现了爱情和超自然的主题。",
+        "words": [
+            "design",
+            "themes",
+            "love"
+        ],
+        "id": null
+    }
+]

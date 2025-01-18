@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a serene landscape at dawn or dusk.",
+        "sentence_cn": "该图描绘的是黎明或黄昏时分宁静的风景。",
+        "words": [
+            "landscape",
+            "dawn",
+            "dusk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a grassy field covered with a light layer of fog, creating a misty atmosphere.",
+        "sentence_cn": "前景是一片草地，覆盖着一层薄雾，营造出一种朦胧的氛围。",
+        "words": [
+            "foreground",
+            "field",
+            "layer",
+            "fog",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Scattered across the field are several grazing horses.",
+        "sentence_cn": "田野上散落着几匹正在吃草的马。",
+        "words": [
+            "field",
+            "horses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a dense line of trees, and beyond that, low-lying mountains or hills.",
+        "sentence_cn": "背景中是一排茂密的树木，树木后面是低矮的山脉或丘陵。",
+        "words": [
+            "background",
+            "line",
+            "trees",
+            "mountains",
+            "hills"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is a pale gradient, suggesting early morning or evening.",
+        "sentence_cn": "天空呈现淡淡的渐变色，预示着清晨或傍晚。",
+        "words": [
+            "sky",
+            "gradient",
+            "morning",
+            "evening"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood is calm and peaceful, with muted colors enhancing the tranquil scene.",
+        "sentence_cn": "整体氛围平静而安宁，柔和的色彩增强了宁静的场景。",
+        "words": [
+            "mood",
+            "colors",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A simple wooden fence runs along the edge of the field in the lower part of the image.",
+        "sentence_cn": "图像下部，一道简单的木栅栏沿着田野的边缘延伸。",
+        "words": [
+            "fence",
+            "edge",
+            "field",
+            "part"
+        ],
+        "id": null
+    }
+]

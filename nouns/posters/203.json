@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Unforgiven.\"",
+        "sentence_cn": "图片是《不可饶恕》的电影海报。",
+        "words": [
+            "Unforgiven.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a dark, intense color palette with a rustic and gritty appearance.",
+        "sentence_cn": "它的颜色深而浓烈，具有质朴而坚毅的外观。",
+        "words": [
+            "color",
+            "palette",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster prominently features the faces of four men, each wearing a hat, suggesting a Western theme.",
+        "sentence_cn": "海报突出了四个男人的面孔，每个人都戴着一顶帽子，暗示着西方主题。",
+        "words": [
+            "poster",
+            "faces",
+            "four",
+            "men",
+            "hat",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names of the actors¡ªClint Eastwood, Gene Hackman, Morgan Freeman, and Richard Harris¡ªare listed in yellow, capitalized letters.",
+        "sentence_cn": "顶部用黄色大写字母列出了演员的名字——克林特·伊斯特伍德、吉恩·哈克曼、摩根·弗里曼和理查德·哈里斯。",
+        "words": [
+            "top",
+            "names",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these names are the shadowed faces of the actors, highlighting their expressions and contributing to the serious tone.",
+        "sentence_cn": "这些名字下面是演员的阴影脸，突出了他们的表情并营造出严肃的基调。",
+        "words": [
+            "names",
+            "faces",
+            "actors",
+            "expressions",
+            "tone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower section, there is a silhouette of a man in a long coat holding a revolver, with his back turned towards the viewer.",
+        "sentence_cn": "在下面部分，有一个身穿长外套、手持左轮手枪的男人的轮廓，背对着观看者。",
+        "words": [
+            "section",
+            "silhouette",
+            "man",
+            "coat",
+            "revolver",
+            "back",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind him, set against a sunset, are three mounted figures riding horses, enhancing the Western atmosphere.",
+        "sentence_cn": "他的身后，在落日的映衬下，有三个骑马的人物，增添了西方的气息。",
+        "words": [
+            "sunset",
+            "three",
+            "figures",
+            "horses",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Unforgiven\" is displayed near the bottom in a rugged, western-style font.",
+        "sentence_cn": "标题“不可饶恕”以粗犷的西式字体显示在底部附近。",
+        "words": [
+            "Unforgiven",
+            "title",
+            "bottom",
+            "style",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition and imagery suggest themes of justice, revenge, or redemption typical of Western films.",
+        "sentence_cn": "整体构图和意象体现了西方电影典型的正义、复仇或救赎的主题。",
+        "words": [
+            "composition",
+            "imagery",
+            "themes",
+            "justice",
+            "revenge",
+            "redemption",
+            "films"
+        ],
+        "id": null
+    }
+]

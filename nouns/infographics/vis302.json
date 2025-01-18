@@ -1,0 +1,375 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"It's Beginning to Look a Lot Like... Christmas?\"",
+        "sentence_cn": "该图是一张信息图，标题为“它开始看起来很像......圣诞节？”",
+        "words": [
+            "It's Beginning to Look a Lot Like... Christmas?",
+            "Lot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It appears to discuss trends in business holiday marketing.",
+        "sentence_cn": "它似乎讨论了商务假日营销的趋势。",
+        "words": [
+            "trends",
+            "business",
+            "holiday",
+            "marketing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Sections:",
+        "sentence_cn": "主要部分：",
+        "words": [
+            "Main Sections:",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Christmas is Coming Earlier:",
+        "sentence_cn": "1. 圣诞节来得更早：",
+        "words": [
+            "Christmas is Coming Earlier:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Talks about how businesses are starting holiday sales earlier, some in July.",
+        "sentence_cn": "- 讨论企业如何提前开始假日销售，有些甚至在 7 月份就开始了。",
+        "words": [
+            "Talks",
+            "businesses",
+            "holiday",
+            "sales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 13% of retailers mentioned holidays in emails as of July 2012, the highest in 6 years.",
+        "sentence_cn": "- 截至 2012 年 7 月，13% 的零售商在电子邮件中提到假期，为 6 年来的最高水平。",
+        "words": [
+            "13",
+            "retailers",
+            "holidays",
+            "emails",
+            "2012",
+            "6",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Retailers are promoting seasonal products like wreaths and ornaments early.",
+        "sentence_cn": "- 零售商提前推销花环和装饰品等季节性产品。",
+        "words": [
+            "Retailers",
+            "products",
+            "wreaths",
+            "ornaments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Nearly 40% of shoppers start holiday shopping before Halloween.",
+        "sentence_cn": "- 近 40% 的购物者在万圣节前就开始节日购物。",
+        "words": [
+            "40",
+            "shoppers",
+            "holiday",
+            "shopping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top Business Gifts:",
+        "sentence_cn": "2. 最佳商务礼品：",
+        "words": [
+            "Top Business Gifts:",
+            "Business",
+            "Gifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 49% cards or calendars.",
+        "sentence_cn": "- 49% 是卡片或日历。",
+        "words": [
+            "49",
+            "cards",
+            "calendars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 26% gift certificates for retail or restaurants.",
+        "sentence_cn": "- 26% 零售或餐厅礼券。",
+        "words": [
+            "26",
+            "gift",
+            "certificates",
+            "retail",
+            "restaurants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 23% company-branded items.",
+        "sentence_cn": "- 23％为公司品牌商品。",
+        "words": [
+            "23",
+            "company",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 18% tied between fruit/food baskets and charity donations.",
+        "sentence_cn": "- 18% 用于水果/食品篮和慈善捐款。",
+        "words": [
+            "18",
+            "fruit",
+            "food",
+            "baskets",
+            "charity",
+            "donations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 10% tied between flowers/plants and wine/liquor.",
+        "sentence_cn": "- 鲜花/植物和葡萄酒/烈酒捆绑收取 10%。",
+        "words": [
+            "10",
+            "flowers",
+            "plants",
+            "wine",
+            "liquor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Companies can deduct up to $25 for gift expenses per recipient per year.",
+        "sentence_cn": "- 公司每年可为每位受赠人扣除最多 25 美元的礼品费用。",
+        "words": [
+            "Companies",
+            "25",
+            "gift",
+            "expenses",
+            "recipient",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. The Birth of the Holiday Greeting Card:",
+        "sentence_cn": "3. 节日贺卡的诞生：",
+        "words": [
+            "The Birth of the Holiday Greeting Card:",
+            "Birth",
+            "Greeting",
+            "Card"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - First commercial Christmas cards were commissioned in 1843 by Sir Henry Cole.",
+        "sentence_cn": "- 第一张商业圣诞贺卡由亨利·科尔爵士于 1843 年委托制作。",
+        "words": [
+            "cards",
+            "1843"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Funny Business:",
+        "sentence_cn": "4. 有趣的事情：",
+        "words": [
+            "Funny Business:",
+            "Business"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Discusses how different types of greeting cards affect company perception.",
+        "sentence_cn": "- 讨论不同类型的贺卡如何影响公司认知。",
+        "words": [
+            "types",
+            "greeting",
+            "cards",
+            "company",
+            "perception"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 55% humorous, 58% cause-related, 50% eco-friendly cards.",
+        "sentence_cn": "- 55％ 幽默卡片、58％ 公益卡片、50％ 环保卡片。",
+        "words": [
+            "55",
+            "58",
+            "%",
+            "cause",
+            "50",
+            "%",
+            "cards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Humor is more acceptable in industries like real estate (47%), but less in health services (14%), human resources (14%), and insurance (37%).",
+        "sentence_cn": "- 幽默在房地产（47％）等行业更容易被接受，但在医疗服务（14％）、人力资源（14％）和保险（37％）等行业则不太被接受。",
+        "words": [
+            "Humor",
+            "industries",
+            "real",
+            "estate",
+            "47",
+            "health",
+            "services",
+            "14",
+            "%",
+            "resources",
+            "14",
+            "%",
+            "insurance",
+            "37",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Small-Business Gift Giving at 5-Year Low:",
+        "sentence_cn": "5. 小企业礼品赠送量五年来最低：",
+        "words": [
+            "Small-Business Gift Giving at 5-Year Low:",
+            "Business",
+            "Gift",
+            "Giving",
+            "5",
+            "Year",
+            "Low"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Decrease from 70% in 2006 to 43% in 2011 in small businesses planning to give gifts to clients.",
+        "sentence_cn": "- 计划向客户赠送礼品的小型企业比例从 2006 年的 70% 下降到 2011 年的 43%。",
+        "words": [
+            "Decrease",
+            "70",
+            "2006",
+            "43",
+            "%",
+            "2011",
+            "businesses",
+            "gifts",
+            "clients"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. How the Economy is Affecting Business Gift-Giving:",
+        "sentence_cn": "6. 经济如何影响商务礼品赠送：",
+        "words": [
+            "How the Economy is Affecting Business Gift-Giving:",
+            "Economy",
+            "Business",
+            "Gift",
+            "Giving"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 39% of businesses give fewer or less-expensive gifts.",
+        "sentence_cn": "- 39%的企业赠送的礼品较少或较便宜。",
+        "words": [
+            "39",
+            "businesses",
+            "gifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 23% stopped giving gifts altogether.",
+        "sentence_cn": "- 23％的人完全停止送礼。",
+        "words": [
+            "23",
+            "gifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Business Gift Spending on the Rise Again:",
+        "sentence_cn": "7. 商务礼品支出再次上升：",
+        "words": [
+            "Business Gift Spending on the Rise Again:",
+            "Business",
+            "Gift",
+            "Spending",
+            "Rise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrated with a bar graph showing growth in spending from $1,483 in 2007 to $837 in 2011.",
+        "sentence_cn": "- 用条形图显示支出从 2007 年的 1,483 美元增长到 2011 年的 837 美元。",
+        "words": [
+            "bar",
+            "graph",
+            "growth",
+            "spending",
+            "1,483",
+            "2007",
+            "837",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional Details:",
+        "sentence_cn": "其他详细信息：",
+        "words": [
+            "Additional Details:",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sources are listed at the bottom.",
+        "sentence_cn": "- 来源列于底部。",
+        "words": [
+            "Sources",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The infographic is designed by 123PRINT.",
+        "sentence_cn": "- 该信息图由 123PRINT 设计。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It emphasizes the shift in business holiday marketing strategies and economic influences over time.",
+        "sentence_cn": "它强调了商务假日营销策略和经济影响随时间的转变。",
+        "words": [
+            "shift",
+            "business",
+            "holiday",
+            "marketing",
+            "strategies",
+            "influences",
+            "time"
+        ],
+        "id": null
+    }
+]

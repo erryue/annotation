@@ -1,0 +1,248 @@
+[
+    {
+        "sentence": "The image is an infographic about understanding an API (Application Programming Interface).",
+        "sentence_cn": "该图是关于了解 API（应用程序编程接口）的信息图。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features a central theme of a map with a location pin, labeled \"LOCATOR.AIDS.GOV,\" connected to various user groups and services.",
+        "sentence_cn": "它以一张带有位置图钉的地图为中心主题，标有“LOCATOR.AIDS.GOV”，连接到各种用户组和服务。",
+        "words": [
+            "LOCATOR.AIDS.GOV,",
+            "theme",
+            "map",
+            "location",
+            "pin",
+            "LOCATOR.AIDS.GOV",
+            "user",
+            "groups",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Top Section:",
+        "sentence_cn": "顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"Understanding API\" with a computer icon.",
+        "sentence_cn": "- 标题：“了解 API”，带有计算机图标。",
+        "words": [
+            "Understanding API",
+            "Title",
+            "computer",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Label: \"Application Programming Interface.\"",
+        "sentence_cn": "- 标签：“应用程序编程接口。”",
+        "words": [
+            "Application Programming Interface.",
+            "Label",
+            "Application",
+            "Interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Illustrations of different user groups:",
+        "sentence_cn": "- 不同用户群说明：",
+        "words": [
+            "Illustrations",
+            "user",
+            "groups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Patients",
+        "sentence_cn": "- 患者",
+        "words": [
+            "Patients"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Caregivers",
+        "sentence_cn": "- 护理人员",
+        "words": [
+            "Caregivers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - At-risk individuals",
+        "sentence_cn": "- 高风险人群",
+        "words": [
+            "risk",
+            "individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Researchers",
+        "sentence_cn": "- 研究人员",
+        "words": [
+            "Researchers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Politicians",
+        "sentence_cn": "- 政客",
+        "words": [
+            "Politicians"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Developers",
+        "sentence_cn": "- 开发人员",
+        "words": [
+            "Developers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Middle Section:",
+        "sentence_cn": "中间部分：",
+        "words": [
+            "Middle Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Two main components:",
+        "sentence_cn": "- 两个主要组成部分：",
+        "words": [
+            "Two",
+            "components"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A globe labeled \"WEB\"",
+        "sentence_cn": "- 标有“WEB”的地球仪",
+        "words": [
+            "WEB",
+            "globe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A cloud labeled \"API\"",
+        "sentence_cn": "- 标有“API”的云",
+        "words": [
+            "API",
+            "cloud"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Both are connected by lines to the map marker, indicating integration.",
+        "sentence_cn": "- 两者均通过线连接到地图标记，表示集成。",
+        "words": [
+            "lines",
+            "map",
+            "marker",
+            "integration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bottom Section:",
+        "sentence_cn": "底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A stylized map with a location pin.",
+        "sentence_cn": "- 带有位置图钉的风格化地图。",
+        "words": [
+            "map",
+            "location",
+            "pin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Services linked to the map:",
+        "sentence_cn": "- 与地图相关的服务：",
+        "words": [
+            "Services",
+            "map"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Testing Facilities (CDC)",
+        "sentence_cn": "- 检测设施（CDC）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Housing Assistance (HUD)",
+        "sentence_cn": "- 住房援助（HUD）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Mental Health Facilities (SAMHSA)",
+        "sentence_cn": "- 精神卫生机构（SAMHSA）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Substance Abuse Prevention (SAMHSA)",
+        "sentence_cn": "- 药物滥用预防（SAMHSA）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Ryan White Clinics (HRSA)",
+        "sentence_cn": "- Ryan White 诊所（HRSA）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Medical Clinics (HRSA)",
+        "sentence_cn": "- 医疗诊所（HRSA）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Family Planning (OPA)",
+        "sentence_cn": "- 计划生育（OPA）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The design uses icons and simple graphics to communicate the relationships and interaction between APIs, web services, and user groups.",
+        "sentence_cn": "设计使用图标和简单的图形来传达API、Web服务和用户组之间的关系和交互。",
+        "words": [
+            "design",
+            "icons",
+            "graphics",
+            "relationships",
+            "interaction",
+            "APIs",
+            "web",
+            "services",
+            "user",
+            "groups"
+        ],
+        "id": null
+    }
+]

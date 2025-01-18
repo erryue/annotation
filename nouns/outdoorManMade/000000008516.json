@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts an urban scene with a city bus in the foreground.",
+        "sentence_cn": "该图描绘的是城市场景，前景有一辆城市公交车。",
+        "words": [
+            "scene",
+            "city",
+            "bus",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bus displays route number \"18\" with the destination \"TO 16TH/CICERO\" on its electronic sign.",
+        "sentence_cn": "该公交车的电子标牌上显示路线号“18”，目的地为“TO 16TH/CICERO”。",
+        "words": [
+            "18",
+            "TO 16TH/CICERO",
+            "bus",
+            "route",
+            "number",
+            "18",
+            "destination",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The front of the bus shows advertisements, including one for a television show airing at 6:00 PM.",
+        "sentence_cn": "巴士前面贴有广告，其中包括一则下午 6:00 播出的电视节目的广告。",
+        "words": [
+            "front",
+            "bus",
+            "advertisements",
+            "one",
+            "television",
+            "show",
+            "6:00",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is traveling on a road with other vehicles visible behind it.",
+        "sentence_cn": "它在道路上行驶，后面可见其他车辆。",
+        "words": [
+            "road",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, an elevated train track with a train passing by is visible, adding to the cityscape.",
+        "sentence_cn": "背景中可以看到一条高架火车轨道，一列火车驶过，为城市景观增添了光彩。",
+        "words": [
+            "background",
+            "train",
+            "track",
+            "train",
+            "cityscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The city setting is characterized by tall buildings and a clear sky, contributing to a bright and sunny atmosphere.",
+        "sentence_cn": "城市环境以高楼大厦和晴朗的天空为特色，营造出明亮而阳光的氛围。",
+        "words": [
+            "city",
+            "buildings",
+            "sky",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also some pedestrians and cyclists on the sidewalks and street, indicating bustling city activity.",
+        "sentence_cn": "人行道和街道上还有一些行人和骑自行车的人，表明城市的活动繁华。",
+        "words": [
+            "pedestrians",
+            "cyclists",
+            "sidewalks",
+            "street",
+            "city",
+            "activity"
+        ],
+        "id": null
+    }
+]

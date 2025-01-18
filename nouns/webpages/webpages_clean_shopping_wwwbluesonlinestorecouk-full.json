@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image is an online store page for \"BLUES STORE.\"",
+        "sentence_cn": "图片是“BLUES STORE”的在线商店页面。",
+        "words": [
+            "BLUES STORE.",
+            "store",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main focus is on a large banner promoting the \"2015/16 Away Kit\" for a football club, celebrating \"140 Years & Counting.\"",
+        "sentence_cn": "主要的焦点是一条大型横幅，宣传一支足球俱乐部的“2015/16 客场球衣”，庆祝“140 周年”。",
+        "words": [
+            "2015/16 Away Kit",
+            "140 Years & Counting.",
+            "focus",
+            "banner",
+            "2015/16",
+            "Away",
+            "Kit",
+            "football",
+            "club",
+            "140"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The banner features three players wearing the team kit, which is red with black sleeves and has \"EZEGROUP\" as a sponsor logo.",
+        "sentence_cn": "横幅上是三名球员身着球队队服的场景，队服为红色，袖子为黑色，并带有“EZEGROUP”作为赞助商标志。",
+        "words": [
+            "EZEGROUP",
+            "banner",
+            "three",
+            "players",
+            "team",
+            "kit",
+            "sleeves",
+            "sponsor",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text indicates that the kit is available for pre-order.",
+        "sentence_cn": "文字表明该套件可供预订。",
+        "words": [
+            "text",
+            "kit",
+            "pre",
+            "-",
+            "order"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the banner, there's a navigation menu with options like \"REPLICA KIT,\" \"TRAINING,\" \"HOLIDAY,\" \"MENS,\" \"WOMENS,\" \"JUNIORS,\" \"ACCESSORIES,\" \"PERSONALISED,\" \"OFFERS,\" and \"SALE.\"",
+        "sentence_cn": "横幅上方有一个导航菜单，其中有“复制套件”、“训练”、“假日”、“男士”、“女士”、“青少年”、“配件”、“个性化”、“优惠”和“销售”等选项。",
+        "words": [
+            "REPLICA KIT,",
+            "TRAINING,",
+            "HOLIDAY,",
+            "MENS,",
+            "WOMENS,",
+            "JUNIORS,",
+            "ACCESSORIES,",
+            "PERSONALISED,",
+            "OFFERS,",
+            "SALE.",
+            "banner",
+            "navigation",
+            "menu",
+            "options",
+            "REPLICA",
+            "KIT",
+            "TRAINING",
+            "HOLIDAY",
+            "MENS",
+            "WOMENS",
+            "JUNIORS",
+            "ACCESSORIES",
+            "PERSONALISED",
+            "OFFERS",
+            "SALE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are options for signing in, checking out, and viewing your shopping bag.",
+        "sentence_cn": "您可以选择登录、结账和查看购物袋。",
+        "words": [
+            "options",
+            "shopping",
+            "bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main banner, there are promotional boxes.",
+        "sentence_cn": "主横幅下方有促销框。",
+        "words": [
+            "banner",
+            "boxes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One promotes personalizing car mats with a \"CLICK HERE\" button, another showcases \"PERSONALISED PRODUCTS,\" and a third advertises the \"BLUES WALL\" with a noted historic etching.",
+        "sentence_cn": "其中一个广告宣传带有“点击此处”按钮的个性化汽车脚垫，另一个展示“个性化产品”，第三个广告宣传带有著名历史蚀刻版画的“蓝调墙”。",
+        "words": [
+            "CLICK HERE",
+            "PERSONALISED PRODUCTS,",
+            "BLUES WALL",
+            "One",
+            "car",
+            "mats",
+            "button",
+            "PRODUCTS",
+            "BLUES",
+            "WALL",
+            "etching"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cookie consent notification appears on the right side, informing users about the website's use of cookies.",
+        "sentence_cn": "右侧会出现一个 cookie 同意通知，告知用户网站对 cookie 的使用情况。",
+        "words": [
+            "cookie",
+            "consent",
+            "notification",
+            "users",
+            "website",
+            "use",
+            "cookies"
+        ],
+        "id": null
+    }
+]

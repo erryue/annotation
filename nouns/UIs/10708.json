@@ -1,0 +1,289 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile app or webpage featuring videos and advertisements.",
+        "sentence_cn": "该图片看起来是一个包含视频和广告的移动应用程序或网页的截图。",
+        "words": [
+            "app",
+            "webpage",
+            "videos",
+            "advertisements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Interface Elements:",
+        "sentence_cn": "1. 界面元素：",
+        "words": [
+            "Interface Elements:",
+            "Interface",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- At the top, there are icons for various categories, such as SMS, Hindlish, Jokes, and Videos.",
+        "sentence_cn": "- 顶部有各种类别的图标，例如短信、印度语、笑话和视频。",
+        "words": [
+            "top",
+            "icons",
+            "categories",
+            "SMS",
+            "Hindlish",
+            "Jokes",
+            "Videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Videos\" tab is highlighted in pink, indicating it's the active section.",
+        "sentence_cn": "“视频”选项卡以粉红色突出显示，表示它是活动部分。",
+        "words": [
+            "Videos",
+            "Videos",
+            "tab",
+            "pink",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The time, network signal, Wi-Fi, and battery icons are shown at the top of the device screen, with the time displayed as 8:19.",
+        "sentence_cn": "- 设备屏幕顶部显示时间、网络信号、Wi-Fi 和电池图标，显示时间为 8:19。",
+        "words": [
+            "time",
+            "network",
+            "signal",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "icons",
+            "top",
+            "device",
+            "screen",
+            "time",
+            "8:19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. First Video:",
+        "sentence_cn": "2. 第一个视频：",
+        "words": [
+            "First Video:",
+            "Video"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Title/Theme: \"The Demonetization Circus.\"",
+        "sentence_cn": "- 标题/主题：“废钞马戏团。”",
+        "words": [
+            "Title/Theme:",
+            "The Demonetization Circus.",
+            "Title",
+            "Theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visuals: The thumbnail features a man standing against a colorful, abstract background.",
+        "sentence_cn": "- 视觉效果：缩略图上是一个男人站在色彩鲜艳的抽象背景下。",
+        "words": [
+            "Visuals:",
+            "Visuals",
+            "thumbnail",
+            "man",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a play button in the center of the video thumbnail, indicating it can be played.",
+        "sentence_cn": "视频缩略图中央有一个播放按钮，表示可以播放。",
+        "words": [
+            "play",
+            "button",
+            "center",
+            "video",
+            "thumbnail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text includes a graphic of the Indian Rupee symbol.",
+        "sentence_cn": "文本中包含印度卢比符号的图形。",
+        "words": [
+            "text",
+            "graphic",
+            "symbol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Duration: The video appears to be 7 minutes and 58 seconds long.",
+        "sentence_cn": "- 时长：该视频似乎长达 7 分 58 秒。",
+        "words": [
+            "Duration:",
+            "Duration",
+            "video",
+            "7",
+            "minutes",
+            "58",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Second Video:",
+        "sentence_cn": "3. 第二个视频：",
+        "words": [
+            "Second Video:",
+            "Video"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Title: \"Amazon Go - The World's Most Advanced shopping Technology.\"",
+        "sentence_cn": "- 标题：“Amazon Go——世界上最先进的购物技术。”",
+        "words": [
+            "Title:",
+            "Amazon Go - The World's Most Advanced shopping Technology.",
+            "Title",
+            "World",
+            "shopping",
+            "Technology"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Visuals: The thumbnail shows a woman shopping in what appears to be a grocery store.",
+        "sentence_cn": "- 视觉效果：缩略图显示一名女子在一家杂货店里购物。",
+        "words": [
+            "Visuals:",
+            "Visuals",
+            "thumbnail",
+            "woman",
+            "grocery",
+            "store"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is holding a product, with shelves of items visible in the background.",
+        "sentence_cn": "她手里拿着一件产品，背景中可以看到货架上的物品。",
+        "words": [
+            "product",
+            "shelves",
+            "items",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The play button is overlaid on the image.",
+        "sentence_cn": "播放按钮覆盖在图像上。",
+        "words": [
+            "play",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text Overlay: \"INTRODUCING amazon go.\"",
+        "sentence_cn": "- 文本覆盖：“介绍 amazon go。”",
+        "words": [
+            "Text Overlay:",
+            "INTRODUCING amazon go.",
+            "Text",
+            "Overlay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Duration: This video is 1 minute and 49 seconds long.",
+        "sentence_cn": "- 时长：该视频时长 1 分 49 秒。",
+        "words": [
+            "Duration:",
+            "Duration",
+            "video",
+            "1",
+            "minute",
+            "49",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Advertisement:",
+        "sentence_cn": "4. 广告：",
+        "words": [
+            "Advertisement:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Located at the bottom, there is an ad for Google Play, promoting \"Over 1M apps for everything you do.\"",
+        "sentence_cn": "- 在底部，有一个 Google Play 的广告，宣传“超过 100 万个应用程序适合您所做的一切。”",
+        "words": [
+            "Over 1M apps for everything you do.",
+            "bottom",
+            "ad",
+            "1",
+            "M",
+            "apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a ¡°Shop Now¡± button included in the ad.",
+        "sentence_cn": "广告中包含“立即购买”按钮。",
+        "words": [
+            "button",
+            "ad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This setup is common in apps or websites that feature video content alongside ads.",
+        "sentence_cn": "这种设置在广告旁边显示视频内容的应用程序或网站中很常见。",
+        "words": [
+            "apps",
+            "websites",
+            "video",
+            "content",
+            "ads"
+        ],
+        "id": null
+    }
+]

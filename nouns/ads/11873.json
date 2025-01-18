@@ -1,0 +1,180 @@
+[
+    {
+        "sentence": "The image is a collage of Pepsi advertisements, featuring both posters and outdoor displays.",
+        "sentence_cn": "该图片是百事可乐广告的拼贴画，包括海报和户外展示。",
+        "words": [
+            "collage",
+            "advertisements",
+            "posters",
+            "displays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Poster:",
+        "sentence_cn": "1. 左海报：",
+        "words": [
+            "Left Poster",
+            "Poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Background: Vibrant mix of blue, pink, and purple with snowflake designs.",
+        "sentence_cn": "- 背景：蓝色、粉色和紫色的鲜艳混合，带有雪花图案。",
+        "words": [
+            "Background",
+            "mix",
+            "blue",
+            "pink",
+            "purple",
+            "snowflake",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text: \"NEW LOOK SAME OOMPH\" in large, bold white letters.",
+        "sentence_cn": "- 文字：“NEW LOOK SAME OOMPH”，采用大号粗体白色字母。",
+        "words": [
+            "NEW LOOK SAME OOMPH",
+            "Text",
+            "LOOK",
+            "OOMPH",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The 'O's are replaced with Pepsi logos.",
+        "sentence_cn": "“O”被百事可乐的标志所取代。",
+        "words": [
+            "O",
+            "'s",
+            "logos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bottom Text: \"REFRESH YOUR WORLD\" is written below the main text.",
+        "sentence_cn": "- 底部文字：正文下方写着“REFRESH YOUR WORLD”。",
+        "words": [
+            "REFRESH YOUR WORLD",
+            "Text",
+            "WORLD",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual: A can of Pepsi on the right side.",
+        "sentence_cn": "- 视觉：右侧有一罐百事可乐。",
+        "words": [
+            "can"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top-Right Posters (three):",
+        "sentence_cn": "2. 右上角海报（三张）：",
+        "words": [
+            "Top-Right Posters (three)",
+            "Posters",
+            "three"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - First: Orange background with the text \"NEW REUNION SAME JOY\" in white, featuring a Pepsi can.",
+        "sentence_cn": "- 第一：橙色背景，上面有白色文字“NEW REUNION SAME JOY”，还有百事可乐罐子。",
+        "words": [
+            "First:",
+            "NEW REUNION SAME JOY",
+            "background",
+            "text",
+            "REUNION",
+            "can"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Second: Purple background, \"SHAKE YOUR 2010\" in white, with the 'O' incorporating the Pepsi logo.",
+        "sentence_cn": "- 第二：紫色背景，白色“SHAKE YOUR 2010”，其中的“O”包含百事可乐的标志。",
+        "words": [
+            "Second:",
+            "SHAKE YOUR 2010",
+            "background",
+            "2010",
+            "white",
+            "O",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Third: Purple background, \"SPLASH INTO THE NEW YEAR\" beside an image of a glass filled with Pepsi and ice, including the Pepsi logo.",
+        "sentence_cn": "- 第三：紫色背景，“欢庆新年”字样，旁边是一杯装满百事可乐和冰块的玻璃杯的图像，包括百事可乐的标志。",
+        "words": [
+            "Third:",
+            "SPLASH INTO THE NEW YEAR",
+            "background",
+            "glass",
+            "ice",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom-Right Displays (two):",
+        "sentence_cn": "3. 右下角显示（两个）：",
+        "words": [
+            "Bottom-Right Displays (two)",
+            "Displays",
+            "two"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Left Display: Shows an illuminated advertisement similar to the left poster, visible at night on a street.",
+        "sentence_cn": "- 左侧显示：显示类似于左侧海报的发光广告，在夜间街道上可见。",
+        "words": [
+            "Left Display:",
+            "Display",
+            "poster",
+            "night",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Right Display: Daytime view at a bus stop or outdoor area, with the same \"NEW LOOK SAME OOMPH\" design as the left poster.",
+        "sentence_cn": "- 右侧展示：公交车站或室外区域的白天视图，采用与左侧海报相同的“NEW LOOK SAME OOMPH”设计。",
+        "words": [
+            "Right Display:",
+            "NEW LOOK SAME OOMPH",
+            "Display",
+            "Daytime",
+            "view",
+            "bus",
+            "stop",
+            "area",
+            "LOOK",
+            "design",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The images are collectively highlighting Pepsi's new look while maintaining the same taste, with festive, energetic designs suitable for the holiday or New Year period.",
+        "sentence_cn": "这些图片共同凸显了百事可乐在保持同样口味的同时的新面貌，其喜庆、充满活力的设计适合假期或新年期间。",
+        "words": [
+            "images",
+            "look",
+            "taste",
+            "designs",
+            "holiday",
+            "period"
+        ],
+        "id": null
+    }
+]

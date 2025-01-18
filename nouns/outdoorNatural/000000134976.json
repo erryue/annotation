@@ -1,0 +1,56 @@
+[
+    {
+        "sentence": "The image shows a group of five zebras standing in a vast, open grassland.",
+        "sentence_cn": "图中是一群五匹斑马站在一片广阔的草原上。",
+        "words": [
+            "group",
+            "five",
+            "zebras",
+            "grassland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are characterized by their distinctive black and white stripes.",
+        "sentence_cn": "斑马的特点是其独特的黑白条纹。",
+        "words": [
+            "zebras",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is golden brown, creating a stark contrast with the patterns on the zebras.",
+        "sentence_cn": "草是金棕色的，与斑马身上的花纹形成鲜明的对比。",
+        "words": [
+            "grass",
+            "contrast",
+            "patterns",
+            "zebras"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is flat, with no visible trees or other vegetation, and it extends to a distant horizon under a clear, pale blue sky.",
+        "sentence_cn": "地势平坦，看不到树木或其他植被，一直延伸到清澈淡蓝色天空下的遥远地平线。",
+        "words": [
+            "landscape",
+            "trees",
+            "vegetation",
+            "horizon",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene evokes a sense of natural habitat typical of an African savanna.",
+        "sentence_cn": "这一场景让人感受到非洲大草原典型的自然栖息地的感觉。",
+        "words": [
+            "scene",
+            "sense",
+            "habitat",
+            "savanna"
+        ],
+        "id": null
+    }
+]

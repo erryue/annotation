@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image shows a close-up of a white plate filled with fresh vegetables on a wooden surface.",
+        "sentence_cn": "照片特写：木质表面上的白色盘子里盛满了新鲜蔬菜。",
+        "words": [
+            "close",
+            "up",
+            "plate",
+            "vegetables",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are three large, bright orange carrots prominently displayed in the foreground.",
+        "sentence_cn": "前景中显眼地展示着三根大大的、鲜橙色的胡萝卜。",
+        "words": [
+            "three",
+            "orange",
+            "carrots",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to them is a ripe red tomato with a green stem.",
+        "sentence_cn": "它们旁边是一颗带有绿色茎的成熟红色西红柿。",
+        "words": [
+            "tomato",
+            "stem"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a bunch of green broccoli, with its florets appearing fresh and full.",
+        "sentence_cn": "背景中是一束绿色的西兰花，花蕾显得新鲜而饱满。",
+        "words": [
+            "background",
+            "bunch",
+            "broccoli",
+            "florets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vibrant colors of the vegetables are highlighted by the natural sunlight shining on them.",
+        "sentence_cn": "自然阳光照射在蔬菜上，使其鲜艳的色彩更加鲜明。",
+        "words": [
+            "colors",
+            "vegetables",
+            "sunlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the plate, there's a brick wall and a blurred background that suggests an outdoor setting.",
+        "sentence_cn": "盘子后面有一堵砖墙，背景模糊，让人联想到户外场景。",
+        "words": [
+            "plate",
+            "brick",
+            "wall",
+            "background"
+        ],
+        "id": null
+    }
+]

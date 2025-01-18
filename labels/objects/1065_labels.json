@@ -1,0 +1,24 @@
+[
+    {
+        "id": "fb64af1a-affd-43b3-ae4a-75ce68b89b89",
+        "confidence": 0.92652,
+        "class": "laptop",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 65.74669,
+                        "minY": 45.74596,
+                        "maxX": 623.27087,
+                        "maxY": 417.4826
+                    },
+                    "x": 65.74669,
+                    "y": 45.74596,
+                    "w": 557.5241799999999,
+                    "h": 371.73663999999997
+                }
+            }
+        }
+    }
+]

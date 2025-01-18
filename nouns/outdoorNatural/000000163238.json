@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image depicts a serene rural landscape featuring a lush green pasture with a single black and white cow grazing in the foreground.",
+        "sentence_cn": "这幅画描绘的是一片宁静的乡村风景，有一片郁郁葱葱的绿色牧场，前景中有一头黑白相间的奶牛正在吃草。",
+        "words": [
+            "landscape",
+            "pasture",
+            "cow",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The field is expansive, with vibrant green grass covering most of the area.",
+        "sentence_cn": "场地很宽阔，大部分区域都覆盖着生机勃勃的绿草。",
+        "words": [
+            "field",
+            "grass",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are undulating hills and dense clusters of trees, likely forming a forested area.",
+        "sentence_cn": "背景中，有起伏的山丘和茂密的树丛，可能形成了一片森林。",
+        "words": [
+            "background",
+            "hills",
+            "clusters",
+            "trees",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These hills have various shades of green, indicating different types of vegetation.",
+        "sentence_cn": "这些山丘呈现各种深浅不一的绿色，表明存在不同类型的植被。",
+        "words": [
+            "hills",
+            "shades",
+            "green",
+            "types",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the hills, the sky is mostly clear with some scattered white clouds, suggesting a pleasant day.",
+        "sentence_cn": "山丘之上，天空晴朗，散落着一些白云，预示着这将是愉快的一天。",
+        "words": [
+            "hills",
+            "sky",
+            "clouds",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys tranquility and natural beauty, characteristic of a picturesque countryside.",
+        "sentence_cn": "整体场景传达出宁静和自然的美丽，如画的乡村风景。",
+        "words": [
+            "scene",
+            "tranquility",
+            "beauty",
+            "countryside"
+        ],
+        "id": null
+    }
+]

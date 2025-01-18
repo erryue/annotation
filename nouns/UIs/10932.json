@@ -1,0 +1,129 @@
+[
+    {
+        "sentence": "The image is a screenshot of a news website, 14 WFIE, featuring a \"Mosquito Forecast\" by Swat Pest, Inc.",
+        "sentence_cn": "该图片是新闻网站 14 WFIE 的截图，其中刊登了 Swat Pest, Inc. 的“蚊子预报”信息。",
+        "words": [
+            "Mosquito Forecast",
+            "news",
+            "website",
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the page shows the website¡¯s logo and navigation menu, which includes options for local news, weather, sports, video, TV, and more.",
+        "sentence_cn": "页面顶部显示网站的徽标和导航菜单，其中包括本地新闻、天气、体育、视频、电视等选项。",
+        "words": [
+            "top",
+            "page",
+            "website¡¯s",
+            "logo",
+            "navigation",
+            "menu",
+            "options",
+            "news",
+            "weather",
+            "sports",
+            "video",
+            "TV"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, it shows the current weather for Newburgh, with a temperature of 50¡ãF and clear conditions.",
+        "sentence_cn": "右侧显示的是纽堡当前的天气，气温为 50°F，天气晴朗。",
+        "words": [
+            "weather",
+            "Newburgh",
+            "temperature",
+            "50¡ãF",
+            "conditions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main logo, there is a \"SWAT Pest Mosquito Forecast\" for Evansville, with categories labeled low, moderate, high, and extreme, each illustrated with mosquito images.",
+        "sentence_cn": "主标志下方是埃文斯维尔的“SWAT 害虫蚊虫预报”，其中标有低、中、高和极端等类别，每个类别都配有蚊虫图像。",
+        "words": [
+            "SWAT Pest Mosquito Forecast",
+            "logo",
+            "Pest",
+            "Forecast",
+            "Evansville",
+            "categories",
+            "mosquito",
+            "images"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The forecast is marked \"High.\"",
+        "sentence_cn": "该预测被标记为“高”。",
+        "words": [
+            "High.",
+            "forecast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A detailed explanation is provided about conditions affecting mosquito activity, emphasizing that moisture levels impact mosquito breeding and maturation.",
+        "sentence_cn": "详细解释了影响蚊子活动的条件，强调湿度会影响蚊子的繁殖和成熟。",
+        "words": [
+            "explanation",
+            "conditions",
+            "mosquito",
+            "activity",
+            "moisture",
+            "levels",
+            "mosquito",
+            "breeding",
+            "maturation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An advertisement on the right features a woman surrounded by mosquitoes, urging readers to \"Take Back Your Yard!\" with contact information for Swat Pest, Inc.",
+        "sentence_cn": "右侧的广告描绘了一位被蚊子包围的女子，呼吁读者“夺回你的院子！”，并附上了 Swat Pest, Inc. 的联系信息。",
+        "words": [
+            "Take Back Your Yard!",
+            "right",
+            "woman",
+            "mosquitoes",
+            "readers",
+            "Yard",
+            "contact",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there¡¯s a search bar and another navigation menu with links to different sections of the news site.",
+        "sentence_cn": "在底部，有一个搜索栏和另一个导航菜单，其中包含指向新闻网站不同部分的链接。",
+        "words": [
+            "bottom",
+            "search",
+            "bar",
+            "navigation",
+            "menu",
+            "links",
+            "sections",
+            "news",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page concludes with contact information for 14 News and legal disclaimers about the site's content, managed by Raycom Media.",
+        "sentence_cn": "该页面最后提供了 14 News 的联系信息和有关该网站内容的法律免责声明，由 Raycom Media 管理。",
+        "words": [
+            "page",
+            "contact",
+            "information",
+            "14",
+            "disclaimers",
+            "site",
+            "content"
+        ],
+        "id": null
+    }
+]

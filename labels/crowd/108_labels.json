@@ -1,6 +1,6 @@
 [
     {
-        "id": "e6dc2da5-6ac2-4d89-b6c8-bfa7bfdb0cfb",
+        "id": "a3bdaa71-c7b0-4026-85b4-aa256d9e6e6c",
         "confidence": 0.92246,
         "class": "person",
         "target": {
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": "08bc80b9-663c-4446-ae16-cb4db3a2c8bc",
+        "id": "5a50e731-6ab1-427f-9a32-251fddd6c628",
         "confidence": 0.9162,
         "class": "person",
         "target": {
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": "bbcbade8-e641-486f-afcf-500dead3badc",
+        "id": "83470f77-d09b-4b98-b4dc-9f4ff8b48a5a",
         "confidence": 0.88497,
         "class": "person",
         "target": {
@@ -66,7 +66,7 @@
         }
     },
     {
-        "id": "e5fbb46b-2c56-4bc8-8e90-14d7ca349696",
+        "id": "ede576aa-280e-47fb-bb98-093ec658f829",
         "confidence": 0.83595,
         "class": "person",
         "target": {
@@ -83,28 +83,6 @@
                     "y": 273.99271,
                     "w": 442.44084999999995,
                     "h": 793.3752099999999
-                }
-            }
-        }
-    },
-    {
-        "id": "f6e1cd86-d934-4cc2-83a9-df56982b69a7",
-        "confidence": 0.4772,
-        "class": "person",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 1373.14575,
-                        "minY": 708.03192,
-                        "maxX": 1629.95496,
-                        "maxY": 1069.8656
-                    },
-                    "x": 1373.14575,
-                    "y": 708.03192,
-                    "w": 256.8092100000001,
-                    "h": 361.8336800000001
                 }
             }
         }

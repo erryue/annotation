@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image depicts a serene backyard scene featuring a rectangular swimming pool.",
+        "sentence_cn": "图片描绘的是宁静的后院场景，其中有一个长方形的游泳池。",
+        "words": [
+            "backyard",
+            "scene",
+            "swimming",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool is the central focus, surrounded by a well-maintained stone or tiled deck.",
+        "sentence_cn": "游泳池是中心焦点，周围环绕着保养良好的石头或瓷砖甲板。",
+        "words": [
+            "pool",
+            "focus",
+            "stone",
+            "deck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the foreground end of the pool, there is a diving board extending over the water.",
+        "sentence_cn": "在游泳池的前景端，有一块延伸到水面上的跳水板。",
+        "words": [
+            "end",
+            "pool",
+            "diving",
+            "board",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a pergola structure supported by several columns, which covers an outdoor seating area.",
+        "sentence_cn": "左边有一个由几根柱子支撑的凉亭结构，覆盖着室外座位区。",
+        "words": [
+            "left",
+            "pergola",
+            "structure",
+            "columns",
+            "seating",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath the pergola, there are some wooden stools around what appears to be a bar or counter, providing a space for relaxation and casual dining.",
+        "sentence_cn": "凉亭下方有一些木凳，围绕着看似酒吧或柜台的空间，为休息和休闲用餐提供了空间。",
+        "words": [
+            "pergola",
+            "stools",
+            "bar",
+            "counter",
+            "space",
+            "relaxation",
+            "dining"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the opposite side of the pool, several lounge chairs with white cushions are arranged on a grassy area, along with small tables and potted plants, creating a comfortable lounging space.",
+        "sentence_cn": "泳池对面的草地上，摆放着几张带白色坐垫的躺椅，配上小桌子和盆栽，营造出舒适的休息空间。",
+        "words": [
+            "pool",
+            "lounge",
+            "chairs",
+            "cushions",
+            "area",
+            "tables",
+            "plants",
+            "lounging",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A closed white umbrella stands nearby.",
+        "sentence_cn": "附近立着一把合拢的白色雨伞。",
+        "words": [
+            "umbrella"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is lush with large, mature trees, which offer shade and privacy to the setting.",
+        "sentence_cn": "背景是茂盛的大树，为环境提供了遮荫和隐私。",
+        "words": [
+            "background",
+            "trees",
+            "shade",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there is some landscaping around the perimeter, with various shrubs and flowering plants.",
+        "sentence_cn": "此外，周围还有一些景观，有各种灌木和开花植物。",
+        "words": [
+            "landscaping",
+            "perimeter",
+            "shrubs",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, part of a house is visible, with traditional architecture and large windows.",
+        "sentence_cn": "右边可以看到房子的一部分，具有传统的建筑风格和大窗户。",
+        "words": [
+            "right",
+            "part",
+            "house",
+            "architecture",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An adjacent building or covered area features a sloping roof, complementing the overall harmonious and inviting outdoor space.",
+        "sentence_cn": "相邻的建筑物或有遮盖的区域设有倾斜的屋顶，与整体和谐且诱人的室外空间相得益彰。",
+        "words": [
+            "building",
+            "area",
+            "roof",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image is bathed in warm, golden sunlight, typical of a late afternoon or early evening.",
+        "sentence_cn": "图像沐浴在温暖的金色阳光中，这是午后或傍晚的典型景象。",
+        "words": [
+            "sunlight",
+            "afternoon",
+            "evening"
+        ],
+        "id": null
+    }
+]

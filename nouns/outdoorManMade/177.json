@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image showcases a modern house exterior with a luxurious and aesthetic ambiance.",
+        "sentence_cn": "图片展示了一座现代房屋的外观，具有豪华和美观的氛围。",
+        "words": [
+            "house",
+            "exterior",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The house features large glass windows, allowing ample natural light to enter the interior spaces.",
+        "sentence_cn": "房子设有大玻璃窗，允许充足的自然光进入室内空间。",
+        "words": [
+            "house",
+            "glass",
+            "windows",
+            "light",
+            "spaces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The facade is accented with stone details, adding a natural and rustic look.",
+        "sentence_cn": "外墙以石材细节装饰，增添了自然和质朴的外观。",
+        "words": [
+            "facade",
+            "stone",
+            "details",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the house, there is a beautifully designed swimming pool with a curvy, irregular shape, bordered by natural stone.",
+        "sentence_cn": "房子前面有一个设计精美的游泳池，形状弯曲而不规则，周围环绕着天然石头。",
+        "words": [
+            "front",
+            "house",
+            "swimming",
+            "pool",
+            "shape",
+            "stone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two white lounge chairs with small side tables are positioned on the stone patio, providing a relaxing spot to enjoy the pool view.",
+        "sentence_cn": "石头露台上摆放着两张带有小边桌的白色躺椅，为您提供一个欣赏泳池景色的放松场所。",
+        "words": [
+            "Two",
+            "lounge",
+            "chairs",
+            "tables",
+            "stone",
+            "patio",
+            "spot",
+            "pool",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's a covered outdoor seating area with a table and high chairs, suggesting a space for outdoor dining or socializing.",
+        "sentence_cn": "右侧有一个带顶的户外座位区，配有桌子和高脚椅，是户外用餐或社交的空间。",
+        "words": [
+            "right",
+            "seating",
+            "area",
+            "table",
+            "chairs",
+            "space",
+            "dining",
+            "socializing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding landscape includes well-maintained green lawns and decorative rocks, enhancing the overall tranquil and inviting atmosphere.",
+        "sentence_cn": "周围的景观包括维护良好的绿色草坪和装饰性岩石，增强了整体宁静而温馨的氛围。",
+        "words": [
+            "landscape",
+            "lawns",
+            "rocks",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, with a bright and sunny day, indicating a pleasant outdoor environment.",
+        "sentence_cn": "天空晴朗，阳光明媚，户外环境宜人。",
+        "words": [
+            "sky",
+            "day",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears spacious, open, and elegantly designed, perfect for leisure and entertainment.",
+        "sentence_cn": "环境宽敞、开放、设计优雅，非常适合休闲和娱乐。",
+        "words": [
+            "leisure",
+            "entertainment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,233 @@
+[
+    {
+        "sentence": "The image is a map illustrating family homelessness in Brooklyn, New York, with a focus on the percentage of families with children entering homeless shelters.",
+        "sentence_cn": "该图是一幅描绘纽约布鲁克林家庭无家可归状况的地图，重点关注进入无家可归者收容所的有孩子的家庭的百分比。",
+        "words": [
+            "map",
+            "family",
+            "homelessness",
+            "Brooklyn",
+            "New",
+            "York",
+            "focus",
+            "percentage",
+            "families",
+            "children",
+            "shelters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The map uses color coding to depict varying levels of homelessness across different neighborhoods.",
+        "sentence_cn": "该地图使用颜色编码来描绘不同社区中无家可归者的不同程度。",
+        "words": [
+            "map",
+            "color",
+            "coding",
+            "levels",
+            "homelessness",
+            "neighborhoods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Color Coding:",
+        "sentence_cn": "颜色编码：",
+        "words": [
+            "Color Coding:",
+            "Color",
+            "Coding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Red (2.5% - 3.9%): Indicates the highest percentage of families entering shelters.",
+        "sentence_cn": "- 红色（2.5% - 3.9%）：表示进入避难所的家庭比例最高。",
+        "words": [
+            "Red (2.5% - 3.9%):",
+            "2.5",
+            "3.9",
+            "%",
+            "percentage",
+            "families",
+            "shelters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Neighborhoods in red include Brownsville, Ocean Hill, East New York, and parts of Bedford Stuyvesant.",
+        "sentence_cn": "红色街区包括布朗斯维尔、海洋山、东纽约和贝德福德-斯图维桑特的部分地区。",
+        "words": [
+            "Neighborhoods",
+            "red",
+            "Brownsville",
+            "Ocean",
+            "Hill",
+            "East",
+            "New",
+            "York",
+            "parts",
+            "Bedford",
+            "Stuyvesant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Orange (1.5% - 2.4%): Denotes a moderate-high percentage.",
+        "sentence_cn": "- 橙色（1.5% - 2.4%）：表示中高百分比。",
+        "words": [
+            "Orange (1.5% - 2.4%):",
+            "1.5",
+            "2.4",
+            "%",
+            "percentage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Areas such as Bushwick, Prospect Lefferts Gardens, and Crown Heights are highlighted.",
+        "sentence_cn": "重点介绍了布什维克、展望莱弗茨花园和皇冠高地等地区。",
+        "words": [
+            "Areas",
+            "Bushwick",
+            "Prospect",
+            "Lefferts",
+            "Gardens",
+            "Crown",
+            "Heights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Yellow (0.5% - 1.4%): Represents a moderate-low percentage.",
+        "sentence_cn": "- 黄色（0.5% - 1.4%）：代表中低百分比。",
+        "words": [
+            "Yellow (0.5% - 1.4%):",
+            "0.5",
+            "1.4",
+            "%",
+            "percentage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Neighborhoods like Flatlands, Canarsie, and Sunset Park are marked with this color.",
+        "sentence_cn": "Flatlands、Canarsie 和 Sunset Park 等街区都用这种颜色标记。",
+        "words": [
+            "Neighborhoods",
+            "Flatlands",
+            "Canarsie",
+            "Sunset",
+            "Park",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cream (0.0% - 0.4%): Shows the lowest percentage.",
+        "sentence_cn": "- 奶油色（0.0% - 0.4%）：显示最低百分比。",
+        "words": [
+            "Cream (0.0% - 0.4%):",
+            "Cream",
+            "0.0",
+            "0.4",
+            "%",
+            "percentage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Areas like Bay Ridge, Fort Hamilton, and Sheepshead Bay fall into this category.",
+        "sentence_cn": "湾脊镇 (Bay Ridge)、汉密尔顿堡 (Fort Hamilton) 和羊头湾 (Sheepshead Bay) 等地区都属于这一类。",
+        "words": [
+            "Areas",
+            "Bay",
+            "Ridge",
+            "Fort",
+            "Hamilton",
+            "Sheepshead",
+            "Bay",
+            "category"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key Features:",
+        "sentence_cn": "主要特点：",
+        "words": [
+            "Key Features:",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The map includes labels for various neighborhoods across Brooklyn.",
+        "sentence_cn": "- 地图包括布鲁克林各个街区的标签。",
+        "words": [
+            "map",
+            "labels",
+            "neighborhoods",
+            "Brooklyn"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Major parks and cemeteries are also depicted, such as Prospect Park, Greenwood Cemetery, and Floyd Bennett Field.",
+        "sentence_cn": "- 还描绘了主要公园和墓地，例如展望公园、格林伍德公墓和弗洛伊德·贝内特球场。",
+        "words": [
+            "parks",
+            "cemeteries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The map is produced by the Institute for Children, Poverty & Homelessness (ICPH), as indicated in the top right corner, along with their website.",
+        "sentence_cn": "- 该地图由儿童、贫困与无家可归者研究所 (ICPH) 制作，如右上角所示，并附有其网站。",
+        "words": [
+            "map",
+            "corner",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Source Information:",
+        "sentence_cn": "来源信息：",
+        "words": [
+            "Source Information:",
+            "Source",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Data is sourced from the \"Citizens¡¯ Committee for Children of New York, Keeping Track of New York City¡¯s Children\" and the U.S. Census Bureau (2005-09 American Community Survey 5-Year Estimates).",
+        "sentence_cn": "- 数据来源于“纽约儿童公民委员会，追踪纽约市儿童情况”和美国人口普查局（2005-09 美国社区调查 5 年估计）。",
+        "words": [
+            "Citizens¡¯ Committee for Children of New York, Keeping Track of New York City¡¯s Children",
+            "Data",
+            "New",
+            "York",
+            "City¡¯s",
+            "Children",
+            "2005",
+            "09",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This map serves as a visual representation of family homelessness across Brooklyn, highlighting disparities between different areas.",
+        "sentence_cn": "该地图直观地展现了布鲁克林各地无家可归家庭的情况，凸显了不同地区之间的差异。",
+        "words": [
+            "map",
+            "representation",
+            "family",
+            "homelessness",
+            "Brooklyn",
+            "disparities",
+            "areas"
+        ],
+        "id": null
+    }
+]

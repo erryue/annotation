@@ -1,0 +1,244 @@
+[
+    {
+        "sentence": "This image is a screenshot of a webpage for the Haggerty Museum of Art at Marquette University.",
+        "sentence_cn": "此图是马凯特大学哈格蒂艺术博物馆网页的截图。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page features various sections and information:",
+        "sentence_cn": "该页面包含多个部分和信息：",
+        "words": [
+            "page",
+            "sections",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Navigation Bar: At the top, there are menu options including \"Exhibitions\", \"Permanent Collection\", \"Educational Programs\", \"Support the Haggerty\", \"Events\", and \"Visit\".",
+        "sentence_cn": "1. 导航栏：顶部有“展览”、“永久收藏”、“教育项目”、“支持哈格蒂”、“活动”、“参观”等菜单选项。",
+        "words": [
+            "Navigation Bar",
+            "Exhibitions",
+            "Permanent Collection",
+            "Educational Programs",
+            "Support the Haggerty",
+            "Events",
+            "Visit",
+            "Navigation",
+            "Bar",
+            "top",
+            "menu",
+            "options",
+            "Exhibitions",
+            "Collection",
+            "Events",
+            "Visit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a search bar on the upper left.",
+        "sentence_cn": "左上角还有一个搜索栏。",
+        "words": [
+            "search",
+            "bar",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Header: The museum's name and logo are displayed, along with \"30 Years\" commemorating an anniversary.",
+        "sentence_cn": "2. 标题：显示博物馆的名称和标志，以及纪念周年的“30 周年”。",
+        "words": [
+            "Header",
+            "30 Years",
+            "Header",
+            "museum",
+            "name",
+            "logo",
+            "30",
+            "anniversary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Main Image: A photograph of an art installation or exhibition space within the museum shows a colorful array of artwork on a wall and some pieces arranged on a shelf or display area.",
+        "sentence_cn": "3. 主图：博物馆内艺术装置或展览空间的照片显示，墙上挂着一系列色彩缤纷的艺术品，还有一些作品摆放在架子或展示区上。",
+        "words": [
+            "Main Image",
+            "Image",
+            "photograph",
+            "art",
+            "installation",
+            "exhibition",
+            "space",
+            "museum",
+            "array",
+            "artwork",
+            "wall",
+            "pieces",
+            "shelf",
+            "display",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Exhibition Information:",
+        "sentence_cn": "4. 展览信息：",
+        "words": [
+            "Exhibition Information",
+            "Exhibition",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Current Tendencies IV: Topography Transformed\"",
+        "sentence_cn": "- “当前趋势IV：地形转变”",
+        "words": [
+            "Current Tendencies IV: Topography Transformed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Out of the Vaults: Keith Haring\"",
+        "sentence_cn": "- “走出保险库：基思·哈林”",
+        "words": [
+            "Out of the Vaults: Keith Haring",
+            "Vaults"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"On View(s): Highlights from the Permanent Collection\"",
+        "sentence_cn": "- “展览：永久收藏精选”",
+        "words": [
+            "On View(s): Highlights from the Permanent Collection",
+            "Highlights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "There are links labeled \"More information\" for each exhibition.",
+        "sentence_cn": "每个展览都有标有“更多信息”的链接。",
+        "words": [
+            "More information",
+            "links",
+            "information",
+            "exhibition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Dates: The exhibitions mentioned run from June 18 to August 30, 2015.",
+        "sentence_cn": "5. 日期： 上述展览将于 2015 年 6 月 18 日至 8 月 30 日举行。",
+        "words": [
+            "Dates",
+            "Dates",
+            "exhibitions",
+            "18",
+            "30",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Additional Information:",
+        "sentence_cn": "6.附加信息：",
+        "words": [
+            "Additional Information",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"The Haggerty at 30\" discusses celebrating the museum¡¯s 30-year history during the 2015 exhibition season.",
+        "sentence_cn": "- “哈格蒂博物馆 30 周年”探讨了在 2015 年展览季庆祝博物馆 30 周年历史的问题。",
+        "words": [
+            "The Haggerty at 30",
+            "30",
+            "30",
+            "year",
+            "history",
+            "2015",
+            "exhibition",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Open Daily\" hours are provided along with free parking details.",
+        "sentence_cn": "- 提供“每日开放”时间以及免费停车详情。",
+        "words": [
+            "Open Daily",
+            "hours",
+            "parking",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An event listed for Thursday, August 27, 2015, features the \"Enso Collective Improvisational Dance\" followed by a reception.",
+        "sentence_cn": "- 2015 年 8 月 27 日星期四的活动包括“Enso 集体即兴舞蹈”和招待会。",
+        "words": [
+            "Enso Collective Improvisational Dance",
+            "event",
+            "27",
+            "2015",
+            "reception"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Social Media: Icons for various social media platforms appear at the top right corner.",
+        "sentence_cn": "7. 社交媒体：右上角出现各种社交媒体平台的图标。",
+        "words": [
+            "Social Media",
+            "Social",
+            "Icons",
+            "media",
+            "platforms",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Thumbnail Images: A strip of smaller images is shown below the main photograph, likely representing different exhibits or artworks.",
+        "sentence_cn": "8. 缩略图：主照片下方显示一排较小的图像，可能代表不同的展品或艺术品。",
+        "words": [
+            "Thumbnail Images",
+            "Thumbnail",
+            "Images",
+            "strip",
+            "images",
+            "photograph",
+            "exhibits",
+            "artworks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the page is designed to give visitors a view of current exhibitions and visitor information at the Haggerty Museum of Art.",
+        "sentence_cn": "总体而言，该页面旨在让游客了解哈格蒂艺术博物馆当前的展览和游客信息。",
+        "words": [
+            "page",
+            "visitors",
+            "view",
+            "exhibitions",
+            "visitor",
+            "information"
+        ],
+        "id": null
+    }
+]

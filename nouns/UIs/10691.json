@@ -1,0 +1,189 @@
+[
+    {
+        "sentence": "The image is a real estate listing for a property located at 2182 45th Ave, San Francisco, CA 94116.",
+        "sentence_cn": "该图片是一份位于 2182 45th Ave, San Francisco, CA 94116 的房地产清单。",
+        "words": [
+            "estate",
+            "listing",
+            "property",
+            "2182",
+            "San",
+            "Francisco",
+            "CA",
+            "94116"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here are the details:",
+        "sentence_cn": "以下是详细信息：",
+        "words": [
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Price: $1,299,450",
+        "sentence_cn": "-价格：1,299,450 美元",
+        "words": [
+            "Price",
+            "Price",
+            "1,299,450"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Description: It's a single-family home featuring 3 bedrooms and 2 bathrooms, with a total area of 1,672 square feet.",
+        "sentence_cn": "- 描述：这是一栋独户住宅，设有 3 间卧室和 2 间浴室，总面积为 1,672 平方英尺。",
+        "words": [
+            "Description",
+            "Description",
+            "family",
+            "home",
+            "3",
+            "bedrooms",
+            "2",
+            "bathrooms",
+            "area",
+            "1,672",
+            "feet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Listing Age: The home has been listed for 1 day on Trulia.",
+        "sentence_cn": "- 挂牌年限：该房屋已在 Trulia 上挂牌 1 天。",
+        "words": [
+            "Listing Age",
+            "Listing",
+            "Age",
+            "home",
+            "1",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Estimated Mortgage: There is an estimated monthly mortgage of $5,945.",
+        "sentence_cn": "- 估计抵押贷款：估计每月抵押贷款为 5,945 美元。",
+        "words": [
+            "Estimated Mortgage",
+            "Mortgage",
+            "mortgage",
+            "5,945"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visuals: The image includes a photograph of the home's front facade, showing a grey exterior with a prominent white door and a garage.",
+        "sentence_cn": "- 视觉效果：图片中包括房屋正面的照片，显示灰色的外观、显眼的白色门和车库。",
+        "words": [
+            "Visuals",
+            "Visuals",
+            "photograph",
+            "home",
+            "facade",
+            "exterior",
+            "door",
+            "garage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are window shutters on the side.",
+        "sentence_cn": "侧面有百叶窗。",
+        "words": [
+            "window",
+            "shutters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Options:",
+        "sentence_cn": "- 附加选项：",
+        "words": [
+            "Additional Options",
+            "Options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Get Pre-Qualified\" link for mortgage assistance.",
+        "sentence_cn": "- 获取抵押贷款援助的“预审资格”链接。",
+        "words": [
+            "Get Pre-Qualified",
+            "link",
+            "mortgage",
+            "assistance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Options for \"Directions,\" \"Street View,\" and \"Map\" for further location details.",
+        "sentence_cn": "- 提供“路线”、“街景”和“地图”选项以获取更多位置详情。",
+        "words": [
+            "Directions,",
+            "Street View,",
+            "Map",
+            "Options",
+            "Directions",
+            "Map",
+            "location",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Attend an Open House\" section indicates no open houses are currently scheduled but offers a \"Schedule a Tour\" option.",
+        "sentence_cn": "- “参加开放日”部分表示目前没有安排开放日，但提供“安排参观”选项。",
+        "words": [
+            "Attend an Open House",
+            "Schedule a Tour",
+            "House",
+            "section",
+            "houses",
+            "Tour",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A prominent \"Request Info\" button is provided for inquiries.",
+        "sentence_cn": "- 提供显眼的“请求信息”按钮以供查询。",
+        "words": [
+            "Request Info",
+            "Info",
+            "button",
+            "inquiries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also displays app interface elements, such as a heart icon for saving the listing, a share icon for sharing options, and navigation buttons.",
+        "sentence_cn": "图像还显示了应用程序界面元素，例如用于保存列表的心形图标、用于共享选项的共享图标和导航按钮。",
+        "words": [
+            "app",
+            "interface",
+            "elements",
+            "heart",
+            "icon",
+            "listing",
+            "share",
+            "icon",
+            "options",
+            "navigation",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time shown on the device is 1:23.",
+        "sentence_cn": "设备上显示的时间是1:23。",
+        "words": [
+            "time",
+            "device",
+            "1:23"
+        ],
+        "id": null
+    }
+]

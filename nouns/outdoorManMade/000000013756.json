@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image depicts a scenic canal view in a city, likely in Amsterdam, Netherlands.",
+        "sentence_cn": "该图描绘的是一座城市的美丽运河景观，该城市可能是荷兰的阿姆斯特丹。",
+        "words": [
+            "canal",
+            "view",
+            "city",
+            "Amsterdam",
+            "Netherlands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A tall, historic clock tower, possibly the Westerkerk, dominates the skyline.",
+        "sentence_cn": "一座高大的、历史悠久的钟楼（可能是西教堂）主宰着天际线。",
+        "words": [
+            "clock",
+            "tower",
+            "skyline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tower has a large clock face and is topped with a decorative structure, which could include a bell tower and spire.",
+        "sentence_cn": "该塔有一个巨大的钟面，顶部有一个装饰结构，可能包括钟楼和尖顶。",
+        "words": [
+            "tower",
+            "clock",
+            "face",
+            "structure",
+            "bell",
+            "tower",
+            "spire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the canal, there are traditional European buildings with classic gabled roofs, characteristic of Dutch architecture.",
+        "sentence_cn": "运河两岸，分布着传统的欧式建筑，其经典的山墙式屋顶是荷兰建筑的特色。",
+        "words": [
+            "canal",
+            "buildings",
+            "roofs",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Numerous parked cars line the edges of the canal, and several small boats are seen on the water.",
+        "sentence_cn": "运河边停着许多汽车，水面上还有几艘小船。",
+        "words": [
+            "cars",
+            "edges",
+            "canal",
+            "boats",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The trees flanking the canal are leafless, suggesting the season might be winter or early spring.",
+        "sentence_cn": "运河两旁的树木都没有叶子，这表明现在可能是冬季或早春。",
+        "words": [
+            "trees",
+            "canal",
+            "season",
+            "winter",
+            "spring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is partly cloudy, with sunlight breaking through to illuminate parts of the scene, contributing to the tranquil atmosphere.",
+        "sentence_cn": "天空多云，阳光穿透云层照亮部分场景，营造出宁静的氛围。",
+        "words": [
+            "sky",
+            "sunlight",
+            "parts",
+            "scene",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

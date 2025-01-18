@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"La Femme Nikita.\"",
+        "sentence_cn": "图片是电影《尼基塔》的电影海报。",
+        "words": [
+            "La Femme Nikita.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, bold pink text reads: \"The Hit of Paris and London Has Come to America.\"",
+        "sentence_cn": "顶部用粗体粉色字体写着：“巴黎和伦敦的热潮已经来到美国。”",
+        "words": [
+            "The Hit of Paris and London Has Come to America.",
+            "top",
+            "text",
+            "Hit",
+            "Paris",
+            "London",
+            "America"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, a quote from Sky Magazine (London) describes the film as \"The coolest, hippest, most stylish French thriller in ages,\" with the text colored in light pink on the left side.",
+        "sentence_cn": "下方是来自伦敦天空杂志的一段话，将这部电影描述为“多年来最酷、最时髦、最有风格的法国惊悚片”，左侧的文字用浅粉色表示。",
+        "words": [
+            "The coolest, hippest, most stylish French thriller in ages,",
+            "quote",
+            "London",
+            "film",
+            "thriller",
+            "ages",
+            "text",
+            "pink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a woman sitting against a wall, holding a gun.",
+        "sentence_cn": "背景中有一个女人靠墙坐着，手里拿着枪。",
+        "words": [
+            "background",
+            "woman",
+            "wall",
+            "gun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is wearing a black outfit with high heels, conveying a tense and mysterious atmosphere.",
+        "sentence_cn": "她身穿一身黑色套装，搭配高跟鞋，传达出一种紧张而神秘的气氛。",
+        "words": [
+            "outfit",
+            "heels",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is bluish, enhancing the dramatic mood of the poster.",
+        "sentence_cn": "灯光偏蓝，增强了海报的戏剧氛围。",
+        "words": [
+            "lighting",
+            "mood",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"la femme NIKITA\" is prominently displayed in the lower part of the poster, with \"la femme\" in light green and \"NIKITA\" in bold red letters.",
+        "sentence_cn": "海报下部显著地显示着标题“la femme NIKITA”，其中“la femme”为浅绿色，“NIKITA”为粗体红色字母。",
+        "words": [
+            "la femme NIKITA",
+            "la femme",
+            "NIKITA",
+            "title",
+            "part",
+            "poster",
+            "green",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, details about the film are listed, including the names of the cast and crew, and production information.",
+        "sentence_cn": "标题下方列出了电影的详细信息，包括演员和剧组人员的姓名以及制作信息。",
+        "words": [
+            "title",
+            "details",
+            "film",
+            "names",
+            "cast",
+            "crew",
+            "production",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster includes a Restricted (R) rating notice.",
+        "sentence_cn": "海报中包含“限制性（R）”评级通知。",
+        "words": [
+            "poster",
+            "R",
+            "rating",
+            "notice"
+        ],
+        "id": null
+    }
+]

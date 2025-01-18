@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image depicts a natural scene in a savanna setting.",
+        "sentence_cn": "该图描绘的是大草原上的自然景观。",
+        "words": [
+            "scene",
+            "savanna"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a baboon walking on the ground.",
+        "sentence_cn": "前景中，有一只狒狒在地上行走。",
+        "words": [
+            "foreground",
+            "baboon",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To its right, two giraffes are interacting.",
+        "sentence_cn": "在它的右边，两只长颈鹿正在互动。",
+        "words": [
+            "right",
+            "two",
+            "giraffes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffe in front is leaning its neck over its companion, possibly engaging in social or playful behavior.",
+        "sentence_cn": "前面的长颈鹿正把脖子探向它的同伴，可能正在进行社交或嬉戏的行为。",
+        "words": [
+            "giraffe",
+            "front",
+            "neck",
+            "companion",
+            "behavior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is dry with patches of grass and small bushes scattered throughout.",
+        "sentence_cn": "景观干燥，到处散布着草地和小灌木丛。",
+        "words": [
+            "landscape",
+            "patches",
+            "grass",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features more vegetation, including trees and shrubs, set against a clear sky, indicating a typical savanna ecosystem.",
+        "sentence_cn": "背景中有更多的植被，包括树木和灌木，在晴朗的天空映衬下，表明这是一个典型的稀树草原生态系统。",
+        "words": [
+            "background",
+            "vegetation",
+            "trees",
+            "shrubs",
+            "sky",
+            "savanna",
+            "ecosystem"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests that the photo might have been taken during the late afternoon or early morning.",
+        "sentence_cn": "从光线来看，这张照片可能是在下午晚些时候或清晨拍摄的。",
+        "words": [
+            "lighting",
+            "photo",
+            "afternoon",
+            "morning"
+        ],
+        "id": null
+    }
+]

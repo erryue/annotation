@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image depicts a well-lit hotel room with a warm and cozy ambiance.",
+        "sentence_cn": "图片描绘的是一间光线充足的酒店房间，氛围温暖而舒适。",
+        "words": [
+            "hotel",
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a large bed with white linens on the left side.",
+        "sentence_cn": "左侧有一张大床，铺着白色的床单。",
+        "words": [
+            "bed",
+            "linens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the bed is a small beige sofa adorned with red cushions, adding a touch of color.",
+        "sentence_cn": "床旁边是一张米色的小沙发，上面装饰着红色的靠垫，增添了一抹色彩。",
+        "words": [
+            "bed",
+            "sofa",
+            "cushions",
+            "touch",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A sleek glass-top coffee table sits in front of the sofa.",
+        "sentence_cn": "沙发前有一张光滑的玻璃面咖啡桌。",
+        "words": [
+            "glass",
+            "top",
+            "coffee",
+            "table",
+            "front",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large window spans the right wall, and although it's nighttime, the reflection inside the window shows the room's interior and a lamp glowing softly.",
+        "sentence_cn": "右边的墙上有一扇大窗户，虽然是晚上，但窗户内的倒影却显示出房间的内部和一盏柔和发光的灯。",
+        "words": [
+            "window",
+            "wall",
+            "reflection",
+            "window",
+            "room",
+            "interior",
+            "lamp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are elegant beige curtains partially drawn on either side of the window.",
+        "sentence_cn": "窗户两侧均挂有优雅的米色窗帘，部分拉上。",
+        "words": [
+            "curtains",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Opposite the bed is a wooden desk with a matching chair, bearing a few items such as papers or a book.",
+        "sentence_cn": "床对面是一张木桌和一把配套的椅子，上面放着一些文件和书籍等物品。",
+        "words": [
+            "bed",
+            "desk",
+            "chair",
+            "items",
+            "papers",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The carpet is patterned and complements the room's overall neutral palette.",
+        "sentence_cn": "地毯带有图案，与房间的整体中性色调相得益彰。",
+        "words": [
+            "carpet",
+            "room",
+            "palette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall above the sofa, there are several framed artworks.",
+        "sentence_cn": "沙发上方的墙壁上，挂着几幅相框艺术品。",
+        "words": [
+            "wall",
+            "sofa",
+            "artworks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A subtle, balanced arrangement of furniture and decor contributes to the room's inviting atmosphere.",
+        "sentence_cn": "家具和装饰的巧妙、均衡的布置营造了房间温馨的氛围。",
+        "words": [
+            "arrangement",
+            "furniture",
+            "decor",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image showcases a collection of decorative vases and vessels displayed in a museum setting.",
+        "sentence_cn": "图片展示了博物馆中陈列的一系列装饰花瓶和器皿。",
+        "words": [
+            "collection",
+            "vases",
+            "vessels",
+            "museum"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Front Left: A round vase with an iridescent finish, displaying a swirling pattern of blues, purples, and reds that catch the light, giving it a vibrant, reflective look",
+        "sentence_cn": "1. 左前部：圆形花瓶，表面呈彩虹色，呈现出蓝色、紫色和红色的旋涡状图案，在光线照射下，呈现出鲜明的反光效果",
+        "words": [
+            "Front Left",
+            "vase",
+            "finish",
+            "pattern",
+            "blues",
+            "purples",
+            "reds",
+            "light",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Back Left: A tall, slender vase with a wide, flared opening that resembles a flower.",
+        "sentence_cn": "2. 后左：一个又高又细的花瓶，有一个宽大的喇叭形开口，形似一朵花。",
+        "words": [
+            "Back Left",
+            "vase",
+            "opening",
+            "flower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has an iridescent green finish, with hints of gold and yellow.",
+        "sentence_cn": "它具有彩虹色的绿色光泽，略带金色和黄色。",
+        "words": [
+            "finish",
+            "hints",
+            "gold",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Center: A tall, ceramic ewer with a handle, featuring a matte beige background and decorated with delicate brown botanical designs.",
+        "sentence_cn": "3. 中心：一个高大的陶瓷水罐，带有一个手柄，背景为哑光米色，并饰有精致的棕色植物图案。",
+        "words": [
+            "Center",
+            "Center",
+            "ewer",
+            "handle",
+            "background",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The base and neck are adorned with textured bands.",
+        "sentence_cn": "底座和颈部饰有纹理带。",
+        "words": [
+            "base",
+            "neck",
+            "bands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Right Center: A gourd-shaped vessel, adorned with intricate gold floral motifs over a muted olive green background, combining elegance with a touch of nature.",
+        "sentence_cn": "4. 右中：葫芦形容器，在柔和的橄榄绿色背景上装饰着复杂的金色花卉图案，将优雅与自然融为一体。",
+        "words": [
+            "Right Center",
+            "gourd",
+            "vessel",
+            "motifs",
+            "background",
+            "elegance",
+            "touch",
+            "nature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Far Right: A bulbous vessel with a long neck, decorated with elaborate floral and abstract patterns in gold and earth tones, enriched with elaborate designs.",
+        "sentence_cn": "5. 最右边：一个球状容器，颈部有长颈，装饰有金色和土色调的精美花卉和抽象图案，设计精美。",
+        "words": [
+            "Far Right",
+            "vessel",
+            "neck",
+            "patterns",
+            "gold",
+            "earth",
+            "tones",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The items are exhibited against a reflective background within a display case, highlighting their artistic and historical importance.",
+        "sentence_cn": "这些物品在展示柜中以反光背景展出，凸显了它们的艺术和历史意义。",
+        "words": [
+            "items",
+            "background",
+            "display",
+            "case",
+            "importance"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "id": "b15e2ea3-852a-4b7c-a5d1-8156ab2ac7ae",
+        "confidence": 0.86581,
+        "class": "bowl",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 234.31445,
+                        "minY": 533.92773,
+                        "maxX": 471.77527,
+                        "maxY": 659.01147
+                    },
+                    "x": 234.31445,
+                    "y": 533.92773,
+                    "w": 237.46081999999998,
+                    "h": 125.08374000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "58d79e8a-e917-4a25-b91b-bd382479a4ad",
+        "confidence": 0.80555,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 369.22504,
+                        "minY": 357.7446,
+                        "maxX": 769.85406,
+                        "maxY": 629.97424
+                    },
+                    "x": 369.22504,
+                    "y": 357.7446,
+                    "w": 400.62902,
+                    "h": 272.22964
+                }
+            }
+        }
+    }
+]

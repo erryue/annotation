@@ -4,6 +4,33 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>LLM vision</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    div {
+      margin: 20px;
+    }
+    label {
+      font-weight: bold;
+      margin-bottom: 5px;
+      display: block;
+    }
+    select {
+      width: 400px;
+      margin-bottom: 15px;
+      padding: 5px;
+    }
+    button {
+      display: block;
+      width: 100px;
+      padding: 10px;
+      font-weight: bold;
+      cursor: pointer;
+      margin-top: 15px;
+      background-color: white;
+    }
+  </style>
 </head>
 
 <body>
@@ -18,7 +45,7 @@
     
     <!-- 第二个选择框 - image_name -->
     <label for="image-select">Choose an image:</label>
-    <select id="image-select">
+    <select id="image-select" class="form-select" size= '25' multiple aria-label="multiple select example" size="8">
       <!-- image name options will be dynamically added -->
     </select>
 
@@ -35,7 +62,7 @@
     // 加载外部 JSON 文件
     async function loadImageData() {
       try {
-        const response = await fetch('paths_example.json');  
+        const response = await fetch('paths.json');  
         imageData = await response.json(); 
         updateCategoryOptions();
       } catch (error) {
@@ -43,12 +70,9 @@
       }
     }
 
-    // Function to update the image types in the category select dropdown
+    // 更新第一个选择框的选项
     function updateCategoryOptions() {
-      // Collect unique image types from the data
       const imageTypes = [...new Set(imageData.map(item => item.image_type))];
-      
-      // Clear existing options
       categorySelect.innerHTML = '';
       
       // Add a default prompt option
@@ -65,12 +89,9 @@
       });
     }
 
-    // Function to update the image names based on selected image type
+    // 更新第二个选择框的选项
     function updateImageOptions(category) {
-      // Filter the data by the selected image type
       const filteredImages = imageData.filter(item => item.image_type === category);
-      
-      // Clear existing options
       imageSelect.innerHTML = '';
       
       // Add a default prompt option

@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image shows a meal served on a white plate positioned on a wooden table.",
+        "sentence_cn": "图中显示的是盛在木桌上的白色盘子里的饭菜。",
+        "words": [
+            "meal",
+            "plate",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate features a scrambled egg dish on one side, possibly mixed with vegetables like onions or peppers.",
+        "sentence_cn": "盘子的一侧是炒鸡蛋，可能还混合了洋葱或辣椒等蔬菜。",
+        "words": [
+            "plate",
+            "egg",
+            "dish",
+            "one",
+            "vegetables",
+            "onions",
+            "peppers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it is a fresh salad made of leafy greens and topped with sliced tomatoes.",
+        "sentence_cn": "旁边是一份用绿叶蔬菜做成的新鲜沙拉，上面放着切片西红柿。",
+        "words": [
+            "salad",
+            "greens",
+            "tomatoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there is a glass of water.",
+        "sentence_cn": "桌子上有一杯水。",
+        "words": [
+            "table",
+            "glass",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside it, a bottle, likely containing olive oil or vinegar, is visible.",
+        "sentence_cn": "旁边有一个瓶子，可能装有橄榄油或醋。",
+        "words": [
+            "bottle",
+            "oil",
+            "vinegar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A knife rests on the table, and a fork is placed near the plate.",
+        "sentence_cn": "刀子放在桌子上，叉子放在盘子旁边。",
+        "words": [
+            "knife",
+            "table",
+            "fork",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A jar of salt is also present.",
+        "sentence_cn": "还有一罐盐。",
+        "words": [
+            "jar",
+            "salt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a simple, home-cooked meal.",
+        "sentence_cn": "整体布置让人感觉像是一顿简单的家常饭。",
+        "words": [
+            "home",
+            "meal"
+        ],
+        "id": null
+    }
+]

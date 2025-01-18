@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image features a group of cyclists gathered on a curved bridge or pathway.",
+        "sentence_cn": "照片中是一群骑自行车的人聚集在一座弯桥或小路上。",
+        "words": [
+            "group",
+            "cyclists",
+            "bridge",
+            "pathway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pathway has yellow lines and arrows indicating direction.",
+        "sentence_cn": "路径上有黄线和箭头指示方向。",
+        "words": [
+            "pathway",
+            "lines",
+            "arrows",
+            "direction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cyclists, numbering around twenty, are posing enthusiastically, with several holding their arms up or outstretched.",
+        "sentence_cn": "大约二十名骑行者摆出了热情的姿势，其中有几人举起手臂或伸展手臂。",
+        "words": [
+            "cyclists",
+            "twenty",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are wearing various cycling gear, including helmets, sunglasses, and bright, colorful clothing.",
+        "sentence_cn": "他们穿着各种骑行装备，包括头盔、太阳镜和色彩鲜艳的衣服。",
+        "words": [
+            "cycling",
+            "gear",
+            "helmets",
+            "sunglasses",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some are on their bicycles, while others are standing alongside.",
+        "sentence_cn": "有的人骑着自行车，有的人站在旁边。",
+        "words": [
+            "bicycles",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surroundings include greenery and trees in the background, with a visible metal railing along the pathway.",
+        "sentence_cn": "周围环境包括绿色植物和树木，小路旁边有明显的金属栏杆。",
+        "words": [
+            "surroundings",
+            "greenery",
+            "trees",
+            "background",
+            "metal",
+            "railing",
+            "pathway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears lively and cheerful, as if they are part of a group ride or event.",
+        "sentence_cn": "气氛显得活跃而愉快，就好像他们是集体骑行或活动的一部分。",
+        "words": [
+            "atmosphere",
+            "part",
+            "group",
+            "ride",
+            "event"
+        ],
+        "id": null
+    }
+]

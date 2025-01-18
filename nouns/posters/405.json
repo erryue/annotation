@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Mission: Impossible.\"",
+        "sentence_cn": "图片是电影《碟中谍》的海报。",
+        "words": [
+            "Mission: Impossible.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a bold and dramatic design with a large profile silhouette of a man's head in blue and black tones against a light background.",
+        "sentence_cn": "它的设计大胆而富有戏剧性，在浅色背景上以蓝色和黑色色调呈现出男人头部的大轮廓。",
+        "words": [
+            "design",
+            "profile",
+            "silhouette",
+            "man",
+            "head",
+            "tones",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the name \"TOM CRUISE\" is prominently displayed in large, red capital letters.",
+        "sentence_cn": "在顶部，“汤姆·克鲁斯”的名字以红色大写字母突出显示。",
+        "words": [
+            "TOM CRUISE",
+            "top",
+            "name",
+            "capital",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the silhouette, the title \"MISSION: IMPOSSIBLE\" is written in large, pink and red letters.",
+        "sentence_cn": "剪影下方，用大大的粉红色和红色字母写着“碟中谍”的标题。",
+        "words": [
+            "MISSION: IMPOSSIBLE",
+            "silhouette",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background of the poster includes faint outlines of a world map, adding a sense of intrigue and global scale.",
+        "sentence_cn": "海报背景包括世界地图的模糊轮廓，增添了一种神秘感和全球规模感。",
+        "words": [
+            "background",
+            "poster",
+            "outlines",
+            "world",
+            "map",
+            "sense",
+            "intrigue",
+            "scale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Along the bottom, there's a row of smaller text that usually includes credits and the PG-13 rating.",
+        "sentence_cn": "底部有一排较小的文字，通常包括片尾字幕和 PG-13 评级。",
+        "words": [
+            "bottom",
+            "row",
+            "text",
+            "credits",
+            "PG-13",
+            "rating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design conveys a sense of action and suspense, in keeping with the film's themes.",
+        "sentence_cn": "整体设计传达出一种动作和悬疑的感觉，与电影的主题一致。",
+        "words": [
+            "design",
+            "sense",
+            "action",
+            "suspense",
+            "film",
+            "themes"
+        ],
+        "id": null
+    }
+]

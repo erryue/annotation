@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image captures a lively street scene with a focus on bicycles and public transport.",
+        "sentence_cn": "",
+        "words": [
+            "street",
+            "scene",
+            "focus",
+            "bicycles",
+            "transport"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several bicycles parked or being used.",
+        "sentence_cn": "前景中，有几辆停放或正在使用的自行车。",
+        "words": [
+            "foreground",
+            "bicycles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One individual is sitting or possibly fixing something on a bicycle.",
+        "sentence_cn": "一个人正坐在自行车上，或者可能在修理自行车上的某件东西。",
+        "words": [
+            "One",
+            "individual",
+            "bicycle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a large bus with a red and white color scheme, and a person riding a bicycle is near it.",
+        "sentence_cn": "右边有一辆红白配色的大型巴士，旁边还有一名骑着自行车的人。",
+        "words": [
+            "right",
+            "bus",
+            "color",
+            "scheme",
+            "person",
+            "bicycle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, numerous people are riding bicycles across the street, indicating a busy urban environment.",
+        "sentence_cn": "背景中，许多人骑着自行车穿过街道，显示出繁忙的城市环境。",
+        "words": [
+            "background",
+            "people",
+            "bicycles",
+            "street",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are trees with green foliage above, suggesting a canopy or shade on the road.",
+        "sentence_cn": "树木上方有绿叶，暗示道路上有树冠或阴凉处。",
+        "words": [
+            "trees",
+            "foliage",
+            "canopy",
+            "shade",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the distance, a large, historic-looking structure with archways is visible, possibly an old city gate, flanked by trees and a billboard.",
+        "sentence_cn": "远处，可以看到一座巨大的、具有历史意义的带有拱门的建筑，可能是一座古城门，两侧是树木和广告牌。",
+        "words": [
+            "distance",
+            "structure",
+            "archways",
+            "city",
+            "gate",
+            "trees",
+            "billboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere suggests an active and possibly older urban setting.",
+        "sentence_cn": "整体氛围体现出一种活跃且可能较为古老的城市环境。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

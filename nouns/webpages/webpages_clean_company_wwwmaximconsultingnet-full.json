@@ -1,0 +1,137 @@
+[
+    {
+        "sentence": "The image is a website homepage for Scytl, a company focused on \"Innovating Democracy.\"",
+        "sentence_cn": "图片是专注于“创新民主”的公司Scytl的网站主页。",
+        "words": [
+            "Innovating Democracy.",
+            "website",
+            "homepage",
+            "company",
+            "Democracy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design features a dark gray navigational menu at the top with options such as \"What We Do,\" \"Solutions,\" \"Products,\" \"Election Type,\" \"Customers,\" \"Research,\" and \"About Us.\"",
+        "sentence_cn": "该设计的顶部有一个深灰色的导航菜单，其中包含“我们做什么”、“解决方案”、“产品”、“选举类型”、“客户”、“研究”和“关于我们”等选项。",
+        "words": [
+            "What We Do,",
+            "Solutions,",
+            "Products,",
+            "Election Type,",
+            "Customers,",
+            "Research,",
+            "About Us.",
+            "design",
+            "menu",
+            "top",
+            "options",
+            "Solutions",
+            "Products",
+            "Election",
+            "Type",
+            "Customers",
+            "Research"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the upper right corner, there are links for \"Contact,\" \"Partners,\" \"News,\" \"Careers,\" and a language selection option.",
+        "sentence_cn": "右上角有“联系”、“合作伙伴”、“新闻”、“职业”链接和语言选择选项。",
+        "words": [
+            "Contact,",
+            "Partners,",
+            "News,",
+            "Careers,",
+            "corner",
+            "links",
+            "News",
+            "Careers",
+            "language",
+            "selection",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there is a prominent banner with a teal-colored overlay, featuring the text \"2015 State Elections New South Wales\" and information about accessible online voting for persons with disabilities and remote voters.",
+        "sentence_cn": "下面是一条显眼的横幅，上面覆盖着青绿色的文字，上面写着“2015 年新南威尔士州选举”以及有关为残疾人和远程选民提供无障碍网上投票的信息。",
+        "words": [
+            "2015 State Elections New South Wales",
+            "banner",
+            "teal",
+            "overlay",
+            "text",
+            "2015",
+            "information",
+            "voting",
+            "persons",
+            "disabilities",
+            "voters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a \"View Now\" button.",
+        "sentence_cn": "还有一个“立即查看”按钮。",
+        "words": [
+            "View Now",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a partial image of a tablet screen with a play button suggests a video feature.",
+        "sentence_cn": "右侧，带有播放按钮的平板电脑屏幕部分图像表明具有视频功能。",
+        "words": [
+            "right",
+            "tablet",
+            "screen",
+            "play",
+            "button",
+            "video",
+            "feature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, there are sections titled \"Latest Election Modernization News\" on the left, with updates like strategic partnerships and promotions, and \"Innovating Democracy Video\" on the right, suggesting a video that seems to be around 1:47 long.",
+        "sentence_cn": "横幅下方，左侧是“最新选举现代化新闻”部分，其中包含战略合作伙伴关系和促销等最新动态，右侧是“创新民主视频”，显示该视频时长约为 1 分 47 秒。",
+        "words": [
+            "Latest Election Modernization News",
+            "Innovating Democracy Video",
+            "banner",
+            "sections",
+            "left",
+            "updates",
+            "partnerships",
+            "promotions",
+            "right",
+            "video",
+            "1:47"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a transparent cookie consent notification with a button to \"Accept.\"",
+        "sentence_cn": "在底部，有一个透明的 cookie 同意通知，其中有一个“接受”按钮。",
+        "words": [
+            "Accept.",
+            "bottom",
+            "cookie",
+            "consent",
+            "notification",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Social media icons for Twitter, Facebook, and LinkedIn are seen on the right side.",
+        "sentence_cn": "右侧显示 Twitter、Facebook 和 LinkedIn 的社交媒体图标。",
+        "words": [
+            "media",
+            "icons"
+        ],
+        "id": null
+    }
+]

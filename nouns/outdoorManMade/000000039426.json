@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image depicts a busy urban street scene lined with multiple public buses, predominantly colored in turquoise with white detailing.",
+        "sentence_cn": "该图片描绘的是繁忙的城市街道场景，街道两旁停满了多辆公共汽车，主要颜色为绿松石色，带有白色细节。",
+        "words": [
+            "street",
+            "scene",
+            "buses",
+            "detailing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A group of people is walking along the sidewalk, and some are waiting at a bus stop.",
+        "sentence_cn": "一群人正在人行道上行走，还有一些人在公交车站等车。",
+        "words": [
+            "group",
+            "people",
+            "sidewalk",
+            "bus",
+            "stop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene appears bustling, indicating a busy time of day, likely in a city center.",
+        "sentence_cn": "场景看起来很熙熙攘攘，表明一天中正值繁忙时段，很可能是在市中心。",
+        "words": [
+            "scene",
+            "time",
+            "day",
+            "city",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the image is a multi-story hotel building with the \"Marriott\" logo visible, characterized by a modern architectural style with numerous windows.",
+        "sentence_cn": "图片左侧是一栋多层酒店建筑，清晰可见“万豪”标志，其建筑风格现代，窗户众多。",
+        "words": [
+            "Marriott",
+            "left",
+            "hotel",
+            "building",
+            "logo",
+            "style",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are additional buildings and a street lined with trees, adding a touch of greenery to the urban setting.",
+        "sentence_cn": "背景中，有额外的建筑物和树木林立的街道，为城市环境增添了一丝绿意。",
+        "words": [
+            "background",
+            "buildings",
+            "street",
+            "trees",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is partly cloudy with patches of blue visible, suggesting fair weather.",
+        "sentence_cn": "天空多云，可见片片蓝光，预示天气晴朗。",
+        "words": [
+            "sky",
+            "patches",
+            "weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Advertising boards can be seen on the pavement, and the overall atmosphere conveys the vibrancy of city life, with a focus on public transportation.",
+        "sentence_cn": "人行道上随处可见广告牌，整体氛围传达出城市生活的活力，重点关注公共交通。",
+        "words": [
+            "Advertising",
+            "boards",
+            "pavement",
+            "atmosphere",
+            "vibrancy",
+            "city",
+            "life",
+            "focus",
+            "transportation"
+        ],
+        "id": null
+    }
+]

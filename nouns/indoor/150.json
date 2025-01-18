@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image shows a typical office cubicle setting.",
+        "sentence_cn": "该图显示的是典型的办公室隔间设置。",
+        "words": [
+            "office",
+            "cubicle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a desk with a beige CRT monitor displaying some text, a keyboard, and a mouse.",
+        "sentence_cn": "前景中有一张桌子，上面有一台米色的 CRT 显示器，显示着一些文字，还有一个键盘和一个鼠标。",
+        "words": [
+            "foreground",
+            "desk",
+            "monitor",
+            "text",
+            "keyboard",
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk is cluttered with various items including papers, a telephone, a notepad, and a small cylindrical container, possibly a pencil holder.",
+        "sentence_cn": "桌子上堆满了各种物品，包括纸张、电话、记事本和一个小圆柱形容器，可能是笔筒。",
+        "words": [
+            "desk",
+            "items",
+            "papers",
+            "telephone",
+            "notepad",
+            "container",
+            "pencil",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a thermos flask and a red cup.",
+        "sentence_cn": "还有一个热水瓶和一个红色的杯子。",
+        "words": [
+            "thermos",
+            "flask",
+            "cup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the desk, a shelf holds more papers and a pair of headphones.",
+        "sentence_cn": "桌子上方的架子上放着更多文件和一副耳机。",
+        "words": [
+            "desk",
+            "shelf",
+            "papers",
+            "pair",
+            "headphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cubicle walls are partitioned in a green and gray color scheme.",
+        "sentence_cn": "隔间墙壁以绿色和灰色的配色方案隔开。",
+        "words": [
+            "cubicle",
+            "walls",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, another desk area is partially visible, showing a person working on a computer.",
+        "sentence_cn": "在背景中，另一张桌子区域部分可见，显示一个人正在使用电脑工作。",
+        "words": [
+            "background",
+            "desk",
+            "area",
+            "person",
+            "computer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall lighting suggests an indoor office environment, possibly after office hours due to the quieter atmosphere.",
+        "sentence_cn": "整体灯光表明这是一个室内办公环境，可能由于办公时间过后气氛比较安静。",
+        "words": [
+            "lighting",
+            "office",
+            "environment",
+            "office",
+            "hours",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

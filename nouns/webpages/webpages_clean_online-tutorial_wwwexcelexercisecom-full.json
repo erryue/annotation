@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from \"Excel Exercise,\" which offers free Excel exercises online.",
+        "sentence_cn": "该图片是“Excel 练习”网页的截图，该网站提供免费的 Excel 在线练习。",
+        "words": [
+            "Excel Exercise,",
+            "webpage",
+            "exercises"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page features a green header with the website's name and social media icons for YouTube, Facebook, LinkedIn, and a search bar.",
+        "sentence_cn": "该页面有一个绿色标题，其中包含网站名称和 YouTube、Facebook、LinkedIn 等社交媒体图标以及搜索栏。",
+        "words": [
+            "page",
+            "header",
+            "website",
+            "name",
+            "media",
+            "icons",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is a navigation menu with categories such as Excel 2013, Manage Data, Functions, Shortcut, Conditional Formatting, Charts, and Pivot Table.",
+        "sentence_cn": "标题下方是导航菜单，其中包含 Excel 2013、管理数据、函数、快捷方式、条件格式、图表和数据透视表等类别。",
+        "words": [
+            "header",
+            "navigation",
+            "menu",
+            "categories",
+            "2013",
+            "Functions",
+            "Charts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content area highlights a blog post titled \"Create an online survey with Excel,\" written by Fr¨¦d¨¦ric Le Guen.",
+        "sentence_cn": "主要内容区域突出显示了 Fr¨¦d¨¦ric Le Guen 撰写的一篇博客文章，题为“使用 Excel 创建在线调查”。",
+        "words": [
+            "Create an online survey with Excel,",
+            "content",
+            "area",
+            "blog",
+            "post",
+            "survey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The post is dated February 22 and marked for \"Beginner\" and \"Expert\" users.",
+        "sentence_cn": "该帖子的发布日期为 2 月 22 日，标记为“初学者”和“专家”用户。",
+        "words": [
+            "Beginner",
+            "Expert",
+            "post",
+            "22",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It discusses using Excel Online for creating surveys and includes a teaser with a \"Continue reading\" button.",
+        "sentence_cn": "它讨论了使用 Excel Online 创建调查，并包含一个带有“继续阅读”按钮的预告片。",
+        "words": [
+            "Continue reading",
+            "surveys",
+            "teaser",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right is a sidebar with a search box and sections like Blogroll (featuring links to Excel 2013 and Excel Exercise), and a Visitors counter showing 34,727 visits with a world map highlighting various locations.",
+        "sentence_cn": "右侧是带有搜索框和博客列表（包含指向 Excel 2013 和 Excel 练习的链接）等部分的侧边栏，以及显示 34,727 次访问的访客计数器，其中有一张突出显示各个位置的世界地图。",
+        "words": [
+            "sidebar",
+            "search",
+            "box",
+            "sections",
+            "links",
+            "2013",
+            "Visitors",
+            "counter",
+            "34,727",
+            "visits",
+            "world",
+            "map",
+            "locations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the screenshot is an ad for \"Excel Dashboard Templates,\" promoting the creation of charts easily.",
+        "sentence_cn": "截图底部是“Excel 仪表板模板”的广告，推广轻松创建图表。",
+        "words": [
+            "Excel Dashboard Templates,",
+            "bottom",
+            "ad",
+            "creation",
+            "charts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The calendar indicates it's from September 2015.",
+        "sentence_cn": "日历显示这是2015年9月的。",
+        "words": [
+            "calendar",
+            "2015"
+        ],
+        "id": null
+    }
+]

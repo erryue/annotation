@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image shows a street intersection on a rainy day, with wet roads reflecting the overcast sky.",
+        "sentence_cn": "照片显示的是雨天的街道交叉口，湿滑的路面映照着阴云密布的天空。",
+        "words": [
+            "street",
+            "intersection",
+            "day",
+            "roads",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A pedestrian is standing on a red brick sidewalk corner, holding a white umbrella and wearing dark clothing and shoes.",
+        "sentence_cn": "一名行人站在红砖人行道拐角处，撑着白色雨伞，穿着深色衣服和鞋子。",
+        "words": [
+            "pedestrian",
+            "brick",
+            "sidewalk",
+            "corner",
+            "umbrella",
+            "clothing",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several traffic lights and signs are visible, including a \"Give Way\" sign.",
+        "sentence_cn": "可以看到几个交通灯和标志，包括“让路”标志。",
+        "words": [
+            "Give Way",
+            "traffic",
+            "lights",
+            "signs",
+            "Way",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street name displayed is \"Beach Rd.\"",
+        "sentence_cn": "显示的街道名称是“Beach Rd.”",
+        "words": [
+            "Beach Rd.",
+            "street",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a building with glass windows, featuring a \"Shaw Tower\" entrance and a \"Subway\" restaurant sign with an advertisement showing a sandwich.",
+        "sentence_cn": "背景中，有一栋装有玻璃窗的建筑，其入口处有“邵氏大厦”和“Subway”餐厅招牌，上面有三明治广告。",
+        "words": [
+            "Shaw Tower",
+            "Subway",
+            "background",
+            "building",
+            "glass",
+            "windows",
+            "entrance",
+            "restaurant",
+            "sign",
+            "sandwich"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street has freshly marked lanes and black-and-white curbs.",
+        "sentence_cn": "这条街有新标记的车道和黑白相间的路缘。",
+        "words": [
+            "street",
+            "lanes",
+            "curbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Green shrubs and plants line the street edges, providing a bit of greenery amidst the urban setting.",
+        "sentence_cn": "街道两旁种满了绿色灌木和植物，为城市环境增添了一抹绿意。",
+        "words": [
+            "shrubs",
+            "plants",
+            "street",
+            "edges",
+            "bit",
+            "greenery"
+        ],
+        "id": null
+    }
+]

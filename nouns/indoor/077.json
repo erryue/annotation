@@ -1,0 +1,224 @@
+[
+    {
+        "sentence": "The image shows a vibrant and eclectic living room with a rustic and cozy atmosphere.",
+        "sentence_cn": "图片展示了一个充满活力和不拘一格的客厅，充满着质朴而舒适的氛围。",
+        "words": [
+            "living",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Decor and Furniture:",
+        "sentence_cn": "1. 装饰和家具：",
+        "words": [
+            "Decor and Furniture",
+            "Decor",
+            "Furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A plaid-patterned sofa is positioned centrally, adorned with red, blue, and green cushions.",
+        "sentence_cn": "- 格子图案的沙发位于中央，配有红色、蓝色和绿色的靠垫。",
+        "words": [
+            "plaid",
+            "sofa",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The sofa has a quilted blanket draped over it with a red star design.",
+        "sentence_cn": "- 沙发上铺着一条带有红色星星图案的绗缝毯子。",
+        "words": [
+            "sofa",
+            "blanket",
+            "star",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In front of the sofa, there's a woven wicker basket functioning as a coffee table with a pair of small fish sculptures and a book on top.",
+        "sentence_cn": "- 沙发前面有一个编织的柳条篮，用作咖啡桌，上面放着一对小鱼雕塑和一本书。",
+        "words": [
+            "front",
+            "sofa",
+            "wicker",
+            "basket",
+            "coffee",
+            "table",
+            "pair",
+            "fish",
+            "sculptures",
+            "book",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- To the side, there¡¯s a large decorative bear figure dressed in fishing attire and holding a fish, adding a whimsical touch.",
+        "sentence_cn": "- 侧面有一只穿着钓鱼服装、手抱鱼的大型装饰熊雕像，增添了一丝异想天开的感觉。",
+        "words": [
+            "bear",
+            "figure",
+            "fishing",
+            "attire",
+            "fish",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Wall and Decorations:",
+        "sentence_cn": "2. 墙壁和装饰：",
+        "words": [
+            "Wall and Decorations",
+            "Wall",
+            "Decorations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The wall behind the sofa is painted yellow and features a decorative wooden frame with various items, including a picture with an American flag motif and hanging fish decorations.",
+        "sentence_cn": "- 沙发后面的墙壁漆成黄色，配有装饰木框，上面挂着各种物品，包括一幅带有美国国旗图案的画和悬挂的鱼饰品。",
+        "words": [
+            "wall",
+            "sofa",
+            "frame",
+            "items",
+            "picture",
+            "flag",
+            "motif",
+            "fish",
+            "decorations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - To the side, a large round metallic plate is mounted on the wall.",
+        "sentence_cn": "- 侧面的墙上安装着一块巨大的圆形金属板。",
+        "words": [
+            "plate",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lighting and Plants:",
+        "sentence_cn": "3. 照明和植物：",
+        "words": [
+            "Lighting and Plants",
+            "Lighting",
+            "Plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A lamp with a nature-themed shade sits on a small side table, accompanied by a decorative birdhouse.",
+        "sentence_cn": "- 一盏带有自然主题灯罩的灯放在一张小边桌上，旁边还有一个装饰性的鸟舍。",
+        "words": [
+            "lamp",
+            "nature",
+            "shade",
+            "table",
+            "birdhouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A vibrant potted plant in a wicker basket adds greenery to the space.",
+        "sentence_cn": "- 柳条篮中一盆生机勃勃的盆栽植物为空间增添了绿意。",
+        "words": [
+            "plant",
+            "wicker",
+            "basket",
+            "greenery",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Flooring and Additional Decor:",
+        "sentence_cn": "4. 地板和其他装饰：",
+        "words": [
+            "Flooring and Additional Decor",
+            "Flooring",
+            "Decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The floor is tiled with a pattern of yellow and green squares.",
+        "sentence_cn": "- 地板上铺着黄色和绿色方块图案的瓷砖。",
+        "words": [
+            "floor",
+            "pattern",
+            "squares"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A colorful striped rag rug sits in front of the basket.",
+        "sentence_cn": "- 篮子前面放着一块彩色条纹的碎布地毯。",
+        "words": [
+            "rag",
+            "rug",
+            "front",
+            "basket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the floor, a pair of moccasin slippers rest near the basket.",
+        "sentence_cn": "- 地板上，一双莫卡辛拖鞋放在篮子旁边。",
+        "words": [
+            "floor",
+            "pair",
+            "moccasin",
+            "slippers",
+            "basket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic combines elements of rustic charm, Americana, and playful decor, creating a warm and inviting living space.",
+        "sentence_cn": "整体美学融合了乡村魅力、美式风情和俏皮装饰元素，创造出温馨宜人的生活空间。",
+        "words": [
+            "aesthetic",
+            "elements",
+            "charm",
+            "Americana",
+            "decor",
+            "living",
+            "space"
+        ],
+        "id": null
+    }
+]

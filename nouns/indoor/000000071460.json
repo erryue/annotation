@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image features a cozy, well-decorated open-plan living and kitchen area.",
+        "sentence_cn": "图片展示的是舒适、装饰精美的开放式起居和厨房区域。",
+        "words": [
+            "plan",
+            "living",
+            "kitchen",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a white sofa adorned with two decorative floral pillows with ruffled edges.",
+        "sentence_cn": "前景中，有一张白色的沙发，上面装饰着两个带有褶边的装饰花枕头。",
+        "words": [
+            "foreground",
+            "sofa",
+            "two",
+            "pillows",
+            "edges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has dark hardwood floors, which add warmth and contrast nicely with the lighter furniture.",
+        "sentence_cn": "房间铺有深色硬木地板，增添了温暖感并与浅色家具形成了鲜明的对比。",
+        "words": [
+            "room",
+            "hardwood",
+            "floors",
+            "warmth",
+            "contrast",
+            "furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the sofa, there's a kitchen counter with two elegant chairs that have upholstered seats with white covers and bows at the back.",
+        "sentence_cn": "沙发后面是一个厨房柜台，上面摆放着两把优雅的椅子，椅子的椅面采用软垫包裹，椅背带有蝴蝶结。",
+        "words": [
+            "sofa",
+            "kitchen",
+            "counter",
+            "two",
+            "chairs",
+            "seats",
+            "covers",
+            "bows",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The counter is neatly arranged with a potted plant, a fruit bowl, and some flowers, giving a fresh touch to the space.",
+        "sentence_cn": "柜台上整齐地摆放着盆栽，果盘，还有一些鲜花，给空间增添了一丝清新。",
+        "words": [
+            "counter",
+            "plant",
+            "fruit",
+            "bowl",
+            "flowers",
+            "touch",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen area at the back has dark cabinetry and stainless steel appliances, including a refrigerator, dishwasher, and microwave.",
+        "sentence_cn": "后面的厨房区域配有深色橱柜和不锈钢器具，包括冰箱、洗碗机和微波炉。",
+        "words": [
+            "kitchen",
+            "area",
+            "back",
+            "cabinetry",
+            "steel",
+            "appliances",
+            "refrigerator",
+            "dishwasher",
+            "microwave"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen also features under-cabinet lighting and two hanging pendant lights that provide ambient illumination.",
+        "sentence_cn": "厨房还设有橱柜下照明和两个悬挂式吊灯，提供环境照明。",
+        "words": [
+            "kitchen",
+            "cabinet",
+            "lighting",
+            "two",
+            "pendant",
+            "lights",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a small wooden console table holding a stack of books and a decorative piece, which is situated against a light-colored wall.",
+        "sentence_cn": "右边有一张小木制控制台桌，上面放着一堆书和一件装饰品，靠在一面浅色的墙壁上。",
+        "words": [
+            "right",
+            "console",
+            "table",
+            "stack",
+            "books",
+            "piece",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above this table hangs a framed piece of artwork, adding character to the room.",
+        "sentence_cn": "桌子上方悬挂着一幅镶框的艺术品，为房间增添了特色。",
+        "words": [
+            "table",
+            "piece",
+            "artwork",
+            "character",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the environment appears elegant, chic, and inviting.",
+        "sentence_cn": "总体而言，环境显得优雅、别致、温馨。",
+        "words": [
+            "environment"
+        ],
+        "id": null
+    }
+]

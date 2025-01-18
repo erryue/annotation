@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image features a neatly organized desk setup in what appears to be a home office or study room.",
+        "sentence_cn": "图片展示的是摆放整齐的书桌，看上去像是一个家庭办公室或书房。",
+        "words": [
+            "desk",
+            "home",
+            "office",
+            "study",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk is a blue surface, equipped with a laptop displaying a social media site.",
+        "sentence_cn": "桌子是蓝色的表面，配备一台显示社交媒体网站的笔记本电脑。",
+        "words": [
+            "desk",
+            "surface",
+            "laptop",
+            "media",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the laptop, there is a wireless mouse.",
+        "sentence_cn": "笔记本电脑的右侧有一个无线鼠标。",
+        "words": [
+            "right",
+            "laptop",
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A desk lamp, which is turned on, illuminates the area and casts light on a small teddy bear and a framed photograph next to it.",
+        "sentence_cn": "打开的台灯照亮了整个区域，照在旁边的一只小泰迪熊和一张相框上。",
+        "words": [
+            "desk",
+            "lamp",
+            "area",
+            "light",
+            "teddy",
+            "bear",
+            "photograph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the desk, there are framed photographs, a plant in a pot, and some stationery items organized in a holder.",
+        "sentence_cn": "书桌的左侧有相框、盆栽植物和一些放在架子上的文具。",
+        "words": [
+            "desk",
+            "photographs",
+            "plant",
+            "pot",
+            "stationery",
+            "items",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a stack of documents or papers piled neatly.",
+        "sentence_cn": "还有一堆整齐堆放的文件或纸张。",
+        "words": [
+            "stack",
+            "documents",
+            "papers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the desk, a shelf is filled with various books, adding a colorful and intellectual vibe to the space.",
+        "sentence_cn": "书桌上方，书架上摆满了各式各样的书籍，为空间增添了丰富多彩且知性的氛围。",
+        "words": [
+            "desk",
+            "shelf",
+            "books",
+            "vibe",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the far left wall, headphones hang from a hook, conveniently placed for easy access.",
+        "sentence_cn": "在最左边的墙上，耳机挂在一个挂钩上，位置方便，易于取用。",
+        "words": [
+            "wall",
+            "headphones",
+            "hook",
+            "access"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a cozy and personalized working environment.",
+        "sentence_cn": "整体布置体现出一种舒适、个性化的工作环境。",
+        "words": [
+            "working",
+            "environment"
+        ],
+        "id": null
+    }
+]

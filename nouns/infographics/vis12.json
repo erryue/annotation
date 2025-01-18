@@ -20,8 +20,8 @@
         "id": null
     },
     {
-        "sentence": "1. **Title and Overall Vote Count**:",
-        "sentence_cn": "1. **标题和总投票数**:",
+        "sentence": "1. Title and Overall Vote Count:",
+        "sentence_cn": "1. 标题和总投票数：",
         "words": [
             "Title and Overall Vote Count",
             "Title",
@@ -52,8 +52,8 @@
         "id": null
     },
     {
-        "sentence": "2. **Voting Methods**:",
-        "sentence_cn": "2. **投票方式**:",
+        "sentence": "2. Voting Methods:",
+        "sentence_cn": "2. 投票方式：",
         "words": [
             "Voting Methods",
             "Voting",
@@ -91,8 +91,8 @@
         "id": null
     },
     {
-        "sentence": "3. **Top Counties with Highest Voter Turnout**:",
-        "sentence_cn": "3. **投票率最高的县**:",
+        "sentence": "3. Top Counties with Highest Voter Turnout:",
+        "sentence_cn": "3. 投票率最高的县：",
         "words": [
             "Top Counties with Highest Voter Turnout",
             "Counties",
@@ -121,8 +121,8 @@
         "id": null
     },
     {
-        "sentence": "4. **Voting Locations**:",
-        "sentence_cn": "4. **投票地点**:",
+        "sentence": "4. Voting Locations:",
+        "sentence_cn": "4. 投票地点：",
         "words": [
             "Voting Locations",
             "Voting",
@@ -146,8 +146,8 @@
         "id": null
     },
     {
-        "sentence": "5. **Voting Hours**:",
-        "sentence_cn": "5. **投票时间**:",
+        "sentence": "5. Voting Hours:",
+        "sentence_cn": "5. 投票时间：",
         "words": [
             "Voting Hours",
             "Voting",
@@ -253,8 +253,8 @@
         "id": null
     },
     {
-        "sentence": "6. **Overseas and Military Voting**:",
-        "sentence_cn": "6. **海外及军人投票**:",
+        "sentence": "6. Overseas and Military Voting:",
+        "sentence_cn": "6. 海外及军人投票：",
         "words": [
             "Overseas and Military Voting",
             "Voting"

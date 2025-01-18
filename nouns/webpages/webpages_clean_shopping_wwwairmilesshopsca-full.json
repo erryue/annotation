@@ -1,0 +1,235 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from airmileshops.ca displaying a promotional section for earning AIR MILES.",
+        "sentence_cn": "该图片是 airmileshops.ca 网页的截图，其中显示了赚取 AIR MILES 的促销部分。",
+        "words": [
+            "webpage",
+            "section",
+            "AIR",
+            "MILES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here is a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Header:",
+        "sentence_cn": "1. 标题:",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The top of the page features the airmileshops.ca logo and a banner inviting users to sign in to earn miles on purchases.",
+        "sentence_cn": "- 页面顶部显示 airmileshops.ca 徽标和横幅，邀请用户登录以在购物时赚取里程。",
+        "words": [
+            "top",
+            "page",
+            "logo",
+            "banner",
+            "users",
+            "miles",
+            "purchases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a login placeholder for entering a collector number.",
+        "sentence_cn": "有一个用于输入收集员号码的登录占位符。",
+        "words": [
+            "login",
+            "placeholder",
+            "collector",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Navigation Bar:",
+        "sentence_cn": "2. 导航栏：",
+        "words": [
+            "Navigation Bar",
+            "Navigation",
+            "Bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Beneath the header, there's a navigation menu with options like Home, How It Works, Store Directory, Offers, Shopping Tool, and Back to School.",
+        "sentence_cn": "- 标题下方有一个导航菜单，其中包含“主页”、“工作原理”、“商店目录”、“优惠”、“购物工具”和“返回学校”等选项。",
+        "words": [
+            "header",
+            "navigation",
+            "menu",
+            "options",
+            "Home",
+            "Store",
+            "Directory",
+            "Offers",
+            "Tool",
+            "School"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Main Banner:",
+        "sentence_cn": "3. 主横幅：",
+        "words": [
+            "Main Banner",
+            "Banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The main area features a purple-themed banner with the text \"Back to Shopping,\" highlighting an offer for 5 times the miles on style products.",
+        "sentence_cn": "- 主要区域采用紫色主题横幅，上面写着“重返购物”，重点介绍购买时尚产品可获得 5 倍里程的优惠。",
+        "words": [
+            "Back to Shopping,",
+            "area",
+            "purple",
+            "banner",
+            "text",
+            "offer",
+            "5",
+            "times",
+            "miles",
+            "style",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is valid from August 25 to September 7.",
+        "sentence_cn": "有效期为8月25日至9月7日。",
+        "words": [
+            "25",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It promotes exclusive AIR MILES reward miles available from 32 participating partners, showcasing logos of companies such as Anthropologie, Old Navy, Sephora, and Roots.",
+        "sentence_cn": "- 它宣传 32 个参与合作伙伴提供的独家 AIR MILES 奖励里程，并展示 Anthropologie、Old Navy、Sephora 和 Roots 等公司的标志。",
+        "words": [
+            "MILES",
+            "reward",
+            "miles",
+            "32",
+            "partners",
+            "logos",
+            "companies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Browse Directory:",
+        "sentence_cn": "4. 浏览目录：",
+        "words": [
+            "Browse Directory",
+            "Directory"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Next to the promotional banner, there is a \"Browse Directory\" section listing various categories like Apparel, Books, Music & Videos, Electronics, Flowers & Gifts, Health & Beauty, Home & Outdoors, Travel & Accommodations, and Baby, Kids & Toys.",
+        "sentence_cn": "- 在促销横幅旁边，有一个“浏览目录”部分，列出了服装、书籍、音乐和视频、电子产品、鲜花和礼品、健康和美容、家居和户外、旅游和住宿以及婴儿、儿童和玩具等各种类别。",
+        "words": [
+            "Browse Directory",
+            "banner",
+            "Directory",
+            "section",
+            "categories",
+            "Apparel",
+            "Books",
+            "Music",
+            "Videos",
+            "Electronics",
+            "Gifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Offers and Categories:",
+        "sentence_cn": "5. 优惠及类别：",
+        "words": [
+            "Offers and Categories",
+            "Offers",
+            "Categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- There is a section with tabs for different offers including 5x Event, Back to School, and links to stores like Hotels.com, The Body Shop, Keurig, and more.",
+        "sentence_cn": "- 有一个部分包含不同优惠的标签，包括 5x 活动、返校以及 Hotels.com、The Body Shop、Keurig 等商店的链接。",
+        "words": [
+            "section",
+            "tabs",
+            "offers",
+            "5x",
+            "links",
+            "stores"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Popular Stores:",
+        "sentence_cn": "6. 热门商店：",
+        "words": [
+            "Popular Stores",
+            "Stores"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The lower half of the image lists logos of popular stores such as Sears, Indigo, Dell, eBay, Amazon.ca, Lands' End, Victoria's Secret, Toys R Us, Expedia.ca, Old Navy, GAP, Bose, Hotels.com, Banana Republic, and others.",
+        "sentence_cn": "- 图片的下半部分列出了热门商店的标志，例如 Sears、Indigo、Dell、eBay、Amazon.ca、Lands' End、Victoria's Secret、Toys R Us、Expedia.ca、Old Navy、GAP、Bose、Hotels.com、Banana Republic 等。",
+        "words": [
+            "half",
+            "logos",
+            "stores",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme is promotional, aiming to encourage users to shop online through these partners to earn additional AIR MILES.",
+        "sentence_cn": "总体主题是促销，旨在鼓励用户通过这些合作伙伴在线购物以赚取额外的 AIR MILES。",
+        "words": [
+            "theme",
+            "users",
+            "partners",
+            "AIR",
+            "MILES"
+        ],
+        "id": null
+    }
+]

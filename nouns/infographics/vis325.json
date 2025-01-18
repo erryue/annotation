@@ -1,0 +1,366 @@
+[
+    {
+        "sentence": "The image is a colorful infographic about D.C. food trucks, created by DC Food Trucks Association and designed by NJI Media.",
+        "sentence_cn": "该图是一张关于华盛顿特区美食车的彩色信息图，由华盛顿特区美食车协会制作，NJI Media 设计。",
+        "words": [
+            "D.C.",
+            "food",
+            "trucks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features various facts and graphics related to the food truck industry in Washington, D.C.",
+        "sentence_cn": "它提供了与华盛顿特区食品卡车行业相关的各种事实和图表。",
+        "words": [
+            "facts",
+            "graphics",
+            "food",
+            "truck",
+            "industry",
+            "Washington",
+            ",",
+            "D.C."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Left Side:",
+        "sentence_cn": "### 左侧：",
+        "words": [
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"Facts About D.C. Food Trucks\" with a prominent banner.",
+        "sentence_cn": "- 标题：“关于华盛顿特区美食车的事实”，并带有显眼的横幅。",
+        "words": [
+            "Title",
+            "Facts About D.C. Food Trucks",
+            "Title",
+            "Facts",
+            "Food",
+            "Trucks",
+            "banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Landmarks: Illustrations of landmarks like the Washington Monument and the Lincoln Memorial, with people sitting on the grass.",
+        "sentence_cn": "- 地标：华盛顿纪念碑和林肯纪念堂等地标的插图，以及坐在草地上的人们。",
+        "words": [
+            "Landmarks",
+            "Landmarks",
+            "Illustrations",
+            "landmarks",
+            "people",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visuals:",
+        "sentence_cn": "- 视觉效果：",
+        "words": [
+            "Visuals",
+            "Visuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A vibrant street scene with buildings labeled \"Accounting Services\" and \"Jerry's Auto Repair.\"",
+        "sentence_cn": "- 充满活力的街景，其中的建筑物标有“会计服务”和“杰瑞汽车修理厂”。",
+        "words": [
+            "Accounting Services",
+            "Jerry's Auto Repair.",
+            "street",
+            "scene",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A food truck named \"Giovanni's Good Eats\" is depicted in front of the buildings.",
+        "sentence_cn": "- 建筑物前面有一辆名为“Giovanni's Good Eats”的美食车。",
+        "words": [
+            "Giovanni's Good Eats",
+            "food",
+            "truck",
+            "front",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A small produce market is shown on the right.",
+        "sentence_cn": "- 右侧显示一个小型农产品市场。",
+        "words": [
+            "produce",
+            "market",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Textual Information:",
+        "sentence_cn": "- 文本信息：",
+        "words": [
+            "Textual Information",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Highlight: \"D.C. requires food trucks to also have a brick and mortar kitchen.\"",
+        "sentence_cn": "- 亮点：“华盛顿特区要求食品卡车也必须配备实体厨房。”",
+        "words": [
+            "D.C. requires food trucks to also have a brick and mortar kitchen.",
+            "Highlight",
+            "food",
+            "trucks",
+            "brick",
+            "mortar",
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The average number of people served by FTA trucks is approximately 5,000.",
+        "sentence_cn": "- FTA 卡车平均服务的人数约为 5,000 人。",
+        "words": [
+            "number",
+            "people",
+            "trucks",
+            "5,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Food trucks must have a 3-compartment sink, hand sink, running hot water, refrigerator, and fire suppression system.",
+        "sentence_cn": "- 食品卡车必须配备 3 个隔间的水槽、洗手池、热水、冰箱和灭火系统。",
+        "words": [
+            "Food",
+            "trucks",
+            "3",
+            "compartment",
+            "sink",
+            "hand",
+            "sink",
+            "water",
+            "refrigerator",
+            "fire",
+            "suppression",
+            "system"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Truck dimensions are \"18' 5'' long (max).\"",
+        "sentence_cn": "- 卡车尺寸为“长 18' 5''（最大）”。",
+        "words": [
+            "18' 5'' long (max).",
+            "Truck",
+            "dimensions",
+            "18",
+            "'",
+            "5",
+            "''",
+            "max"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Number of public D.C. parking spaces is 17,000.",
+        "sentence_cn": "- 华盛顿特区的公共停车位数量为 17,000 个。",
+        "words": [
+            "Number",
+            "D.C.",
+            "parking",
+            "spaces",
+            "17,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - About 100 food trucks use a parking space on any given lunch.",
+        "sentence_cn": "- 大约有 100 辆美食车在午餐时使用一个停车位。",
+        "words": [
+            "100",
+            "food",
+            "trucks",
+            "parking",
+            "space",
+            "lunch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Right Side:",
+        "sentence_cn": "### 右侧：",
+        "words": [
+            "#",
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: \"More Facts\"",
+        "sentence_cn": "- 标题：“更多事实”",
+        "words": [
+            "Header",
+            "More Facts",
+            "Facts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Fact Highlights:",
+        "sentence_cn": "- 事实要点：",
+        "words": [
+            "Fact Highlights",
+            "Fact",
+            "Highlights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Food trucks have operated under laws created nearly 70 years ago.",
+        "sentence_cn": "- 食品卡车依照近 70 年前制定的法律运营。",
+        "words": [
+            "Food",
+            "trucks",
+            "laws",
+            "70",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - First food truck in D.C. opened in 2009, named \"Fojol Bros. of Merlindia.\"",
+        "sentence_cn": "- 华盛顿特区第一辆美食卡车于 2009 年开业，名为“Fojol Bros. of Merlindia”。",
+        "words": [
+            "Fojol Bros. of Merlindia.",
+            "food",
+            "truck",
+            "D.C.",
+            "2009"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Greatest attendance at a monthly \"Truckeroos\" is 20,000.",
+        "sentence_cn": "- 每月一次的“卡车狂欢节”最高出席人数为 20,000 人。",
+        "words": [
+            "Truckeroos",
+            "attendance",
+            "20,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There are 50 food trucks in the FTA.",
+        "sentence_cn": "- FTA 内有 50 辆美食车。",
+        "words": [
+            "50",
+            "food",
+            "trucks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Popular lunch locations include Farragut Square, Metro Center, L'Enfant Plaza, Union Station, and Navy Yard.",
+        "sentence_cn": "- 热门的午餐地点包括法拉格特广场、地铁中心、朗方广场、联合车站和海军造船厂。",
+        "words": [
+            "lunch",
+            "locations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 250 jobs created by FTA trucks.",
+        "sentence_cn": "- FTA 卡车创造了 250 个就业岗位。",
+        "words": [
+            "250",
+            "jobs",
+            "trucks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Two health inspections per year for a food truck, one for a restaurant.",
+        "sentence_cn": "- 每年对食品卡车进行两次卫生检查，对餐厅进行一次卫生检查。",
+        "words": [
+            "Two",
+            "health",
+            "inspections",
+            "year",
+            "food",
+            "truck",
+            "one",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 11,500+ lbs of food collected for D.C. charities in 2012.",
+        "sentence_cn": "- 2012 年为华盛顿特区的慈善机构收集了超过 11,500 磅的食物。",
+        "words": [
+            "11,500",
+            "+",
+            "lbs",
+            "food",
+            "D.C.",
+            "charities",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic concludes with a call for more information available at dcfoodtrucks.org.",
+        "sentence_cn": "该信息图结束时，呼吁在dcfoodtrucks.org上获得更多信息。",
+        "words": [
+            "call",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visuals and text combined offer an engaging and informative overview of the food truck scene in Washington, D.C.",
+        "sentence_cn": "图片和文字相结合，提供了华盛顿特区美食车场景的引人入胜且信息丰富的概述。",
+        "words": [
+            "visuals",
+            "text",
+            "overview",
+            "food",
+            "truck",
+            "scene",
+            "Washington"
+        ],
+        "id": null
+    }
+]

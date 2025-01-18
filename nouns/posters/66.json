@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"While You Were Sleeping,\" featuring the actors Sandra Bullock and Bill Pullman.",
+        "sentence_cn": "图片是电影《当你沉睡时》的海报，由演员桑德拉·布洛克和比尔·普尔曼主演。",
+        "words": [
+            "While You Were Sleeping,",
+            "movie",
+            "poster",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the poster, Bill Pullman is lifting Sandra Bullock joyfully off the ground.",
+        "sentence_cn": "海报中，比尔·普尔曼正高兴地把桑德拉·布洛克从地上抱起来。",
+        "words": [
+            "poster",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are standing on a train platform with the blurred motion of a train suggesting movement and urban life.",
+        "sentence_cn": "他们站在火车站台上，火车的模糊运动暗示着运动和城市生活。",
+        "words": [
+            "train",
+            "platform",
+            "motion",
+            "train",
+            "movement",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows a cityscape with hints of tall buildings.",
+        "sentence_cn": "背景是城市景观，隐约可见高楼大厦。",
+        "words": [
+            "background",
+            "cityscape",
+            "hints",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text includes the names of the lead actors at the top.",
+        "sentence_cn": "文字顶部包含​​主要演员的名字。",
+        "words": [
+            "text",
+            "names",
+            "actors",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline \"A story about love at second sight\" is displayed below the title.",
+        "sentence_cn": "标题下方显示着标语“一个关于二见钟情的故事”。",
+        "words": [
+            "A story about love at second sight",
+            "tagline",
+            "story",
+            "love",
+            "sight",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film credits are listed at the bottom of the poster.",
+        "sentence_cn": "电影演职员表列于海报底部。",
+        "words": [
+            "film",
+            "credits",
+            "bottom",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood of the poster is romantic and lighthearted.",
+        "sentence_cn": "海报的整体氛围是浪漫、轻松的。",
+        "words": [
+            "mood",
+            "poster"
+        ],
+        "id": null
+    }
+]

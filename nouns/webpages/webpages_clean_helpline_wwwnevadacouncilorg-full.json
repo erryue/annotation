@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image is a webpage from the Nevada Council on Problem Gambling.",
+        "sentence_cn": "该图片是内华达州问题赌博委员会的一个网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top portion features their logo and name in red text.",
+        "sentence_cn": "顶部以红色文字显示其徽标和名称。",
+        "words": [
+            "portion",
+            "logo",
+            "name",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The navigation bar includes sections such as \"Who We Are,\" \"Understanding Problem Gambling,\" \"Get Help Now,\" \"Programs & Resources,\" \"Responsible Gaming,\" and \"Get Involved.\"",
+        "sentence_cn": "导航栏包括“我们是谁”、“了解问题赌博”、“立即获取帮助”、“计划和资源”、“负责任的游戏”和“参与其中”等部分。",
+        "words": [
+            "Who We Are,",
+            "Understanding Problem Gambling,",
+            "Get Help Now,",
+            "Programs & Resources,",
+            "Responsible Gaming,",
+            "Get Involved.",
+            "navigation",
+            "bar",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there is an image with silhouettes of people holding hands, symbolizing support and connection.",
+        "sentence_cn": "下面是一幅人们手拉手的剪影图，象征着支持和联系。",
+        "words": [
+            "silhouettes",
+            "people",
+            "hands",
+            "support",
+            "connection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dynamic with shades of blue.",
+        "sentence_cn": "背景是动态的，带有蓝色阴影。",
+        "words": [
+            "background",
+            "shades",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, text reads \"Awareness...Education...Advocacy,\" accompanied by the aim to prevent and reduce the impact of problem gambling in Nevada.",
+        "sentence_cn": "右侧的文字写着“意识...教育...宣传”，并附有预防和减少内华达州赌博问题影响的目标。",
+        "words": [
+            "Awareness...Education...Advocacy,",
+            "right",
+            "text",
+            "Awareness",
+            "Education",
+            "Advocacy",
+            "aim",
+            "impact",
+            "problem",
+            "gambling",
+            "Nevada"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a beige section with information about recognizing when gambling stops being fun and how to identify warning signs, with prompts to \"Learn more.\"",
+        "sentence_cn": "有一个米色部分，其中包含有关如何识别赌博何时不再有趣的信息以及如何识别警告信号，并提示“了解更多”。",
+        "words": [
+            "Learn more.",
+            "section",
+            "information",
+            "gambling",
+            "fun",
+            "warning",
+            "signs",
+            "prompts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, a maroon banner offers a helpline number for confidential assistance.",
+        "sentence_cn": "在底部，栗色横幅提供了保密援助的热线号码。",
+        "words": [
+            "bottom",
+            "maroon",
+            "banner",
+            "helpline",
+            "number",
+            "assistance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page further welcomes visitors to the Nevada Council on Problem Gambling and highlights a news update about a state conference.",
+        "sentence_cn": "该页面进一步欢迎访客访问内华达州问题赌博委员会，并重点介绍了有关州会议的新闻更新。",
+        "words": [
+            "page",
+            "visitors",
+            "news",
+            "update",
+            "state",
+            "conference"
+        ],
+        "id": null
+    }
+]

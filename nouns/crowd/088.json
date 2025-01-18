@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image shows a solemn indoor scene with three people.",
+        "sentence_cn": "图中是一幅庄严的室内场景，有三个人。",
+        "words": [
+            "scene",
+            "three",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a woman with short, brown hair is seen with her hands clasped in front of her, looking downwards.",
+        "sentence_cn": "左边是一位棕色短发女子，双手交叉放在身前，低着头。",
+        "words": [
+            "left",
+            "woman",
+            "hair",
+            "hands",
+            "front"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is wearing a dark green coat over a black top, with a visible necklace.",
+        "sentence_cn": "她身穿深绿色外套，里面是黑色上衣，戴着一条项链。",
+        "words": [
+            "coat",
+            "top",
+            "necklace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, a man wearing a red jacket is holding an open book, seemingly reading or praying.",
+        "sentence_cn": "画中央一名身穿红色夹克的男子手捧一本打开的书，似乎在阅读或祈祷。",
+        "words": [
+            "center",
+            "man",
+            "jacket",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, an elderly woman with a white headscarf sits with her head bowed, hands clasped in front of her, wearing a dark coat.",
+        "sentence_cn": "右边，一位戴着白色头巾的老妇人坐着，低着头，双手交叉在身前，身穿深色外套。",
+        "words": [
+            "right",
+            "woman",
+            "headscarf",
+            "head",
+            "hands",
+            "front",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a small table in front of them with what appears to be a plate of pastries, smoke rising, possibly from incense or candles.",
+        "sentence_cn": "他们面前有一张小桌子，上面放着一盘糕点，烟雾升腾，可能是香或蜡烛的烟雾。",
+        "words": [
+            "table",
+            "front",
+            "plate",
+            "pastries",
+            "smoke",
+            "incense",
+            "candles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting suggests a religious or memorial gathering.",
+        "sentence_cn": "该场景暗示着一次宗教集会或纪念集会。",
+        "words": [
+            "gathering"
+        ],
+        "id": null
+    }
+]

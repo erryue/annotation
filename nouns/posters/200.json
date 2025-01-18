@@ -1,0 +1,146 @@
+[
+    {
+        "sentence": "The image is a poster for the film \"The Shining,\" directed by Stanley Kubrick.",
+        "sentence_cn": "该图是斯坦利·库布里克执导的电影《闪灵》的海报。",
+        "words": [
+            "The Shining,",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is bright yellow with black text.",
+        "sentence_cn": "背景为亮黄色，文字为黑色。",
+        "words": [
+            "background",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, it reads, \"A MASTERPIECE OF MODERN HORROR.\"",
+        "sentence_cn": "顶部写着“现代恐怖杰作”。",
+        "words": [
+            "A MASTERPIECE OF MODERN HORROR.",
+            "top",
+            "MASTERPIECE",
+            "HORROR"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main part of the design features the title \"THE SHINING\" in large, bold, black letters, with an abstract, grainy illustration of a face within the title's typography.",
+        "sentence_cn": "设计的主要部分是以大号、粗体、黑色字母写成的标题“闪灵”，并在标题的字体内带有一张抽象的、颗粒状的脸部插图。",
+        "words": [
+            "THE SHINING",
+            "part",
+            "design",
+            "title",
+            "SHINING",
+            "letters",
+            "illustration",
+            "face",
+            "title",
+            "typography"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The face appears to be looking directly at the viewer, adding a sense of eeriness.",
+        "sentence_cn": "这张脸似乎正直视着观看者，增添了一种怪异的感觉。",
+        "words": [
+            "face",
+            "viewer",
+            "sense",
+            "eeriness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the poster includes the credits:",
+        "sentence_cn": "海报标题下方列出了制作人员名单：",
+        "words": [
+            "title",
+            "poster",
+            "credits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- It mentions that it is a Stanley Kubrick film.",
+        "sentence_cn": "- 上面提到这是一部斯坦利·库布里克的电影。",
+        "words": [
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The starring actors are listed: Jack Nicholson, Shelley Duvall, Scatman Crothers, and Danny Lloyd.",
+        "sentence_cn": "- 主演名单为：杰克·尼科尔森 (Jack Nicholson)、谢莉·杜瓦尔 (Shelley Duvall)、斯卡特曼·克罗索斯 (Scatman Crothers)、丹尼·劳埃德 (Danny Lloyd)。",
+        "words": [
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The film is based on the novel by Stephen King.",
+        "sentence_cn": "- 该片改编自斯蒂芬·金的小说。",
+        "words": [
+            "film",
+            "novel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Screenplay by Stanley Kubrick and Diane Johnson.",
+        "sentence_cn": "- 剧本由斯坦利·库布里克和黛安·约翰逊撰写。",
+        "words": [
+            "Screenplay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Executive Producer: Jan Harlan.",
+        "sentence_cn": "- 执行制片人：Jan Harlan。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The film is produced by Warner Bros.",
+        "sentence_cn": "- 该电影由华纳兄弟制作。",
+        "words": [
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is an \"R\" rating in the bottom right corner, indicating the film's restricted nature for audiences under 17 without a parent or guardian.",
+        "sentence_cn": "右下角有“R”级评级，表明该片限制观看，仅适合 17 岁以下无父母或监护人陪同的观众。",
+        "words": [
+            "R",
+            "R",
+            "rating",
+            "corner",
+            "film",
+            "nature",
+            "audiences",
+            "17",
+            "parent",
+            "guardian"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design suggests a horror theme and reflects the film's unsettling and mysterious nature.",
+        "sentence_cn": "整体设计暗示了恐怖主题，并体现了影片的令人不安和神秘的本质。",
+        "words": [
+            "design",
+            "horror",
+            "theme",
+            "film",
+            "nature"
+        ],
+        "id": null
+    }
+]

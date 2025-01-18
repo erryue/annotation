@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app interface called \"Henna Tatto.\"",
+        "sentence_cn": "图片是一款名为“Henna Tatto”的手机应用程序界面的截图。",
+        "words": [
+            "Henna Tatto.",
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows a gallery grid with nine images, but only six display henna tattoo designs.",
+        "sentence_cn": "它显示了一个包含九张图片的画廊网格，但只有六张显示了指甲花纹身图案。",
+        "words": [
+            "gallery",
+            "grid",
+            "nine",
+            "images",
+            "six",
+            "henna",
+            "tattoo",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top row showcases three different designs: a pair of wings, a heart with decorative swirls, and a mandala being applied.",
+        "sentence_cn": "顶行展示了三种不同的设计：一对翅膀、一颗带有装饰漩涡的心和一个曼陀罗。",
+        "words": [
+            "row",
+            "three",
+            "designs",
+            "pair",
+            "wings",
+            "heart",
+            "swirls",
+            "mandala"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The second row contains a floral mandala, a leafy design on a wrist, and another floral design on a shoulder.",
+        "sentence_cn": "第二行包含一个花卉曼陀罗、手腕上的叶子图案以及肩膀上的另一个花卉图案。",
+        "words": [
+            "row",
+            "mandala",
+            "design",
+            "wrist",
+            "design",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section consists of placeholders with the Android logo, and one shows a cross design with ornamental details.",
+        "sentence_cn": "底部由带有 Android 徽标的占位符组成，其中一个显示了带有装饰细节的十字设计。",
+        "words": [
+            "section",
+            "placeholders",
+            "logo",
+            "one",
+            "cross",
+            "design",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen also displays app functionality icons at the top and an advertisement for Amazon Music at the bottom.",
+        "sentence_cn": "屏幕顶部还在显示应用程序功能图标，底部显示亚马逊音乐的广告。",
+        "words": [
+            "screen",
+            "app",
+            "functionality",
+            "icons",
+            "top",
+            "bottom"
+        ],
+        "id": null
+    }
+]

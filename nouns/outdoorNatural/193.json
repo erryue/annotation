@@ -1,0 +1,50 @@
+[
+    {
+        "sentence": "The image shows a group of three fish swimming in clear, shallow water.",
+        "sentence_cn": "图中显示三条鱼在清澈的浅水中游动。",
+        "words": [
+            "group",
+            "three",
+            "fish",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water has a greenish tinge, with visible ripples and sunlight reflections that create a wavy pattern on the surface.",
+        "sentence_cn": "水呈绿色，有明显的涟漪和阳光反射，在水面上形成波浪图案。",
+        "words": [
+            "water",
+            "tinge",
+            "ripples",
+            "sunlight",
+            "reflections",
+            "pattern",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The fish appear to have a grayish-blue coloration and are casting shadows on the sandy and rocky substrate beneath.",
+        "sentence_cn": "这些鱼看起来呈灰蓝色，并在下面的沙质和岩石基质上投下阴影。",
+        "words": [
+            "fish",
+            "coloration",
+            "shadows",
+            "substrate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background reveals additional small fish and some natural debris on the bottom, indicating a natural aquatic environment.",
+        "sentence_cn": "背景显示出额外的小鱼和底部的一些天然碎片，表明自然的水生环境。",
+        "words": [
+            "background",
+            "fish",
+            "debris",
+            "bottom",
+            "environment"
+        ],
+        "id": null
+    }
+]

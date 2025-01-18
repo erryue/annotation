@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image features a group of five individuals walking across a snowy landscape.",
+        "sentence_cn": "照片中，五个人正在雪地里行走。",
+        "words": [
+            "group",
+            "five",
+            "individuals",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are dressed in winter clothing, showcasing a stylish and cozy look.",
+        "sentence_cn": "她们穿着冬装，看起来时尚又舒适。",
+        "words": [
+            "winter",
+            "clothing",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The apparel includes sweaters, scarves, jackets, and boots, with each person sporting a combination of earthy and neutral tones such as grey, brown, and burgundy.",
+        "sentence_cn": "服装包括毛衣、围巾、夹克和靴子，每个人都穿着灰色、棕色和酒红色等泥土色调和中性色调的组合。",
+        "words": [
+            "apparel",
+            "sweaters",
+            "scarves",
+            "jackets",
+            "boots",
+            "person",
+            "combination",
+            "tones",
+            "grey",
+            "brown",
+            "burgundy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left holds a wrapped gift with a yellow ribbon, while the man to her right carries a basket filled with wrapped presents.",
+        "sentence_cn": "左边的女人手里拿着一份系着黄丝带的包装好的礼物，而她右边的男子则提着一个装满包装好的礼物的篮子。",
+        "words": [
+            "woman",
+            "left",
+            "gift",
+            "ribbon",
+            "man",
+            "right",
+            "basket",
+            "presents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another woman is in the center wearing a long scarf, and the men on the far right also have scarves, one carrying a bag full of firewood.",
+        "sentence_cn": "中间还有一名妇女，戴着长围巾，最右边的男子也戴着围巾，其中一个人还背着装满柴火的袋子。",
+        "words": [
+            "woman",
+            "center",
+            "scarf",
+            "men",
+            "right",
+            "scarves",
+            "one",
+            "bag",
+            "firewood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above them, the phrase \"LOVE the PRESENT\" is prominently displayed, with \"SHOP NOW: MEN WOMEN\" written underneath.",
+        "sentence_cn": "上方醒目地写着“LOVE the PRESENT”（爱现在）的字样，下方则写着“SHOP NOW：男士女士”。",
+        "words": [
+            "LOVE the PRESENT",
+            "SHOP NOW: MEN WOMEN",
+            "phrase",
+            "PRESENT",
+            "MEN",
+            "WOMEN"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The snowy background suggests a holiday or winter theme, and the group is walking confidently, possibly modeling the clothing for an advertisement or fashion campaign.",
+        "sentence_cn": "雪花纷飞的背景暗示着假日或冬季的主题，这群人正自信地走着，可能是在为广告或时尚活动展示服装。",
+        "words": [
+            "background",
+            "holiday",
+            "winter",
+            "theme",
+            "group",
+            "clothing",
+            "fashion",
+            "campaign"
+        ],
+        "id": null
+    }
+]

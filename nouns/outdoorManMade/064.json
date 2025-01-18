@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image depicts a large, empty outdoor swimming pool surrounded by a mix of tropical and temperate greenery, including several palm trees and dense bushes or trees.",
+        "sentence_cn": "图片描绘了一个大型空旷的室外游泳池，周围环绕着热带和温带绿色植物，包括几棵棕榈树和茂密的灌木或树木。",
+        "words": [
+            "swimming",
+            "pool",
+            "mix",
+            "greenery",
+            "palm",
+            "trees",
+            "bushes",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are several tall residential buildings with numerous windows and balconies, signifying a high-rise apartment complex.",
+        "sentence_cn": "背景中，有几栋高层住宅楼，有无数的窗户和阳台，表明这是一个高层公寓大楼。",
+        "words": [
+            "background",
+            "buildings",
+            "windows",
+            "balconies",
+            "rise",
+            "apartment",
+            "complex"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The buildings have a modern architectural design with beige facades and glass features.",
+        "sentence_cn": "这些建筑拥有现代建筑设计，具有米色外墙和玻璃特色。",
+        "words": [
+            "buildings",
+            "design",
+            "facades",
+            "glass",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area appears to be well-lit, suggesting a sunny day.",
+        "sentence_cn": "该地区光线充足，表明天气晴朗。",
+        "words": [
+            "area",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool is bordered by a light-colored paved area that includes a metal railing and safety ropes, blending well with the overall aesthetic.",
+        "sentence_cn": "泳池边缘是浅色铺砌区域，配有金属栏杆和安全绳，与整体美感完美融合。",
+        "words": [
+            "pool",
+            "area",
+            "metal",
+            "railing",
+            "safety",
+            "ropes",
+            "aesthetic"
+        ],
+        "id": null
+    }
+]

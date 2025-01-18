@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Sneakers.\"",
+        "sentence_cn": "图片是《Sneakers》的电影海报。",
+        "words": [
+            "Sneakers.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, it lists the names of the main cast in bold black letters: Robert Redford, Dan Aykroyd, Ben Kingsley, Mary McDonnell, River Phoenix, Sidney Poitier, and David Strathairn.",
+        "sentence_cn": "顶部用黑色粗体字列出了主要演员的名字：罗伯特·雷德福、丹·艾克罗伊德、本·金斯利、玛丽·麦克唐纳、瑞凡·菲尼克斯、西德尼·波蒂埃和大卫·斯特雷泽恩。",
+        "words": [
+            "top",
+            "names",
+            "cast",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Sneakers\" is in large, bold red letters below the cast names.",
+        "sentence_cn": "剧名“Sneakers”以大号粗体红色字母显示在演员姓名下方。",
+        "words": [
+            "Sneakers",
+            "title",
+            "letters",
+            "cast",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath the title, there is a tagline: \"A burglar, a spy, a fugitive, a delinquent, a hacker, and a piano teacher... and these are the good guys.\"",
+        "sentence_cn": "标题下方有一句标语：“一个强盗，一个间谍，一个逃犯，一个罪犯，一个黑客，一个钢琴老师……这些都是好人。”",
+        "words": [
+            "A burglar, a spy, a fugitive, a delinquent, a hacker, and a piano teacher... and these are the good guys.",
+            "title",
+            "tagline",
+            "burglar",
+            "spy",
+            "fugitive",
+            "delinquent",
+            "hacker",
+            "piano",
+            "teacher",
+            "guys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom right, there is a graphic of a cornered paper revealing the faces of the main characters peeking out.",
+        "sentence_cn": "右下角有一张纸的图案，从中可以看到主角的脸。",
+        "words": [
+            "right",
+            "graphic",
+            "paper",
+            "faces",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The characters are arranged in a row, with their expressions focused towards the viewer.",
+        "sentence_cn": "角色排成一排，表情面向观看者。",
+        "words": [
+            "characters",
+            "row",
+            "expressions",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a clean, organized design with a minimalistic color scheme.",
+        "sentence_cn": "海报设计简洁，条理清晰，配色方案简约。",
+        "words": [
+            "poster",
+            "design",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    }
+]

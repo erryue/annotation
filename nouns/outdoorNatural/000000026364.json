@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image shows two birds walking on a surface covered with green algae or duckweed.",
+        "sentence_cn": "图像显示两只鸟在覆盖着绿藻或浮萍的水面上行走。",
+        "words": [
+            "two",
+            "birds",
+            "surface",
+            "algae",
+            "duckweed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The birds are likely moorhens, identifiable by their dark plumage with contrasting white stripes and red markings on their bills.",
+        "sentence_cn": "这些鸟很可能是黑水鸡，其特征是深色羽毛，喙上有对比鲜明的白色条纹和红色斑纹。",
+        "words": [
+            "birds",
+            "moorhens",
+            "plumage",
+            "stripes",
+            "markings",
+            "bills"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their bright yellow legs stand out against the green background.",
+        "sentence_cn": "它们鲜黄色的腿在绿色的背景下格外显眼。",
+        "words": [
+            "legs",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the top right corner, there's a partially submerged watermelon, adding an interesting detail.",
+        "sentence_cn": "右上角有一个部分浸没的西瓜，增添了一个有趣的细节。",
+        "words": [
+            "corner",
+            "watermelon",
+            "detail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding vegetation includes some dry reeds and leafy plants on the left side.",
+        "sentence_cn": "周围的植被包括左侧的一些干芦苇和绿叶植物。",
+        "words": [
+            "vegetation",
+            "reeds",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene appears to be a shallow pond or water body with a dense covering of aquatic plants.",
+        "sentence_cn": "该场景看起来像一个浅池塘或水体，上面覆盖着茂密的水生植物。",
+        "words": [
+            "scene",
+            "pond",
+            "water",
+            "body",
+            "covering",
+            "plants"
+        ],
+        "id": null
+    }
+]

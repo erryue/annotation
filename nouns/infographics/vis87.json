@@ -1,0 +1,159 @@
+[
+    {
+        "sentence": "The map illustrates the educational attainment levels across different neighborhoods in Brooklyn.",
+        "sentence_cn": "该地图展示了布鲁克林不同街区的教育水平。",
+        "words": [
+            "map",
+            "attainment",
+            "levels",
+            "neighborhoods",
+            "Brooklyn"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's color-coded to show the most common level of education among adults aged 25 and over.",
+        "sentence_cn": "它采用颜色编码来显示 25 岁及以上成年人最常见的教育水平。",
+        "words": [
+            "color",
+            "level",
+            "education",
+            "adults",
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The levels are represented by different colors:",
+        "sentence_cn": "级别由不同的颜色表示：",
+        "words": [
+            "levels",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dark Blue: Advanced degree",
+        "sentence_cn": "- 深蓝色：高级学位",
+        "words": [
+            "Dark Blue",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Blue: Bachelor's degree",
+        "sentence_cn": "- 蓝色：学士学位",
+        "words": [
+            "Blue",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Light Blue: Some college or associate's degree",
+        "sentence_cn": "- 浅蓝色：大学或副学士学位",
+        "words": [
+            "Light Blue",
+            "college",
+            "associate",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pale Green: High school diploma/GED",
+        "sentence_cn": "- 浅绿色：高中文凭/GED",
+        "words": [
+            "Pale Green",
+            "school",
+            "diploma",
+            "GED"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Yellow: Less than high school",
+        "sentence_cn": "- 黄色：高中以下",
+        "words": [
+            "Yellow",
+            "school"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key observations:",
+        "sentence_cn": "主要观察：",
+        "words": [
+            "observations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Areas such as Brooklyn Heights, Park Slope, and Williamsburg are prominently dark blue or blue, indicating that many residents have a bachelor's degree or higher.",
+        "sentence_cn": "- 布鲁克林高地、公园坡、威廉斯堡等地区以深蓝色或蓝色为主，表明许多居民拥有学士学位或更高学历。",
+        "words": [
+            "Areas",
+            "Brooklyn",
+            "Heights",
+            "Park",
+            "Slope",
+            "Williamsburg",
+            "residents",
+            "bachelor",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Neighborhoods like Sunset Park, Borough Park, and sections of East New York show a mix of pale green and yellow, suggesting lower educational attainment levels.",
+        "sentence_cn": "- 日落公园、博罗公园和纽约东部部分地区等街区呈现出淡绿色和黄色的混合色，表明教育水平较低。",
+        "words": [
+            "Neighborhoods",
+            "Sunset",
+            "Park",
+            "Borough",
+            "Park",
+            "sections",
+            "East",
+            "New",
+            "York",
+            "mix",
+            "green",
+            "yellow",
+            "attainment",
+            "levels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The map also includes labels for neighborhoods and notable landmarks, providing context for the educational patterns observed.",
+        "sentence_cn": "地图还包括街区和著名地标的标签，为观察到的教育模式提供背景。",
+        "words": [
+            "map",
+            "labels",
+            "neighborhoods",
+            "landmarks",
+            "context",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The source of the data is the U.S. Census Bureau's American Community Survey from 2006-2010.",
+        "sentence_cn": "数据来源是美国人口普查局2006年至2010年的美国社区调查。",
+        "words": [
+            "source",
+            "data",
+            "2006",
+            "2010"
+        ],
+        "id": null
+    }
+]

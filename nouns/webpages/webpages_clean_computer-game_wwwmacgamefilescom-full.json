@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "The image is a screenshot of a website called \"macgamefiles,\" which appears to be a platform for Mac game downloads.",
+        "sentence_cn": "该图片是“macgamefiles”网站的截图，该网站似乎是一个 Mac 游戏下载平台。",
+        "words": [
+            "macgamefiles,",
+            "website",
+            "platform",
+            "game",
+            "downloads"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page has a blue background with a header featuring links like \"Inside Mac Games,\" \"Mac Game Store,\" and \"Mac Game Files.\"",
+        "sentence_cn": "该页面的背景为蓝色，标题中包含“Mac 游戏内幕”、“Mac 游戏商店”和“Mac 游戏文件”等链接。",
+        "words": [
+            "Inside Mac Games,",
+            "Mac Game Store,",
+            "Mac Game Files.",
+            "page",
+            "background",
+            "header",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a search bar for finding games on the site.",
+        "sentence_cn": "网站上有一个搜索栏，可以查找游戏。",
+        "words": [
+            "search",
+            "bar",
+            "games",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is a banner ad for the game \"XCOM: Enemy Within,\" stating it's now available.",
+        "sentence_cn": "标题下方是游戏“XCOM：内部敌人”的横幅广告，称该游戏现已上市。",
+        "words": [
+            "XCOM: Enemy Within,",
+            "header",
+            "banner",
+            "ad",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another ad for \"Shelter 2: Mountains\" appears to the right, with a price of $4.49 at the MacGameStore.",
+        "sentence_cn": "右侧显示另一个“Shelter 2: Mountains”的广告，其在 MacGameStore 的售价为 4.49 美元。",
+        "words": [
+            "Shelter 2: Mountains",
+            "ad",
+            "2",
+            "right",
+            "price",
+            "4.49"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Tabs are displayed across the top of the content area: Home, Demos, Shareware, Updates, Add Ons, and Tools.",
+        "sentence_cn": "选项卡显示在内容区域顶部：主页、演示、共享软件、更新、附加组件和工具。",
+        "words": [
+            "Tabs",
+            "top",
+            "content",
+            "area",
+            "Home",
+            "Demos",
+            "Shareware",
+            "Updates",
+            "Tools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Home\" section includes featured game titles with descriptions and images, such as \"DragonScales Chambers o Dragon Whisperer,\" \"Royal Envoy 3,\" \"League of Light: Dark Omens,\" and \"Mystery Trackers: Silent Hollow.\"",
+        "sentence_cn": "“主页”部分包括带有描述和图片的特色游戏标题，例如“DragonScales Chambers o Dragon Whisperer”、“Royal Envoy 3”、“League of Light: Dark Omens”和“Mystery Trackers: Silent Hollow”。",
+        "words": [
+            "Home",
+            "DragonScales Chambers o Dragon Whisperer,",
+            "Royal Envoy 3,",
+            "League of Light: Dark Omens,",
+            "Mystery Trackers: Silent Hollow.",
+            "section",
+            "game",
+            "titles",
+            "descriptions",
+            "images",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right sidebar, there are latest headlines from Inside Mac Games, like sales and new releases.",
+        "sentence_cn": "右侧边栏有来自 Inside Mac Games 的最新头条新闻，例如销售和新发布。",
+        "words": [
+            "sidebar",
+            "headlines",
+            "sales",
+            "releases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A list of \"Top Ten Downloads\" is present, including popular titles like \"World of Warcraft\" and \"Zoo Tycoon.\"",
+        "sentence_cn": "其中有一份“十大下载榜”列表，其中包括《魔兽世界》和《动物园大亨》等热门游戏。",
+        "words": [
+            "Top Ten Downloads",
+            "World of Warcraft",
+            "Zoo Tycoon.",
+            "list",
+            "Ten",
+            "Downloads",
+            "titles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content lists recent game releases with titles, dates, a brief description, and file size, categorized by date.",
+        "sentence_cn": "主要内容列出了最近发布的游戏，包括标题、日期、简要说明和文件大小，并按日期分类。",
+        "words": [
+            "content",
+            "game",
+            "releases",
+            "titles",
+            "dates",
+            "file",
+            "size",
+            "date"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Examples include \"Garden Shop - Rush Hour!\" and \"Letter Quest: Grimm's Journey.\"",
+        "sentence_cn": "例如“花园商店 - 高峰时段！”和“信件探索：格林之旅”。",
+        "words": [
+            "Garden Shop - Rush Hour!",
+            "Letter Quest: Grimm's Journey.",
+            "Examples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the site focuses on providing information and access to game demos and shareware for Mac users.",
+        "sentence_cn": "总体而言，该网站专注于为 Mac 用户提供信息以及游戏演示和共享软件的访问权限。",
+        "words": [
+            "site",
+            "information",
+            "access",
+            "game",
+            "demos",
+            "shareware",
+            "users"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a weather application interface on a mobile device.",
+        "sentence_cn": "该图片似乎是移动设备上天气应用程序界面的截图。",
+        "words": [
+            "weather",
+            "application",
+            "interface",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a menu bar with icons for \"Favorites,\" \"Observation,\" \"Forecast,\" \"Radar,\" and a \"More\" option.",
+        "sentence_cn": "顶部有一个菜单栏，其中有“收藏夹”、“观察”、“预报”、“雷达”和“更多”选项的图标。",
+        "words": [
+            "Favorites,",
+            "Observation,",
+            "Forecast,",
+            "Radar,",
+            "More",
+            "top",
+            "menu",
+            "bar",
+            "icons",
+            "Favorites",
+            "Forecast",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the menu, there are sections labeled \"Radar Loops\" and \"Interactive Maps\":",
+        "sentence_cn": "菜单下方有标有“雷达环”和“交互式地图”的部分：",
+        "words": [
+            "Radar Loops",
+            "Interactive Maps",
+            "menu",
+            "sections",
+            "Radar",
+            "Loops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Radar Loops:",
+        "sentence_cn": "雷达环路：",
+        "words": [
+            "Radar Loops:",
+            "Radar",
+            "Loops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Local Radar",
+        "sentence_cn": "- 本地雷达",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Sector Radar",
+        "sentence_cn": "- 扇区雷达",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- National Radar",
+        "sentence_cn": "- 国家雷达",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Conus Nat. Radar",
+        "sentence_cn": "- 芋螺国家雷达",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Infrared 6Hr",
+        "sentence_cn": "红外线6Hr",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Infrared 24Hr",
+        "sentence_cn": "红外线24小时",
+        "words": [
+            "24Hr"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visible 24Hr",
+        "sentence_cn": "24小时可见",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Water Vapor 24Hr",
+        "sentence_cn": "- 水蒸气 24 小时",
+        "words": [
+            "Water",
+            "24Hr"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each option is represented by a radar-themed icon.",
+        "sentence_cn": "每个选项都由一个雷达主题图标表示。",
+        "words": [
+            "option",
+            "radar",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Interactive Maps:",
+        "sentence_cn": "交互式地图：",
+        "words": [
+            "Interactive Maps:",
+            "Maps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Max. Temp.",
+        "sentence_cn": "- 最高温度。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Min. Temp.",
+        "sentence_cn": "- 最低温度。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Precip. (Precipitation)",
+        "sentence_cn": "- 降水（降水）",
+        "words": [
+            "Precipitation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weather",
+        "sentence_cn": "- 天气",
+        "words": [
+            "Weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hazards",
+        "sentence_cn": "- 危害",
+        "words": [
+            "Hazards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dew Point",
+        "sentence_cn": "- 露点",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Wind Speed",
+        "sentence_cn": "- 风速",
+        "words": [
+            "Wind",
+            "Speed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sky Cover",
+        "sentence_cn": "- 天空封面",
+        "words": [
+            "Cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Snow",
+        "sentence_cn": "- 雪",
+        "words": [
+            "Snow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wave Height",
+        "sentence_cn": "- 波高",
+        "words": [
+            "Wave",
+            "Height"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- App. Temp. (Apparent Temperature)",
+        "sentence_cn": "- 表观温度 (表观温度)",
+        "words": [
+            "App",
+            "Temp",
+            "Temperature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Humidity",
+        "sentence_cn": "- 湿度",
+        "words": [
+            "Humidity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each option here has an associated icon, such as an umbrella for precipitation or a map with arrows for wave height.",
+        "sentence_cn": "这里的每个选项都有一个相关的图标，例如表示降水的雨伞或表示海浪高度的带有箭头的地图。",
+        "words": [
+            "option",
+            "icon",
+            "umbrella",
+            "precipitation",
+            "map",
+            "arrows",
+            "wave",
+            "height"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom is a section labeled \"Extra,\" suggesting more options or features not visible in the image.",
+        "sentence_cn": "底部是标有“额外”的部分，暗示图像中看不到的更多选项或功能。",
+        "words": [
+            "Extra,",
+            "bottom",
+            "section",
+            "Extra",
+            "options",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The device status bar at the top shows the time as 5:41 and some standard icons like battery, signal strength, and notifications.",
+        "sentence_cn": "顶部的设备状态栏显示时间为 5:41，并显示电池、信号强度和通知等一些标准图标。",
+        "words": [
+            "device",
+            "status",
+            "bar",
+            "top",
+            "time",
+            "5:41",
+            "icons",
+            "battery",
+            "signal",
+            "strength",
+            "notifications"
+        ],
+        "id": null
+    }
+]

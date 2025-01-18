@@ -1,0 +1,145 @@
+[
+    {
+        "sentence": "The image is a promotional poster for the movie \"Clueless.\"",
+        "sentence_cn": "图片是电影《独领风骚》的宣传海报。",
+        "words": [
+            "Clueless.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features three young women standing on a grand, curved staircase.",
+        "sentence_cn": "画中描绘了三位年轻女子站在宏伟的弯曲楼梯上。",
+        "words": [
+            "three",
+            "women",
+            "staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The woman on the left is wearing a black and white plaid outfit, accessorized with a hat.",
+        "sentence_cn": "- 左边的女人穿着黑白格子衣服，戴着帽子。",
+        "words": [
+            "woman",
+            "left",
+            "plaid",
+            "outfit",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is holding a pen and binder and also has a backpack.",
+        "sentence_cn": "她手里拿着一支笔和活页夹，还背着一个背包。",
+        "words": [
+            "pen",
+            "binder",
+            "backpack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The central figure is wearing a red mini-dress with a white feathered coat.",
+        "sentence_cn": "- 中心人物身穿红色迷你连衣裙，外披白色羽毛外套。",
+        "words": [
+            "figure",
+            "mini",
+            "-",
+            "dress",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is holding a white cell phone to her ear and looks directly at the viewer.",
+        "sentence_cn": "她将一部白色手机放在耳边，直视观众。",
+        "words": [
+            "cell",
+            "phone",
+            "ear",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The woman on the right is dressed in a red and black plaid top with a short black skirt.",
+        "sentence_cn": "- 右边的女子身穿红黑格子上衣，搭配黑色短裙。",
+        "words": [
+            "woman",
+            "right",
+            "plaid",
+            "top",
+            "skirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She has knee-high black socks and is holding a large notepad.",
+        "sentence_cn": "她穿着及膝的黑色袜子，手里拿着一本大记事本。",
+        "words": [
+            "knee",
+            "socks",
+            "notepad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above them, the tagline reads: \"Sex. Clothes.",
+        "sentence_cn": "上面的标语写着：“性。衣服。",
+        "words": [
+            "tagline",
+            "Sex",
+            "Clothes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Popularity",
+        "sentence_cn": "受欢迎程度",
+        "words": [
+            "Popularity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Is There A Problem Here?\"",
+        "sentence_cn": "这里有什么问题吗？」",
+        "words": [
+            "Problem"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the movie title \"Clueless\" is prominently displayed, along with the release date: \"Opens July 19th.\"",
+        "sentence_cn": "在底部，电影名称“独领风骚”显眼地显示着，还有上映日期：“7 月 19 日上映”。",
+        "words": [
+            "Clueless",
+            "Opens July 19th.",
+            "bottom",
+            "movie",
+            "title",
+            "release",
+            "date",
+            "19th"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design conveys a stylish and affluent theme.",
+        "sentence_cn": "整体设计传达出时尚、富裕的主题。",
+        "words": [
+            "design",
+            "theme"
+        ],
+        "id": null
+    }
+]

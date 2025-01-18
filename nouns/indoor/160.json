@@ -1,155 +1,150 @@
 [
     {
-        "sentence": "The image shows a home office or workspace featuring retro technology.",
-        "sentence_cn": "图中展示了一个采用复古技术的家庭办公室或工作空间。",
+        "sentence": "The image depicts a well-organized home office or study room.",
+        "sentence_cn": "图像描绘了一个井然有序的家庭办公室或书房。",
         "words": [
             "home",
             "office",
-            "workspace",
-            "technology"
+            "study",
+            "room"
         ],
         "id": null
     },
     {
-        "sentence": "The room has light-colored walls and is carpeted.",
-        "sentence_cn": "房间的墙壁是浅色的，铺着地毯。",
+        "sentence": "The room has light-colored walls and a carpeted floor.",
+        "sentence_cn": "房间的墙壁是浅色的，地板上铺着地毯。",
         "words": [
             "room",
-            "walls"
+            "walls",
+            "floor"
         ],
         "id": null
     },
     {
-        "sentence": "On the left side, there's a wooden cabinet with a stack of objects on top, including what seems to be a printer and possibly some radio equipment.",
-        "sentence_cn": "左侧有一个木柜，上面堆放着一些物品，其中包括看似打印机的东西，也可能是一些无线电设备。",
+        "sentence": "On the left side, there is a set of drawers topped with electronic equipment, such as a printer and a stack of items.",
+        "sentence_cn": "左侧有一组抽屉，上面放着电子设备，例如打印机和一堆物品。",
         "words": [
-            "cabinet",
-            "stack",
-            "objects",
-            "top",
+            "set",
+            "drawers",
+            "equipment",
             "printer",
-            "radio",
-            "equipment"
+            "stack",
+            "items"
         ],
         "id": null
     },
     {
-        "sentence": "A rolled-up blue mat or sleeping bag is leaning against the cabinet.",
-        "sentence_cn": "一个卷起来的蓝色垫子或睡袋靠在柜子上。",
+        "sentence": "A blue rolled mat and other objects are leaning against the wall.",
+        "sentence_cn": "墙上靠着一张蓝色的卷垫和其他物品。",
         "words": [
             "mat",
-            "sleeping",
-            "bag",
-            "cabinet"
+            "objects",
+            "wall"
         ],
         "id": null
     },
     {
-        "sentence": "On the wall above the cabinet, there are two framed maps and some certificates or plaques.",
-        "sentence_cn": "柜子上方的墙上挂着两幅相框的地图和一些证书或牌匾。",
+        "sentence": "Above the drawers, there is a window covered by closed blinds, and maps or large charts are mounted on the wall.",
+        "sentence_cn": "抽屉上方是一扇被拉紧的百叶窗遮住的窗户，墙上贴着地图或大图表。",
         "words": [
-            "wall",
-            "cabinet",
-            "two",
-            "maps",
-            "certificates",
-            "plaques"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The main workspace has a large desk with drawers, spanning the length of the picture.",
-        "sentence_cn": "主工作区有一张带抽屉的大桌子，横跨整个画面的长度。",
-        "words": [
-            "workspace",
-            "desk",
             "drawers",
-            "length",
-            "picture"
+            "window",
+            "blinds",
+            "maps",
+            "charts",
+            "wall"
         ],
         "id": null
     },
     {
-        "sentence": "On this desk are multiple pieces of electronic equipment:",
-        "sentence_cn": "这张桌子上有多件电子设备：",
+        "sentence": "The right side of the room features a long desk with various devices on it.",
+        "sentence_cn": "房间的右侧有一张长长的桌子，上面放着各种设备。",
         "words": [
+            "room",
             "desk",
-            "pieces",
-            "equipment"
+            "devices"
         ],
         "id": null
     },
     {
-        "sentence": "- A vintage CRT monitor displaying a computer interface.",
-        "sentence_cn": "- 显示计算机界面的老式 CRT 显示器。",
+        "sentence": "There are two large computer towers and a CRT monitor displaying a schematic or diagram.",
+        "sentence_cn": "有两台大型计算机塔和一台显示示意图或图表的 CRT 显示器。",
         "words": [
-            "vintage",
+            "two",
+            "computer",
+            "towers",
             "CRT",
             "monitor",
-            "computer",
-            "interface"
+            "schematic",
+            "diagram"
         ],
         "id": null
     },
     {
-        "sentence": "- Two tower computer cases flanking the monitor.",
-        "sentence_cn": "- 两个塔式计算机机箱位于显示器两侧。",
+        "sentence": "The monitor has decorative objects on top.",
+        "sentence_cn": "显示器顶部有装饰物。",
         "words": [
-            "Two",
-            "tower",
-            "computer",
-            "cases",
-            "monitor"
+            "monitor",
+            "objects",
+            "top"
         ],
         "id": null
     },
     {
-        "sentence": "- A keyboard and mouse are set up in front of the monitor.",
-        "sentence_cn": "- 显示器前面安装了键盘和鼠标。",
+        "sentence": "Next to the computer setup, there is a keyboard and a mouse on the desk.",
+        "sentence_cn": "在计算机设置的旁边，桌子上有一个键盘和一个鼠标。",
         "words": [
+            "computer",
             "keyboard",
             "mouse",
-            "front",
-            "monitor"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- Additional radio equipment and a microphone are placed near the monitor.",
-        "sentence_cn": "- 在监视器附近放置了额外的无线电设备和麦克风。",
-        "words": [
-            "radio",
-            "equipment",
-            "microphone",
-            "monitor"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The window behind the desk has closed mini-blinds, and a small stack of papers and books is present on the desk.",
-        "sentence_cn": "桌子后面的窗户装有关闭的百叶窗，桌子上放着一小叠纸张和书籍。",
-        "words": [
-            "window",
-            "desk",
-            "mini",
-            "-",
-            "blinds",
-            "stack",
-            "papers",
-            "books",
             "desk"
         ],
         "id": null
     },
     {
-        "sentence": "Overall, the room has a dated feel, reminiscent of a 1990s or early 2000s office.",
-        "sentence_cn": "总体而言，房间给人一种过时的感觉，让人想起 20 世纪 90 年代或 21 世纪初的办公室。",
+        "sentence": "A microphone and radio equipment are also visible on the desk, suggesting the room might be used for radio communication or similar activities.",
+        "sentence_cn": "桌子上还可以看到麦克风和无线电设备，表明该房间可能用于无线电通讯或类似活动。",
         "words": [
+            "microphone",
+            "radio",
+            "equipment",
+            "desk",
             "room",
-            "feel",
-            "1990s",
-            "2000s",
-            "office"
+            "radio",
+            "communication",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall above the desk are several framed certificates or documents.",
+        "sentence_cn": "书桌上方的墙上挂着几份镶着镜框的证书或文件。",
+        "words": [
+            "wall",
+            "desk",
+            "certificates",
+            "documents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A second window with closed blinds is present as well.",
+        "sentence_cn": "还有第二扇窗户，百叶窗关闭。",
+        "words": [
+            "window",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk has several drawers and organized cables, contributing to the tidy appearance of the room.",
+        "sentence_cn": "书桌上有多个抽屉，电缆排列整齐，使房间看起来整洁。",
+        "words": [
+            "desk",
+            "drawers",
+            "cables",
+            "appearance",
+            "room"
         ],
         "id": null
     }

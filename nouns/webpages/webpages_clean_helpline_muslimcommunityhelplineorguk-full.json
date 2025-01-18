@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image is a webpage for the Muslim Community Helpline, providing support to the UK Muslim community.",
+        "sentence_cn": "该图是穆斯林社区帮助热线的网页，为英国穆斯林社区提供支持。",
+        "words": [
+            "webpage",
+            "support",
+            "UK",
+            "community"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section features an illustration of a community setting with people walking, playing, and interacting, set against a backdrop of buildings and trees.",
+        "sentence_cn": "顶部部分描绘了一个社区场景，人们在建筑物和树木的背景下行走、玩耍和互动。",
+        "words": [
+            "section",
+            "illustration",
+            "community",
+            "people",
+            "backdrop",
+            "buildings",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A prominent feature in the center is the helpline¡¯s contact numbers, \"0208 904 8193\" and \"0208 908 6715,\" highlighted in bold yellow text.",
+        "sentence_cn": "中间最显眼的部分是热线的联系电话“0208 904 8193”和“0208 908 6715”，以粗体黄色文字突出显示。",
+        "words": [
+            "0208 904 8193",
+            "0208 908 6715,",
+            "feature",
+            "center",
+            "helpline¡¯s",
+            "contact",
+            "numbers",
+            "0208",
+            "904",
+            "8193",
+            "0208",
+            "908",
+            "6715",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They offer services Monday to Friday, from 10:00 am to 1:00 pm.",
+        "sentence_cn": "他们从周一到周五上午 10:00 到下午 1:00 提供服务。",
+        "words": [
+            "services",
+            "10:00",
+            "am",
+            "1:00",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's an illustration of a person wearing a headset, symbolizing support services.",
+        "sentence_cn": "右边是一个戴着耳机的人的插图，象征着支持服务。",
+        "words": [
+            "right",
+            "illustration",
+            "person",
+            "headset",
+            "support",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a navigation menu includes links like \"Home,\" \"About Us,\" \"Aims,\" \"Support Us,\" and \"Contact Us,\" among others.",
+        "sentence_cn": "左侧的导航菜单包括“主页”、“关于我们”、“目标”、“支持我们”和“联系我们”等链接。",
+        "words": [
+            "Home,",
+            "About Us,",
+            "Aims,",
+            "Support Us,",
+            "Contact Us,",
+            "left",
+            "navigation",
+            "menu",
+            "links",
+            "Home",
+            "Aims",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, text describes the helpline as a confidential, non-judgmental listening and emotional support service, detailing its history and operations.",
+        "sentence_cn": "下面的文字将该热线描述为一种保密的、不带偏见的倾听和情感支持服务，并详细介绍了它的历史和运作。",
+        "words": [
+            "text",
+            "helpline",
+            "listening",
+            "support",
+            "service",
+            "history",
+            "operations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The service began in 2007, evolving from the Muslim Women's Helpline (1987), and is available to women, men, youth, and children.",
+        "sentence_cn": "该服务始于 2007 年，由穆斯林妇女帮助热线 (1987 年) 发展而来，为妇女、男性、青年和儿童提供服务。",
+        "words": [
+            "service",
+            "2007",
+            "1987",
+            "women",
+            "men",
+            "youth",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is primarily green, with the text and illustrations visually centered for easy readability.",
+        "sentence_cn": "背景主要是绿色，文字和插图位于视觉中心，以便于阅读。",
+        "words": [
+            "background",
+            "text",
+            "illustrations",
+            "readability"
+        ],
+        "id": null
+    }
+]

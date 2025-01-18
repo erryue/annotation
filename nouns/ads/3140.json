@@ -1,0 +1,153 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Baby Ruth candy bars.",
+        "sentence_cn": "",
+        "words": [
+            "candy",
+            "bars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the upper left corner, there is an illustration of a basket filled with ripe strawberries, emphasizing their freshness.",
+        "sentence_cn": "左上角有一个装满成熟草莓的篮子的插图，强调了草莓的新鲜度。",
+        "words": [
+            "corner",
+            "illustration",
+            "basket",
+            "strawberries",
+            "freshness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text beside the basket reads: \"Eat around each fresh fruitie, for health!\"",
+        "sentence_cn": "篮子旁边的文字写着：“吃每个新鲜水果，为了健康！”",
+        "words": [
+            "Eat around each fresh fruitie, for health!",
+            "text",
+            "basket",
+            "fruitie",
+            "health"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the strawberries, large text states: \"Luscious ripe Strawberries are rich in pure Dextrose Sugar . . . and so is delicious Baby Ruth.\"",
+        "sentence_cn": "草莓下方，大字写着：“美味成熟的草莓富含纯净的葡萄糖……美味的 Baby Ruth 草莓也是如此。”",
+        "words": [
+            "Luscious ripe Strawberries are rich in pure Dextrose Sugar . . . and so is delicious Baby Ruth.",
+            "strawberries",
+            "text",
+            "Strawberries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's an illustration of a young boy in a running pose, wearing a sporty outfit.",
+        "sentence_cn": "右侧是一幅插图，描绘的是一个身穿运动服、正在跑步的小男孩。",
+        "words": [
+            "illustration",
+            "boy",
+            "running",
+            "pose",
+            "outfit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "His shirt features a circular logo that reads \"GOOD ENERGY FOOD.\"",
+        "sentence_cn": "他的衬衫上有一个圆形的标志，上面写着“优质能量食品”。",
+        "words": [
+            "GOOD ENERGY FOOD.",
+            "shirt",
+            "logo",
+            "ENERGY",
+            "FOOD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath this, there is additional text describing the candy bar's natural goodness and ingredients such as milk, butter, eggs, chocolate, and roasted nuts, emphasizing its energy-boosting qualities.",
+        "sentence_cn": "下面还有附加文字，描述了这种糖果的天然优点以及其成分，例如牛奶、黄油、鸡蛋、巧克力和烤坚果，强调了它的能量补充特性。",
+        "words": [
+            "text",
+            "candy",
+            "bar",
+            "goodness",
+            "ingredients",
+            "milk",
+            "butter",
+            "eggs",
+            "chocolate",
+            "nuts",
+            "energy",
+            "qualities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It reads: \"The natural goodness of Baby Ruth comes from the natural foods so deliciously blended to make this fine candy¡ªfresh foods as milk, butter, eggs, chocolate, and roasted nuts¡ªand pure Dextrose, the sugar your body uses directly for energy.",
+        "sentence_cn": "上面写道：“Baby Ruth 的天然美味来自于精心混合制成的天然食物——牛奶、黄油、鸡蛋、巧克力和烤坚果等新鲜食物——以及纯葡萄糖，即人体可直接用来提供能量的糖分。",
+        "words": [
+            "goodness",
+            "foods",
+            "foods",
+            "milk",
+            "butter",
+            "eggs",
+            "chocolate",
+            "Dextrose",
+            "sugar",
+            "body",
+            "energy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Doesn¡¯t that explain why Baby Ruth is fine candy and fine food?\"",
+        "sentence_cn": "这难道不能解释为什么 Baby Ruth 是美味的糖果和食物吗？”",
+        "words": [
+            "candy",
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is an image of an unwrapped Baby Ruth candy bar, showing its nutty inner texture, placed next to its orange packaging.",
+        "sentence_cn": "在底部，有一张未包装的 Baby Ruth 糖果棒的图片，显示了其坚果般的内部质地，旁边是其橙色包装。",
+        "words": [
+            "bottom",
+            "candy",
+            "bar",
+            "texture",
+            "orange",
+            "packaging"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The package has white text highlighting the candy as \"DELICIOUS GOODNESS\" and \"VITAL ENERGY.\"",
+        "sentence_cn": "包装上有白色文字突出显示糖果“美味可口”和“活力能量”。",
+        "words": [
+            "DELICIOUS GOODNESS",
+            "VITAL ENERGY.",
+            "package",
+            "text",
+            "candy",
+            "GOODNESS",
+            "ENERGY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement concludes with \"CURTISS CANDY COMPANY...CHICAGO\" and \"AT CANDY COUNTERS EVERYWHERE\" at the bottom.",
+        "sentence_cn": "广告底部以“CURTISS CANDY COMPANY...CHICAGO”和“AT CANDY COUNTERS EVERYWHERE”结尾。",
+        "words": [
+            "CURTISS CANDY COMPANY...CHICAGO",
+            "AT CANDY COUNTERS EVERYWHERE",
+            "bottom"
+        ],
+        "id": null
+    }
+]

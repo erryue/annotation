@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image shows an elegantly decorated wooden coffee table.",
+        "sentence_cn": "图中展示的是一张装饰典雅的木制咖啡桌。",
+        "words": [
+            "coffee",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there is a collection of decorative items arranged neatly on white lace doilies.",
+        "sentence_cn": "桌子上，一些装饰品整齐地摆放在白色蕾丝桌垫上。",
+        "words": [
+            "table",
+            "collection",
+            "items",
+            "lace",
+            "doilies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Starting from the left, there is a dark, amber-colored vase with a mottled pattern.",
+        "sentence_cn": "从左边开始，有一个深琥珀色的花瓶，上面有斑驳的图案。",
+        "words": [
+            "left",
+            "amber",
+            "vase",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it, there is a taller vase holding a vibrant bouquet of red roses with lush green leaves, creating a striking contrast against the warmer tones of the table and other items.",
+        "sentence_cn": "旁边有一个较高的花瓶，里面插着一束鲜艳的红玫瑰和茂盛的绿叶，与桌子和其他物品的暖色调形成了鲜明的对比。",
+        "words": [
+            "vase",
+            "bouquet",
+            "roses",
+            "leaves",
+            "contrast",
+            "tones",
+            "table",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a wide, round vase with a similar amber and brown pattern, featuring a wavy, open top.",
+        "sentence_cn": "中心是一个宽大的圆形花瓶，具有类似的琥珀色和棕色图案，顶部呈波浪形开口。",
+        "words": [
+            "center",
+            "vase",
+            "amber",
+            "brown",
+            "pattern",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the central vase, there is a narrower vase that resembles a bottle, displaying the same color scheme and texture.",
+        "sentence_cn": "中央花瓶的右侧，有一个较窄的花瓶，形状类似瓶子，具有相同的配色方案和纹理。",
+        "words": [
+            "right",
+            "vase",
+            "vase",
+            "bottle",
+            "color",
+            "scheme",
+            "texture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Lastly, on the far right, there is another tall vase, similar in design to the first, completing the symmetrical arrangement.",
+        "sentence_cn": "最后，最右边还有另一个高花瓶，其设计与第一个花瓶相似，完成了对称的布置。",
+        "words": [
+            "right",
+            "vase",
+            "design",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, part of a beige sofa is visible, accented with colorful cushions that add a cozy and inviting touch to the overall aesthetic.",
+        "sentence_cn": "在背景中，可以看到米色沙发的一部分，配以彩色靠垫，为整体美感增添了舒适和温馨的感觉。",
+        "words": [
+            "background",
+            "part",
+            "sofa",
+            "cushions",
+            "touch",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is warm and inviting, with the rich tones of the wood and decor highlighting a tastefully arranged living space.",
+        "sentence_cn": "环境温馨宜人，木材和装饰的丰富色调凸显了高雅的居住空间。",
+        "words": [
+            "tones",
+            "wood",
+            "decor",
+            "living",
+            "space"
+        ],
+        "id": null
+    }
+]

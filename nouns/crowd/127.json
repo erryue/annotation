@@ -1,0 +1,62 @@
+[
+    {
+        "sentence": "The image shows an elderly woman and a man dancing together in a bright kitchen setting.",
+        "sentence_cn": "照片中，一位老妇人和一位男子在明亮的厨房里一起跳舞。",
+        "words": [
+            "woman",
+            "man",
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman, wearing glasses and dressed in a blue outfit, appears joyful and engaged.",
+        "sentence_cn": "这位戴着眼镜、身着蓝色服装的女子看上去心情愉悦、全神贯注。",
+        "words": [
+            "woman",
+            "glasses",
+            "outfit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is wearing a cowboy hat and a blue shirt with \"Jack Daniels\" written on the sleeve.",
+        "sentence_cn": "该男子戴着牛仔帽，身穿蓝色衬衫，袖子上印有“杰克丹尼” (Jack Daniels) 字样。",
+        "words": [
+            "Jack Daniels",
+            "man",
+            "cowboy",
+            "hat",
+            "shirt",
+            "sleeve"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are smiling and holding hands, suggesting a moment of warmth and connection.",
+        "sentence_cn": "他们面带微笑，手牵着手，体现出此刻的温暖与亲密。",
+        "words": [
+            "hands",
+            "warmth",
+            "connection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen has white cabinets with silver handles, a sink with a faucet, and various items like bottles and a cup on the counter, adding to the homey atmosphere.",
+        "sentence_cn": "厨房配有带银色把手的白色橱柜、带水龙头的水槽，以及柜台上摆放的各种瓶子和杯子等物品，增添了温馨的氛围。",
+        "words": [
+            "kitchen",
+            "cabinets",
+            "handles",
+            "sink",
+            "faucet",
+            "items",
+            "bottles",
+            "cup",
+            "counter",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image depicts a scenic rural landscape featuring a grassy meadow where several cows are leisurely grazing.",
+        "sentence_cn": "照片描绘的是一片风景如画的乡村风光，草地上有几头牛在悠闲地吃草。",
+        "words": [
+            "landscape",
+            "meadow",
+            "cows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are lush green trees with a hint of pink or purple blooms, adding a touch of color to the scene.",
+        "sentence_cn": "背景中，有郁郁葱葱的绿树，点缀着淡淡的粉色或紫色花朵，为场景增添了一抹色彩。",
+        "words": [
+            "background",
+            "trees",
+            "hint",
+            "blooms",
+            "touch",
+            "color",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the trees, rolling hills covered in dense forest can be seen, creating a serene and natural setting.",
+        "sentence_cn": "树后，可见茂密森林覆盖的连绵起伏的山丘，营造出宁静自然的环境。",
+        "words": [
+            "trees",
+            "hills",
+            "forest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is tranquil, highlighting the beauty of nature in a pastoral environment.",
+        "sentence_cn": "整体氛围宁静，凸显田园环境中的自然之美。",
+        "words": [
+            "atmosphere",
+            "beauty",
+            "nature",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky appears to be overcast, lending a soft light to the entire scene.",
+        "sentence_cn": "天空似乎阴云密布，给整个场景带来柔和的光线。",
+        "words": [
+            "sky",
+            "light",
+            "scene"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image shows an urban coastal scene with a prominent amusement park featuring a vertical ride tower in the foreground.",
+        "sentence_cn": "图片展示了一个城市沿海场景，前景中有一个著名的游乐园，其中有一座垂直的游乐塔。",
+        "words": [
+            "scene",
+            "amusement",
+            "park",
+            "ride",
+            "tower",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tower has Arabic writing on it and is located amidst several roller coaster tracks and other amusement rides.",
+        "sentence_cn": "塔上有阿拉伯文字，位于几条过山车轨道和其他游乐设施中间。",
+        "words": [
+            "tower",
+            "writing",
+            "roller",
+            "coaster",
+            "tracks",
+            "amusement",
+            "rides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are numerous buildings and structures, including warehouses with flat roofs, surrounded by trees.",
+        "sentence_cn": "背景中有许多建筑物和构筑物，包括平屋顶的仓库，周围环绕着树木。",
+        "words": [
+            "background",
+            "buildings",
+            "structures",
+            "warehouses",
+            "roofs",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The horizon reveals a calm, blue sea under a clear sky, with a few boats visible on the water.",
+        "sentence_cn": "地平线上，晴朗的天空下，海水平静，蔚蓝，水面上停泊着几艘小船。",
+        "words": [
+            "horizon",
+            "sea",
+            "sky",
+            "boats",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Along the coastline, there are palm trees and what seems to be a maritime or coastal installation, possibly a port or harbor area.",
+        "sentence_cn": "沿着海岸线，有棕榈树，还有看起来像是海上或沿海设施的地方，可能是港口或港湾区域。",
+        "words": [
+            "coastline",
+            "palm",
+            "trees",
+            "installation",
+            "port",
+            "harbor",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a city by the sea with leisure and industrial elements.",
+        "sentence_cn": "整体环境给人一种具有休闲和工业元素的海滨城市的感觉。",
+        "words": [
+            "city",
+            "sea",
+            "leisure",
+            "elements"
+        ],
+        "id": null
+    }
+]

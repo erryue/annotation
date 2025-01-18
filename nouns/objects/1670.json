@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image shows a cozy, organized scene on a wooden table.",
+        "sentence_cn": "图中显示的是木桌上舒适、有序的场景。",
+        "words": [
+            "scene",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a small bouquet of yellow flowers in a glass vase on the left side.",
+        "sentence_cn": "",
+        "words": [
+            "bouquet",
+            "flowers",
+            "glass",
+            "vase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the flowers, there's a brass dish labeled \"POCKET CHANGE\" with nothing in it.",
+        "sentence_cn": "鲜花的旁边有一个铜盘，上面标有“零钱”，但里面什么都没有。",
+        "words": [
+            "POCKET CHANGE",
+            "flowers",
+            "brass",
+            "dish",
+            "POCKET",
+            "CHANGE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the dish, a lit candle in a clear glass holder casts a warm glow.",
+        "sentence_cn": "在盘子前面，透明玻璃烛台上点燃的蜡烛发出温暖的光芒。",
+        "words": [
+            "front",
+            "dish",
+            "candle",
+            "glass",
+            "holder",
+            "glow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there is a magazine with the title \"REAL SIMPLE\" prominently displayed.",
+        "sentence_cn": "右侧，有一本杂志，标题为“REAL SIMPLE”，十分显眼。",
+        "words": [
+            "REAL SIMPLE",
+            "magazine",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The magazine cover mentions topics like \"secret ways to save every day\" and has various images, including a high-heeled shoe and a flower.",
+        "sentence_cn": "杂志封面提到了“每天节省的秘诀”等主题，并有各种图像，包括一只高跟鞋和一朵花。",
+        "words": [
+            "secret ways to save every day",
+            "magazine",
+            "cover",
+            "topics",
+            "ways",
+            "day",
+            "images",
+            "shoe",
+            "flower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is warm and inviting, with a focus on simplicity and organization.",
+        "sentence_cn": "整体氛围温暖而温馨，注重简洁和有序。",
+        "words": [
+            "atmosphere",
+            "focus",
+            "simplicity",
+            "organization"
+        ],
+        "id": null
+    }
+]

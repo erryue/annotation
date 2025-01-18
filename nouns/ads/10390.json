@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image is an advertisement featuring a glass of beer being poured from above, resulting in a frothy head at the top of the glass.",
+        "sentence_cn": "该图是一则广告，展示的是一杯啤酒从上方倒出，导致玻璃杯顶部出现泡沫。",
+        "words": [
+            "glass",
+            "beer",
+            "head",
+            "top",
+            "glass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The beer has a golden, bubbly appearance, indicating coldness and freshness.",
+        "sentence_cn": "该啤酒呈金黄色，泡沫丰富，冰凉、新鲜。",
+        "words": [
+            "beer",
+            "appearance",
+            "coldness",
+            "freshness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a neon design resembling a maze, with bright blue outlines, creating a modern and visually striking effect.",
+        "sentence_cn": "背景中有一个类似迷宫的霓虹灯设计，带有明亮的蓝色轮廓，营造出现代而又引人注目的效果。",
+        "words": [
+            "background",
+            "neon",
+            "design",
+            "maze",
+            "outlines",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the glass, there is a small beer can on the right side labeled \"BRAHMA subzero,\" emphasizing the brand.",
+        "sentence_cn": "玻璃杯下方右侧有一个小啤酒罐，上面标有“BRAHMA subzero”，强调了品牌。",
+        "words": [
+            "BRAHMA subzero,",
+            "glass",
+            "beer",
+            "can",
+            "brand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline next to it reads \"goes easily,\" suggesting smoothness or ease of drinking.",
+        "sentence_cn": "旁边的标语写着“goes easily”，暗示着顺滑或易于饮用。",
+        "words": [
+            "goes easily,",
+            "tagline",
+            "smoothness",
+            "ease",
+            "drinking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme combines the blue neon with the golden tones of the beer, enhancing the refreshing feel of the advertisement.",
+        "sentence_cn": "整体配色将蓝色霓虹与啤酒的金色色调相结合，增强了广告的清爽感。",
+        "words": [
+            "color",
+            "scheme",
+            "neon",
+            "tones",
+            "beer",
+            "feel"
+        ],
+        "id": null
+    }
+]

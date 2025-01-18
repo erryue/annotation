@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a serene savanna scene.",
+        "sentence_cn": "图像描绘的是一片宁静的大草原场景。",
+        "words": [
+            "savanna",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several waterbucks grazing peacefully on a grassy hill.",
+        "sentence_cn": "前景中，有几只水羚在草山上安静地吃草。",
+        "words": [
+            "foreground",
+            "waterbucks",
+            "hill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be in various postures, some standing and others grazing with their heads lowered.",
+        "sentence_cn": "它们的姿势各异，有的站着，有的低着头吃草。",
+        "words": [
+            "postures",
+            "others",
+            "heads"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their coats are a warm brown color, with lighter markings on their faces.",
+        "sentence_cn": "它们的皮毛是暖棕色，脸上有较浅的斑纹。",
+        "words": [
+            "coats",
+            "color",
+            "markings",
+            "faces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a solitary giraffe stands atop the hill, towering over the other animals.",
+        "sentence_cn": "在背景中，一只孤独的长颈鹿站在山顶上，高高地耸立于其他动物之上。",
+        "words": [
+            "background",
+            "giraffe",
+            "hill",
+            "animals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffe's distinctive long neck and patterned coat are clearly visible.",
+        "sentence_cn": "长颈鹿独特的长脖子和有图案的皮毛清晰可见。",
+        "words": [
+            "giraffe",
+            "neck",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is a bright blue, dotted with fluffy white clouds, adding to the tranquil and natural atmosphere of the scene.",
+        "sentence_cn": "天空是明亮的蓝色，点缀着蓬松的白云，增添了场景的宁静自然的氛围。",
+        "words": [
+            "sky",
+            "blue",
+            "clouds",
+            "atmosphere",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a typical day in an African savanna, with animals freely roaming in their natural habitat.",
+        "sentence_cn": "整体场景呈现了非洲大草原的典型一天，动物在其自然栖息地自由漫步。",
+        "words": [
+            "day",
+            "savanna",
+            "animals",
+            "habitat"
+        ],
+        "id": null
+    }
+]

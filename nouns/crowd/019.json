@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image depicts an art gallery or exhibition space with several people observing the artworks displayed on a white brick wall.",
+        "sentence_cn": "图像描绘了一个艺术画廊或展览空间，有几个人正在观察白色砖墙上展示的艺术品。",
+        "words": [
+            "art",
+            "gallery",
+            "exhibition",
+            "space",
+            "people",
+            "artworks",
+            "brick",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The artworks vary in style, featuring a mix of abstract, pop art, and urban art.",
+        "sentence_cn": "这些艺术品风格各异，融合了抽象艺术、波普艺术和城市艺术。",
+        "words": [
+            "artworks",
+            "style",
+            "mix",
+            "art",
+            "art"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the upper section, there are comic-style paintings and a piece showing a woman with bold colors.",
+        "sentence_cn": "- 上部有漫画风格的绘画和一幅用大胆的色彩描绘女性的画作。",
+        "words": [
+            "section",
+            "style",
+            "paintings",
+            "piece",
+            "woman",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left side, a painting shows a New York building with a pink background.",
+        "sentence_cn": "- 左侧的画作展示了一座纽约建筑，背景为粉红色。",
+        "words": [
+            "painting",
+            "New",
+            "York",
+            "building",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center, there's a stylized hand holding a spray can.",
+        "sentence_cn": "- 在中心，有一只拿着喷雾罐的手。",
+        "words": [
+            "center",
+            "hand",
+            "spray",
+            "can"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Another piece shows a sketch-like portrait of a woman.",
+        "sentence_cn": "- 另一件作品展示了一位女性的素描肖像。",
+        "words": [
+            "piece",
+            "sketch",
+            "portrait",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right side, there are paintings depicting buildings, one in an orange hue, and another with a yellow color.",
+        "sentence_cn": "- 右侧是描绘建筑物的画作，一幅是橙色，另一幅是黄色。",
+        "words": [
+            "paintings",
+            "buildings",
+            "one",
+            "orange",
+            "hue",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the lower part of the wall, there are abstract and stencil-style works.",
+        "sentence_cn": "- 墙壁下部有抽象和模板风格的作品。",
+        "words": [
+            "part",
+            "wall",
+            "stencil",
+            "style",
+            "works"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several people are present, closely inspecting the art.",
+        "sentence_cn": "有几个人在场，仔细观察着这件艺术品。",
+        "words": [
+            "people",
+            "art"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are casually dressed, suggesting a relaxed setting.",
+        "sentence_cn": "他们穿着随意，体现出一种轻松的氛围。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Some artworks are placed directly on the floor or leaning against the wall, adding to the informal atmosphere.",
+        "sentence_cn": "一些艺术品被直接摆放在地板上或靠在墙上，增添了非正式的氛围。",
+        "words": [
+            "artworks",
+            "floor",
+            "wall",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

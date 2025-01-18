@@ -1,0 +1,24 @@
+[
+    {
+        "id": "50494fac-3970-4cc2-b7bc-5ecbb7bdcf60",
+        "confidence": 0.8413,
+        "class": "vase",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 215.811,
+                        "minY": 393.09827,
+                        "maxX": 277.51791,
+                        "maxY": 579.25073
+                    },
+                    "x": 215.811,
+                    "y": 393.09827,
+                    "w": 61.706909999999965,
+                    "h": 186.15245999999996
+                }
+            }
+        }
+    }
+]

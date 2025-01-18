@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Blade Runner.\"",
+        "sentence_cn": "图片是《银翼杀手》的电影海报。",
+        "words": [
+            "Blade Runner.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a dramatic and stylized depiction of a man holding a gun, with a serious expression on his face.",
+        "sentence_cn": "该画以戏剧化和风格化的方式描绘了一个手持枪、脸上带着严肃表情的男人。",
+        "words": [
+            "depiction",
+            "man",
+            "gun",
+            "expression",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark, with beams of light and futuristic cityscapes featuring skyscrapers and flying vehicles.",
+        "sentence_cn": "背景是黑暗的，有光束和未来主义的城市景观，包括摩天大楼和飞行器。",
+        "words": [
+            "background",
+            "beams",
+            "light",
+            "cityscapes",
+            "skyscrapers",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a woman with short hair holding a cigarette, looking directly at the viewer.",
+        "sentence_cn": "前景中，一名短发女子手拿香烟，直视着观看者。",
+        "words": [
+            "foreground",
+            "woman",
+            "hair",
+            "cigarette",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top right corner has the text: \"MAN HAS MADE HIS MATCH... NOW IT'S HIS PROBLEM,\" emphasizing a theme of human versus artificial conflict.",
+        "sentence_cn": "右上角有文字：“人类已找到对手……现在轮到自己有问题了”，强调了人类与人工冲突的主题。",
+        "words": [
+            "MAN HAS MADE HIS MATCH... NOW IT'S HIS PROBLEM,",
+            "corner",
+            "text",
+            "MAN",
+            "MATCH",
+            "PROBLEM",
+            "theme",
+            "human",
+            "conflict"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster highlights the lead actor's name prominently at the bottom: \"Harrison Ford is Blade Runner\" in bold lettering.",
+        "sentence_cn": "海报底部突出显示了主演的名字：“哈里森·福特是银翼杀手”用粗体字写着。",
+        "words": [
+            "Harrison Ford is Blade Runner",
+            "poster",
+            "actor",
+            "name",
+            "bottom",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The credits below list other cast and crew, including the director, Ridley Scott, and mention the film's R rating.",
+        "sentence_cn": "下面的名单列出了其他演员和工作人员，包括导演雷德利斯科特，并提到了电影的 R 级。",
+        "words": [
+            "credits",
+            "cast",
+            "crew",
+            "director",
+            "film",
+            "R",
+            "rating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is dark with vibrant highlights, creating a moody and atmospheric feel.",
+        "sentence_cn": "整体配色为深色，带有鲜明的亮点，营造出一种忧郁而大气的感觉。",
+        "words": [
+            "color",
+            "scheme",
+            "highlights",
+            "feel"
+        ],
+        "id": null
+    }
+]

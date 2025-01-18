@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image depicts a coastal scene with multiple surfers riding small to medium-sized waves in the ocean.",
+        "sentence_cn": "图片描绘的是海岸场景，多名冲浪者在海上乘着小到中等大小的海浪。",
+        "words": [
+            "scene",
+            "surfers",
+            "waves",
+            "ocean"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water appears light blue with gentle white foam, indicating mild wave activity.",
+        "sentence_cn": "水呈浅蓝色，有轻柔的白色泡沫，表明波浪活动轻微。",
+        "words": [
+            "water",
+            "foam",
+            "wave",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a cityscape with numerous buildings lines the shore, set against a backdrop of green, mountainous terrain.",
+        "sentence_cn": "背景中，是海岸边众多建筑物组成的城市景观，背景是绿色的山地地形。",
+        "words": [
+            "background",
+            "cityscape",
+            "buildings",
+            "shore",
+            "backdrop",
+            "terrain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, suggesting a cloudy day.",
+        "sentence_cn": "天空阴云密布，预示着将是多云天气。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is relaxed and vibrant, capturing the essence of a beachside urban environment with people engaging in surfing activities.",
+        "sentence_cn": "整体氛围轻松而充满活力，捕捉了人们从事冲浪活动的海滨城市环境的精髓。",
+        "words": [
+            "atmosphere",
+            "essence",
+            "beachside",
+            "environment",
+            "people",
+            "surfing",
+            "activities"
+        ],
+        "id": null
+    }
+]

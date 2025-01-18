@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image shows a group of young people enjoying a day at the beach.",
+        "sentence_cn": "图为一群年轻人正在海滩享受一天。",
+        "words": [
+            "group",
+            "people",
+            "day",
+            "beach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are all sitting close together, suggesting a sense of camaraderie and fun.",
+        "sentence_cn": "他们紧密地坐在一起，体现出一种友爱和欢乐的感觉。",
+        "words": [
+            "sense",
+            "camaraderie",
+            "fun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central focus is on a woman with long brown hair, wearing a headband with a flower and stylish oversized sunglasses.",
+        "sentence_cn": "照片的中心焦点是一位有着棕色长发、头戴花朵头带、戴着时尚大号太阳镜的女性。",
+        "words": [
+            "focus",
+            "woman",
+            "hair",
+            "headband",
+            "flower",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is smiling brightly, indicating a happy and relaxed mood.",
+        "sentence_cn": "她笑容灿烂，显示出快乐而轻松的心情。",
+        "words": [
+            "mood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To her side are two men; one is looking towards her and smiling.",
+        "sentence_cn": "她身边有两个男人，其中一个正看着她，面带微笑。",
+        "words": [
+            "two",
+            "men",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are both wearing sunglasses, and one man in the foreground has his back partially to the camera.",
+        "sentence_cn": "他们俩都戴着太阳镜，前景中的一名男子背对着镜头。",
+        "words": [
+            "sunglasses",
+            "one",
+            "man",
+            "foreground",
+            "back",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sun is shining brightly, casting a warm glow on the group.",
+        "sentence_cn": "阳光明媚，给人群投下温暖的光芒。",
+        "words": [
+            "sun",
+            "glow",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the ocean can be seen, adding to the beach setting and the overall sense of leisure and enjoyment.",
+        "sentence_cn": "在背景中可以看到海洋，增加了海滩环境和整体的休闲和享受感。",
+        "words": [
+            "background",
+            "ocean",
+            "beach",
+            "sense",
+            "leisure",
+            "enjoyment"
+        ],
+        "id": null
+    }
+]

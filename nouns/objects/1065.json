@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image depicts a small, organized workspace with a wooden table.",
+        "sentence_cn": "图像描绘的是一个小型、有序的工作空间，里面有一张木桌。",
+        "words": [
+            "workspace",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there is an ASUS laptop with its screen facing partially towards the viewer.",
+        "sentence_cn": "桌子上有一台华硕笔记本电脑，其屏幕部分朝向观看者。",
+        "words": [
+            "table",
+            "laptop",
+            "screen",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The laptop is open and shows a lightly visible screen with text, indicating it's in use.",
+        "sentence_cn": "笔记本电脑已打开，屏幕上显示出隐约可见的文字，表明它正在使用中。",
+        "words": [
+            "laptop",
+            "screen",
+            "text",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the laptop, there is a white plate stacked with sandwiches made from white bread and filled with deli meats.",
+        "sentence_cn": "笔记本电脑的左边有一个白色的盘子，上面堆满了用白面包做成的三明治，里面装满了熟食肉。",
+        "words": [
+            "left",
+            "laptop",
+            "plate",
+            "sandwiches",
+            "bread",
+            "deli",
+            "meats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the sandwiches are neatly arranged slices of an orange, adding a bright color contrast to the image.",
+        "sentence_cn": "三明治旁边整齐排列着橙子片，为图像增添了明亮的色彩对比。",
+        "words": [
+            "sandwiches",
+            "slices",
+            "orange",
+            "color",
+            "contrast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the laptop, there is a large white cup with a metallic spoon inside, suggesting it might contain a hot beverage like coffee or tea.",
+        "sentence_cn": "在笔记本电脑的右侧，有一个白色的大杯子，里面有一把金属勺子，这表明里面可能装有咖啡或茶等热饮。",
+        "words": [
+            "laptop",
+            "cup",
+            "spoon",
+            "beverage",
+            "coffee",
+            "tea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cup is placed directly on the table surface.",
+        "sentence_cn": "将杯子直接放在桌面上。",
+        "words": [
+            "cup",
+            "table",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, partially visible, is a shelving unit on the right side with various items, including a cereal box and other kitchen or office-related supplies.",
+        "sentence_cn": "背景中部分可见的是右侧的搁架，上面摆放着各种物品，包括麦片盒和其他厨房或办公室相关的用品。",
+        "words": [
+            "background",
+            "shelving",
+            "unit",
+            "items",
+            "cereal",
+            "box",
+            "kitchen",
+            "office",
+            "supplies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the desk are two cork boards, which are empty in this image.",
+        "sentence_cn": "桌子上方有两块软木板，在图片中是空的。",
+        "words": [
+            "desk",
+            "two",
+            "cork",
+            "boards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems to be a casual home or small office environment with a comfortable and accessible setup for working and having a meal.",
+        "sentence_cn": "该场景似乎是一个休闲家庭或小型办公室环境，拥有舒适且方便的工作和用餐设施。",
+        "words": [
+            "home",
+            "office",
+            "environment",
+            "meal"
+        ],
+        "id": null
+    }
+]

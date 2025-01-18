@@ -1,0 +1,144 @@
+[
+    {
+        "sentence": "The image is a graphic titled \"Who are the 47%?\" at the top.",
+        "sentence_cn": "该图像是顶部标题为“那 47% 是谁？”的图表。",
+        "words": [
+            "Who are the 47%?",
+            "graphic",
+            "47",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a grayscale sketch of a man on the left, with a quote attributed to Mitt Romney next to it, stating:",
+        "sentence_cn": "左边是一幅灰度素描，旁边是米特·罗姆尼的一句话：",
+        "words": [
+            "grayscale",
+            "sketch",
+            "man",
+            "left",
+            "quote"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"My job is not to worry about those people.",
+        "sentence_cn": "“我的工作不是担心那些人。",
+        "words": [
+            "job",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "I'll never convince them they should take personal responsibility and care for their lives.\"",
+        "sentence_cn": "我永远无法说服他们应该承担个人责任并关心自己的生命。”",
+        "words": [
+            "responsibility",
+            "lives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, the image asks, \"So, which half of America was Romney talking about?\" and provides a pie chart.",
+        "sentence_cn": "下面的这幅图问道：“那么，罗姆尼谈论的是美国哪一半人？”，并提供了一个饼图。",
+        "words": [
+            "So, which half of America was Romney talking about?",
+            "half",
+            "America",
+            "pie",
+            "chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The chart breaks down the 47% of people who do not pay income tax as follows:",
+        "sentence_cn": "图表对 47％ 不缴纳所得税的人进行了如下细分：",
+        "words": [
+            "chart",
+            "47",
+            "people",
+            "income",
+            "tax"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 28.3% pay payroll taxes",
+        "sentence_cn": "- 28.3％支付工资税",
+        "words": [
+            "28.3",
+            "payroll",
+            "taxes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 10.3% are elderly",
+        "sentence_cn": "- 10.3％为老年人",
+        "words": [
+            "10.3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 6.9% are non-elderly with income under $20,000 a year",
+        "sentence_cn": "- 6.9％为非老年人，年收入低于2万美元",
+        "words": [
+            "6.9",
+            "income",
+            "20,000",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Under 1% are other, including those making over $200,000 a year",
+        "sentence_cn": "- 其他收入者不到 1%，包括年收入超过 20 万美元的人",
+        "words": [
+            "1",
+            "200,000",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pie chart uses different shades of blue and gray to represent these categories.",
+        "sentence_cn": "饼图使用不同深浅的蓝色和灰色来表示这些类别。",
+        "words": [
+            "pie",
+            "chart",
+            "shades",
+            "blue",
+            "gray",
+            "categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, three sources are listed, and the image credits \"HackCollege.com\" with a logo \"HC.\"",
+        "sentence_cn": "底部列出了三个来源，图片来源为“HackCollege.com”，并带有徽标“HC”。",
+        "words": [
+            "HackCollege.com",
+            "HC.",
+            "bottom",
+            "three",
+            "sources",
+            "credits",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there¡¯s a photo credit for Austen Hufford, and Creative Commons licenses logos are shown.",
+        "sentence_cn": "此外，图片上还标注了奥斯汀·赫福德 (Austen Hufford) 的照片，并显示了知识共享许可徽标。",
+        "words": [
+            "photo",
+            "credit",
+            "licenses",
+            "logos"
+        ],
+        "id": null
+    }
+]

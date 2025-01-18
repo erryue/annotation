@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a warmly lit corner of a wooden desk.",
+        "sentence_cn": "图像描绘的是木桌上温暖灯光的一角。",
+        "words": [
+            "corner",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is a metallic desk lamp with a curved neck, casting light onto the surface.",
+        "sentence_cn": "左侧是一盏金属台灯，颈部呈弧形，将光线投射到台面上。",
+        "words": [
+            "desk",
+            "lamp",
+            "neck",
+            "light",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the light's glow, there is a circular stone coaster.",
+        "sentence_cn": "在灯光的照耀下，有一个圆形的石杯垫。",
+        "words": [
+            "light",
+            "glow",
+            "stone",
+            "coaster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the coaster is a decorative candle, placed inside a textured holder that resembles stone or driftwood.",
+        "sentence_cn": "杯垫旁边是一支装饰蜡烛，放置在一个类似石头或浮木的纹理支架内。",
+        "words": [
+            "coaster",
+            "candle",
+            "holder",
+            "stone",
+            "driftwood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Towards the back of the desk is a picture frame containing two images side by side: one appears to be a photograph of two people outdoors, and the other is an abstract design with vibrant colors.",
+        "sentence_cn": "桌子的后面是一个相框，里面并排放着两张照片：一张是两个人在户外的照片，另一张则是色彩鲜艳的抽象图案。",
+        "words": [
+            "back",
+            "desk",
+            "picture",
+            "frame",
+            "two",
+            "images",
+            "side",
+            "one",
+            "photograph",
+            "two",
+            "people",
+            "design",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The framed images are resting against closed, white venetian blinds, contributing to the warm, cozy atmosphere of the scene.",
+        "sentence_cn": "带框的图像靠在关闭的白色百叶窗上，营造出场景温暖舒适的氛围。",
+        "words": [
+            "images",
+            "blinds",
+            "atmosphere",
+            "scene"
+        ],
+        "id": null
+    }
+]

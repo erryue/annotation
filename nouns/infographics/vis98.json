@@ -1,0 +1,294 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"The Criminalization of Poor DC Youth.\"",
+        "sentence_cn": "该图是一张信息图，标题为“华盛顿特区贫困青少年的犯罪化”。",
+        "words": [
+            "The Criminalization of Poor DC Youth."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights data concerning the DC juvenile justice system and the socioeconomic conditions of the youth involved.",
+        "sentence_cn": "它重点介绍了有关华盛顿特区青少年司法系统以及所涉及青少年的社会经济状况的数据。",
+        "words": [
+            "data",
+            "DC",
+            "justice",
+            "system",
+            "conditions",
+            "youth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Part 1: Youth in the DC Juvenile Justice System",
+        "sentence_cn": "第 1 部分：哥伦比亚特区青少年司法系统中的青少年",
+        "words": [
+            "Part 1: Youth in the DC Juvenile Justice System",
+            "Part",
+            "1",
+            "Youth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 98% of the youth are Black or Hispanic.",
+        "sentence_cn": "- 98% 的年轻人是黑人或西班牙裔。",
+        "words": [
+            "98",
+            "youth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 78% are male, and 22% are female.",
+        "sentence_cn": "- 78% 为男性，22% 为女性。",
+        "words": [
+            "78",
+            "22",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 57% are aged 16 or 17, while 32% are aged 14 or 15, 11% are 13 or under.",
+        "sentence_cn": "- 57% 为 16 或 17 岁，32% 为 14 或 15 岁，11% 为 13 岁或以下。",
+        "words": [
+            "57",
+            "16",
+            "17",
+            "32",
+            "%",
+            "14",
+            "15",
+            "11",
+            "%",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 95% live below the federal poverty level.",
+        "sentence_cn": "- 95％的人生活在联邦贫困线以下。",
+        "words": [
+            "95",
+            "poverty",
+            "level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Part 2: DC Youth Involvement by Neighborhood",
+        "sentence_cn": "第 2 部分：华盛顿特区社区青少年参与情况",
+        "words": [
+            "Part 2: DC Youth Involvement by Neighborhood",
+            "Part",
+            "2",
+            "DC",
+            "Involvement",
+            "Neighborhood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A map shows the distribution, with 70% living in Wards 5, 7, and 8.",
+        "sentence_cn": "- 地图显示了分布情况，其中 70% 居住在第 5、7 和 8 区。",
+        "words": [
+            "map",
+            "distribution",
+            "70",
+            "Wards",
+            "5",
+            "7",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 95% live east of 16th Street NW.",
+        "sentence_cn": "- 95％居住在西北 16 街以东。",
+        "words": [
+            "95",
+            "east"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Various statistics:",
+        "sentence_cn": "- 各种统计数据：",
+        "words": [
+            "statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Child Poverty: 48% in Ward 8, 40% in Ward 7, and others lower.",
+        "sentence_cn": "- 儿童贫困率：第 8 区为 48%，第 7 区为 40%，其他区较低。",
+        "words": [
+            "Child",
+            "Poverty",
+            "48",
+            "8",
+            "40",
+            "%",
+            "7",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Female-Headed Households with Children: 77% in Ward 8, 74% in Ward 7.",
+        "sentence_cn": "- 有子女的女性户主家庭：第 8 区为 77%，第 7 区为 74%。",
+        "words": [
+            "Female",
+            "Households",
+            "Children",
+            "77",
+            "8",
+            "74",
+            "%",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Unemployment Rates: 18% in Ward 8, 12% in Ward 7.",
+        "sentence_cn": "- 失业率：第 8 区为 18%，第 7 区为 12%。",
+        "words": [
+            "Unemployment",
+            "Rates",
+            "18",
+            "8",
+            "12",
+            "%",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bachelor's Degree or Higher: 29% in Ward 3, lower in others.",
+        "sentence_cn": "- 学士学位或更高学历：第 3 区为 29%，其他地区较低。",
+        "words": [
+            "29",
+            "Ward",
+            "3",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Youth Arrests: 26% in Ward 8 and 7 each.",
+        "sentence_cn": "- 青少年逮捕：第 8 区和第 7 区各占 26%。",
+        "words": [
+            "Youth",
+            "Arrests",
+            "26",
+            "8",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Education levels show 8 in 10 elementary students in Ward 3 are at grade level, compared to fewer than 4 in 10 in Wards 5, 7, and 8.",
+        "sentence_cn": "- 教育水平显示，第 3 区每 10 名小学生中就有 8 名达到年级水平，而第 5、7 和 8 区每 10 名小学生中只有不到 4 名达到年级水平。",
+        "words": [
+            "Education",
+            "levels",
+            "8",
+            "10",
+            "students",
+            "3",
+            "grade",
+            "level",
+            "4",
+            "10",
+            "5",
+            "7",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Part 3: Financial Insights",
+        "sentence_cn": "第 3 部分：财务洞察",
+        "words": [
+            "Part 3: Financial Insights",
+            "Part",
+            "3",
+            "Insights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Average cost per youth in the DC juvenile justice system is $41,500.",
+        "sentence_cn": "- 哥伦比亚特区青少年司法系统中每个青少年的平均费用为 41,500 美元。",
+        "words": [
+            "cost",
+            "youth",
+            "DC",
+            "justice",
+            "system",
+            "41,500"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- This is more than twice the federal poverty line for a family of three ($19,090) and four times the amount spent per student in DC public middle schools ($9,213).",
+        "sentence_cn": "- 这是三口之家联邦贫困线（19,090 美元）的两倍多，也是华盛顿特区公立中学每名学生花费（9,213 美元）的四倍。",
+        "words": [
+            "poverty",
+            "line",
+            "family",
+            "three",
+            "19,090",
+            "four",
+            "times",
+            "amount",
+            "student",
+            "DC",
+            "schools",
+            "9,213"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Footer:",
+        "sentence_cn": "页脚：",
+        "words": [
+            "Footer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Promoted by DC Lawyers for Youth (DCLY).",
+        "sentence_cn": "- 由 DC 青年律师 (DCLY) 推广。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Includes hashtag #youthjustice and a Facebook link.",
+        "sentence_cn": "- 包含主题标签#youthjustice 和 Facebook 链接。",
+        "words": [
+            "hashtag",
+            "#",
+            "youthjustice",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic emphasizes the disparities faced by youth in poorer neighborhoods and critiques the allocation of resources towards crisis management rather than prevention.",
+        "sentence_cn": "该信息图强调了贫困社区年轻人面临的不平等，并批评了将资源分配给危机管理而不是预防的做法。",
+        "words": [
+            "disparities",
+            "youth",
+            "neighborhoods",
+            "allocation",
+            "resources",
+            "crisis",
+            "management",
+            "prevention"
+        ],
+        "id": null
+    }
+]

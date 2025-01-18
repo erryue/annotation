@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image is a webpage from the Nordic Games website.",
+        "sentence_cn": "图片是来自北欧运动会网站的网页。",
+        "words": [
+            "webpage",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a banner at the top with the \"Nordic Games\" logo.",
+        "sentence_cn": "其顶部有一条横幅，上面印有“北欧运动会”的标志。",
+        "words": [
+            "Nordic Games",
+            "banner",
+            "top",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there's a navigation bar with options like Home, News, Products, Community, and Company.",
+        "sentence_cn": "下面是一个导航栏，其中有主页、新闻、产品、社区和公司等选项。",
+        "words": [
+            "navigation",
+            "bar",
+            "options",
+            "Home",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side under \"Trade access,\" there are fields for logging in with an email and password, along with links to retrieve forgotten passwords or register a new account.",
+        "sentence_cn": "在右侧的“交易访问”下，有使用电子邮件和密码登录的字段，以及检索忘记的密码或注册新帐户的链接。",
+        "words": [
+            "Trade access,",
+            "Trade",
+            "access",
+            "fields",
+            "email",
+            "password",
+            "links",
+            "passwords",
+            "account"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main section of the page has a \"Latest News\" section on the left, reporting news like a Kickstarter campaign for \"Aquanox Deep Descent\" and the acquisition of titles by Nordic Games.",
+        "sentence_cn": "页面主要部分的左侧有一个“最新新闻”部分，报道诸如“Aquanox Deep Descent”的 Kickstarter 活动和 Nordic Games 收购游戏等新闻。",
+        "words": [
+            "Latest News",
+            "Aquanox Deep Descent",
+            "section",
+            "page",
+            "section",
+            "left",
+            "news",
+            "campaign",
+            "acquisition",
+            "titles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are links to read more about these updates.",
+        "sentence_cn": "这里有链接可以阅读关于这些更新的更多信息。",
+        "words": [
+            "links",
+            "updates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a large feature for \"Darksiders II Deathinitive Edition,\" with an image showing a close-up of a menacing skull with glowing eyes.",
+        "sentence_cn": "右侧是“暗黑血统 II 死亡终极版”的大型特写，其中的图片显示了一个眼睛发光的凶恶骷髅的特写。",
+        "words": [
+            "Darksiders II Deathinitive Edition,",
+            "right",
+            "feature",
+            "close",
+            "up",
+            "skull",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this are thumbnails for other games, such as \"Legend of Kay,\" \"Shadowrun Chronicles,\" and \"Broken Age.\"",
+        "sentence_cn": "下面是其他游戏的缩略图，例如“Legend of Kay”、“Shadowrun Chronicles”和“Broken Age”。",
+        "words": [
+            "Legend of Kay,",
+            "Shadowrun Chronicles,",
+            "Broken Age.",
+            "thumbnails",
+            "games",
+            "Legend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background includes images of game characters, adding a thematic gaming atmosphere to the page.",
+        "sentence_cn": "背景包含游戏人物的图像，为页面增添了主题游戏氛围。",
+        "words": [
+            "background",
+            "images",
+            "game",
+            "characters",
+            "gaming",
+            "atmosphere",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Social media buttons for platforms like Facebook, Twitter, Google+, and Pinterest are located at the top of the page for communication and engagement.",
+        "sentence_cn": "Facebook、Twitter、Google+ 和 Pinterest 等平台的社交媒体按钮位于页面顶部，用于沟通和互动。",
+        "words": [
+            "media",
+            "buttons",
+            "platforms",
+            "top",
+            "page",
+            "communication",
+            "engagement"
+        ],
+        "id": null
+    }
+]

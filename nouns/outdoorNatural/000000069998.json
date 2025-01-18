@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image features a lush landscape with vibrant yellow wildflowers covering the ground.",
+        "sentence_cn": "照片中是一片郁郁葱葱的景观，地面上覆盖着鲜艳的黄色野花。",
+        "words": [
+            "landscape",
+            "wildflowers",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a zebra is prominently positioned, its distinctive black and white stripes contrasting with the colorful surroundings.",
+        "sentence_cn": "前景中，一只斑马处于显眼的位置，其独特的黑白条纹与周围色彩斑斓的环境形成鲜明对比。",
+        "words": [
+            "foreground",
+            "zebra",
+            "stripes",
+            "surroundings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebra is facing away from the viewer, with its head obscured by the flowers.",
+        "sentence_cn": "斑马背对着观看者，它的头被花朵遮住了。",
+        "words": [
+            "zebra",
+            "viewer",
+            "head",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a herd of animals, likely wildebeests, grazes on the expansive green field.",
+        "sentence_cn": "背景中，一群动物（可能是角马）正在广阔的绿色田野上吃草。",
+        "words": [
+            "background",
+            "herd",
+            "animals",
+            "wildebeests",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene captures a mix of bright floral elements and the natural wildlife of the area, suggesting a rich ecosystem typical of an African savanna.",
+        "sentence_cn": "该场景捕捉到了明亮的花卉元素和该地区的自然野生动物的混合，展现了非洲大草原典型的丰富生态系统。",
+        "words": [
+            "scene",
+            "mix",
+            "elements",
+            "wildlife",
+            "area",
+            "ecosystem",
+            "savanna"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is serene and picturesque, highlighting the beauty of wildlife in its natural habitat.",
+        "sentence_cn": "整体氛围宁静而美丽，凸显了野生动物在自然栖息地的美丽。",
+        "words": [
+            "atmosphere",
+            "beauty",
+            "wildlife",
+            "habitat"
+        ],
+        "id": null
+    }
+]

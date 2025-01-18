@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image features a group of giraffes standing and grazing in an open grassy area.",
+        "sentence_cn": "照片中是一群长颈鹿站在开阔的草地上吃草。",
+        "words": [
+            "group",
+            "giraffes",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground shows two giraffes standing close together, with one facing forward and the other slightly turned.",
+        "sentence_cn": "前景显示两只长颈鹿紧密站立在一起，一只面朝前方，另一只稍微转过身。",
+        "words": [
+            "foreground",
+            "two",
+            "giraffes",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their coats display the characteristic patterned spots, ranging in hues of brown against a lighter background.",
+        "sentence_cn": "它们的皮毛呈现出特征性的斑点图案，在较浅的背景下呈棕色色调。",
+        "words": [
+            "coats",
+            "spots",
+            "hues",
+            "brown",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby, there is a tall tree trunk with no branches or leaves, which seems to be used by the giraffes.",
+        "sentence_cn": "附近有一棵高大的树干，没有树枝和树叶，看上去是长颈鹿使用的。",
+        "words": [
+            "tree",
+            "trunk",
+            "branches",
+            "leaves",
+            "giraffes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further back, another giraffe is positioned near a similar tree trunk, browsing.",
+        "sentence_cn": "再往后看，另一只长颈鹿正站在类似的树干附近吃草。",
+        "words": [
+            "giraffe",
+            "tree",
+            "trunk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, additional giraffes can be seen scattered across the expansive grassy field, surrounded by rolling hills.",
+        "sentence_cn": "在背景中，可以看到更多的长颈鹿散布在广阔的草地上，周围是连绵起伏的群山。",
+        "words": [
+            "background",
+            "giraffes",
+            "field",
+            "hills"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is a rich green, indicative of a lush, healthy landscape.",
+        "sentence_cn": "草地郁郁葱葱，展现出一片郁郁葱葱、健康的景观。",
+        "words": [
+            "grass",
+            "green",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene suggests a peaceful and natural environment typical of a savannah habitat.",
+        "sentence_cn": "这一场景展现了典型的大草原栖息地的宁静、自然的环境。",
+        "words": [
+            "scene",
+            "environment",
+            "savannah",
+            "habitat"
+        ],
+        "id": null
+    }
+]

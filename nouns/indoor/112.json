@@ -1,0 +1,151 @@
+[
+    {
+        "sentence": "The image depicts a stylish and modern living room that opens into a dining area.",
+        "sentence_cn": "图片描绘的是时尚而现代的客厅，通向用餐区。",
+        "words": [
+            "living",
+            "room",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The living room features a seating arrangement with cushioned grey sofas and a leather chair with chrome legs.",
+        "sentence_cn": "客厅配有带软垫的灰色沙发和带镀铬腿的皮椅。",
+        "words": [
+            "living",
+            "room",
+            "seating",
+            "arrangement",
+            "sofas",
+            "leather",
+            "chair",
+            "chrome",
+            "legs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofas is a glass coffee table, which sits on a colorful, patterned rug.",
+        "sentence_cn": "沙发前面有一张玻璃咖啡桌，桌上放着一张色彩鲜艳、带有图案的地毯。",
+        "words": [
+            "front",
+            "sofas",
+            "glass",
+            "coffee",
+            "table",
+            "rug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A chess set and a couple of books are placed on the coffee table.",
+        "sentence_cn": "茶几上摆放着一副棋和几本书。",
+        "words": [
+            "chess",
+            "set",
+            "couple",
+            "books",
+            "coffee",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, a sleek desk with a shiny, chrome lamp and two dark, cushioned chairs are visible.",
+        "sentence_cn": "左边是一张光滑的办公桌，上面有一盏闪亮的镀铬灯和两把深色的软垫椅子。",
+        "words": [
+            "left",
+            "desk",
+            "chrome",
+            "lamp",
+            "two",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is accented with wooden parquet flooring and neutral-colored walls.",
+        "sentence_cn": "房间以木质拼花地板和中性色调的墙壁为特色。",
+        "words": [
+            "room",
+            "parquet",
+            "flooring",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, a large potted plant adds a touch of greenery to the space.",
+        "sentence_cn": "右侧，一盆大盆栽给空间增添了一抹绿意。",
+        "words": [
+            "right",
+            "plant",
+            "touch",
+            "greenery",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Decorative shelves hold various small sculptures.",
+        "sentence_cn": "装饰架上摆放着各种小雕塑。",
+        "words": [
+            "shelves",
+            "sculptures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An art piece hangs on the wall above the plant.",
+        "sentence_cn": "植物上方的墙上挂着一件艺术品。",
+        "words": [
+            "art",
+            "piece",
+            "wall",
+            "plant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A set of double glass doors with a grid pattern separates the living room from the dining area.",
+        "sentence_cn": "一组网格状的双层玻璃门将客厅与餐厅隔开。",
+        "words": [
+            "set",
+            "glass",
+            "doors",
+            "grid",
+            "pattern",
+            "living",
+            "room",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the dining room, a long table with several brown chairs is visible, and a large abstract painting in warm tones hangs on the far wall.",
+        "sentence_cn": "在餐厅里，可以看到一张长桌子和几把棕色的椅子，远处的墙上挂着一幅暖色调的大型抽象画。",
+        "words": [
+            "dining",
+            "room",
+            "table",
+            "chairs",
+            "painting",
+            "tones",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room appears well-lit, likely due to the presence of ample natural light.",
+        "sentence_cn": "房间看起来光线充足，可能是因为自然光充足。",
+        "words": [
+            "room",
+            "presence",
+            "light"
+        ],
+        "id": null
+    }
+]

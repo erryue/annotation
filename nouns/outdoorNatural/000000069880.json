@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image shows an outdoor setting with four sheep standing on a paved surface.",
+        "sentence_cn": "图像显示的是一个户外场景，四只羊站在铺好的路面上。",
+        "words": [
+            "four",
+            "sheep",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep in the foreground is facing away, showcasing a thick, woolly coat of white fleece.",
+        "sentence_cn": "前景中的羊背对着镜头，露出厚厚的白色羊毛外衣。",
+        "words": [
+            "sheep",
+            "foreground",
+            "coat",
+            "fleece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other sheep display varying fleece colors, with some having a more brownish tint.",
+        "sentence_cn": "其他绵羊的羊毛颜色各异，有些羊毛的颜色更偏棕色。",
+        "words": [
+            "sheep",
+            "fleece",
+            "colors",
+            "tint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area appears to be enclosed, with a wooden gate and wire fencing in the background.",
+        "sentence_cn": "该区域似乎被封闭了，背景有一扇木门和铁丝网。",
+        "words": [
+            "area",
+            "gate",
+            "wire",
+            "fencing",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a large rock partially visible.",
+        "sentence_cn": "右边有一块大石头部分可见。",
+        "words": [
+            "right",
+            "rock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting resembles a farm or zoo environment with containment structures.",
+        "sentence_cn": "该环境类似于具有封闭结构的农场或动物园环境。",
+        "words": [
+            "farm",
+            "zoo",
+            "environment",
+            "containment",
+            "structures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is a mix of concrete and dirt, and the overall atmosphere is calm and rustic.",
+        "sentence_cn": "地面是混凝土和泥土的混合，整体氛围平静而质朴。",
+        "words": [
+            "ground",
+            "mix",
+            "concrete",
+            "dirt",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

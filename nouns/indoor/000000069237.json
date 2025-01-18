@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image depicts a small, tidy room with a minimalist design.",
+        "sentence_cn": "图中描绘的是一间小而整洁、设计简约的房间。",
+        "words": [
+            "room",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, there is a single bed with a colorful duvet featuring a circular pattern in shades of red, pink, yellow, and green.",
+        "sentence_cn": "角落里有一张单人床，床上有彩色的羽绒被，上面有红色、粉色、黄色和绿色的圆形图案。",
+        "words": [
+            "corner",
+            "bed",
+            "duvet",
+            "pattern",
+            "shades",
+            "red",
+            "pink",
+            "yellow",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bed has a striped pillow.",
+        "sentence_cn": "床上有一个条纹枕头。",
+        "words": [
+            "bed",
+            "pillow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the bed, there is an air conditioning unit mounted on the wall.",
+        "sentence_cn": "床的上方，墙上安装有一台空调装置。",
+        "words": [
+            "bed",
+            "air",
+            "conditioning",
+            "unit",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the bed is a small bedside shelf, holding a few books and magazines.",
+        "sentence_cn": "床旁边有一个小床头架，上面放着几本书和杂志。",
+        "words": [
+            "bed",
+            "bedside",
+            "shelf",
+            "books",
+            "magazines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large window to the right is covered partially by a light green curtain.",
+        "sentence_cn": "右边的一扇大窗户被浅绿色的窗帘部分遮住。",
+        "words": [
+            "window",
+            "right",
+            "curtain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window has a frosted or textured design, providing privacy while allowing light to filter through.",
+        "sentence_cn": "窗户采用磨砂或纹理设计，在允许光线透过的同时提供隐私。",
+        "words": [
+            "window",
+            "design",
+            "privacy",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the window, various maps are displayed, one being more prominently visible pinned or taped to a string.",
+        "sentence_cn": "窗户前面展示着各种地图，其中一张最为显眼，被钉在或用胶带绑在绳子上。",
+        "words": [
+            "front",
+            "window",
+            "maps",
+            "one",
+            "string"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the window, a piece of luggage or a black bag rests on the floor, near a light-colored chair with a circular seat.",
+        "sentence_cn": "窗户下方，地板上放着一个行李箱或一个黑色的袋子，旁边是一把浅色的圆形椅子。",
+        "words": [
+            "window",
+            "piece",
+            "luggage",
+            "bag",
+            "floor",
+            "chair",
+            "seat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has wood flooring, enhancing the cozy and warm atmosphere.",
+        "sentence_cn": "房间内铺设木地板，增添了舒适温馨的氛围。",
+        "words": [
+            "room",
+            "wood",
+            "flooring",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

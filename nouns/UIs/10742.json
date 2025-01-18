@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image is a screen that allows the user to choose a photo size for their device.",
+        "sentence_cn": "该图像是一个屏幕，允许用户为其设备选择照片尺寸。",
+        "words": [
+            "screen",
+            "user",
+            "photo",
+            "size",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a blue background and two illustrated phones with images of an orange cartoon animal on their screens, representing the two photo options.",
+        "sentence_cn": "它的背景是蓝色的，两部手机的屏幕上都有橙色卡通动物的图像，代表两种照片选择。",
+        "words": [
+            "background",
+            "two",
+            "phones",
+            "images",
+            "cartoon",
+            "animal",
+            "screens",
+            "two",
+            "photo",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, the \"Full sensor (4:3)\" option is shown, with a green checkmark indicating it's selected.",
+        "sentence_cn": "- 左侧显示“全传感器（4：3）”选项，其中的绿色复选标记表示已被选中。",
+        "words": [
+            "Full sensor (4:3)",
+            "left",
+            "sensor",
+            "4:3",
+            "option",
+            "checkmark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image is shown with more content, filling a square proportion.",
+        "sentence_cn": "图像显示的内容更多，填充了正方形的比例。",
+        "words": [
+            "content",
+            "proportion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right, the \"Cropped sensor (16:9)\" option presents the image in a narrower, more rectangular proportion.",
+        "sentence_cn": "- 在右侧，“裁剪传感器（16：9）”选项以更窄、更矩形的比例呈现图像。",
+        "words": [
+            "Cropped sensor (16:9)",
+            "right",
+            "sensor",
+            "16:9",
+            "option",
+            "proportion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the phone illustrations, text states, \"You can change this later in Settings,\" and a button at the bottom says, \"OK, GOT IT.\"",
+        "sentence_cn": "在手机插图下方，文字显示“您可以稍后在“设置”中更改此设置”，底部的按钮显示“好的，知道了”。",
+        "words": [
+            "You can change this later in Settings,",
+            "OK, GOT IT.",
+            "phone",
+            "illustrations",
+            "text",
+            "button",
+            "bottom"
+        ],
+        "id": null
+    }
+]

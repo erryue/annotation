@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image is an advertisement for Bruegger's featuring Nantucket Nectars juices.",
+        "sentence_cn": "该图片是 Bruegger's 推出的 Nantucket Nectars 果汁广告。",
+        "words": [
+            "juices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently displays five bottles of juice in various flavors: Half & Half, Big Cranberry, Orange Mango, Kiwi Berry, and Pressed Apple.",
+        "sentence_cn": "它显眼地展示了五瓶不同口味的果汁：Half & Half、Big Cranberry、Orange Mango、Kiwi Berry 和 Pressed Apple。",
+        "words": [
+            "five",
+            "bottles",
+            "juice",
+            "flavors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each bottle has a blue cap and colorful labels with fruit illustrations.",
+        "sentence_cn": "每个瓶子都有蓝色的瓶盖和带有水果插图的彩色标签。",
+        "words": [
+            "bottle",
+            "cap",
+            "labels",
+            "fruit",
+            "illustrations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the ad reads \"We Proudly Offer\" in large text, above the product image.",
+        "sentence_cn": "广告顶部的产品图片上方用大号文字写着“我们自豪地提供”。",
+        "words": [
+            "We Proudly Offer",
+            "top",
+            "ad",
+            "text",
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a message stating: \"No artificial colors, flavors or preservatives.",
+        "sentence_cn": "左边有一条信息：“不含人工色素、香料或防腐剂。",
+        "words": [
+            "left",
+            "message",
+            "colors",
+            "flavors",
+            "preservatives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "From the branch to the bottle, real is better.\"",
+        "sentence_cn": "从树枝到瓶子，真正的酒都更好。”",
+        "words": [
+            "branch",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower-left corner, there's a coupon offering 50 cents off any Nantucket Nectars, with terms and conditions.",
+        "sentence_cn": "左下角有一张优惠券，购买任何 Nantucket Nectars 均可享受 50 美分折扣，但附带条款和条件。",
+        "words": [
+            "corner",
+            "coupon",
+            "50",
+            "cents",
+            "terms",
+            "conditions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Bruegger's logo appears twice: once at the top and once on the coupon.",
+        "sentence_cn": "Bruegger 的标志出现了两次：一次在顶部，一次在优惠券上。",
+        "words": [
+            "logo",
+            "top",
+            "coupon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The offer is valid from February 18, 2011, to March 4, 2011, and is applicable at participating locations.",
+        "sentence_cn": "此优惠有效期为 2011 年 2 月 18 日至 2011 年 3 月 4 日，并仅适用于参与活动的地点。",
+        "words": [
+            "offer",
+            "18",
+            "2011",
+            "4",
+            "2011",
+            "locations"
+        ],
+        "id": null
+    }
+]

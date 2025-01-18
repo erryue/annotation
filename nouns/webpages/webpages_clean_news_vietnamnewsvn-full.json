@@ -1,0 +1,180 @@
+[
+    {
+        "sentence": "The image is a screenshot of the \"Viet Nam News\" homepage, dated Monday, 7 September 2015.",
+        "sentence_cn": "图片是《越南新闻》首页的截图，日期为2015年9月7日星期一。",
+        "words": [
+            "Viet Nam News",
+            "homepage",
+            "7",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: The top section includes the logo \"Viet Nam News\" with the tagline \"The National English Language Daily.\"",
+        "sentence_cn": "- 标题：顶部部分包括徽标“越南新闻”和标语“国家英语日报”。",
+        "words": [
+            "Header",
+            "Viet Nam News",
+            "The National English Language Daily.",
+            "Header",
+            "section",
+            "logo",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Navigation links (\"News,\" \"bizhub.vn,\" \"Travel,\" \"Opinion\") and options like \"Site Map,\" \"About Us,\" and \"Contact Us\" are present.",
+        "sentence_cn": "有导航链接（“新闻”、“bizhub.vn”、“旅游”、“观点”）和“网站地图”、“关于我们”和“联系我们”等选项。",
+        "words": [
+            "News,",
+            "bizhub.vn,",
+            "Travel,",
+            "Opinion",
+            "Site Map,",
+            "About Us,",
+            "Contact Us",
+            "Navigation",
+            "links",
+            "bizhub.vn",
+            "Opinion",
+            "options",
+            "Site",
+            "Map"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Content Area:",
+        "sentence_cn": "- 主要内容区域：",
+        "words": [
+            "Main Content Area",
+            "Content",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A central photograph of children in school uniforms holding Vietnamese flags, associated with an article titled \"School year starts with fanfare,\" discussing the start of the new academic year.",
+        "sentence_cn": "- 中心照片为身穿校服、手持越南国旗的孩子们，附有一篇题为“新学年在欢呼声中开始”的文章，该文章讨论了新学年的开始。",
+        "words": [
+            "School year starts with fanfare,",
+            "photograph",
+            "children",
+            "school",
+            "uniforms",
+            "flags",
+            "article",
+            "School",
+            "year",
+            "fanfare",
+            "start",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Below the main photo, sections labeled \"Politics & Laws\" and \"Society\" are visible, each with headlines related to current events.",
+        "sentence_cn": "- 在主照片下方，可以看到标有“政治与法律”和“社会”的部分，每个部分都包含与时事相关的标题。",
+        "words": [
+            "Politics & Laws",
+            "Society",
+            "photo",
+            "sections",
+            "Politics",
+            "Laws",
+            "headlines",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- ",
+        "sentence_cn": "-",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Sidebar:",
+        "sentence_cn": "侧边栏：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - On the right, there's a section titled \"Latest\" with a list of news headlines, and a \"Most Read\" section.",
+        "sentence_cn": "- 右侧有一个名为“最新”的部分，其中列出了新闻标题，还有“阅读最多”的部分。",
+        "words": [
+            "Latest",
+            "Most Read",
+            "right",
+            "section",
+            "list",
+            "news",
+            "headlines",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A \"Your Say\" section asks for reader input on living costs.",
+        "sentence_cn": "- “您的意见”部分要求读者提供有关生活成本的意见。",
+        "words": [
+            "Your Say",
+            "Say",
+            "section",
+            "reader",
+            "input",
+            "living",
+            "costs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - An \"E-Paper\" section provides links to the digital edition of the newspaper.",
+        "sentence_cn": "- “电子报”部分提供该报纸数字版的链接。",
+        "words": [
+            "E-Paper",
+            "E",
+            "-",
+            "section",
+            "links",
+            "edition",
+            "newspaper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Advertisement: An ad banner at the top promotes a medical equipment event.",
+        "sentence_cn": "- 广告：顶部的广告横幅宣传医疗设备活动。",
+        "words": [
+            "Advertisement",
+            "ad",
+            "banner",
+            "top",
+            "equipment",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout is typical of a news website, with a focus on current events and reader engagement.",
+        "sentence_cn": "该布局是典型的新闻网站，重点关注时事和读者参与度。",
+        "words": [
+            "layout",
+            "news",
+            "website",
+            "focus",
+            "events",
+            "reader",
+            "engagement"
+        ],
+        "id": null
+    }
+]

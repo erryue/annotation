@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image shows a close-up of a wooden surface with some flour scattered across it.",
+        "sentence_cn": "该图为木质表面的特写，上面撒了一些面粉。",
+        "words": [
+            "close",
+            "up",
+            "surface",
+            "flour"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the image, there is a pizza cutter with a round metallic blade and a black handle.",
+        "sentence_cn": "在图片的左侧，有一个带有圆形金属刀片和黑色手柄的披萨切刀。",
+        "words": [
+            "pizza",
+            "cutter",
+            "blade",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a single slice of pizza sitting on the board.",
+        "sentence_cn": "右边的板上有一片披萨。",
+        "words": [
+            "right",
+            "slice",
+            "pizza",
+            "board"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pizza slice appears to be topped with red bell peppers and possibly some bits of meat or sausage.",
+        "sentence_cn": "披萨片上似乎放有红甜椒，可能还有一些肉或香肠。",
+        "words": [
+            "pizza",
+            "slice",
+            "bell",
+            "peppers",
+            "bits",
+            "meat",
+            "sausage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The crust is golden brown, and some scattered crumbs and toppings are visible around the slice.",
+        "sentence_cn": "饼皮呈金黄色，切片周围可见一些散落的面包屑和配料。",
+        "words": [
+            "crust",
+            "crumbs",
+            "toppings",
+            "slice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene has a rustic feel with warm lighting.",
+        "sentence_cn": "场景充满质朴的感觉，灯光温暖。",
+        "words": [
+            "scene",
+            "feel",
+            "lighting"
+        ],
+        "id": null
+    }
+]

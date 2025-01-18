@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image is a screenshot of a blog page titled \"Darren Straight's Blog.\"",
+        "sentence_cn": "该图是标题为“Darren Straight 的博客”的博客页面的截图。",
+        "words": [
+            "Darren Straight's Blog.",
+            "blog",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The subtitle describes the author as \"A family friendly minecraft server admin and photographer.\"",
+        "sentence_cn": "副标题将作者描述为“一位家庭友好的我的世界服务器管理员和摄影师”。",
+        "words": [
+            "A family friendly minecraft server admin and photographer.",
+            "subtitle",
+            "author",
+            "family",
+            "minecraft",
+            "server",
+            "admin",
+            "photographer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The blog post is titled \"Top 10 Search Keyphrases for December 2013,\" published on 18 April 2015, under the categories \"My Life, Site News\" with \"No Comments.\"",
+        "sentence_cn": "该博客文章的标题为“2013 年 12 月十大搜索关键词”，发布于 2015 年 4 月 18 日，分类为“我的生活、网站新闻”，类别为“无评论”。",
+        "words": [
+            "Top 10 Search Keyphrases for December 2013,",
+            "My Life, Site News",
+            "No Comments.",
+            "blog",
+            "post",
+            "10",
+            "Search",
+            "Keyphrases",
+            "2013",
+            "18",
+            "2015",
+            "categories",
+            "Comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The content discusses how 557 different keyphrases were used to find the site in December 2013, mentioning that \"Minecraft\" posts are significant in driving traffic.",
+        "sentence_cn": "该内容讨论了 2013 年 12 月如何使用 557 个不同的关键词来找到该网站，并提到“Minecraft”帖子对吸引流量具有重要意义。",
+        "words": [
+            "Minecraft",
+            "content",
+            "557",
+            "keyphrases",
+            "site",
+            "2013",
+            "posts",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It invites readers to check out a family-friendly Minecraft server called YAMS (Yet Another Minecraft Server) with the IP address play.yams.me.",
+        "sentence_cn": "它邀请读者查看一个适合家庭使用的 Minecraft 服务器，名为 YAMS（又一个 Minecraft 服务器），其 IP 地址为 play.yams.me。",
+        "words": [
+            "readers",
+            "family",
+            "server",
+            "IP",
+            "address"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's a section \"About me,\" where the author introduces himself as Darren Straight, a Network Manager who runs a family-friendly Minecraft server.",
+        "sentence_cn": "右侧有一个“关于我”部分，作者在其中自我介绍，他叫 Darren Straight，是一名网络经理，负责管理一个适合家庭玩的 Minecraft 服务器。",
+        "words": [
+            "About me,",
+            "section",
+            "author",
+            "Network",
+            "family",
+            "server"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a photograph of a boat on a river, and links related to the Minecraft server and more about the author.",
+        "sentence_cn": "还有一张河上船的照片，以及与 Minecraft 服务器相关的链接和更多关于作者的信息。",
+        "words": [
+            "photograph",
+            "boat",
+            "river",
+            "links",
+            "server",
+            "author"
+        ],
+        "id": null
+    }
+]

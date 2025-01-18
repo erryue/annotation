@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image is a promotional advertisement for Target's 4-Day Sale.",
+        "sentence_cn": "该图片是 Target 四天大促销的促销广告。",
+        "words": [
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a section offering 50% off various board games, including \"Operation\" and \"Sorry!\".",
+        "sentence_cn": "右侧有一个部分，提供各种棋盘游戏五折优惠，包括“Operation”和“Sorry!”。",
+        "words": [
+            "Operation",
+            "Sorry!",
+            "right",
+            "section",
+            "50",
+            "board",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The section also features images of two children playing with toys, a play guitar priced at $74.99, a toy car, and a game for $19.99 and $17.99 respectively.",
+        "sentence_cn": "该部分还展示了两个孩子玩玩具的图片、一把售价 74.99 美元的吉他、一辆玩具车以及一个游戏，售价分别为 19.99 美元和 17.99 美元。",
+        "words": [
+            "section",
+            "images",
+            "two",
+            "children",
+            "toys",
+            "play",
+            "guitar",
+            "74.99",
+            "toy",
+            "car",
+            "game",
+            "19.99",
+            "17.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's information about a \"2-Day Sale\" and a \"Giftacular Sweepstakes,\" which offers thousands in prizes.",
+        "sentence_cn": "左侧有关于“2 天促销”和“礼品抽奖”的信息，提供数千个奖品。",
+        "words": [
+            "2-Day Sale",
+            "Giftacular Sweepstakes,",
+            "information",
+            "2",
+            "Sale",
+            "thousands",
+            "prizes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It encourages customers to play an interactive game for a chance to win a gift card.",
+        "sentence_cn": "它鼓励顾客玩互动游戏以赢得礼品卡。",
+        "words": [
+            "customers",
+            "game",
+            "chance",
+            "gift",
+            "card"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An \"Enter Now\" button is displayed.",
+        "sentence_cn": "显示“立即进入”按钮。",
+        "words": [
+            "Enter Now",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's an image of a woman with a holiday theme, with a reminder about Black Friday.",
+        "sentence_cn": "底部有一张以假日为主题的女性图片，并附有关于“黑色星期五”的提醒。",
+        "words": [
+            "bottom",
+            "woman",
+            "holiday",
+            "theme",
+            "reminder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dates for the sale are November 22-25, 2009.",
+        "sentence_cn": "销售日期为2009年11月22日至25日。",
+        "words": [
+            "dates",
+            "sale",
+            "22",
+            "25",
+            "2009"
+        ],
+        "id": null
+    }
+]

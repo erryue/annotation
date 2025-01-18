@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image depicts a professional setting with four people engaged in a discussion.",
+        "sentence_cn": "图像描绘的是四个人正在讨论的专业场景。",
+        "words": [
+            "four",
+            "people",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a woman with long dark hair wearing a sleeveless top is gesturing with her hand while talking to another woman, who is in a suit with a light-colored shirt.",
+        "sentence_cn": "前景中，一位身穿无袖上衣、有着一头长长的黑发的女子正用手比划着，与另一位身穿浅色衬衫的女子交谈。",
+        "words": [
+            "foreground",
+            "woman",
+            "hair",
+            "top",
+            "hand",
+            "woman",
+            "suit",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The conversation appears to be serious or intense.",
+        "sentence_cn": "谈话看上去很严肃或激烈。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a bald man in a white shirt and patterned tie is looking down at some papers, seemingly focused on his task.",
+        "sentence_cn": "背景中，一名身穿白衬衫、系着花纹领带的秃头男子正低头看着一些文件，似乎在专注于自己的任务。",
+        "words": [
+            "background",
+            "man",
+            "shirt",
+            "tie",
+            "papers",
+            "task"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another person, partially visible, is standing to the right, wearing a dark suit.",
+        "sentence_cn": "另一个人站在右边，部分可见，穿着深色西装。",
+        "words": [
+            "person",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image suggests a business or office environment, possibly a meeting or discussion.",
+        "sentence_cn": "该图像暗示了一个商业或办公环境，可能是一次会议或讨论。",
+        "words": [
+            "business",
+            "office",
+            "environment",
+            "meeting",
+            "discussion"
+        ],
+        "id": null
+    }
+]

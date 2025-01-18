@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Super Mario Bros.\"",
+        "sentence_cn": "图片是《超级马里奥兄弟》的电影海报。",
+        "words": [
+            "Super Mario Bros.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two main characters in the center: a man wearing a red and blue uniform holding a wrench, and another man in a green and blue outfit holding a plunger.",
+        "sentence_cn": "画面中央有两个主角：一个身穿红蓝色制服、手拿扳手的男子，另一个身穿绿蓝色制服、手拿柱塞的男子。",
+        "words": [
+            "two",
+            "characters",
+            "center",
+            "man",
+            "uniform",
+            "wrench",
+            "man",
+            "outfit",
+            "plunger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These characters are styled to resemble plumbers.",
+        "sentence_cn": "这些角色的造型类似于水管工。",
+        "words": [
+            "characters",
+            "plumbers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above them are ominous reptilian creatures with spikes, suggesting antagonists from the movie.",
+        "sentence_cn": "它们上方是长着尖刺的恐怖爬行动物，让人联想到电影中的反派。",
+        "words": [
+            "creatures",
+            "spikes",
+            "antagonists",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a large face of a man with a stern expression.",
+        "sentence_cn": "背景中，有一个男人的大脸，表情严肃。",
+        "words": [
+            "background",
+            "face",
+            "man",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster includes various elements indicating an urban setting, such as signs that read \"Thwomp\" and \"Tattoo's,\" and a \"Police\" sign, adding a gritty atmosphere.",
+        "sentence_cn": "海报中包含各种表明城市环境的元素，例如写着“Thwomp”和“Tattoo's”的标志以及“警察”标志，增添了一种坚毅的氛围。",
+        "words": [
+            "Thwomp",
+            "Tattoo's,",
+            "Police",
+            "poster",
+            "elements",
+            "signs",
+            "Thwomp",
+            "Tattoo",
+            "sign",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Super Mario Bros.\" is prominently displayed at the bottom, with the names of actors above the characters: Bob Hoskins, John Leguizamo, and Dennis Hopper.",
+        "sentence_cn": "底部显著地显示着“超级马里奥兄弟”的标题，角色上方是演员的名字：鲍勃·霍斯金斯、约翰·雷吉扎莫和丹尼斯·霍珀。",
+        "words": [
+            "Super Mario Bros.",
+            "title",
+            "bottom",
+            "names",
+            "actors",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster combines fantasy and action elements.",
+        "sentence_cn": "海报整体色调融合了奇幻与动作元素。",
+        "words": [
+            "tone",
+            "poster",
+            "fantasy",
+            "action",
+            "elements"
+        ],
+        "id": null
+    }
+]

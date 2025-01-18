@@ -1,0 +1,352 @@
+[
+    {
+        "sentence": "The infographic provides information about the EPAct 179D tax deductions for energy efficiency investments in commercial buildings.",
+        "sentence_cn": "该信息图提供了有关 EPAct 179D 商业建筑能源效率投资税收减免的信息。",
+        "words": [
+            "information",
+            "179D",
+            "tax",
+            "deductions",
+            "energy",
+            "efficiency",
+            "investments",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Title:",
+        "sentence_cn": "标题：",
+        "words": [
+            "Title:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"THE POWER of EPAct 179D\" with a subtitle explaining tax deductions for energy efficiency.",
+        "sentence_cn": "- “EPAct 179D 的力量”，副标题解释了能源效率的税收减免。",
+        "words": [
+            "THE POWER of EPAct 179D",
+            "179D",
+            "subtitle",
+            "tax",
+            "deductions",
+            "energy",
+            "efficiency"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sections:",
+        "sentence_cn": "部分：",
+        "words": [
+            "Sections:",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Current Mission:",
+        "sentence_cn": "1.当前任务：",
+        "words": [
+            "Current Mission:",
+            "Mission"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mentions a tax deduction of up to $1.80/sqft.",
+        "sentence_cn": "- 提到每平方英尺最高可减税 1.80 美元。",
+        "words": [
+            "Mentions",
+            "tax",
+            "deduction",
+            "1.80",
+            "sqft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Focus areas: Installing energy-efficient lighting, improving HVAC systems, and upgrading building envelopes.",
+        "sentence_cn": "- 重点领域：安装节能照明、改进暖通空调系统和升级建筑围护结构。",
+        "words": [
+            "Focus",
+            "areas",
+            "energy",
+            "lighting",
+            "HVAC",
+            "systems",
+            "building",
+            "envelopes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Powering Up EPAct 179D:",
+        "sentence_cn": "2. 启动 EPAct 179D：",
+        "words": [
+            "Powering Up EPAct 179D:",
+            "EPAct",
+            "179D"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Proposed benefits: Extends to non-profits by assigning credit to third parties.",
+        "sentence_cn": "- 拟定的利益：通过将信用分配给第三方扩展到非营利组织。",
+        "words": [
+            "benefits",
+            "Extends",
+            "non",
+            "-",
+            "profits",
+            "credit",
+            "parties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Increases tax deduction potential to up to $3/sqft.",
+        "sentence_cn": "- 将税收减免潜力提高至每平方英尺 3 美元。",
+        "words": [
+            "tax",
+            "deduction",
+            "potential",
+            "3",
+            "/",
+            "sqft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Facts:",
+        "sentence_cn": "3. 事实：",
+        "words": [
+            "Facts:",
+            "Facts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Over $130 billion USD in annual energy-saving opportunities go unrealized in the US.",
+        "sentence_cn": "- 美国每年有超过1300亿美元的节能机会未能实现。",
+        "words": [
+            "130",
+            "billion",
+            "USD",
+            "energy",
+            "saving",
+            "opportunities",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Annual energy cost for US commercial buildings is $202 billion USD.",
+        "sentence_cn": "- 美国商业建筑每年的能源成本为 2020 亿美元。",
+        "words": [
+            "energy",
+            "cost",
+            "US",
+            "buildings",
+            "202",
+            "billion",
+            "USD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 71 billion square feet of commercial space nationwide.",
+        "sentence_cn": "- 全国商业空间达 710 亿平方英尺。",
+        "words": [
+            "71",
+            "billion",
+            "feet",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Current program scheduled to expire on December 31, 2013, with a proposal to extend until December 31, 2016.",
+        "sentence_cn": "- 现行计划将于 2013 年 12 月 31 日到期，建议延长至 2016 年 12 月 31 日。",
+        "words": [
+            "program",
+            "31",
+            "2013",
+            "proposal",
+            "31",
+            "2016"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Lighting Scenario (Benefits Analysis):",
+        "sentence_cn": "4. 照明场景（效益分析）：",
+        "words": [
+            "Lighting Scenario (Benefits Analysis):",
+            "Lighting",
+            "Scenario",
+            "Benefits",
+            "Analysis"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Explains the financial impact of a $150k efficiency upgrade.",
+        "sentence_cn": "- 解释 15 万美元效率升级的财务影响。",
+        "words": [
+            "impact",
+            "150k",
+            "efficiency",
+            "upgrade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Without EPAct: $0 tax deduction, simple payback in 2.65 years.",
+        "sentence_cn": "- 没有 EPAct：0 美元税收减免，2.65 年即可简单偿还。",
+        "words": [
+            "0",
+            "tax",
+            "deduction",
+            "payback",
+            "2.65",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Current EPAct: $37k tax deduction, simple payback in 1.84 years.",
+        "sentence_cn": "- 当前 EPAct：37,000 美元的税收减免，1.84 年即可简单偿还。",
+        "words": [
+            "37k",
+            "tax",
+            "deduction",
+            "payback",
+            "1.84",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Superpowered EPAct: $62k tax deduction, simple payback in 1.3 years.",
+        "sentence_cn": "- 超级动力 EPAct：62,000 美元的税收减免，1.3 年内轻松偿还。",
+        "words": [
+            "62k",
+            "tax",
+            "deduction",
+            "payback",
+            "1.3",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. The Cleanest & Cheapest Watt:",
+        "sentence_cn": "5. 最清洁、最便宜的瓦特：",
+        "words": [
+            "The Cleanest & Cheapest Watt:",
+            "Watt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Emphasizes the value of energy not used.",
+        "sentence_cn": "- 强调未使用的能源的价值。",
+        "words": [
+            "value",
+            "energy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Compares the cost per kWh of saving energy (2-3 cents) to producing energy through various technologies (wind, geothermal, coal, nuclear, solar PV, offshore wind).",
+        "sentence_cn": "- 比较节省能源（2-3 美分）与通过各种技术（风能、地热能、煤炭、核能、太阳能光伏、海上风能）生产能源的每千瓦时成本。",
+        "words": [
+            "cost",
+            "kWh",
+            "energy",
+            "2",
+            "3",
+            "cents",
+            "energy",
+            "technologies",
+            "wind",
+            "coal",
+            "PV",
+            "wind"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Design Elements:",
+        "sentence_cn": "6. 设计元素：",
+        "words": [
+            "Design Elements:",
+            "Design",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visual illustrations of lightbulbs, HVAC symbols, and people representing different energy-saving roles.",
+        "sentence_cn": "- 灯泡、暖通空调符号和代表不同节能角色的人的视觉插图。",
+        "words": [
+            "illustrations",
+            "lightbulbs",
+            "HVAC",
+            "symbols",
+            "people",
+            "energy",
+            "roles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Color scheme mainly in green and blue tones, conveying environmental focus.",
+        "sentence_cn": "",
+        "words": [
+            "Color",
+            "scheme",
+            "tones",
+            "focus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Logo of \"Sustainable Industrial Solutions\" in the top right corner.",
+        "sentence_cn": "",
+        "words": [
+            "Sustainable Industrial Solutions",
+            "Logo",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This infographic aims to inform stakeholders about potential tax benefits, impending expirations, and the economic and environmental importance of energy efficiency.",
+        "sentence_cn": "",
+        "words": [
+            "stakeholders",
+            "tax",
+            "benefits",
+            "expirations",
+            "importance",
+            "energy",
+            "efficiency"
+        ],
+        "id": null
+    }
+]

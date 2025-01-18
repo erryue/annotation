@@ -1,0 +1,178 @@
+[
+    {
+        "sentence": "The image is a screenshot of the website \"WFMU's Beware of the Blog.\"",
+        "sentence_cn": "图片是“WFMU 警惕博客”网站的截图。",
+        "words": [
+            "WFMU's Beware of the Blog.",
+            "website",
+            "Blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is black, and the text is primarily in yellow and white.",
+        "sentence_cn": "背景为黑色，文字主要为黄色和白色。",
+        "words": [
+            "background",
+            "text",
+            "yellow",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the title \"WFMU's Beware of the Blog\" is prominently displayed with a tagline \"A radio station that bites back.\"",
+        "sentence_cn": "在顶部，标题“WFMU 警惕博客”显眼地显示出来，旁边还有一句标语“一个反击的广播电台”。",
+        "words": [
+            "WFMU's Beware of the Blog",
+            "A radio station that bites back.",
+            "top",
+            "title",
+            "Blog",
+            "tagline",
+            "radio",
+            "station"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The date \"July 30, 2015\" is mentioned, along with the headline \"You No Longer Need to Beware of the Blog.\"",
+        "sentence_cn": "文中提到了日期“2015 年 7 月 30 日”，标题为“您不再需要提防博客”。",
+        "words": [
+            "July 30, 2015",
+            "You No Longer Need to Beware of the Blog.",
+            "date",
+            "30",
+            "2015",
+            "headline",
+            "Blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An image below the headline features the words \"The End\" in red over a silhouette of a person with arms raised.",
+        "sentence_cn": "标题下方的图片上有一个举起双臂的人的轮廓，下方用红色写着“结束”几个字。",
+        "words": [
+            "The End",
+            "headline",
+            "words",
+            "End",
+            "red",
+            "silhouette",
+            "person",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a message indicating the blog is shutting down after ten years, thanking contributors and readers.",
+        "sentence_cn": "有一条消息表明该博客将在十年后关闭，感谢贡献者和读者。",
+        "words": [
+            "message",
+            "blog",
+            "ten",
+            "years",
+            "contributors",
+            "readers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions that all posts will remain online and expresses the possibility of future publishing.",
+        "sentence_cn": "其中提到，所有帖子将保留在线，并表达了未来发布的可能性。",
+        "words": [
+            "posts",
+            "possibility",
+            "publishing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, popular blog categories are listed: MP3, Video, Radio Related, WFMU Related, and a search option.",
+        "sentence_cn": "左侧列出了热门博客类别：MP3、视频、广播相关、WFMU 相关以及搜索选项。",
+        "words": [
+            "left",
+            "blog",
+            "categories",
+            "MP3",
+            "Video",
+            "search",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there is a support section encouraging pledges, with fields for name, email, and pledge amount, along with contact information.",
+        "sentence_cn": "右侧有一个鼓励承诺的支持部分，其中包含姓名、电子邮件和承诺金额以及联系信息。",
+        "words": [
+            "right",
+            "support",
+            "section",
+            "pledges",
+            "fields",
+            "name",
+            "email",
+            "pledge",
+            "amount",
+            "contact",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, options to listen live to WFMU are listed, including different connectivity options like MP3 and Windows Media.",
+        "sentence_cn": "下面列出了收听 WFMU 现场直播的选项，包括 MP3 和 Windows Media 等不同的连接选项。",
+        "words": [
+            "options",
+            "connectivity",
+            "options",
+            "MP3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section has comic strip artwork, with a large yellow text banner reading \"BEWARE OF THE BLOG\" and a subheading describing it as a \"fantastic archive of audio, video, writing, and other treasures.\"",
+        "sentence_cn": "底部有连环漫画，其中有一个黄色的大文字横幅，上面写着“小心博客”，还有一个副标题，将其描述为“音频、视频、写作和其他宝藏的奇妙档案”。",
+        "words": [
+            "BEWARE OF THE BLOG",
+            "fantastic archive of audio, video, writing, and other treasures.",
+            "section",
+            "strip",
+            "artwork",
+            "text",
+            "banner",
+            "BLOG",
+            "subheading",
+            "archive",
+            "video",
+            "writing",
+            "treasures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Throughout the page, interactive options like \"Tweet This!\" and \"Like\" buttons are visible.",
+        "sentence_cn": "在整个页面上，可以看到诸如“发推文！”和“喜欢”按钮之类的交互选项。",
+        "words": [
+            "Tweet This!",
+            "Like",
+            "page",
+            "options",
+            "Like",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout is visually dynamic with a blend of text, images, and interactive elements.",
+        "sentence_cn": "布局在视觉上具有动态性，融合了文本、图像和交互元素。",
+        "words": [
+            "layout",
+            "blend",
+            "text",
+            "images",
+            "elements"
+        ],
+        "id": null
+    }
+]

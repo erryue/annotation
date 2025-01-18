@@ -1,0 +1,116 @@
+[
+    {
+        "sentence": "The image shows a webpage from \"Lycos News.\"",
+        "sentence_cn": "该图为“Lycos News”的网页。",
+        "words": [
+            "Lycos News.",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout includes a navigation bar at the top with links to sections like Gamesville, News, Entertainment, and more, along with a search bar.",
+        "sentence_cn": "布局包括顶部的导航栏，其中有指向 Gamesville、新闻、娱乐等部分的链接，以及搜索栏。",
+        "words": [
+            "layout",
+            "navigation",
+            "bar",
+            "top",
+            "links",
+            "sections",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the navigation, the homepage features a main news section.",
+        "sentence_cn": "在导航下方，主页有一个主要新闻部分。",
+        "words": [
+            "navigation",
+            "homepage",
+            "news",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left side displays a large image of a tennis player in action on a green court.",
+        "sentence_cn": "左侧显示的是一幅网球运动员在绿色球场上比赛的大幅图像。",
+        "words": [
+            "tennis",
+            "player",
+            "action",
+            "court"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there¡¯s a headline that reads \"Federer seals spot in ATP Tour Finals,\" accompanied by a brief paragraph about the event, mentioning other players like Novak Djokovic and Andy Murray.",
+        "sentence_cn": "右边的标题是“费德勒锁定 ATP 巡回赛总决赛席位”，并附有一段关于该赛事的简短段落，其中提到了诺瓦克·德约科维奇和安迪·穆雷等其他球员。",
+        "words": [
+            "Federer seals spot in ATP Tour Finals,",
+            "right",
+            "headline",
+            "spot",
+            "paragraph",
+            "event",
+            "players"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the main article, there is a \"Top News Videos\" section with a thumbnail image of a building in rubble and text about Saudi-led airstrikes on Yemen.",
+        "sentence_cn": "在主要文章旁边，有一个“热门新闻视频”部分，其中有一张废墟中的建筑物的缩略图，以及有关沙特领导的对也门空袭的文字。",
+        "words": [
+            "Top News Videos",
+            "article",
+            "section",
+            "thumbnail",
+            "building",
+            "rubble",
+            "text",
+            "airstrikes",
+            "Yemen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this are links to other videos, such as \"Cecil the lion's killer returns to work\" and \"Syrian refugees reach Greek mainland.\"",
+        "sentence_cn": "下面是其他视频的链接，例如“狮子塞西尔的杀手重返工作”和“叙利亚难民抵达希腊大陆”。",
+        "words": [
+            "Cecil the lion's killer returns to work",
+            "Syrian refugees reach Greek mainland.",
+            "links",
+            "videos",
+            "lion",
+            "killer",
+            "work",
+            "refugees",
+            "mainland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, a scrolling section titled \"Spotlight Videos\" displays various video thumbnails with descriptions, including \"Saudi-led coalition ramps up airstrikes on Yemen\" and \"Hundreds of migrants cross into Macedonia.\"",
+        "sentence_cn": "在底部，一个名为“焦点视频”的滚动部分显示了各种带有描述的视频缩略图，包括“沙特领导的联盟加强对也门的空袭”和“数百名移民越境进入马其顿”。",
+        "words": [
+            "Spotlight Videos",
+            "Saudi-led coalition ramps up airstrikes on Yemen",
+            "Hundreds of migrants cross into Macedonia.",
+            "bottom",
+            "section",
+            "Spotlight",
+            "video",
+            "thumbnails",
+            "descriptions",
+            "coalition",
+            "airstrikes",
+            "Yemen",
+            "Hundreds",
+            "migrants",
+            "Macedonia"
+        ],
+        "id": null
+    }
+]

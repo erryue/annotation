@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app registration form for Snagajob, a job search platform.",
+        "sentence_cn": "图片是求职平台Snagajob的移动应用注册表的截图。",
+        "words": [
+            "mobile",
+            "app",
+            "registration",
+            "form",
+            "job",
+            "search",
+            "platform"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, it says \"Join Snagajob now.\"",
+        "sentence_cn": "顶部写着“立即加入 Snagajob”。",
+        "words": [
+            "Join Snagajob now.",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The form requires users to input their email, password, first name, last name, date of birth, and postal code.",
+        "sentence_cn": "该表格要求用户输入电子邮件、密码、名字、姓氏、出生日期和邮政编码。",
+        "words": [
+            "form",
+            "users",
+            "email",
+            "password",
+            "name",
+            "name",
+            "date",
+            "birth",
+            "code"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In this example, the email field is filled with \"appcrawler3@gmail.com,\" the first name is \"Jon,\" the last name is \"Brown,\" and the date of birth is \"November 18, 1988.\"",
+        "sentence_cn": "在此示例中，电子邮件字段填写的是“appcrawler3@gmail.com”，名字是“Jon”，姓氏是“Brown”，出生日期是“1988 年 11 月 18 日”。",
+        "words": [
+            "appcrawler3@gmail.com,",
+            "Jon,",
+            "Brown,",
+            "November 18, 1988.",
+            "example",
+            "email",
+            "field",
+            "name",
+            "name",
+            "date",
+            "birth",
+            "18",
+            "1988"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The password and postal code fields appear to be empty.",
+        "sentence_cn": "密码和邮政编码字段似乎为空。",
+        "words": [
+            "password",
+            "code",
+            "fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Under the form, there's a statement about agreeing to the Terms of Use and Privacy Policy.",
+        "sentence_cn": "表格下方有关于同意使用条款和隐私政策的声明。",
+        "words": [
+            "form",
+            "statement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this is a blue button labeled \"JOIN NOW.\"",
+        "sentence_cn": "下面是一个蓝色按钮，标有“立即加入”。",
+        "words": [
+            "JOIN NOW.",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there's an option to sign up using email and a link for existing users to sign in.",
+        "sentence_cn": "此外，还可以选择使用电子邮件进行注册，并提供供现有用户登录的链接。",
+        "words": [
+            "option",
+            "email",
+            "link",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The device's status bar is visible at the top, showing various icons, the signal strength, battery status, and the time as 11:28.",
+        "sentence_cn": "设备的状态栏显示在顶部，显示各种图标、信号强度、电池状态以及时间为 11:28。",
+        "words": [
+            "device",
+            "status",
+            "bar",
+            "top",
+            "icons",
+            "signal",
+            "strength",
+            "battery",
+            "status",
+            "time",
+            "11:28"
+        ],
+        "id": null
+    }
+]

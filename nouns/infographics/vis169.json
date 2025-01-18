@@ -1,0 +1,305 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"A Worm's Worth: How Earthworms Help the Green Grass Grow.\"",
+        "sentence_cn": "该图是一张信息图，标题为“蚯蚓的价值：蚯蚓如何帮助绿草生长”。",
+        "words": [
+            "A Worm's Worth: How Earthworms Help the Green Grass Grow.",
+            "Worm",
+            "Worth",
+            "Earthworms",
+            "Grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It explains the beneficial roles of earthworms in maintaining healthy lawns.",
+        "sentence_cn": "它解释了蚯蚓在维护草坪健康方面的有益作用。",
+        "words": [
+            "roles",
+            "earthworms",
+            "lawns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Title and Introduction:",
+        "sentence_cn": "1. 标题与介绍：",
+        "words": [
+            "Title and Introduction",
+            "Title",
+            "Introduction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Title: \"A Worm's Worth: How Earthworms Help the Green Grass Grow\"",
+        "sentence_cn": "- 标题：“蚯蚓的价值：蚯蚓如何帮助绿草生长”",
+        "words": [
+            "Title",
+            "A Worm's Worth: How Earthworms Help the Green Grass Grow",
+            "Title",
+            "Worm",
+            "Earthworms",
+            "Grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Introduction: Discusses various names for earthworms and their contributions to lawns by enhancing the health and beauty of grass.",
+        "sentence_cn": "- 简介：讨论蚯蚓的各种名称及其通过增强草的健康和美丽对草坪的贡献。",
+        "words": [
+            "Introduction",
+            "Introduction",
+            "names",
+            "earthworms",
+            "contributions",
+            "lawns",
+            "health",
+            "beauty",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Sections on Earthworm Benefits:",
+        "sentence_cn": "2. 关于蚯蚓益处的部分：",
+        "words": [
+            "Sections on Earthworm Benefits",
+            "Sections",
+            "Earthworm",
+            "Benefits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Breaking up Thatch: Earthworms break down thatch, a dense layer of dead grass, stems, and roots that blocks water and nutrients.",
+        "sentence_cn": "- 分解茅草：蚯蚓分解茅草，即一层密集的死草、茎和根，会阻挡水和养分。",
+        "words": [
+            "Breaking up Thatch",
+            "Earthworms",
+            "thatch",
+            "layer",
+            "grass",
+            "stems",
+            "roots",
+            "water",
+            "nutrients"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Increasing Nitrogen: Presence of worms increases nitrogen in the soil by 5 times.",
+        "sentence_cn": "- 增加氮：蠕虫的存在使土壤中的氮含量增加了 5 倍。",
+        "words": [
+            "Increasing Nitrogen",
+            "Nitrogen",
+            "Presence",
+            "worms",
+            "nitrogen",
+            "soil",
+            "5",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Eating Nematodes: Worms consume nematodes, parasites that damage grass.",
+        "sentence_cn": "- 吃线虫：蠕虫吃线虫，即破坏草的寄生虫。",
+        "words": [
+            "Eating Nematodes",
+            "Nematodes",
+            "Worms",
+            "nematodes",
+            "parasites",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This prevents yellowing and wilting.",
+        "sentence_cn": "这可以防止变黄和枯萎。",
+        "words": [
+            "yellowing",
+            "wilting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Helping Water Flow: Tunnels made by worms allow water to reach roots easily.",
+        "sentence_cn": "- 帮助水流动：蠕虫挖掘的隧道可以让水轻松到达根部。",
+        "words": [
+            "Helping Water Flow",
+            "Water",
+            "Flow",
+            "Tunnels",
+            "worms",
+            "water",
+            "roots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Increasing Phosphate: Presence of worms increases phosphate in the soil by 7 times.",
+        "sentence_cn": "- 增加磷酸盐：蠕虫的存在会使土壤中的磷酸盐增加 7 倍。",
+        "words": [
+            "Increasing Phosphate",
+            "Phosphate",
+            "Presence",
+            "worms",
+            "phosphate",
+            "soil",
+            "7",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Eating Other Pests: Worms reduce harmful bacteria, fungi, and microbes, increasing beneficial microbes.",
+        "sentence_cn": "- 吃掉其他害虫：蠕虫减少有害细菌、真菌和微生物，增加有益微生物。",
+        "words": [
+            "Eating Other Pests",
+            "Pests",
+            "Worms",
+            "bacteria",
+            "fungi",
+            "microbes",
+            "microbes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Fertilizing the Soil: Earthworm castings are nutrient-rich, exceeding the initial consumption of soil nutrients.",
+        "sentence_cn": "- 给土壤施肥：蚯蚓粪便营养丰富，超过了土壤养分的初始消耗。",
+        "words": [
+            "Fertilizing the Soil",
+            "Soil",
+            "Earthworm",
+            "castings",
+            "nutrient",
+            "consumption",
+            "soil",
+            "nutrients"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Increasing Potassium: Presence of worms increases potassium in the soil by 11 times.",
+        "sentence_cn": "- 增加钾：蠕虫的存在使土壤中的钾含量增加了 11 倍。",
+        "words": [
+            "Increasing Potassium",
+            "Potassium",
+            "Presence",
+            "worms",
+            "potassium",
+            "soil",
+            "11",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Quotes:",
+        "sentence_cn": "3. 引言:",
+        "words": [
+            "Quotes",
+            "Quotes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - By Charles Darwin: \"It will be difficult to deny the probability that every particle of earth... has passed through the intestines of worms.\"",
+        "sentence_cn": "- 查尔斯·达尔文：“很难否认地球上的每一粒粒子……都曾经过蠕虫的肠道。”",
+        "words": [
+            "It will be difficult to deny the probability that every particle of earth... has passed through the intestines of worms.",
+            "probability",
+            "particle",
+            "earth",
+            "intestines",
+            "worms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - By Aristotle: \"Worms are the intestines of the earth.\"",
+        "sentence_cn": "- 亚里士多德说：“蠕虫是地球的肠道。”",
+        "words": [
+            "Worms are the intestines of the earth.",
+            "Worms",
+            "intestines",
+            "earth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Advice for Helping Earthworms:",
+        "sentence_cn": "4. 帮助蚯蚓的建议：",
+        "words": [
+            "Advice for Helping Earthworms",
+            "Advice",
+            "Earthworms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Encourages creating earthworm piles with organic materials and leaving grass clippings on the lawn.",
+        "sentence_cn": "- 鼓励用有机材料创建蚯蚓堆，并将草屑留在草坪上。",
+        "words": [
+            "earthworm",
+            "piles",
+            "materials",
+            "grass",
+            "clippings",
+            "lawn"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cautions against using herbicides and pesticides harmful to earthworms.",
+        "sentence_cn": "- 注意不要使用对蚯蚓有害的除草剂和杀虫剂。",
+        "words": [
+            "Cautions",
+            "herbicides",
+            "pesticides",
+            "earthworms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Presented by: LawnCare.net",
+        "sentence_cn": "5. 由 LawnCare.net 提供",
+        "words": [
+            "Presented by"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Sources: Listed websites for further reading.",
+        "sentence_cn": "6. 来源：列出可供进一步阅读的网站。",
+        "words": [
+            "Sources",
+            "Sources",
+            "websites",
+            "reading"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design visually represents each benefit with illustrations and emphasizes the improvement in nutrient levels.",
+        "sentence_cn": "该设计通过插图直观地呈现每一种益处，并强调营养水平的提高。",
+        "words": [
+            "design",
+            "benefit",
+            "illustrations",
+            "improvement",
+            "nutrient",
+            "levels"
+        ],
+        "id": null
+    }
+]

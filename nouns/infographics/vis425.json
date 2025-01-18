@@ -1,0 +1,224 @@
+[
+    {
+        "sentence": "The image is a celebratory infographic for Telstra 4G's birthday, titled \"HAPPY BIRTHDAY TELSTRA 4G - THE NETWORK WITHOUT EQUAL\".",
+        "sentence_cn": "该图是庆祝 Telstra 4G 生日的信息图，标题为“祝 TELSTRA 4G 生日快乐 - 无与伦比的网络”。",
+        "words": [
+            "HAPPY BIRTHDAY TELSTRA 4G - THE NETWORK WITHOUT EQUAL",
+            "birthday"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a large, pink layered cake with a \"4G\" topper designed as a candle.",
+        "sentence_cn": "蛋糕的特色是一个巨大的粉色分层蛋糕，蛋糕顶部有一个设计成蜡烛的“4G”字样。",
+        "words": [
+            "4G",
+            "cake",
+            "4",
+            "topper",
+            "candle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key statistics and features highlighted in the design include:",
+        "sentence_cn": "设计中强调的关键统计数据和特点包括：",
+        "words": [
+            "statistics",
+            "features",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Over 500,000 devices on the network.",
+        "sentence_cn": "- 网络上有超过 500,000 台设备。",
+        "words": [
+            "500,000",
+            "devices",
+            "network"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Over 1,000 sites.",
+        "sentence_cn": "- 超过 1,000 个站点。",
+        "words": [
+            "1,000",
+            "sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 14% traffic growth per month.",
+        "sentence_cn": "- 每月流量增长14%。",
+        "words": [
+            "14",
+            "traffic",
+            "growth",
+            "month"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- More than 100 locations in regional and rural areas.",
+        "sentence_cn": "- 在地区和农村地区有 100 多个地点。",
+        "words": [
+            "100",
+            "locations",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Owners of 4G smartphones average 7 hours of web surfing each week.",
+        "sentence_cn": "- 4G智能手机用户每周平均上网时间为7小时。",
+        "words": [
+            "Owners",
+            "4",
+            "G",
+            "smartphones",
+            "7",
+            "hours",
+            "web",
+            "surfing",
+            "week"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 28% use online banking more on their 4G mobiles than on computers.",
+        "sentence_cn": "- 28%的人在4G手机上使用网上银行的次数多于在电脑上使用。",
+        "words": [
+            "28",
+            "banking",
+            "4",
+            "G",
+            "mobiles",
+            "computers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ten 4G devices available: 5 smartphones, 4 MBB, 1 tablet.",
+        "sentence_cn": "- 十台 4G 设备可用：5 台智能手机、4 台 MBB、1 台平板电脑。",
+        "words": [
+            "Ten",
+            "4",
+            "G",
+            "devices",
+            "5",
+            "smartphones",
+            "4",
+            "MBB",
+            "1",
+            "tablet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- HD voice across the entire network footprint.",
+        "sentence_cn": "- 覆盖整个网络的高清语音。",
+        "words": [
+            "HD",
+            "voice",
+            "network",
+            "footprint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Coverage to 40% of the Australian population.",
+        "sentence_cn": "- 覆盖 40％ 的澳大利亚人口。",
+        "words": [
+            "Coverage",
+            "40",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Better in-building coverage.",
+        "sentence_cn": "- 更好的室内覆盖。",
+        "words": [
+            "building",
+            "coverage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A section at the bottom indicates future plans:",
+        "sentence_cn": "底部的部分列出了未来的计划：",
+        "words": [
+            "section",
+            "bottom",
+            "plans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Coverage to 66% of the population.",
+        "sentence_cn": "- 覆盖66％的人口。",
+        "words": [
+            "Coverage",
+            "66",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Four new handsets to launch by end of 2012.",
+        "sentence_cn": "- 2012年底将推出四款新手机。",
+        "words": [
+            "Four",
+            "handsets",
+            "end",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Doubling the 4G footprint area.",
+        "sentence_cn": "- 将4G覆盖面积增加一倍。",
+        "words": [
+            "4",
+            "G",
+            "footprint",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Another 1,000 sites.",
+        "sentence_cn": "- 另外 1,000 个站点。",
+        "words": [
+            "1,000",
+            "sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Telstra logo and the slogan \"IT'S HOW WE CONNECT\" are at the bottom right.",
+        "sentence_cn": "右下角是 Telstra 的标志和口号“这就是我们的连接方式”。",
+        "words": [
+            "IT'S HOW WE CONNECT",
+            "logo",
+            "slogan",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme includes shades of blue, pink, and white.",
+        "sentence_cn": "颜色方案包括蓝色、粉色和白色。",
+        "words": [
+            "color",
+            "scheme",
+            "shades",
+            "blue",
+            "pink",
+            "white"
+        ],
+        "id": null
+    }
+]

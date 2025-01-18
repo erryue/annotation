@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image depicts two people engaging in a conversation in a cozy indoor setting.",
+        "sentence_cn": "图像描绘了两个人在舒适的室内环境中交谈。",
+        "words": [
+            "two",
+            "people",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the left, a woman, is sitting on a wooden chair, gesturing with her right hand.",
+        "sentence_cn": "左边的一位女士坐在一张木椅上，用右手做着手势。",
+        "words": [
+            "person",
+            "left",
+            "woman",
+            "chair",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is dressed in a white shirt with a green plaid scarf over a green sweater vest and has dark hair pulled back.",
+        "sentence_cn": "她身穿白色衬衫，绿色毛衣背心外面套着一条绿色格子围巾，黑色头发向后梳。",
+        "words": [
+            "shirt",
+            "scarf",
+            "sweater",
+            "vest",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her left hand is wrapped in a bandage.",
+        "sentence_cn": "她的左手缠着绷带。",
+        "words": [
+            "hand",
+            "bandage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man on the right is seated on a wooden chair, wearing a black tracksuit with white piping and has a thoughtful expression, with his right hand resting on his chin.",
+        "sentence_cn": "右边的男子坐在木椅上，身穿带有白色滚边的黑色运动服，右手托着下巴，表情若有所思。",
+        "words": [
+            "man",
+            "right",
+            "chair",
+            "tracksuit",
+            "piping",
+            "expression",
+            "hand",
+            "chin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both individuals appear to be engaged in a meaningful discussion.",
+        "sentence_cn": "两人似乎正在进行一场有意义的讨论。",
+        "words": [
+            "individuals",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a wooden desk cluttered with papers and office supplies.",
+        "sentence_cn": "背景中，有一张木桌，上面堆满了文件和办公用品。",
+        "words": [
+            "background",
+            "desk",
+            "papers",
+            "office",
+            "supplies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A laptop and a printer are visible on the desk.",
+        "sentence_cn": "桌子上有一台笔记本电脑和一台打印机。",
+        "words": [
+            "laptop",
+            "printer",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Closed blinds cover the windows behind them.",
+        "sentence_cn": "拉上的百叶窗遮住了他们身后的窗户。",
+        "words": [
+            "blinds",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Books and various items are scattered on and around the desk, adding to the casual and lived-in atmosphere of the room.",
+        "sentence_cn": "书籍和各种物品散落在桌子上和周围，增添了房间休闲和温馨的氛围。",
+        "words": [
+            "Books",
+            "items",
+            "desk",
+            "atmosphere",
+            "room"
+        ],
+        "id": null
+    }
+]

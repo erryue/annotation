@@ -1,0 +1,90 @@
+[
+    {
+        "id": "a33790ca-49cb-4814-ae2a-44f3f59bb9f7",
+        "confidence": 0.93132,
+        "class": "giraffe",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.24686,
+                        "minY": 170.80309,
+                        "maxX": 82.37367,
+                        "maxY": 267.19614
+                    },
+                    "x": 0.24686,
+                    "y": 170.80309,
+                    "w": 82.12681,
+                    "h": 96.39305000000002
+                }
+            }
+        }
+    },
+    {
+        "id": "9122f277-78dc-439b-9f21-888a99d94c80",
+        "confidence": 0.92681,
+        "class": "giraffe",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 145.24138,
+                        "minY": 51.19593,
+                        "maxX": 259.95358,
+                        "maxY": 297.77402
+                    },
+                    "x": 145.24138,
+                    "y": 51.19593,
+                    "w": 114.7122,
+                    "h": 246.57809
+                }
+            }
+        }
+    },
+    {
+        "id": "54e8ece4-e4a8-4af4-b852-f826e2c010db",
+        "confidence": 0.90187,
+        "class": "giraffe",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 235.19614,
+                        "minY": 77.37266,
+                        "maxX": 402.64563,
+                        "maxY": 291.13986
+                    },
+                    "x": 235.19614,
+                    "y": 77.37266,
+                    "w": 167.44948999999997,
+                    "h": 213.7672
+                }
+            }
+        }
+    },
+    {
+        "id": "40173cc3-dfbf-4535-9905-6d5a7031b886",
+        "confidence": 0.85437,
+        "class": "giraffe",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 321.70422,
+                        "minY": 64.20644,
+                        "maxX": 456.71909,
+                        "maxY": 291.8566
+                    },
+                    "x": 321.70422,
+                    "y": 64.20644,
+                    "w": 135.01486999999997,
+                    "h": 227.65016000000003
+                }
+            }
+        }
+    }
+]

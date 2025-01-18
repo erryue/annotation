@@ -1,0 +1,199 @@
+[
+    {
+        "sentence": "This image depicts a detailed miniature kitchen setup.",
+        "sentence_cn": "这张图片描绘了一个详细的微型厨房设置。",
+        "words": [
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene includes:",
+        "sentence_cn": "场景包括：",
+        "words": [
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Refrigerator: On the left, there's a small blue refrigerator with the brand name \"Amcor.\"",
+        "sentence_cn": "1. 冰箱：左边有一台蓝色的小冰箱，品牌名称为“Amcor”。",
+        "words": [
+            "Refrigerator",
+            "Amcor.",
+            "Refrigerator",
+            "refrigerator",
+            "brand",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a plate with a cake on top of it.",
+        "sentence_cn": "有一个盘子，上面有一块蛋糕。",
+        "words": [
+            "plate",
+            "cake",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Counter and Cabinets: The counters are gray with a granite-like texture.",
+        "sentence_cn": "2. 柜台和橱柜：柜台是灰色的，具有花岗岩般的纹理。",
+        "words": [
+            "Counter and Cabinets",
+            "Counter",
+            "Cabinets",
+            "counters",
+            "granite",
+            "texture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are beige cabinets below.",
+        "sentence_cn": "下面有米色的橱柜。",
+        "words": [
+            "cabinets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various items like a basket of fruit, a potato, and a rolling pin are on the counter.",
+        "sentence_cn": "柜台上摆放着各种物品，如一篮水果、一个土豆和一根擀面杖。",
+        "words": [
+            "items",
+            "basket",
+            "fruit",
+            "potato",
+            "pin",
+            "counter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Window and Curtains: A window above the counter has frilly red and white checkered curtains, adding a quaint touch.",
+        "sentence_cn": "3. 窗户和窗帘：柜台上方的窗户上挂着红白相间的格子褶边窗帘，增添了古雅的感觉。",
+        "words": [
+            "Window and Curtains",
+            "Window",
+            "Curtains",
+            "window",
+            "counter",
+            "curtains",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Shelving: Above the counter is a white shelf with small jars and dishes.",
+        "sentence_cn": "4. 搁架：柜台上方是一个白色的架子，上面放着小罐子和盘子。",
+        "words": [
+            "Shelving",
+            "Shelving",
+            "counter",
+            "shelf",
+            "jars",
+            "dishes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are scissors hanging below the shelf.",
+        "sentence_cn": "架子下面挂着剪刀。",
+        "words": [
+            "scissors",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Flooring: The floor has a black and white checkered pattern, adding to the classic kitchen look.",
+        "sentence_cn": "5. 地板：地板采用黑白格子图案，增添了经典的厨房外观。",
+        "words": [
+            "Flooring",
+            "Flooring",
+            "floor",
+            "pattern",
+            "kitchen",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Stove and Oven:",
+        "sentence_cn": "6. 炉灶和烤箱：",
+        "words": [
+            "Stove and Oven",
+            "Stove",
+            "Oven"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a small stove with black and white checkered backsplash includes red towels hanging beside it.",
+        "sentence_cn": "右边是一个小炉子，炉子后面有黑白格子的防溅板，旁边挂着红色的毛巾。",
+        "words": [
+            "right",
+            "stove",
+            "backsplash",
+            "towels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are pots on the stove.",
+        "sentence_cn": "炉子上摆着锅。",
+        "words": [
+            "pots",
+            "stove"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Island and Stools: A small kitchen island with two wooden stools is in the foreground, with an egg on a plate and a coffee cup on the island.",
+        "sentence_cn": "7. 岛和凳子：前景是一个带有两个木凳的小厨房岛，岛上有一个盘子，上面放着一个鸡蛋，还有一个咖啡杯。",
+        "words": [
+            "Island and Stools",
+            "Island",
+            "Stools",
+            "kitchen",
+            "island",
+            "two",
+            "stools",
+            "foreground",
+            "egg",
+            "plate",
+            "coffee",
+            "cup",
+            "island"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Decorations: There are small decorative items like a potted plant, a wall clock, and kitchen utensils hanging on the walls.",
+        "sentence_cn": "8. 装饰品：墙上挂着一些小装饰品，如盆栽、挂钟、厨房用具。",
+        "words": [
+            "Decorations",
+            "Decorations",
+            "items",
+            "plant",
+            "wall",
+            "clock",
+            "kitchen",
+            "utensils",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The entire setting is very detailed, resembling a cozy, traditional kitchen on a miniature scale.",
+        "sentence_cn": "整个设置非常详细，类似于一个微型舒适的传统厨房。",
+        "words": [
+            "kitchen",
+            "scale"
+        ],
+        "id": null
+    }
+]

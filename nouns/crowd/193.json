@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image depicts a group of people seated around a wooden picnic-style table outdoors, likely at a beer garden or similar venue.",
+        "sentence_cn": "照片中一群人围坐在户外的一张木制野餐桌旁，很可能是在啤酒花园或类似的地方。",
+        "words": [
+            "group",
+            "people",
+            "picnic",
+            "style",
+            "table",
+            "beer",
+            "garden",
+            "venue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are nine individuals visible, most of whom are smiling and appear to be engaged in a lively conversation.",
+        "sentence_cn": "可以看到有九个人，其中大多数都面带微笑，似乎正在进行热烈的交谈。",
+        "words": [
+            "nine",
+            "individuals",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are several glasses of beer, some partially full, alongside a few bottles of water.",
+        "sentence_cn": "桌子上摆放着几杯啤酒，有些还没完全装满，还有几瓶水。",
+        "words": [
+            "table",
+            "glasses",
+            "beer",
+            "bottles",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A menu or a list of some sort is lying on the table as well.",
+        "sentence_cn": "桌子上还放着一份菜单或清单。",
+        "words": [
+            "menu",
+            "list",
+            "sort",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The environment suggests a casual, relaxed atmosphere, ideal for social gatherings.",
+        "sentence_cn": "这里的环境体现出一种休闲、轻松的气氛，非常适合社交聚会。",
+        "words": [
+            "environment",
+            "atmosphere",
+            "gatherings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other tables with people can be seen in the background, indicating it's a communal setting.",
+        "sentence_cn": "从背景中可以看到其他桌子也坐着人，表明这是一个公共场所。",
+        "words": [
+            "tables",
+            "people",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding ambiance suggests an early evening or afternoon setting, given the warm lighting.",
+        "sentence_cn": "由于灯光温暖，周围的氛围让人感觉像是傍晚或下午的样子。",
+        "words": [
+            "ambiance",
+            "evening",
+            "afternoon",
+            "lighting"
+        ],
+        "id": null
+    }
+]

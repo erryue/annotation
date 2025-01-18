@@ -1,0 +1,124 @@
+[
+    {
+        "sentence": "The image depicts a stylish, modern living room setting.",
+        "sentence_cn": "该图描绘的是一个时尚、现代的客厅布置。",
+        "words": [
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Centered in the room is a rectangular coffee table made of a single slab of polished wood, featuring natural grain patterns.",
+        "sentence_cn": "房间中央有一张长方形的咖啡桌，由一整块抛光木板制成，具有天然的纹理图案。",
+        "words": [
+            "room",
+            "coffee",
+            "table",
+            "slab",
+            "wood",
+            "grain",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On top of the table, there are votive candles arranged along its length.",
+        "sentence_cn": "桌子上沿着桌子的长度排列着祈愿蜡烛。",
+        "words": [
+            "top",
+            "table",
+            "candles",
+            "length"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Flanking the coffee table on each side are two identical sofas with black frames and soft, golden-yellow cushions that add a pop of color to the room.",
+        "sentence_cn": "咖啡桌两侧是两个相同的沙发，沙发带有黑色框架和柔软的金黄色靠垫，为房间增添了一抹色彩。",
+        "words": [
+            "coffee",
+            "table",
+            "two",
+            "sofas",
+            "frames",
+            "cushions",
+            "pop",
+            "color",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sofas appear comfortable and are positioned on a textured floor with a dark red and black pattern resembling scales or stones.",
+        "sentence_cn": "沙发看上去很舒适，放置在有纹理的地板上，地板上有深红色和黑色的图案，类似于鳞片或石头。",
+        "words": [
+            "sofas",
+            "floor",
+            "pattern",
+            "scales",
+            "stones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a sleek, contemporary fireplace set into a wall with a large, vertically textured stone surround.",
+        "sentence_cn": "背景中，有一座时尚、现代的壁炉，壁炉嵌入墙壁，周围环绕着巨大的垂直纹理石头。",
+        "words": [
+            "background",
+            "fireplace",
+            "wall",
+            "stone",
+            "surround"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The fireplace has a horizontal flame visible through a glass front, providing a cozy ambiance to the room.",
+        "sentence_cn": "壁炉的火焰是水平的，透过玻璃可以看到，给房间带来了舒适的氛围。",
+        "words": [
+            "fireplace",
+            "flame",
+            "glass",
+            "front",
+            "ambiance",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A tall potted plant with lush green fronds is placed in the corner, adding a touch of nature to the otherwise sophisticated and minimalist decor.",
+        "sentence_cn": "角落里摆放着一盆长满绿叶的高大盆栽，为原本精致简约的装饰增添了一丝自然气息。",
+        "words": [
+            "plant",
+            "fronds",
+            "corner",
+            "touch",
+            "nature",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small round stool with a metallic finish sits beside one of the sofas, potentially serving as additional seating or a side table.",
+        "sentence_cn": "其中一张沙发旁边放着一张带有金属饰面的小圆凳，可以用作额外的座位或边桌。",
+        "words": [
+            "stool",
+            "finish",
+            "one",
+            "sofas",
+            "seating",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall lighting is warm and inviting, enhancing the room's cozy and stylish atmosphere.",
+        "sentence_cn": "整体灯光温暖而温馨，增强了房间舒适而时尚的氛围。",
+        "words": [
+            "lighting",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

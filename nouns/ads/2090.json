@@ -1,0 +1,150 @@
+[
+    {
+        "sentence": "The image is an advertisement for \"au bon pain\" caf¨¦ bakery.",
+        "sentence_cn": "图片是“au bon pain”咖啡面包店的广告。",
+        "words": [
+            "au bon pain",
+            "bakery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement features the following elements:",
+        "sentence_cn": "该广告具有以下特点：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: The top portion has an orange and yellow background with the \"au bon pain\" logo.",
+        "sentence_cn": "- 标题：顶部部分有橙色和黄色背景，带有“au bon pain”标志。",
+        "words": [
+            "Header:",
+            "au bon pain",
+            "Header",
+            "portion",
+            "background",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Drinks: Two large iced beverages are prominently displayed.",
+        "sentence_cn": "- 饮料：两大杯冰镇饮料摆放在显眼的位置。",
+        "words": [
+            "Drinks:",
+            "Drinks",
+            "Two",
+            "beverages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left drink is an iced coffee with a plastic cup and a straw, labeled with the caf¨¦'s branding.",
+        "sentence_cn": "左边的饮料是冰咖啡，用塑料杯和吸管盛放，上面贴有咖啡馆的品牌标签。",
+        "words": [
+            "drink",
+            "coffee",
+            "cup",
+            "straw",
+            "caf¨",
+            "branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The right drink is iced tea with a lemon slice on the rim.",
+        "sentence_cn": "合适的饮品是边缘带有柠檬片的冰茶。",
+        "words": [
+            "drink",
+            "tea",
+            "lemon",
+            "slice",
+            "rim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text:",
+        "sentence_cn": "- 文本：",
+        "words": [
+            "Text:",
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Freshly Brewed!\" is written on the left near the iced coffee.",
+        "sentence_cn": "- 左侧的冰咖啡旁边写着“现煮！”。",
+        "words": [
+            "Freshly Brewed!",
+            "coffee"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Free Iced Coffee & Iced Tea Day\" is written in bold, large letters on the right side.",
+        "sentence_cn": "- 右侧用粗体大字写着“免费冰咖啡和冰茶日”。",
+        "words": [
+            "Free Iced Coffee & Iced Tea Day",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Tuesday, August 6\" and \"2 pm - 6 pm\" are provided to indicate the event's details.",
+        "sentence_cn": "- 活动详情为“8 月 6 日，星期二”和“下午 2 点至下午 6 点”。",
+        "words": [
+            "Tuesday, August 6",
+            "2 pm - 6 pm",
+            "6",
+            "2",
+            "pm",
+            "6",
+            "pm",
+            "event",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background: The background features blue and orange circular patterns that add a modern and vibrant touch.",
+        "sentence_cn": "- 背景：背景采用蓝色和橙色的圆形图案，增添了现代感和活力。",
+        "words": [
+            "Background:",
+            "Background",
+            "background",
+            "patterns",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Branding: The lower part of the image repeats the \"au bon pain\" logo with the words \"caf¨¦ bakery\" beneath it.",
+        "sentence_cn": "- 品牌：图像的下部重复了“au bon pain”标志，下方有字样“caf¨¦ bakery”。",
+        "words": [
+            "Branding:",
+            "au bon pain",
+            "caf¨¦ bakery",
+            "Branding",
+            "part",
+            "logo",
+            "words",
+            "bakery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image is colorful and visually appealing, promoting a special event at the caf¨¦ where iced beverages are offered for free for a specific time on August 6.",
+        "sentence_cn": "总体而言，这张图片色彩丰富，视觉上很吸引人，宣传了咖啡馆的一项特别活动……8 月 6 日特定时间免费提供冰镇饮料。",
+        "words": [
+            "event",
+            "caf¨",
+            "beverages",
+            "time",
+            "6"
+        ],
+        "id": null
+    }
+]

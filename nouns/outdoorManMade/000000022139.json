@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image captures a busy urban scene on a city street.",
+        "sentence_cn": "这张照片捕捉到了城市街道上繁忙的城市场景。",
+        "words": [
+            "scene",
+            "city",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A person is crossing the street on a zebra crossing.",
+        "sentence_cn": "一个人正在斑马线上过马路。",
+        "words": [
+            "person",
+            "street",
+            "zebra",
+            "crossing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are wearing a red patterned bag, dark clothes, and sunglasses.",
+        "sentence_cn": "他们戴着红色图案的包，穿着深色衣服，戴着太阳镜。",
+        "words": [
+            "bag",
+            "clothes",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street is flanked by buildings, with a large, modern, metallic structure visible in the background, likely a performing arts venue or pavilion.",
+        "sentence_cn": "街道两旁都是建筑物，背景中可以看到一个巨大的现代化金属结构，可能是表演艺术场所或展馆。",
+        "words": [
+            "street",
+            "buildings",
+            "structure",
+            "background",
+            "performing",
+            "arts",
+            "venue",
+            "pavilion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several vehicles on the road, including cars, buses, and a yellow taxi.",
+        "sentence_cn": "路上有几辆车，包括汽车、公共汽车和一辆黄色出租车。",
+        "words": [
+            "vehicles",
+            "road",
+            "cars",
+            "buses",
+            "taxi"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pedestrians are walking along the sidewalks.",
+        "sentence_cn": "行人沿着人行道行走。",
+        "words": [
+            "Pedestrians",
+            "sidewalks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is vibrant, with streetlights and various signs adding to the urban atmosphere.",
+        "sentence_cn": "场景充满活力，路灯和各种标志增添了城市氛围。",
+        "words": [
+            "scene",
+            "streetlights",
+            "signs",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, creating a cool, muted tone in the image.",
+        "sentence_cn": "天空阴云密布，在图像中呈现出一种冷淡的色调。",
+        "words": [
+            "sky",
+            "tone"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "sentence": "The image shows a serene rural scene with a group of white cows resting in a green field.",
+        "sentence_cn": "照片中是一片宁静的乡村景色，一群白色的奶牛在绿色的田野中休息。",
+        "words": [
+            "scene",
+            "group",
+            "cows",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows are leisurely lying on the grass, partially surrounded by taller vegetation.",
+        "sentence_cn": "奶牛悠闲地躺在草地上，周围是较高的植被。",
+        "words": [
+            "cows",
+            "grass",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A calf is visible among the adult cows, contributing to the peaceful atmosphere.",
+        "sentence_cn": "在成年母牛中间还可以看到一头小牛，为这里增添了宁静的气氛。",
+        "words": [
+            "calf",
+            "adult",
+            "cows",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The field is expansive, extending to the background where there are more grassy patches and a wooden fence.",
+        "sentence_cn": "田野很广阔，延伸到背景处，那里有更多的草地和木栅栏。",
+        "words": [
+            "field",
+            "background",
+            "patches",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene suggests a tranquil pastoral setting.",
+        "sentence_cn": "这一场景呈现出一种宁静的田园风光。",
+        "words": [
+            "scene"
+        ],
+        "id": null
+    }
+]

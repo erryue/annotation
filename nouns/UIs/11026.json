@@ -1,0 +1,274 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a weather application.",
+        "sentence_cn": "该图片看起来是一个天气应用程序的截图。",
+        "words": [
+            "weather",
+            "application"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Section (Toolbar):",
+        "sentence_cn": "1. 顶部部分（工具栏）：",
+        "words": [
+            "Top Section (Toolbar):",
+            "Section",
+            "Toolbar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are several icons, including settings, favorites, social media, information, security, and a menu icon.",
+        "sentence_cn": "- 有几个图标，包括设置、收藏夹、社交媒体、信息、安全和菜单图标。",
+        "words": [
+            "icons",
+            "settings",
+            "favorites",
+            "media",
+            "information",
+            "security",
+            "menu",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The time displayed is 5:45.",
+        "sentence_cn": "- 显示的时间是5:45。",
+        "words": [
+            "time",
+            "5:45"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Weather Observations:",
+        "sentence_cn": "2. 天气观测：",
+        "words": [
+            "Weather Observations:",
+            "Weather",
+            "Observations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Temperature: Current Temp is 77.0¡ãF, with an apparent temperature not shown.",
+        "sentence_cn": "- 温度：当前温度为 77.0°F，未显示表观温度。",
+        "words": [
+            "Temperature:",
+            "Temperature",
+            "Temp",
+            "77.0¡ãF",
+            "temperature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Dew Point: 64.0¡ãF.",
+        "sentence_cn": "- 露点：64.0°F。",
+        "words": [
+            "Dew Point:",
+            "Dew",
+            "Point"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Humidity: 64%.",
+        "sentence_cn": "- 湿度： 64%。",
+        "words": [
+            "Humidity:",
+            "Humidity",
+            "64"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Wind: 15.0 mph from the northeast (NE).",
+        "sentence_cn": "- 风： 15.0 英里/小时，风向为东北（NE）。",
+        "words": [
+            "Wind:",
+            "Wind",
+            "15.0",
+            "mph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Gusts: 13 mph.",
+        "sentence_cn": "- 阵风：13 英里/小时。",
+        "words": [
+            "Gusts:",
+            "Gusts",
+            "13",
+            "mph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Visibility: 10.0 miles.",
+        "sentence_cn": "- 能见度：10.0 英里。",
+        "words": [
+            "Visibility:",
+            "Visibility",
+            "10.0",
+            "miles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Pressure: 29.83 inches.",
+        "sentence_cn": "压力：29.83英寸。",
+        "words": [
+            "Pressure:",
+            "Pressure",
+            "29.83",
+            "inches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Precipitation: 0%, with tonight¡¯s precipitation also at 0%.",
+        "sentence_cn": "- 降水量：0%，今晚的降水量也为 0%。",
+        "words": [
+            "Precipitation:",
+            "Precipitation",
+            "0",
+            "tonight¡¯s",
+            "precipitation",
+            "0",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Sunrise: 5:42 am.",
+        "sentence_cn": "- 日出：早上 5:42。",
+        "words": [
+            "Sunrise:",
+            "Sunrise",
+            "5:42",
+            "am"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Sunset: 7:56 pm.",
+        "sentence_cn": "- 日落时间：晚上 7:56。",
+        "words": [
+            "Sunset:",
+            "Sunset",
+            "7:56",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The update is from 50 minutes ago.",
+        "sentence_cn": "- 该更新是 50 分钟前的。",
+        "words": [
+            "update",
+            "50",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Indicators:",
+        "sentence_cn": "3. 指标：",
+        "words": [
+            "Indicators:",
+            "Indicators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Three dials/icons are present: a circular gauge showing 0%, a compass with the needle pointing northeast, and a triangular warning sign.",
+        "sentence_cn": "- 有三个表盘/图标：一个显示 0% 的圆形仪表、一个指针指向东北的指南针和一个三角形警告标志。",
+        "words": [
+            "Three",
+            "dials",
+            "icons",
+            "gauge",
+            "0",
+            "compass",
+            "needle",
+            "warning",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Radar Section:",
+        "sentence_cn": "4. 雷达部分：",
+        "words": [
+            "Radar Section:",
+            "Radar",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labeled as \"Urbana Radar.\"",
+        "sentence_cn": "- 标记为“Urbana Radar”。",
+        "words": [
+            "Urbana Radar."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays a map of part of the Midwest, including cities and highways around the Chicago area.",
+        "sentence_cn": "- 显示中西部部分地区的地图，包括芝加哥地区周围的城市和高速公路。",
+        "words": [
+            "map",
+            "part",
+            "Midwest",
+            "cities",
+            "highways",
+            "Chicago",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Cities such as Freeport, Rockford, Ottawa, Pontiac, Chicago, Joliet, and Kankakee are visible.",
+        "sentence_cn": "- 可以看到自由港、罗克福德、渥太华、庞蒂亚克、芝加哥、乔利埃特和坎卡基等城市。",
+        "words": [
+            "Cities",
+            "Freeport",
+            "Rockford",
+            "Ottawa",
+            "Pontiac",
+            "Chicago",
+            "Joliet",
+            "Kankakee"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app seems to focus on weather observation and forecasting, with navigational tools for moving between sections like Forecast and Radar.",
+        "sentence_cn": "该应用程序似乎专注于天气观察和预报，并具有在预报和雷达等部分之间移动的导航工具。",
+        "words": [
+            "app",
+            "weather",
+            "observation",
+            "forecasting",
+            "tools",
+            "sections"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image shows two polar bears walking on a flat expanse of snow and ice.",
+        "sentence_cn": "照片中两只北极熊在平坦的冰雪上行走。",
+        "words": [
+            "two",
+            "bears",
+            "expanse",
+            "snow",
+            "ice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The larger polar bear is positioned to the right and appears to be an adult, while the smaller one on the left is likely a juvenile.",
+        "sentence_cn": "较大的北极熊位于右侧，看起来像是一只成年北极熊，而左侧较小的一只可能是一只幼年北极熊。",
+        "words": [
+            "bear",
+            "right",
+            "adult",
+            "one",
+            "left",
+            "juvenile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They both have thick, white fur, characteristic of polar bears, which helps them blend in with their icy surroundings.",
+        "sentence_cn": "它们都长有厚厚的白色皮毛，这是北极熊的特征，这有助于它们与冰冷的环境融为一体。",
+        "words": [
+            "fur",
+            "bears",
+            "surroundings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a vast body of water that meets the edge of the ice floe on which the bears are walking.",
+        "sentence_cn": "背景中，一片广阔的水域与熊行走的浮冰边缘相接。",
+        "words": [
+            "background",
+            "body",
+            "water",
+            "edge",
+            "ice",
+            "floe",
+            "bears"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water is calm, reflecting the cold, clear environment typical of Arctic regions.",
+        "sentence_cn": "水面平静，倒映出北极地区典型的寒冷、清澈的环境。",
+        "words": [
+            "water",
+            "environment",
+            "Arctic",
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is not visible, keeping the focus on the bears and their immediate environment.",
+        "sentence_cn": "天空是看不见的，焦点集中在熊和它们周围的环境上。",
+        "words": [
+            "sky",
+            "focus",
+            "bears",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene captures a serene moment in the wild, emphasizing the natural habitat of these majestic creatures.",
+        "sentence_cn": "该场景捕捉到了野外宁静的时刻，强调了这些雄伟生物的自然栖息地。",
+        "words": [
+            "scene",
+            "wild",
+            "habitat",
+            "creatures"
+        ],
+        "id": null
+    }
+]

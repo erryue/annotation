@@ -1,0 +1,154 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Carter's children's clothing, presented in a colorful, illustrated style.",
+        "sentence_cn": "图片是 Carter 儿童服装的复古广告，以彩色插图风格呈现。",
+        "words": [
+            "vintage",
+            "children",
+            "clothing",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Left Side:",
+        "sentence_cn": "左侧：",
+        "words": [
+            "Left Side:",
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top text reads \"Hello...Carter Spring,\" accompanied by a smiling sun and blue flowers.",
+        "sentence_cn": "- 顶部的文字写着“你好……卡特·斯普林”，伴随着微笑的太阳和蓝色的花朵。",
+        "words": [
+            "Hello...Carter Spring,",
+            "text",
+            "sun",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A mother is lovingly interacting with several children who are dressed in different outfits.",
+        "sentence_cn": "- 一位母亲正与几个穿着不同服装的孩子亲切地互动。",
+        "words": [
+            "mother",
+            "children",
+            "outfits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The children are depicted in various playful activities, such as crawling on a window ledge and sitting with a toy.",
+        "sentence_cn": "- 描绘了孩子们进行各种嬉戏活动的图像，例如在窗台上爬行以及坐在玩具旁。",
+        "words": [
+            "children",
+            "activities",
+            "window",
+            "ledge",
+            "toy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The text at the bottom states \"Carter's is a family affair.\"",
+        "sentence_cn": "- 底部的文字指出“Carter's 是一家家族企业。”",
+        "words": [
+            "Carter's is a family affair.",
+            "text",
+            "bottom",
+            "family",
+            "affair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The whole scene conveys a cheerful, sunny springtime atmosphere.",
+        "sentence_cn": "- 整个场景传达出欢快、阳光明媚的春天气氛。",
+        "words": [
+            "scene",
+            "springtime",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Right Side:",
+        "sentence_cn": "右侧：",
+        "words": [
+            "Right Side:",
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The header reads \"Carter's Big and little Apples.\"",
+        "sentence_cn": "- 标题写着“卡特的大苹果和小苹果”。",
+        "words": [
+            "Carter's Big and little Apples.",
+            "header",
+            "Apples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A mother and several children are featured around a large, red apple.",
+        "sentence_cn": "- 一位母亲和几个孩子围着一只大红苹果。",
+        "words": [
+            "mother",
+            "children",
+            "apple"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The children are dressed in Carter's clothing and portrayed in playful and loving poses, such as sitting on the apple or climbing it.",
+        "sentence_cn": "- 孩子们穿着卡特的服装，摆出嬉戏玩闹、充满爱意的姿势，比如坐在苹果上或爬苹果。",
+        "words": [
+            "children",
+            "clothing",
+            "poses",
+            "apple"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Similar to the left side, the tagline \"Carter's is a family affair\" appears at the bottom.",
+        "sentence_cn": "- 与左侧类似，底部出现标语“Carter's 是家族企业”。",
+        "words": [
+            "Carter's is a family affair",
+            "tagline",
+            "family",
+            "affair",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The overall tone is vibrant and family-oriented.",
+        "sentence_cn": "- 整体基调充满活力且以家庭为中心。",
+        "words": [
+            "tone",
+            "family"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad uses bright colors and joyful expressions to convey warmth and family happiness, emphasizing the brand's clothing for young children.",
+        "sentence_cn": "广告采用明亮的色彩和欢乐的表情传达温暖和家庭幸福，强调该品牌的幼儿服装。",
+        "words": [
+            "ad",
+            "colors",
+            "expressions",
+            "warmth",
+            "family",
+            "happiness",
+            "brand",
+            "clothing",
+            "children"
+        ],
+        "id": null
+    }
+]

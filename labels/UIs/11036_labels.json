@@ -1,0 +1,24 @@
+[
+    {
+        "id": "5e1fd564-c410-4acc-a1bd-beee37ebe479",
+        "confidence": 0.88485,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 4.24136,
+                        "minY": 108.08402,
+                        "maxX": 1078.17151,
+                        "maxY": 833.49225
+                    },
+                    "x": 4.24136,
+                    "y": 108.08402,
+                    "w": 1073.93015,
+                    "h": 725.40823
+                }
+            }
+        }
+    }
+]

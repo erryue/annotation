@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image depicts a kitchen scene focused on a stove with various items related to cooking oatmeal.",
+        "sentence_cn": "该图描绘的是厨房场景，主要以炉子为中心，炉子上摆放着各种与煮燕麦片有关的物品。",
+        "words": [
+            "kitchen",
+            "scene",
+            "stove",
+            "items",
+            "oatmeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a saucepan with a ladle resting inside.",
+        "sentence_cn": "前景中有一个平底锅，里面放着一把勺子。",
+        "words": [
+            "foreground",
+            "saucepan",
+            "ladle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It appears to have remnants of cooked oatmeal.",
+        "sentence_cn": "它看起来还有煮熟的燕麦片的残留物。",
+        "words": [
+            "remnants",
+            "oatmeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the saucepan, a rectangular glass container holds a fresh batch of oatmeal.",
+        "sentence_cn": "平底锅旁边有一个长方形玻璃容器，里面盛着新鲜的燕麦片。",
+        "words": [
+            "saucepan",
+            "glass",
+            "container",
+            "batch",
+            "oatmeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind, there are two cylindrical containers of oatmeal.",
+        "sentence_cn": "后面有两个圆柱形的燕麦片容器。",
+        "words": [
+            "two",
+            "containers",
+            "oatmeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One is labeled \"John McCann's Steel Cut Irish Oatmeal,\" and the other is \"Quaker Oats Old Fashioned.\"",
+        "sentence_cn": "其中一个标签上写着“约翰·麦肯钢切爱尔兰燕麦片”，另一个标签上写着“桂格老式燕麦片”。",
+        "words": [
+            "John McCann's Steel Cut Irish Oatmeal,",
+            "Quaker Oats Old Fashioned.",
+            "One"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a decorative sign that reads \"Shalom Y'all,\" adding a personal touch to the setting.",
+        "sentence_cn": "背景中有一个装饰标志，上面写着“Shalom Y'all”，为环境增添了个人风格。",
+        "words": [
+            "Shalom Y'all,",
+            "background",
+            "sign",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the side, a blue object resembling a British police box, possibly a mug, is visible.",
+        "sentence_cn": "侧面可以看到一个类似英国警察亭的蓝色物体，可能是杯子。",
+        "words": [
+            "object",
+            "police",
+            "box",
+            "mug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a stainless steel container holding kitchen utensils, such as spatulas and whisks.",
+        "sentence_cn": "右边有一个不锈钢容器，里面装着锅铲、搅拌器等厨房用具。",
+        "words": [
+            "right",
+            "steel",
+            "container",
+            "kitchen",
+            "utensils",
+            "spatulas",
+            "whisks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The stove is a typical gas range with four burners.",
+        "sentence_cn": "该炉灶是典型的四个燃烧器的煤气灶。",
+        "words": [
+            "stove",
+            "gas",
+            "range",
+            "four",
+            "burners"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a casual, homey kitchen atmosphere.",
+        "sentence_cn": "整体布置体现出一种休闲、温馨的厨房氛围。",
+        "words": [
+            "kitchen",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,319 @@
+[
+    {
+        "sentence": "The image showcases two promotional offers from Costco.com for laptops.",
+        "sentence_cn": "图片展示了 Costco.com 针对笔记本电脑的两项促销优惠。",
+        "words": [
+            "two",
+            "offers",
+            "laptops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Left side:",
+        "sentence_cn": "左侧：",
+        "words": [
+            "Left side:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Item: Asus TP500 Flip 15.6¡± Touchscreen 2-in-1 Laptop",
+        "sentence_cn": "- 商品：华硕 TP500 Flip 15.6 英寸触摸屏二合一笔记本电脑",
+        "words": [
+            "Item",
+            "Item",
+            "15.6¡±",
+            "Touchscreen",
+            "2",
+            "in-1",
+            "Laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Discount: $100 off",
+        "sentence_cn": "- 折扣：优惠 100 美元",
+        "words": [
+            "Discount",
+            "Discount",
+            "100"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Features:",
+        "sentence_cn": "- 特征：",
+        "words": [
+            "Features",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Intel Core i3 processor",
+        "sentence_cn": "- 英特尔酷睿 i3 处理器",
+        "words": [
+            "i3",
+            "processor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 8GB Memory",
+        "sentence_cn": "8GB内存",
+        "words": [
+            "8",
+            "GB",
+            "Memory"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 500GB Hard Drive",
+        "sentence_cn": "500GB硬盘",
+        "words": [
+            "500",
+            "GB"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Price:",
+        "sentence_cn": "- 价格：",
+        "words": [
+            "Price",
+            "Price"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Online Price: $494.99",
+        "sentence_cn": "- 网上价格：494.99 美元",
+        "words": [
+            "Price",
+            "494.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Instant Savings: -$100.00",
+        "sentence_cn": "- 即时节省：-$100.00",
+        "words": [
+            "Savings",
+            "-$100.00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Final Cost: $394.99",
+        "sentence_cn": "- 最终价格：394.99 美元",
+        "words": [
+            "Cost",
+            "394.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Info:",
+        "sentence_cn": "- 附加信息：",
+        "words": [
+            "Additional Info",
+            "Info"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Shipping and handling included",
+        "sentence_cn": "- 含运费和手续费",
+        "words": [
+            "Shipping",
+            "handling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Costco Concierge Services technical support and second-year warranty included",
+        "sentence_cn": "- 包括 Costco 礼宾服务技术支持和第二年保修",
+        "words": [
+            "support",
+            "year",
+            "warranty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visuals: Image of a partially open laptop displaying a colorful screen",
+        "sentence_cn": "- 视觉效果：部分打开的笔记本电脑的图片，显示彩色屏幕",
+        "words": [
+            "Visuals",
+            "Image",
+            "laptop",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Brand: ASUS with Intel Core i3 logo",
+        "sentence_cn": "- 品牌：带有 Intel Core i3 标志的华硕",
+        "words": [
+            "Brand",
+            "Brand",
+            "i3",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Right side:",
+        "sentence_cn": "右侧：",
+        "words": [
+            "Right side:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Item: Microsoft Surface Pro 3 Windows 10 Bundle",
+        "sentence_cn": "- 商品：Microsoft Surface Pro 3 Windows 10 套装",
+        "words": [
+            "Item",
+            "Item",
+            "3",
+            "10",
+            "Bundle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Discount: $300 off",
+        "sentence_cn": "- 折扣：优惠 300 美元",
+        "words": [
+            "Discount",
+            "Discount",
+            "300"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Features:",
+        "sentence_cn": "- 特征：",
+        "words": [
+            "Features",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Intel Core i7 processor",
+        "sentence_cn": "英特尔酷睿 i7 处理器",
+        "words": [
+            "i7",
+            "processor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 8GB Memory",
+        "sentence_cn": "8GB内存",
+        "words": [
+            "8",
+            "GB",
+            "Memory"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 256GB SSD",
+        "sentence_cn": "256GB SSD",
+        "words": [
+            "256",
+            "GB",
+            "SSD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Includes Surface Pro type cover, Surface pen, tempered glass screen protector, full HD, 2160 x 1440 display, and 1-year Office 365 Personal",
+        "sentence_cn": "- 包括 Surface Pro 键盘盖、Surface 触控笔、钢化玻璃屏幕保护膜、全高清 2160 x 1440 显示屏和 1 年 Office 365 Personal",
+        "words": [
+            "type",
+            "cover",
+            "pen",
+            "glass",
+            "screen",
+            "protector",
+            "HD",
+            "2160",
+            "1440",
+            "display",
+            "1",
+            "year",
+            "365"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Info:",
+        "sentence_cn": "- 附加信息：",
+        "words": [
+            "Additional Info",
+            "Info"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Shipping and handling included",
+        "sentence_cn": "- 含运费和手续费",
+        "words": [
+            "Shipping",
+            "handling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Costco Concierge Services technical support and second-year warranty included",
+        "sentence_cn": "- 包括 Costco 礼宾服务技术支持和第二年保修",
+        "words": [
+            "support",
+            "year",
+            "warranty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visuals: Image of the Surface Pro with accessories and a colorful chart on screen",
+        "sentence_cn": "- 视觉效果：Surface Pro 的图片，配有配件，屏幕上有彩色图表",
+        "words": [
+            "Visuals",
+            "Visuals",
+            "Image",
+            "accessories",
+            "chart",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Brand: Microsoft, with Office 365 and Intel Core i7 logos",
+        "sentence_cn": "- 品牌：微软，带有 Office 365 和 Intel Core i7 标志",
+        "words": [
+            "Brand",
+            "Brand",
+            "i7",
+            "logos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both offers highlight the benefits of buying from Costco, such as included shipping, technical support, and extended warranty.",
+        "sentence_cn": "这两项优惠都强调了在 Costco 购买商品的优势，例如包含运费、技术支持和延长保修。",
+        "words": [
+            "offers",
+            "benefits",
+            "shipping",
+            "support",
+            "warranty"
+        ],
+        "id": null
+    }
+]

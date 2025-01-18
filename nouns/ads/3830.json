@@ -1,0 +1,368 @@
+[
+    {
+        "sentence": "The image is a promotional flyer for a supermarket, showcasing a variety of food items divided into three sections: Deli, Meat, Seafood, and Produce.",
+        "sentence_cn": "图片是一家超市的宣传传单，展示了各种食品，分为三个部分：熟食、肉类、海鲜和农产品。",
+        "words": [
+            "flyer",
+            "supermarket",
+            "variety",
+            "food",
+            "items",
+            "three",
+            "sections",
+            "Deli",
+            "Meat",
+            "Seafood",
+            "Produce"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Deli Items:",
+        "sentence_cn": "### 熟食：",
+        "words": [
+            "Deli",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top of the Cooked Ham for Sandwich: $3.99",
+        "sentence_cn": "- 三明治熟火腿顶部： 3.99 美元",
+        "words": [
+            "Top of the Cooked Ham for Sandwich:",
+            "Top",
+            "Ham",
+            "Sandwich",
+            "3.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Old Fashioned Cooked Ham: $4.79",
+        "sentence_cn": "- 老式熟火腿： 4.79 美元",
+        "words": [
+            "Old Fashioned Cooked Ham:",
+            "4.79"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mortadella with Pepper: $3.79 per lb.",
+        "sentence_cn": "- 胡椒味腊肠：每磅 3.79 美元。",
+        "words": [
+            "Mortadella with Pepper:",
+            "3.79",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Prosciutto di Parma: $6.99 per lb.",
+        "sentence_cn": "- 帕尔马火腿： 每磅 6.99 美元",
+        "words": [
+            "Prosciutto di Parma:",
+            "6.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Smoked Ham Shank or Butt Portion: $1.29 per lb.",
+        "sentence_cn": "- 熏火腿柄或臀肉部分：每磅 1.29 美元。",
+        "words": [
+            "Smoked Ham Shank or Butt Portion:",
+            "Ham",
+            "Shank",
+            "Butt",
+            "Portion",
+            "1.29",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Virginia Smoked Ham: $3.49",
+        "sentence_cn": "- 弗吉尼亚熏火腿： 3.49 美元",
+        "words": [
+            "Virginia Smoked Ham:",
+            "3.49"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cheese options such as Lacey Swiss and others.",
+        "sentence_cn": "- 奶酪选项，例如 Lacey Swiss 奶酪等。",
+        "words": [
+            "Cheese options",
+            "options",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Meat Items:",
+        "sentence_cn": "### 肉类：",
+        "words": [
+            "Meat",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Boneless New York Strip Steak: $5.99 per lb.",
+        "sentence_cn": "- 无骨纽约客牛排：每磅 5.99 美元。",
+        "words": [
+            "Boneless New York Strip Steak:",
+            "Strip",
+            "Steak",
+            "5.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Smoked Pork Chops: $4.99",
+        "sentence_cn": "- 熏猪排：4.99 美元",
+        "words": [
+            "Smoked Pork Chops:",
+            "Chops",
+            "4.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Country Style Pork Ribs: $2.99 per lb.",
+        "sentence_cn": "- 乡村风味排骨：每磅 2.99 美元。",
+        "words": [
+            "Country Style Pork Ribs:",
+            "Pork",
+            "Ribs",
+            "2.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Smoked Sliced Ham or Butt Portion: $1.29 per lb.",
+        "sentence_cn": "- 烟熏火腿片或臀肉部分：每磅 1.29 美元。",
+        "words": [
+            "Smoked Sliced Ham or Butt Portion:",
+            "Ham",
+            "Butt",
+            "Portion",
+            "1.29",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Smoked Sausage: $2.99 per lb.",
+        "sentence_cn": "- 熏香肠：每磅 2.99 美元。",
+        "words": [
+            "Smoked Sausage:",
+            "Sausage",
+            "2.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Applewood Smoked Bacon: $5.99",
+        "sentence_cn": "- 苹果木烟熏培根： 5.99 美元",
+        "words": [
+            "Applewood Smoked Bacon:",
+            "5.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pepperoni, Salami, and other varieties.",
+        "sentence_cn": "- 意大利辣香肠、萨拉米香肠和其他品种。",
+        "words": [
+            "Pepperoni, Salami, and other varieties.",
+            "varieties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Seafood Items:",
+        "sentence_cn": "### 海鲜：",
+        "words": [
+            "Seafood",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Raw Shrimp (21/25 count): $5.99 per lb.",
+        "sentence_cn": "- 生虾（21/25 只）：每磅 5.99 美元。",
+        "words": [
+            "Raw Shrimp (21/25 count):",
+            "21/25",
+            "count",
+            "5.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tilapia Fillet: $7.99 per lb.",
+        "sentence_cn": "- 罗非鱼片：每磅 7.99 美元。",
+        "words": [
+            "Tilapia Fillet:",
+            "7.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Steelhead Salmon Fillet: $8.99 per lb.",
+        "sentence_cn": "- 虹鳟鱼片：每磅 8.99 美元。",
+        "words": [
+            "Steelhead Salmon Fillet:",
+            "8.99",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Produce Items:",
+        "sentence_cn": "### 生产物品：",
+        "words": [
+            "Produce",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hass Avocados: 6 for $5.00",
+        "sentence_cn": "- 哈斯鳄梨：6 个售价 5.00 美元",
+        "words": [
+            "Hass Avocados:",
+            "Avocados",
+            "6",
+            "5.00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Yellow Onions: $0.99 per 2 lb bag",
+        "sentence_cn": "- 黄洋葱：每袋 2 磅 0.99 美元",
+        "words": [
+            "Yellow Onions:",
+            "Onions",
+            "0.99",
+            "2",
+            "lb",
+            "bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Strawberries: 2 packages for $5.00",
+        "sentence_cn": "- 草莓：2 包售价 5.00 美元",
+        "words": [
+            "Strawberries:",
+            "Strawberries",
+            "2",
+            "packages",
+            "5.00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pero Mini Seedless Cucumbers: $2.99 each",
+        "sentence_cn": "- Pero 迷你无籽黄瓜：每只 2.99 美元",
+        "words": [
+            "Pero Mini Seedless Cucumbers:",
+            "Cucumbers",
+            "2.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Carrots: $1.99 per 2 lb bag",
+        "sentence_cn": "- 胡萝卜：每袋 2 磅，1.99 美元",
+        "words": [
+            "Carrots:",
+            "Carrots",
+            "1.99",
+            "2",
+            "lb",
+            "bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Idaho Baking Potatoes: $0.69 per lb",
+        "sentence_cn": "- 爱达荷烤土豆：每磅 0.69 美元",
+        "words": [
+            "Idaho Baking Potatoes:",
+            "Baking",
+            "Potatoes",
+            "0.69",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Chayote: 3 for $0.99",
+        "sentence_cn": "- 佛手瓜：3 个 0.99 美元",
+        "words": [
+            "Chayote:",
+            "3",
+            "0.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sweet Potatoes: $0.69 per lb",
+        "sentence_cn": "- 红薯：每磅 0.69 美元",
+        "words": [
+            "Sweet Potatoes:",
+            "Potatoes",
+            "0.69",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- D¡¯Anjou Pears: $1.19 per lb",
+        "sentence_cn": "- D'Anjou 梨：每磅 1.19 美元",
+        "words": [
+            "D¡¯Anjou Pears:",
+            "1.19",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mushrooms, mixed salad toppings, and other fresh items.",
+        "sentence_cn": "- 蘑菇、混合沙拉配料和其他新鲜食品。",
+        "words": [
+            "Mushrooms, mixed salad toppings, and other fresh items.",
+            "Mushrooms",
+            "salad",
+            "toppings",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flyer includes prices per unit or per weight, vibrant images of each product, and some promotional bundles or special deals for specific items.",
+        "sentence_cn": "传单包括每单位或每重量的价格、每种产品的生动图像以及一些促销套餐或特定商品的特别优惠。",
+        "words": [
+            "flyer",
+            "prices",
+            "unit",
+            "weight",
+            "images",
+            "product",
+            "bundles",
+            "deals",
+            "items"
+        ],
+        "id": null
+    }
+]

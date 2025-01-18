@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot from a mobile app or website displaying videos.",
+        "sentence_cn": "该图片似乎是从显示视频的移动应用程序或网站上截取的截图。",
+        "words": [
+            "mobile",
+            "app",
+            "website",
+            "videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a menu bar with options like SMS, HINGLISH, JOKES, and VIDEOS, with \"VIDEOS\" highlighted in pink, indicating the selected category.",
+        "sentence_cn": "在顶部，有一个菜单栏，其中有 SMS、HINGLISH、JOKES 和 VIDEOS 等选项，其中“VIDEOS”以粉红色突出显示，表示所选类别。",
+        "words": [
+            "VIDEOS",
+            "top",
+            "menu",
+            "bar",
+            "options",
+            "SMS",
+            "HINGLISH",
+            "JOKES",
+            "VIDEOS",
+            "VIDEOS",
+            "pink",
+            "category"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen's time shows 8:19.",
+        "sentence_cn": "屏幕时间显示8:19。",
+        "words": [
+            "screen",
+            "time",
+            "8:19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the menu, there is a video titled \"BB Ki Vines - Angry Masterji\" with a thumbnail image showing a person, possibly in a pose of contemplation or thought, with text reading \"Angry Masterji Part 9\" in bold letters.",
+        "sentence_cn": "菜单下方有一个名为“BB Ki Vines - Angry Masterji”的视频，其中的缩略图显示了一个人，可能处于沉思或思考的姿势，并用粗体字写着“Angry Masterji Part 9”。",
+        "words": [
+            "BB Ki Vines - Angry Masterji",
+            "Angry Masterji Part 9",
+            "menu",
+            "video",
+            "thumbnail",
+            "person",
+            "pose",
+            "contemplation",
+            "thought",
+            "text",
+            "9",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The video duration is 7 minutes and 31 seconds.",
+        "sentence_cn": "视频时长7分31秒。",
+        "words": [
+            "video",
+            "duration",
+            "7",
+            "minutes",
+            "31",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath the video thumbnail, there is an advertisement labelled \"The World's Largest 3D Experience,\" followed by a Google Play ad promoting over a million apps for download.",
+        "sentence_cn": "在视频缩略图下方，有一则标有“世界上最大的 3D 体验”的广告，后面跟着一则 Google Play 广告，宣传有超过一百万个应用程序可供下载。",
+        "words": [
+            "The World's Largest 3D Experience,",
+            "video",
+            "thumbnail",
+            "ad",
+            "million",
+            "apps",
+            "download"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various icons are displayed below the video, likely for social sharing and other interactions.",
+        "sentence_cn": "视频下方显示各种图标，可能用于社交分享和其他互动。",
+        "words": [
+            "icons",
+            "video",
+            "sharing",
+            "interactions"
+        ],
+        "id": null
+    }
+]

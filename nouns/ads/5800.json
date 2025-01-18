@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image features two main elements.",
+        "sentence_cn": "该图像有两个主要元素。",
+        "words": [
+            "two",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is the Barclays logo, which consists of a stylized blue eagle emblem above the word \"BARCLAYS\" in blue text.",
+        "sentence_cn": "左侧是巴克莱银行的标志，由一只风格化的蓝色鹰徽章和蓝色文字“BARCLAYS”组成。",
+        "words": [
+            "BARCLAYS",
+            "logo",
+            "eagle",
+            "emblem",
+            "word",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there is an iPhone and an Apple Watch.",
+        "sentence_cn": "右侧有一台 iPhone 和一块 Apple Watch。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The iPhone's screen displays a digital wallet app with various credit and debit cards, including a Chase Freedom Visa card.",
+        "sentence_cn": "iPhone 的屏幕上显示了一个数字钱包应用程序，其中有各种信用卡和借记卡，包括 Chase Freedom Visa 卡。",
+        "words": [
+            "screen",
+            "wallet",
+            "app",
+            "credit",
+            "debit",
+            "cards",
+            "card"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Apple Watch, positioned in front of the iPhone, shows a card approval screen with a checkmark, indicating a completed transaction.",
+        "sentence_cn": "放置在 iPhone 前方的 Apple Watch 会显示带有复选标记的卡批准屏幕，表示交易已完成。",
+        "words": [
+            "front",
+            "card",
+            "approval",
+            "screen",
+            "checkmark",
+            "transaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image appears to be promoting contactless payment technology involving mobile devices and banking services.",
+        "sentence_cn": "该图片似乎在推广涉及移动设备和银行服务的非接触式支付技术。",
+        "words": [
+            "payment",
+            "technology",
+            "devices",
+            "banking",
+            "services"
+        ],
+        "id": null
+    }
+]

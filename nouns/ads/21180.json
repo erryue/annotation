@@ -1,0 +1,187 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Adidas soccer shoes, titled \"The lightweight the heavyweights prefer.\"",
+        "sentence_cn": "该图是阿迪达斯足球鞋的复古广告，标题为“重量级人物更喜欢的轻量级”。",
+        "words": [
+            "The lightweight the heavyweights prefer.",
+            "soccer",
+            "shoes",
+            "lightweight",
+            "heavyweights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Design and Features:",
+        "sentence_cn": "- 设计和特点：",
+        "words": [
+            "Design and Features",
+            "Design",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The shoe features lightweight kangaroo leather uppers with padding on the uppers and at the heel.",
+        "sentence_cn": "- 这款鞋的鞋面采用轻质袋鼠皮制成，鞋面和鞋跟处均有衬垫。",
+        "words": [
+            "shoe",
+            "kangaroo",
+            "leather",
+            "uppers",
+            "padding",
+            "uppers",
+            "heel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The vamp is made of fine gazelle velours leather, which enhances ball contact and control.",
+        "sentence_cn": "- 鞋面采用优质瞪羚绒皮革制成，增强了与球的接触和控制。",
+        "words": [
+            "vamp",
+            "gazelle",
+            "velours",
+            "leather",
+            "ball",
+            "contact",
+            "control"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - It has a wide positioning of the studs for better running and kicking stability, along with a built-in heel counter for firm support.",
+        "sentence_cn": "- 它具有广泛定位的鞋钉，以实现更好的跑步和踢球稳定性，同时还配有内置后跟稳定器，以提供牢固的支撑。",
+        "words": [
+            "positioning",
+            "studs",
+            "running",
+            "kicking",
+            "stability",
+            "heel",
+            "counter",
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The sole is described as flexible for running but firm for kicking, containing a built-in foot-bed.",
+        "sentence_cn": "- 鞋底被描述为适合跑步而灵活，但适合踢球而坚固，并带有内置脚床。",
+        "words": [
+            "sole",
+            "running",
+            "kicking",
+            "foot",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visual Elements:",
+        "sentence_cn": "- 视觉元素：",
+        "words": [
+            "Visual Elements",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The shoe is predominantly black with white stripes and the word \"WORLD CUP\" in gold lettering.",
+        "sentence_cn": "- 该鞋主要以黑色为主，带有白色条纹和金色字母“WORLD CUP”字样。",
+        "words": [
+            "WORLD CUP",
+            "shoe",
+            "stripes",
+            "word",
+            "WORLD",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The Adidas logo appears prominently on the tongue of the shoe and within the ad, emphasizing the brand's mark of quality and performance.",
+        "sentence_cn": "- 阿迪达斯的标志显著地出现在鞋舌和广告中，强调了该品牌的品质和性能。",
+        "words": [
+            "logo",
+            "tongue",
+            "shoe",
+            "ad",
+            "brand",
+            "mark",
+            "quality",
+            "performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There is a small image of a soccer player in red kit, in action.",
+        "sentence_cn": "- 有一张身穿红色球衣的足球运动员正在比赛的小图像。",
+        "words": [
+            "soccer",
+            "player",
+            "kit",
+            "action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Marketing and Branding:",
+        "sentence_cn": "- 营销和品牌：",
+        "words": [
+            "Marketing and Branding",
+            "Marketing",
+            "Branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The text promotes the shoe as the top model in Adidas' range, noted for its light weight of only 240 grams.",
+        "sentence_cn": "- 文中将这款鞋宣传为阿迪达斯系列中的顶级款式，以重量仅为 240 克而著称。",
+        "words": [
+            "text",
+            "shoe",
+            "model",
+            "range",
+            "weight",
+            "240",
+            "grams"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The tagline emphasizes that this model is used by many leading players worldwide.",
+        "sentence_cn": "- 标语强调了这一模型已被全球许多领先的参与者所采用。",
+        "words": [
+            "tagline",
+            "model",
+            "players"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the ad focuses on the quality and performance benefits of the Adidas \"World Cup\" soccer shoes.",
+        "sentence_cn": "总体来说，该广告重点宣传了阿迪达斯“世界杯”足球鞋的品质和性能优势。",
+        "words": [
+            "World Cup",
+            "ad",
+            "quality",
+            "performance",
+            "benefits",
+            "soccer",
+            "shoes"
+        ],
+        "id": null
+    }
+]

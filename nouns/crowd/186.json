@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image shows a group of happy people celebrating.",
+        "sentence_cn": "图像显示一群快乐的人们正在庆祝。",
+        "words": [
+            "group",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are indoors, in a bright room.",
+        "sentence_cn": "他们在室内的一个明亮的房间里。",
+        "words": [
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is festive with colorful confetti raining down on them.",
+        "sentence_cn": "五彩缤纷的纸屑纷纷飘落，现场气氛十分欢乐。",
+        "words": [
+            "atmosphere",
+            "confetti"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center, a woman holding multiple gift boxes is smiling joyfully, surrounded by others who are raising their arms and cheering.",
+        "sentence_cn": "在中心，一位手捧多个礼品盒的妇女正开心地微笑，周围的人则举起手臂欢呼。",
+        "words": [
+            "center",
+            "woman",
+            "gift",
+            "boxes",
+            "others",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Everyone appears to be having a great time.",
+        "sentence_cn": "看上去每个人都玩得很开心。",
+        "words": [
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each gift box is wrapped in colorful paper, featuring various patterns like stripes and stars.",
+        "sentence_cn": "每个礼品盒都用彩色纸包裹，上面有条纹和星星等各种图案。",
+        "words": [
+            "gift",
+            "box",
+            "paper",
+            "patterns",
+            "stripes",
+            "stars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The celebration seems to capture a moment of joy and excitement among friends or family.",
+        "sentence_cn": "这次庆祝活动似乎捕捉到了朋友和家人之间欢乐和兴奋的时刻。",
+        "words": [
+            "celebration",
+            "joy",
+            "excitement",
+            "friends",
+            "family"
+        ],
+        "id": null
+    }
+]

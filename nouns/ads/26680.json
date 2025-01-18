@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image depicts a large billboard advertising Chipotle Mexican Grill.",
+        "sentence_cn": "图片上是一块宣传 Chipotle Mexican Grill 的大型广告牌。",
+        "words": [
+            "billboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The billboard features a slogan that reads, \"HERE GOES THE NEIGHBORHOOD. WE'RE NOW OPEN RIGHT HERE,\" in bold, rustic letters.",
+        "sentence_cn": "广告牌上用粗体、质朴的字体写着一句口号：“这里是社区，我们现在就在这里开业。”",
+        "words": [
+            "HERE GOES THE NEIGHBORHOOD. WE'RE NOW OPEN RIGHT HERE,",
+            "billboard",
+            "slogan",
+            "NEIGHBORHOOD",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is white, making the text stand out.",
+        "sentence_cn": "背景是白色，使得文字更加突出。",
+        "words": [
+            "background",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the text is a close-up image of a burrito, wrapped partially in foil, with visible ingredients like rice, beans, chicken, and salsa.",
+        "sentence_cn": "文字右侧是墨西哥卷饼的特写图片，部分用箔纸包裹，上面可见米饭、豆子、鸡肉和莎莎酱等配料。",
+        "words": [
+            "right",
+            "text",
+            "burrito",
+            "foil",
+            "ingredients",
+            "rice",
+            "beans",
+            "chicken",
+            "salsa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Chipotle logo is located below the image of the burrito, accompanied by the words \"MEXICAN GRILL.\"",
+        "sentence_cn": "Chipotle 的标志位于墨西哥卷饼图像下方，旁边写着“MEXICAN GRILL”字样。",
+        "words": [
+            "MEXICAN GRILL.",
+            "logo",
+            "burrito",
+            "words"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The billboard is mounted on a structure labeled \"REGENCY,\" and it's situated in an urban setting with clear skies visible in the background.",
+        "sentence_cn": "广告牌安装在标有“REGENCY”的建筑上，位于城市环境中，背景中可见晴朗的天空。",
+        "words": [
+            "REGENCY,",
+            "billboard",
+            "structure",
+            "REGENCY",
+            "skies",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is another sign for a Chipotle storefront, indicating the restaurant's physical location nearby.",
+        "sentence_cn": "前景中，还有另一个 Chipotle 店面的标志，指示该餐厅附近的实际位置。",
+        "words": [
+            "foreground",
+            "sign",
+            "storefront",
+            "restaurant",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A traffic light and a street sign are also visible at the right edge of the image.",
+        "sentence_cn": "在图像的右边缘还可以看到交通灯和路牌。",
+        "words": [
+            "traffic",
+            "light",
+            "street",
+            "sign",
+            "edge"
+        ],
+        "id": null
+    }
+]

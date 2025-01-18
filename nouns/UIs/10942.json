@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image is a screen from the GO Music app.",
+        "sentence_cn": "该图是 GO Music 应用程序的屏幕截图。",
+        "words": [
+            "screen",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a blurred background of an indoor concert or event venue with a large audience.",
+        "sentence_cn": "该作品以拥有大量观众的室内音乐会或活动场地的模糊背景为特色。",
+        "words": [
+            "background",
+            "concert",
+            "event",
+            "venue",
+            "audience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's the GO Music app icon, which is a rounded square with a gradient of purple hues and a white musical note in the center.",
+        "sentence_cn": "顶部是 GO Music 应用程序图标，它是一个圆角正方形，带有渐变的紫色色调，中间有一个白色音符。",
+        "words": [
+            "top",
+            "app",
+            "icon",
+            "square",
+            "gradient",
+            "hues",
+            "note",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the icon, the text \"GO Music\" is displayed in white.",
+        "sentence_cn": "图标下方，白色显示“GO Music”文字。",
+        "words": [
+            "GO Music",
+            "icon",
+            "text",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further down, there's a prominent \"START\" button outlined in yellow with white text inside.",
+        "sentence_cn": "再往下，有一个显眼的“开始”按钮，按钮轮廓为黄色，里面有白色文字。",
+        "words": [
+            "START",
+            "START",
+            "button",
+            "yellow",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the button, the text reads: ¡°By using GO Music, you have read and agreed to Terms of service,¡± with ¡°Terms of service¡± being a clickable link.",
+        "sentence_cn": "按钮下方的文字为：“使用 GO Music，即表示您已阅读并同意服务条款”，其中“服务条款”是一个可点击的链接。",
+        "words": [
+            "button",
+            "text",
+            "Terms",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the screen, there are navigation icons resembling those typically found on Android devices.",
+        "sentence_cn": "屏幕底部有类似于 Android 设备上常见的导航图标。",
+        "words": [
+            "bottom",
+            "screen",
+            "navigation",
+            "icons",
+            "devices"
+        ],
+        "id": null
+    }
+]

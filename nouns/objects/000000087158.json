@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image shows a segmented metal lunchbox containing four compartments of different foods:",
+        "sentence_cn": "该图显示了一个分段式金属午餐盒，其中包含四个隔间，分别装有不同的食物：",
+        "words": [
+            "metal",
+            "lunchbox",
+            "four",
+            "compartments",
+            "foods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Left Compartment: Holds a hard-boiled egg with the shell removed, placed intact.",
+        "sentence_cn": "1. 左上隔间：存放一颗煮熟的鸡蛋，去掉蛋壳，保持其完整。",
+        "words": [
+            "Top Left Compartment",
+            "Compartment",
+            "egg",
+            "shell"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top Right Compartment: Contains a square slice of pizza topped with melted cheese and some tomato sauce or similar toppings.",
+        "sentence_cn": "2. 右上隔间：包含一片方形披萨，上面涂有融化的奶酪和一些番茄酱或类似的配料。",
+        "words": [
+            "Top Right Compartment",
+            "Compartment",
+            "slice",
+            "pizza",
+            "cheese",
+            "tomato",
+            "sauce",
+            "toppings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Left Compartment: Features a muffin with visible bits, possibly fruit or nuts, giving it a textured appearance.",
+        "sentence_cn": "3. 左下角隔间：内有松饼，上面有可见的碎屑，可能是水果或坚果，使其具有纹理外观。",
+        "words": [
+            "Bottom Left Compartment",
+            "Compartment",
+            "muffin",
+            "bits",
+            "fruit",
+            "nuts",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Right Compartment: Includes sliced carrots, a slice of cucumber, and a small broccoli floret.",
+        "sentence_cn": "4. 右下角隔间：包括胡萝卜片、黄瓜片和一小朵西兰花。",
+        "words": [
+            "Bottom Right Compartment",
+            "Compartment",
+            "carrots",
+            "slice",
+            "cucumber",
+            "broccoli",
+            "floret"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The metal lunchbox is rectangular and divided into four sections of varying sizes to keep the items separate.",
+        "sentence_cn": "金属午餐盒呈矩形，分为四个大小不同的部分，以便分开存放物品。",
+        "words": [
+            "metal",
+            "lunchbox",
+            "four",
+            "sections",
+            "sizes",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The box is placed on a wooden surface.",
+        "sentence_cn": "盒子放在木质表面上。",
+        "words": [
+            "box",
+            "surface"
+        ],
+        "id": null
+    }
+]

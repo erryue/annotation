@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image is an advertisement for the BlackBerry Z3 smartphone.",
+        "sentence_cn": "该图是黑莓 Z3 智能手机的广告。",
+        "words": [
+            "Z3",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features three BlackBerry Z3 devices, each showing different screens like messaging and media features.",
+        "sentence_cn": "它主要展示了三款 BlackBerry Z3 设备，每款设备都显示不同的屏幕，如消息和媒体功能。",
+        "words": [
+            "three",
+            "Z3",
+            "devices",
+            "screens",
+            "messaging",
+            "media",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main elements:",
+        "sentence_cn": "主要元素：",
+        "words": [
+            "Main elements:",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title Text: \"BE THE FIRST TO OWN A BlackBerry Z3,\" with \"THE FIRST\" highlighted in blue.",
+        "sentence_cn": "- 标题文字：“成为第一个拥有黑莓 Z3 的人”，其中“第一个”以蓝色突出显示。",
+        "words": [
+            "Title Text:",
+            "BE THE FIRST TO OWN A BlackBerry Z3,",
+            "THE FIRST",
+            "Title",
+            "Text",
+            "FIRST",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Call to Action: A green circle with \"Pre Order NOW\" prominently displayed.",
+        "sentence_cn": "- 行动号召：一个绿色圆圈，上面显著显示“立即预订”。",
+        "words": [
+            "Call to Action:",
+            "Pre Order NOW",
+            "Call",
+            "Action",
+            "circle",
+            "Pre",
+            "Order"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Logo: In the top right corner, there's a \"BLACKBERRY User GROUP\" logo.",
+        "sentence_cn": "- 标志：右上角有一个“BLACKBERRY 用户组”标志。",
+        "words": [
+            "Logo:",
+            "BLACKBERRY User GROUP",
+            "Logo",
+            "corner",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Promotional Details:",
+        "sentence_cn": "- 促销详情：",
+        "words": [
+            "Promotional Details:",
+            "Promotional",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Deposit RM200\"",
+        "sentence_cn": "- “押金 RM200”",
+        "words": [
+            "Deposit RM200",
+            "Deposit",
+            "RM200"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Contact information for pre-order: \"Contact Nelson 2B5EB262 or email nelson@bbugmy.com\"",
+        "sentence_cn": "- 预订联系信息：“联系 Nelson 2B5EB262 或发送电子邮件至 nelson@bbugmy.com”",
+        "words": [
+            "Contact Nelson 2B5EB262 or email nelson@bbugmy.com",
+            "Contact",
+            "information",
+            "pre",
+            "-",
+            "order",
+            "2B5EB262"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The background is predominantly black, making the text and images pop for a modern, tech-oriented look.",
+        "sentence_cn": "背景主要是黑色，使得文字和图像呈现出一种现代、科技导向的外观。",
+        "words": [
+            "background",
+            "text",
+            "images",
+            "tech",
+            "look"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "sentence": "The image is an infographic featuring debate performance statistics between two candidates, Romney and Obama.",
+        "sentence_cn": "该图是一张信息图表，展示了罗姆尼和奥巴马两位候选人的辩论表现统计数据。",
+        "words": [
+            "debate",
+            "performance",
+            "statistics",
+            "two",
+            "candidates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Text: \"66% of Americans feel Romney Performed Better Than Obama in Debates.\"",
+        "sentence_cn": "- 正文：“66% 的美国人认为罗姆尼在辩论中的表现比奥巴马更好。”",
+        "words": [
+            "Main Text",
+            "66% of Americans feel Romney Performed Better Than Obama in Debates.",
+            "Text",
+            "66",
+            "Debates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bar Chart:",
+        "sentence_cn": "- 条形图：",
+        "words": [
+            "Bar Chart",
+            "Bar",
+            "Chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - All Voters: 66% for Romney (red), 20% for Obama (blue)",
+        "sentence_cn": "- 所有选民：66% 支持罗姆尼（红色），20% 支持奥巴马（蓝色）",
+        "words": [
+            "All Voters",
+            "Voters",
+            "66",
+            "20",
+            "%",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Republicans (REP): 89% for Romney (red), 4% for Obama (blue)",
+        "sentence_cn": "- 共和党 (REP)：罗姆尼 (红色) 获得 89% 的支持，奥巴马 (蓝色) 获得 4% 的支持",
+        "words": [
+            "Republicans (REP)",
+            "89",
+            "red",
+            "4",
+            "%",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Democrats (DEM): 39% for Romney (red), 44% for Obama (blue)",
+        "sentence_cn": "- 民主党 (DEM)：罗姆尼 (红色) 获得 39% 的支持，奥巴马 (蓝色) 获得 44% 的支持",
+        "words": [
+            "Democrats (DEM)",
+            "39",
+            "red",
+            "44",
+            "%",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Independents (IND): 72% for Romney (red), 14% for Obama (blue)",
+        "sentence_cn": "- 独立人士（IND）：罗姆尼（红色）72%，奥巴马（蓝色）14%",
+        "words": [
+            "Independents (IND)",
+            "72",
+            "red",
+            "14",
+            "%",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Color Legend:",
+        "sentence_cn": "- 颜色图例：",
+        "words": [
+            "Color Legend",
+            "Color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Romney is represented in red.",
+        "sentence_cn": "- 罗姆尼以红色代表。",
+        "words": [
+            "red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Obama is represented in blue.",
+        "sentence_cn": "- 奥巴马以蓝色代表。",
+        "words": [
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background Image:",
+        "sentence_cn": "- 背景图片：",
+        "words": [
+            "Background Image",
+            "Background",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Features the two candidates, one on the left holding a microphone and gesturing with a hand, the other on the right extending a hand, as if they are speaking during a debate.",
+        "sentence_cn": "- 两位候选人，左边一位拿着麦克风并挥动着手，右边另一位伸出手，仿佛正在辩论中发言。",
+        "words": [
+            "two",
+            "candidates",
+            "one",
+            "microphone",
+            "hand",
+            "right",
+            "hand",
+            "debate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Source: People & the Press.",
+        "sentence_cn": "- 来源：《人物与新闻界》。",
+        "words": [
+            "Source",
+            "Source"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark, making the text and chart stand out prominently.",
+        "sentence_cn": "背景为深色，使得文本和图表显得突出。",
+        "words": [
+            "background",
+            "text",
+            "chart"
+        ],
+        "id": null
+    }
+]

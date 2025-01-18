@@ -1,0 +1,339 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"hair\" with responses from college-age girls about their hair.",
+        "sentence_cn": "该图是一张题为“头发”的信息图，其中收集了大学女生对她们的头发的回应。",
+        "words": [
+            "hair",
+            "hair",
+            "responses",
+            "college",
+            "age",
+            "girls",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes several sections:",
+        "sentence_cn": "它包括几个部分：",
+        "words": [
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Color",
+        "sentence_cn": "1. 颜色",
+        "words": [
+            "Color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - 15% Blonde",
+        "sentence_cn": "- 15% 金发",
+        "words": [
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 55% Brown",
+        "sentence_cn": "- 55% 棕色",
+        "words": [
+            "55"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 15% Red",
+        "sentence_cn": "- 15% 红色",
+        "words": [
+            "15",
+            "Red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 9% Black",
+        "sentence_cn": "- 9% 黑色",
+        "words": [
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 6% Other",
+        "sentence_cn": "- 6% 其他",
+        "words": [
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   These are represented in a pie chart with corresponding color segments.",
+        "sentence_cn": "这些以饼图的形式通过相应的颜色段来表示。",
+        "words": [
+            "pie",
+            "chart",
+            "color",
+            "segments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. The Look of the Day:",
+        "sentence_cn": "2. 今日造型：",
+        "words": [
+            "The Look of the Day",
+            "Look",
+            "Day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 26% wear their hair straightened and down",
+        "sentence_cn": "- 26% 的人留着直发和披散的头发",
+        "words": [
+            "26",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 40% prefer a ponytail",
+        "sentence_cn": "- 40% 的人喜欢马尾辫",
+        "words": [
+            "40",
+            "ponytail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 26% choose a natural and wavy style",
+        "sentence_cn": "- 26% 的人选择自然波浪发型",
+        "words": [
+            "26",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "These styles are depicted with simple illustrations of hairstyles.",
+        "sentence_cn": "这些风格是通过简单的发型插图来描绘的。",
+        "words": [
+            "styles",
+            "illustrations",
+            "hairstyles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Trips to the Salon:",
+        "sentence_cn": "3. 前往沙龙：",
+        "words": [
+            "Trips to the Salon",
+            "Trips",
+            "Salon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 26% visit the salon less than twice a year",
+        "sentence_cn": "- 26% 的人每年光顾美容院的次数少于两次",
+        "words": [
+            "26",
+            "salon",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 40% go 2-4 times a year",
+        "sentence_cn": "- 40% 的人每年去 2-4 次",
+        "words": [
+            "40",
+            "2",
+            "4",
+            "times",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 26% go 5-8 times a year",
+        "sentence_cn": "- 26% 的人每年去 5-8 次",
+        "words": [
+            "26",
+            "5",
+            "8",
+            "times",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 6% visit 9+ times a year",
+        "sentence_cn": "- 6% 的人每年访问 9 次以上",
+        "words": [
+            "6",
+            "visit",
+            "9",
+            "times",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   This is shown using illustrations of combs representing frequency.",
+        "sentence_cn": "这是使用代表频率的梳子的插图显示的。",
+        "words": [
+            "illustrations",
+            "combs",
+            "frequency"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Hair Length:",
+        "sentence_cn": "4. 头发长度：",
+        "words": [
+            "Hair Length",
+            "Hair",
+            "Length"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 11% have short hair",
+        "sentence_cn": "- 11％的人头发短",
+        "words": [
+            "11",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 21% have medium-length hair",
+        "sentence_cn": "- 21％的人拥有中等长度的头发",
+        "words": [
+            "21",
+            "length",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 68% have long hair",
+        "sentence_cn": "- 68% 的人留着长发",
+        "words": [
+            "68",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "There are silhouette illustrations of different hair lengths.",
+        "sentence_cn": "有不同头发长度的轮廓插图。",
+        "words": [
+            "silhouette",
+            "illustrations",
+            "hair",
+            "lengths"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Time Spent on Hair:",
+        "sentence_cn": "5. 花在头发上的时间：",
+        "words": [
+            "Time Spent on Hair",
+            "Time",
+            "Hair",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 25% spend less than 5 minutes",
+        "sentence_cn": "- 25％的人花费的时间不到5分钟",
+        "words": [
+            "25",
+            "5",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 56% spend 5 to 10 minutes",
+        "sentence_cn": "- 56% 的人花费 5 到 10 分钟",
+        "words": [
+            "56",
+            "5",
+            "10",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 19% spend 10 to 25 minutes",
+        "sentence_cn": "- 19％的人花费10到25分钟",
+        "words": [
+            "19",
+            "10",
+            "25",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 0% spend more than 25 minutes",
+        "sentence_cn": "- 0％ 花费超过 25 分钟",
+        "words": [
+            "0",
+            "25",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   This is displayed using circular charts indicating time spent.",
+        "sentence_cn": "它使用圆形图表来显示所花费的时间。",
+        "words": [
+            "charts",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the infographic provides a visual summary of hair preferences and habits among college-age women.",
+        "sentence_cn": "总体而言，该信息图直观地总结了大学年龄段女性的头发偏好和习惯。",
+        "words": [
+            "summary",
+            "hair",
+            "preferences",
+            "habits",
+            "college",
+            "women"
+        ],
+        "id": null
+    }
+]

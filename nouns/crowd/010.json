@@ -1,0 +1,64 @@
+[
+    {
+        "sentence": "The image depicts a group of people energetically gathered around two teddy bears placed on the ground.",
+        "sentence_cn": "画中描绘了一群人兴致勃勃地聚集在地上的两只泰迪熊周围。",
+        "words": [
+            "group",
+            "people",
+            "two",
+            "teddy",
+            "bears",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are six individuals, four men and two women, all appearing animated and engaged in what seems to be an imaginative scenario, possibly a playful mock betting or auction scene.",
+        "sentence_cn": "有六个人，四男两女，看起来都很活跃，似乎沉浸在一个富有想象力的场景中，可能是在开玩笑地模拟赌博或拍卖场景。",
+        "words": [
+            "six",
+            "individuals",
+            "four",
+            "men",
+            "two",
+            "women",
+            "scenario",
+            "betting",
+            "auction",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some people are holding paper money, which adds to the atmosphere of playful competition or excitement.",
+        "sentence_cn": "有些人手里拿着纸币，增添了嬉戏竞争或兴奋的气氛。",
+        "words": [
+            "people",
+            "paper",
+            "money",
+            "atmosphere",
+            "competition",
+            "excitement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be indoors, under fluorescent lighting, and the people are casually dressed.",
+        "sentence_cn": "场景似乎是在室内，在荧光灯下，人们都穿着休闲服装。",
+        "words": [
+            "lighting",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mood is lively and humorous, suggesting a lighthearted and fun interaction among the group.",
+        "sentence_cn": "气氛活跃且幽默，表明团队之间的互动轻松有趣。",
+        "words": [
+            "mood",
+            "interaction",
+            "group"
+        ],
+        "id": null
+    }
+]

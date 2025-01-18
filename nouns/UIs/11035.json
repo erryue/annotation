@@ -1,0 +1,166 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile app interface related to the \"Grand Theft Auto\" video game series.",
+        "sentence_cn": "该图片似乎是与“侠盗猎车手”视频游戏系列相关的移动应用程序界面的截图。",
+        "words": [
+            "Grand Theft Auto",
+            "app",
+            "interface",
+            "video",
+            "game",
+            "series"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Top Bar: The top row contains various app and notification icons, typical of an Android device, with the time displayed as 12:19.",
+        "sentence_cn": "- 顶部栏：顶行包含各种应用程序和通知图标，这是 Android 设备的典型特征，时间显示为 12:19。",
+        "words": [
+            "Top Bar:",
+            "Bar",
+            "row",
+            "app",
+            "notification",
+            "icons",
+            "device",
+            "time",
+            "12:19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: Below the top bar, there's a navigation menu icon on the left, the word \"Home,\" and a search icon on the right.",
+        "sentence_cn": "- 标题：在顶部栏下方，左侧有一个导航菜单图标，右侧有一个搜索图标。",
+        "words": [
+            "Header:",
+            "Home,",
+            "Header",
+            "bar",
+            "navigation",
+            "menu",
+            "icon",
+            "left",
+            "word",
+            "Home",
+            "search",
+            "icon",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Featured Article: The section displays \"Featured Article: Trevor Philips\" with a partially visible background image of a person.",
+        "sentence_cn": "- 特色文章：该部分显示“特色文章：Trevor Philips”，其中部分背景为可见的人物图像。",
+        "words": [
+            "Featured Article:",
+            "Featured Article: Trevor Philips",
+            "Article",
+            "section",
+            "Article",
+            "background",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Statistics: Below the featured article, there are statistics indicating the content available on the app: \"PAGES 11k,\" \"PHOTOS 61k,\" and \"VIDEOS 4k.\"",
+        "sentence_cn": "- 统计数据：在特色文章下方，有统计数据显示应用程序上可用的内容：“页面 11k”、“照片 61k”和“视频 4k”。",
+        "words": [
+            "Statistics:",
+            "PAGES 11k,",
+            "PHOTOS 61k,",
+            "VIDEOS 4k.",
+            "Statistics",
+            "article",
+            "statistics",
+            "content",
+            "app",
+            "PAGES",
+            "11k",
+            "PHOTOS",
+            "61k",
+            "4k"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Game Listings:",
+        "sentence_cn": "- 游戏列表：",
+        "words": [
+            "Game Listings:",
+            "Game",
+            "Listings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There are two main sections showcasing games:",
+        "sentence_cn": "- 有两个主要部分展示游戏：",
+        "words": [
+            "two",
+            "sections",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    1. Grand Theft Auto V: Displays the logo of the game.",
+        "sentence_cn": "1. 侠盗猎车手V：显示游戏的标志。",
+        "words": [
+            "Grand Theft Auto V",
+            "logo",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    2. GTA San Andreas: Features a collage of characters and scenes from the game¡¯s artwork.",
+        "sentence_cn": "2. GTA San Andreas：以游戏艺术作品中的人物和场景拼贴为特色。",
+        "words": [
+            "GTA San Andreas",
+            "collage",
+            "characters",
+            "scenes",
+            "game¡¯s",
+            "artwork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation Bar: At the bottom, there are icons for navigating the app: \"Home,\" \"Articles,\" and \"Videos.\"",
+        "sentence_cn": "- 导航栏：在底部，有用于导航应用程序的图标：“主页”、“文章”和“视频”。",
+        "words": [
+            "Navigation Bar:",
+            "Home,",
+            "Articles,",
+            "Videos.",
+            "Navigation",
+            "Bar",
+            "bottom",
+            "icons",
+            "app",
+            "Home",
+            "Articles",
+            "Videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall layout is dark-themed, with a focus on showcasing content related to the \"Grand Theft Auto\" series.",
+        "sentence_cn": "整体布局以黑暗为主题，重点展示与“侠盗猎车手”系列相关的内容。",
+        "words": [
+            "Grand Theft Auto",
+            "layout",
+            "focus",
+            "content",
+            "series"
+        ],
+        "id": null
+    }
+]

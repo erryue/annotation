@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image depicts a riverside scene in an urban area.",
+        "sentence_cn": "该图描绘的是城市地区的河畔景色。",
+        "words": [
+            "riverside",
+            "scene",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, several small wooden boats are moored along the edge of the river.",
+        "sentence_cn": "前景中，几艘小木船停泊在河边。",
+        "words": [
+            "foreground",
+            "boats",
+            "edge",
+            "river"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These boats are layered with various items, including nets and other materials, possibly indicating they are used for fishing or local trade.",
+        "sentence_cn": "这些船上堆满了各种物品，包括渔网和其他材料，可能表明它们用于捕鱼或当地贸易。",
+        "words": [
+            "boats",
+            "items",
+            "nets",
+            "materials",
+            "fishing",
+            "trade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some of the boats have canopies and colorful umbrellas shielding them from sunlight.",
+        "sentence_cn": "有些船只配有天篷和彩色遮阳伞来遮挡阳光。",
+        "words": [
+            "boats",
+            "canopies",
+            "umbrellas",
+            "sunlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the riverside, a few individuals are engaged in different activities, possibly related to managing or selling goods from the boats.",
+        "sentence_cn": "在河边，一些人正在从事不同的活动，可能与管理或出售船上的货物有关。",
+        "words": [
+            "riverside",
+            "individuals",
+            "activities",
+            "goods",
+            "boats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a large modern building with glass windows dominates the scene, suggesting a business district.",
+        "sentence_cn": "背景中，一栋装有玻璃窗的大型现代化建筑占据了整个场景，暗示着这是一个商业区。",
+        "words": [
+            "background",
+            "building",
+            "glass",
+            "windows",
+            "scene",
+            "business",
+            "district"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building stands next to a road lined with trees and vehicles, including cars and a blue truck.",
+        "sentence_cn": "该建筑旁边是一条道路，两旁种满树木，停满了车辆，其中包括汽车和一辆蓝色卡车。",
+        "words": [
+            "building",
+            "road",
+            "trees",
+            "vehicles",
+            "cars",
+            "truck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A red flag is visible near the building.",
+        "sentence_cn": "建筑物附近可见一面红旗。",
+        "words": [
+            "flag",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area has a mix of urban infrastructure and natural elements, with greenery visible along the roadside and near the stairway leading down to the boats.",
+        "sentence_cn": "该地区融合了城市基础设施和自然元素，路边和通往船只的楼梯附近可见绿地。",
+        "words": [
+            "area",
+            "mix",
+            "infrastructure",
+            "elements",
+            "greenery",
+            "roadside",
+            "stairway",
+            "boats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere appears to be hazy, possibly due to weather conditions or pollution.",
+        "sentence_cn": "整体大气显得有些朦胧，可能是由于天气状况或污染造成的。",
+        "words": [
+            "atmosphere",
+            "weather",
+            "conditions",
+            "pollution"
+        ],
+        "id": null
+    }
+]

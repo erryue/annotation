@@ -1,0 +1,194 @@
+[
+    {
+        "sentence": "The image is a set of advertisements and coupons from A&W, a fast-food restaurant.",
+        "sentence_cn": "图片是快餐店A&W的一组广告和优惠券。",
+        "words": [
+            "set",
+            "advertisements",
+            "coupons",
+            "food",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is divided into three panels:",
+        "sentence_cn": "它分为三个面板：",
+        "words": [
+            "three",
+            "panels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Panel:",
+        "sentence_cn": "1. 左侧面板：",
+        "words": [
+            "Left Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It features a \"Bacon N' Egger\" sandwich with a promotional offer of \"2 for $3.\"",
+        "sentence_cn": "- 主打“Bacon N' Egger”三明治，促销价格为“2 份 3 美元”。",
+        "words": [
+            "Bacon N' Egger",
+            "2 for $3.",
+            "sandwich",
+            "offer",
+            "2",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The background is a light yellow with the A&W logo at the top.",
+        "sentence_cn": "- 背景为浅黄色，顶部有 A&W 标志。",
+        "words": [
+            "background",
+            "yellow",
+            "logo",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A tagline mentions that the offer is \"More than 45% savings every day.\"",
+        "sentence_cn": "- 标语提到优惠内容是“每天节省 45% 以上”。",
+        "words": [
+            "More than 45% savings every day.",
+            "tagline",
+            "offer",
+            "45",
+            "savings",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Panel:",
+        "sentence_cn": "2. 中间面板：",
+        "words": [
+            "Middle Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Highlights \"Value Deals\" for \"Buddy Burgers.\"",
+        "sentence_cn": "- 重点介绍“Buddy Burgers”的“超值优惠”。",
+        "words": [
+            "Value Deals",
+            "Buddy Burgers.",
+            "Highlights",
+            "Value",
+            "Deals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays an image of several burgers.",
+        "sentence_cn": "- 显示多个汉堡的图像。",
+        "words": [
+            "burgers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Advertises \"Buddy Burgers from just $1.75.\"",
+        "sentence_cn": "- 广告称“Buddy Burgers 仅售 1.75 美元。”",
+        "words": [
+            "Buddy Burgers from just $1.75.",
+            "Advertises",
+            "1.75"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The background color is dark with white text and the slogan \"Burger Bliss\" at the bottom.",
+        "sentence_cn": "- 背景颜色为深色，配有白色文字，底部有口号“Burger Bliss”。",
+        "words": [
+            "Burger Bliss",
+            "background",
+            "color",
+            "text",
+            "slogan",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right Panel:",
+        "sentence_cn": "3. 右侧面板：",
+        "words": [
+            "Right Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Contains a list of coupons for various items such as:",
+        "sentence_cn": "- 包含各种商品的优惠券列表，例如：",
+        "words": [
+            "list",
+            "coupons",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Teen Burger, Mozza Burger, Teen Combo, Uncle Burger, Mama Burger, Bacon N' Egger, Sausage N' Egger, and Classic Breakfast.",
+        "sentence_cn": "- 青少年汉堡、Mozza 汉堡、青少年套餐、叔叔汉堡、妈妈汉堡、培根蛋、香肠蛋和经典早餐。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Each coupon shows the product image, price offer, and possibly expiration dates or terms.",
+        "sentence_cn": "- 每张优惠券都显示产品图片、价格优惠以及可能的有效期或条款。",
+        "words": [
+            "coupon",
+            "product",
+            "price",
+            "offer",
+            "expiration",
+            "dates",
+            "terms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The panel features a mix of colors, predominantly orange and white, with the A&W logo on each coupon.",
+        "sentence_cn": "- 面板采用多种颜色，主要是橙色和白色，每张优惠券上都有 A&W 标志。",
+        "words": [
+            "panel",
+            "mix",
+            "colors",
+            "orange",
+            "white",
+            "logo",
+            "coupon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design aims to promote value deals and discounts for a variety of A&W's menu items.",
+        "sentence_cn": "整体设计旨在推广 A&W 各种菜单项目的超值优惠和折扣。",
+        "words": [
+            "design",
+            "value",
+            "deals",
+            "discounts",
+            "variety",
+            "menu",
+            "items"
+        ],
+        "id": null
+    }
+]

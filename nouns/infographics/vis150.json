@@ -1,0 +1,384 @@
+[
+    {
+        "sentence": "The image is an infographic presenting data from the \"2012 Labor Day Survey\" by Mom Corps.",
+        "sentence_cn": "该图是 Mom Corps 的“2012 年劳动节调查”数据的信息图。",
+        "words": [
+            "2012 Labor Day Survey",
+            "data",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### General Layout:",
+        "sentence_cn": "### 总体布局：",
+        "words": [
+            "Layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The infographic uses a mix of graphics, numbers, and text to convey survey results.",
+        "sentence_cn": "- 信息图表结合使用图形、数字和文本来传达调查结果。",
+        "words": [
+            "mix",
+            "graphics",
+            "numbers",
+            "text",
+            "survey",
+            "results"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- It features icons and illustrations in purple, blue, green, and gray tones.",
+        "sentence_cn": "- 其图标和插图采用紫色、蓝色、绿色和灰色色调。",
+        "words": [
+            "icons",
+            "illustrations",
+            "purple",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Points and Statistics:",
+        "sentence_cn": "### 要点和统计数据：",
+        "words": [
+            "Points",
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Salary Flexibility:",
+        "sentence_cn": "1. 薪资灵活性：",
+        "words": [
+            "Salary Flexibility",
+            "Salary",
+            "Flexibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 45% of working adults are willing to give up some percentage of their salary for more work flexibility.",
+        "sentence_cn": "- 45% 的在职成年人愿意放弃一定比例的薪水，以换取更大的工作灵活性。",
+        "words": [
+            "45",
+            "adults",
+            "percentage",
+            "salary",
+            "work",
+            "flexibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- On average, adults are willing to relinquish 8.6% of their salary for flexibility, almost double the previous year's 5.8%.",
+        "sentence_cn": "- 平均而言，成年人愿意放弃 8.6% 的薪水来换取灵活性，几乎是去年 5.8% 的两倍。",
+        "words": [
+            "adults",
+            "8.6",
+            "salary",
+            "flexibility",
+            "year",
+            "5.8",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The 18-34 age group is willing to give up 13.9%.",
+        "sentence_cn": "- 18-34岁年龄段人群愿意放弃13.9%。",
+        "words": [
+            "18",
+            "34",
+            "age",
+            "group",
+            "13.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Work-Life Balance:",
+        "sentence_cn": "2. 工作与生活的平衡：",
+        "words": [
+            "Work-Life Balance",
+            "",
+            "Work",
+            "Life",
+            "Balance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 67% of working adults believe you can successfully balance work and life.",
+        "sentence_cn": "- 67% 的在职成年人相信可以成功平衡工作和生活。",
+        "words": [
+            "67",
+            "adults",
+            "work",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - This belief is held by 68% of women and 66% of men.",
+        "sentence_cn": "- 68% 的女性和 66% 的男性持有这种观点。",
+        "words": [
+            "belief",
+            "68",
+            "women",
+            "66",
+            "%",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Job Flexibility Importance:",
+        "sentence_cn": "3. 工作灵活性的重要性：",
+        "words": [
+            "Job Flexibility Importance",
+            "Job",
+            "Flexibility",
+            "Importance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A pie chart indicates that flexibility is a key factor for job seekers.",
+        "sentence_cn": "- 饼图表明灵活性是求职者的一个关键因素。",
+        "words": [
+            "pie",
+            "chart",
+            "flexibility",
+            "factor",
+            "job",
+            "seekers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 61% strongly agree or somewhat agree on the importance of flexibility.",
+        "sentence_cn": "- 61％的人非常同意或有点同意灵活性的重要性。",
+        "words": [
+            "61",
+            "importance",
+            "flexibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 20% strongly agree.",
+        "sentence_cn": "- 20% 非常同意。",
+        "words": [
+            "20"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Remote Work:",
+        "sentence_cn": "4. 远程工作：",
+        "words": [
+            "Remote Work",
+            "Work"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 53% of working adults think they would accomplish more if they could work from home occasionally.",
+        "sentence_cn": "- 53% 的在职成年人认为，如果能偶尔在家工作，他们的工作效率会更高。",
+        "words": [
+            "53",
+            "adults",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Nearly two-thirds (62%) of this belief is held by the 18-34 age group.",
+        "sentence_cn": "- 近三分之二（62%）的人持有这种观点，他们都是18-34岁年龄组的人。",
+        "words": [
+            "two",
+            "thirds",
+            "62",
+            "belief",
+            "18",
+            "34",
+            "age",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Entrepreneurial Interests:",
+        "sentence_cn": "5. 创业兴趣：",
+        "words": [
+            "Entrepreneurial Interests",
+            "Interests"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 52% of adults are interested in starting their own business to achieve better work-life balance.",
+        "sentence_cn": "- 52%的成年人有兴趣创业，以实现更好的工作与生活的平衡。",
+        "words": [
+            "52",
+            "adults",
+            "business",
+            "work",
+            "life",
+            "balance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- This interest is particularly high (75%) among men aged 35-44.",
+        "sentence_cn": "- 35-44 岁男性的这一兴趣尤其高 (75%)。",
+        "words": [
+            "interest",
+            "75",
+            "men",
+            "35",
+            "44"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Visual Elements:",
+        "sentence_cn": "### 视觉元素：",
+        "words": [
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Icons: Include people, a percentage symbol, a hand with money, a house, an \"OPEN\" sign, and a person at a desk with a laptop.",
+        "sentence_cn": "- 图标：包括人物、百分比符号、拿着钱的手、房子、“OPEN”标志和坐在桌前拿着笔记本电脑的人。",
+        "words": [
+            "Icons",
+            "OPEN",
+            "Icons",
+            "people",
+            "percentage",
+            "symbol",
+            "hand",
+            "money",
+            "house",
+            "sign",
+            "person",
+            "desk",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Graphics: Use of a dollar bag for salary, a heart symbol for work-life balance, and a pie chart for job flexibility.",
+        "sentence_cn": "- 图形：使用美元袋表示工资、心形符号表示工作与生活的平衡、饼图表示工作灵活性。",
+        "words": [
+            "Graphics",
+            "Graphics",
+            "Use",
+            "dollar",
+            "bag",
+            "salary",
+            "heart",
+            "symbol",
+            "work",
+            "life",
+            "balance",
+            "pie",
+            "chart",
+            "job",
+            "flexibility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Color Coding: Purple, blue, and green are used to highlight different statistics and text.",
+        "sentence_cn": "- 颜色编码：紫色、蓝色和绿色用于突出显示不同的统计数据和文本。",
+        "words": [
+            "Color Coding",
+            "Color",
+            "Coding",
+            "Purple",
+            "blue",
+            "green",
+            "statistics",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Information:",
+        "sentence_cn": "＃＃＃ 附加信息：",
+        "words": [
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The survey was conducted by Harris Interactive.",
+        "sentence_cn": "- 该调查由 Harris Interactive 进行。",
+        "words": [
+            "survey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The website www.momcorps.com is mentioned for further information.",
+        "sentence_cn": "- 请访问网站 www.momcorps.com 以获取更多信息。",
+        "words": [
+            "website",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This visual representation combines statistics and graphic elements to efficiently communicate survey findings on work flexibility, balance, and entrepreneurial interest.",
+        "sentence_cn": "这种视觉表现方式结合了统计数据和图形元素，有效地传达了有关工作灵活性、平衡性和创业兴趣的调查结果。",
+        "words": [
+            "representation",
+            "statistics",
+            "elements",
+            "survey",
+            "findings",
+            "work",
+            "flexibility",
+            "balance",
+            "interest"
+        ],
+        "id": null
+    }
+]

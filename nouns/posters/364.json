@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Ace Ventura: When Nature Calls.\"",
+        "sentence_cn": "图片是《艾斯·文图拉：自然召唤》的电影海报。",
+        "words": [
+            "Ace Ventura: When Nature Calls.",
+            "movie",
+            "poster",
+            "Nature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a man in a playful pose, standing with one hand raised and the other holding a card.",
+        "sentence_cn": "画中的男人摆出一副顽皮的姿势，一只手举起，另一只手拿着一张卡片。",
+        "words": [
+            "man",
+            "pose",
+            "one",
+            "hand",
+            "card"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a blue floral shirt over a white T-shirt, and bright yellow and black striped pants with a large belt.",
+        "sentence_cn": "他身穿蓝色花衬衫，里面是白色 T 恤，下身穿亮黄色和黑色条纹裤子，系着一条大腰带。",
+        "words": [
+            "shirt",
+            "T",
+            "shirt",
+            "pants",
+            "belt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background consists of jungle foliage with silhouettes of palm trees and a bright sky.",
+        "sentence_cn": "背景由丛林树叶、棕榈树轮廓和明亮的天空组成。",
+        "words": [
+            "background",
+            "jungle",
+            "foliage",
+            "silhouettes",
+            "palm",
+            "trees",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, we see two large crocodiles emerging from water with open mouths, adding a sense of adventure and danger.",
+        "sentence_cn": "在前景中，我们看到两只大鳄鱼张着嘴从水中冒出来，增添了一种冒险和危险的感觉。",
+        "words": [
+            "foreground",
+            "two",
+            "crocodiles",
+            "water",
+            "mouths",
+            "sense",
+            "adventure",
+            "danger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"ACE VENTURA: WHEN NATURE CALLS\" is prominently displayed in bold red and yellow letters.",
+        "sentence_cn": "标题“艾斯·文图拉：当自然召唤”以粗体红色和黄色字母突出显示。",
+        "words": [
+            "ACE VENTURA: WHEN NATURE CALLS",
+            "title",
+            "NATURE",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the title is the name \"Jim Carrey\" in large red letters.",
+        "sentence_cn": "标题上方是用大红色字母写着的名字“Jim Carrey”。",
+        "words": [
+            "Jim Carrey",
+            "title",
+            "name",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, the text reads \"NEW ANIMALS.",
+        "sentence_cn": "左侧的文字写着“新动物。",
+        "words": [
+            "text",
+            "ANIMALS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "NEW ADVENTURES.",
+        "sentence_cn": "新的冒险。",
+        "words": [
+            "ADVENTURES"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "SAME HAIR.\"",
+        "sentence_cn": "同样的头发。”",
+        "words": [
+            "HAIR"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster suggests a comedic and adventurous film.",
+        "sentence_cn": "海报整体色调暗示这是一部喜剧、冒险的电影。",
+        "words": [
+            "tone",
+            "poster",
+            "film"
+        ],
+        "id": null
+    }
+]

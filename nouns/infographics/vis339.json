@@ -1,0 +1,392 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"It's the End of the World as They Know It,\" exploring beliefs about the end of civilization.",
+        "sentence_cn": "该图是一张信息图表，题为“这是他们所知的世界的末日”，探讨了关于文明终结的信仰。",
+        "words": [
+            "It's the End of the World as They Know It,",
+            "End",
+            "World",
+            "beliefs",
+            "end",
+            "civilization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes various statistics and visuals, highlighting public opinion on potential doomsday scenarios.",
+        "sentence_cn": "它包括各种统计数据和视觉效果，强调了公众对潜在世界末日情景的看法。",
+        "words": [
+            "statistics",
+            "visuals",
+            "opinion",
+            "doomsday",
+            "scenarios"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Sections:",
+        "sentence_cn": "### 部分：",
+        "words": [
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Apocalypse Soon?",
+        "sentence_cn": "1. 世界末日即将来临？",
+        "words": [
+            "Apocalypse Soon?"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Survey Result: One in seven citizens globally believes the world will end during their lifetime.",
+        "sentence_cn": "- 调查结果：全球七分之一的公民认为世界将在他们有生之年毁灭。",
+        "words": [
+            "Survey Result:",
+            "Survey",
+            "Result",
+            "One",
+            "seven",
+            "citizens",
+            "world",
+            "lifetime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Strongest Believers by Country:",
+        "sentence_cn": "- 按国家划分的最坚定信徒：",
+        "words": [
+            "Strongest Believers by Country:",
+            "Believers",
+            "Country"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Turkey: 22%",
+        "sentence_cn": "- 土耳其：22％",
+        "words": [
+            "Turkey",
+            "22"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - United States: 22%",
+        "sentence_cn": "- 美国：22％",
+        "words": [
+            "United",
+            "States",
+            "22"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - South Africa: 19%",
+        "sentence_cn": "- 南非：19％",
+        "words": [
+            "South",
+            "Africa",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Argentina: 19%",
+        "sentence_cn": "- 阿根廷：19％",
+        "words": [
+            "Argentina",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Mexico: 19%",
+        "sentence_cn": "- 墨西哥：19％",
+        "words": [
+            "Mexico",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Although many surveyed don't buy Mayan prophecies, one in ten believes the end will come in 2012.",
+        "sentence_cn": "- 尽管许多受访者不相信玛雅人的预言，但有十分之一的人相信世界末日将在 2012 年到来。",
+        "words": [
+            "prophecies",
+            "one",
+            "ten",
+            "end",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Belief Demographics:",
+        "sentence_cn": "2. 信仰人口统计：",
+        "words": [
+            "Belief Demographics:",
+            "Belief",
+            "Demographics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Age:",
+        "sentence_cn": "- 年龄：",
+        "words": [
+            "Age:",
+            "Age"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Under 35: 19% believe",
+        "sentence_cn": "- 35 岁以下：19％ 认为",
+        "words": [
+            "35",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 35 to 49: 13%",
+        "sentence_cn": "35 至 49 岁：13%",
+        "words": [
+            "35",
+            "49",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 50 to 64: 9%",
+        "sentence_cn": "50 至 64 岁：9%",
+        "words": [
+            "50",
+            "64",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Household Income:",
+        "sentence_cn": "- 家庭收入：",
+        "words": [
+            "Household Income:",
+            "Household",
+            "Income"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Low: 17%",
+        "sentence_cn": "低：17％",
+        "words": [
+            "17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Medium: 14%",
+        "sentence_cn": "中等：14％",
+        "words": [
+            "Medium",
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - High: 13%",
+        "sentence_cn": "- 高：13％",
+        "words": [
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Education Level:",
+        "sentence_cn": "-教育程度：",
+        "words": [
+            "Education Level:",
+            "Education",
+            "Level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Low: 16%",
+        "sentence_cn": "低：16％",
+        "words": [
+            "16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Medium: 14%",
+        "sentence_cn": "中等：14％",
+        "words": [
+            "Medium",
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - High: 13%",
+        "sentence_cn": "- 高：13％",
+        "words": [
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Doomsday Predictions:",
+        "sentence_cn": "3. 世界末日预言：",
+        "words": [
+            "Doomsday Predictions:",
+            "Doomsday",
+            "Predictions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Possible Catastrophes in the U.S.:",
+        "sentence_cn": "- 美国可能发生的灾难：",
+        "words": [
+            "Possible Catastrophes in the U.S.:",
+            "Catastrophes",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Major Earthquake: 64%",
+        "sentence_cn": "- 大地震：64%",
+        "words": [
+            "Earthquake",
+            "64"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Major Hurricane: 63%",
+        "sentence_cn": "- 大型飓风：63%",
+        "words": [
+            "63"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Terrorist Attack: 55%",
+        "sentence_cn": "- 恐怖袭击：55％",
+        "words": [
+            "Terrorist",
+            "Attack",
+            "55"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Financial Collapse: 51%",
+        "sentence_cn": "- 金融崩溃：51％",
+        "words": [
+            "Collapse",
+            "51"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Significant Blackout: 37%",
+        "sentence_cn": "- 严重停电：37%",
+        "words": [
+            "Blackout",
+            "37"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Pandemic/Super-virus: 29%",
+        "sentence_cn": "- 流行病/超级病毒：29%",
+        "words": [
+            "Pandemic",
+            "Super",
+            "-",
+            "virus",
+            "29"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Nuclear Fallout: 14%",
+        "sentence_cn": "- 核辐射：14%",
+        "words": [
+            "Fallout",
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Investment Preferences:",
+        "sentence_cn": "4. 投资偏好：",
+        "words": [
+            "Investment Preferences:",
+            "Investment",
+            "Preferences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 59% think saving for retirement is smarter.",
+        "sentence_cn": "- 59% 的人认为为退休储蓄更为明智。",
+        "words": [
+            "59",
+            "retirement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 41% prefer preparing for a catastrophe.",
+        "sentence_cn": "- 41％的人倾向于为灾难做好准备。",
+        "words": [
+            "41",
+            "catastrophe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Source",
+        "sentence_cn": "＃＃＃ 来源",
+        "words": [
+            "Source"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ipsos Global Public Affairs",
+        "sentence_cn": "- 益普索全球公共事务部",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- National Geographic/Kelton Research",
+        "sentence_cn": "- 国家地理/凯尔顿研究",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the infographic presents a snapshot of global anxieties and demographic differences regarding the potential for an apocalypse and related societal impacts.",
+        "sentence_cn": "总体而言，该信息图简要展现了全球对于世界末日的可能性及其相关社会影响的焦虑和人口差异。",
+        "words": [
+            "snapshot",
+            "anxieties",
+            "differences",
+            "potential",
+            "apocalypse",
+            "impacts"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image is a DVD cover for \"Ellen: The Complete Season One.\"",
+        "sentence_cn": "图片是《艾伦秀：第一季完整版》的 DVD 封面。",
+        "words": [
+            "Ellen: The Complete Season One.",
+            "DVD",
+            "cover",
+            "One"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is predominantly orange with a design featuring silhouettes of people.",
+        "sentence_cn": "背景主要为橙色，并带有人物轮廓的设计。",
+        "words": [
+            "background",
+            "design",
+            "silhouettes",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the title \"ellen\" is prominently displayed in large purple letters with a slight tilt.",
+        "sentence_cn": "在顶部，标题“ellen”以略微倾斜的紫色大字母突出显示。",
+        "words": [
+            "ellen",
+            "top",
+            "title",
+            "letters",
+            "tilt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below it, a blue rectangular box contains the text \"The ground-breaking hit sitcom!\" indicating the show's impact.",
+        "sentence_cn": "在其下方，蓝色矩形框内写着“开创性的热门情景喜剧！”，表明该剧的影响力。",
+        "words": [
+            "The ground-breaking hit sitcom!",
+            "box",
+            "text",
+            "ground",
+            "hit",
+            "sitcom",
+            "show",
+            "impact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's a large, smiling image of a person with short, light brown hair wearing a white shirt and a light-colored jacket.",
+        "sentence_cn": "右边是一张大大的微笑的图像，一个人留着浅棕色的短发，身穿白衬衫和浅色夹克。",
+        "words": [
+            "right",
+            "person",
+            "hair",
+            "shirt",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, a group of five people is sitting together, smiling and casually dressed.",
+        "sentence_cn": "左侧，五人坐在一起，面带微笑，身着休闲服装。",
+        "words": [
+            "group",
+            "five",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the middle left, there's a quote that reads, \"Funniest Person in America\" attributed to Showtime, highlighting the person's comedic appeal.",
+        "sentence_cn": "靠近中间左侧的地方有一句引语：“美国最有趣的人”，出自 Showtime，凸显了此人的喜剧魅力。",
+        "words": [
+            "Funniest Person in America",
+            "left",
+            "quote",
+            "Person",
+            "person",
+            "appeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom part of the cover shows the text \"the complete season one\" in white letters against a purple strip, alongside the A&E and DVD video logos.",
+        "sentence_cn": "封面底部以紫色条纹为背景，用白色字母显示“第一季完整版”字样，旁边还有 A&E 和 DVD 视频标志。",
+        "words": [
+            "the complete season one",
+            "part",
+            "cover",
+            "text",
+            "one",
+            "letters",
+            "strip",
+            "video",
+            "logos"
+        ],
+        "id": null
+    }
+]

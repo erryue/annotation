@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image shows a white plate with a meal artfully arranged.",
+        "sentence_cn": "图中所示的白色盘子里摆放着精心摆放的菜肴。",
+        "words": [
+            "plate",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a piece of grilled fish, possibly salmon, topped with a slice of lemon, which is garnished with a lemon twist.",
+        "sentence_cn": "中间有一块烤鱼，可能是鲑鱼，上面放着一片柠檬，柠檬片上还装饰有柠檬片。",
+        "words": [
+            "center",
+            "piece",
+            "fish",
+            "salmon",
+            "slice",
+            "lemon",
+            "lemon",
+            "twist"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The fish is arranged with precision, showing a slightly glazed surface.",
+        "sentence_cn": "鱼的排列很精准，表面略带釉质。",
+        "words": [
+            "fish",
+            "precision",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the fish are small boiled potatoes sprinkled with parsley and florets of vibrant green broccoli, creating an attractive and balanced presentation.",
+        "sentence_cn": "鱼的周围是煮熟的小土豆，上面撒了欧芹和鲜绿色的西兰花小花，形成了诱人且均衡的形象。",
+        "words": [
+            "fish",
+            "potatoes",
+            "parsley",
+            "florets",
+            "broccoli",
+            "presentation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vegetables appear fresh and are evenly spaced around the fish, contributing to a visually appealing dish.",
+        "sentence_cn": "蔬菜看起来很新鲜，并且均匀地分布在鱼的周围，使菜肴看起来非常诱人。",
+        "words": [
+            "vegetables",
+            "fish",
+            "dish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall look is neat, with a focus on natural colors and simple garnishing.",
+        "sentence_cn": "整体外观整洁，注重自然色彩和简单的装饰。",
+        "words": [
+            "look",
+            "focus",
+            "colors",
+            "garnishing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a fork is placed to the left of the plate, set on a yellow tablecloth, completing the elegant dining setup.",
+        "sentence_cn": "在背景中，一把叉子放在盘子的左边，盘子放在黄色的桌布上，完成了优雅的用餐布置。",
+        "words": [
+            "background",
+            "fork",
+            "plate",
+            "tablecloth",
+            "dining"
+        ],
+        "id": null
+    }
+]

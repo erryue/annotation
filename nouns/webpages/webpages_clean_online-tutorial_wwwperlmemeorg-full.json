@@ -1,0 +1,215 @@
+[
+    {
+        "sentence": "The image is a webpage screenshot from \"perlmeme.org,\" focusing on learning about the Perl programming language.",
+        "sentence_cn": "图片是“perlmeme.org”的网页截图，重点介绍Perl编程语言。",
+        "words": [
+            "perlmeme.org,",
+            "webpage",
+            "programming",
+            "language"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is simple and text-focused.",
+        "sentence_cn": "设计简单且以文本为中心。",
+        "words": [
+            "design",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Header",
+        "sentence_cn": "### 标题",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The title \"perlmeme.org\" is prominently displayed at the top in a large, blue gradient font.",
+        "sentence_cn": "- 标题“perlmeme.org”以较大的蓝色渐变字体显著地显示在顶部。",
+        "words": [
+            "perlmeme.org",
+            "title",
+            "top",
+            "gradient",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Navigation Links",
+        "sentence_cn": "### 导航链接",
+        "words": [
+            "Navigation",
+            "Links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the very top, there are navigation links: Start Here, FAQs, HOWTOs, TUTORIALs, Most Recent, Miscellaneous, Site map, and Provide Feedback.",
+        "sentence_cn": "- 最顶部有导航链接：从这里开始、常见问题解答、操作方法、教程、最新、杂项、站点地图和提供反馈。",
+        "words": [
+            "top",
+            "navigation",
+            "links",
+            "FAQs",
+            "HOWTOs",
+            "TUTORIALs",
+            "Site",
+            "map",
+            "Feedback"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the top right, there is a Google Custom Search bar.",
+        "sentence_cn": "- 右上角有一个 Google 自定义搜索栏。",
+        "words": [
+            "right",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content",
+        "sentence_cn": "### 主要内容",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Introductory Text:",
+        "sentence_cn": "-介绍文字：",
+        "words": [
+            "Introductory Text:",
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The site introduces itself as a resource to learn about Perl, with the question \"Where can I learn about Perl?\"  ",
+        "sentence_cn": "- 该网站将自己介绍为学习 Perl 的资源，并提出问题“我在哪里可以学习 Perl？”",
+        "words": [
+            "Where can I learn about Perl?",
+            "site",
+            "resource",
+            "question"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - It mentions that the website is a collection of Frequently Asked Questions, \"How To\" documents, and tutorials about Perl.",
+        "sentence_cn": "- 其中提到该网站收集了有关 Perl 的常见问题、“操作方法”文档和教程。",
+        "words": [
+            "How To",
+            "website",
+            "collection",
+            "documents",
+            "tutorials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Content Details:",
+        "sentence_cn": "- 内容详情：",
+        "words": [
+            "Content Details:",
+            "Content",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The documents available on the site cater to different expertise levels, from beginner to advanced topics.",
+        "sentence_cn": "- 网站上提供的文档适合不同的专业水平，从初学者到高级主题。",
+        "words": [
+            "documents",
+            "site",
+            "expertise",
+            "levels",
+            "beginner",
+            "topics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - It¡¯s suggested as a good resource for both those new to Perl and programming in general, offering in-depth material.",
+        "sentence_cn": "- 它被认为是 Perl 和编程新手的良好资源，提供深入的材料。",
+        "words": [
+            "resource",
+            "programming",
+            "depth",
+            "material"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Bottom Links",
+        "sentence_cn": "### 底部链接",
+        "words": [
+            "Links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Near the bottom, larger links are displayed for main sections: Start Here, FAQs, HOWTOs, and Tutorials.",
+        "sentence_cn": "- 靠近底部，显示主要部分的较大链接：从这里开始、常见问题解答、操作方法和教程。",
+        "words": [
+            "bottom",
+            "links",
+            "sections",
+            "FAQs",
+            "HOWTOs",
+            "Tutorials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The font used here is similar to the main title, featuring a blue gradient.",
+        "sentence_cn": "这里使用的字体与主标题类似，具有蓝色渐变。",
+        "words": [
+            "font",
+            "title",
+            "gradient"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall layout is straightforward, with a focus on providing educational resources on Perl.",
+        "sentence_cn": "整体布局简单，重点提供有关 Perl 的教育资源。",
+        "words": [
+            "layout",
+            "focus",
+            "resources"
+        ],
+        "id": null
+    }
+]

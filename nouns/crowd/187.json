@@ -1,0 +1,62 @@
+[
+    {
+        "sentence": "The image depicts three people in a professional setting, possibly a business meeting or discussion.",
+        "sentence_cn": "该图描绘了三个人处于专业环境中，可能是在参加商务会议或讨论。",
+        "words": [
+            "three",
+            "people",
+            "business",
+            "meeting",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An older man, wearing a dark suit with a white shirt and a yellow tie, is smiling and pointing at a paper held by another person.",
+        "sentence_cn": "一位穿着深色西装、白色衬衫和黄色领带的老年男子正微笑着指着另一个人手里的一张纸。",
+        "words": [
+            "man",
+            "suit",
+            "shirt",
+            "tie",
+            "paper",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This person, seated on the right, is wearing a light-colored blazer, and appears to be holding the document.",
+        "sentence_cn": "该人坐在右边，身穿浅色西装外套，似乎手里拿着文件。",
+        "words": [
+            "person",
+            "right",
+            "blazer",
+            "document"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A third person, a woman in a white textured blazer and a patterned dress, sits to the left, looking on and smiling.",
+        "sentence_cn": "第三个人是一位身穿白色纹理外套和图案连衣裙的女性，她坐在左边，一边看着一边微笑。",
+        "words": [
+            "person",
+            "woman",
+            "blazer",
+            "dress",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are seated around small round tables in a modern, minimalistic office space with neutral-colored walls and furniture.",
+        "sentence_cn": "他们坐在现代简约的办公空间里的小圆桌旁，办公室的墙壁和家具都是中性色调。",
+        "words": [
+            "tables",
+            "office",
+            "space",
+            "walls",
+            "furniture"
+        ],
+        "id": null
+    }
+]

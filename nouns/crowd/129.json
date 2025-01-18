@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image shows a social gathering in a warmly lit bar or lounge.",
+        "sentence_cn": "图像显示了在灯光温暖的酒吧或休息室里举行的社交聚会。",
+        "words": [
+            "gathering",
+            "bar",
+            "lounge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a woman with long hair is holding a drink with an orange slice.",
+        "sentence_cn": "前景中，一位长发女子手捧一杯带有橙片的饮料。",
+        "words": [
+            "foreground",
+            "woman",
+            "hair",
+            "drink",
+            "orange",
+            "slice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is speaking with a man dressed in a suit, who is also holding a drink.",
+        "sentence_cn": "她正与一名身着西装的男子交谈，该男子也手里拿着一杯饮料。",
+        "words": [
+            "man",
+            "suit",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both appear engaged in conversation.",
+        "sentence_cn": "两人似乎都在交谈。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, several other people are mingling and enjoying drinks.",
+        "sentence_cn": "背景中，其他几个人正在交谈和享用饮料。",
+        "words": [
+            "background",
+            "people",
+            "drinks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are casually dressed; one man is wearing a baseball cap and a navy shirt, and others are in light-colored clothing.",
+        "sentence_cn": "他们穿着随意，一名男子戴着棒球帽，身穿海军蓝衬衫，其他人则穿着浅色衣服。",
+        "words": [
+            "one",
+            "man",
+            "baseball",
+            "cap",
+            "shirt",
+            "others",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bar area behind them features hanging pendant lights, with colorful abstract artwork and butterfly paintings on the walls.",
+        "sentence_cn": "他们身后的酒吧区悬挂着吊灯，墙上挂着色彩缤纷的抽象艺术品和蝴蝶画。",
+        "words": [
+            "bar",
+            "area",
+            "pendant",
+            "lights",
+            "artwork",
+            "butterfly",
+            "paintings",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A woman behind the bar is visible, possibly the bartender.",
+        "sentence_cn": "我们可以看到吧台后面有一位女人，可能是酒保。",
+        "words": [
+            "woman",
+            "bar",
+            "bartender"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems relaxed and cordial.",
+        "sentence_cn": "气氛显得轻松而亲切。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

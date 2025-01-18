@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Blues Brothers 2000.\"",
+        "sentence_cn": "图片是《福禄双霸天2000》的电影海报。",
+        "words": [
+            "Blues Brothers 2000.",
+            "movie",
+            "poster",
+            "2000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features four men dressed in dark suits, white shirts, dark ties, and wearing sunglasses and black hats.",
+        "sentence_cn": "照片上有四个男子身着深色西装、白衬衫、深色领带，戴着墨镜和黑帽子。",
+        "words": [
+            "four",
+            "men",
+            "suits",
+            "shirts",
+            "ties",
+            "sunglasses",
+            "hats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are striking confident poses against a backdrop of a lattice structure, likely a bridge or tower, which adds to the urban feel.",
+        "sentence_cn": "他们在桥梁或塔楼等格子结构的背景前摆出自信的姿势，这更增添了都市感。",
+        "words": [
+            "poses",
+            "backdrop",
+            "lattice",
+            "structure",
+            "bridge",
+            "tower",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top right, the names \"Dan Aykroyd\" and \"John Goodman\" are prominently displayed in blue text.",
+        "sentence_cn": "右上角，“Dan Aykroyd”和“John Goodman”的名字以蓝色文字突出显示。",
+        "words": [
+            "Dan Aykroyd",
+            "John Goodman",
+            "right",
+            "names",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Blues Brothers 2000\" is in bold white and blue text at the bottom center, with the tagline \"The Blues Are Back\" below it.",
+        "sentence_cn": "标题“Blues Brothers 2000”以粗体白色和蓝色字体显示在底部中央，下方是标语“The Blues Are Back”。",
+        "words": [
+            "Blues Brothers 2000",
+            "The Blues Are Back",
+            "title",
+            "2000",
+            "text",
+            "center",
+            "tagline",
+            "Blues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional credits and information about the movie, including the cast, crew, and production details, are listed at the bottom.",
+        "sentence_cn": "底部列出了电影的其他演职员名单和信息，包括演员、剧组人员和制作细节。",
+        "words": [
+            "credits",
+            "information",
+            "movie",
+            "cast",
+            "crew",
+            "production",
+            "details",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film was released by Universal Pictures and is rated PG-13.",
+        "sentence_cn": "这部电影由环球影业发行，评级为 PG-13。",
+        "words": [
+            "film",
+            "PG-13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website \"www.blues-brothers-2000.com\" is also mentioned at the bottom right.",
+        "sentence_cn": "右下角还提到了网站“www.blues-brothers-2000.com”。",
+        "words": [
+            "www.blues-brothers-2000.com",
+            "website",
+            "right"
+        ],
+        "id": null
+    }
+]

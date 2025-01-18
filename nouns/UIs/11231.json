@@ -1,0 +1,153 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile application interface for a food delivery service called \"Talabat.com.\"",
+        "sentence_cn": "图片是一家名为“Talabat.com”的送餐服务的移动应用程序界面的截图。",
+        "words": [
+            "Talabat.com.",
+            "application",
+            "interface",
+            "food",
+            "delivery",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface is designed for users in the UAE to order food online from top restaurants.",
+        "sentence_cn": "该界面专为阿联酋用户从顶级餐厅在线订餐而设计。",
+        "words": [
+            "interface",
+            "users",
+            "UAE",
+            "food",
+            "restaurants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key elements include:",
+        "sentence_cn": "关键要素包括：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: At the top is an orange bar with a menu icon on the left and a UAE flag icon on the right, indicating localization settings.",
+        "sentence_cn": "- 标题：顶部是一个橙色条，左侧有一个菜单图标，右侧有一个阿联酋国旗图标，表示本地化设置。",
+        "words": [
+            "Header",
+            "Header",
+            "top",
+            "orange",
+            "bar",
+            "menu",
+            "icon",
+            "left",
+            "UAE",
+            "flag",
+            "icon",
+            "right",
+            "localization",
+            "settings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title and Subtitle: The brand name \"Talabat.com\" is written in orange and white text, with the tagline \"Order Food Online From The Top Restaurants in UAE\" underneath.",
+        "sentence_cn": "- 标题和副标题：品牌名称“Talabat.com”以橙色和白色文字书写，下方是标语“从阿联酋顶级餐厅在线订购食物”。",
+        "words": [
+            "Title and Subtitle",
+            "Talabat.com",
+            "Order Food Online From The Top Restaurants in UAE",
+            "Title",
+            "Subtitle",
+            "brand",
+            "name",
+            "orange",
+            "text",
+            "tagline",
+            "Food",
+            "Restaurants",
+            "UAE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Selection Options: There are dropdown menus for users to select their city, area, and cuisine type.",
+        "sentence_cn": "- 选择选项：有下拉菜单供用户选择他们的城市、地区和菜系类型。",
+        "words": [
+            "Selection Options",
+            "Selection",
+            "Options",
+            "dropdown",
+            "menus",
+            "users",
+            "city",
+            "area",
+            "cuisine",
+            "type"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Find Restaurants Button: A prominent green button labeled \"FIND RESTAURANTS\" for searching based on selected criteria.",
+        "sentence_cn": "- 查找餐厅按钮：一个显眼的绿色按钮，标有“查找餐厅”，用于根据选定的条件进行搜索。",
+        "words": [
+            "Find Restaurants Button",
+            "FIND RESTAURANTS",
+            "Restaurants",
+            "Button",
+            "button",
+            "RESTAURANTS",
+            "criteria"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Payment Options: Icons for cash, Visa, and MasterCard are displayed, indicating accepted payment methods.",
+        "sentence_cn": "- 付款选项：显示现金、Visa 和 MasterCard 图标，表示接受的付款方式。",
+        "words": [
+            "Payment Options",
+            "Payment",
+            "Options",
+            "Icons",
+            "cash",
+            "payment",
+            "methods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Login Button: A \"LOGIN\" button is overlaid on an image of a dish, suggesting the interface's culinary theme.",
+        "sentence_cn": "- 登录按钮：“登录”按钮叠加在菜肴图片上，暗示界面的烹饪主题。",
+        "words": [
+            "Login Button",
+            "LOGIN",
+            "Login",
+            "Button",
+            "LOGIN",
+            "button",
+            "dish",
+            "interface",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, the top status bar displays various icons, such as battery status, network signal, and app notifications.",
+        "sentence_cn": "此外，顶部状态栏显示各种图标，例如电池状态、网络信号和应用程序通知。",
+        "words": [
+            "status",
+            "bar",
+            "icons",
+            "battery",
+            "status",
+            "network",
+            "signal",
+            "app",
+            "notifications"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "sentence": "The image is an infographic about gaming habits, specifically focusing on console gamers using tablets and smartphones in the US and Western Europe.",
+        "sentence_cn": "该图是一张关于游戏习惯的信息图，特别关注美国和西欧使用平板电脑和智能手机的游戏机玩家。",
+        "words": [
+            "gaming",
+            "habits",
+            "console",
+            "gamers",
+            "tablets",
+            "smartphones",
+            "US",
+            "Western",
+            "Europe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the top, it states, \"60,000,000+ Console Gamers use a Tablet\" with a note indicating this data is for the US and Western Europe, including countries like the UK, Germany, France, Netherlands, and Belgium.",
+        "sentence_cn": "- 顶部显示“60,000,000+ 名游戏机玩家使用平板电脑”，并附有注释，表明该数据来自美国和西欧，包括英国、德国、法国、荷兰和比利时等国家。",
+        "words": [
+            "60,000,000+ Console Gamers use a Tablet",
+            "top",
+            "60,000,000",
+            "Console",
+            "Gamers",
+            "note",
+            "data",
+            "US",
+            "Western",
+            "Europe",
+            "countries",
+            "UK",
+            "Germany",
+            "France",
+            "Netherlands",
+            "Belgium"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A large, gray, humanoid figure is holding a tablet, displaying the text, \"this is 33% of all console gamers.\"",
+        "sentence_cn": "- 一个巨大的灰色人形手持一台平板电脑，平板电脑上显示文字“这是所有游戏机玩家的 33%。”",
+        "words": [
+            "this is 33% of all console gamers.",
+            "figure",
+            "tablet",
+            "text",
+            "33",
+            "console",
+            "gamers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- To the left of the figure, there's an icon of a green game controller with a plus sign.",
+        "sentence_cn": "- 在图的左侧，有一个带有加号的绿色游戏控制器图标。",
+        "words": [
+            "left",
+            "figure",
+            "icon",
+            "game",
+            "controller",
+            "plus",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A small rectangular block at the figure's side represents a smartphone.",
+        "sentence_cn": "- 人物侧面的小矩形块代表智能手机。",
+        "words": [
+            "block",
+            "figure",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below, there's more text stating, \"The uptake of tablets is having its impact on games, from a consumer as well as a business perspective.",
+        "sentence_cn": "- 下面还有更多文字说明，“无论从消费者角度还是商业角度来看，平板电脑的普及都对游戏产生了影响。",
+        "words": [
+            "text",
+            "uptake",
+            "tablets",
+            "impact",
+            "games",
+            "consumer",
+            "business",
+            "perspective"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Of the 60 million console gaming tablet users, 44% already plays games on that mobile screen.\"",
+        "sentence_cn": "在 6000 万游戏平板电脑用户中，44％ 已经在移动屏幕上玩游戏。”",
+        "words": [
+            "60",
+            "million",
+            "console",
+            "gaming",
+            "tablet",
+            "users",
+            "44",
+            "games",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Towards the bottom, bold text highlights that \"49% of console gamers plays games on their Smartphone.¡±",
+        "sentence_cn": "- 在页面底部，粗体文字强调“49% 的游戏机玩家在智能手机上玩游戏。”",
+        "words": [
+            "bottom",
+            "text",
+            "49",
+            "console",
+            "gamers",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design uses a monochrome color scheme with accents of green and red to emphasize certain elements.",
+        "sentence_cn": "该设计采用单色配色方案，并以绿色和红色作为点缀来强调某些元素。",
+        "words": [
+            "design",
+            "color",
+            "scheme",
+            "accents",
+            "green",
+            "red",
+            "elements"
+        ],
+        "id": null
+    }
+]

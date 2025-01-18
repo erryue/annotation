@@ -1,0 +1,179 @@
+[
+    {
+        "sentence": "The image depicts a cozy game room featuring several furniture pieces in a stylish, warm-toned setting.",
+        "sentence_cn": "图片描绘的是一间舒适的游戏室，里面有几件家具，环境时尚，色调温暖。",
+        "words": [
+            "game",
+            "room",
+            "furniture",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Pool Table: The foreground prominently displays a dark, intricately carved pool table with a rich red felt surface.",
+        "sentence_cn": "1. 台球桌：前景显著地展示了一张深色、精雕细琢的台球桌，桌面铺着深红色的毛毡。",
+        "words": [
+            "Pool Table",
+            "Pool",
+            "Table",
+            "foreground",
+            "pool",
+            "table",
+            "felt",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pool balls and cues are positioned on the table.",
+        "sentence_cn": "台球和球杆都摆放在桌子上。",
+        "words": [
+            "Pool",
+            "balls",
+            "cues",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Card Table:",
+        "sentence_cn": "2. 牌桌：",
+        "words": [
+            "Card Table",
+            "Card",
+            "Table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a round card table surrounded by four upholstered chairs with wheels, suggesting a space for playing cards or board games.",
+        "sentence_cn": "左边有一张圆形的牌桌，周围摆放着四张带轮子的软垫椅子，是打牌或玩棋盘游戏的空间。",
+        "words": [
+            "left",
+            "card",
+            "table",
+            "four",
+            "chairs",
+            "wheels",
+            "space",
+            "cards",
+            "board",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Fireplace: In the background, a stone fireplace adds a rustic touch.",
+        "sentence_cn": "3. 壁炉：在背景中，石制壁炉增添了质朴的气息。",
+        "words": [
+            "Fireplace",
+            "Fireplace",
+            "background",
+            "stone",
+            "fireplace",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes a wooden mantel with decorative items on top, such as small plants and picture frames.",
+        "sentence_cn": "它包括一个木制壁炉架，上面有装饰物品，例如小植物和相框。",
+        "words": [
+            "mantel",
+            "items",
+            "top",
+            "plants",
+            "picture",
+            "frames"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Seating Area: Near the fireplace, there is an armchair with a matching ottoman, upholstered in a colorful fabric pattern, positioned for relaxation.",
+        "sentence_cn": "4. 座位区：壁炉附近有一张扶手椅，配有相配的脚凳，上面覆盖着色彩鲜艳的布艺图案，适合放松身心。",
+        "words": [
+            "Seating Area",
+            "Seating",
+            "Area",
+            "fireplace",
+            "armchair",
+            "ottoman",
+            "fabric",
+            "pattern",
+            "relaxation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Staircase: To the right, a staircase with a wooden banister leads upwards, adding architectural interest to the room.",
+        "sentence_cn": "5. 楼梯：右边，带有木制栏杆的楼梯向上延伸，为房间增添了建筑趣味。",
+        "words": [
+            "Staircase",
+            "Staircase",
+            "right",
+            "staircase",
+            "banister",
+            "interest",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Lighting and Decor: The room is warmly lit with ceiling lights and a table lamp near the seating area.",
+        "sentence_cn": "6. 灯光和装饰：房间灯光温暖，配有天花板灯和座位区附近的台灯。",
+        "words": [
+            "Lighting and Decor",
+            "Lighting",
+            "Decor",
+            "room",
+            "ceiling",
+            "lights",
+            "table",
+            "lamp",
+            "seating",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Plants and artwork contribute to the cozy atmosphere.",
+        "sentence_cn": "植物和艺术品营造了舒适的氛围。",
+        "words": [
+            "Plants",
+            "artwork",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Walls and Flooring: The walls are painted in soft earth tones, and the floor is covered with a plaid-patterned carpet, enhancing the room's inviting feel.",
+        "sentence_cn": "7. 墙壁和地板：墙壁漆成柔和的土色调，地板上铺着格子图案的地毯，增强了房间的温馨感。",
+        "words": [
+            "Walls and Flooring",
+            "Walls",
+            "Flooring",
+            "walls",
+            "earth",
+            "tones",
+            "floor",
+            "plaid",
+            "carpet",
+            "room",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space combines elements of a game room with a comfortable and elegant design.",
+        "sentence_cn": "总体而言，该空间结合了游戏室的元素和舒适而优雅的设计。",
+        "words": [
+            "space",
+            "elements",
+            "game",
+            "room",
+            "design"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "The image shows a ceramic plate placed on a grassy surface.",
+        "sentence_cn": "图像显示，一个陶瓷盘放置在草地上。",
+        "words": [
+            "plate",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the plate, there is a unique heart-shaped potato positioned in the center.",
+        "sentence_cn": "盘子的中央，摆放着一颗独特的心形土豆。",
+        "words": [
+            "plate",
+            "heart",
+            "potato",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the potato is an orange carrot laying diagonally, and below it is a small piece of broccoli.",
+        "sentence_cn": "土豆的右边是一根斜放的橙色胡萝卜，下面是一小块西兰花。",
+        "words": [
+            "potato",
+            "orange",
+            "carrot",
+            "piece",
+            "broccoli"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the potato, there are three green peas lined up in a row.",
+        "sentence_cn": "土豆的左边，有三颗排列成一排的青豆。",
+        "words": [
+            "potato",
+            "three",
+            "peas",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate has a simple, earthy design with a brown and gray rim.",
+        "sentence_cn": "盘子的设计简洁朴实，边缘为棕色和灰色。",
+        "words": [
+            "plate",
+            "design",
+            "rim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition of the image creates a playful and visually appealing arrangement of vegetables.",
+        "sentence_cn": "图像的整体构图创造了一种有趣且具有视觉吸引力的蔬菜排列。",
+        "words": [
+            "composition",
+            "arrangement",
+            "vegetables"
+        ],
+        "id": null
+    }
+]

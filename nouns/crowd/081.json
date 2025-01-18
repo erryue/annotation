@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image shows a group of people enjoying a picnic in an outdoor setting, likely in a park.",
+        "sentence_cn": "照片中一群人在户外享受野餐，可能是在公园里。",
+        "words": [
+            "group",
+            "people",
+            "picnic",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several long picnic tables where people are seated, engaging in conversation.",
+        "sentence_cn": "有几张长长的野餐桌，人们坐在那里聊天。",
+        "words": [
+            "picnic",
+            "tables",
+            "people",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some individuals are wearing casual clothing such as jackets, hats, and sunglasses, indicating it might be a sunny day.",
+        "sentence_cn": "有些人穿着夹克、戴着帽子和太阳镜等休闲服装，这表明今天可能是个晴朗的日子。",
+        "words": [
+            "individuals",
+            "clothing",
+            "jackets",
+            "hats",
+            "sunglasses",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are trees and a fence, suggesting a recreational area.",
+        "sentence_cn": "背景中有树木和栅栏，表明这是一个休闲区。",
+        "words": [
+            "background",
+            "trees",
+            "fence",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the tables, there are various items such as cups, bottles, and food supplies, hinting at a relaxed gathering or celebration.",
+        "sentence_cn": "桌子上摆放着杯子、瓶子、食物等各种物品，暗示着一场轻松的聚会或庆祝活动。",
+        "words": [
+            "tables",
+            "items",
+            "cups",
+            "bottles",
+            "food",
+            "supplies",
+            "gathering",
+            "celebration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears friendly and social.",
+        "sentence_cn": "气氛显得友好而又社交。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "Four people are lying closely together, looking comfortable and relaxed, head to head on a pile of pillows.",
+        "sentence_cn": "四个人头靠头地躺在一堆枕头上，紧紧地靠在一起，看上去很舒服、很放松。",
+        "words": [
+            "Four",
+            "people",
+            "head",
+            "head",
+            "pile",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left has light hair and is smiling at the camera.",
+        "sentence_cn": "左边的女人有一头浅色头发，正对着镜头微笑。",
+        "words": [
+            "woman",
+            "left",
+            "hair",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man next to her is wearing a black tank top, lying on his back with a calm expression.",
+        "sentence_cn": "她身旁的男人身穿黑色背心，仰面躺着，表情平静。",
+        "words": [
+            "man",
+            "tank",
+            "top",
+            "back",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to him is a woman with blonde hair, eyes closed, looking content as she rests her head on his shoulder.",
+        "sentence_cn": "他旁边是一位金发女子，正闭着眼睛，将头靠在他的肩上，看上去心满意足。",
+        "words": [
+            "woman",
+            "hair",
+            "eyes",
+            "head",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man furthest right, in a yellow shirt, is nestled closely, with his eyes closed, appearing serene.",
+        "sentence_cn": "最右边的男子身穿黄色衬衫，紧紧依偎着，闭着眼睛，显得安详。",
+        "words": [
+            "man",
+            "shirt",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are surrounded by a variety of pillows, including a prominent red one.",
+        "sentence_cn": "它们周围摆放着各种各样的枕头，其中包括一个显眼的红色枕头。",
+        "words": [
+            "variety",
+            "pillows",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems cozy and intimate.",
+        "sentence_cn": "气氛显得舒适且亲密。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

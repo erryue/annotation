@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image is a poster for \"Pink Floyd The Wall,\" a film based on the concept album by Pink Floyd.",
+        "sentence_cn": "图片是《Pink Floyd The Wall》的海报，该电影根据平克·弗洛伊德的概念专辑改编。",
+        "words": [
+            "Pink Floyd The Wall,",
+            "poster",
+            "film",
+            "concept",
+            "album"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a haunting watercolor-style illustration of a face with an open mouth, giving an impression of a scream or shout.",
+        "sentence_cn": "该作品以令人难忘的水彩风格描绘了一张张嘴巴的脸，给人一种尖叫或喊叫的感觉。",
+        "words": [
+            "watercolor",
+            "style",
+            "illustration",
+            "face",
+            "mouth",
+            "impression",
+            "scream",
+            "shout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dominant colors are dark blues, blacks, and flesh tones, blending into a surreal and intense visual.",
+        "sentence_cn": "主要色彩是深蓝色、黑色和肤色，融合成超现实和强烈的视觉效果。",
+        "words": [
+            "colors",
+            "blues",
+            "blacks",
+            "flesh",
+            "tones",
+            "visual"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Pink Floyd The Wall\" is prominently written in white, stylized lettering across the middle of the poster.",
+        "sentence_cn": "海报中间用白色风格字体显眼地写着“Pink Floyd The Wall”。",
+        "words": [
+            "Pink Floyd The Wall",
+            "title",
+            "lettering",
+            "middle",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath it, other text credits Roger Waters and Gerald Scarfe for design, and notes involvement from Bob Geldof, among others.",
+        "sentence_cn": "下方的其他文字感谢了罗杰·沃特斯 (Roger Waters) 和杰拉尔德·斯卡夫 (Gerald Scarfe) 的设计，并提到了鲍勃·吉尔多夫 (Bob Geldof) 等人的参与。",
+        "words": [
+            "text",
+            "design",
+            "involvement",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It also includes a film rating of \"R.\"",
+        "sentence_cn": "它还包括电影评级“R”。",
+        "words": [
+            "R.",
+            "film",
+            "rating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design conveys a sense of emotional intensity and psychological depth, reflecting the themes of isolation and alienation explored in the music and film.",
+        "sentence_cn": "整体设计传达出一种情感强度和心理深度的感觉，反映了音乐和电影中探讨的孤立和疏离的主题。",
+        "words": [
+            "design",
+            "sense",
+            "intensity",
+            "depth",
+            "themes",
+            "isolation",
+            "alienation",
+            "music",
+            "film"
+        ],
+        "id": null
+    }
+]

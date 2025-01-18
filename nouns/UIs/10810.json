@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image shows a mobile screenshot of a YouTube video page.",
+        "sentence_cn": "该图为 YouTube 视频页面的移动屏幕截图。",
+        "words": [
+            "video",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section displays an advertisement for Microsoft with a video featuring a person speaking.",
+        "sentence_cn": "顶部显示了微软的广告，其中有一个人讲话的视频。",
+        "words": [
+            "section",
+            "video",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad duration is 53 seconds, and there's an option to \"Skip Ad\" on the right.",
+        "sentence_cn": "广告时长为53秒，右侧有“跳过广告”选项。",
+        "words": [
+            "Skip Ad",
+            "ad",
+            "duration",
+            "53",
+            "seconds",
+            "option",
+            "Ad",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the ad, there is an ongoing live stream titled \"EU LCS Spring 2017 - Week 7 Day 2: G2 vs. SPY | FNC vs. UOL,\" hosted by \"LoL Esports,\" with 31,083 viewers.",
+        "sentence_cn": "广告下方是正在进行的直播，题为“2017 年 EU LCS 春季赛 - 第 7 周第 2 天：G2 vs. SPY | FNC vs. UOL”，由“LoL Esports”主办，共有 31,083 名观众观看。",
+        "words": [
+            "EU LCS Spring 2017 - Week 7 Day 2: G2 vs. SPY | FNC vs. UOL,",
+            "LoL Esports,",
+            "ad",
+            "stream",
+            "2017",
+            "7",
+            "2",
+            "31,083",
+            "viewers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are 589 likes and 32 dislikes.",
+        "sentence_cn": "有 589 人喜欢，32 人不喜欢。",
+        "words": [
+            "589",
+            "likes",
+            "32",
+            "dislikes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Under the video, suggested videos are listed.",
+        "sentence_cn": "在视频下方，列出了推荐的视频。",
+        "words": [
+            "video",
+            "videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of them is titled \"Tobias Fate - Three in a Row!\" with 138,767 views.",
+        "sentence_cn": "其中一篇名为“Tobias Fate - Three in a Row!”，观看次数达到 138,767 次。",
+        "words": [
+            "Tobias Fate - Three in a Row!",
+            "One",
+            "Row",
+            "138,767",
+            "views"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The thumbnail shows a character in a fiery scene.",
+        "sentence_cn": "缩略图显示了火热场景中的一名角色。",
+        "words": [
+            "thumbnail",
+            "character",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another suggested video is titled \"HIGH ELO RAGERS 3 (GONE SEXUAL - 1V9?).\"",
+        "sentence_cn": "另一个推荐视频的标题为“HIGH ELO RAGERS 3 (GONE SEXUAL - 1V9?)”。",
+        "words": [
+            "HIGH ELO RAGERS 3 (GONE SEXUAL - 1V9?).",
+            "video",
+            "3",
+            "1V9"
+        ],
+        "id": null
+    }
+]

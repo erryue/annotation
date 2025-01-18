@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image is a vintage poster for Walt Disney's \"Snow White and the Seven Dwarfs,\" described as \"His First Full Length Feature Production.\"",
+        "sentence_cn": "该图是沃尔特·迪斯尼的《白雪公主和七个小矮人》的复古海报，被描述为“他的第一部长篇故事片”。",
+        "words": [
+            "Snow White and the Seven Dwarfs,",
+            "His First Full Length Feature Production.",
+            "vintage",
+            "poster",
+            "Length",
+            "Feature",
+            "Production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, a hand-drawn Snow White is surrounded by the Seven Dwarfs, each with distinct facial expressions and poses.",
+        "sentence_cn": "画面中央，手绘的白雪公主周围围着七个小矮人，每个小矮人的面部表情和姿势都各有不同。",
+        "words": [
+            "center",
+            "hand",
+            "expressions",
+            "poses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind her, a whimsical and towering castle is depicted, adding a fairytale backdrop.",
+        "sentence_cn": "她的身后是一座异想天开、高耸的城堡，增添了童话般的背景。",
+        "words": [
+            "castle",
+            "fairytale",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, animals such as rabbits and birds are gathered, adding charm to the scene.",
+        "sentence_cn": "左侧则聚集了兔子、鸟类等动物，为场景增添了魅力。",
+        "words": [
+            "animals",
+            "rabbits",
+            "birds",
+            "charm",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a large blue oval containing the film's title in white text: \"Walt Disney's Snow White and the Seven Dwarfs.\"",
+        "sentence_cn": "底部有一个大的蓝色椭圆形，里面用白色文字写着电影标题：“华特迪士尼的白雪公主和七个小矮人”。",
+        "words": [
+            "Walt Disney's Snow White and the Seven Dwarfs.",
+            "bottom",
+            "oval",
+            "film",
+            "title",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, it highlights the use of \"Multiplane Technicolor.\"",
+        "sentence_cn": "标题下方突出显示了“多平面彩色”的使用。",
+        "words": [
+            "Multiplane Technicolor.",
+            "title",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster also attributes distribution by RKO Radio Pictures, Inc.",
+        "sentence_cn": "该海报还注明由雷电华电影公司 (RKO Radio Pictures, Inc.) 发行。",
+        "words": [
+            "poster",
+            "distribution"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design has a classic and nostalgic feel, reflective of early Disney animation.",
+        "sentence_cn": "整体设计具有古典和怀旧的感觉，反映了早期的迪士尼动画。",
+        "words": [
+            "design",
+            "feel",
+            "animation"
+        ],
+        "id": null
+    }
+]

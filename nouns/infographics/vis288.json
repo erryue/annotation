@@ -1,0 +1,255 @@
+[
+    {
+        "sentence": "The image is an infographic with the theme \"A House Divided, can it stand?\" centered around U.S. politics.",
+        "sentence_cn": "该图是一张信息图表，主题为“分裂之家，能否屹立？”，围绕美国政治展开。",
+        "words": [
+            "A House Divided, can it stand?",
+            "theme",
+            "U.S.",
+            "politics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Top Section:",
+        "sentence_cn": "- 顶部部分：",
+        "words": [
+            "Top Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Featuring the Capitol building with a glowing effect on the left.",
+        "sentence_cn": "- 国会大厦左侧呈现发光效果。",
+        "words": [
+            "building",
+            "effect",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The phrase \"A HOUSE DIVIDED can it stand?\" is prominently displayed.",
+        "sentence_cn": "- 醒目的短语“分裂的房子还能站立吗？”被显示出来。",
+        "words": [
+            "A HOUSE DIVIDED can it stand?",
+            "phrase",
+            "HOUSE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There are stars in the background, contributing to a patriotic theme.",
+        "sentence_cn": "- 背景中有星星，彰显爱国主题。",
+        "words": [
+            "stars",
+            "background",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Middle Section:",
+        "sentence_cn": "- 中间部分：",
+        "words": [
+            "Middle Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Contains subheading \"Toss Ups... What The Hill?¡± referring to uncertain political scenarios.",
+        "sentence_cn": "- 包含子标题“Toss Ups...What The Hill?”，指的是不确定的政治局势。",
+        "words": [
+            "subheading",
+            "scenarios"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Senate:",
+        "sentence_cn": "- 参议院：",
+        "words": [
+            "Senate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - One toss-up state indicated with icons of a red elephant and blue donkey.",
+        "sentence_cn": "- 一种抛掷状态，用红色大象和蓝色驴子的图标表示。",
+        "words": [
+            "One",
+            "state",
+            "icons",
+            "elephant",
+            "donkey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Four decisions leading to the blue donkey.",
+        "sentence_cn": "- 四个决定导致出现蓝色驴子。",
+        "words": [
+            "Four",
+            "decisions",
+            "donkey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - House:",
+        "sentence_cn": "- 房子：",
+        "words": [
+            "House"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - 11 toss-ups leaning towards the red elephant.",
+        "sentence_cn": "- 11 次抛掷都倾向于红色大象。",
+        "words": [
+            "11",
+            "toss",
+            "ups",
+            "elephant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - 5 leaning towards the blue donkey.",
+        "sentence_cn": "- 5 倾向蓝色驴。",
+        "words": [
+            "5",
+            "donkey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Mentions ¡°Romney secures more states - Obama locks in more electoral votes¡±.",
+        "sentence_cn": "- 提到“罗姆尼赢得更多州 - 奥巴马锁定更多选举人票”。",
+        "words": [
+            "Mentions",
+            "states"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lower Section:",
+        "sentence_cn": "- 下部：",
+        "words": [
+            "Lower Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Discusses a \"divided Congress,\" \"the clock to 2014,\" and White House legacy.",
+        "sentence_cn": "- 讨论“分裂的国会”、“2014年的时钟”以及白宫的遗产。",
+        "words": [
+            "divided Congress,",
+            "the clock to 2014,",
+            "clock",
+            "2014",
+            "legacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The Fiscal Cliff:",
+        "sentence_cn": "- 财政悬崖：",
+        "words": [
+            "The Fiscal Cliff"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Describes a crisis involving a vulnerable Senate, Democratic incumbents seeking cover, and House Republicans.",
+        "sentence_cn": "- 描述了一场涉及脆弱的参议院、寻求掩护的民主党现任议员以及众议院共和党人的危机。",
+        "words": [
+            "crisis",
+            "incumbents",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - BAMACARE:",
+        "sentence_cn": "-巴马卡雷：",
+        "words": [
+            "BAMACARE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Talks about piecemeal reforms and targeted fixes rather than full repeal.",
+        "sentence_cn": "- 讨论零碎改革和有针对性的修复，而不是全面废除。",
+        "words": [
+            "Talks",
+            "reforms",
+            "fixes",
+            "repeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Contains small icons suggestive of healthcare elements around a computer icon.",
+        "sentence_cn": "- 包含暗示医疗保健元素的计算机图标周围的小图标。",
+        "words": [
+            "icons",
+            "healthcare",
+            "elements",
+            "computer",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Section:",
+        "sentence_cn": "- 底部：",
+        "words": [
+            "Bottom Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Branding for Cassidy & Associates with a tagline: \"to protect and connect.\"",
+        "sentence_cn": "- 为 Cassidy & Associates 打造品牌标语：“保护和连接”。",
+        "words": [
+            "to protect and connect.",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The website URL \"www.cassidy.com\" is included.",
+        "sentence_cn": "- 包含网站网址“www.cassidy.com”。",
+        "words": [
+            "www.cassidy.com",
+            "website",
+            "URL"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme primarily uses reds, blues, and whites, emphasizing a U.S. political atmosphere.",
+        "sentence_cn": "配色主要采用红色、蓝色和白色，强调美国政治氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "reds",
+            "blues",
+            "whites",
+            "U.S.",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

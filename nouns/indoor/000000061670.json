@@ -1,0 +1,154 @@
+[
+    {
+        "sentence": "The image shows a cozy living room with a warm and inviting atmosphere.",
+        "sentence_cn": "图片展示了一个舒适的客厅，充满温暖而温馨的氛围。",
+        "words": [
+            "living",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features two large, plush, dark brown leather sofas arranged in an L-shape.",
+        "sentence_cn": "房间里有两张宽大的、舒适的深棕色皮革沙发，呈 L 形排列。",
+        "words": [
+            "room",
+            "two",
+            "leather",
+            "sofas",
+            "L",
+            "shape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofas is a rectangular, dark wood coffee table with a decorative centerpiece made of woven materials.",
+        "sentence_cn": "沙发前面是一张长方形的深色木质咖啡桌，桌子上方放置着由编织材料制成的装饰品。",
+        "words": [
+            "front",
+            "sofas",
+            "wood",
+            "coffee",
+            "table",
+            "centerpiece",
+            "materials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor has a light brown wooden texture, partially covered by a neutral-colored rug.",
+        "sentence_cn": "地板具有浅棕色木质纹理，部分由中性色的地毯覆盖。",
+        "words": [
+            "floor",
+            "texture",
+            "rug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the furniture, the walls are painted a soft cream color.",
+        "sentence_cn": "家具后面的墙壁漆成柔和的奶油色。",
+        "words": [
+            "furniture",
+            "walls",
+            "cream",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large, colorful abstract painting with earthy tones is mounted on the wall, framed with dark wood.",
+        "sentence_cn": "墙上挂着一幅巨大的、色彩鲜艳、具有泥土色调的抽象画，用深色木材做框架。",
+        "words": [
+            "painting",
+            "tones",
+            "wall",
+            "wood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a decorative floral arrangement perched on top.",
+        "sentence_cn": "它的顶部有装饰性的花卉图案。",
+        "words": [
+            "arrangement",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Flanking the painting are two ornate black metal wall sconces, contributing to the decor.",
+        "sentence_cn": "画的两侧是两个华丽的黑色金属壁灯，增添了装饰效果。",
+        "words": [
+            "painting",
+            "two",
+            "metal",
+            "wall",
+            "sconces",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, several sheer and patterned curtains cover the windows, adding texture and privacy.",
+        "sentence_cn": "左边，几层薄纱和带有图案的窗帘遮住了窗户，增添了质感和私密性。",
+        "words": [
+            "left",
+            "curtains",
+            "windows",
+            "texture",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A tall, slender floor lamp with a yellow fabric shade is placed near the window, adding a soft ambient light.",
+        "sentence_cn": "一盏高而细长的落地灯，配有黄色布艺灯罩，放置在窗户附近，增添了柔和的环境光。",
+        "words": [
+            "floor",
+            "lamp",
+            "fabric",
+            "shade",
+            "window",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On a small wall section, a few framed photos or artwork pieces are arranged, providing a personal touch to the space.",
+        "sentence_cn": "在一小块墙壁上，摆放着几幅相框或艺术品，为这个空间增添了个性化的气息。",
+        "words": [
+            "wall",
+            "section",
+            "photos",
+            "artwork",
+            "pieces",
+            "touch",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, there is a tall decorative wooden stand with two large metallic discs, adding a touch of artistic flair.",
+        "sentence_cn": "角落里有一个高大的装饰木架，上面有两个大金属圆盘，增添了一丝艺术气息。",
+        "words": [
+            "corner",
+            "stand",
+            "two",
+            "discs",
+            "touch",
+            "flair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting is warm, stylish, and well-coordinated, with a mix of modern and rustic elements.",
+        "sentence_cn": "整体环境温馨、时尚、协调，融合了现代与乡村元素。",
+        "words": [
+            "mix",
+            "elements"
+        ],
+        "id": null
+    }
+]

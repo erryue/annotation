@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene featuring a flock of sheep grazing in a lush green field.",
+        "sentence_cn": "画中描绘的是田园风光，一群羊在郁郁葱葱的绿色田野中吃草。",
+        "words": [
+            "scene",
+            "flock",
+            "sheep",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground shows several sheep scattered across the open expanse of grass.",
+        "sentence_cn": "前景显示几只羊散落在开阔的草地上。",
+        "words": [
+            "foreground",
+            "sheep",
+            "expanse",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is gently rolling with soft green hills extending into the background.",
+        "sentence_cn": "地貌起伏平缓，柔和的绿色山丘一直延伸到背景中。",
+        "words": [
+            "landscape",
+            "hills",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A mist rises from the valley below, partially obscuring the further hills and adding an ethereal quality to the scene.",
+        "sentence_cn": "薄雾从山谷升起，遮住了部分远处的山丘，为景色增添了一种空灵的质感。",
+        "words": [
+            "mist",
+            "valley",
+            "hills",
+            "quality",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Tall trees border the field on the right, leading the eye up to a partly cloudy sky, which softly diffuses the light, creating an even illumination across the scene.",
+        "sentence_cn": "高大的树木环绕着右侧的田野，将目光引向多云的天空，天空柔和地散射着光线，使整个场景呈现出均匀的照明。",
+        "words": [
+            "trees",
+            "field",
+            "right",
+            "eye",
+            "sky",
+            "light",
+            "illumination",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is serene and idyllic, capturing the essence of a peaceful rural setting.",
+        "sentence_cn": "这里的气氛宁静而田园诗般，体现了宁静的乡村环境的精髓。",
+        "words": [
+            "atmosphere",
+            "essence"
+        ],
+        "id": null
+    }
+]

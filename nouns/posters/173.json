@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Princess Bride,\" directed by Rob Reiner.",
+        "sentence_cn": "图片是罗伯·莱纳执导的电影《公主新娘》的海报。",
+        "words": [
+            "The Princess Bride,",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two large columns framing the scene with lush green foliage at the top.",
+        "sentence_cn": "它以两根大柱子为特色，柱子的顶部有茂密的绿叶。",
+        "words": [
+            "two",
+            "columns",
+            "scene",
+            "foliage",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, two silhouetted characters are sitting and interacting in armchairs, suggesting a storytelling moment.",
+        "sentence_cn": "在中心，两个剪影人物坐在扶手椅上互动，暗示着一个讲故事的时刻。",
+        "words": [
+            "center",
+            "two",
+            "characters",
+            "armchairs",
+            "storytelling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background showcases a vast, dreamy landscape with cliffs and a castle in the distance, enveloped by clouds.",
+        "sentence_cn": "背景展现出一片广阔、梦幻的风景，远处有悬崖和城堡，被云层笼罩。",
+        "words": [
+            "background",
+            "landscape",
+            "cliffs",
+            "castle",
+            "distance",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text at the top reads:",
+        "sentence_cn": "顶部文字如下：",
+        "words": [
+            "Text",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Scaling the Cliffs of Insanity.",
+        "sentence_cn": "- “攀登疯狂的悬崖。",
+        "words": [
+            "Cliffs",
+            "Insanity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  Battling Rodents of Unusual Size.",
+        "sentence_cn": "与体型异常的啮齿动物作斗争。",
+        "words": [
+            "Rodents",
+            "Size"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  Facing torture in the Pit of Despair.",
+        "sentence_cn": "面临绝望深渊的折磨。",
+        "words": [
+            "torture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  True love has never been a snap.\"",
+        "sentence_cn": "真正的爱情从来都不是轻易就能实现的。”",
+        "words": [
+            "love",
+            "snap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title, \"The Princess Bride,\" is prominently displayed in the center with the tagline, \"It's as real as the feelings you feel.\"",
+        "sentence_cn": "标题“公主新娘”醒目地显示在中心位置，旁边还有一句标语“它和你感受到的一样真实”。",
+        "words": [
+            "The Princess Bride,",
+            "It's as real as the feelings you feel.",
+            "title",
+            "center",
+            "tagline",
+            "feelings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section lists the cast and crew, including actors and producers involved in the film.",
+        "sentence_cn": "下面列出了演员和剧组人员，包括参与电影的演员和制片人。",
+        "words": [
+            "section",
+            "cast",
+            "crew",
+            "actors",
+            "producers",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visual style and typography convey a whimsical, fairy-tale atmosphere.",
+        "sentence_cn": "视觉风格和字体传达出一种异想天开的童话氛围。",
+        "words": [
+            "style",
+            "typography",
+            "fairy",
+            "tale",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "sentence": "The image consists of two sections titled \"HOW WE LIVE\" and \"HOW WE BUILD,\" both showcasing data from the U.S. in 2010.",
+        "sentence_cn": "该图片由两部分组成，分别为“我们如何生活”和“我们如何建设”，均展示了 2010 年美国的数据。",
+        "words": [
+            "HOW WE LIVE",
+            "HOW WE BUILD,",
+            "two",
+            "sections",
+            "data",
+            "U.S.",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "HOW WE LIVE:",
+        "sentence_cn": "我们的生活方式：",
+        "words": [
+            "HOW WE LIVE:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- This section details U.S. household types in 2010.",
+        "sentence_cn": "- 本节详细介绍了2010年美国家庭类型。",
+        "words": [
+            "section",
+            "U.S.",
+            "household",
+            "types",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Illustrations represent different household types:",
+        "sentence_cn": "- 插图代表不同的家庭类型：",
+        "words": [
+            "Illustrations",
+            "household",
+            "types"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Married couple with children.",
+        "sentence_cn": "- 已婚夫妇，有子女。",
+        "words": [
+            "couple",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Single with children.",
+        "sentence_cn": "- 单身，有孩子。",
+        "words": [
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Married couple without children.",
+        "sentence_cn": "- 没有孩子的已婚夫妇。",
+        "words": [
+            "couple",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Unrelated individuals living together.",
+        "sentence_cn": "- 无血缘关系的个体生活在一起。",
+        "words": [
+            "individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Single individuals.",
+        "sentence_cn": "- 单身人士。",
+        "words": [
+            "individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Key statistics:",
+        "sentence_cn": "- 关键统计数据：",
+        "words": [
+            "statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2.6 is the average number of people per household.",
+        "sentence_cn": "- 每户平均有 2.6 个人。",
+        "words": [
+            "2.6",
+            "number",
+            "people",
+            "household"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 27% of households are married couples with children.",
+        "sentence_cn": "- 27% 的家庭是已婚夫妇和子女。",
+        "words": [
+            "27",
+            "households",
+            "couples",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 14% are single individuals with children.",
+        "sentence_cn": "- 14％是单身且有孩子的人士。",
+        "words": [
+            "14",
+            "individuals",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Source: U.S. Census Bureau Current Population Survey.",
+        "sentence_cn": "- 来源：美国人口普查局当前人口调查。",
+        "words": [
+            "Source"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "HOW WE BUILD:",
+        "sentence_cn": "我们如何构建：",
+        "words": [
+            "HOW WE BUILD:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- This section focuses on new residential construction in the U.S. in 2010.",
+        "sentence_cn": "- 本节重点介绍 2010 年美国的新住宅建设。",
+        "words": [
+            "section",
+            "construction",
+            "U.S.",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Illustrations depict types of housing:",
+        "sentence_cn": "- 插图描绘了住房类型：",
+        "words": [
+            "Illustrations",
+            "types",
+            "housing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Single-family detached homes.",
+        "sentence_cn": "- 单户独立住宅。",
+        "words": [
+            "family",
+            "homes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Single-family attached homes.",
+        "sentence_cn": "- 单户连栋住宅。",
+        "words": [
+            "family",
+            "homes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Units in multi-family buildings.",
+        "sentence_cn": "- 多户建筑内的单位。",
+        "words": [
+            "Units",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Key measurements:",
+        "sentence_cn": "- 关键测量：",
+        "words": [
+            "measurements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2,382 square feet is the average size of a single-family home.",
+        "sentence_cn": "- 2,382 平方英尺是单户住宅的平均面积。",
+        "words": [
+            "2,382",
+            "feet",
+            "size",
+            "family",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 1,179 square feet is the average size of a unit in a multi-family building.",
+        "sentence_cn": "- 1,179 平方英尺是多户建筑中一个单元的平均面积。",
+        "words": [
+            "1,179",
+            "feet",
+            "size",
+            "unit",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Source: U.S. Census Bureau Manufacturing and Construction Division.",
+        "sentence_cn": "- 来源：美国人口普查局制造业和建筑部。",
+        "words": [
+            "Source"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both sections use a consistent orange and white color scheme for clarity and emphasis.",
+        "sentence_cn": "为了清晰和强调，两个部分都使用了一致的橙色和白色配色方案。",
+        "words": [
+            "sections",
+            "orange",
+            "white",
+            "color",
+            "scheme",
+            "clarity"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image features a single ripe banana placed on a clean white plate.",
+        "sentence_cn": "图像中是一根成熟的香蕉放在一个干净的白色盘子上。",
+        "words": [
+            "banana",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The banana is yellow with a few brown speckles, indicating ripeness.",
+        "sentence_cn": "香蕉呈黄色，带有一些棕色斑点，表示成熟。",
+        "words": [
+            "banana",
+            "speckles",
+            "ripeness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the banana, on the right side of the plate, is a shiny metal knife with a smooth handle.",
+        "sentence_cn": "香蕉旁边，盘子的右侧，有一把闪闪发光、刀柄光滑的金属刀。",
+        "words": [
+            "banana",
+            "plate",
+            "metal",
+            "knife",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate is positioned on a vibrant, multicolored tablecloth.",
+        "sentence_cn": "盘子摆放在色彩鲜艳的桌布上。",
+        "words": [
+            "plate",
+            "tablecloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tablecloth has a pattern of horizontal stripes in shades of red, orange, green, and yellow, with an intricate woven design.",
+        "sentence_cn": "桌布呈水平条纹状，颜色有红色、橙色、绿色和黄色，编织图案十分复杂。",
+        "words": [
+            "tablecloth",
+            "pattern",
+            "stripes",
+            "shades",
+            "red",
+            "orange",
+            "green",
+            "yellow",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition is simple yet visually striking due to the contrast between the bright banana, the stark white plate, and the colorful background.",
+        "sentence_cn": "整体构图简单，但由于明亮的香蕉、纯白色的盘子和彩色背景之间的对比，视觉上引人注目。",
+        "words": [
+            "composition",
+            "contrast",
+            "banana",
+            "plate",
+            "background"
+        ],
+        "id": null
+    }
+]

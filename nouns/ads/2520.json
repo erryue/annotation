@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image is an Avon advertisement.",
+        "sentence_cn": "图片是雅芳的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is a close-up of a person with light blonde hair styled away from the face, wearing a black and white top.",
+        "sentence_cn": "左侧有一个特写镜头，一个人的浅金色头发远离脸部，身穿黑白色上衣。",
+        "words": [
+            "close",
+            "up",
+            "person",
+            "hair",
+            "face",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are smiling with bright red lipstick.",
+        "sentence_cn": "她们涂着鲜红的口红，笑容满面。",
+        "words": [
+            "lipstick"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is text in the top left corner: \"Linda Montavon, Avon Representative since 1997.\"",
+        "sentence_cn": "左上角有文字：“琳达·蒙塔冯 (Linda Montavon)，自 1997 年起担任雅芳代表。”",
+        "words": [
+            "Linda Montavon, Avon Representative since 1997.",
+            "text",
+            "corner",
+            "1997"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there's a QR code with the message: ¡°Learn how Linda creates a more beautiful world.",
+        "sentence_cn": "下面有一个二维码，上面写着：“了解琳达如何创造一个更美好的世界。”",
+        "words": [
+            "QR",
+            "code",
+            "message",
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Scan or go to beautyforapurpose.com.¡±",
+        "sentence_cn": "扫描或访问 beautyforapurpose.com。¡±",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the image, there is a bold pink background with white, handwritten-style text reading: \"Always be your beautiful self.\"",
+        "sentence_cn": "图片右侧是鲜艳的粉色背景，上面有白色的手写文字：“永远做美丽的自己。”",
+        "words": [
+            "Always be your beautiful self.",
+            "background",
+            "style",
+            "text",
+            "self"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this text is the phrase: \"Beauty for a Purpose AVON\" in black and white.",
+        "sentence_cn": "这段文字下方是黑白两色的短语：“Beauty for a Purpose AVON”。",
+        "words": [
+            "Beauty for a Purpose AVON",
+            "text",
+            "phrase",
+            "black",
+            "white"
+        ],
+        "id": null
+    }
+]

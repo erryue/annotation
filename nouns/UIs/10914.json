@@ -1,0 +1,111 @@
+[
+    {
+        "sentence": "The image is an advertisement for the \"trivago - Hotel & Motel Deals\" app on Google Play.",
+        "sentence_cn": "该图片是 Google Play 上“trivago - Hotel & Motel Deals”应用程序的广告。",
+        "words": [
+            "trivago - Hotel & Motel Deals",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a grayscale image of a city skyline with mountains in the background, possibly Los Angeles.",
+        "sentence_cn": "顶部是城市天际线的灰度图像，背景是山脉，可能是洛杉矶。",
+        "words": [
+            "top",
+            "city",
+            "skyline",
+            "mountains",
+            "background",
+            "Los",
+            "Angeles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, the trivago logo is displayed.",
+        "sentence_cn": "图像下方显示了 trivago 徽标。",
+        "words": [
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad provides the following details:",
+        "sentence_cn": "广告提供了以下详细信息：",
+        "words": [
+            "ad",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- App rating: 4.1 stars",
+        "sentence_cn": "- 应用评分：4.1星",
+        "words": [
+            "App",
+            "rating",
+            "4.1",
+            "stars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Number of ratings: 100 thousand",
+        "sentence_cn": "- 评分数：10万",
+        "words": [
+            "Number",
+            "ratings",
+            "100",
+            "thousand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Number of downloads: 20 million",
+        "sentence_cn": "- 下载次数：2000万",
+        "words": [
+            "Number",
+            "downloads",
+            "20",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A tagline that reads: \"Find your Ideal Hotel 1,000,000+ Hotels, 1 App\"",
+        "sentence_cn": "- 标语为：“1,000,000+ 家酒店，1 个应用程序，找到您的理想酒店”",
+        "words": [
+            "Find your Ideal Hotel 1,000,000+ Hotels, 1 App",
+            "tagline",
+            "1,000,000",
+            "Hotels",
+            "1",
+            "App"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad features buttons with the options \"NO THANKS\" and \"INSTALL\" to download the app.",
+        "sentence_cn": "广告中含有“不用了”和“安装”按钮，用于下载应用程序。",
+        "words": [
+            "NO THANKS",
+            "INSTALL",
+            "ad",
+            "buttons",
+            "options",
+            "THANKS",
+            "INSTALL",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Google Play logo is also present.",
+        "sentence_cn": "其中还出现了 Google Play 标志。",
+        "words": [
+            "logo"
+        ],
+        "id": null
+    }
+]

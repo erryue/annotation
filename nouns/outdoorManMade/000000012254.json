@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image depicts a bustling street scene in an urban area flanked by tall buildings.",
+        "sentence_cn": "这幅图描绘的是高楼林立的城市地区繁华的街景。",
+        "words": [
+            "street",
+            "scene",
+            "area",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the street is an ornate Gothic Revival church with a tall, pointed spire.",
+        "sentence_cn": "街道中心是一座华丽的哥特复兴式教堂，有高耸的尖顶。",
+        "words": [
+            "center",
+            "street",
+            "church",
+            "spire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The church stands out due to its dark color, contrasting with the lighter, classical architectural styles of the surrounding skyscrapers.",
+        "sentence_cn": "教堂因其深色而引人注目，与周围摩天大楼较浅的古典建筑风格形成鲜明对比。",
+        "words": [
+            "church",
+            "color",
+            "styles",
+            "skyscrapers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pedestrians are walking along the sidewalk, and several vehicles, including trucks and cars, are on the road.",
+        "sentence_cn": "行人沿着人行道行走，路上还有几辆车辆，包括卡车和汽车。",
+        "words": [
+            "Pedestrians",
+            "sidewalk",
+            "vehicles",
+            "trucks",
+            "cars",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The presence of people in mid-20th-century attire suggests a historical setting.",
+        "sentence_cn": "身着 20 世纪中期服饰的人物暗示着一个历史背景。",
+        "words": [
+            "presence",
+            "people",
+            "century",
+            "attire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street is lively, with a mix of business and leisurely activities.",
+        "sentence_cn": "街道热闹非凡，商业活动和休闲活动并存。",
+        "words": [
+            "street",
+            "mix",
+            "business",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A prominent flag with a simple design is hanging from one of the buildings.",
+        "sentence_cn": "一面设计简单的显眼旗帜悬挂在其中一栋建筑物上。",
+        "words": [
+            "flag",
+            "design",
+            "one",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is that of a vibrant city, likely a financial or business district.",
+        "sentence_cn": "整体氛围就像一个充满活力的城市，像是金融区或商业区。",
+        "words": [
+            "atmosphere",
+            "city",
+            "business",
+            "district"
+        ],
+        "id": null
+    }
+]

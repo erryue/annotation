@@ -1,0 +1,68 @@
+[
+    {
+        "id": "45f82d5c-3d34-457f-ae51-053961370c33",
+        "confidence": 0.87467,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 371.26608,
+                        "minY": 189.52884,
+                        "maxX": 940.71204,
+                        "maxY": 935.47308
+                    },
+                    "x": 371.26608,
+                    "y": 189.52884,
+                    "w": 569.44596,
+                    "h": 745.94424
+                }
+            }
+        }
+    },
+    {
+        "id": "b6519972-18c5-45a6-8e84-f4a192041eb4",
+        "confidence": 0.84625,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 10.19824,
+                        "minY": 13.31777,
+                        "maxX": 585.37134,
+                        "maxY": 1069.22327
+                    },
+                    "x": 10.19824,
+                    "y": 13.31777,
+                    "w": 575.1731,
+                    "h": 1055.9054999999998
+                }
+            }
+        }
+    },
+    {
+        "id": "bc57b309-e265-457f-ba39-421e27b6092d",
+        "confidence": 0.80453,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 777.22827,
+                        "minY": 136.03154,
+                        "maxX": 1257.77185,
+                        "maxY": 922.88824
+                    },
+                    "x": 777.22827,
+                    "y": 136.03154,
+                    "w": 480.54358000000013,
+                    "h": 786.8567
+                }
+            }
+        }
+    }
+]

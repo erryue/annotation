@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image depicts a solemn ceremony taking place inside a grand, ornately decorated room, likely a church or similar venue.",
+        "sentence_cn": "这幅图描绘的是一场在宏伟、装饰华丽的房间内举行的庄严仪式，房间可能是教堂或类似的场所。",
+        "words": [
+            "ceremony",
+            "place",
+            "room",
+            "church",
+            "venue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central focus is a group of people standing in front of an audience, each holding a lit candle.",
+        "sentence_cn": "画面中心是一群站在观众面前的人，每人手里都拿着一支点燃的蜡烛。",
+        "words": [
+            "focus",
+            "group",
+            "people",
+            "front",
+            "audience",
+            "candle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is elegant, with gold accents, columns, and a decorative painting in the background.",
+        "sentence_cn": "场景优雅，有金色装饰、柱子和背景装饰画。",
+        "words": [
+            "gold",
+            "accents",
+            "columns",
+            "painting",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several individuals in the front, possibly leading the ceremony.",
+        "sentence_cn": "前面有几个人，可能在主持仪式。",
+        "words": [
+            "individuals",
+            "front",
+            "ceremony"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A microphone stand is visible, suggesting that speeches or readings might be a part of the event.",
+        "sentence_cn": "可以看到麦克风支架，这表明演讲或朗读可能是该活动的一部分。",
+        "words": [
+            "microphone",
+            "stand",
+            "speeches",
+            "readings",
+            "part",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The candles and the formal setting imply that this could be a religious or memorial service.",
+        "sentence_cn": "蜡烛和正式的布置暗示这可能是一场宗教仪式或追悼会。",
+        "words": [
+            "candles",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The audience, seated in the foreground, is attentively watching the proceedings.",
+        "sentence_cn": "坐在前景中的观众正聚精会神地观看着整个过程。",
+        "words": [
+            "audience",
+            "foreground",
+            "proceedings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is serene and respectful.",
+        "sentence_cn": "气氛宁静而又充满尊敬。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image depicts a creative electronic setup on a table at an exhibit, possibly at a tech fair or workshop.",
+        "sentence_cn": "该图展示的是某个展览会（可能是技术博览会或研讨会）上桌子上的创意电子装置。",
+        "words": [
+            "table",
+            "exhibit",
+            "tech",
+            "fair",
+            "workshop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are six bananas lined up in a row, each connected with wires to a small electronic board.",
+        "sentence_cn": "桌子上，六根香蕉排成一排，每根香蕉都通过电线连接到一块小电子板上。",
+        "words": [
+            "table",
+            "six",
+            "bananas",
+            "row",
+            "wires",
+            "board"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This setup is likely part of a demonstration using a Makey Makey or a similar device to turn everyday objects into touchpads and combine them with the internet.",
+        "sentence_cn": "该设置可能是使用 Makey Makey 或类似设备将日常物品变成触摸板并将其与互联网结合起来的演示的一部分。",
+        "words": [
+            "part",
+            "demonstration",
+            "device",
+            "objects",
+            "touchpads",
+            "internet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These wires appear to be connected to a laptop, which is open and displaying a piano keyboard on its screen.",
+        "sentence_cn": "这些电线似乎连接到一台笔记本电脑，笔记本电脑处于打开状态，屏幕上显示着钢琴键盘。",
+        "words": [
+            "wires",
+            "laptop",
+            "piano",
+            "keyboard",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The banana and wire setup is likely being used as an interactive musical instrument, allowing each banana to make a different note or sound.",
+        "sentence_cn": "香蕉和电线的装置很可能被用作一种互动乐器，让每根香蕉发出不同的音调或声音。",
+        "words": [
+            "banana",
+            "wire",
+            "instrument",
+            "banana",
+            "note",
+            "sound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table is covered with a white cloth, and there are informational papers or signs displayed at the back.",
+        "sentence_cn": "桌子上铺着白布，背后摆放着一些信息文件或标志。",
+        "words": [
+            "table",
+            "cloth",
+            "papers",
+            "signs",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background includes a black curtain, suggesting that this is part of an exhibition space.",
+        "sentence_cn": "背景中有一块黑色的窗帘，暗示这是展览空间的一部分。",
+        "words": [
+            "background",
+            "curtain",
+            "part",
+            "exhibition",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image is partially highlighted in yellow, creating a visual emphasis on the setup.",
+        "sentence_cn": "图像部分以黄色突出显示，从而在视觉上强调设置。",
+        "words": [
+            "yellow"
+        ],
+        "id": null
+    }
+]

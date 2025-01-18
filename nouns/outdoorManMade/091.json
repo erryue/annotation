@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a well-known architectural structure, featuring a large, majestic dome topped with a small cross.",
+        "sentence_cn": "该图描绘的是一座著名的建筑结构，其特点是巨大、雄伟的圆顶，顶部有一个小十字架。",
+        "words": [
+            "structure",
+            "dome",
+            "cross"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This dome is part of an iconic religious building, characterized by its grand facade and classical design elements, including columns and statues.",
+        "sentence_cn": "这个圆顶是标志性宗教建筑的一部分，其特点是宏伟的外观和古典的设计元素，包括柱子和雕像。",
+        "words": [
+            "dome",
+            "part",
+            "building",
+            "facade",
+            "design",
+            "elements",
+            "columns",
+            "statues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structure is situated between two symmetrical buildings with tall arched entrances.",
+        "sentence_cn": "该建筑位于两座对称的建筑物之间，拥有高高的拱形入口。",
+        "words": [
+            "structure",
+            "two",
+            "buildings",
+            "entrances"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a bustling scene with people walking and vehicles, including a red bus with advertising, suggesting a tourist location.",
+        "sentence_cn": "前景中，是一片熙熙攘攘的景象，行人穿梭，车辆川流不息，其中有一辆印有广告的红色巴士，暗示着这是一个旅游景点。",
+        "words": [
+            "foreground",
+            "scene",
+            "people",
+            "vehicles",
+            "bus",
+            "advertising",
+            "tourist",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Palm trees add a touch of greenery, contrasting with the pale stone of the buildings.",
+        "sentence_cn": "棕榈树增添了一抹绿意，与建筑物的浅色石头形成鲜明对比。",
+        "words": [
+            "Palm",
+            "trees",
+            "touch",
+            "greenery",
+            "stone",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and blue, indicating a sunny day.",
+        "sentence_cn": "天空晴朗蔚蓝，预示着阳光明媚。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The composition creates a sense of grandeur and historical significance.",
+        "sentence_cn": "整个构图营造出一种宏伟和具有历史意义的感觉。",
+        "words": [
+            "composition",
+            "sense",
+            "grandeur",
+            "significance"
+        ],
+        "id": null
+    }
+]

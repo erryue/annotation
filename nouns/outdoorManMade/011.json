@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "The image depicts a serene beach scene.",
+        "sentence_cn": "图像描绘的是一片宁静的海滩场景。",
+        "words": [
+            "beach",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several palm trees standing on a sandy beach.",
+        "sentence_cn": "前景中，有几棵棕榈树矗立在沙滩上。",
+        "words": [
+            "foreground",
+            "palm",
+            "trees",
+            "beach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Patches of green grass can be seen near the base of these trees.",
+        "sentence_cn": "在这些树的底部附近可以看到一片片绿草。",
+        "words": [
+            "Patches",
+            "grass",
+            "base",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Just beyond the palms, people are lounging on the sand, enjoying the sun.",
+        "sentence_cn": "棕榈树后面，人们正躺在沙滩上，享受阳光。",
+        "words": [
+            "palms",
+            "people",
+            "sand",
+            "sun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ocean is visible in the background, with gentle waves under a blue sky dotted with fluffy white clouds.",
+        "sentence_cn": "背景中可以看到海洋，蓝天上点缀着蓬松的白云，海浪轻轻翻滚。",
+        "words": [
+            "ocean",
+            "background",
+            "waves",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A lifeguard hut is also visible in the distance along the shoreline, adding to the typical beach atmosphere.",
+        "sentence_cn": "沿着海岸线远处还可以看到一个救生员小屋，增添了典型的海滩氛围。",
+        "words": [
+            "lifeguard",
+            "hut",
+            "distance",
+            "shoreline",
+            "beach",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the scene conveys a relaxed and tropical vibe.",
+        "sentence_cn": "总体而言，场景传达出一种轻松而热带的氛围。",
+        "words": [
+            "scene",
+            "vibe"
+        ],
+        "id": null
+    }
+]

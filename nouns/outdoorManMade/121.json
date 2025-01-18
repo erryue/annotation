@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image depicts a busy street scene in an urban area with historic charm, likely a downtown shopping district.",
+        "sentence_cn": "该图描绘的是市区一个具有历史魅力的繁忙街景，很可能是市中心的购物区。",
+        "words": [
+            "street",
+            "scene",
+            "area",
+            "charm",
+            "downtown",
+            "shopping",
+            "district"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On both sides of the street are multi-story brick buildings with large windows, many of which appear to house shops and businesses.",
+        "sentence_cn": "街道两旁都是带有大窗户的多层砖砌建筑，其中许多看起来像是商店和商业建筑。",
+        "words": [
+            "sides",
+            "street",
+            "brick",
+            "buildings",
+            "windows",
+            "shops",
+            "businesses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A maroon awning is visible on one of the buildings, and signs can be seen hanging above entrances, including one for ¡°MARKET SQUARE.¡±",
+        "sentence_cn": "其中一栋建筑上可以看到栗色的遮阳篷，入口上方悬挂着标志，其中包括“市场广场”的标志。",
+        "words": [
+            "maroon",
+            "awning",
+            "one",
+            "buildings",
+            "signs",
+            "entrances",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several vehicles, including cars and possibly buses, are moving or parked on the street.",
+        "sentence_cn": "街道上有许多车辆，包括汽车和公共汽车，正在行驶或停放。",
+        "words": [
+            "vehicles",
+            "cars",
+            "buses",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, a group of people is walking along the sidewalk, suggesting pedestrian traffic.",
+        "sentence_cn": "右边，一群人正沿着人行道行走，这表明有行人通行。",
+        "words": [
+            "right",
+            "group",
+            "people",
+            "sidewalk",
+            "pedestrian",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Colorful banners hang from lamp posts, and flower baskets add vibrant touches to the scene.",
+        "sentence_cn": "色彩斑斓的横幅悬挂在灯柱上，花篮给场景增添了生机。",
+        "words": [
+            "banners",
+            "lamp",
+            "posts",
+            "flower",
+            "baskets",
+            "touches",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the structure of a bridge is visible, contributing to the city's infrastructure landscape.",
+        "sentence_cn": "在背景中，可以看到桥梁的结构，它为城市的基础设施景观做出了贡献。",
+        "words": [
+            "background",
+            "structure",
+            "bridge",
+            "city",
+            "infrastructure",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and blue, indicating a sunny day.",
+        "sentence_cn": "天空晴朗蔚蓝，预示着阳光明媚。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    }
+]

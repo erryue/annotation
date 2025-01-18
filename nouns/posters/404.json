@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image is a colorful poster for the movie \"Walt Disney's Pinocchio.\"",
+        "sentence_cn": "图片是电影《迪士尼的木偶奇遇记》的彩色海报。",
+        "words": [
+            "Walt Disney's Pinocchio.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a large, cheerful depiction of Pinocchio, a wooden puppet with a wide smile and rosy cheeks.",
+        "sentence_cn": "该画作描绘的是匹诺曹 (Pinocchio) 的巨大而欢快的形象，匹诺曹是一个笑容灿烂、脸颊红润的木偶。",
+        "words": [
+            "depiction",
+            "puppet",
+            "smile",
+            "cheeks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is holding a sign that reads \"Walt Disney's Pinocchio\" in vibrant letters, with details about the film being a full-length feature in Multiplane Technicolor.",
+        "sentence_cn": "他举着一块牌子，上面用鲜艳的字母写着“沃尔特迪斯尼的木偶奇遇记”，并详细介绍了这是一部采用多平面特艺彩色拍摄的长片。",
+        "words": [
+            "Walt Disney's Pinocchio",
+            "sign",
+            "letters",
+            "details",
+            "film",
+            "length",
+            "feature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside Pinocchio, there is a delicate fairy-like character drawn in lighter colors, looking down towards him.",
+        "sentence_cn": "在匹诺曹的旁边，有一个用浅色绘制的精致的仙女般的人物，正低头看着他。",
+        "words": [
+            "fairy",
+            "character",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two smaller characters include a black and white cat and a small, cheerful cricket wearing a top hat, carrying an umbrella, and holding a medal labeled \"Official Conscience.\"",
+        "sentence_cn": "前景中，两个较小的人物包括一只黑白色的猫和一只快乐的小蟋蟀，它头戴大礼帽，撑着雨伞，手握“官员良知”的奖章。",
+        "words": [
+            "Official Conscience.",
+            "foreground",
+            "two",
+            "characters",
+            "cat",
+            "cricket",
+            "hat",
+            "umbrella",
+            "medal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are sketch-like figures of various other characters, giving a sense of adventure and intrigue.",
+        "sentence_cn": "背景中，有各种其他人物的素描形象，给人一种冒险和阴谋的感觉。",
+        "words": [
+            "background",
+            "sketch",
+            "figures",
+            "characters",
+            "sense",
+            "adventure",
+            "intrigue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is rich and playful, with dominant blues, reds, and yellows, evoking a classic animated film aesthetic.",
+        "sentence_cn": "整体配色丰富而有趣，以蓝色、红色和黄色为主，让人联想到经典的动画电影美感。",
+        "words": [
+            "color",
+            "scheme",
+            "blues",
+            "reds",
+            "yellows",
+            "film",
+            "aesthetic"
+        ],
+        "id": null
+    }
+]

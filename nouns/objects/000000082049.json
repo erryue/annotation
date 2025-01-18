@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image shows a neatly organized lunchbox on a black and white striped surface.",
+        "sentence_cn": "图中所示的午餐盒整齐地摆放在黑白条纹的表面上。",
+        "words": [
+            "lunchbox",
+            "black",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Inside the transparent container, there are several food items:",
+        "sentence_cn": "透明容器内有几种食物：",
+        "words": [
+            "container",
+            "food",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Frozen Raspberries: A small portion of frozen raspberries is placed in a light green paper holder.",
+        "sentence_cn": "1. 冷冻覆盆子：将一小部分冷冻覆盆子放在浅绿色纸托中。",
+        "words": [
+            "Frozen Raspberries",
+            "Raspberries",
+            "portion",
+            "raspberries",
+            "paper",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Broccoli Florets: Fresh green broccoli florets are scattered throughout the box.",
+        "sentence_cn": "2. 西兰花小花：新鲜的绿色西兰花小花散布在整个盒子里。",
+        "words": [
+            "Broccoli Florets",
+            "Broccoli",
+            "Florets",
+            "broccoli",
+            "florets",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "3. Crackers: A stack of rectangular, brown crackers is arranged in the middle.",
+        "sentence_cn": "3. 饼干：一堆长方形的棕色饼干摆放在中间。",
+        "words": [
+            "Crackers",
+            "Crackers",
+            "stack",
+            "crackers",
+            "middle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "4. Cheese Slices: Yellow cheese slices are stacked on the right side of the box.",
+        "sentence_cn": "4. 奶酪片：黄色奶酪片堆放在盒子的右侧。",
+        "words": [
+            "Cheese Slices",
+            "Cheese",
+            "Slices",
+            "cheese",
+            "slices",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "5. Sandwich Biscuits: Some light brown sandwich biscuits are tucked in one corner.",
+        "sentence_cn": "5. 夹心饼干：一些浅棕色的夹心饼干塞在一个角落里。",
+        "words": [
+            "Sandwich Biscuits",
+            "Sandwich",
+            "Biscuits",
+            "sandwich",
+            "biscuits",
+            "one",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "6. Carrot: A single small carrot is at the bottom of the container.",
+        "sentence_cn": "6. 胡萝卜：容器底部有一根小胡萝卜。",
+        "words": [
+            "Carrot",
+            "Carrot",
+            "carrot",
+            "bottom",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The items are organized in a way that minimizes empty space, creating a visually appealing arrangement.",
+        "sentence_cn": "物品的摆放方式尽量减少了空白空间，从而形成了具有视觉吸引力的布置。",
+        "words": [
+            "items",
+            "way",
+            "space",
+            "arrangement"
+        ],
+        "id": null
+    }
+]

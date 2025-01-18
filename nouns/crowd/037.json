@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image shows four people outdoors, surrounded by greenery.",
+        "sentence_cn": "照片中四个人在户外，周围绿树环绕。",
+        "words": [
+            "four",
+            "people",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person in the front center is a woman with short dark hair, smiling broadly.",
+        "sentence_cn": "前排中央的是一位有着黑色短发、笑容灿烂的女人。",
+        "words": [
+            "person",
+            "center",
+            "woman",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She wears a black shirt and a bracelet on her right wrist.",
+        "sentence_cn": "她穿着一件黑色衬衫，右手腕上戴着一个手镯。",
+        "words": [
+            "shirt",
+            "bracelet",
+            "wrist"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind her, to the left, is a man wearing a green V-neck T-shirt, looking towards the camera.",
+        "sentence_cn": "在她身后左边，是一名身穿绿色 V 领 T 恤的男子，正看着镜头。",
+        "words": [
+            "left",
+            "man",
+            "neck",
+            "T",
+            "shirt",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a man in a black shirt and a black cap also faces the camera.",
+        "sentence_cn": "右边，一名身穿黑色衬衫、戴着黑色帽子的男子也面向镜头。",
+        "words": [
+            "right",
+            "man",
+            "shirt",
+            "cap",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man on the far right is wearing a blue and white striped shirt, covering his face with his hand, adorned with beaded bracelets.",
+        "sentence_cn": "最右边的男子身穿蓝白条纹衬衫，用手遮住脸，手上戴着串珠手镯。",
+        "words": [
+            "man",
+            "right",
+            "shirt",
+            "face",
+            "hand",
+            "bracelets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background appears to be a garden with lush green foliage.",
+        "sentence_cn": "背景看起来像是一个绿叶繁茂的花园。",
+        "words": [
+            "background",
+            "garden",
+            "foliage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene conveys a cheerful and candid moment.",
+        "sentence_cn": "这一场景传达出一个愉快而坦诚的时刻。",
+        "words": [
+            "scene"
+        ],
+        "id": null
+    }
+]

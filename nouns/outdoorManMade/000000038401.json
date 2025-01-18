@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image shows a single-engine airplane flying in the sky over a barren landscape.",
+        "sentence_cn": "图像显示一架单引擎飞机在荒芜的天空上飞行。",
+        "words": [
+            "engine",
+            "airplane",
+            "sky",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The aircraft is captured in mid-flight, slightly tilted to one side.",
+        "sentence_cn": "照片中，飞机在飞行过程中略微向一侧倾斜。",
+        "words": [
+            "aircraft",
+            "mid",
+            "-",
+            "flight",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a range of rocky, arid mountains under a partly cloudy sky.",
+        "sentence_cn": "背景中，是多云天空下一片岩石遍布的干旱山脉。",
+        "words": [
+            "background",
+            "range",
+            "mountains",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a tall, vertically striped blue and white pylon with a flag on top.",
+        "sentence_cn": "前景中，有一座高大的、垂直条纹的蓝白色塔架，顶部有一面旗帜。",
+        "words": [
+            "foreground",
+            "pylon",
+            "flag",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the base, several advertisements are visible, prominently featuring the brands \"Nikon\" and \"Breitling.\"",
+        "sentence_cn": "底座上清晰可见几则广告，显著地突出了“尼康”和“百年灵”等品牌。",
+        "words": [
+            "Nikon",
+            "Breitling.",
+            "base",
+            "advertisements",
+            "brands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area has a dry, desert-like terrain with sparse vegetation.",
+        "sentence_cn": "该地区地形干燥，类似沙漠，植被稀疏。",
+        "words": [
+            "area",
+            "desert",
+            "terrain",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also smaller structures and vehicles visible near the base of the pylon, suggesting this could be a setting for an air race or event.",
+        "sentence_cn": "在塔架底部附近还可以看到一些较小的建筑物和车辆，这表明这里可能是飞行比赛或活动的场地。",
+        "words": [
+            "structures",
+            "vehicles",
+            "base",
+            "pylon",
+            "air",
+            "race",
+            "event"
+        ],
+        "id": null
+    }
+]

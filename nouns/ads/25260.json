@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image is a Chick-fil-A advertisement featuring a cow dressed in business attire, with a blue shirt, tie, and suspenders.",
+        "sentence_cn": "图片是 Chick-fil-A 的广告，其中的奶牛身着职业装，身穿蓝色衬衫、系着领带和背带。",
+        "words": [
+            "cow",
+            "business",
+            "attire",
+            "shirt",
+            "tie",
+            "suspenders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cow is holding a large notepad with a humorous message that reads, \"Memo Frum Tha Boss: Chikin Gives U Bettr Leedership Skilz.\"",
+        "sentence_cn": "这头牛拿着一本大笔记本，上面写着一句幽默的话：“给老板的备忘录：小鸡给你更好的领导力技能。”",
+        "words": [
+            "Memo Frum Tha Boss: Chikin Gives U Bettr Leedership Skilz.",
+            "cow",
+            "notepad",
+            "message",
+            "Leedership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cow is also holding a red mug.",
+        "sentence_cn": "牛还拿着一个红色的杯子。",
+        "words": [
+            "cow",
+            "mug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Chick-fil-A logo is prominently displayed in red on the right side, with \"Princeton\" written underneath it.",
+        "sentence_cn": "Chick-fil-A 的红色标志在右侧显眼处显示，下方写着“普林斯顿”。",
+        "words": [
+            "Princeton",
+            "logo",
+            "red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo, there is contact information including an address, \"750 Oakvale Road, Princeton, WV,\" a phone number, \"682-282-5540,\" and a website, \"www.chick-fil-a.com/princeton.\"",
+        "sentence_cn": "标志下方有联系信息，包括地址“750 Oakvale Road, Princeton, WV”、电话号码“682-282-5540”和网站“www.chick-fil-a.com/princeton”。",
+        "words": [
+            "750 Oakvale Road, Princeton, WV,",
+            "682-282-5540,",
+            "www.chick-fil-a.com/princeton.",
+            "logo",
+            "contact",
+            "information",
+            "address",
+            "750",
+            "Princeton",
+            "WV",
+            "phone",
+            "number",
+            "682",
+            "-",
+            "282",
+            "-",
+            "5540",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image has a red border, and the ID number \"1090374074\" is at the bottom right corner.",
+        "sentence_cn": "图片带有红色边框，右下角有ID号“1090374074”。",
+        "words": [
+            "1090374074",
+            "border",
+            "ID",
+            "number",
+            "1090374074",
+            "corner"
+        ],
+        "id": null
+    }
+]

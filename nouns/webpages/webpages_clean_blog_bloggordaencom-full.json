@@ -1,0 +1,133 @@
+[
+    {
+        "sentence": "The image is a screenshot of a blog page from \"Gordaen's Blog,\" which focuses on art, education, culture, and more.",
+        "sentence_cn": "该图是“Gordaen 的博客”博客页面的截图，该博客主要关注艺术、教育、文化等主题。",
+        "words": [
+            "Gordaen's Blog,",
+            "blog",
+            "page",
+            "art",
+            "education",
+            "culture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a header with a collage of different images, possibly related to the blog's themes.",
+        "sentence_cn": "顶部有一个标题，其中拼贴着不同的图像，可能与博客的主题相关。",
+        "words": [
+            "top",
+            "header",
+            "collage",
+            "images",
+            "blog",
+            "themes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header, there's a navigation bar with links to \"Blog,\" \"About Author,\" and \"Blog Goal.\"",
+        "sentence_cn": "标题下方有一个导航栏，其中有“博客”、“关于作者”和“博客目标”的链接。",
+        "words": [
+            "Blog,",
+            "About Author,",
+            "Blog Goal.",
+            "header",
+            "navigation",
+            "bar",
+            "links",
+            "Blog",
+            "Author",
+            "Blog",
+            "Goal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content features a post titled \"Sketch Book 53: Alien Face,\" published on July 31st, 2011, in the Sketch Book category.",
+        "sentence_cn": "主要内容是一篇题为“素描簿 53：外星人面孔”的文章，发表于 2011 年 7 月 31 日，属于素描簿类别。",
+        "words": [
+            "Sketch Book 53: Alien Face,",
+            "content",
+            "post",
+            "53",
+            "31st",
+            "2011",
+            "category"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The post includes an image of a drawing in a sketchbook, showing an abstract or stylized alien face with large eyes and a helmet-like shape.",
+        "sentence_cn": "该帖子包含一张素描本上的图画，上面画着一个抽象或风格化的外星人面孔，有着大大的眼睛和头盔般的形状。",
+        "words": [
+            "post",
+            "drawing",
+            "sketchbook",
+            "alien",
+            "face",
+            "eyes",
+            "helmet",
+            "shape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The accompanying text discusses the author's process, focusing on the use of shadows and light to create a sense of depth.",
+        "sentence_cn": "随附的文字讨论了作者的创作过程，重点是使用阴影和光线来营造深度感。",
+        "words": [
+            "text",
+            "author",
+            "process",
+            "use",
+            "shadows",
+            "light",
+            "sense",
+            "depth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the blog, there is an advertisement for Crizal, with the tagline \"Live Life in the Clear.\"",
+        "sentence_cn": "在博客的左侧，有一条 Crizal 的广告，标语是“清晰地生活”。",
+        "words": [
+            "Live Life in the Clear.",
+            "blog",
+            "tagline",
+            "Life",
+            "Clear"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there are sections for \"Recent Posts,\" \"Other Pages,\" \"Various Blogs,\" and \"Categories.\"",
+        "sentence_cn": "右侧有“最近的帖子”、“其他页面”、“各种博客”和“类别”等部分。",
+        "words": [
+            "Recent Posts,",
+            "Other Pages,",
+            "Various Blogs,",
+            "Categories.",
+            "sections",
+            "Posts",
+            "Pages",
+            "Blogs",
+            "Categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These provide links to other posts and external blogs, categorized into themes like Advice, Automobiles, Book Reviews, Cultural, and more.",
+        "sentence_cn": "这些提供其他帖子和外部博客的链接，分为建议、汽车、书评、文化等主题。",
+        "words": [
+            "links",
+            "posts",
+            "blogs",
+            "themes",
+            "Advice",
+            "Automobiles",
+            "Book",
+            "Reviews"
+        ],
+        "id": null
+    }
+]

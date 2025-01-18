@@ -1,0 +1,139 @@
+[
+    {
+        "sentence": "The image shows a display of three antique ceramic vessels, each placed on a separate pedestal within a museum setting.",
+        "sentence_cn": "图中展示了三个古董陶瓷器皿，每个器皿都放置在博物馆内的单独基座上。",
+        "words": [
+            "display",
+            "three",
+            "vessels",
+            "pedestal",
+            "museum"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vessels vary in shape but share a similar color palette of warm tones, including browns, reds, and yellows.",
+        "sentence_cn": "这些容器的形状各异，但颜色都类似，都是暖色调，包括棕色、红色和黄色。",
+        "words": [
+            "vessels",
+            "shape",
+            "color",
+            "palette",
+            "tones",
+            "browns",
+            "reds",
+            "yellows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Vessel:",
+        "sentence_cn": "1. 左血管：",
+        "words": [
+            "Left Vessel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Short and round with a narrower neck and flared opening.",
+        "sentence_cn": "- 短而圆，颈部较窄，开口呈喇叭状。",
+        "words": [
+            "neck",
+            "opening"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Predominantly features a gradient of dark to light with orange and yellow hues.",
+        "sentence_cn": "- 主要以橙色和黄色色调从深色到浅色的渐变为特色。",
+        "words": [
+            "gradient",
+            "orange",
+            "hues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Center Vessel:",
+        "sentence_cn": "2. 中心容器：",
+        "words": [
+            "Center Vessel",
+            "Center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Taller with a long neck, slender handle, and pronounced spout, resembling a pitcher.",
+        "sentence_cn": "- 较高，颈部较长，手柄细长，壶嘴明显，形似水罐。",
+        "words": [
+            "neck",
+            "handle",
+            "spout",
+            "pitcher"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Exhibits a glossy finish with deep red and brown colors.",
+        "sentence_cn": "- 呈现深红色和棕色的光泽表面。",
+        "words": [
+            "finish",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right Vessel:",
+        "sentence_cn": "3. 右血管：",
+        "words": [
+            "Right Vessel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Tall with a large, rounded body tapering to a narrow neck and slightly flared rim.",
+        "sentence_cn": "- 高大，体型圆润，颈部细长，边缘略微张开。",
+        "words": [
+            "body",
+            "neck",
+            "rim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays a mix of amber and amber-brown tones with a shiny surface.",
+        "sentence_cn": "- 呈现琥珀色和琥珀棕色混合色调，表面有光泽。",
+        "words": [
+            "mix",
+            "amber",
+            "tones",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each pedestal includes a label with details about the piece, such as origin and approximate date, indicating their historical significance.",
+        "sentence_cn": "每个基座上都有一个标签，上面写着该作品的详细信息，例如来源和大致日期，表明其历史意义。",
+        "words": [
+            "pedestal",
+            "label",
+            "details",
+            "piece",
+            "origin",
+            "date",
+            "significance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is soft, highlighting the glossy texture and rich colors of the ceramics.",
+        "sentence_cn": "灯光柔和，凸显出陶瓷的光泽质感和丰富的色彩。",
+        "words": [
+            "lighting",
+            "texture",
+            "colors",
+            "ceramics"
+        ],
+        "id": null
+    }
+]

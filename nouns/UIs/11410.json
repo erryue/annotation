@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile webpage for Factory Connection on Facebook.",
+        "sentence_cn": "该图是 Facebook 上 Factory Connection 的移动网页截图。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the top, there's a Facebook banner with the site URL visible: `https://m.facebook.com/factoryconnectionretail`.",
+        "sentence_cn": "- 在顶部，有一个 Facebook 横幅，其中显示网站网址：“https://m.facebook.com/factoryconnectionretail”。",
+        "words": [
+            "top",
+            "banner",
+            "site",
+            "URL"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below that, the page invites users to connect with Factory Connection on Facebook with options to \"Join\" or \"Log In.\"",
+        "sentence_cn": "- 下方，该页面邀请用户通过 Facebook 与 Factory Connection 建立联系，并提供“加入”或“登录”选项。",
+        "words": [
+            "Join",
+            "Log In.",
+            "page",
+            "users",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There's a promotional image featuring three models.",
+        "sentence_cn": "- 这是一张有三种型号的宣传图片。",
+        "words": [
+            "three",
+            "models"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A woman on the left is wearing a green top with pink pants, a man in the middle is wearing a plaid shirt with jeans, and another woman on the right is in a pink dress.",
+        "sentence_cn": "左边的一名女子身穿绿色上衣和粉色裤子，中间的一名男子身穿格子衬衫和牛仔裤，右边的另一位女子身穿粉色连衣裙。",
+        "words": [
+            "woman",
+            "left",
+            "top",
+            "pants",
+            "man",
+            "middle",
+            "shirt",
+            "jeans",
+            "woman",
+            "right",
+            "dress"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The tagline \"The Looks You Love for Less\" is displayed next to the models.",
+        "sentence_cn": "- 模特旁边显示着标语“便宜买到您喜欢的造型”。",
+        "words": [
+            "The Looks You Love for Less",
+            "tagline",
+            "Looks",
+            "models"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the bottom, there's the Factory Connection logo with their username: `@factoryconnectionretail`.",
+        "sentence_cn": "- 底部是 Factory Connection 徽标及其用户名：“@factoryconnectionretail”。",
+        "words": [
+            "bottom",
+            "logo",
+            "username"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A \"Sign Up\" button is highlighted in blue at the bottom of the screen.",
+        "sentence_cn": "- 屏幕底部的“注册”按钮以蓝色突出显示。",
+        "words": [
+            "Sign Up",
+            "button",
+            "blue",
+            "bottom",
+            "screen"
+        ],
+        "id": null
+    }
+]

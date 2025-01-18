@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image shows a screenshot of a social networking app called \"GROWLr.\"",
+        "sentence_cn": "图中显示的是一款名为“GROWLr”的社交网络应用程序的屏幕截图。",
+        "words": [
+            "GROWLr.",
+            "networking",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface displays profiles of various users, each represented by a grid of small rectangular tiles.",
+        "sentence_cn": "界面显示各种用户的个人资料，每个用户都由一个小矩形网格表示。",
+        "words": [
+            "interface",
+            "profiles",
+            "users",
+            "grid",
+            "tiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each tile displays a profile picture, a username, and a green dot indicating online status.",
+        "sentence_cn": "每个图块显示一张个人资料图片、一个用户名和一个表示在线状态的绿点。",
+        "words": [
+            "tile",
+            "profile",
+            "picture",
+            "username",
+            "dot",
+            "status"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some tiles have images of people, while others have icons of a bear's face, which is likely part of the app's theme.",
+        "sentence_cn": "有些图块上有人物图像，而另一些则有熊脸的图标，这可能是该应用程序主题的一部分。",
+        "words": [
+            "tiles",
+            "images",
+            "people",
+            "others",
+            "icons",
+            "bear",
+            "face",
+            "part",
+            "app",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app menu offers options like \"Global,\" \"Nearby,\" \"Favorite,\" and \"Search.\"",
+        "sentence_cn": "应用程序菜单提供“全球”、“附近”、“收藏夹”和“搜索”等选项。",
+        "words": [
+            "Global,",
+            "Nearby,",
+            "Favorite,",
+            "Search.",
+            "app",
+            "menu",
+            "options",
+            "Favorite"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen's status bar shows various app icons along with the time \"7:17.\"",
+        "sentence_cn": "屏幕的状态栏显示各种应用程序图标以及时间“7:17”。",
+        "words": [
+            "7:17.",
+            "screen",
+            "status",
+            "bar",
+            "app",
+            "icons",
+            "time",
+            "7:17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is an advertisement for Audible.",
+        "sentence_cn": "底部有 Audible 的广告。",
+        "words": [
+            "bottom"
+        ],
+        "id": null
+    }
+]

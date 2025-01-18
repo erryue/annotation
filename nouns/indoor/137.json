@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image depicts a vintage office setting.",
+        "sentence_cn": "该图描绘的是复古的办公室场景。",
+        "words": [
+            "office"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central focus is a brown desk with a cushioned office chair behind it.",
+        "sentence_cn": "中心焦点是一张棕色的办公桌，后面有一把带软垫的办公椅。",
+        "words": [
+            "focus",
+            "desk",
+            "office",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there are several items, including a stack of papers, a lamp, a telephone, and a large brown box.",
+        "sentence_cn": "桌子上有几件物品，包括一叠纸、一盏灯、一部电话和一个棕色的大盒子。",
+        "words": [
+            "desk",
+            "items",
+            "stack",
+            "papers",
+            "lamp",
+            "telephone",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the desk, there¡¯s an old-style typewriter placed on a cabinet, with an accordion file organizer beside it.",
+        "sentence_cn": "书桌后面的柜子上放着一台老式打字机，旁边有一个折叠式文件整理器。",
+        "words": [
+            "desk",
+            "style",
+            "typewriter",
+            "cabinet",
+            "accordion",
+            "file",
+            "organizer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the desk, there are vertical file trays stacked on top of each other.",
+        "sentence_cn": "桌子的左边，有垂直堆叠的文件托盘。",
+        "words": [
+            "left",
+            "desk",
+            "file",
+            "trays",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby, there is a colorful filing cabinet with drawers in blue, yellow, and gray.",
+        "sentence_cn": "附近有一个色彩鲜艳的文件柜，抽屉颜色为蓝色、黄色和灰色。",
+        "words": [
+            "filing",
+            "cabinet",
+            "drawers",
+            "gray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A dark briefcase or bag is placed on top of the cabinet next to a beige wall.",
+        "sentence_cn": "深色公文包或包放在米色墙壁旁的柜子顶部。",
+        "words": [
+            "briefcase",
+            "bag",
+            "top",
+            "cabinet",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the scene, a small CRT television is mounted from the ceiling.",
+        "sentence_cn": "场景上方，天花板上安装有一台小型 CRT 电视。",
+        "words": [
+            "scene",
+            "television",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the back wall, a small framed picture or photograph is hung.",
+        "sentence_cn": "后墙上挂着一幅小相框或照片。",
+        "words": [
+            "wall",
+            "picture",
+            "photograph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has linoleum flooring and is painted in neutral tones.",
+        "sentence_cn": "房间内铺有油毡地板，并漆成中性色调。",
+        "words": [
+            "room",
+            "linoleum",
+            "flooring",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The office conveys a mid-20th-century atmosphere with its overall aesthetic and furnishings.",
+        "sentence_cn": "办公室的整体美感和家具都传达出 20 世纪中期的氛围。",
+        "words": [
+            "office",
+            "century",
+            "atmosphere",
+            "aesthetic",
+            "furnishings"
+        ],
+        "id": null
+    }
+]

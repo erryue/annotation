@@ -1,0 +1,309 @@
+[
+    {
+        "sentence": "The image is a screenshot of a flight booking results page for a trip from New York to San Francisco.",
+        "sentence_cn": "该图是从 纽约 飞往 旧金山 的航班预订结果页面的屏幕截图。",
+        "words": [
+            "flight",
+            "booking",
+            "results",
+            "page",
+            "trip",
+            "New",
+            "York",
+            "San",
+            "Francisco"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Header:",
+        "sentence_cn": "-标题：",
+        "words": [
+            "Header:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The route is from \"New York\" to \"San Francisco.\"",
+        "sentence_cn": "- 路线从“纽约”到“旧金山”。",
+        "words": [
+            "New York",
+            "San Francisco.",
+            "route",
+            "New",
+            "York",
+            "San",
+            "Francisco"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Travel dates are \"Sat 15 Apr - Mon 17 Apr.\"",
+        "sentence_cn": "- 旅行日期为“4 月 15 日星期六 - 4 月 17 日星期一”。",
+        "words": [
+            "Sat 15 Apr - Mon 17 Apr.",
+            "Travel",
+            "dates",
+            "15",
+            "17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The number of passengers is 1.",
+        "sentence_cn": "- 乘客人数为 1 人。",
+        "words": [
+            "number",
+            "passengers",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Flight Option 1:",
+        "sentence_cn": "- 航班选项 1：",
+        "words": [
+            "Flight Option 1:",
+            "Flight",
+            "Option",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Price: $678.22 (all taxes and fees included)",
+        "sentence_cn": "- 价格：678.22 美元（含所有税费）",
+        "words": [
+            "Price:",
+            "Price",
+            "678.22",
+            "taxes",
+            "fees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Airline: Delta Air Lines (logo displayed)",
+        "sentence_cn": "- 航空公司：达美航空（显示徽标）",
+        "words": [
+            "Airline:",
+            "Airline",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Departure:",
+        "sentence_cn": "- 出发：",
+        "words": [
+            "Departure:",
+            "Departure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Leaves from Stewart (SWF) Newburgh, NY at 12:30 PM.",
+        "sentence_cn": "- 下午 12:30 从纽约州纽堡斯图尔特 (SWF) 出发。",
+        "words": [
+            "Newburgh",
+            "NY",
+            "12:30",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Arrives at San Francisco Intl Airport (SFO) at 06:07 PM.",
+        "sentence_cn": "- 下午 6:07 抵达旧金山国际机场 (SFO)。",
+        "words": [
+            "06:07",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Duration is 08 hours and 37 minutes with one stop.",
+        "sentence_cn": "- 持续时间为 8 小时 37 分钟，中途停靠一次。",
+        "words": [
+            "Duration",
+            "08",
+            "hours",
+            "37",
+            "minutes",
+            "one",
+            "stop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Stopover in Detroit for 1 hour and 41 minutes.",
+        "sentence_cn": "- 在底特律停留 1 小时 41 分钟。",
+        "words": [
+            "Stopover",
+            "Detroit",
+            "1",
+            "hour",
+            "41",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Hand luggage only.",
+        "sentence_cn": "- 仅限手提行李。",
+        "words": [
+            "Hand",
+            "luggage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Operated by SKYWEST DBA DELTA CONNECTION.",
+        "sentence_cn": "- 由 SKYWEST DBA DELTA CONNECTION 运营。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Return:",
+        "sentence_cn": "- 返回：",
+        "words": [
+            "Return:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Leaves San Francisco Intl Airport (SFO) at 04:05 PM.",
+        "sentence_cn": "- 下午 04:05 离开旧金山国际机场 (SFO)。",
+        "words": [
+            "04:05",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Arrives at John F Kennedy Intl Airport (JFK) at 12:45 AM (+1 day).",
+        "sentence_cn": "- 凌晨 12:45 抵达约翰·F·肯尼迪国际机场 (JFK)（+1 天）。",
+        "words": [
+            "12:45",
+            "AM",
+            "+1",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Duration is 05 hours and 40 minutes, direct flight.",
+        "sentence_cn": "- 飞行时间为 5 小时 40 分钟，直飞。",
+        "words": [
+            "Duration",
+            "05",
+            "hours",
+            "40",
+            "minutes",
+            "flight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Only 1 seat left (highlighted in orange).",
+        "sentence_cn": "- 仅剩 1 个座位（以橙色突出显示）。",
+        "words": [
+            "1",
+            "seat",
+            "orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Hand luggage only.",
+        "sentence_cn": "- 仅限手提行李。",
+        "words": [
+            "Hand",
+            "luggage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Flight Option 2:",
+        "sentence_cn": "- 航班选项 2：",
+        "words": [
+            "Flight Option 2:",
+            "Flight",
+            "Option",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Price: $682.47 (all taxes and fees included, details for this option are not entirely shown but similar format follows up).",
+        "sentence_cn": "- 价格：682.47 美元（含所有税费，此选项的详细信息未完全显示，但格式类似）。",
+        "words": [
+            "Price:",
+            "Price",
+            "682.47",
+            "taxes",
+            "fees",
+            "details",
+            "option",
+            "format"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Interface:",
+        "sentence_cn": "- 界面：",
+        "words": [
+            "Interface:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The screen also shows icons and symbols at the top indicating functions like account, settings, and search settings.",
+        "sentence_cn": "- 屏幕顶部还显示图标和符号，表示帐户、设置和搜索设置等功能。",
+        "words": [
+            "screen",
+            "icons",
+            "symbols",
+            "top",
+            "functions",
+            "account",
+            "settings",
+            "search",
+            "settings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface appears to be from a mobile application used for flight booking, with various details and interactive elements like checkboxes for selection.",
+        "sentence_cn": "该界面似乎来自一个用于航班预订的移动应用程序，具有各种细节和交互元素，如可供选择的复选框。",
+        "words": [
+            "interface",
+            "application",
+            "flight",
+            "booking",
+            "details",
+            "elements",
+            "checkboxes",
+            "selection"
+        ],
+        "id": null
+    }
+]

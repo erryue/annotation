@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image is an advertisement for Cold Stone Creamery's Shark Week-themed products.",
+        "sentence_cn": "该图是 Cold Stone Creamery 鲨鱼周主题产品的广告。",
+        "words": [
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the image features the bold text, \"YOU'RE GONNA NEED A BIGGER SPOON.\"",
+        "sentence_cn": "图片顶部有粗体文字“你需要一把更大的勺子”。",
+        "words": [
+            "YOU'RE GONNA NEED A BIGGER SPOON.",
+            "top",
+            "text",
+            "SPOON"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that, the text mentions that the products are in celebration of Shark Week, stating that they are available starting July 8th.",
+        "sentence_cn": "下面的文字提到这些产品是为了庆祝鲨鱼周，并指出这些产品将于 7 月 8 日开始发售。",
+        "words": [
+            "text",
+            "products",
+            "celebration",
+            "8th"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two main products highlighted:",
+        "sentence_cn": "其中主要有两款产品值得关注：",
+        "words": [
+            "two",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A cake with ocean-themed toppings:",
+        "sentence_cn": "1. 带有海洋主题配料的蛋糕：",
+        "words": [
+            "A cake with ocean-themed toppings",
+            "cake",
+            "ocean",
+            "toppings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It is a blue cake with frosting designed to look like water.",
+        "sentence_cn": "- 这是一个蓝色的蛋糕，上面的糖霜设计得像水。",
+        "words": [
+            "cake",
+            "frosting",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The cake is topped with gummy sharks and crumbs resembling sand.",
+        "sentence_cn": "- 蛋糕顶部有鲨鱼软糖和类似沙子的碎屑。",
+        "words": [
+            "cake",
+            "sharks",
+            "crumbs",
+            "sand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A Cold Stone Creamery cup labeled \"SHARK WEEK FRENZY\":",
+        "sentence_cn": "2. 标有“SHARK WEEK FRENZY”字样的Cold Stone Creamery 杯子：",
+        "words": [
+            "A Cold Stone Creamery cup labeled \"SHARK WEEK FRENZY\"",
+            "cup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The cup contains a similar mix of blue ice cream and crumb toppings, decorated with gummy sharks.",
+        "sentence_cn": "- 杯子里装有类似的蓝色冰淇淋和碎屑混合物，并用软糖鲨鱼装饰。",
+        "words": [
+            "cup",
+            "mix",
+            "ice",
+            "cream",
+            "crumb",
+            "toppings",
+            "sharks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also provides a description of \"THIS CAKE BITES,\" featuring layers of moist Devil¡¯s Food Cake and Blue Sweet Cream Ice Cream with Oreo Cookies wrapped in fluffy blue frosting topped with gummy sharks.",
+        "sentence_cn": "图片还提供了“这块蛋糕很美味”的描述，其特色是层层湿润的魔鬼蛋糕和蓝色甜奶油冰淇淋，以及用蓬松的蓝色糖霜包裹的奥利奥饼干，上面还有软糖鲨鱼。",
+        "words": [
+            "THIS CAKE BITES,",
+            "layers",
+            "frosting",
+            "sharks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "For \"SHARK WEEK FRENZY,\" it describes Blue Sweet Cream Ice Cream with Graham Cracker Pie Crust and Gummy Sharks.",
+        "sentence_cn": "对于“鲨鱼周狂热”，它描述了蓝色甜奶油冰淇淋与全麦饼干饼皮和软糖鲨鱼。",
+        "words": [
+            "SHARK WEEK FRENZY,"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features icy blue colors and an appealing presentation of the featured products.",
+        "sentence_cn": "背景采用冰蓝色，并对特色产品进行了吸引人的展示。",
+        "words": [
+            "background",
+            "colors",
+            "presentation",
+            "products"
+        ],
+        "id": null
+    }
+]

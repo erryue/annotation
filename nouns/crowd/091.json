@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image shows two people sitting at a small, round wooden table in what appears to be a cozy caf¨¦ or restaurant setting with a warm ambiance.",
+        "sentence_cn": "照片中，两个人坐在一张小圆形木桌旁，周围看起来像是一个舒适的咖啡馆或餐厅，氛围温馨。",
+        "words": [
+            "two",
+            "people",
+            "table",
+            "caf¨",
+            "restaurant",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the left is wearing a blue long-sleeve shirt and resting their chin on their hand, appearing engaged in the conversation.",
+        "sentence_cn": "左边的人穿着蓝色长袖衬衫，手托着下巴，似乎正在交谈。",
+        "words": [
+            "person",
+            "left",
+            "sleeve",
+            "shirt",
+            "chin",
+            "hand",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Papers are spread out on the table in front of them alongside a glass of dark liquid, possibly iced coffee or soda.",
+        "sentence_cn": "他们面前的桌子上摊着纸张，旁边放着一杯深色液体，可能是冰咖啡或苏打水。",
+        "words": [
+            "Papers",
+            "table",
+            "front",
+            "glass",
+            "liquid",
+            "coffee",
+            "soda"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the right is wearing a red long-sleeve top, leaning slightly forward and listening attentively.",
+        "sentence_cn": "右边的人穿着红色长袖上衣，身体微微前倾，专心致志地听着。",
+        "words": [
+            "person",
+            "right",
+            "sleeve",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of them is a white mug resting on a coaster.",
+        "sentence_cn": "他们面前的杯垫上放着一个白色杯子。",
+        "words": [
+            "front",
+            "mug",
+            "coaster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has several other people seated at tables, engaged in their own activities.",
+        "sentence_cn": "背景中还有其他几个人坐在桌边，忙着自己的活动。",
+        "words": [
+            "background",
+            "people",
+            "tables",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is inviting, with soft lighting and wooden floors, and a brick wall that adds to the rustic charm.",
+        "sentence_cn": "环境非常温馨，柔和的灯光、木地板和砖墙更增添了乡村风情。",
+        "words": [
+            "lighting",
+            "floors",
+            "brick",
+            "wall",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall mood is relaxed and conversational.",
+        "sentence_cn": "总体氛围是轻松而愉快的。",
+        "words": [
+            "mood"
+        ],
+        "id": null
+    }
+]

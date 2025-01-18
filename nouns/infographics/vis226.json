@@ -1,0 +1,375 @@
+[
+    {
+        "sentence": "The infographic illustrates the average number of cigarettes smoked yearly by residents of various cities around the world.",
+        "sentence_cn": "该信息图显示了世界各地各个城市居民每年吸烟的平均数量。",
+        "words": [
+            "number",
+            "cigarettes",
+            "residents",
+            "cities",
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It compares these numbers to the heights of well-known structures, providing a visual sense of scale.",
+        "sentence_cn": "它将这些数字与著名建筑物的高度进行比较，提供视觉上的规模感。",
+        "words": [
+            "numbers",
+            "heights",
+            "structures",
+            "sense",
+            "scale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed breakdown:",
+        "sentence_cn": "以下是详细分析：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Cigarettes Smoked Annually by Average City Resident:",
+        "sentence_cn": "### 城市居民平均每年吸烟量：",
+        "words": [
+            "Cigarettes",
+            "City",
+            "Resident"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Japan: 3,023 cigarettes",
+        "sentence_cn": "- 日本：3,023 支香烟",
+        "words": [
+            "Japan",
+            "3,023",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: MetLife Building, New York (819 ft)",
+        "sentence_cn": "- 相比：纽约大都会人寿大厦（819 英尺）",
+        "words": [
+            "New",
+            "York",
+            "819",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- USA: 2,255 cigarettes",
+        "sentence_cn": "- 美国：2,255 支香烟",
+        "words": [
+            "USA",
+            "2,255",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Space Needle, Seattle (610 ft)",
+        "sentence_cn": "- 相比：西雅图太空针塔（610 英尺）",
+        "words": [
+            "Seattle",
+            "610",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- France: 2,058 cigarettes",
+        "sentence_cn": "- 法国：2,058 支香烟",
+        "words": [
+            "France",
+            "2,058",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: 30 St Mary Axe, London (The Gherkin) (587 ft)",
+        "sentence_cn": "- 相比：伦敦圣玛丽斧街 30 号（小黄瓜）（587 英尺）",
+        "words": [
+            "30",
+            "London",
+            "587",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- China: 1,791 cigarettes",
+        "sentence_cn": "- 中国：1,791支香烟",
+        "words": [
+            "China",
+            "1,791",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Great Pyramid of Giza, Cairo (481 ft)",
+        "sentence_cn": "- 相比：开罗吉萨大金字塔（481 英尺）",
+        "words": [
+            "Cairo",
+            "481",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Russia: 1,702 cigarettes",
+        "sentence_cn": "- 俄罗斯：1,702 支香烟",
+        "words": [
+            "Russia",
+            "1,702",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: London Eye, London (443 ft)",
+        "sentence_cn": "- 相比：伦敦眼，伦敦（443 英尺）",
+        "words": [
+            "London",
+            "443",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Brazil: 858 cigarettes",
+        "sentence_cn": "- 巴西：858 支香烟",
+        "words": [
+            "Brazil",
+            "858",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Notre Dame Cathedral, Paris (226 ft)",
+        "sentence_cn": "- 相比：巴黎圣母院（226 英尺）",
+        "words": [
+            "Paris",
+            "226",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Mexico: 750 cigarettes",
+        "sentence_cn": "- 墨西哥：750 支香烟",
+        "words": [
+            "Mexico",
+            "750",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Lincoln Memorial, Washington D.C. (190 ft)",
+        "sentence_cn": "- 相比：华盛顿特区林肯纪念堂（190 英尺）",
+        "words": [
+            "Washington",
+            "D.C.",
+            "190",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Pakistan: 564 cigarettes",
+        "sentence_cn": "- 巴基斯坦：564支香烟",
+        "words": [
+            "Pakistan",
+            "564",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Statue of Liberty, New York (151 ft)",
+        "sentence_cn": "- 相比：纽约自由女神像（151 英尺）",
+        "words": [
+            "New",
+            "York",
+            "151",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Bangladesh: 245 cigarettes",
+        "sentence_cn": "- 孟加拉国：245 支香烟",
+        "words": [
+            "Bangladesh",
+            "Bangladesh",
+            "245",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Great Sphinx of Giza, Cairo (66 ft)",
+        "sentence_cn": "- 相比：开罗吉萨大狮身人面像（66 英尺）",
+        "words": [
+            "Cairo",
+            "66",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- India: 129 cigarettes",
+        "sentence_cn": "- 印度：129支香烟",
+        "words": [
+            "India",
+            "129",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Great Wall of China (30 ft)",
+        "sentence_cn": "- 相比：中国长城（30 英尺）",
+        "words": [
+            "30",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Ethiopia: 82 cigarettes",
+        "sentence_cn": "- 埃塞俄比亚：82支香烟",
+        "words": [
+            "Ethiopia",
+            "82",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Compared to: Michelangelo's David, Florence (23.5 ft)",
+        "sentence_cn": "- 相比：佛罗伦萨米开朗基罗的大卫像（23.5 英尺）",
+        "words": [
+            "Florence",
+            "23.5",
+            "ft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Global Smoking:",
+        "sentence_cn": "### 全球吸烟：",
+        "words": [
+            "Smoking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- World Population: Smokes 15 billion cigarettes daily.",
+        "sentence_cn": "- 世界人口：每天吸 150 亿支香烟。",
+        "words": [
+            "World Population",
+            "World",
+            "Population",
+            "15",
+            "billion",
+            "cigarettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Laid end-to-end, these cigarettes would stretch 769,412 miles, equivalent to 3.2 trips to the moon.",
+        "sentence_cn": "- 如果将这些香烟首尾相连，长度可达 769,412 英里，相当于 3.2 次月球之旅。",
+        "words": [
+            "end",
+            "end",
+            "cigarettes",
+            "769,412",
+            "miles",
+            "3.2",
+            "trips",
+            "moon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visual effectively combines statistical data with iconic architecture to give a tangible understanding of cigarette consumption across different nations.",
+        "sentence_cn": "该视觉效果有效地将统计数据与标志性建筑结合起来，让人们切实了解不同国家的香烟消费情况。",
+        "words": [
+            "data",
+            "architecture",
+            "understanding",
+            "cigarette",
+            "consumption",
+            "nations"
+        ],
+        "id": null
+    }
+]

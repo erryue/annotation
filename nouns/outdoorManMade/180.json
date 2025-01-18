@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image features a large resort area next to an expansive pool.",
+        "sentence_cn": "图片展示的是大型度假区，旁边有一个宽阔的游泳池。",
+        "words": [
+            "resort",
+            "area",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool is one of the largest in the world, situated alongside a beach with ocean waves visible in the background.",
+        "sentence_cn": "该泳池是世界上最大的泳池之一，位于海滩旁，背景中可见海浪。",
+        "words": [
+            "pool",
+            "one",
+            "world",
+            "beach",
+            "ocean",
+            "waves",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The resort buildings are multi-story and modern, with balconies offering views of the pool and beach.",
+        "sentence_cn": "度假村的建筑是多层的，非常现代化，设有阳台，可以欣赏泳池和海滩的景色。",
+        "words": [
+            "resort",
+            "buildings",
+            "balconies",
+            "views",
+            "pool",
+            "beach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The architectural design is stepped, with each level having terraces.",
+        "sentence_cn": "建筑设计呈阶梯状，每层均设有露台。",
+        "words": [
+            "design",
+            "level",
+            "terraces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool itself is crystal clear and includes a couple of boats, possibly sailboats, suggesting it's big enough for water activities.",
+        "sentence_cn": "游泳池本身清澈见底，里面有几艘船，可能是帆船，这表明它足够大，可以进行水上活动。",
+        "words": [
+            "pool",
+            "crystal",
+            "couple",
+            "boats",
+            "sailboats",
+            "water",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around the pool, there are sandy areas with lounge chairs and umbrellas, creating a beach-like atmosphere.",
+        "sentence_cn": "泳池周围是沙地，配有躺椅和遮阳伞，营造出海滩般的氛围。",
+        "words": [
+            "pool",
+            "areas",
+            "lounge",
+            "chairs",
+            "umbrellas",
+            "beach",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Palm trees and well-maintained lawns add to the tropical feel.",
+        "sentence_cn": "棕榈树和维护良好的草坪增添了热带风情。",
+        "words": [
+            "Palm",
+            "trees",
+            "lawns",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is sunny with a clear sky, enhancing the vibrant and inviting ambiance of the resort.",
+        "sentence_cn": "阳光灿烂，天空晴朗，增添了度假村生机勃勃、诱人的氛围。",
+        "words": [
+            "scene",
+            "sky",
+            "ambiance",
+            "resort"
+        ],
+        "id": null
+    }
+]

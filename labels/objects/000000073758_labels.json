@@ -1,0 +1,68 @@
+[
+    {
+        "id": "7e59f057-1bb6-49dc-b62b-7fcd22bf86db",
+        "confidence": 0.86245,
+        "class": "laptop",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 431.15765,
+                        "minY": 178.97046,
+                        "maxX": 564.11481,
+                        "maxY": 302.72388
+                    },
+                    "x": 431.15765,
+                    "y": 178.97046,
+                    "w": 132.95716000000004,
+                    "h": 123.75342
+                }
+            }
+        }
+    },
+    {
+        "id": "9a996073-0700-4641-86ab-7688a6a7c242",
+        "confidence": 0.86236,
+        "class": "tv",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 238.37337,
+                        "minY": 114.25229,
+                        "maxX": 395.04352,
+                        "maxY": 241.48016
+                    },
+                    "x": 238.37337,
+                    "y": 114.25229,
+                    "w": 156.67015,
+                    "h": 127.22787000000001
+                }
+            }
+        }
+    },
+    {
+        "id": "23607494-0de2-4d9c-92fa-30f3de430986",
+        "confidence": 0.85411,
+        "class": "keyboard",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 265.06146,
+                        "minY": 277.4223,
+                        "maxX": 458.76105,
+                        "maxY": 328.62091
+                    },
+                    "x": 265.06146,
+                    "y": 277.4223,
+                    "w": 193.69959,
+                    "h": 51.198609999999974
+                }
+            }
+        }
+    }
+]

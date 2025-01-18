@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image features a promotional display for \"BlackBerry Balance.\"",
+        "sentence_cn": "图片为“BlackBerry Balance”的促销展示。",
+        "words": [
+            "BlackBerry Balance.",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows two smartphones side by side, each being held in someone's hand.",
+        "sentence_cn": "照片中，两部智能手机并排摆放，每部都被某人握在手中。",
+        "words": [
+            "two",
+            "smartphones",
+            "side",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The phone on the left is white, and the person holding it appears to be interacting with the screen.",
+        "sentence_cn": "- 左边的手机是白色的，拿着它的人似乎正在与屏幕互动。",
+        "words": [
+            "phone",
+            "person",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background and the holder¡¯s attire suggest a business or professional setting.",
+        "sentence_cn": "背景和持有者的服装表明了商业或专业场景。",
+        "words": [
+            "background",
+            "attire",
+            "business"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The phone on the right is black, held by another person, with a blurred outdoor or natural background, indicating a casual setting.",
+        "sentence_cn": "- 右侧的手机是黑色的，由另一个人拿着，背景为模糊的户外或自然背景，表明场景休闲。",
+        "words": [
+            "phone",
+            "right",
+            "person",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both phones display a home screen with various app icons like email, social media, calendar, and documents.",
+        "sentence_cn": "两款手机的主屏幕上都显示有各种应用程序图标，如电子邮件、社交媒体、日历和文档。",
+        "words": [
+            "phones",
+            "home",
+            "screen",
+            "app",
+            "icons",
+            "email",
+            "media",
+            "calendar",
+            "documents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section of the display reads \"BLACKBERRY BALANCE,\" and the bottom right corner contains the logo and website ¡°RAPID BERRY.net.¡±",
+        "sentence_cn": "显示屏顶部显示“BLACKBERRY BALANCE”，右下角包含徽标和网站“RAPID BERRY.net”。",
+        "words": [
+            "BLACKBERRY BALANCE,",
+            "section",
+            "display",
+            "BLACKBERRY",
+            "BALANCE",
+            "corner",
+            "logo",
+            "website",
+            "RAPID"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme suggests a balance between professional and personal life using BlackBerry devices.",
+        "sentence_cn": "总体主题表明使用黑莓设备可以在职业和个人生活之间取得平衡。",
+        "words": [
+            "theme",
+            "balance",
+            "life",
+            "devices"
+        ],
+        "id": null
+    }
+]

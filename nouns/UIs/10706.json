@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile app showing jokes about marriage.",
+        "sentence_cn": "该图片是来自某手机应用程序的截图，其中展示了一些有关婚姻的笑话。",
+        "words": [
+            "mobile",
+            "app",
+            "jokes",
+            "marriage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top panel features a humorous statement: \"I made the mistake of asking my wife what women want... she has been talking non-stop for the last 3 days!\"",
+        "sentence_cn": "- 顶部面板上有一句幽默的语句：“我犯了一个错误，问我的妻子女人想要什么...... 过去三天她一直在不停地说话！”",
+        "words": [
+            "I made the mistake of asking my wife what women want... she has been talking non-stop for the last 3 days!",
+            "panel",
+            "statement",
+            "mistake",
+            "wife",
+            "women",
+            "3",
+            "days"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It depicts a cartoonish illustration of a man and a woman; the woman is shown speaking animatedly while the man has a slightly overwhelmed posture.",
+        "sentence_cn": "该作品描绘的是一名男子和一名女子的卡通画；画中女子正在生动地讲话，而男子则显得有些不知所措。",
+        "words": [
+            "illustration",
+            "man",
+            "woman",
+            "woman",
+            "man",
+            "posture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The bottom panel starts with the phrase \"A Man's Wife Has More Power Over Him Than\" but is cut off, implying more text follows.",
+        "sentence_cn": "- 底部面板以短语“男人的妻子比他更有权力”开头，但被切断，暗示后面还有更多文字。",
+        "words": [
+            "A Man's Wife Has More Power Over Him Than",
+            "panel",
+            "phrase",
+            "Man",
+            "Wife",
+            "Power",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes a stylized graphic of a woman with a thoughtful expression.",
+        "sentence_cn": "其中包括一位表情若有所思的女性风格图形。",
+        "words": [
+            "graphic",
+            "woman",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also shows app interface elements like sharing and favorite buttons, and an Amazon Shopping ad partially covering the bottom of the screenshot.",
+        "sentence_cn": "该图还展示了应用程序界面元素，如共享和收藏按钮，以及部分覆盖屏幕截图底部的亚马逊购物广告。",
+        "words": [
+            "app",
+            "interface",
+            "elements",
+            "sharing",
+            "buttons",
+            "ad",
+            "bottom"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image depicts a cozy and elegantly decorated living room.",
+        "sentence_cn": "图像描绘的是一间舒适且装饰典雅的客厅。",
+        "words": [
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point is a white sofa adorned with an assortment of plush cushions in shades of brown, orange, and gold.",
+        "sentence_cn": "焦点是一张白色的沙发，上面装饰着各种棕色、橙色和金色的毛绒靠垫。",
+        "words": [
+            "point",
+            "sofa",
+            "assortment",
+            "cushions",
+            "shades",
+            "brown",
+            "orange",
+            "gold"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One pillow has a detailed tapestry-like design with an artistic image on it.",
+        "sentence_cn": "其中一个枕头具有细致的挂毯式设计，上面有艺术图像。",
+        "words": [
+            "One",
+            "pillow",
+            "tapestry",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the sofa, decorative plates in brown and cream tones are arranged on the wall, with a larger, more ornate plate centered among them.",
+        "sentence_cn": "沙发上方的墙壁上排列着棕色和奶油色的装饰盘，其中中央有一块更大、更华丽的盘子。",
+        "words": [
+            "sofa",
+            "plates",
+            "cream",
+            "tones",
+            "wall",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wall color is a soft, warm tone that complements the decor.",
+        "sentence_cn": "墙壁颜色柔和、温暖，与装饰相得益彰。",
+        "words": [
+            "wall",
+            "color",
+            "tone",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is an armchair with a pleated skirt, also decorated with an intricately designed pillow.",
+        "sentence_cn": "左边有一把带百褶裙的扶手椅，上面还装饰着一个设计精美的枕头。",
+        "words": [
+            "left",
+            "armchair",
+            "skirt",
+            "pillow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A glass-top coffee table with decorative wrought iron legs sits in front of the sofa, holding a few books.",
+        "sentence_cn": "沙发前有一张玻璃面咖啡桌，配有装饰性的锻铁桌腿，上面放着几本书。",
+        "words": [
+            "glass",
+            "top",
+            "coffee",
+            "table",
+            "iron",
+            "legs",
+            "front",
+            "sofa",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fringed throw is casually draped over an ottoman beside the table.",
+        "sentence_cn": "流苏毯子随意地搭在桌子旁边的凳子上。",
+        "words": [
+            "throw",
+            "ottoman",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, a small side table holds a bowl filled with fruit, adding a touch of natural color.",
+        "sentence_cn": "角落里的小边桌上放着一碗水果，增添了一丝自然的色彩。",
+        "words": [
+            "corner",
+            "table",
+            "bowl",
+            "fruit",
+            "touch",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A leafy plant adds a fresh, green element to the space, enhancing the inviting and classical atmosphere of the room.",
+        "sentence_cn": "多叶植物给空间增添了清新的绿色元素，增强了房间温馨而古典的氛围。",
+        "words": [
+            "plant",
+            "element",
+            "space",
+            "atmosphere",
+            "room"
+        ],
+        "id": null
+    }
+]

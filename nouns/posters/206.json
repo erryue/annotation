@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image is a poster for the film \"Akira.\"",
+        "sentence_cn": "图片是电影《阿基拉》的海报。",
+        "words": [
+            "Akira.",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a character in a red outfit and boots walking toward a detailed, futuristic red motorcycle.",
+        "sentence_cn": "画面中，一个身穿红色衣服和靴子的角色正向一辆精致且具有未来感的红色摩托车走去。",
+        "words": [
+            "character",
+            "outfit",
+            "boots",
+            "motorcycle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The motorcycle is emblazoned with various stickers, including \"Metal.\"",
+        "sentence_cn": "摩托车上贴满了各种贴纸，其中包括“金属”。",
+        "words": [
+            "Metal.",
+            "motorcycle",
+            "stickers",
+            "Metal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The character is viewed from behind, emphasizing their movement toward the bike, which is parked on a minimalist, light-colored surface with subtle cracks.",
+        "sentence_cn": "角色是从后面拍摄的，强调了他们向自行车的运动，自行车停在简约的浅色表面上，带有细微的裂缝。",
+        "words": [
+            "character",
+            "movement",
+            "bike",
+            "surface",
+            "cracks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above, the text reads \"Pioneer Entertainment Presents.\"",
+        "sentence_cn": "上面的文字写着“先锋娱乐呈现”。",
+        "words": [
+            "Pioneer Entertainment Presents.",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"AKIRA\" is prominently displayed in bold white letters with red Japanese characters overlaid.",
+        "sentence_cn": "标题“AKIRA”以粗体白色字母突出显示，上面覆盖着红色日文字符。",
+        "words": [
+            "AKIRA",
+            "title",
+            "letters",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, a tagline reads, \"The end of the world was only the beginning.\"",
+        "sentence_cn": "标题下方的标语写着：“世界末日仅仅是一个开始。”",
+        "words": [
+            "The end of the world was only the beginning.",
+            "title",
+            "tagline",
+            "end",
+            "world",
+            "beginning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website \"www.akira2001.com\" is also mentioned.",
+        "sentence_cn": "还提到了网站“www.akira2001.com”。",
+        "words": [
+            "www.akira2001.com",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, credits for the film can be seen with logos for Dolby Digital and THX, alongside the Pioneer logo.",
+        "sentence_cn": "在底部，可以看到电影的片尾字幕以及杜比数字 (Dolby Digital) 和 THX 的标志，以及先锋 (Pioneer) 的标志。",
+        "words": [
+            "bottom",
+            "credits",
+            "film",
+            "logos",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme features bold reds and blues, capturing a sense of action and intensity.",
+        "sentence_cn": "整体配色方案采用大胆的红色和蓝色，捕捉到一种动感和强烈的感觉。",
+        "words": [
+            "color",
+            "scheme",
+            "reds",
+            "blues",
+            "sense",
+            "action",
+            "intensity"
+        ],
+        "id": null
+    }
+]

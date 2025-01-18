@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image shows a lively social gathering in what appears to be a cozy indoor setting, possibly a bar or restaurant.",
+        "sentence_cn": "照片显示的是一场热闹的社交聚会，地点似乎是在一个舒适的室内环境，可能是酒吧或餐厅。",
+        "words": [
+            "gathering",
+            "bar",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several people are seated around tables, engaged in conversation and enjoying drinks and snacks.",
+        "sentence_cn": "几个人围坐在桌子旁，聊天，享用饮料和小吃。",
+        "words": [
+            "people",
+            "tables",
+            "conversation",
+            "drinks",
+            "snacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, three individuals are smiling at the camera.",
+        "sentence_cn": "前景中，三个人正对着镜头微笑。",
+        "words": [
+            "foreground",
+            "three",
+            "individuals",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman closest to the camera has long dark hair and glasses, wearing a dark jacket.",
+        "sentence_cn": "距离镜头最近的女人有一头长长的黑发，戴着眼镜，身穿深色夹克。",
+        "words": [
+            "woman",
+            "camera",
+            "hair",
+            "glasses",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside her, a woman with long wavy hair and glasses is dressed in a teal-colored top.",
+        "sentence_cn": "她旁边是一位留着长波浪发、戴着眼镜的女子，身穿蓝绿色上衣。",
+        "words": [
+            "woman",
+            "hair",
+            "glasses",
+            "teal",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to her, a man with short hair and a dark shirt is also smiling.",
+        "sentence_cn": "她旁边，一名短发、身穿深色衬衫的男子也面带微笑。",
+        "words": [
+            "man",
+            "hair",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tables are adorned with plates, some with remnants of food, and various drinks in glasses.",
+        "sentence_cn": "桌子上摆放着盘子，有些盘子里还残留着食物残渣，玻璃杯里还盛有各种饮料。",
+        "words": [
+            "tables",
+            "plates",
+            "remnants",
+            "food",
+            "drinks",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background includes more people sitting at tables, with dim lighting and a modern decor featuring wall art and sconce lighting.",
+        "sentence_cn": "背景中还有更多坐在桌子旁的人，灯光昏暗，还有以墙壁艺术和壁灯为特色的现代装饰。",
+        "words": [
+            "background",
+            "people",
+            "tables",
+            "lighting",
+            "decor",
+            "wall",
+            "art",
+            "sconce",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears friendly and informal.",
+        "sentence_cn": "气氛显得友好而又随意。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

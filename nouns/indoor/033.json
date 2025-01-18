@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image depicts a cozy living room with a warm and inviting ambiance.",
+        "sentence_cn": "图像描绘的是一间舒适的客厅，有着温暖而温馨的氛围。",
+        "words": [
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a beige sofa adorned with plaid and striped throw pillows in shades of orange, green, and yellow.",
+        "sentence_cn": "房间里有一张米色沙发，上面装饰着橙色、绿色和黄色的格子和条纹抱枕。",
+        "words": [
+            "room",
+            "sofa",
+            "plaid",
+            "throw",
+            "pillows",
+            "shades",
+            "orange",
+            "green",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the sofa is an upholstered chair with a floral pattern in complementary colors.",
+        "sentence_cn": "沙发左边是一把软垫椅子，上面有互补色的花卉图案。",
+        "words": [
+            "sofa",
+            "chair",
+            "pattern",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa is an ottoman with a green striped top and an orange base, which serves as a coffee table.",
+        "sentence_cn": "沙发前面是一个凳子，上面是绿色条纹，底座是橙色，可以当作咖啡桌。",
+        "words": [
+            "front",
+            "sofa",
+            "ottoman",
+            "top",
+            "orange",
+            "base",
+            "coffee",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On it rests a wooden tray holding a small stack of books and a white vase with green plants.",
+        "sentence_cn": "上面放着一个木托盘，托盘上放着一小叠书和一个插着绿色植物的白色花瓶。",
+        "words": [
+            "tray",
+            "stack",
+            "books",
+            "vase",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background showcases large windows with sheer curtains, allowing natural light to filter into the room, illuminating it softly.",
+        "sentence_cn": "背景展示了带有薄纱窗帘的大窗户，让自然光透进房间，柔和地照亮房间。",
+        "words": [
+            "background",
+            "windows",
+            "curtains",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the sofa, there is a wooden side table with a lamp featuring a cream-colored shade.",
+        "sentence_cn": "沙发右侧有一张木质边桌，桌上摆放着一盏奶油色灯罩的灯。",
+        "words": [
+            "right",
+            "sofa",
+            "table",
+            "lamp",
+            "cream",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional decor includes a vase and some candles, adding to the room's serene atmosphere.",
+        "sentence_cn": "额外的装饰包括一个花瓶和一些蜡烛，增添了房间宁静的气氛。",
+        "words": [
+            "decor",
+            "vase",
+            "candles",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color palette consists of earthy tones, creating a harmonious and comfortable space.",
+        "sentence_cn": "整体色调以泥土色调为主，营造和谐舒适的空间。",
+        "words": [
+            "color",
+            "palette",
+            "tones",
+            "space"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image is an advertisement featuring a McDonald's Sausage & Egg McMuffin.",
+        "sentence_cn": "该图片是一则以麦当劳香肠和鸡蛋松饼为特色的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The sandwich is shown at the top of the image, highlighting its layers of muffin, sausage patty, egg, and cheese.",
+        "sentence_cn": "三明治显示在图片的顶部，突出了松饼、香肠肉饼、鸡蛋和奶酪的层次。",
+        "words": [
+            "sandwich",
+            "top",
+            "layers",
+            "muffin",
+            "sausage",
+            "patty",
+            "egg",
+            "cheese"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the sandwich is the McDonald's logo and the slogan \"i'm lovin' it\" in white text on a red background.",
+        "sentence_cn": "三明治上方是麦当劳的标志和红底白字的口号“我就喜欢它”。",
+        "words": [
+            "i'm lovin' it",
+            "sandwich",
+            "logo",
+            "slogan",
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the McMuffin, there is a 3D text saying \"THE REST OF THE DAY HAS A LOT TO LIVE UP TO\" in bold, playful yellow and orange lettering.",
+        "sentence_cn": "麦满分下方有一段 3D 文字，以大胆、俏皮的黄色和橙色字体写着“剩下的一天还有很多事情要做”。",
+        "words": [
+            "THE REST OF THE DAY HAS A LOT TO LIVE UP TO",
+            "text",
+            "REST",
+            "DAY",
+            "LOT",
+            "orange",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the text reads: \"The Sausage & Egg McMuffin. Made with British pork and free range eggs.",
+        "sentence_cn": "底部的文字写着：“香肠鸡蛋松饼。采用英国猪肉和散养鸡蛋制成。",
+        "words": [
+            "bottom",
+            "text",
+            "pork",
+            "range",
+            "eggs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Served 6am - 10:30am.\"",
+        "sentence_cn": "供应时间：早上 6 点至上午 10 点 30 分。”",
+        "words": [
+            "6",
+            "am",
+            "10:30am"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a small footnote mentioning that availability may vary and gives a URL for more details.",
+        "sentence_cn": "有一个小脚注提到可用性可能会有所不同，并提供了一个 URL 以获取更多详细信息。",
+        "words": [
+            "footnote",
+            "availability",
+            "URL",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The McDonald's copyright note is also at the bottom.",
+        "sentence_cn": "麦当劳的版权声明也在底部。",
+        "words": [
+            "copyright",
+            "note",
+            "bottom"
+        ],
+        "id": null
+    }
+]

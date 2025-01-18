@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image shows two individuals engaged in a conversation at an event or conference.",
+        "sentence_cn": "图像显示两个人在活动或会议上进行交谈。",
+        "words": [
+            "two",
+            "individuals",
+            "conversation",
+            "event",
+            "conference"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man on the left is wearing a brown T-shirt and glasses, while the man on the right is dressed in a dark shirt.",
+        "sentence_cn": "左边的男子身穿棕色 T 恤和戴眼镜，右边的男子则身穿深色衬衫。",
+        "words": [
+            "man",
+            "left",
+            "T",
+            "shirt",
+            "glasses",
+            "man",
+            "right",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a partial view of the Google logo, indicating that this might be a tech event or conference related to Google.",
+        "sentence_cn": "背景是 Google 徽标的部分视图，表明这可能是与 Google 相关的技术活动或会议。",
+        "words": [
+            "background",
+            "view",
+            "logo",
+            "tech",
+            "event",
+            "conference"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man on the right is gesturing with his hand, possibly emphasizing a point in the discussion.",
+        "sentence_cn": "右边的男人正在做手势，可能是为了强调讨论中的某个观点。",
+        "words": [
+            "man",
+            "right",
+            "hand",
+            "point",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests that the setting is indoors with a focus on the interaction between the two individuals.",
+        "sentence_cn": "灯光表明场景是在室内，重点是两个人之间的互动。",
+        "words": [
+            "lighting",
+            "focus",
+            "interaction",
+            "two",
+            "individuals"
+        ],
+        "id": null
+    }
+]

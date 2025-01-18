@@ -1,0 +1,220 @@
+[
+    {
+        "sentence": "The image is a screenshot from a music app.",
+        "sentence_cn": "该图片是一个音乐应用程序的截图。",
+        "words": [
+            "music",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface has a purple gradient background with several elements:",
+        "sentence_cn": "界面采用紫色渐变背景，包含以下几个元素：",
+        "words": [
+            "interface",
+            "gradient",
+            "background",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Notification: A message at the top says, \"The song had been added to 333.\"",
+        "sentence_cn": "1. 顶部通知：顶部显示“该歌曲已添加到333”。",
+        "words": [
+            "Top Notification",
+            "The song had been added to 333.",
+            "Notification",
+            "message",
+            "top",
+            "song",
+            "333"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Navigation Bar: Below the message, there are navigation options for \"Activity,\" \"Playlists,\" \"Songs,\" and \"Folders,\" with \"Playlists\" highlighted in yellow.",
+        "sentence_cn": "2. 导航栏：在消息下方，有“活动”、“播放列表”、“歌曲”和“文件夹”的导航选项，其中“播放列表”以黄色突出显示。",
+        "words": [
+            "Navigation Bar",
+            "Activity,",
+            "Playlists,",
+            "Songs,",
+            "Folders,",
+            "Playlists",
+            "Navigation",
+            "Bar",
+            "message",
+            "navigation",
+            "options",
+            "Activity",
+            "Playlists",
+            "Songs",
+            "Folders",
+            "Playlists",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Playlists Section: It lists two playlists:",
+        "sentence_cn": "3. 播放列表部分：列出了两个播放列表：",
+        "words": [
+            "Playlists Section",
+            "Playlists",
+            "Section",
+            "two",
+            "playlists"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"Favourites\" with 0 songs.",
+        "sentence_cn": "- “收藏夹”中有 0 首歌曲。",
+        "words": [
+            "Favourites",
+            "0",
+            "songs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - \"333\" with 1 song.",
+        "sentence_cn": "- “333”，有 1 首歌曲。",
+        "words": [
+            "333",
+            "1",
+            "song"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. ",
+        "sentence_cn": "4. ",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Icons",
+        "sentence_cn": "图标",
+        "words": [
+            "Icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Next to the playlists, there are three vertical dots, indicating additional options.",
+        "sentence_cn": "- 播放列表旁边有三个垂直点，表示附加选项。",
+        "words": [
+            "playlists",
+            "three",
+            "dots",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A \"+\" icon is for adding new playlists.",
+        "sentence_cn": "- “+”图标用于添加新的播放列表。",
+        "words": [
+            "+",
+            "+",
+            "icon",
+            "playlists"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A list icon suggests sorting or viewing list options.",
+        "sentence_cn": "- 列表图标建议排序或查看列表选项。",
+        "words": [
+            "list",
+            "icon",
+            "list",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Bottom Bar:",
+        "sentence_cn": "5. 底部栏：",
+        "words": [
+            "Bottom Bar",
+            "Bar",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays a song titled \"joyful_new\" by <unknown>.",
+        "sentence_cn": "- 显示一首由 <unknown> 演唱的歌曲“joyful_new”。",
+        "words": [
+            "joyful_new",
+            "song"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes play/pause controls and a playlist icon.",
+        "sentence_cn": "- 包括播放/暂停控制和播放列表图标。",
+        "words": [
+            "play",
+            "pause",
+            "controls",
+            "playlist",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Status Bar: Includes standard mobile device icons like battery, signal, Wi-Fi, and the time (3:43).",
+        "sentence_cn": "6. 状态栏：包括标准移动设备图标，如电池、信号、Wi-Fi 和时间（3:43）。",
+        "words": [
+            "Status Bar",
+            "Status",
+            "Bar",
+            "device",
+            "icons",
+            "battery",
+            "signal",
+            "Wi",
+            "-",
+            "Fi",
+            "time",
+            "3:43"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is minimalistic with a focus on user navigation and playlist management.",
+        "sentence_cn": "该设计简约，注重用户导航和播放列表管理。",
+        "words": [
+            "design",
+            "focus",
+            "user",
+            "navigation",
+            "playlist",
+            "management"
+        ],
+        "id": null
+    }
+]

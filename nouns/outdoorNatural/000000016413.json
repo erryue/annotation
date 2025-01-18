@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "The image depicts a sepia-toned scene of four cows standing on a grassy hill.",
+        "sentence_cn": "该图像描绘的是四头牛站在草山上的棕褐色场景。",
+        "words": [
+            "sepia",
+            "scene",
+            "four",
+            "cows",
+            "hill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows are positioned near the horizon, silhouetted against a cloudy sky.",
+        "sentence_cn": "奶牛位于地平线附近，在多云的天空映衬下呈现出剪影。",
+        "words": [
+            "cows",
+            "horizon",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass on the hill is sparse, with a few taller strands and plants visible.",
+        "sentence_cn": "山上的草很稀疏，可见几棵较高的草和植物。",
+        "words": [
+            "grass",
+            "hill",
+            "strands",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sepia tone gives the photograph a timeless, vintage feel, emphasizing the natural and serene rural setting.",
+        "sentence_cn": "棕褐色调给照片带来了一种永恒、复古的感觉，强调了自然、宁静的乡村环境。",
+        "words": [
+            "sepia",
+            "tone",
+            "photograph",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows appear to be calmly gazing in the direction of the camera, adding a charming and tranquil element to the composition.",
+        "sentence_cn": "奶牛似乎平静地注视着镜头的方向，为构图增添了迷人而宁静的元素。",
+        "words": [
+            "cows",
+            "direction",
+            "camera",
+            "element",
+            "composition"
+        ],
+        "id": null
+    }
+]

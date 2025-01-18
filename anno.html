@@ -76,7 +76,7 @@
       const imageType = urlParams.get('type');
 
       // 加载 paths.json 文件
-      fetch('./paths_example.json')
+      fetch('./paths.json')
         .then(response => response.json())
         .then(data => {
           const Image = data.find(item => item.image_name === imageName && item.image_type === imageType);
@@ -156,15 +156,22 @@
               const button = document.createElement('button');
               button.textContent = 'Update ID';
               button.setAttribute('data-index', index); // 为按钮设置自定义数据属性（索引）
+              button.style.marginRight = '8px'; 
+
+              // 创建 + 按钮
+              const appendButton = document.createElement('button');
+              appendButton.textContent = '+';
+              appendButton.setAttribute('data-index', index); // 为按钮设置自定义数据属性（索引）
     
               const idParagraph = document.createElement('p');
               idParagraph.className = 'id';
               idParagraph.textContent = `ID: ${item.id}`;
     
               sentenceDiv.appendChild(button);
+              sentenceDiv.appendChild(appendButton);
               sentenceDiv.appendChild(idParagraph);
     
-              // 监听按钮点击事件
+              // 监听update按钮点击事件
               button.addEventListener('click', (event) => {
                 const index = event.target.getAttribute('data-index'); // 获取点击按钮的索引
                 const item = annotationsData[index]; // 获取当前项
@@ -183,6 +190,22 @@
                     // 如果没有选中注释，则显示原来的 ID
                     idParagraph.textContent = `ID: ${item.id} (Please select an annotation.)`;
                   }
+                }
+              });
+
+              // 为 + 按钮添加点击事件
+              appendButton.addEventListener('click', (event) => {
+                const index = event.target.getAttribute('data-index'); // 获取点击按钮的索引
+                const item = annotationsData[index]; // 获取当前项
+
+                if (selectedAnnotation) {
+                  // 追加新 ID 到原有 ID 中
+                  annotationsData[index].id += `, ${selectedAnnotation.id}`;
+                  idParagraph.textContent = `ID: ${annotationsData[index].id}`;
+                  idParagraph.style.color = 'black'; // 可选：修改颜色以区分更新后的状态
+                  console.log('Appended annotationsData:', annotationsData);
+                } else {
+                  idParagraph.textContent = `ID: ${item.id} (Please select an annotation.)`;
                 }
               });
     

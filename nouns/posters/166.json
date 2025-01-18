@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Manon of the Spring,\" directed by Claude Berri.",
+        "sentence_cn": "图片是克劳德·贝里执导的《春之玛侬》的电影海报。",
+        "words": [
+            "Manon of the Spring,",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a woman with long, wavy hair and a contemplative expression.",
+        "sentence_cn": "画中主要描绘的是一位有着长长的波浪形头发和沉思表情的女人。",
+        "words": [
+            "woman",
+            "hair",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is seated on what appears to be a rocky area, surrounded by grass and earth, with a cloudy sky in the background.",
+        "sentence_cn": "她坐在一块看似岩石的区域上，周围是草地和泥土，背景是多云的天空。",
+        "words": [
+            "area",
+            "grass",
+            "earth",
+            "sky",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her attire is in earthy tones, consisting of a textured cardigan and a flowing skirt.",
+        "sentence_cn": "她的服装是泥土色调的，包括一件纹理开衫和一条飘逸的裙子。",
+        "words": [
+            "attire",
+            "tones",
+            "cardigan",
+            "skirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"MANON OF THE SPRING\" is displayed in white, bold capital letters at the top left.",
+        "sentence_cn": "标题“MANON OF THE SPRING”以白色粗体大写字母显示在左上角。",
+        "words": [
+            "MANON OF THE SPRING",
+            "title",
+            "capital",
+            "letters",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main image, the names of actors Yves Montand, Daniel Auteuil, and Emmanuelle B¨¦art are listed.",
+        "sentence_cn": "主图下方列出了演员伊夫·蒙当 (Yves Montand)、丹尼尔·奥图 (Daniel Auteuil) 和艾曼纽·贝阿 (Emmanuelle B¨¦art) 的名字。",
+        "words": [
+            "names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is an inset at the bottom of the poster showing two men, one in a hat and the other in glasses.",
+        "sentence_cn": "海报底部有一个插图，描绘了两个男人，一个戴着帽子，另一个戴着眼镜。",
+        "words": [
+            "inset",
+            "bottom",
+            "poster",
+            "two",
+            "men",
+            "one",
+            "hat",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text mentions that the film is based on a novel by Marcel Pagnol.",
+        "sentence_cn": "文中提到，该片改编自马塞尔·帕尼奥尔（Marcel Pagnol）的小说。",
+        "words": [
+            "text",
+            "film",
+            "novel"
+        ],
+        "id": null
+    }
+]

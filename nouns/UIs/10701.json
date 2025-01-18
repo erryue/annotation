@@ -1,0 +1,149 @@
+[
+    {
+        "sentence": "The image shows a smartphone interface with a pink and heart-themed design.",
+        "sentence_cn": "图中显示的是采用粉色和心形主题设计的智能手机界面。",
+        "words": [
+            "smartphone",
+            "interface",
+            "heart",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top there's a search bar, followed by a digital clock displaying \"12:30.\"",
+        "sentence_cn": "顶部有一个搜索栏，后面是一个显示“12:30”的数字时钟。",
+        "words": [
+            "12:30.",
+            "top",
+            "search",
+            "bar",
+            "clock",
+            "12:30"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the time, it shows \"Tue 02/07 San Francisco 18¡ãC,\" next to weather icons.",
+        "sentence_cn": "时间下方显示“星期二 02/07 旧金山 18°C”，旁边是天气图标。",
+        "words": [
+            "Tue 02/07 San Francisco 18¡ãC,",
+            "time",
+            "02/07",
+            "18¡ãC",
+            "weather",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two overlapping hearts contain the text \"Baba sweet LOVE.\"",
+        "sentence_cn": "两颗重叠的心上写着“Baba sweet LOVE”的文字。",
+        "words": [
+            "Baba sweet LOVE.",
+            "Two",
+            "hearts",
+            "text",
+            "LOVE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app icons are heart-shaped and include:",
+        "sentence_cn": "应用程序图标呈心形，包括：",
+        "words": [
+            "app",
+            "icons",
+            "heart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Music",
+        "sentence_cn": "- 音乐",
+        "words": [
+            "Music"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wallpapers",
+        "sentence_cn": "- 壁纸",
+        "words": [
+            "Wallpapers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Market",
+        "sentence_cn": "- 市场",
+        "words": [
+            "Market"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Themes",
+        "sentence_cn": "- 主题",
+        "words": [
+            "Themes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Camera",
+        "sentence_cn": "- 相机",
+        "words": [
+            "Camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Settings",
+        "sentence_cn": "- 设置",
+        "words": [
+            "Settings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Fav tools",
+        "sentence_cn": "- 最喜欢的工具",
+        "words": [
+            "Fav",
+            "tools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Clean Master",
+        "sentence_cn": "- 清洁大师",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Additional icons are visible at the bottom for phone, contacts, apps, messages, and web browser.",
+        "sentence_cn": "底部还可以看到电话、联系人、应用程序、消息和网络浏览器的附加图标。",
+        "words": [
+            "icons",
+            "bottom",
+            "phone",
+            "contacts",
+            "apps",
+            "messages",
+            "web",
+            "browser"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme is romantic and vibrant with a predominant pink color scheme.",
+        "sentence_cn": "整体主题浪漫而充满活力，以粉红色为主色调。",
+        "words": [
+            "theme",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    }
+]

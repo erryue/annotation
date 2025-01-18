@@ -1,0 +1,143 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile application interface.",
+        "sentence_cn": "图片是移动应用程序界面的截图。",
+        "words": [
+            "application",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It appears to be a search or selection screen for different types of work shifts.",
+        "sentence_cn": "它看起来像是一个用于搜索或选择不同类型工作班次的屏幕。",
+        "words": [
+            "search",
+            "selection",
+            "screen",
+            "types",
+            "work",
+            "shifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the screen displays the text \"Let's start your search\" followed by \"Choose the types of shifts you're interested in.\"",
+        "sentence_cn": "屏幕顶部显示文字“让我们开始搜索”，然后显示“选择您感兴趣的轮班类型”。",
+        "words": [
+            "Let's start your search",
+            "Choose the types of shifts you're interested in.",
+            "top",
+            "screen",
+            "text",
+            "search",
+            "types",
+            "shifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that, the section labeled \"Shift Type\" offers four options, each represented by an icon and a label:",
+        "sentence_cn": "在其下方，标有“Shift Type”的部分提供了四个选项，每个选项都由一个图标和一个标签表示：",
+        "words": [
+            "Shift Type",
+            "section",
+            "Shift",
+            "Type",
+            "four",
+            "options",
+            "icon",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Full Time: Represented by a speedometer-like icon.",
+        "sentence_cn": "1. 全时：用类似速度计的图标表示。",
+        "words": [
+            "Full Time",
+            "speedometer",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Part Time: Represented by a similar speedometer icon but with a different needle position.",
+        "sentence_cn": "2. 兼职：用类似的速度表图标表示，但指针位置不同。",
+        "words": [
+            "Part Time",
+            "Part",
+            "speedometer",
+            "icon",
+            "needle",
+            "position"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Seasonal: Represented by an icon of sunglasses.",
+        "sentence_cn": "3. 季节性：用太阳镜图标表示。",
+        "words": [
+            "Seasonal",
+            "icon",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Teen: Represented by an icon showing a group of three people.",
+        "sentence_cn": "4. 青少年：用一组三人的图标来表示。",
+        "words": [
+            "Teen",
+            "icon",
+            "group",
+            "three",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is out of focus with a dark, possibly wooden texture.",
+        "sentence_cn": "背景失焦，呈现出深色，可能是木质纹理。",
+        "words": [
+            "background",
+            "focus",
+            "texture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are two dots indicating navigation within the app, with the first dot highlighted in orange, suggesting it¡¯s the current selection.",
+        "sentence_cn": "底部有两个点表示应用程序内的导航，第一个点以橙色突出显示，表明它是当前的选择。",
+        "words": [
+            "bottom",
+            "two",
+            "dots",
+            "navigation",
+            "app",
+            "dot",
+            "orange",
+            "selection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top status bar of the phone interface shows various icons, such as Wi-Fi, battery status, and the time, which is 11:23.",
+        "sentence_cn": "手机界面上方状态栏显示了各种图标，比如Wi-Fi、电池状态，以及时间，现在是11点23分。",
+        "words": [
+            "status",
+            "bar",
+            "phone",
+            "interface",
+            "icons",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "status",
+            "time",
+            "11:23"
+        ],
+        "id": null
+    }
+]

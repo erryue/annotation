@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot from an app called \"HauntedBooth.\"",
+        "sentence_cn": "该图片似乎是从一款名为“HauntedBooth”的应用程序截取的截图。",
+        "words": [
+            "HauntedBooth.",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a dark, textured design.",
+        "sentence_cn": "背景是深色的、有纹理的设计。",
+        "words": [
+            "background",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the app name \"HauntedBooth\" is displayed in a spooky font.",
+        "sentence_cn": "在顶部，应用程序名称“HauntedBooth”以一种怪异的字体显示。",
+        "words": [
+            "HauntedBooth",
+            "top",
+            "app",
+            "name",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's an information icon.",
+        "sentence_cn": "右边有一个信息图标。",
+        "words": [
+            "right",
+            "information",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main feature is a split-image at the center showing a face: one half is normal, and the other half depicts a scary, ghost-like transformation with blue tones and a wide open mouth.",
+        "sentence_cn": "主要特征是中心的分裂图像显示一张脸：一半是正常的，另一半描绘出可怕的、幽灵般的转变，带有蓝色色调和张开的嘴巴。",
+        "words": [
+            "feature",
+            "center",
+            "face",
+            "one",
+            "half",
+            "half",
+            "ghost",
+            "transformation",
+            "tones",
+            "mouth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main image are smaller, similar split-face icons, with \"GET\" labels on some, suggesting they might be additional features or effects available for download.",
+        "sentence_cn": "主图下方是较小的、类似的分面图标，其中一些带有“GET”标签，表明它们可能是可供下载的附加功能或效果。",
+        "words": [
+            "GET",
+            "face",
+            "icons",
+            "labels",
+            "features",
+            "effects",
+            "download"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom is a prominent red \"START\" button, beside a small thumbnail of a fully ghostly face.",
+        "sentence_cn": "底部是一个显眼的红色“开始”按钮，旁边是一个完全幽灵脸的小缩略图。",
+        "words": [
+            "START",
+            "bottom",
+            "START",
+            "button",
+            "thumbnail",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there's an icon of a blue flame with the number \"3,\" possibly indicating a point or currency system.",
+        "sentence_cn": "此外，还有一个蓝色火焰图标，上面有数字“3”，可能表示积分或货币系统。",
+        "words": [
+            "3,",
+            "icon",
+            "flame",
+            "number",
+            "3",
+            "point",
+            "currency",
+            "system"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the very bottom, there's a banner ad for \"Quality assurance guidelines for VH202 sterilizers\" from 3M with a \"DOWNLOAD\" button.",
+        "sentence_cn": "最底部是 3M 的“VH202 消毒器质量保证指南”横幅广告，并带有“下载”按钮。",
+        "words": [
+            "Quality assurance guidelines for VH202 sterilizers",
+            "DOWNLOAD",
+            "bottom",
+            "banner",
+            "ad",
+            "Quality",
+            "assurance",
+            "guidelines",
+            "sterilizers",
+            "3",
+            "DOWNLOAD",
+            "button"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"StatShot\" that highlights a disconnect in leadership preferences among workers.",
+        "sentence_cn": "该图是一张名为“StatShot”的信息图，突显了员工对领导偏好的差异。",
+        "words": [
+            "StatShot",
+            "disconnect",
+            "leadership",
+            "preferences",
+            "workers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It states: \"A leadership disconnect exists between what workers prefer and what they get.\"",
+        "sentence_cn": "报告指出：“领导层在工人的期望和实际得到的待遇之间存在着差距。”",
+        "words": [
+            "A leadership disconnect exists between what workers prefer and what they get.",
+            "leadership",
+            "disconnect",
+            "workers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is divided into two sections showing percentages related to 'authoritative' leadership:",
+        "sentence_cn": "该信息图分为两部分，显示与“权威”领导力相关的百分比：",
+        "words": [
+            "two",
+            "sections",
+            "percentages",
+            "leadership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Workers Who Experience It: Represented by 29% in this category.",
+        "sentence_cn": "1. 经历过这种事情的工人：这一类别占29%。",
+        "words": [
+            "Workers Who Experience It",
+            "Workers",
+            "29",
+            "category"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This is illustrated with 29 out of 100 figures highlighted in teal, showing that a significant portion of workers experience this type of leadership.",
+        "sentence_cn": "其中，100 个数字中有 29 个以青色突出显示，表明相当一部分员工经历过这种类型的领导。",
+        "words": [
+            "29",
+            "100",
+            "figures",
+            "teal",
+            "portion",
+            "workers",
+            "type",
+            "leadership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Workers Who Prefer It: Only 4% prefer this style.",
+        "sentence_cn": "2. 喜欢这种风格的工人：只有 4% 的人喜欢这种风格。",
+        "words": [
+            "Workers Who Prefer It",
+            "Workers",
+            "4",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This is shown with 4 out of 100 figures in gray, indicating a mismatch between experience and preference.",
+        "sentence_cn": "其中 100 个数字中有 4 个显示为灰色，表明经验和偏好不匹配。",
+        "words": [
+            "4",
+            "100",
+            "figures",
+            "gray",
+            "mismatch",
+            "experience",
+            "preference"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A note at the bottom mentions that nearly 170,000 people from 30 countries were surveyed about their attitudes toward leadership in the workplace.",
+        "sentence_cn": "底部的注释提到，对来自 30 个国家的近 170,000 人进行了调查，了解他们对职场领导的态度。",
+        "words": [
+            "note",
+            "bottom",
+            "170,000",
+            "people",
+            "30",
+            "countries",
+            "attitudes",
+            "leadership",
+            "workplace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is sourced from Kelly, with a link provided for further results.",
+        "sentence_cn": "该信息图来源于凯利 (Kelly)，并提供了获取进​​一步结果的链接。",
+        "words": [
+            "link",
+            "results"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme uses dark gray, teal, and bright green for emphasis.",
+        "sentence_cn": "整体配色方案采用深灰色、青色和亮绿色作为强调。",
+        "words": [
+            "color",
+            "scheme",
+            "gray",
+            "teal",
+            "green"
+        ],
+        "id": null
+    }
+]

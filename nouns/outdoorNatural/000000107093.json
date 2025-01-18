@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image depicts a serene landscape featuring an open grassy field with a simple, black wooden bench positioned prominently in the center.",
+        "sentence_cn": "这幅画描绘了一片宁静的风景，其中有一片开阔的草地，一张简单的黑色木凳显眼地摆放在中央。",
+        "words": [
+            "landscape",
+            "field",
+            "bench",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass appears dry and yellowish in the foreground, transitioning to a greener hue as it recedes into the background.",
+        "sentence_cn": "前景中的草看起来干燥且呈淡黄色，当它逐渐退到背景中时，颜色逐渐变为更绿的色调。",
+        "words": [
+            "grass",
+            "foreground",
+            "hue",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right and in the distance are a few rocks scattered across the landscape.",
+        "sentence_cn": "右侧远处，散布着几块岩石。",
+        "words": [
+            "right",
+            "distance",
+            "rocks",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wire fence runs along the mid-ground, separating the open field from the green, slightly hilly terrain in the background.",
+        "sentence_cn": "一道铁丝网沿着中间地带延伸，将开阔的田野与背景中绿色、略带丘陵的地形隔开。",
+        "words": [
+            "wire",
+            "fence",
+            "mid",
+            "-",
+            "ground",
+            "field",
+            "terrain",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The hill is lush with deep green vegetation, and its slopes are dotted with rocks and small bushes.",
+        "sentence_cn": "山上植被茂盛，深绿，山坡上点缀着岩石和小灌木丛。",
+        "words": [
+            "hill",
+            "vegetation",
+            "slopes",
+            "rocks",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is not visible, but the lighting suggests an overcast or cloudy day, adding to the tranquil and somewhat solitary atmosphere of the scene.",
+        "sentence_cn": "虽然看不到天空，但灯光暗示着天气阴云密布，增添了场景的宁静和略显孤独的氛围。",
+        "words": [
+            "sky",
+            "lighting",
+            "day",
+            "atmosphere",
+            "scene"
+        ],
+        "id": null
+    }
+]

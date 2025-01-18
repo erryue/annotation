@@ -1,0 +1,24 @@
+[
+    {
+        "id": "bd6c83d8-786d-4c02-ae11-2dc3645f1b69",
+        "confidence": 0.93894,
+        "class": "sandwich",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 439.50122,
+                        "minY": 156.30334,
+                        "maxX": 944.71838,
+                        "maxY": 488.48004
+                    },
+                    "x": 439.50122,
+                    "y": 156.30334,
+                    "w": 505.21716000000004,
+                    "h": 332.1767
+                }
+            }
+        }
+    }
+]

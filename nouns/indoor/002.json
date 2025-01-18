@@ -1,0 +1,178 @@
+[
+    {
+        "sentence": "This image depicts a home music studio setup, featuring a range of audio and music equipment:",
+        "sentence_cn": "此图展示了家庭音乐工作室的设置，其中包括一系列音频和音乐设备：",
+        "words": [
+            "home",
+            "music",
+            "studio",
+            "range",
+            "audio",
+            "music",
+            "equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Keyboard: A Roland RD-700SX digital piano is prominently placed in the center, showcasing a comprehensive set of keys.",
+        "sentence_cn": "1. 键盘：一台 Roland RD-700SX 数码钢琴位于中央显著位置，展示了一套全面的琴键。",
+        "words": [
+            "Keyboard",
+            "Keyboard",
+            "piano",
+            "center",
+            "set",
+            "keys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Monitor and Computer: Above the keyboard is a computer monitor displaying a desktop with multiple icons and a program running.",
+        "sentence_cn": "2. 显示器和电脑：键盘上方是电脑显示器，显示着带有多个图标和正在运行的程序的桌面。",
+        "words": [
+            "Monitor and Computer",
+            "Monitor",
+            "Computer",
+            "keyboard",
+            "computer",
+            "monitor",
+            "desktop",
+            "icons",
+            "program"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This setup suggests the use of music production software.",
+        "sentence_cn": "此设置建议使用音乐制作软件。",
+        "words": [
+            "use",
+            "music",
+            "production",
+            "software"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Microphone: Positioned near the music stand is a condenser microphone fixed to an adjustable arm, likely used for recording vocals or instruments.",
+        "sentence_cn": "3. 麦克风：位于乐谱架附近的是一个固定在可调节臂上的电容式麦克风，可能用于录制人声或乐器。",
+        "words": [
+            "Microphone",
+            "Microphone",
+            "music",
+            "stand",
+            "condenser",
+            "microphone",
+            "arm",
+            "vocals",
+            "instruments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Speakers: There are two studio monitor speakers, one on each side, mounted on stands.",
+        "sentence_cn": "4. 扬声器：有两个演播室监听扬声器，每侧一个，安装在支架上。",
+        "words": [
+            "Speakers",
+            "Speakers",
+            "two",
+            "studio",
+            "monitor",
+            "speakers",
+            "one",
+            "stands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The speakers are black with yellow cones.",
+        "sentence_cn": "扬声器是黑色的，带有黄色锥体。",
+        "words": [
+            "speakers",
+            "cones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Mixer: A mixing console is seen to the right, equipped with multiple faders and knobs for audio mixing and control.",
+        "sentence_cn": "5. 混音器：右侧是一个混音控制台，配备多个推子和旋钮，用于音频混合和控制。",
+        "words": [
+            "Mixer",
+            "Mixer",
+            "mixing",
+            "console",
+            "right",
+            "faders",
+            "knobs",
+            "mixing",
+            "control"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Accessories and Additional Gear: There are other pieces of equipment such as a small audio interface or controller to the left of the keyboard, and a turntable partially visible on the far left.",
+        "sentence_cn": "6. 配件和附加设备：还有其他设备，例如键盘左侧的小型音频接口或控制器，以及最左侧部分可见的转盘。",
+        "words": [
+            "Accessories and Additional Gear",
+            "Accessories",
+            "Gear",
+            "pieces",
+            "equipment",
+            "interface",
+            "controller",
+            "left",
+            "keyboard",
+            "turntable",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Music Books and Sheet Music: A collection of music books and loose sheet music is placed on a stand behind the microphone, suggesting a focus on music composition and practice.",
+        "sentence_cn": "7. 音乐书籍和乐谱：麦克风后面的支架上摆放着一堆音乐书籍和散装乐谱，表明人们专注于音乐创作和练习。",
+        "words": [
+            "Music Books and Sheet Music",
+            "Music",
+            "Sheet",
+            "collection",
+            "music",
+            "books",
+            "sheet",
+            "music",
+            "stand",
+            "microphone",
+            "focus",
+            "music",
+            "composition",
+            "practice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Lighting and Miscellaneous: A lamp provides additional light, and various cables connect the equipment, indicating an actively used and well-connected setup.",
+        "sentence_cn": "8. 照明和杂项：灯提供额外的光线，各种电缆连接设备，表明设置正在积极使用且连接良好。",
+        "words": [
+            "Lighting and Miscellaneous",
+            "Lighting",
+            "Miscellaneous",
+            "lamp",
+            "light",
+            "cables",
+            "equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, this is a compact and functional home studio suitable for music production, recording, and practice.",
+        "sentence_cn": "总的来说，这是一款紧凑且功能齐全的家庭工作室，适合音乐制作、录音和练习。",
+        "words": [
+            "home",
+            "studio",
+            "music",
+            "production",
+            "recording",
+            "practice"
+        ],
+        "id": null
+    }
+]

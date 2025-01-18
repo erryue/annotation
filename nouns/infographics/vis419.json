@@ -1,0 +1,292 @@
+[
+    {
+        "sentence": "This infographic, titled \"Privacy: A Question of Balance,\" discusses consumer privacy in the context of advancing mobile and online technology.",
+        "sentence_cn": "这张名为“隐私：一个平衡问题”的信息图讨论了在不断发展的移动和在线技术背景下的消费者隐私问题。",
+        "words": [
+            "Privacy: A Question of Balance,",
+            "Privacy",
+            "Balance",
+            "consumer",
+            "privacy",
+            "context",
+            "technology"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It emphasizes the need for banks and merchants to foster 'privacy by design' to ensure flexibility, compliance, and trust in payment solutions.",
+        "sentence_cn": "它强调银行和商家需要培育“设计隐私”，以确保支付解决方案的灵活性、合规性和信任。",
+        "words": [
+            "need",
+            "banks",
+            "merchants",
+            "privacy",
+            "design",
+            "flexibility",
+            "compliance",
+            "trust",
+            "payment",
+            "solutions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Sections:",
+        "sentence_cn": "### 主要部分：",
+        "words": [
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Understand Consumer Perspective:",
+        "sentence_cn": "1. 了解消费者观点：",
+        "words": [
+            "Understand Consumer Perspective",
+            "Consumer",
+            "Perspective"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- States that 38% of consumers would want companies put out of business for illegal use of personal information, 35% want executives jailed, and 18% feel privacy protection efforts are sufficient.",
+        "sentence_cn": "- 指出38％的消费者希望公司因非法使用个人信息而停业，35％的消费者希望高管被判入狱，18％的消费者认为隐私保护力度已经足够。",
+        "words": [
+            "States",
+            "38",
+            "consumers",
+            "companies",
+            "business",
+            "use",
+            "information",
+            "35",
+            "%",
+            "executives",
+            "18",
+            "%",
+            "privacy",
+            "protection",
+            "efforts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - These insights are based on a survey conducted in April 2012.",
+        "sentence_cn": "- 这些见解基于 2012 年 4 月进行的一项调查。",
+        "words": [
+            "insights",
+            "survey",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Deliver Clear Benefits:",
+        "sentence_cn": "2. 提供明确的利益：",
+        "words": [
+            "Deliver Clear Benefits",
+            "Benefits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Explains that consumers are open to geo-specific offers but wary of tracking technologies.",
+        "sentence_cn": "- 解释说消费者对针对特定地理区域的优惠持开放态度，但对追踪技术持谨慎态度。",
+        "words": [
+            "consumers",
+            "offers",
+            "technologies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Only 43% are interested in receiving special offers via geo-tracking, while just 10% are willing to share their location for such benefits.",
+        "sentence_cn": "只有 43% 的人有兴趣通过地理跟踪获得特别优惠，而只有 10% 的人愿意为了获得此类优惠而分享自己的位置。",
+        "words": [
+            "43",
+            "offers",
+            "geo",
+            "-",
+            "tracking",
+            "10",
+            "%",
+            "location",
+            "benefits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Prove Trustworthiness:",
+        "sentence_cn": "3. 证明可信度：",
+        "words": [
+            "Prove Trustworthiness",
+            "Trustworthiness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Highlights consumer attitudes towards sharing data:",
+        "sentence_cn": "- 强调消费者对共享数据的态度：",
+        "words": [
+            "consumer",
+            "attitudes",
+            "data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 39% would let a company email them after a purchase.",
+        "sentence_cn": "- 39% 的人会让公司在购买后向他们发送电子邮件。",
+        "words": [
+            "39",
+            "company",
+            "purchase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 33% would share preferences and likes with a retailer.",
+        "sentence_cn": "- 33％的人会与零售商分享偏好和喜好。",
+        "words": [
+            "33",
+            "preferences",
+            "likes",
+            "retailer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 44% would allow credit card info to be saved on websites for speedier purchases.",
+        "sentence_cn": "- 44% 的人希望网站保存信用卡信息，以便更快地完成购买。",
+        "words": [
+            "44",
+            "credit",
+            "card",
+            "info",
+            "websites",
+            "purchases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Responses are categorized into neutral and agree.",
+        "sentence_cn": "- 回答分为中立和同意。",
+        "words": [
+            "Responses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Government Action on the Horizon:",
+        "sentence_cn": "4. 政府即将采取的行动：",
+        "words": [
+            "Government Action on the Horizon",
+            "Government",
+            "Action",
+            "Horizon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mentions an initiative by the White House in early 2012, which released a Consumer Privacy Bill of Rights signaling potential policy developments in the U.S. and globally.",
+        "sentence_cn": "- 提到了白宫在 2012 年初提出的一项倡议，即发布《消费者隐私权利法案》，预示着美国和全球潜在的政策发展。",
+        "words": [
+            "Mentions",
+            "initiative",
+            "2012",
+            "policy",
+            "developments",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Visual Elements:",
+        "sentence_cn": "### 视觉元素：",
+        "words": [
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Illustrations depict consumers' concerns and benefits regarding privacy.",
+        "sentence_cn": "- 插图描绘了消费者对隐私的担忧和好处。",
+        "words": [
+            "Illustrations",
+            "consumers",
+            "concerns",
+            "benefits",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Statistics are visualized using bar graphs and numbers for clarity.",
+        "sentence_cn": "- 为了清晰起见，统计数据使用条形图和数字进行可视化。",
+        "words": [
+            "Statistics",
+            "bar",
+            "graphs",
+            "numbers",
+            "clarity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A smartphone image signifies the relevance of mobile technology in the discussion on privacy.",
+        "sentence_cn": "- 智能手机的图像表明移动技术与隐私讨论的相关性。",
+        "words": [
+            "smartphone",
+            "relevance",
+            "technology",
+            "discussion",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Branding:",
+        "sentence_cn": "### 品牌：",
+        "words": [
+            "Branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- First Data is identified as the source, with applied research and consulting conducted in 2012.",
+        "sentence_cn": "- First Data 被认定为来源，其于 2012 年进行了应用研究和咨询。",
+        "words": [
+            "source",
+            "research",
+            "consulting",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme stresses the balance needed between leveraging consumer data benefits and maintaining their privacy security.",
+        "sentence_cn": "总体主题强调了利用消费者数据优势和维护其隐私安全之间所需的平衡。",
+        "words": [
+            "theme",
+            "balance",
+            "consumer",
+            "data",
+            "benefits",
+            "privacy",
+            "security"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image depicts a scenic overlook with a view of a city in the background.",
+        "sentence_cn": "该图描绘的是一处风景优美的观景台，背景是一座城市。",
+        "words": [
+            "overlook",
+            "view",
+            "city",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a bicycle being ridden by a person, with a black dog balancing steadfastly on their shoulders.",
+        "sentence_cn": "前景中，一个人骑着一辆自行车，一只黑狗稳稳地站在他的肩上。",
+        "words": [
+            "foreground",
+            "bicycle",
+            "person",
+            "dog",
+            "shoulders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the bicyclist, two people are sitting on a bench facing the city view, likely taking in the scenery.",
+        "sentence_cn": "在骑车人的左边，两个人坐在面朝城市景观的长椅上，可能正在欣赏风景。",
+        "words": [
+            "left",
+            "bicyclist",
+            "two",
+            "people",
+            "bench",
+            "city",
+            "view",
+            "scenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a large tree providing shade over the area, and the road is lined with a railing for safety.",
+        "sentence_cn": "有一棵大树为该地区提供遮荫，道路两旁设有栏杆以确保安全。",
+        "words": [
+            "tree",
+            "shade",
+            "area",
+            "road",
+            "railing",
+            "safety"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the far right, part of a kiosk with a red awning can be seen, displaying various items or snacks for sale.",
+        "sentence_cn": "在最右边，可以看到带有红色遮阳篷的售货亭的一部分，展示出售各种物品或小吃。",
+        "words": [
+            "right",
+            "part",
+            "kiosk",
+            "awning",
+            "items",
+            "snacks",
+            "sale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere suggests a leisurely outing with a mix of relaxation and activity.",
+        "sentence_cn": "整体氛围体现出一种轻松与活跃相结合的悠闲郊游。",
+        "words": [
+            "atmosphere",
+            "outing",
+            "mix",
+            "relaxation",
+            "activity"
+        ],
+        "id": null
+    }
+]

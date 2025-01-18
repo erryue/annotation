@@ -1,0 +1,239 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"If You Could Buy The White House.\"",
+        "sentence_cn": "该图是一张信息图，标题为“如果你能买下白宫”。",
+        "words": [
+            "If You Could Buy The White House."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a stylized illustration of the White House with a \"for sale\" sign.",
+        "sentence_cn": "该作品以白宫风格化的插画为特色，并配有“待售”标志。",
+        "words": [
+            "for sale",
+            "illustration",
+            "sale",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a breakdown of the details provided:",
+        "sentence_cn": "以下是所提供详细信息的细分：",
+        "words": [
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Total Square Footage: 55,000 sqft",
+        "sentence_cn": "- 总面积： 55,000 平方英尺",
+        "words": [
+            "Total Square Footage:",
+            "Square",
+            "Footage",
+            "55,000",
+            "sqft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Rooms and Levels:",
+        "sentence_cn": "- 房间和楼层：",
+        "words": [
+            "Rooms and Levels:",
+            "Rooms",
+            "Levels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 132 rooms",
+        "sentence_cn": "- 132 间客房",
+        "words": [
+            "132",
+            "rooms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 35 bathrooms",
+        "sentence_cn": "- 35 间浴室",
+        "words": [
+            "35",
+            "bathrooms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 6 levels",
+        "sentence_cn": "- 6 个级别",
+        "words": [
+            "6",
+            "levels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Features:",
+        "sentence_cn": "- 附加功能：",
+        "words": [
+            "Additional Features:",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 413 doors",
+        "sentence_cn": "- 413 扇门",
+        "words": [
+            "413",
+            "doors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 147 windows",
+        "sentence_cn": "- 147 个窗户",
+        "words": [
+            "147",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 28 fireplaces",
+        "sentence_cn": "- 28 个壁炉",
+        "words": [
+            "28",
+            "fireplaces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 8 staircases",
+        "sentence_cn": "- 8 段楼梯",
+        "words": [
+            "8",
+            "staircases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 3 elevators",
+        "sentence_cn": "- 3 部电梯",
+        "words": [
+            "3",
+            "elevators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - At least 1 bald eagle present at any time",
+        "sentence_cn": "- 任何时候都至少有 1 只白头鹰出现",
+        "words": [
+            "1",
+            "eagle",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Amenities:",
+        "sentence_cn": "-便利设施：",
+        "words": [
+            "Amenities:",
+            "Amenities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Tennis court",
+        "sentence_cn": "-网球场",
+        "words": [
+            "Tennis",
+            "court"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bowling alley",
+        "sentence_cn": "- 保龄球馆",
+        "words": [
+            "Bowling",
+            "alley"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Movie theater",
+        "sentence_cn": "- 电影院",
+        "words": [
+            "Movie",
+            "theater"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Basketball court",
+        "sentence_cn": "-篮球场",
+        "words": [
+            "Basketball",
+            "court"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Swimming pool",
+        "sentence_cn": "-游泳池",
+        "words": [
+            "Swimming",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Jogging track",
+        "sentence_cn": "- 慢跑跑道",
+        "words": [
+            "Jogging",
+            "track"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Estimated Price: $110 million (though the historical value isn't included in this figure)",
+        "sentence_cn": "- 估计价格：1.1 亿美元（尽管该数字不包括历史价值）",
+        "words": [
+            "Estimated Price:",
+            "Price",
+            "110",
+            "million",
+            "value",
+            "figure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic humorously concludes with the notion that owning the White House is \"priceless,\" akin to a famous credit card slogan.",
+        "sentence_cn": "该信息图幽默地总结道，拥有白宫是“无价的”，类似于一句著名的信用卡口号。",
+        "words": [
+            "priceless,",
+            "notion",
+            "credit",
+            "card",
+            "slogan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is attributed to Movoto, with sources listed at the bottom.",
+        "sentence_cn": "该信息图归功于 Movoto，其来源列于底部。",
+        "words": [
+            "sources",
+            "bottom"
+        ],
+        "id": null
+    }
+]

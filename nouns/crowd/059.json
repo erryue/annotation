@@ -1,0 +1,76 @@
+[
+    {
+        "sentence": "The image shows a classroom setting with a group of children.",
+        "sentence_cn": "图像显示的是一群孩子的教室场景。",
+        "words": [
+            "classroom",
+            "group",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are seated around a large wooden table, with some standing near it.",
+        "sentence_cn": "他们围坐在一张大木桌旁，有些人站在桌子旁边。",
+        "words": [
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The classroom is constructed with wooden walls and has a rustic appearance.",
+        "sentence_cn": "教室采用木质墙壁建造，外观质朴。",
+        "words": [
+            "classroom",
+            "walls",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are engaged in various activities; some are chatting while others appear to be writing or looking at a notebook.",
+        "sentence_cn": "孩子们正在从事各种各样的活动；有的在聊天，有的似乎在写字或看笔记本。",
+        "words": [
+            "children",
+            "activities",
+            "others",
+            "notebook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The attire of the children is varied, with some wearing brightly colored dresses and others in casual clothes.",
+        "sentence_cn": "孩子们的服装多种多样，有的穿着色彩鲜艳的衣服，有的穿着休闲服装。",
+        "words": [
+            "attire",
+            "children",
+            "dresses",
+            "others",
+            "clothes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a warm and informal atmosphere, suggesting a lively and interactive learning environment.",
+        "sentence_cn": "教室里洋溢着温暖而轻松的气氛，营造出一种活跃而互动的学习环境。",
+        "words": [
+            "room",
+            "atmosphere",
+            "learning",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are wooden benches and chairs, and the natural light appears to be coming in through openings in the walls.",
+        "sentence_cn": "这里有木制长凳和椅子，自然光似乎是从墙壁的开口射进来的。",
+        "words": [
+            "benches",
+            "chairs",
+            "light",
+            "openings",
+            "walls"
+        ],
+        "id": null
+    }
+]

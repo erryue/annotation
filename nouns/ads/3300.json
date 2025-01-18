@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image features a close-up of a person holding a tablet, on which a video or live stream is playing.",
+        "sentence_cn": "图片特写镜头是一名男子手持平板电脑，平板电脑上正在播放视频或直播。",
+        "words": [
+            "close",
+            "up",
+            "person",
+            "tablet",
+            "video",
+            "stream"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tablet screen displays four individuals seated around a table, likely engaged in a discussion or broadcast.",
+        "sentence_cn": "平板电脑屏幕上显示四个人围坐在一张桌子旁，可能正在讨论或广播。",
+        "words": [
+            "tablet",
+            "screen",
+            "four",
+            "individuals",
+            "table",
+            "discussion",
+            "broadcast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the bottom left corner of the screen, there is a logo with the words \"CHURCH MILITANT\" and \"The Download.\"",
+        "sentence_cn": "屏幕左下角有一个标志，上面写着“CHURCH MILITANT”和“The Download”字样。",
+        "words": [
+            "CHURCH MILITANT",
+            "The Download.",
+            "corner",
+            "screen",
+            "logo",
+            "words",
+            "MILITANT",
+            "Download"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text overlaid on the image reads:",
+        "sentence_cn": "图像上叠加的文字内容如下：",
+        "words": [
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"START YOUR 15-DAY FREE TRIAL NOW",
+        "sentence_cn": "“立即开始您的 15 天免费试用",
+        "words": [
+            "15",
+            "DAY",
+            "TRIAL"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Get access to The Download and so much more!\"",
+        "sentence_cn": "获得下载权限以及更多内容！”",
+        "words": [
+            "access"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a blue button with the words, \"CLICK HERE TO SIGN UP.\"",
+        "sentence_cn": "底部有一个蓝色按钮，上面写着“单击此处注册”。",
+        "words": [
+            "CLICK HERE TO SIGN UP.",
+            "bottom",
+            "button",
+            "words"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person holding the tablet is wearing a gray sweater and blue pants, and the background suggests a comfortable, casual setting.",
+        "sentence_cn": "拿着平板电脑的人穿着灰色毛衣和蓝色裤子，背景呈现出舒适、休闲的氛围。",
+        "words": [
+            "person",
+            "tablet",
+            "sweater",
+            "pants",
+            "background"
+        ],
+        "id": null
+    }
+]

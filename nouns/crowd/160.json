@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image depicts three men engaged in a conversation at a social event or business gathering.",
+        "sentence_cn": "图像描绘的是三个男子在社交活动或商务聚会上交谈的情景。",
+        "words": [
+            "three",
+            "men",
+            "conversation",
+            "event",
+            "business",
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are all wearing dark suits with dress shirts and ties.",
+        "sentence_cn": "他们都穿着深色西装、衬衫和领带。",
+        "words": [
+            "suits",
+            "dress",
+            "shirts",
+            "ties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each man is holding a bottled drink, which appears to be beer.",
+        "sentence_cn": "每个人都拿着一瓶饮料，看起来像是啤酒。",
+        "words": [
+            "man",
+            "drink",
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The man on the left is facing the other two, with short dark hair and glasses.",
+        "sentence_cn": "- 左边的男人正对着另外两个人，他有着黑色的短发，戴着眼镜。",
+        "words": [
+            "man",
+            "left",
+            "two",
+            "hair",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a suit with a striped shirt underneath, though his tie isn't visible.",
+        "sentence_cn": "他穿着一套西装，里面是一件条纹衬衫，但是看不见领带。",
+        "words": [
+            "suit",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The man in the center is smiling and seems to be actively engaging in the conversation.",
+        "sentence_cn": "- 中间的男人面带微笑，似乎积极参与谈话。",
+        "words": [
+            "man",
+            "center",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has short dark hair and is wearing a suit with a striped dress shirt and a red tie.",
+        "sentence_cn": "他有一头黑色的短发，穿着条纹衬衫和红色领带的西装。",
+        "words": [
+            "hair",
+            "suit",
+            "dress",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has a name tag on his suit jacket.",
+        "sentence_cn": "他的西装外套上有一个名牌。",
+        "words": [
+            "name",
+            "tag",
+            "suit",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The man on the right has light brown hair and is slightly turned towards the center man.",
+        "sentence_cn": "- 右边的男人有着浅棕色的头发，并且稍微转向中间的男人。",
+        "words": [
+            "man",
+            "right",
+            "hair",
+            "center",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a white shirt with a multicolored tie.",
+        "sentence_cn": "他穿着一件白衬衫，系着一条彩色领带。",
+        "words": [
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background consists of a softly lit wall with a modern ambience, suggesting an indoor setting.",
+        "sentence_cn": "背景是一面灯光柔和的墙壁，充满现代气息，暗示着室内场景。",
+        "words": [
+            "background",
+            "wall",
+            "ambience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting appears warm and is focused on the subjects.",
+        "sentence_cn": "灯光显得温暖并且聚焦在拍摄对象上。",
+        "words": [
+            "lighting",
+            "subjects"
+        ],
+        "id": null
+    }
+]

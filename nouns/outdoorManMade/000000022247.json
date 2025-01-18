@@ -1,0 +1,165 @@
+[
+    {
+        "sentence": "The image shows two buses parked in a lot.",
+        "sentence_cn": "图中显示两辆巴士停在停车场。",
+        "words": [
+            "two",
+            "buses",
+            "lot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Bus:",
+        "sentence_cn": "1. 下车：",
+        "words": [
+            "Left Bus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Color: Primarily white with a pink and purple stripe near the bottom.",
+        "sentence_cn": "- 颜色：主要为白色，底部附近有粉色和紫色条纹。",
+        "words": [
+            "Color",
+            "stripe",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Signage: The front display reads \"Sorry Not In Service.\"",
+        "sentence_cn": "- 标牌：前面的显示屏上写着“抱歉，无法提供服务”。",
+        "words": [
+            "Sorry Not In Service.",
+            "Signage",
+            "display",
+            "Service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Branding: Visible \"First\" logo above the windshield with fleet number 32485 on the side.",
+        "sentence_cn": "- 品牌：挡风玻璃上方可见“First”标志，侧面有车队编号 32485。",
+        "words": [
+            "First",
+            "Branding",
+            "logo",
+            "windshield",
+            "fleet",
+            "number",
+            "32485"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - License Plate: SN03 NWM.",
+        "sentence_cn": "-车牌：SN03 NWM。",
+        "words": [
+            "License",
+            "Plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Miscellaneous: Standard single-decker bus design.",
+        "sentence_cn": "- 其他：标准单层巴士设计。",
+        "words": [
+            "decker",
+            "bus",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Right Bus:",
+        "sentence_cn": "2. 正确的巴士：",
+        "words": [
+            "Right Bus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Type: Double-decker bus.",
+        "sentence_cn": "- 类型：双层巴士。",
+        "words": [
+            "Type",
+            "decker",
+            "bus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Color: Mainly white with a blue and yellow stripe near the bottom.",
+        "sentence_cn": "- 颜色：主要为白色，底部附近有蓝色和黄色条纹。",
+        "words": [
+            "Color",
+            "stripe",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Signage: The front display shows \"Route 70\" with \"Braintree Bus Station\" and \"John Shrewell Essex Com.\"",
+        "sentence_cn": "- 标牌：前面的显示屏显示“70 号路线”、“布伦特里巴士站”和“John Shrewell Essex Com”。",
+        "words": [
+            "Route 70",
+            "Braintree Bus Station",
+            "John Shrewell Essex Com.",
+            "Signage",
+            "display",
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Advertisement: Side of the bus has a large advertisement.",
+        "sentence_cn": "- 广告：巴士侧面有大幅广告。",
+        "words": [
+            "Advertisement",
+            "Side",
+            "bus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - License Plate: KN52 NUX.",
+        "sentence_cn": "车牌：KN52 NUX。",
+        "words": [
+            "License",
+            "Plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Miscellaneous: Modern double-decker design with large windows.",
+        "sentence_cn": "- 其他：现代双层设计，配有大窗户。",
+        "words": [
+            "decker",
+            "design",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background includes trees, a house with a visible chimney, and a fence, indicating a suburban or semi-rural setting.",
+        "sentence_cn": "背景包括树木、带有明显烟囱的房子和围栏，表明该地处于郊区或半乡村环境。",
+        "words": [
+            "background",
+            "trees",
+            "house",
+            "chimney",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, suggesting it is a sunny day.",
+        "sentence_cn": "天空晴朗，预示着今天是一个阳光明媚的日子。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    }
+]

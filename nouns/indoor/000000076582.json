@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image depicts a cozy, well-lit living room with a contemporary style.",
+        "sentence_cn": "图片描绘的是舒适、光线充足的现代风格客厅。",
+        "words": [
+            "living",
+            "room",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a large window area covered with sheer white curtains, allowing ample natural light to enter, creating a bright and airy atmosphere.",
+        "sentence_cn": "房间设有大窗户，配有透明的白色窗帘，充足的自然光照进房间，营造出明亮通风的氛围。",
+        "words": [
+            "room",
+            "window",
+            "area",
+            "curtains",
+            "light",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The windows offer a view of lush greenery outside.",
+        "sentence_cn": "透过窗户可以看到外面郁郁葱葱的绿色植物。",
+        "words": [
+            "windows",
+            "view",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the room is a modern sofa with moss green accent cushions.",
+        "sentence_cn": "房间中央是一张现代化的沙发，配有苔绿色的靠垫。",
+        "words": [
+            "center",
+            "room",
+            "sofa",
+            "moss",
+            "accent",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa, there is a sleek, dark-colored rectangular coffee table.",
+        "sentence_cn": "沙发前，有一张造型优美的深色长方形茶几。",
+        "words": [
+            "front",
+            "sofa",
+            "coffee",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, a tray holds a bottle and some glassware, possibly wine glasses, adding a touch of elegance.",
+        "sentence_cn": "桌子上，托盘上放着一瓶酒和一些玻璃器皿，可能是酒杯，增添了一丝优雅。",
+        "words": [
+            "table",
+            "tray",
+            "bottle",
+            "glassware",
+            "wine",
+            "glasses",
+            "touch",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the sofa, a wooden side table holds decorative items, enhancing the room's aesthetic appeal.",
+        "sentence_cn": "沙发旁边的木质边桌上摆放着装饰品，增强了房间的美感。",
+        "words": [
+            "sofa",
+            "table",
+            "items",
+            "room",
+            "appeal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large, dark-patterned area rug covers a portion of the light carpet flooring, adding texture and depth to the space.",
+        "sentence_cn": "一块大面积的深色图案地毯覆盖了一部分浅色地毯，为空间增添了质感和深度。",
+        "words": [
+            "area",
+            "rug",
+            "portion",
+            "carpet",
+            "flooring",
+            "texture",
+            "depth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the image, a brick fireplace adds warmth and character to the room.",
+        "sentence_cn": "在图片的右侧，砖砌的壁炉给房间增添了温暖和特色。",
+        "words": [
+            "brick",
+            "fireplace",
+            "warmth",
+            "character",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mantel is adorned with greenery and books, providing a cozy, homey feel to the area.",
+        "sentence_cn": "壁炉架上装饰着绿色植物和书籍，给这个区域带来了一种舒适、温馨的感觉。",
+        "words": [
+            "mantel",
+            "greenery",
+            "books",
+            "feel",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the arrangement and decor create an inviting and comfortable living room setting.",
+        "sentence_cn": "总体而言，布置和装饰营造出温馨舒适的客厅环境。",
+        "words": [
+            "arrangement",
+            "decor",
+            "living",
+            "room"
+        ],
+        "id": null
+    }
+]

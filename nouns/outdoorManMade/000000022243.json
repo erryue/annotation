@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image shows a lively scene of a busy harbor with numerous fishing boats anchored on calm water.",
+        "sentence_cn": "图为繁忙的港口，无数渔船停泊在平静的水面上，景象热闹。",
+        "words": [
+            "scene",
+            "harbor",
+            "fishing",
+            "boats",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The boats vary in size and design, with most of them being colorful and having names painted on their sides.",
+        "sentence_cn": "这些船只的大小和设计各不相同，大多数都是彩色的，船身两侧都画有名字。",
+        "words": [
+            "boats",
+            "size",
+            "design",
+            "names",
+            "sides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some boats are blue, others red or white, and they are equipped with fishing gear, such as nets and rigging.",
+        "sentence_cn": "有些船是蓝色的，有些是红色或白色的，并且配备了渔网和索具等渔具。",
+        "words": [
+            "boats",
+            "others",
+            "fishing",
+            "gear",
+            "nets",
+            "rigging"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two boats named \"Michielly Zuleika\" and \"Discovery\" are visible.",
+        "sentence_cn": "前景中可以看到两艘名为“Michielly Zuleika”和“Discovery”的船。",
+        "words": [
+            "Michielly Zuleika",
+            "Discovery",
+            "foreground",
+            "two",
+            "boats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is filled with more boats tightly packed together, suggesting a bustling fishing community.",
+        "sentence_cn": "背景中还有更多紧密排列的船只，象征着一个繁华的渔业社区。",
+        "words": [
+            "background",
+            "boats",
+            "fishing",
+            "community"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, adding a muted tone to the scene, and there are a few birds flying above, which is typical in fishing areas.",
+        "sentence_cn": "天空阴云密布，给场景增添了柔和的色调，上面飞过几只鸟，这在渔区很常见。",
+        "words": [
+            "sky",
+            "tone",
+            "scene",
+            "birds",
+            "fishing",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is one of industriousness and maritime activity.",
+        "sentence_cn": "总体氛围是勤劳和航海活动的。",
+        "words": [
+            "atmosphere",
+            "one",
+            "industriousness",
+            "activity"
+        ],
+        "id": null
+    }
+]

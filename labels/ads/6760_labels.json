@@ -1,6 +1,6 @@
 [
     {
-        "id": "33a79bd4-1094-4e4d-a47f-82fb189953cb",
+        "id": "e0a48f60-9fd2-4c7f-8f89-25e92c595f7a",
         "confidence": 0.84536,
         "class": "person",
         "target": {
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": "a9e1ea6c-1e3c-4de2-89f6-7e40bcb65278",
+        "id": "ded64c86-d9e6-4def-9071-0a69460f5f72",
         "confidence": 0.82449,
         "class": "person",
         "target": {
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": "b4016edb-401e-4d9b-8132-4cdf9307f764",
+        "id": "0f95d482-76e8-4f46-9d72-132ddf959b19",
         "confidence": 0.81393,
         "class": "person",
         "target": {
@@ -61,94 +61,6 @@
                     "y": 498.42688,
                     "w": 348.2379699999999,
                     "h": 534.4741200000001
-                }
-            }
-        }
-    },
-    {
-        "id": "908ea4bd-2fb3-46b3-ac00-d284aff93174",
-        "confidence": 0.666,
-        "class": "person",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 0.85111,
-                        "minY": 564.07355,
-                        "maxX": 341.57993,
-                        "maxY": 1031.20227
-                    },
-                    "x": 0.85111,
-                    "y": 564.07355,
-                    "w": 340.72882,
-                    "h": 467.12872000000004
-                }
-            }
-        }
-    },
-    {
-        "id": "51340043-90b4-45ac-880b-ef48abbcb7f9",
-        "confidence": 0.28288,
-        "class": "person",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 636.66803,
-                        "minY": 704.28656,
-                        "maxX": 916.71979,
-                        "maxY": 1028.70093
-                    },
-                    "x": 636.66803,
-                    "y": 704.28656,
-                    "w": 280.05175999999994,
-                    "h": 324.41436999999996
-                }
-            }
-        }
-    },
-    {
-        "id": "a8d95058-8a5d-493c-be3c-ebf21997b1fc",
-        "confidence": 0.26069,
-        "class": "sports ball",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 1016.69507,
-                        "minY": 982.99567,
-                        "maxX": 1077.61243,
-                        "maxY": 1039.703
-                    },
-                    "x": 1016.69507,
-                    "y": 982.99567,
-                    "w": 60.91735999999992,
-                    "h": 56.707329999999956
-                }
-            }
-        }
-    },
-    {
-        "id": "ee3fa7cc-1756-44dc-8fce-e495f78eb819",
-        "confidence": 0.20871,
-        "class": "person",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 0.0,
-                        "minY": 681.36157,
-                        "maxX": 297.36264,
-                        "maxY": 1032.37341
-                    },
-                    "x": 0.0,
-                    "y": 681.36157,
-                    "w": 297.36264,
-                    "h": 351.0118399999999
                 }
             }
         }

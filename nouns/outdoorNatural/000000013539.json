@@ -1,0 +1,68 @@
+[
+    {
+        "sentence": "The image shows a group of seven horses standing in a wide, open field with dry grass.",
+        "sentence_cn": "图中是一群七匹马站在一片长满干草的宽阔田野中。",
+        "words": [
+            "group",
+            "seven",
+            "horses",
+            "field",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The horses vary in color, including shades of brown, gray, and black.",
+        "sentence_cn": "马的颜色各异，有棕色、灰色和黑色。",
+        "words": [
+            "horses",
+            "color",
+            "shades",
+            "brown",
+            "gray",
+            "black"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be casually grouped together, and their posture suggests they are either grazing or resting.",
+        "sentence_cn": "它们看上去随意地聚在一起，从姿势来看它们要么在吃草，要么在休息。",
+        "words": [
+            "posture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is flat and expansive, with no visible trees, just gentle rolling hills in the background.",
+        "sentence_cn": "地势平坦而广阔，看不到树木，只有背景中连绵起伏的丘陵。",
+        "words": [
+            "landscape",
+            "trees",
+            "hills",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, giving the scene a muted, calm atmosphere.",
+        "sentence_cn": "天空阴云密布，给场景带来了一种柔和、平静的氛围。",
+        "words": [
+            "sky",
+            "scene",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wire fence runs across the foreground, separating the horses from the viewer.",
+        "sentence_cn": "一道铁丝网横跨前景，将马匹与观看者隔开。",
+        "words": [
+            "wire",
+            "fence",
+            "foreground",
+            "horses",
+            "viewer"
+        ],
+        "id": null
+    }
+]

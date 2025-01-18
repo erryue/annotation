@@ -1,0 +1,206 @@
+[
+    {
+        "sentence": "The image showcases a web page from the \"Creativity Shop,\" which features handcrafted items, specifically barrettes and other gifts.",
+        "sentence_cn": "图片展示了“创意商店”的网页，其中展示有手工制品，特别是发夹和其他礼品。",
+        "words": [
+            "Creativity Shop,",
+            "web",
+            "page",
+            "items",
+            "barrettes",
+            "gifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Header",
+        "sentence_cn": "### 标题",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Advertisement: There's an ad for Tripod at the top left and another ad for Staples, suggesting school supplies, at the top right.",
+        "sentence_cn": "- 广告：左上角有一个 Tripod 的广告，右上角有一个 Staples 的广告，推荐学校用品。",
+        "words": [
+            "Advertisement",
+            "ad",
+            "left",
+            "ad",
+            "school",
+            "supplies",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content",
+        "sentence_cn": "### 主要内容",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"Creativity Shop\"",
+        "sentence_cn": "-  标题：“创造力商店”",
+        "words": [
+            "Title",
+            "Creativity Shop",
+            "Creativity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Introduction: The text explains that the shop offers unique items, including handcrafted barrettes by an American artisan and other quality items from global artisans.",
+        "sentence_cn": "- 简介：文字解释说，该商店提供独特的商品，包括由美国工匠手工制作的发夹以及来自全球工匠的其他优质商品。",
+        "words": [
+            "Introduction",
+            "Introduction",
+            "text",
+            "shop",
+            "items",
+            "barrettes",
+            "artisan",
+            "quality",
+            "items",
+            "artisans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Visitors are encouraged to bookmark the page for updates.",
+        "sentence_cn": "鼓励访问者将页面添加为书签以获取更新。",
+        "words": [
+            "Visitors",
+            "page",
+            "updates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Original Beaded Barrettes Section",
+        "sentence_cn": "### 原创串珠发夹部分",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Description: These barrettes are made with high-quality seed beads and semi-precious stones, making them ideal gifts.",
+        "sentence_cn": "- 描述：这些发夹采用优质种子珠和半宝石制成，是理想的礼物。",
+        "words": [
+            "Description",
+            "Description",
+            "barrettes",
+            "quality",
+            "seed",
+            "beads",
+            "stones",
+            "gifts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Credit card payments are available.",
+        "sentence_cn": "可以使用信用卡付款。",
+        "words": [
+            "Credit",
+            "card",
+            "payments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- ",
+        "sentence_cn": "-",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Images:",
+        "sentence_cn": "图片：",
+        "words": [
+            "Images"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Purple Barrettes\": Shows an intricate, purple beaded barrette.",
+        "sentence_cn": "- “紫色发夹”：展示一款精致的紫色串珠发夹。",
+        "words": [
+            "Purple Barrettes",
+            "barrette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Pink Barrettes\": Displays a pink beaded barrette.",
+        "sentence_cn": "- “粉色发夹”：展示一款粉色串珠发夹。",
+        "words": [
+            "Pink Barrettes",
+            "barrette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Unique Gifts Section",
+        "sentence_cn": "### 独特礼品部分",
+        "words": [
+            "Gifts",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Description: Items crafted by artists from around the world, with credit card payments accepted.",
+        "sentence_cn": "- 描述：由世界各地的艺术家制作的物品，接受信用卡付款。",
+        "words": [
+            "Description",
+            "Description",
+            "Items",
+            "artists",
+            "world",
+            "credit",
+            "card",
+            "payments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Image:",
+        "sentence_cn": "- 图像：",
+        "words": [
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Collectible Dolls\": Displays a photograph of a detailed doll wearing a hat and a dress.",
+        "sentence_cn": "- “收藏娃娃”：展示一张戴着帽子和穿着衣服的精致娃娃的照片。",
+        "words": [
+            "Collectible Dolls",
+            "photograph",
+            "doll",
+            "hat",
+            "dress"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The web page has a simple, homemade HTML aesthetic, typical of early internet sites, with a neutral background and a basic layout.",
+        "sentence_cn": "该网页具有简单的自制 HTML 美感，这是早期互联网站点的典型特征，具有中性背景和基本布局。",
+        "words": [
+            "web",
+            "page",
+            "HTML",
+            "aesthetic",
+            "internet",
+            "sites",
+            "background",
+            "layout"
+        ],
+        "id": null
+    }
+]

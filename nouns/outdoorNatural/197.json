@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image depicts a group of penguins on a floating piece of ice in what appears to be an icy, polar environment.",
+        "sentence_cn": "图片描绘的是一群企鹅在一块浮冰上，周围似乎是冰冷的极地环境。",
+        "words": [
+            "group",
+            "penguins",
+            "piece",
+            "ice",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are five penguins visible in the scene.",
+        "sentence_cn": "场景中可见五只企鹅。",
+        "words": [
+            "five",
+            "penguins",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two penguins are positioned on the left standing at the edge of the ice or in the shallow water.",
+        "sentence_cn": "左侧有两只企鹅站在冰边或浅水中。",
+        "words": [
+            "Two",
+            "penguins",
+            "edge",
+            "ice",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three more penguins are on top of the ice, and the two on the right seem to be interacting, possibly vocalizing or in a playful stance.",
+        "sentence_cn": "冰层顶部还有三只企鹅，右边的两只似乎正在互动，可能是在发出声音，或者是在摆出一副嬉戏的姿态。",
+        "words": [
+            "Three",
+            "penguins",
+            "top",
+            "ice",
+            "two",
+            "right",
+            "stance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ice beneath them is mottled with shades of white and pale blue, typical of thick, compacted snow or ice.",
+        "sentence_cn": "它们下面的冰呈现出白色和淡蓝色斑驳的色调，这是厚而紧实的雪或冰的典型特征。",
+        "words": [
+            "ice",
+            "shades",
+            "white",
+            "blue",
+            "snow",
+            "ice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding water is calm, with occasional broken ice pieces floating, suggesting a cold, Antarctic or Arctic setting.",
+        "sentence_cn": "周围的水面平静，偶尔漂浮着碎冰，暗示着这里处于寒冷的南极或北极环境。",
+        "words": [
+            "water",
+            "ice",
+            "pieces",
+            "Antarctic",
+            "Arctic"
+        ],
+        "id": null
+    }
+]

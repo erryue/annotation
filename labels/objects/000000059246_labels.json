@@ -1,0 +1,24 @@
+[
+    {
+        "id": "bf709b15-8d5c-4be9-8cd1-4d0385aae6d3",
+        "confidence": 0.93712,
+        "class": "bowl",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 386.56219,
+                        "minY": 191.355,
+                        "maxX": 639.70831,
+                        "maxY": 437.17896
+                    },
+                    "x": 386.56219,
+                    "y": 191.355,
+                    "w": 253.14612,
+                    "h": 245.82396000000003
+                }
+            }
+        }
+    }
+]

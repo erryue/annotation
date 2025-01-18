@@ -1,0 +1,205 @@
+[
+    {
+        "sentence": "The image is from a DreamWorks Emoji Trolls app.",
+        "sentence_cn": "该图片来自梦工厂的“表情符号巨魔”应用程序。",
+        "words": [
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features colorful cartoon characters, each expressing different emotions or actions.",
+        "sentence_cn": "它以丰富多彩的卡通人物为特色，每个人物都表达不同的情绪或动作。",
+        "words": [
+            "cartoon",
+            "characters",
+            "emotions",
+            "actions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Row:",
+        "sentence_cn": "1. 顶行：",
+        "words": [
+            "Top Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A smiling troll with white hair next to the word \"HEY!\" in bold blue letters.",
+        "sentence_cn": "- 一个面带微笑的白发巨魔旁边用蓝色粗体字母写着“嘿！”。",
+        "words": [
+            "HEY!",
+            "troll",
+            "hair",
+            "word",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Two trolls with rainbow-colored connecting hair and an expression of thoughtfulness below the word \"HMMMM.\"",
+        "sentence_cn": "- 两个巨魔有着彩虹色的连发，在“HMMMM”字样下方露出若有所思的表情。",
+        "words": [
+            "HMMMM.",
+            "Two",
+            "trolls",
+            "rainbow",
+            "hair",
+            "expression",
+            "thoughtfulness",
+            "word",
+            "HMMMM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A cheerful troll with pink hair jumping joyfully beside \"LET'S GO!\" in pink letters.",
+        "sentence_cn": "- 一个有着粉红色头发的快乐巨魔在粉红色字母“LET'S GO！”旁边欢快地跳跃。",
+        "words": [
+            "LET'S GO!",
+            "troll",
+            "hair",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Row:",
+        "sentence_cn": "2. 中间行：",
+        "words": [
+            "Middle Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A troll with purple hair looking upset next to \"NO!\" in purple letters.",
+        "sentence_cn": "- 一个紫色头发的巨魔看起来很沮丧，旁边用紫色字母写着“不！”。",
+        "words": [
+            "NO!",
+            "troll",
+            "hair",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A happy troll with long blue hair and a striped body next to \"OK\" in blue letters.",
+        "sentence_cn": "- 一个快乐的巨魔，有着长长的蓝色头发和条纹身体，旁边是蓝色字母“OK”。",
+        "words": [
+            "OK",
+            "troll",
+            "hair",
+            "body",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A short green-haired troll with their back turned next to \"ON MY WAY!\" in pink letters.",
+        "sentence_cn": "- 一个矮小的绿发巨魔背对着他，身旁用粉色字母写着“我在路上！”。",
+        "words": [
+            "ON MY WAY!",
+            "troll",
+            "back",
+            "WAY",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Row:",
+        "sentence_cn": "3. 底行：",
+        "words": [
+            "Bottom Row:",
+            "Bottom",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A colorful troll leaving a trail of sparkles next to \"OOOPS!\" in lime-green letters.",
+        "sentence_cn": "- 一只色彩斑斓的巨魔在用黄绿色字母写成的“OOOPS！”旁边留下一道闪光。",
+        "words": [
+            "OOOPS!",
+            "troll",
+            "trail",
+            "sparkles",
+            "lime",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A pink troll hugging a large cupcake beside \"TEE HEE!\" in pink letters.",
+        "sentence_cn": "- 一个粉色巨魔抱着一个大纸杯蛋糕，旁边用粉色字母写着“TEE HEE！”。",
+        "words": [
+            "TEE HEE!",
+            "troll",
+            "cupcake",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A sad blue troll with a tear next to \"SORRY\" in orange letters.",
+        "sentence_cn": "- 一个悲伤的蓝色巨魔，脸上挂着一滴眼泪，旁边用橙色字母写着“对不起”。",
+        "words": [
+            "SORRY",
+            "troll",
+            "tear",
+            "SORRY",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A green, worm-like character with stripes next to \"TEE HEE!\" in pink letters.",
+        "sentence_cn": "- 一个绿色的、类似蠕虫的字符，旁边有条纹，旁边是粉色字母“TEE HEE！”。",
+        "words": [
+            "TEE HEE!",
+            "worm",
+            "character",
+            "stripes",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A blue troll holding a drink beside \"THANK YOU\" in purple letters.",
+        "sentence_cn": "- 一个蓝色巨魔手里拿着一杯饮料，旁边用紫色字母写着“谢谢”。",
+        "words": [
+            "THANK YOU",
+            "troll",
+            "drink",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a soft mint green, and the app interface at the top indicates social media sharing options and other icons.",
+        "sentence_cn": "背景是柔和的薄荷绿，顶部的应用程序界面显示社交媒体共享选项和其他图标。",
+        "words": [
+            "background",
+            "mint",
+            "green",
+            "app",
+            "interface",
+            "top",
+            "media",
+            "sharing",
+            "options",
+            "icons"
+        ],
+        "id": null
+    }
+]

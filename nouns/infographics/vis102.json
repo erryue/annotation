@@ -46,8 +46,8 @@
         "id": null
     },
     {
-        "sentence": "- **U.S. Arms Exports**: The largest exporter with 70,658 million USD in exports.",
-        "sentence_cn": "- **美国武器出口**：最大的出口国，出口额为 706.58 亿美元。",
+        "sentence": "- U.S. Arms Exports: The largest exporter with 70,658 million USD in exports.",
+        "sentence_cn": "- 美国武器出口：最大的出口国，出口额为 706.58 亿美元。",
         "words": [
             "U.S. Arms Exports",
             "U.S.",
@@ -71,8 +71,8 @@
         "id": null
     },
     {
-        "sentence": "- **Russia Arms Exports**: Second largest, with 38,590 million USD.",
-        "sentence_cn": "- **俄罗斯武器出口**：第二大，出口额为 385.9 亿美元。",
+        "sentence": "- Russia Arms Exports: Second largest, with 38,590 million USD.",
+        "sentence_cn": "- 俄罗斯武器出口：第二大，出口额为 385.9 亿美元。",
         "words": [
             "Russia Arms Exports",
             "Russia",
@@ -94,8 +94,8 @@
         "id": null
     },
     {
-        "sentence": "- **China Arms Exports**: Smaller exporter, with 3,300 million USD.",
-        "sentence_cn": "- **中国武器出口**：出口规模较小，出口额为 33 亿美元。",
+        "sentence": "- China Arms Exports: Smaller exporter, with 3,300 million USD.",
+        "sentence_cn": "- 中国武器出口：出口规模较小，出口额为 33 亿美元。",
         "words": [
             "China Arms Exports",
             "exporter",
@@ -151,8 +151,8 @@
         "id": null
     },
     {
-        "sentence": "- **Arms Exports from the U.S.**: Several large circles indicate countries like Saudi Arabia, Turkey, Egypt, and Israel as major importers.",
-        "sentence_cn": "- **美国的武器出口**：几个大圆圈表示沙特阿拉伯、土耳其、埃及和以色列等国家是主要进口国。",
+        "sentence": "- Arms Exports from the U.S.: Several large circles indicate countries like Saudi Arabia, Turkey, Egypt, and Israel as major importers.",
+        "sentence_cn": "- 美国的武器出口：几个大圆圈表示沙特阿拉伯、土耳其、埃及和以色列等国家是主要进口国。",
         "words": [
             "Arms Exports from the U.S.",
             "Arms",
@@ -170,8 +170,8 @@
         "id": null
     },
     {
-        "sentence": "- **Arms Exports from China**: Shows countries like Iran and Egypt as recipients, while Syria is highlighted as not receiving from China.",
-        "sentence_cn": "- **来自中国的武器出口**：显示伊朗和埃及等国家是接收国，而叙利亚则被强调为未从中国接收武器。",
+        "sentence": "- Arms Exports from China: Shows countries like Iran and Egypt as recipients, while Syria is highlighted as not receiving from China.",
+        "sentence_cn": "- 来自中国的武器出口：显示伊朗和埃及等国家是接收国，而叙利亚则被强调为未从中国接收武器。",
         "words": [
             "Arms Exports from China",
             "Arms",
@@ -187,8 +187,8 @@
         "id": null
     },
     {
-        "sentence": "- **Arms Exports from Russia**: Displays that Syria is a minor recipient of Russian arms compared to other Middle Eastern countries.",
-        "sentence_cn": "- **俄罗斯的武器出口**：显示与其他中东国家相比，叙利亚是俄罗斯武器的次要接受国。",
+        "sentence": "- Arms Exports from Russia: Displays that Syria is a minor recipient of Russian arms compared to other Middle Eastern countries.",
+        "sentence_cn": "- 俄罗斯的武器出口：显示与其他中东国家相比，叙利亚是俄罗斯武器的次要接受国。",
         "words": [
             "Arms Exports from Russia",
             "Arms",
@@ -252,7 +252,7 @@
     },
     {
         "sentence": "This visual representation gives an overview of geopolitical relationships and dependencies concerning arms transfers in the Middle East during the specified period.",
-        "sentence_cn": "这个视觉呈现概述了特定时期内中东地区武器转让的地缘政治关系和依赖关系。",
+        "sentence_cn": "这个图表概述了特定时期内中东地区武器转让的地缘政治关系和依赖关系。",
         "words": [
             "representation",
             "overview",

@@ -1,0 +1,24 @@
+[
+    {
+        "id": "e33cd4df-2f4b-41c7-b019-f9fa7c239714",
+        "confidence": 0.86874,
+        "class": "boat",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.48267,
+                        "minY": 0.67972,
+                        "maxX": 382.70129,
+                        "maxY": 176.36977
+                    },
+                    "x": 0.48267,
+                    "y": 0.67972,
+                    "w": 382.21862,
+                    "h": 175.69004999999999
+                }
+            }
+        }
+    }
+]

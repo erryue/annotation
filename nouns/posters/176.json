@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Aliens.\"",
+        "sentence_cn": "图片是电影《异形》的电影海报。",
+        "words": [
+            "Aliens.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is black, and prominently displayed in the center is the title \"ALIENS\" in blue, with a distinct, glowing vertical line replacing the letter \"I\" to create an eye-catching effect.",
+        "sentence_cn": "背景是黑色的，中间突出显示的是蓝色的标题“ALIENS”，其中一条独特的、发光的垂直线代替了字母“I”，以产生引人注目的效果。",
+        "words": [
+            "ALIENS",
+            "I",
+            "background",
+            "center",
+            "title",
+            "line",
+            "letter",
+            "I",
+            "eye",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the title, the tagline reads, \"There Are Some Places In The Universe You Don't Go Alone.\"",
+        "sentence_cn": "标题上方的标语写着“宇宙中有些地方你不能独自前往。”",
+        "words": [
+            "There Are Some Places In The Universe You Don't Go Alone.",
+            "title",
+            "tagline",
+            "Places",
+            "Universe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, in white text, the phrase \"This Time It¡¯s War\" is displayed.",
+        "sentence_cn": "标题下方用白色文字写着“这次是战争”。",
+        "words": [
+            "This Time It¡¯s War",
+            "title",
+            "text",
+            "phrase",
+            "Time",
+            "War"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster is a block of text featuring the credits, including details about the production and key contributors to the film.",
+        "sentence_cn": "海报底部是一段文字，列出了片尾字幕，包括有关电影制作和主要贡献者的详细信息。",
+        "words": [
+            "bottom",
+            "poster",
+            "block",
+            "text",
+            "credits",
+            "details",
+            "production",
+            "contributors",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This includes names like James Cameron (as director and writer), Sigourney Weaver, and others involved in music, effects, and production.",
+        "sentence_cn": "其中包括詹姆斯·卡梅隆（导演和编剧）、西格妮·韦弗以及其他参与音乐、特效和制作的人士。",
+        "words": [
+            "names",
+            "director",
+            "writer",
+            "others",
+            "music",
+            "effects",
+            "production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has an \"R\" rating indicated in a small logo towards the bottom, signifying a restricted audience, and it mentions \"Twentieth Century Fox\" as the presenting studio.",
+        "sentence_cn": "海报下方的小标志为“R”级，表示观众人数有限，并提到出品公司为“二十世纪福克斯”。",
+        "words": [
+            "R",
+            "Twentieth Century Fox",
+            "poster",
+            "R",
+            "rating",
+            "logo",
+            "bottom",
+            "audience",
+            "studio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visual style is minimalist, focusing on the film¡¯s title and its foreboding tagline.",
+        "sentence_cn": "该片的视觉风格简约，重点突出电影的标题和令人不安的标语。",
+        "words": [
+            "style",
+            "film¡¯s",
+            "title",
+            "tagline"
+        ],
+        "id": null
+    }
+]

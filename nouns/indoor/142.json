@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image depicts a well-organized home office.",
+        "sentence_cn": "图像描绘的是一个井然有序的家庭办公室。",
+        "words": [
+            "home",
+            "office"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner of the room, there is a large L-shaped wooden desk with multiple drawers.",
+        "sentence_cn": "房间的角落里有一张L形的大木桌，上面有多个抽屉。",
+        "words": [
+            "corner",
+            "room",
+            "L",
+            "desk",
+            "drawers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there are two computer monitors, each displaying different content.",
+        "sentence_cn": "办公桌上，有两台电脑显示器，分别显示着不同的内容。",
+        "words": [
+            "desk",
+            "two",
+            "computer",
+            "monitors",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A keyboard and mouse are positioned in front of the monitors.",
+        "sentence_cn": "键盘和鼠标放置在显示器前面。",
+        "words": [
+            "keyboard",
+            "mouse",
+            "front",
+            "monitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various office items, including a printer and small speakers, are also placed on the desk.",
+        "sentence_cn": "桌子上还摆放着打印机、小型音箱等各种办公用品。",
+        "words": [
+            "office",
+            "items",
+            "printer",
+            "speakers",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a comfortable leather chair with a matching ottoman.",
+        "sentence_cn": "左边有一把舒适的皮椅，配有相配的脚凳。",
+        "words": [
+            "left",
+            "leather",
+            "chair",
+            "ottoman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the chair is a tall bookcase filled with books and a few decorative items on the top shelf.",
+        "sentence_cn": "椅子后面是一个高大的书柜，上面摆满了书籍，顶层架子上还有一些装饰品。",
+        "words": [
+            "chair",
+            "bookcase",
+            "books",
+            "items",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A floor lamp provides additional lighting near the bookcase.",
+        "sentence_cn": "落地灯为书柜附近提供额外的照明。",
+        "words": [
+            "floor",
+            "lamp",
+            "lighting",
+            "bookcase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a beige color scheme and is lit by recessed lighting in the ceiling.",
+        "sentence_cn": "房间采用米色配色方案，并由天花板嵌入式照明照明。",
+        "words": [
+            "room",
+            "color",
+            "scheme",
+            "lighting",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two windows with white blinds allow natural light into the space, adding to the bright and airy atmosphere.",
+        "sentence_cn": "两扇配有白色百叶窗的窗户让自然光照进空间，增添了明亮通风的氛围。",
+        "words": [
+            "Two",
+            "windows",
+            "blinds",
+            "light",
+            "space",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room appears functional and conducive to productivity.",
+        "sentence_cn": "总体而言，该房间看起来实用且有利于提高工作效率。",
+        "words": [
+            "room",
+            "productivity"
+        ],
+        "id": null
+    }
+]

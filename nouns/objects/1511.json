@@ -1,0 +1,188 @@
+[
+    {
+        "sentence": "The image shows a variety of items arranged on a carpeted floor.",
+        "sentence_cn": "图像显示了地毯上摆放的各种物品。",
+        "words": [
+            "variety",
+            "items",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description of each item:",
+        "sentence_cn": "以下是每个项目的详细描述：",
+        "words": [
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Row:",
+        "sentence_cn": "1. 顶行：",
+        "words": [
+            "Top Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Left: A red plastic cartoon cup with a lid and handle.",
+        "sentence_cn": "- 左：一个带盖子和把手的红色塑料卡通杯。",
+        "words": [
+            "Left:",
+            "cartoon",
+            "cup",
+            "lid",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center: A folded baby diaper or incontinence pad in transparent wrapping.",
+        "sentence_cn": "- 中心：透明包装中的折叠婴儿尿布或失禁垫。",
+        "words": [
+            "Center:",
+            "Center",
+            "baby",
+            "diaper",
+            "incontinence",
+            "pad",
+            "wrapping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Right: A book titled \"The Dawkins Delusion?\" by Alister McGrath.",
+        "sentence_cn": "- 右图：一本名为《道金斯妄想？》的书，作者是阿利斯特·麦格拉斯。",
+        "words": [
+            "Right:",
+            "The Dawkins Delusion?",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Row:",
+        "sentence_cn": "2. 中间行：",
+        "words": [
+            "Middle Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Left: A small red box with an illustrated character, likely containing gum or candy.",
+        "sentence_cn": "- 左：一个带有人物插画的小红盒子，可能装有口香糖或糖果。",
+        "words": [
+            "Left:",
+            "box",
+            "character",
+            "gum",
+            "candy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center-Left: A bunch of writing tools including black, blue, and red pens, along with a mechanical pencil.",
+        "sentence_cn": "- 中左：一堆书写工具，包括黑色、蓝色和红色的笔，以及一支自动铅笔。",
+        "words": [
+            "Center-Left:",
+            "bunch",
+            "writing",
+            "tools",
+            "pens",
+            "pencil"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center-Right: A plastic card with a lanyard, possibly a work ID.",
+        "sentence_cn": "- 中右：一张带有挂绳的塑料卡，可能是工作证。",
+        "words": [
+            "Center-Right:",
+            "card",
+            "lanyard",
+            "work",
+            "ID"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Right: A small tube of cream, next to a round container of Nivea Creme.",
+        "sentence_cn": "- 右图：一小管面霜，旁边是圆形的妮维雅面霜容器。",
+        "words": [
+            "Right:",
+            "tube",
+            "cream",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Row:",
+        "sentence_cn": "3. 底行：",
+        "words": [
+            "Bottom Row:",
+            "Bottom",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Left: A blister pack with tablets or capsules.",
+        "sentence_cn": "- 左：装有药片或胶囊的泡罩包装。",
+        "words": [
+            "Left:",
+            "blister",
+            "pack",
+            "tablets",
+            "capsules"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center-Left: A coiled black earbud set.",
+        "sentence_cn": "- 中左：一套盘绕的黑色耳塞。",
+        "words": [
+            "Center-Left:",
+            "earbud",
+            "set"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Center-Right: Two red apples.",
+        "sentence_cn": "- 中右：两个红苹果。",
+        "words": [
+            "Center-Right:",
+            "Two",
+            "apples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Right: A small electronic device, resembling an old phone or MP3 player.",
+        "sentence_cn": "- 右图：一种小型电子设备，类似于旧手机或 MP3 播放器。",
+        "words": [
+            "Right:",
+            "device",
+            "phone",
+            "MP3",
+            "player"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These items appear to form a collection of personal essentials or everyday carry items.",
+        "sentence_cn": "这些物品看起来像是个人必需品或日常携带物品的集合。",
+        "words": [
+            "items",
+            "collection",
+            "essentials",
+            "carry",
+            "items"
+        ],
+        "id": null
+    }
+]

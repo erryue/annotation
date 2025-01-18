@@ -1,0 +1,68 @@
+[
+    {
+        "id": "c02460e6-3fa8-490f-bb90-ee186b553ef0",
+        "confidence": 0.90415,
+        "class": "bird",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 253.95735,
+                        "minY": 146.30658,
+                        "maxX": 379.55145,
+                        "maxY": 212.66934
+                    },
+                    "x": 253.95735,
+                    "y": 146.30658,
+                    "w": 125.5941,
+                    "h": 66.36276000000001
+                }
+            }
+        }
+    },
+    {
+        "id": "c05e257a-fb62-4bc6-8801-42cfc6a0ff47",
+        "confidence": 0.86843,
+        "class": "bird",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 416.47086,
+                        "minY": 77.03338,
+                        "maxX": 556.35797,
+                        "maxY": 141.35313
+                    },
+                    "x": 416.47086,
+                    "y": 77.03338,
+                    "w": 139.88711,
+                    "h": 64.31975
+                }
+            }
+        }
+    },
+    {
+        "id": "c3cfe0bf-6d6f-41ee-9929-fb55a1402e79",
+        "confidence": 0.82537,
+        "class": "bird",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 105.41093,
+                        "minY": 70.62785,
+                        "maxX": 245.96718,
+                        "maxY": 139.30124
+                    },
+                    "x": 105.41093,
+                    "y": 70.62785,
+                    "w": 140.55625000000003,
+                    "h": 68.67339000000001
+                }
+            }
+        }
+    }
+]

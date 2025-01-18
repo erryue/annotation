@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image shows an outdoor seating area with a scenic backdrop of a waterfront and mountains.",
+        "sentence_cn": "图片显示的是户外座位区，背景是风景如画的海滨和山脉。",
+        "words": [
+            "seating",
+            "area",
+            "backdrop",
+            "waterfront",
+            "mountains"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The furniture consists of a large, L-shaped wicker sofa with gray cushions, positioned on a paved terrace.",
+        "sentence_cn": "家具包括一张 L 形大型柳条沙发，配有灰色垫子，放置在铺砌的露台上。",
+        "words": [
+            "furniture",
+            "L",
+            "wicker",
+            "sofa",
+            "cushions",
+            "terrace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa is a rectangular wicker coffee table with a glass top, on which a potted plant with white flowers is displayed.",
+        "sentence_cn": "沙发前方是一张长方形的玻璃台面柳条茶几，上面摆放着一盆开着白色花朵的盆栽。",
+        "words": [
+            "front",
+            "sofa",
+            "wicker",
+            "coffee",
+            "table",
+            "glass",
+            "top",
+            "plant",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The terrace is surrounded by a metal railing, and a stone wall provides separation from the waterfront.",
+        "sentence_cn": "露台周围有金属栏杆，石墙将露台与海滨隔开。",
+        "words": [
+            "terrace",
+            "metal",
+            "railing",
+            "stone",
+            "wall",
+            "separation",
+            "waterfront"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a body of water, likely a lake, with mountains in the distance.",
+        "sentence_cn": "背景是一片水域，可能是湖泊，远处有山脉。",
+        "words": [
+            "background",
+            "body",
+            "water",
+            "lake",
+            "mountains",
+            "distance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, suggesting a bright and pleasant day.",
+        "sentence_cn": "天空晴朗，预示着这将是一个明亮而愉快的一天。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    }
+]

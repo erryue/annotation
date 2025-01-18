@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image depicts an elegantly furnished room with a classic and cozy ambiance.",
+        "sentence_cn": "图像描绘的是一间布置典雅的房间，具有古典而舒适的氛围。",
+        "words": [
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features large, ornate windows with multiple panes and an arched stone frame.",
+        "sentence_cn": "房间设有大型华丽的窗户，配有多块玻璃和拱形石框。",
+        "words": [
+            "room",
+            "windows",
+            "panes",
+            "stone",
+            "frame"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These windows allow natural light to flood the space, highlighting the rich details of the room.",
+        "sentence_cn": "这些窗户让自然光充满整个空间，凸显了房间的丰富细节。",
+        "words": [
+            "windows",
+            "light",
+            "space",
+            "details",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are adorned with patterned wallpaper in deep green and red with floral motifs, giving the room a vintage feel.",
+        "sentence_cn": "墙壁上装饰有深绿色和红色的花卉图案壁纸，给房间带来一种复古的感觉。",
+        "words": [
+            "walls",
+            "wallpaper",
+            "green",
+            "red",
+            "motifs",
+            "room",
+            "vintage",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In one corner, there's a wooden round table with a lamp and a small floral arrangement, positioned between two upholstered chairs.",
+        "sentence_cn": "在一个角落里，有一张木制圆桌，上面有一盏灯和一小束花，摆放在两把软垫椅子之间。",
+        "words": [
+            "one",
+            "corner",
+            "table",
+            "lamp",
+            "arrangement",
+            "two",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the table, a framed artwork hangs on the wall.",
+        "sentence_cn": "桌子上方的墙上挂着一幅镶框的艺术品。",
+        "words": [
+            "table",
+            "artwork",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The seating area includes several upholstered armchairs, predominantly in light colors that complement the room's palette.",
+        "sentence_cn": "座位区配有几把软垫扶手椅，主要采用浅色，与房间的色调相得益彰。",
+        "words": [
+            "seating",
+            "area",
+            "armchairs",
+            "colors",
+            "room",
+            "palette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A plush, patterned red rug is spread on the floor, adding warmth and texture.",
+        "sentence_cn": "地板上铺着一块毛绒的、有图案的红色地毯，增添了温暖和质感。",
+        "words": [
+            "rug",
+            "floor",
+            "warmth",
+            "texture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The right side of the room features a decorative fireplace, complete with an arrangement of flowers adding a touch of freshness.",
+        "sentence_cn": "房间右侧设有装饰性壁炉，并布置了鲜花，增添一丝清新气息。",
+        "words": [
+            "room",
+            "fireplace",
+            "arrangement",
+            "flowers",
+            "touch",
+            "freshness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is further illuminated by an elegant chandelier hanging from the ceiling, with multiple round glass bulbs.",
+        "sentence_cn": "天花板上悬挂着一盏优雅的枝形吊灯，上面有多个圆形玻璃灯泡，使房间更加明亮。",
+        "words": [
+            "room",
+            "chandelier",
+            "ceiling",
+            "glass",
+            "bulbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room combines elements of traditional design with comfortable, inviting furnishings, creating a sophisticated yet homey atmosphere.",
+        "sentence_cn": "总体而言，房间融合了传统设计元素和舒适温馨的家具，营造出精致而温馨的氛围。",
+        "words": [
+            "room",
+            "elements",
+            "design",
+            "furnishings",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

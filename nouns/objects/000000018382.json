@@ -1,0 +1,188 @@
+[
+    {
+        "sentence": "The image features a vibrant, indoor setting with a table holding three distinct items.",
+        "sentence_cn": "图片展现的是充满活力的室内场景，桌子上摆放着三件不同的物品。",
+        "words": [
+            "table",
+            "three",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Side:",
+        "sentence_cn": "1. 左侧：",
+        "words": [
+            "Left Side:",
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A clear glass vase is filled with a large bouquet of bright yellow daffodils.",
+        "sentence_cn": "- 透明玻璃花瓶中插着一大束鲜黄色的水仙花。",
+        "words": [
+            "glass",
+            "vase",
+            "bouquet",
+            "daffodils"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flowers have long green stems and are densely packed, giving a fresh and lively appearance.",
+        "sentence_cn": "花茎细长，呈绿色，花朵密集，显得清新而有生机。",
+        "words": [
+            "flowers",
+            "stems",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The vase is filled with water, which enhances the green color of the stems and adds a refreshing touch to the arrangement.",
+        "sentence_cn": "- 花瓶里装满了水，增强了茎的绿色，为插花增添了清新的感觉。",
+        "words": [
+            "vase",
+            "water",
+            "color",
+            "stems",
+            "touch",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Center:",
+        "sentence_cn": "2. 中心：",
+        "words": [
+            "Center:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Next to the daffodils, there is a purple pot containing a plant with green shoots emerging from moss.",
+        "sentence_cn": "- 水仙花旁边有一个紫色的花盆，里面种着一株从苔藓中长出绿芽的植物。",
+        "words": [
+            "daffodils",
+            "pot",
+            "plant",
+            "shoots",
+            "moss"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bright color of the pot contrasts with the natural tones of the plant and moss, providing an eye-catching display.",
+        "sentence_cn": "花盆的鲜艳色彩与植物和苔藓的自然色调形成鲜明对比，形成了引人注目的展示效果。",
+        "words": [
+            "color",
+            "pot",
+            "tones",
+            "plant",
+            "moss",
+            "eye",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Front:",
+        "sentence_cn": "3. 正面：",
+        "words": [
+            "Front:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A small, red dish or bowl contains purple petals or small decorative items.",
+        "sentence_cn": "- 小红盘或小碗中装有紫色花瓣或小装饰品。",
+        "words": [
+            "dish",
+            "bowl",
+            "petals",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The red dish introduces a distinct splash of color, complementing the purple pot behind it.",
+        "sentence_cn": "红色的盘子呈现出独特的色彩，与其后面的紫色花盆相得益彰。",
+        "words": [
+            "dish",
+            "splash",
+            "color",
+            "pot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Background:",
+        "sentence_cn": "背景：",
+        "words": [
+            "Background:",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The background consists of a light-colored wall and part of a cupboard with shelves.",
+        "sentence_cn": "- 背景由浅色墙壁和带架子的橱柜的一部分组成。",
+        "words": [
+            "background",
+            "wall",
+            "part",
+            "cupboard",
+            "shelves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting suggests a cozy, indoor environment with other household elements partially visible, including a white chair and a saucer with a cup or a small cake.",
+        "sentence_cn": "该场景表明室内环境舒适宜人，部分家居元素清晰可见，包括一把白色椅子和一个带有杯子或小蛋糕的碟子。",
+        "words": [
+            "environment",
+            "household",
+            "elements",
+            "chair",
+            "saucer",
+            "cup",
+            "cake"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the arrangement and colors evoke a sense of springtime freshness and aesthetic harmony, focusing on the natural beauty of the flowers and plants.",
+        "sentence_cn": "总体而言，布局和色彩营造出春天清新和审美和谐的感觉，重点突出花草的自然美。",
+        "words": [
+            "arrangement",
+            "colors",
+            "sense",
+            "springtime",
+            "freshness",
+            "harmony",
+            "beauty",
+            "flowers",
+            "plants"
+        ],
+        "id": null
+    }
+]

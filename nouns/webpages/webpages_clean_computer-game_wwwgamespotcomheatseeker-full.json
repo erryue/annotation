@@ -1,0 +1,151 @@
+[
+    {
+        "sentence": "The image is a webpage from GameSpot, showcasing a game called \"Heatseeker.\"",
+        "sentence_cn": "图片是 GameSpot 的一个网页，展示了一款名为“Heatseeker”的游戏。",
+        "words": [
+            "Heatseeker.",
+            "webpage",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The top section features the GameSpot logo in yellow, along with navigation options for different platforms like PC, PS4, and Xbox One, among others.",
+        "sentence_cn": "- 顶部部分以黄色显示 GameSpot 徽标，以及 PC、PS4 和 Xbox One 等不同平台的导航选项。",
+        "words": [
+            "section",
+            "logo",
+            "yellow",
+            "navigation",
+            "options",
+            "platforms",
+            "One",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the navigation, there is a search bar.",
+        "sentence_cn": "- 导航下方有一个搜索栏。",
+        "words": [
+            "navigation",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The main content focuses on \"Heatseeker,\" which was first released on May 1, 2007, and is available on platforms like Wii, PSP, and PS2.",
+        "sentence_cn": "- 主要内容集中在 2007 年 5 月 1 日首次发布并在 Wii、PSP 和 PS2 等平台上可用的“Heatseeker”。",
+        "words": [
+            "Heatseeker,",
+            "content",
+            "1",
+            "2007",
+            "platforms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's an option to \"Follow\" the game.",
+        "sentence_cn": "有一个选项可以“关注”游戏。",
+        "words": [
+            "Follow",
+            "option",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A cover art image of the game \"Heatseeker\" is visible on the left, showing a fighter jet and explosions.",
+        "sentence_cn": "- 左侧是游戏“Heatseeker”的封面艺术图，其中显示了一架战斗机和爆炸场景。",
+        "words": [
+            "Heatseeker",
+            "cover",
+            "art",
+            "game",
+            "left",
+            "fighter",
+            "jet",
+            "explosions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to the image, GameSpot has rated the game 5.7 out of 10, labeling it as \"Mediocre.\"",
+        "sentence_cn": "- 在图片旁边，GameSpot 对该游戏的评分为 5.7 分（满分 10 分），并将其标记为“平庸”。",
+        "words": [
+            "Mediocre.",
+            "game",
+            "5.7",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Metacritic score is 62, and the user average rating is 7.2.",
+        "sentence_cn": "Metacritic 评分为 62，用户平均评分为 7.2。",
+        "words": [
+            "Metacritic",
+            "score",
+            "62",
+            "user",
+            "rating",
+            "7.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below this section, tabs are available for Reviews, News & Features, Images, Videos, Cheats & Guides, and Forum.",
+        "sentence_cn": "- 在本节下方，标签可用于评论，新闻和功能，图像，视频，作弊和指南以及论坛。",
+        "words": [
+            "section",
+            "tabs",
+            "Images",
+            "Videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The \"Latest on Heatseeker\" section below lists updates, including articles about game releases dated May 28, 2007, and May 7-11.",
+        "sentence_cn": "- 下面的“Heatseeker 最新消息”部分列出了更新内容，包括有关 2007 年 5 月 28 日和 5 月 7 日至 11 日发布的游戏的文章。",
+        "words": [
+            "Latest on Heatseeker",
+            "section",
+            "updates",
+            "articles",
+            "game",
+            "releases",
+            "28",
+            "2007",
+            "7",
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The articles mention topics like \"AU Shippin' Out May 28-June 1: Impossible Mission, Spidey, and ponies,\" and \"Shippin' Out May 7-11: C&C3 360,\" with brief descriptions of their content.",
+        "sentence_cn": "- 文章中提到了诸如“AU Shippin' Out 5 月 28 日至 6 月 1 日：不可能的任务、蜘蛛侠和小马”和“Shippin' Out 5 月 7 日至 11 日：C&C3 360”等主题，并简要描述了它们的内容。",
+        "words": [
+            "AU Shippin' Out May 28-June 1: Impossible Mission, Spidey, and ponies,",
+            "Shippin' Out May 7-11: C&C3 360,",
+            "articles",
+            "topics",
+            "28",
+            "1",
+            "ponies",
+            "7",
+            "11",
+            "360",
+            "descriptions",
+            "content"
+        ],
+        "id": null
+    }
+]

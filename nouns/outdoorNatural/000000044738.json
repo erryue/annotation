@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "The image shows a serene pastoral scene with a group of cows lying on a vast green field.",
+        "sentence_cn": "图为一幅宁静的田园风光，一群牛躺在广阔的绿色田野上。",
+        "words": [
+            "scene",
+            "group",
+            "cows",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows are mostly white with brown patches.",
+        "sentence_cn": "这些奶牛大多是白色的，带有棕色斑点。",
+        "words": [
+            "cows",
+            "patches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is a brilliant blue with large, fluffy clouds drifting across, creating a mix of sunlit and shaded areas in the field.",
+        "sentence_cn": "头顶的天空蔚蓝，大片蓬松的云朵飘过，在田野中形成阳光照射和阴影交织的区域。",
+        "words": [
+            "sky",
+            "blue",
+            "clouds",
+            "mix",
+            "areas",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are small buildings or farmhouses dotting the horizon, surrounded by trees.",
+        "sentence_cn": "背景中，小楼或农舍散布在地平线上，周围环绕着树木。",
+        "words": [
+            "background",
+            "buildings",
+            "farmhouses",
+            "horizon",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is peaceful and rural, conveying a sense of calm and natural beauty.",
+        "sentence_cn": "整体氛围宁静而质朴，传达出一种平静和自然之美的感觉​​。",
+        "words": [
+            "atmosphere",
+            "sense",
+            "calm",
+            "beauty"
+        ],
+        "id": null
+    }
+]

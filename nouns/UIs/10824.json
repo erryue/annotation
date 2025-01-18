@@ -1,0 +1,175 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile application's interface designed for following esports teams.",
+        "sentence_cn": "该图是专为关注电子竞技团队而设计的移动应用程序界面的屏幕截图。",
+        "words": [
+            "application",
+            "interface",
+            "esports",
+            "teams"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top features a navigation bar with the option to go \"BACK\" or to proceed to \"NEXT.\"",
+        "sentence_cn": "顶部设有导航栏，可选择“返回”或“下一步”。",
+        "words": [
+            "BACK",
+            "NEXT.",
+            "top",
+            "navigation",
+            "bar",
+            "option",
+            "NEXT"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The section is labeled \"Follow Teams\" with an icon suggesting a user group.",
+        "sentence_cn": "该部分标记为“关注团队”，并带有一个代表用户组的图标。",
+        "words": [
+            "Follow Teams",
+            "section",
+            "Teams",
+            "icon",
+            "user",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A progress bar indicates the user is on the second step of a multi-step process.",
+        "sentence_cn": "进度条指示用户正处于多步骤过程的第二步。",
+        "words": [
+            "progress",
+            "bar",
+            "user",
+            "step",
+            "process"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the navigation bar, there is a search bar labeled \"Search for teams,\" followed by a list of esports teams, each with associated icons, names, and games they play.",
+        "sentence_cn": "导航栏下方是一个名为“搜索团队”的搜索栏，后面是电子竞技团队列表，每个团队都有相关的图标、名称和他们玩的游戏。",
+        "words": [
+            "Search for teams,",
+            "navigation",
+            "bar",
+            "search",
+            "bar",
+            "teams",
+            "list",
+            "esports",
+            "teams",
+            "icons",
+            "names",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The list includes:",
+        "sentence_cn": "该列表包括：",
+        "words": [
+            "list"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Team SoloMid - League of Legends, with a blue heart icon indicating it's been selected.",
+        "sentence_cn": "1. Team SoloMid - 英雄联盟，带有蓝色心形图标表示已被选中。",
+        "words": [
+            "Team SoloMid",
+            "heart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Fnatic - League of Legends, with an empty heart icon.",
+        "sentence_cn": "2. Fnatic——英雄联盟，带有一个空心图标。",
+        "words": [
+            "Fnatic",
+            "heart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Cloud9 - League of Legends, with an empty heart icon.",
+        "sentence_cn": "3. Cloud9——英雄联盟，带有一个空心图标。",
+        "words": [
+            "Cloud9",
+            "heart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Team Secret - Dota 2, with an empty heart icon.",
+        "sentence_cn": "4. Team Secret - Dota 2，带有一个空心图标。",
+        "words": [
+            "Team Secret",
+            "heart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Origen - League of Legends, with an empty heart icon.",
+        "sentence_cn": "5. Origen——英雄联盟，带有一个空心图标。",
+        "words": [
+            "Origen",
+            "heart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. SKTelecom T1 - League of Legends, with an empty heart icon.",
+        "sentence_cn": "6. SKTelecom T1——英雄联盟，带有一个空心图标。",
+        "words": [
+            "SKTelecom T1",
+            "heart",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom are tags for different teams and games, such as \"TSM,\" \"EU LCS,\" \"NA LCS,\" \"CoD\" (Call of Duty), \"LoL\" (League of Legends), and \"Dota 2,\" each with an \"X\" icon to remove the selection.",
+        "sentence_cn": "底部是不同队伍和游戏的标签，例如“TSM”、“EU LCS”、“NA LCS”、“CoD”（使命召唤）、“LoL”（英雄联盟）和“Dota 2”，每个标签都有一个“X”图标来删除选择。",
+        "words": [
+            "TSM,",
+            "EU LCS,",
+            "NA LCS,",
+            "CoD",
+            "LoL",
+            "Dota 2,",
+            "X",
+            "bottom",
+            "tags",
+            "teams",
+            "games",
+            "2",
+            "X",
+            "icon",
+            "selection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface suggests filter or category options for the user¡¯s selections in esports.",
+        "sentence_cn": "该界面为用户在电子竞技中的选择提供过滤或类别选项。",
+        "words": [
+            "interface",
+            "filter",
+            "category",
+            "options",
+            "user¡¯s",
+            "selections",
+            "esports"
+        ],
+        "id": null
+    }
+]

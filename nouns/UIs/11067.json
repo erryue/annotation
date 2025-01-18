@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app interface, likely an Android application given the context of the Android mascot.",
+        "sentence_cn": "该图是移动应用程序界面的屏幕截图，考虑到 Android 吉祥物的上下文，它很可能是 Android 应用程序。",
+        "words": [
+            "app",
+            "interface",
+            "application",
+            "context",
+            "mascot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen displays multiple rows and columns of the green Android mascot, each with a white cube on its torso, which typically represents missing icons or default placeholders.",
+        "sentence_cn": "屏幕上显示了多行和多列的绿色 Android 吉祥物，每行和每列的躯干上都有一个白色立方体，通常代表缺失的图标或默认占位符。",
+        "words": [
+            "screen",
+            "rows",
+            "columns",
+            "mascot",
+            "cube",
+            "torso",
+            "icons",
+            "placeholders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the screen, there's a navigation bar with an app icon labeled \"Nail Art.\"",
+        "sentence_cn": "屏幕顶部有一个导航栏，其中的应用程序图标标有“美甲”。",
+        "words": [
+            "Nail Art.",
+            "top",
+            "screen",
+            "navigation",
+            "bar",
+            "app",
+            "icon",
+            "Art"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface shows two tabs: \"Latest\" and \"My Favorites,\" with \"Latest\" currently selected.",
+        "sentence_cn": "界面显示两个标签：“最新”和“我的收藏”，当前选定的是“最新”。",
+        "words": [
+            "Latest",
+            "My Favorites,",
+            "Latest",
+            "interface",
+            "two",
+            "tabs",
+            "Favorites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Also visible are typical status indicators at the top, such as time, battery, and notification icons.",
+        "sentence_cn": "顶部还可以看到典型的状态指示器，例如时间、电池和通知图标。",
+        "words": [
+            "status",
+            "indicators",
+            "top",
+            "time",
+            "battery",
+            "notification",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a banner advertisement for Poshmark, indicating the app may be free but ad-supported.",
+        "sentence_cn": "底部有 Poshmark 的横幅广告，表明该应用程序可能是免费的，但有广告支持。",
+        "words": [
+            "bottom",
+            "banner",
+            "app",
+            "ad"
+        ],
+        "id": null
+    }
+]

@@ -27,8 +27,8 @@
         "id": null
     },
     {
-        "sentence": "1. **Patient Satisfaction and Loyalty:**",
-        "sentence_cn": "1. **患者满意度和忠诚度：**",
+        "sentence": "1. Patient Satisfaction and Loyalty:",
+        "sentence_cn": "1. 患者满意度和忠诚度：",
         "words": [
             "Patient Satisfaction and Loyalty:",
             "Satisfaction",
@@ -66,8 +66,8 @@
         "id": null
     },
     {
-        "sentence": "2. **Word of Mouth:**",
-        "sentence_cn": "2. **口碑：**",
+        "sentence": "2. Word of Mouth:",
+        "sentence_cn": "2. 口碑：",
         "words": [
             "Word of Mouth:",
             "Word",
@@ -90,8 +90,8 @@
         "id": null
     },
     {
-        "sentence": "3. **Satisfaction Trends:**",
-        "sentence_cn": "3. **满意度趋势：**",
+        "sentence": "3. Satisfaction Trends:",
+        "sentence_cn": "3. 满意度趋势：",
         "words": [
             "Satisfaction Trends:",
             "Satisfaction",
@@ -125,8 +125,8 @@
         "id": null
     },
     {
-        "sentence": "4. **Health Implications:**",
-        "sentence_cn": "4. **健康影响：**",
+        "sentence": "4. Health Implications:",
+        "sentence_cn": "4. 健康影响：",
         "words": [
             "Health Implications:",
             "Health",
@@ -151,8 +151,8 @@
         "id": null
     },
     {
-        "sentence": "5. **Hospital Return Likelihood:**",
-        "sentence_cn": "5. **返回医院的可能性：**",
+        "sentence": "5. Hospital Return Likelihood:",
+        "sentence_cn": "5. 返回医院的可能性：",
         "words": [
             "Hospital Return Likelihood:",
             "Hospital",
@@ -183,8 +183,8 @@
         "id": null
     },
     {
-        "sentence": "6. **Bill Payment Habits:**",
-        "sentence_cn": "6. **账单支付习惯：**",
+        "sentence": "6. Bill Payment Habits:",
+        "sentence_cn": "6. 账单支付习惯：",
         "words": [
             "Bill Payment Habits:",
             "Bill",
@@ -209,8 +209,8 @@
         "id": null
     },
     {
-        "sentence": "7. **Recommendations:**",
-        "sentence_cn": "7.**建议：**",
+        "sentence": "7. Recommendations:",
+        "sentence_cn": "7.建议：",
         "words": [
             "Recommendations:",
             "Recommendations"
@@ -233,8 +233,8 @@
         "id": null
     },
     {
-        "sentence": "8. **Call to Action:**",
-        "sentence_cn": "8. **行动号召：**",
+        "sentence": "8. Call to Action:",
+        "sentence_cn": "8. 行动号召：",
         "words": [
             "Call to Action:",
             "Call",

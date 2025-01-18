@@ -1,0 +1,375 @@
+[
+    {
+        "sentence": "The infographic titled \"Skill Shortages in New Zealand\" by Share Knowledge highlights various issues related to skill shortages in New Zealand.",
+        "sentence_cn": "Share Knowledge 制作的这张名为“新西兰技能短缺”的信息图重点介绍了新西兰技能短缺相关的各种问题。",
+        "words": [
+            "Skill Shortages in New Zealand",
+            "issues",
+            "skill",
+            "shortages",
+            "New",
+            "Zealand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Icons Representing Fields:",
+        "sentence_cn": "1. 代表字段的图标：",
+        "words": [
+            "Icons Representing Fields",
+            "Icons",
+            "Fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Innovation (light bulb)",
+        "sentence_cn": "- 创新（灯泡）",
+        "words": [
+            "Innovation",
+            "light",
+            "bulb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Business (briefcase)",
+        "sentence_cn": "- 商务（公文包）",
+        "words": [
+            "briefcase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Science Technology (flask)",
+        "sentence_cn": "- 科学技术（烧瓶）",
+        "words": [
+            "flask"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Engineering (gear)",
+        "sentence_cn": "- 工程（装备）",
+        "words": [
+            "Engineering",
+            "gear"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Digital & IT (pixels)",
+        "sentence_cn": "- 数字和 IT（像素）",
+        "words": [
+            "IT",
+            "pixels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Food Technology/Chemistry (apple)",
+        "sentence_cn": "- 食品技术/化学（苹果）",
+        "words": [
+            "Food",
+            "Chemistry",
+            "apple"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Statistics:",
+        "sentence_cn": "2. 统计：",
+        "words": [
+            "Statistics",
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 1 million working-age adults lack numeracy, literacy, and cognitive skills.",
+        "sentence_cn": "- 100 万工作年龄的成年人缺乏计算能力、读写能力和认知能力。",
+        "words": [
+            "1",
+            "million",
+            "age",
+            "adults",
+            "numeracy",
+            "literacy",
+            "skills"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Current unemployment rate is 6.8%.",
+        "sentence_cn": "- 当前失业率为 6.8%。",
+        "words": [
+            "unemployment",
+            "rate",
+            "6.8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A survey of 300 employers shows dissatisfaction with training from schools, polytechnics, and universities.",
+        "sentence_cn": "- 对 300 名雇主的调查显示，他们对学校、理工学院和大学的培训不满意。",
+        "words": [
+            "survey",
+            "300",
+            "employers",
+            "dissatisfaction",
+            "training",
+            "schools",
+            "polytechnics",
+            "universities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Increase in demand for professionals is 6%.",
+        "sentence_cn": "- 专业人员需求增加6%。",
+        "words": [
+            "Increase",
+            "demand",
+            "professionals",
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 48% of firms find it difficult to find labor.",
+        "sentence_cn": "- 48%的企业发现很难找到劳动力。",
+        "words": [
+            "48",
+            "firms",
+            "labor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 20% growth in job vacancies.",
+        "sentence_cn": "- 职位空缺增长20％。",
+        "words": [
+            "20",
+            "growth",
+            "job",
+            "vacancies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Work permits increased from 13,586 in 1999/2000 to 29,500 in 2005/06 to curb shortages.",
+        "sentence_cn": "- 为缓解劳动力短缺问题，工作许可证数量从 1999/2000 年度的 13,586 份增加到 2005/2006 年度的 29,500 份。",
+        "words": [
+            "Work",
+            "permits",
+            "13,586",
+            "1999/2000",
+            "29,500",
+            "2005/06",
+            "shortages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Unemployment (2009):",
+        "sentence_cn": "3. 失业率（2009年）：",
+        "words": [
+            "Unemployment (2009)",
+            "Unemployment",
+            "2009"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - M¨¡ori people: 12%",
+        "sentence_cn": "- 毛利人：12%",
+        "words": [
+            "people",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Pacific people: 12.8%",
+        "sentence_cn": "- 太平洋岛民：12.8%",
+        "words": [
+            "Pacific",
+            "people",
+            "12.8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Men: 6.7%",
+        "sentence_cn": "- 男性：6.7％",
+        "words": [
+            "Men",
+            "6.7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Women: 7.3%",
+        "sentence_cn": "- 女性：7.3％",
+        "words": [
+            "7.3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Long-term unemployment: 18% for 2006 and 2009.",
+        "sentence_cn": "- 长期失业率：2006 年和 2009 年为 18%。",
+        "words": [
+            "term",
+            "unemployment",
+            "18",
+            "2006",
+            "2009"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 15% long-term unemployment for women.",
+        "sentence_cn": "- 女性长期失业率为15%。",
+        "words": [
+            "15",
+            "term",
+            "unemployment",
+            "women"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Qualifications:",
+        "sentence_cn": "4.资格：",
+        "words": [
+            "Qualifications",
+            "Qualifications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 60% of those aged 55+ have no qualifications.",
+        "sentence_cn": "- 60％的55岁以上的人口没有学历。",
+        "words": [
+            "60",
+            "55",
+            "+",
+            "qualifications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 50% of those aged 25-54 have post-school qualifications.",
+        "sentence_cn": "- 25-54岁之间的人口中50%拥有中学以上学历。",
+        "words": [
+            "50",
+            "25",
+            "54",
+            "qualifications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Proposed Solution:",
+        "sentence_cn": "5.建议的解决方案：",
+        "words": [
+            "Proposed Solution",
+            "Solution"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Micro skills education system: Focuses on observable skills applicable in classroom and employment.",
+        "sentence_cn": "- 微技能教育体系：注重课堂和就业中可应用的可观察技能。",
+        "words": [
+            "skills",
+            "education",
+            "system",
+            "Focuses",
+            "skills",
+            "classroom",
+            "employment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Aims to teach skills needed in the job market efficiently and relevantly.",
+        "sentence_cn": "- 旨在有效且相关地教授就业市场所需的技能。",
+        "words": [
+            "skills",
+            "job",
+            "market"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Visual Elements:",
+        "sentence_cn": "6. 视觉元素：",
+        "words": [
+            "Visual Elements",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Map of New Zealand with icons representing areas of employment struggle.",
+        "sentence_cn": "- 新西兰地图上带有代表就业困难地区的图标。",
+        "words": [
+            "New",
+            "Zealand",
+            "icons",
+            "areas",
+            "employment",
+            "struggle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bar charts showing unemployment rise and disparities.",
+        "sentence_cn": "- 显示失业率上升和差距的条形图。",
+        "words": [
+            "Bar",
+            "charts",
+            "unemployment",
+            "rise",
+            "disparities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Books and computer mouse indicating education.",
+        "sentence_cn": "- 书籍和电脑鼠标表明教育意义。",
+        "words": [
+            "Books",
+            "computer",
+            "mouse",
+            "education"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This infographic sheds light on the skill shortages in New Zealand, emphasizing the need for improved educational strategies and more practical training to meet labor market demands.",
+        "sentence_cn": "该信息图揭示了新西兰的技能短缺问题，强调需要改进教育策略和提供更多实践培训以满足劳动力市场的需求。",
+        "words": [
+            "light",
+            "skill",
+            "shortages",
+            "New",
+            "Zealand",
+            "need",
+            "strategies",
+            "training",
+            "labor",
+            "market",
+            "demands"
+        ],
+        "id": null
+    }
+]

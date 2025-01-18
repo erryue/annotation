@@ -1,0 +1,50 @@
+[
+    {
+        "sentence": "The image shows a group of people gathered on a street, seeming to be part of an event or parade.",
+        "sentence_cn": "图像显示一群人聚集在街道上，似乎是在参加某个活动或游行。",
+        "words": [
+            "group",
+            "people",
+            "street",
+            "part",
+            "event",
+            "parade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are accompanied by several Golden Retrievers wearing blue and white capes with the word \"Obama\" printed prominently, possibly indicating political support.",
+        "sentence_cn": "他们身边还跟着几只金毛猎犬，披着蓝白相间的斗篷，斗篷上显眼地印着“奥巴马”字样，可能表示对奥巴马的政治支持。",
+        "words": [
+            "Obama",
+            "capes",
+            "word",
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dogs are sitting together in a row on the road, facing the people standing near them.",
+        "sentence_cn": "狗狗们坐在路边一排，面朝站在它们附近的人。",
+        "words": [
+            "dogs",
+            "row",
+            "road",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people appear to be engaged and smiling, and there are more individuals and buildings visible in the background, contributing to the atmosphere of a lively gathering.",
+        "sentence_cn": "人们看上去都很投入并且面带微笑，并且背景中可以看到更多的人和建筑物，营造出一种热闹的聚会氛围。",
+        "words": [
+            "people",
+            "individuals",
+            "buildings",
+            "background",
+            "atmosphere",
+            "gathering"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile application named \"Happy Cyanide.\"",
+        "sentence_cn": "该图是一款名为“Happy Cyanide”的手机应用程序的截图。",
+        "words": [
+            "Happy Cyanide.",
+            "mobile",
+            "application"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a notification box on a green background with a checkmark icon, stating, \"Your account has been created!\"",
+        "sentence_cn": "在顶部，有一个绿色背景的通知框，上面有一个复选标记图标，显示“您的帐户已创建！”",
+        "words": [
+            "Your account has been created!",
+            "top",
+            "notification",
+            "box",
+            "background",
+            "checkmark",
+            "icon",
+            "account"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prompts the user to check their email for a confirmation and features buttons labeled \"Account\" and \"Preferences.\"",
+        "sentence_cn": "它提示用户检查电子邮件以进行确认，并带有标有“帐户”和“首选项”的按钮。",
+        "words": [
+            "Account",
+            "Preferences.",
+            "user",
+            "email",
+            "confirmation",
+            "buttons",
+            "Account",
+            "Preferences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the notification, there's a section titled \"Latest short,\" accompanied by navigation arrows and a question mark for browsing.",
+        "sentence_cn": "通知下方有一个名为“最新简讯”的部分，并附有导航箭头和用于浏览的问号。",
+        "words": [
+            "Latest short,",
+            "notification",
+            "section",
+            "navigation",
+            "arrows",
+            "question",
+            "mark",
+            "browsing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content shows a cartoon character from \"Cyanide & Happiness.\"",
+        "sentence_cn": "主要内容是《氰化物与幸福》里的卡通人物。",
+        "words": [
+            "Cyanide & Happiness.",
+            "content",
+            "cartoon",
+            "character"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The character has a simplistic, round head and is smiling while sitting at a table.",
+        "sentence_cn": "这个角色有一个简单的圆头，坐在桌边微笑。",
+        "words": [
+            "character",
+            "head",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table are a bottle, a fork, a knife, and a candle.",
+        "sentence_cn": "桌子上有一个瓶子，一把叉子，一把刀和一支蜡烛。",
+        "words": [
+            "table",
+            "bottle",
+            "fork",
+            "knife",
+            "candle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overlaid on this scene is a play button icon, suggesting a video clip titled \"Seriously.\"",
+        "sentence_cn": "该场景上覆盖着一个播放按钮图标，提示正在播放标题为“认真”的视频片段。",
+        "words": [
+            "Seriously.",
+            "scene",
+            "play",
+            "button",
+            "icon",
+            "video",
+            "clip"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screenshot is taken from an Android device, visible from the standard navigation bar at the bottom.",
+        "sentence_cn": "该屏幕截图取自 Android 设备，可从底部的标准导航栏看到。",
+        "words": [
+            "device",
+            "navigation",
+            "bar",
+            "bottom"
+        ],
+        "id": null
+    }
+]

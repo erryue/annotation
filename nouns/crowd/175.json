@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image depicts a group of people engaged in a meeting or workshop in a classroom setting.",
+        "sentence_cn": "图像描绘了一群人在教室环境中参加会议或研讨会。",
+        "words": [
+            "group",
+            "people",
+            "meeting",
+            "workshop",
+            "classroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are nine individuals present, mostly seated around a table with laptops, open notebooks, and papers.",
+        "sentence_cn": "在场有九个人，大部分都坐在一张桌子旁边，桌子上有笔记本电脑、打开的笔记本和纸张。",
+        "words": [
+            "nine",
+            "individuals",
+            "table",
+            "laptops",
+            "notebooks",
+            "papers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One person, standing, appears to be leading the discussion, pointing to a chart on the wall.",
+        "sentence_cn": "一名站着的人似乎在主导讨论，指着墙上的一张图表。",
+        "words": [
+            "One",
+            "person",
+            "discussion",
+            "chart",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The chart has bullet points and sticky notes on it, suggesting a brainstorming session.",
+        "sentence_cn": "图表上有项目符号和便签，暗示正在进行头脑风暴会议。",
+        "words": [
+            "chart",
+            "bullet",
+            "points",
+            "notes",
+            "brainstorming",
+            "session"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The attendees are diverse, with different ages and clothing styles, indicating a casual or informal meeting.",
+        "sentence_cn": "参加者多种多样，年龄和衣着风格各异，表明这是一次随意或非正式的会议。",
+        "words": [
+            "attendees",
+            "ages",
+            "clothing",
+            "styles",
+            "meeting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are decorated with educational posters, one of which emphasizes the use of math.",
+        "sentence_cn": "墙上贴满了教育海报，其中一张强调了数学的使用。",
+        "words": [
+            "walls",
+            "posters",
+            "one",
+            "use",
+            "math"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Stacks of boxes labeled \"GRADUAT\" are visible in the corner, potentially indicating a storage area for graduation materials.",
+        "sentence_cn": "角落里可以看到一堆堆标有“毕业生”字样的盒子，这可能是毕业材料的存储区。",
+        "words": [
+            "GRADUAT",
+            "Stacks",
+            "boxes",
+            "GRADUAT",
+            "corner",
+            "storage",
+            "area",
+            "graduation",
+            "materials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is collaborative and focused on teamwork.",
+        "sentence_cn": "这里弥漫着协作的气氛并注重团队合作。",
+        "words": [
+            "atmosphere",
+            "teamwork"
+        ],
+        "id": null
+    }
+]

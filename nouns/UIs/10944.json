@@ -1,0 +1,187 @@
+[
+    {
+        "sentence": "The image shows a screenshot of a mobile application¡¯s settings page.",
+        "sentence_cn": "该图显示了移动应用程序设置页面的屏幕截图。",
+        "words": [
+            "application¡¯s",
+            "settings",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface is in dark mode with a list of options in white text on a dark background.",
+        "sentence_cn": "界面处于暗模式，在暗背景上以白色文字显示选项列表。",
+        "words": [
+            "interface",
+            "mode",
+            "list",
+            "options",
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the title \"Settings\" is displayed.",
+        "sentence_cn": "顶部显示标题“设置”。",
+        "words": [
+            "Settings",
+            "top",
+            "title",
+            "Settings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Options under \"Advanced\" include:",
+        "sentence_cn": "“高级”下的选项包括：",
+        "words": [
+            "Advanced",
+            "Options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Quick Play Lockscreen ¨C Enabled (switched on), indicated by a purple check mark.",
+        "sentence_cn": "1. 快速播放锁屏 - 已启用（已打开），以紫色复选标记表示。",
+        "words": [
+            "Quick Play Lockscreen",
+            "Play",
+            "Lockscreen",
+            "check",
+            "mark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Battery Indicator ¨C Disabled (switched off), indicated by a gray cross.",
+        "sentence_cn": "2. 电池指示器 - 已禁用（关闭），以灰色十字表示。",
+        "words": [
+            "Battery Indicator",
+            "Battery",
+            "Indicator",
+            "cross"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a note that ads will be shown on the lockscreen.",
+        "sentence_cn": "有提示称，广告将会显示在锁屏上。",
+        "words": [
+            "note",
+            "ads",
+            "lockscreen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Music Reminder ¨C Enabled (switched on), indicated by a purple check mark.",
+        "sentence_cn": "3. 音乐提醒 - 已启用（打开），以紫色复选标记表示。",
+        "words": [
+            "Music Reminder",
+            "Music",
+            "Reminder",
+            "check",
+            "mark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Tags Correction ¨C Enabled (switched on), indicated by a purple check mark",
+        "sentence_cn": "4. 标签更正 – 已启用（打开），以紫色复选标记表示",
+        "words": [
+            "Tags Correction",
+            "Tags",
+            "Correction",
+            "check",
+            "mark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "5. Rescan Library ¨C No toggle option shown.",
+        "sentence_cn": "5. 重新扫描库 – 未显示切换选项。",
+        "words": [
+            "Rescan Library",
+            "toggle",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Under \"About,\" there are additional options:",
+        "sentence_cn": "在“关于”下，还有其他选项：",
+        "words": [
+            "About,",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Language",
+        "sentence_cn": "- 语言",
+        "words": [
+            "Language"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Check for upgrade ¨C Version 1.13.4 displayed.",
+        "sentence_cn": "- 检查升级 ¨C 显示版本 1.13.4。",
+        "words": [
+            "Check for upgrade",
+            "Check",
+            "upgrade",
+            "Version",
+            "1.13.4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Rate us",
+        "sentence_cn": "- 给我们评分",
+        "words": [
+            "Rate us"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Like us",
+        "sentence_cn": "- 像我们一样",
+        "words": [
+            "Like us"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are no toggle switches for these options.",
+        "sentence_cn": "这些选项没有切换开关。",
+        "words": [
+            "toggle",
+            "switches",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top status bar indicates it's 3:46, with various app icons displayed, suggesting notifications or shortcuts.",
+        "sentence_cn": "顶部状态栏显示时间为 3:46，并显示各种应用程序图标，建议通知或快捷方式。",
+        "words": [
+            "status",
+            "bar",
+            "3:46",
+            "app",
+            "icons",
+            "notifications",
+            "shortcuts"
+        ],
+        "id": null
+    }
+]

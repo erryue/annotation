@@ -1,0 +1,175 @@
+[
+    {
+        "sentence": "The image depicts a kitchen setup on a wooden countertop.",
+        "sentence_cn": "图像描绘的是木质台面上的厨房布置。",
+        "words": [
+            "kitchen",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Cutting Board: In the center is a blue cutting board with two brown potatoes placed on it.",
+        "sentence_cn": "1. 切菜板：中间是一块蓝色的切菜板，上面放着两个棕色的土豆。",
+        "words": [
+            "Cutting Board",
+            "Cutting",
+            "Board",
+            "center",
+            "cutting",
+            "board",
+            "two",
+            "potatoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Knives",
+        "sentence_cn": "2. 刀具",
+        "words": [
+            "Knives",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A large chef's knife with a black handle is on the cutting board.",
+        "sentence_cn": "- 砧板上有一把带黑色手柄的大厨刀。",
+        "words": [
+            "chef",
+            "knife",
+            "handle",
+            "cutting",
+            "board"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Three small knives with colorful handles (red, blue, and yellow) are placed on a white kitchen towel to the right.",
+        "sentence_cn": "- 右侧的白色厨房毛巾上放着三把带有彩色手柄（红色、蓝色和黄色）的小刀。",
+        "words": [
+            "Three",
+            "knives",
+            "handles",
+            "kitchen",
+            "towel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Peeler: A black vegetable peeler is also on the cutting board near the chef's knife.",
+        "sentence_cn": "3. 削皮刀：厨师刀附近的切菜板上也有一个黑色的蔬菜削皮刀。",
+        "words": [
+            "Peeler",
+            "Peeler",
+            "vegetable",
+            "peeler",
+            "cutting",
+            "board",
+            "chef",
+            "knife"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bowl: At the top of the image, there is a large white mixing bowl.",
+        "sentence_cn": "4. 碗：在图像的顶部，有一个大的白色搅拌碗。",
+        "words": [
+            "Bowl",
+            "",
+            "Bowl",
+            "",
+            "",
+            "top",
+            "mixing",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Cooking Instructions/Guides:",
+        "sentence_cn": "5.烹饪说明/指南：",
+        "words": [
+            "Cooking Instructions/Guides",
+            "Cooking",
+            "Instructions",
+            "Guides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Two laminated cards with diagrams and text are on the cutting board and to the upper left.",
+        "sentence_cn": "- 切菜板上左上方有两张带有图表和文字的层压卡片。",
+        "words": [
+            "Two",
+            "cards",
+            "diagrams",
+            "text",
+            "cutting",
+            "board"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Another clear plastic card holder is placed near the top right, possibly holding a recipe or cooking instructions.",
+        "sentence_cn": "- 另一个透明塑料卡片夹位于右上方附近，可能装有菜谱或烹饪说明。",
+        "words": [
+            "card",
+            "holder",
+            "recipe",
+            "cooking",
+            "instructions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Towel: A white kitchen towel with red stripes is under the three smaller knives.",
+        "sentence_cn": "6. 毛巾：三把小刀下面放着一条带有红色条纹的白色厨房毛巾。",
+        "words": [
+            "Towel",
+            "Towel",
+            "kitchen",
+            "towel",
+            "stripes",
+            "three",
+            "knives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setup suggests preparation for cooking, likely involving the potatoes, with various tools and instructions readily available.",
+        "sentence_cn": "整体设置表明烹饪的准备，可能涉及土豆，并配有各种工具和说明。",
+        "words": [
+            "preparation",
+            "cooking",
+            "potatoes",
+            "tools",
+            "instructions"
+        ],
+        "id": null
+    }
+]

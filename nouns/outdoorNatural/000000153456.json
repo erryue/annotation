@@ -1,0 +1,67 @@
+[
+    {
+        "sentence": "The image shows a group of sheep grazing in a lush, green pasture.",
+        "sentence_cn": "图像显示一群羊在郁郁葱葱的绿色牧场上吃草。",
+        "words": [
+            "group",
+            "sheep",
+            "pasture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep vary in color, with some being black, others white, and a few of mixed colors.",
+        "sentence_cn": "羊的颜色各异，有的是黑色，有的是白色，还有少数是混合色。",
+        "words": [
+            "sheep",
+            "color",
+            "others",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are scattered across the field, which is dotted with patches of slightly taller grass.",
+        "sentence_cn": "它们散布在田野上，田野上点缀着一片片稍高的草丛。",
+        "words": [
+            "field",
+            "patches",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a stone wall made of dark, stacked rocks, likely serving as a boundary for the field.",
+        "sentence_cn": "背景中，有一堵由深色岩石堆叠而成的石墙，可能是田野的边界。",
+        "words": [
+            "background",
+            "stone",
+            "wall",
+            "rocks",
+            "boundary",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the wall, a body of water is visible, and further in the distance, there are land masses with a slightly foggy or misty appearance, suggesting a cool and possibly overcast day.",
+        "sentence_cn": "在墙的另一边，可以看到一片水域，在更远的地方，有大片陆地，略微有雾气或薄雾笼罩，预示着天气凉爽，甚至可能阴天。",
+        "words": [
+            "wall",
+            "body",
+            "water",
+            "distance",
+            "land",
+            "masses",
+            "appearance",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting appears rural and serene.",
+        "sentence_cn": "整体环境显得乡村和宁静。",
+        "words": [],
+        "id": null
+    }
+]

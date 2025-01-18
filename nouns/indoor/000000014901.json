@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image depicts a hotel room with a cozy and modern interior.",
+        "sentence_cn": "图片描绘的是内部装饰舒适而现代的酒店房间。",
+        "words": [
+            "hotel",
+            "room",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a neatly made bed with white linens, a soft green bolster, and a red accent pillow.",
+        "sentence_cn": "房间里有一张整洁的床，上面铺着白色的床单，还有一块柔软的绿色软垫和一个红色的枕头。",
+        "words": [
+            "room",
+            "bed",
+            "linens",
+            "bolster",
+            "accent",
+            "pillow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the bed are dark wooden nightstands, each with a lamp and a phone on the right side.",
+        "sentence_cn": "床的两侧是深色木质床头柜，每个床头柜右侧都有一盏灯和一部电话。",
+        "words": [
+            "bed",
+            "nightstands",
+            "lamp",
+            "phone",
+            "side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wall behind the bed has a dark wooden slatted design, partially dividing the bedroom from the bathroom area, which can be glimpsed through an open space in this partition.",
+        "sentence_cn": "床后面的墙壁采用深色木板条设计，将卧室与浴室区域部分隔开，透过隔断中的开放空间可以看到浴室区域。",
+        "words": [
+            "wall",
+            "bed",
+            "design",
+            "bedroom",
+            "bathroom",
+            "area",
+            "space",
+            "partition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the bed is a light green upholstered bench with a tufted backrest.",
+        "sentence_cn": "床前面有一张浅绿色的软垫长凳，配有簇绒靠背。",
+        "words": [
+            "front",
+            "bed",
+            "bench",
+            "backrest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a neutral color palette with beige walls and a carpeted floor, which features a geometric pattern.",
+        "sentence_cn": "房间采用中性色调，墙壁为米色，地板上铺有几何图案的地毯。",
+        "words": [
+            "room",
+            "color",
+            "palette",
+            "walls",
+            "floor",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is soft and ambient, contributing to a warm and inviting atmosphere.",
+        "sentence_cn": "灯光柔和，营造出温馨宜人的氛围。",
+        "words": [
+            "lighting",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

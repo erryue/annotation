@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image is a screenshot from a blog called \"The California Biotech Law Blog,\" published by the Prinz Law Office.",
+        "sentence_cn": "该图片是从 Prinz 律师事务所发布的博客“加州生物技术法律博客”中截取的截图。",
+        "words": [
+            "The California Biotech Law Blog,",
+            "blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main article is titled \"IPO Outlook for Biotech Remains Dreary in 2012\" and is written by Kristie Prinz, dated Thursday, February 16th, 2012.",
+        "sentence_cn": "主要文章标题为“2012 年生物技术 IPO 前景依然黯淡”，由 Kristie Prinz 于 2012 年 2 月 16 日星期四撰写。",
+        "words": [
+            "IPO Outlook for Biotech Remains Dreary in 2012",
+            "article",
+            "Outlook",
+            "2012",
+            "16th",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The article discusses the disappointing trends in the biotech industry for IPOs in 2011 and the anticipated continuation of this trend in 2012.",
+        "sentence_cn": "本文讨论了 2011 年生物技术行业 IPO 的令人失望的趋势以及预计 2012 年这一趋势将持续下去的趋势。",
+        "words": [
+            "article",
+            "trends",
+            "biotech",
+            "industry",
+            "IPOs",
+            "2011",
+            "continuation",
+            "trend",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The blog¡¯s design includes a blue and gray color scheme with a banner featuring a DNA double helix.",
+        "sentence_cn": "该博客的设计采用蓝色和灰色的配色方案，并带有以 DNA 双螺旋图案为特色的横幅。",
+        "words": [
+            "blog¡¯s",
+            "design",
+            "color",
+            "scheme",
+            "banner",
+            "DNA",
+            "helix"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left sidebar, there are sections for subscribing and a list of recent articles related to the biotech industry.",
+        "sentence_cn": "左侧边栏有订阅部分和与生物技术行业相关的最新文章列表。",
+        "words": [
+            "sidebar",
+            "sections",
+            "list",
+            "articles",
+            "biotech",
+            "industry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Titles include topics on patent reform, health care reform, and biotech evaluation.",
+        "sentence_cn": "标题包括专利改革、医疗改革和生物技术评估等主题。",
+        "words": [
+            "Titles",
+            "topics",
+            "patent",
+            "reform",
+            "health",
+            "care",
+            "reform",
+            "biotech",
+            "evaluation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right sidebar, there is a list of topics including biotech industry news, IPOs, legal disputes, patents, and more.",
+        "sentence_cn": "右侧边栏列出了生物技术行业新闻、IPO、法律纠纷、专利等主题。",
+        "words": [
+            "sidebar",
+            "list",
+            "topics",
+            "biotech",
+            "industry",
+            "news",
+            "IPOs",
+            "disputes",
+            "patents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there is an archive section listing February 2012, September 2011, March 2010, and February 2010.",
+        "sentence_cn": "此外，还有一个档案部分，列出了 2012 年 2 月、2011 年 9 月、2010 年 3 月和 2010 年 2 月。",
+        "words": [
+            "archive",
+            "section",
+            "2012",
+            "2011",
+            "2010",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page includes a report from \"Fierce Biotech\" that lists 10 U.S. biotech companies that went public, detailing their respective funds raised.",
+        "sentence_cn": "该页面包含一份来自“Fierce Biotech”的报告，列出了 10 家上市的美国生物科技公司，并详细说明了它们各自筹集的资金。",
+        "words": [
+            "Fierce Biotech",
+            "page",
+            "report",
+            "10",
+            "U.S.",
+            "biotech",
+            "companies",
+            "funds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the layout is clean and professional, targeted at readers interested in biotech legal matters and industry trends.",
+        "sentence_cn": "总体而言，布局简洁、专业，针对对生物技术法律问题和行业趋势感兴趣的读者。",
+        "words": [
+            "layout",
+            "readers",
+            "biotech",
+            "matters",
+            "industry",
+            "trends"
+        ],
+        "id": null
+    }
+]

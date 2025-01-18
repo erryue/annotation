@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "The image shows a group of zebras grazing in a grassy field.",
+        "sentence_cn": "图中显示一群斑马在草地上吃草。",
+        "words": [
+            "group",
+            "zebras",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are six zebras visible, with distinctive black and white stripes.",
+        "sentence_cn": "可以看到六匹斑马，都有独特的黑白色条纹。",
+        "words": [
+            "six",
+            "zebras",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are spread out across the field, which is covered in green grass and small yellow flowers.",
+        "sentence_cn": "它们遍布在长满绿草和黄色小花的田野上。",
+        "words": [
+            "field",
+            "grass",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a fence made of wire and wooden posts, separating the field from a densely wooded area with lush green trees.",
+        "sentence_cn": "背景中，有一道由铁丝网和木柱制成的栅栏，将田野与郁郁葱葱的绿树成荫的茂密树林隔开。",
+        "words": [
+            "background",
+            "fence",
+            "wire",
+            "posts",
+            "field",
+            "area",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene appears to be within a thoughtfully maintained enclosure, suggesting it might be part of a zoo or wildlife park.",
+        "sentence_cn": "该场景似乎位于一个精心维护的围栏内，表明它可能是动物园或野生动物园的一部分。",
+        "words": [
+            "scene",
+            "enclosure",
+            "part",
+            "zoo",
+            "wildlife",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting is serene and natural.",
+        "sentence_cn": "整体氛围宁静而自然。",
+        "words": [],
+        "id": null
+    }
+]

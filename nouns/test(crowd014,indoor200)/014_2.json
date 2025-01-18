@@ -26,8 +26,8 @@
         "id": null
     },
     {
-        "sentence": "1. **Seating Arrangement:**",
-        "sentence_cn": "1. **座位安排：**",
+        "sentence": "1. Seating Arrangement:",
+        "sentence_cn": "1. 座位安排：",
         "words": [
             "Seating Arrangement:",
             "Seating",
@@ -79,8 +79,8 @@
         "id": null
     },
     {
-        "sentence": "2. **Standing Individuals:**",
-        "sentence_cn": "2. **常设个人：**",
+        "sentence": "2. Standing Individuals:",
+        "sentence_cn": "2. 常设个人：",
         "words": [
             "Standing Individuals:",
             "Standing",
@@ -130,8 +130,8 @@
         "id": null
     },
     {
-        "sentence": "3. **Attire:**",
-        "sentence_cn": "3. **服装：**",
+        "sentence": "3. Attire:",
+        "sentence_cn": "3. 服装：",
         "words": [
             "Attire:"
         ],
@@ -171,8 +171,8 @@
         "id": null
     },
     {
-        "sentence": "4. **Setting:**",
-        "sentence_cn": "4. **设置：**",
+        "sentence": "4. Setting:",
+        "sentence_cn": "4. 设置：",
         "words": [
             "Setting:",
             "Setting"

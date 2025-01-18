@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image depicts a tranquil pastoral scene at sunset.",
+        "sentence_cn": "这幅画描绘的是日落时分宁静的田园风光。",
+        "words": [
+            "scene",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A group of horses grazes in a lush green field.",
+        "sentence_cn": "一群马在郁郁葱葱的绿色田野里吃草。",
+        "words": [
+            "group",
+            "horses",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Most of the horses have white or light-colored coats, while one is darker.",
+        "sentence_cn": "大多数马的毛色为白色或浅色，但有一匹马的毛色较深。",
+        "words": [
+            "horses",
+            "coats",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is vibrant, suggesting healthy growth.",
+        "sentence_cn": "小草生机勃勃，象征着健康成长。",
+        "words": [
+            "grass",
+            "growth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The soft, golden light from the setting sun creates a warm, serene atmosphere and casts gentle shadows.",
+        "sentence_cn": "落日的柔和金色光芒营造出温暖、宁静的氛围，并投射出柔和的阴影。",
+        "words": [
+            "light",
+            "sun",
+            "atmosphere",
+            "shadows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the field, a fence runs horizontally, marking the boundary.",
+        "sentence_cn": "田野外，有一道横向的栅栏，标出了边界。",
+        "words": [
+            "field",
+            "fence",
+            "boundary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further back, there are trees with sparse foliage, indicating either early spring or late autumn.",
+        "sentence_cn": "再往后看，树木叶子稀疏，暗示着当时是初春或深秋。",
+        "words": [
+            "trees",
+            "foliage",
+            "spring",
+            "autumn"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, contributing to the peaceful rural setting.",
+        "sentence_cn": "天空晴朗，增添了乡村的宁静气氛。",
+        "words": [
+            "sky"
+        ],
+        "id": null
+    }
+]

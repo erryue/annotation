@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image features a round dining table covered with a light-colored tablecloth.",
+        "sentence_cn": "图片上是一张圆形餐桌，铺着浅色桌布。",
+        "words": [
+            "dining",
+            "table",
+            "tablecloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a stand holding an open book, suggesting a focus on reading or study.",
+        "sentence_cn": "中心处有一个支架，上面放着一本打开的书，暗示人们专注于阅读或学习。",
+        "words": [
+            "center",
+            "stand",
+            "book",
+            "focus",
+            "reading",
+            "study"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front, there is a plate with several slices of wholegrain bread and a few cherry tomatoes.",
+        "sentence_cn": "前面有一个盘子，里面有几片全麦面包和几个小圣女果。",
+        "words": [
+            "front",
+            "plate",
+            "slices",
+            "bread",
+            "cherry",
+            "tomatoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a glass of orange juice sits on a coaster.",
+        "sentence_cn": "右边的杯垫上放着一杯橙汁。",
+        "words": [
+            "right",
+            "glass",
+            "orange",
+            "juice",
+            "coaster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is another open book lying flat on the table.",
+        "sentence_cn": "左边的桌子上平放着另一本打开的书。",
+        "words": [
+            "left",
+            "book",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setup gives a sense of a quiet breakfast or snack accompanied by reading.",
+        "sentence_cn": "这种布置给人一种一边吃早餐或吃点零食一边读书的感觉。",
+        "words": [
+            "sense",
+            "breakfast",
+            "snack",
+            "reading"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The placemats beneath the items are a pastel blue-green color, adding a touch of color to the setting.",
+        "sentence_cn": "物品下面的餐垫是淡蓝绿色，为环境增添了一抹色彩。",
+        "words": [
+            "placemats",
+            "items",
+            "color",
+            "touch",
+            "color"
+        ],
+        "id": null
+    }
+]

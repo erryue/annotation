@@ -1,0 +1,182 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile real estate app displaying listings for homes in San Francisco, CA.",
+        "sentence_cn": "该图片是一个移动房地产应用程序的截图，显示了加利福尼亚州旧金山的房屋列表。",
+        "words": [
+            "estate",
+            "app",
+            "listings",
+            "homes",
+            "San",
+            "Francisco",
+            "CA"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface features a green header with icons for navigation, search, favorites, and notifications.",
+        "sentence_cn": "界面有一个绿色标题，其中有导航、搜索、收藏夹和通知的图标。",
+        "words": [
+            "interface",
+            "header",
+            "icons",
+            "navigation",
+            "search",
+            "favorites",
+            "notifications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two property listings shown:",
+        "sentence_cn": "显示两个房产列表：",
+        "words": [
+            "two",
+            "property",
+            "listings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. First Listing:",
+        "sentence_cn": "1. 首次上市：",
+        "words": [
+            "First Listing:",
+            "Listing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labeled \"NEW HOME\".",
+        "sentence_cn": "- 标记为“新家”。",
+        "words": [
+            "NEW HOME"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $1,060,000+.",
+        "sentence_cn": "- 价格：1,060,000 美元以上。",
+        "words": [
+            "Price",
+            "1,060,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 1 bedroom, 1 bathroom, 876+ square feet.",
+        "sentence_cn": "- 特点：1 间卧室，1 间浴室，876+ 平方英尺。",
+        "words": [
+            "Features",
+            "1",
+            "bedroom",
+            "1",
+            "bathroom",
+            "876",
+            "feet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Address: 201 Folsom St, San Francisco, CA.",
+        "sentence_cn": "- 地址：201 Folsom St, San Francisco, CA。",
+        "words": [
+            "Address",
+            "201",
+            "San",
+            "Francisco",
+            "CA"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Image: Tall, modern glass skyscrapers under a clear sky.",
+        "sentence_cn": "- 图片：晴朗天空下高耸的现代化玻璃摩天大楼。",
+        "words": [
+            "Image",
+            "glass",
+            "skyscrapers",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Listing:",
+        "sentence_cn": "2. 第二个列表：",
+        "words": [
+            "Second Listing:",
+            "Listing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labeled \"NEW HOME\".",
+        "sentence_cn": "- 标记为“新家”。",
+        "words": [
+            "NEW HOME"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $929,000+.",
+        "sentence_cn": "- 价格：929,000 美元以上。",
+        "words": [
+            "Price",
+            "929,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 1 bedroom, 1 bathroom, 713+ square feet.",
+        "sentence_cn": "- 特点：1 间卧室，1 间浴室，713+ 平方英尺。",
+        "words": [
+            "Features",
+            "1",
+            "bedroom",
+            "1",
+            "bathroom",
+            "713",
+            "feet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Image: Mid-rise building with a classic design, seen in the evening with lights on and trees lining the street.",
+        "sentence_cn": "- 图片：设计经典的中层建筑，晚上灯光明亮，街道两旁绿树成荫。",
+        "words": [
+            "Image",
+            "building",
+            "design",
+            "evening",
+            "lights",
+            "trees",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom menu includes options for \"Map Results,\" \"Sort By,\" and \"Save Search.\"",
+        "sentence_cn": "底部菜单包括“地图结果”、“排序依据”和“保存搜索”选项。",
+        "words": [
+            "Map Results,",
+            "Sort By,",
+            "Save Search.",
+            "menu",
+            "options",
+            "Map",
+            "Results",
+            "Search"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time on the device shows 1:24.",
+        "sentence_cn": "设备上的时间显示1:24。",
+        "words": [
+            "time",
+            "device",
+            "1:24"
+        ],
+        "id": null
+    }
+]

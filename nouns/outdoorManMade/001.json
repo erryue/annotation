@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image shows the illuminated exterior of the Planet Hollywood Resort & Casino in Las Vegas at night.",
+        "sentence_cn": "图为拉斯维加斯好莱坞星球赌场度假村夜晚的亮灯外墙。",
+        "words": [
+            "exterior",
+            "Las",
+            "Vegas",
+            "night"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building prominently features the \"planet hollywood\" signage on top.",
+        "sentence_cn": "该建筑顶部显著的位置有“好莱坞星球”的标志。",
+        "words": [
+            "planet hollywood",
+            "building",
+            "planet",
+            "signage",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The facade is adorned with bright lights and honeycomb-like architectural patterns in blue, adding a modern aesthetic.",
+        "sentence_cn": "外墙装饰有明亮的灯光和蓝色的蜂窝状建筑图案，增添了现代美感。",
+        "words": [
+            "facade",
+            "lights",
+            "honeycomb",
+            "patterns",
+            "blue",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various signs and billboards are visible, advertising different attractions and venues, including YOLOS, KOI, and other entertainment options.",
+        "sentence_cn": "各种标志和广告牌随处可见，宣传不同的景点和场所，包括 YOLOS、KOI 和其他娱乐选择。",
+        "words": [
+            "signs",
+            "billboards",
+            "attractions",
+            "venues",
+            "entertainment",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is filled with stars, giving the scene a vibrant, bustling nighttime atmosphere.",
+        "sentence_cn": "天空繁星点点，给场景带来了一种充满活力、熙熙攘攘的夜间氛围。",
+        "words": [
+            "sky",
+            "stars",
+            "scene",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main colors in the scene are blue and gold, due to the lighting and facade design.",
+        "sentence_cn": "由于灯光和外观设计，场景中的主要颜色是蓝色和金色。",
+        "words": [
+            "colors",
+            "scene",
+            "gold",
+            "lighting",
+            "facade",
+            "design"
+        ],
+        "id": null
+    }
+]

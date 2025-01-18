@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Jean de Florette,\" a film directed by Claude Berri, based on the novel by Marcel Pagnol.",
+        "sentence_cn": "图片是电影《Jean de Florette》的海报，该片由克劳德·贝里执导，改编自马塞尔·帕尼奥尔的小说。",
+        "words": [
+            "Jean de Florette,",
+            "movie",
+            "poster",
+            "film",
+            "novel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the poster features the title \"Jean de Florette\" in large, stylized letters.",
+        "sentence_cn": "海报顶部以大号、风格化的字母写着“Jean de Florette”的头衔。",
+        "words": [
+            "Jean de Florette",
+            "top",
+            "poster",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there are two prominent characters: an older man and a younger man.",
+        "sentence_cn": "标题下方有两个突出的人物：一个年长的男人和一个年轻的男人。",
+        "words": [
+            "title",
+            "two",
+            "characters",
+            "man",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are both wearing dark suits and black hats, giving them a formal, serious appearance.",
+        "sentence_cn": "他们俩都穿着深色西装，戴着黑色帽子，看起来正式而严肃。",
+        "words": [
+            "suits",
+            "hats",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The older man has a mustache, and both appear to be looking directly at the viewer, conveying a sense of determination or intensity.",
+        "sentence_cn": "年纪较大的男子留着小胡子，两人似乎都在直视观众，传达出一种决心或坚定的感觉。",
+        "words": [
+            "man",
+            "mustache",
+            "viewer",
+            "sense",
+            "determination",
+            "intensity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them, there is a young girl wearing a white dress and a straw hat, holding flowers, adding an element of innocence to the composition.",
+        "sentence_cn": "在他们的下方，有一个身穿白色连衣裙、头戴草帽、手捧鲜花的少女，为构图增添了一份纯真的元素。",
+        "words": [
+            "girl",
+            "dress",
+            "straw",
+            "hat",
+            "flowers",
+            "element",
+            "innocence",
+            "composition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows a scenic view of rural countryside, with mountains and greenery, suggesting a pastoral setting.",
+        "sentence_cn": "背景为乡村风景，山峦起伏，绿树成荫，充满田园风光。",
+        "words": [
+            "background",
+            "view",
+            "countryside",
+            "mountains",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The actors' names are listed at the bottom left: Yves Montand, G¨¦rard Depardieu, and Daniel Auteuil.",
+        "sentence_cn": "左下角列出了演员的名字：伊夫·蒙当 (Yves Montand)、热拉尔·德帕迪约 (Gérard Depardieu) 和丹尼尔·奥特伊 (Daniel Auteuil)。",
+        "words": [
+            "actors",
+            "names",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional text credits the film's director and other contributors.",
+        "sentence_cn": "附加的文字感谢了电影导演和其他贡献者。",
+        "words": [
+            "text",
+            "credits",
+            "film",
+            "director",
+            "contributors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme includes muted earth tones, evoking the natural environment of the story's setting.",
+        "sentence_cn": "整体配色方案包括柔和的土色调，让人联想到故事背景的自然环境。",
+        "words": [
+            "color",
+            "scheme",
+            "earth",
+            "tones",
+            "environment",
+            "story"
+        ],
+        "id": null
+    }
+]

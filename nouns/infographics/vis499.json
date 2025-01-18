@@ -1,0 +1,257 @@
+[
+    {
+        "sentence": "The infographic titled \"An Average Day in the Life of Nursing\" provides various statistics about nursing in the United States.",
+        "sentence_cn": "这张名为“护理人员日常生活”的信息图提供了有关美国护理工作的各种统计数据。",
+        "words": [
+            "An Average Day in the Life of Nursing",
+            "Life",
+            "Nursing",
+            "statistics",
+            "nursing",
+            "the",
+            "United",
+            "States"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Registered Nurses: There are currently around 2.6 million licensed registered nurses in the U.S.",
+        "sentence_cn": "1. 注册护士：目前，美国约有 260 万名持照注册护士。",
+        "words": [
+            "Registered Nurses",
+            "Nurses",
+            "2.6",
+            "million",
+            "nurses",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Work Shifts: Most nurses work 3 shifts a week, with 1,174,286 nurses working on an average day.",
+        "sentence_cn": "2. 工作轮班：大多数护士每周工作 3 个班次，平均每天有 1,174,286 名护士工作。",
+        "words": [
+            "Work Shifts",
+            "Work",
+            "Shifts",
+            "nurses",
+            "3",
+            "shifts",
+            "week",
+            "1,174,286",
+            "nurses",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Walking Distance: Nurses walk an average of 4 miles during a workday, totaling 4,697,144 miles walked by nurses daily across America.",
+        "sentence_cn": "3. 步行距离：护士在一个工作日平均步行 4 英里，全美护士每天步行总计 4,697,144 英里。",
+        "words": [
+            "Walking Distance",
+            "Walking",
+            "Distance",
+            "Nurses",
+            "average",
+            "4",
+            "miles",
+            "workday",
+            "4,697,144",
+            "miles",
+            "nurses",
+            "America"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Patient Care: On average, a single nurse will see 6.9 patients per day.",
+        "sentence_cn": "4. 病人护理：平均而言，一名护士每天要看 6.9 名病人。",
+        "words": [
+            "Patient Care",
+            "Patient",
+            "Care",
+            "nurse",
+            "6.9",
+            "patients",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Daily, 8,102,573 Americans are cared for by nurses, which is 2.5% of the U.S. population.",
+        "sentence_cn": "每天有 8,102,573 名美国人需要护士照顾，占美国人口的 2.5%。",
+        "words": [
+            "8,102,573",
+            "Americans",
+            "nurses",
+            "2.5",
+            "U.S.",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Blood Transfusion: Nurses transfuse an average of 82,192 components of blood every day.",
+        "sentence_cn": "5. 输血：护士平均每天输血82,192种血液。",
+        "words": [
+            "Blood Transfusion",
+            "Blood",
+            "Transfusion",
+            "Nurses",
+            "average",
+            "82,192",
+            "components",
+            "blood",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Babies Born: Approximately 11,110 babies are born every day in the U.S.",
+        "sentence_cn": "6. 婴儿出生：美国每天大约有 11,110 名婴儿出生。",
+        "words": [
+            "Babies Born",
+            "Babies",
+            "11,110",
+            "babies",
+            "day",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Educational Goals for 2020: Increase nurses with bachelor¡¯s degrees or higher to 80% and double the number with doctorates.",
+        "sentence_cn": "7.2020年的教育目标：护士中本科以上学历的比例达到80%，博士学位的比例增加一倍。",
+        "words": [
+            "Educational Goals for 2020",
+            "Goals",
+            "2020",
+            "nurses",
+            "bachelor¡¯s",
+            "degrees",
+            "80",
+            "number",
+            "doctorates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Degrees Held by Nurses:",
+        "sentence_cn": "8. 护士所持有的学位：",
+        "words": [
+            "Degrees Held by Nurses",
+            "Degrees",
+            "Nurses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 13.2% hold a master's or doctorate degree.",
+        "sentence_cn": "- 13.2％拥有硕士或博士学位。",
+        "words": [
+            "13.2",
+            "master",
+            "doctorate",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 36.8% have a bachelor¡¯s degree.",
+        "sentence_cn": "- 36.8％拥有学士学位。",
+        "words": [
+            "36.8",
+            "bachelor¡¯s",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 36.1% possess an associate degree.",
+        "sentence_cn": "- 36.1％拥有副学士学位。",
+        "words": [
+            "36.1",
+            "associate",
+            "degree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 13.9% hold a diploma in nursing.",
+        "sentence_cn": "- 13.9％拥有护理文凭。",
+        "words": [
+            "13.9",
+            "diploma",
+            "nursing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Risk of Death: Each 10% increase in BSN nurses correlates with a 4% decrease in the risk of death.",
+        "sentence_cn": "9. 死亡风险：BSN 护士数量每增加 10%，死亡风险就会降低 4%。",
+        "words": [
+            "Risk of Death",
+            "Risk",
+            "Death",
+            "10",
+            "increase",
+            "nurses",
+            "4",
+            "%",
+            "decrease",
+            "risk",
+            "death"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Job Growth: Nursing is projected to grow by 26% to 3.45 million by 2020, making it a top occupation for job growth.",
+        "sentence_cn": "10. 就业增长：到 2020 年，护理行业预计将增长 26%，达到 345 万，成为就业增长最快的职业。",
+        "words": [
+            "Job Growth",
+            "Job",
+            "Growth",
+            "Nursing",
+            "26",
+            "3.45",
+            "million",
+            "2020",
+            "occupation",
+            "job",
+            "growth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "11. Education Promotion: A message encourages pursuing a Bachelor of Science in Nursing (BSN) online through Jacksonville University.",
+        "sentence_cn": "11. 教育推广：一条消息鼓励通过杰克逊维尔大学在线攻读护理学理学学士学位（BSN）。",
+        "words": [
+            "Education Promotion",
+            "Education",
+            "Promotion",
+            "message"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic aims to highlight the dynamic and essential roles that nurses play in healthcare, emphasizing education, workload, and their significant impact on health outcomes.",
+        "sentence_cn": "该信息图旨在强调护士在医疗保健领域发挥的动态和重要作用，强调教育、工作量及其对健康结果的重大影响。",
+        "words": [
+            "roles",
+            "nurses",
+            "healthcare",
+            "education",
+            "workload",
+            "impact",
+            "health",
+            "outcomes"
+        ],
+        "id": null
+    }
+]

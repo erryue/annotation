@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image depicts an outdoor kitchen area featuring a well-designed patio setup.",
+        "sentence_cn": "图中显示的是室外厨房区域，其中设有精心设计的露台。",
+        "words": [
+            "kitchen",
+            "area",
+            "patio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space includes a curved countertop with a polished stone surface, providing ample seating with several high-backed woven bar stools.",
+        "sentence_cn": "该空间包括一个带有抛光石材表面的弧形台面，并配有几个高背编织酒吧凳，可提供充足的座位。",
+        "words": [
+            "space",
+            "countertop",
+            "stone",
+            "surface",
+            "seating",
+            "bar",
+            "stools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen is equipped with a large stainless steel grill, alongside other metal appliances set into a structure finished in a warm, stucco-like material.",
+        "sentence_cn": "厨房配备了一个大型不锈钢烤架，以及其他金属器具，这些器具安装在用温暖的灰泥状材料制成的结构中。",
+        "words": [
+            "kitchen",
+            "steel",
+            "grill",
+            "metal",
+            "appliances",
+            "structure",
+            "stucco",
+            "material"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Decorative elements include spiraled stone columns supporting a roof that offers shade, with recessed lighting fixtures seamlessly integrated in the ceiling.",
+        "sentence_cn": "装饰元素包括支撑遮阳屋顶的螺旋石柱，以及无缝集成在天花板上的嵌入式照明灯具。",
+        "words": [
+            "elements",
+            "stone",
+            "columns",
+            "roof",
+            "shade",
+            "lighting",
+            "fixtures",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop is adorned with lush greenery and vibrant red flowers for a touch of natural beauty.",
+        "sentence_cn": "台面上装饰着茂盛的绿色植物和鲜艳的红色花朵，充满自然之美。",
+        "words": [
+            "countertop",
+            "greenery",
+            "flowers",
+            "touch",
+            "beauty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a view of a driveway with a trailer and a truck, alongside a wooden fence and abundant green foliage.",
+        "sentence_cn": "背景中可以看到一条车道，车道上停着一辆拖车和一辆卡车，旁边还有一道木栅栏和茂密的绿叶。",
+        "words": [
+            "background",
+            "view",
+            "driveway",
+            "trailer",
+            "truck",
+            "fence",
+            "foliage"
+        ],
+        "id": null
+    }
+]

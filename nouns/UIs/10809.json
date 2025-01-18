@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image includes a video call interface, likely from Skype, showcasing a person wearing headphones in front of a banner with the logos for Xfinity and Evil Geniuses, an esports organization.",
+        "sentence_cn": "该图片包括一个视频通话界面，可能是来自 Skype，显示一个人戴着耳机，站在一条横幅前，横幅上印有 Xfinity 和电子竞技组织 Evil Geniuses 的标志。",
+        "words": [
+            "video",
+            "call",
+            "interface",
+            "person",
+            "headphones",
+            "front",
+            "banner",
+            "logos",
+            "esports",
+            "organization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the image has a purple banner labeled with \"ESPORTS\" and a \"NEWS\" label at the upper left corner.",
+        "sentence_cn": "图片上方有一个紫色的横幅，上面写着“ESPORTS”，左上角有一个“NEWS”标签。",
+        "words": [
+            "ESPORTS",
+            "NEWS",
+            "top",
+            "banner",
+            "NEWS",
+            "label",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below is a text overlay from captions: \"I didn't expect them to the Nightwing's surprised that any of the other invited.\"",
+        "sentence_cn": "下面是来自字幕的文字叠加：“我没想到夜翼会对其他任何受邀者感到惊讶。”",
+        "words": [
+            "I didn't expect them to the Nightwing's surprised that any of the other invited.",
+            "text",
+            "overlay",
+            "captions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image of the person, there is a transcript of part of an interview where the person discusses consistency in a team and having a balance between making flashy moves and reliability.",
+        "sentence_cn": "在该人的照片下方，是部分采访的记录，其中该人讨论了团队的一致性以及在华丽动作和可靠性之间的平衡。",
+        "words": [
+            "person",
+            "transcript",
+            "part",
+            "interview",
+            "person",
+            "consistency",
+            "team",
+            "balance",
+            "moves",
+            "reliability"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A question follows: \"Going back, do you have any regrets over the past year?\" and the person responds about not having regrets, mentioning a move to a team called Secret.",
+        "sentence_cn": "接下来的问题：“回首过去一年，你有什么遗憾吗？”对方回答说没有遗憾，并提到了转会至一支名为 Secret 的队伍。",
+        "words": [
+            "Going back, do you have any regrets over the past year?",
+            "question",
+            "regrets",
+            "year",
+            "person",
+            "regrets",
+            "move",
+            "team"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the screen, a mobile interface of \"Words with Friends\" is visible, suggesting the image was taken on a mobile device.",
+        "sentence_cn": "屏幕底部可以看到“Words with Friends”的移动界面，说明该图片是在移动设备上拍摄的。",
+        "words": [
+            "Words with Friends",
+            "bottom",
+            "screen",
+            "interface",
+            "device"
+        ],
+        "id": null
+    }
+]

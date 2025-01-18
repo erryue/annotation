@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image depicts a group of five giraffes standing closely together, set against a clear blue sky.",
+        "sentence_cn": "图像描绘了五只长颈鹿紧密地站在一起，背景是晴朗的蓝天。",
+        "words": [
+            "group",
+            "five",
+            "giraffes",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffes are seen in profile, showcasing their long necks and legs.",
+        "sentence_cn": "长颈鹿的侧面像展示了它们的长脖子和长腿。",
+        "words": [
+            "giraffes",
+            "profile",
+            "necks",
+            "legs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their bodies are covered in a pattern of brown patches separated by lighter lines.",
+        "sentence_cn": "它们的身体上布满了棕色斑块，斑块之间由较浅的线条隔开。",
+        "words": [
+            "bodies",
+            "pattern",
+            "patches",
+            "lines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They stand on a patch of land with sparse, dry vegetation, indicating an arid or savannah-like environment.",
+        "sentence_cn": "它们站在一片植被稀疏、干燥的土地上，表明这里环境干旱或类似大草原。",
+        "words": [
+            "patch",
+            "land",
+            "vegetation",
+            "savannah",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The animals appear calm and are all facing in the same direction, creating a sense of unity and group movement.",
+        "sentence_cn": "动物们看上去很平静，都面朝同一个方向，营造出一种团结和群体运动的感觉。",
+        "words": [
+            "animals",
+            "direction",
+            "sense",
+            "unity",
+            "group",
+            "movement"
+        ],
+        "id": null
+    }
+]

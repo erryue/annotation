@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image depicts a spacious outdoor area in what appears to be a public park.",
+        "sentence_cn": "图片显示的是一个类似公共公园的宽敞室外区域。",
+        "words": [
+            "area",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a basketball court with two hoops, featuring red and green painted surfaces and white boundary lines.",
+        "sentence_cn": "前景中有一个篮球场，有两个篮筐，篮筐表面涂成红色和绿色，边界线为白色。",
+        "words": [
+            "foreground",
+            "basketball",
+            "court",
+            "two",
+            "hoops",
+            "surfaces",
+            "boundary",
+            "lines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The court is well-maintained and surrounded by a grassy field.",
+        "sentence_cn": "球场维护良好，周围有一片草地。",
+        "words": [
+            "court",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a playground with various equipment, including slides and climbing structures, primarily in red and beige colors.",
+        "sentence_cn": "背景中有一个游乐场，里面有各种设备，包括滑梯和攀爬架，主要为红色和米色。",
+        "words": [
+            "background",
+            "playground",
+            "equipment",
+            "slides",
+            "climbing",
+            "structures",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A pavilion with a red, tiled roof is situated to the left of the playground, offering shaded seating with picnic tables beneath it.",
+        "sentence_cn": "操场左侧有一座带有红色瓦片屋顶的凉亭，凉亭下方设有阴凉座位和野餐桌。",
+        "words": [
+            "pavilion",
+            "roof",
+            "left",
+            "playground",
+            "seating",
+            "picnic",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area is surrounded by several trees, some of which are leafless or have sparse foliage, indicating it might be early spring.",
+        "sentence_cn": "该区域周围有几棵树，其中一些树没有叶子或树叶稀疏，表明现在可能是早春。",
+        "words": [
+            "area",
+            "trees",
+            "foliage",
+            "spring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also well-manicured lawns and shrubs throughout the park.",
+        "sentence_cn": "公园各处还有修剪整齐的草坪和灌木。",
+        "words": [
+            "lawns",
+            "shrubs",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear with no visible clouds, suggesting a sunny day.",
+        "sentence_cn": "天空晴朗，没有一丝云彩，预示着将是晴朗的一天。",
+        "words": [
+            "sky",
+            "clouds",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the distance, there is a white vehicle parked near the trees.",
+        "sentence_cn": "远处，有一辆白色车辆停在树林旁边。",
+        "words": [
+            "distance",
+            "vehicle",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the scene conveys a peaceful and inviting atmosphere suitable for outdoor activities.",
+        "sentence_cn": "总体而言，该场景传达出一种适合户外活动的宁静而温馨的氛围。",
+        "words": [
+            "scene",
+            "atmosphere",
+            "activities"
+        ],
+        "id": null
+    }
+]

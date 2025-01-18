@@ -1,0 +1,232 @@
+[
+    {
+        "sentence": "This image depicts a webpage for an event called \"Tutorial Days Data-Mining\" organized by ibai solutions.",
+        "sentence_cn": "该图片展示了 ibai solutions 组织的“数据挖掘教程日”活动的网页。",
+        "words": [
+            "Tutorial Days Data-Mining",
+            "webpage",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Layout:",
+        "sentence_cn": "＃＃＃ 布局：",
+        "words": [
+            "Layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header:",
+        "sentence_cn": "-标题：",
+        "words": [
+            "Header:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Title: \"Tutorial Days Data-Mining\"",
+        "sentence_cn": "- 标题：“数据挖掘教程日”",
+        "words": [
+            "Tutorial Days Data-Mining",
+            "Title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Top right corner has a \"Contact\" link.",
+        "sentence_cn": "- 右上角有一个“联系”链接。",
+        "words": [
+            "Contact",
+            "corner",
+            "Contact",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Content:",
+        "sentence_cn": "- 主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Left Section: Vertical navigation menu with items like Home, Program, Schedule, etc.",
+        "sentence_cn": "- 左侧部分：垂直导航菜单，包含主页、程序、日程表等项目。",
+        "words": [
+            "Left Section:",
+            "Section",
+            "navigation",
+            "menu",
+            "items",
+            "Home",
+            "Program",
+            "Schedule"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Center Section:",
+        "sentence_cn": "- 中心部分：",
+        "words": [
+            "Center Section:",
+            "Center",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Introduction to \"Tutorial Day Data-Mining\" discussing the benefits and importance of data mining.",
+        "sentence_cn": "- “教程日数据挖掘”介绍，讨论数据挖掘的好处和重要性。",
+        "words": [
+            "Tutorial Day Data-Mining",
+            "Introduction",
+            "benefits",
+            "importance",
+            "data",
+            "mining"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Description: Highlights how data mining can transform digital data into valuable information.",
+        "sentence_cn": "- 描述：重点介绍数据挖掘如何将数字数据转换为有价值的信息。",
+        "words": [
+            "Description",
+            "Highlights",
+            "data",
+            "mining",
+            "data",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Encouragement for participation in the event.",
+        "sentence_cn": "- 鼓励参与活动。",
+        "words": [
+            "Encouragement",
+            "participation",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Right Section:",
+        "sentence_cn": "- 右侧部分：",
+        "words": [
+            "Right Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - News and Events:",
+        "sentence_cn": "- 新闻与事件：",
+        "words": [
+            "News and Events:",
+            "Events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Information about upcoming tutorial days on July 21, 2013, in New York, USA.",
+        "sentence_cn": "- 有关 2013 年 7 月 21 日在美国纽约举行的辅导日的信息。",
+        "words": [
+            "Information",
+            "tutorial",
+            "days",
+            "21",
+            "2013",
+            "New",
+            "York",
+            "USA"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Mentions the 13th Industrial Conference on Data Mining (ICDM) 2013 and the International Conference on Mass-Data-Analysis (MDA).",
+        "sentence_cn": "- 提到 2013 年第 13 届数据挖掘工业会议 (ICDM) 和国际海量数据分析会议 (MDA)。",
+        "words": [
+            "2013"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Shop:",
+        "sentence_cn": "- 店铺：",
+        "words": [
+            "Shop:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Contains a section for purchasing publications, books, CDs, and other articles.",
+        "sentence_cn": "- 包含购买出版物、书籍、CD 和其他文章的部分。",
+        "words": [
+            "section",
+            "publications",
+            "books",
+            "CDs",
+            "articles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Visuals:",
+        "sentence_cn": "### 视觉效果：",
+        "words": [
+            "Visuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Small images in the header depicting a professional setting, a pen, and possibly data-related objects.",
+        "sentence_cn": "- 标题中的小图像描绘了专业设置、笔以及可能与数据相关的对象。",
+        "words": [
+            "images",
+            "header",
+            "pen",
+            "data",
+            "objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Images and links are arranged systematically to guide users through the content, news, a shop link, and additional resources.",
+        "sentence_cn": "- 图像和链接被系统地排列，以引导用户浏览内容、新闻、商店链接和其他资源。",
+        "words": [
+            "Images",
+            "links",
+            "users",
+            "content",
+            "news",
+            "shop",
+            "link",
+            "resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout is clean, with a blue and white color scheme, providing clarity and ease of navigation for users interested in data mining events and resources.",
+        "sentence_cn": "布局简洁，采用蓝白配色方案，为对数据挖掘事件和资源感兴趣的用户提供清晰度和易于导航的功能。",
+        "words": [
+            "layout",
+            "color",
+            "scheme",
+            "clarity",
+            "ease",
+            "navigation",
+            "users",
+            "data",
+            "mining",
+            "events",
+            "resources"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene with a few cows grazing in a field.",
+        "sentence_cn": "画中描绘的是田园风光，几头牛在田野里吃草。",
+        "words": [
+            "scene",
+            "cows",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a fenced area with a structure, possibly for feeding or some agricultural purpose.",
+        "sentence_cn": "前景中有一个用围栏围起来的区域，可能用于喂食或某些农业用途。",
+        "words": [
+            "foreground",
+            "area",
+            "structure",
+            "feeding",
+            "purpose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is dry, suggesting a lack of recent rain or an arid climate.",
+        "sentence_cn": "草地干燥，表明最近缺少降雨或气候干旱。",
+        "words": [
+            "grass",
+            "lack",
+            "rain",
+            "climate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the terrain rises slightly, and there is a low, wooded hill.",
+        "sentence_cn": "背景中，地势略微升高，有一座低矮的树木繁茂的小山。",
+        "words": [
+            "background",
+            "terrain",
+            "hill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Smoke is visible in the distance, possibly indicating a controlled burn or fire.",
+        "sentence_cn": "远处可见烟雾，可能表明发生了可控燃烧或火灾。",
+        "words": [
+            "Smoke",
+            "distance",
+            "burn",
+            "fire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is cloudy with a hint of blue peeking through.",
+        "sentence_cn": "天空多云，透出一丝蓝色。",
+        "words": [
+            "sky",
+            "hint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the scene suggests a rural setting, with open fields and livestock.",
+        "sentence_cn": "总体而言，该场景呈现的是乡村风光，有开阔的田野和牲畜。",
+        "words": [
+            "scene",
+            "fields",
+            "livestock"
+        ],
+        "id": null
+    }
+]

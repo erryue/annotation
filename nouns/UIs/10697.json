@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image is a screenshot of an Android device screen displaying an app interface for a \"Car Mods\" application related to Minecraft Pocket Edition (MCPE).",
+        "sentence_cn": "该图是 Android 设备屏幕的截图，显示了与 Minecraft Pocket Edition（MCPE）相关的“Car Mods”应用程序的应用界面。",
+        "words": [
+            "Car Mods",
+            "device",
+            "screen",
+            "app",
+            "interface",
+            "Mods",
+            "application"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top section displays a magenta header with the app's logo on the left and the title \"Car Mods\" beside it.",
+        "sentence_cn": "- 顶部显示一个洋红色的标题，左侧是应用程序的徽标，旁边是标题“Car Mods”。",
+        "words": [
+            "Car Mods",
+            "section",
+            "header",
+            "app",
+            "logo",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Icons for \"like\" and \"favorite\" (a thumbs up and a heart) are on the right side of the header.",
+        "sentence_cn": "“喜欢”和“收藏”的图标（竖起大拇指和心形）位于标题的右侧。",
+        "words": [
+            "like",
+            "favorite",
+            "Icons",
+            "like",
+            "favorite",
+            "thumbs",
+            "heart",
+            "header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the header, there's a partial background image showing the Minecraft environment with a character holding an item, possibly an in-game vehicle.",
+        "sentence_cn": "- 在标题下方，有部分背景图像展示了 Minecraft 环境，其中的角色手持一件物品，可能是游戏中的车辆。",
+        "words": [
+            "header",
+            "background",
+            "environment",
+            "character",
+            "item",
+            "game",
+            "vehicle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The text below the image starts with \"Cars Mod\" in bold, followed by a description of the mod, mentioning an advanced car system and custom car models.",
+        "sentence_cn": "- 图像下方的文字以粗体“Cars Mod”开头，后面是该模组的描述，其中提到了先进的汽车系统和定制的汽车模型。",
+        "words": [
+            "Cars Mod",
+            "text",
+            "Cars",
+            "mod",
+            "car",
+            "system",
+            "custom",
+            "car",
+            "models"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the bottom, there's an Android prompt asking the user whether to \"Open with Browser,\" with the options \"JUST ONCE\" and \"ALWAYS\" visible.",
+        "sentence_cn": "- 在底部，有一个 Android 提示询问用户是否“使用浏览器打开”，并显示“仅一次”和“总是”选项。",
+        "words": [
+            "Open with Browser,",
+            "JUST ONCE",
+            "ALWAYS",
+            "bottom",
+            "prompt",
+            "user",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also an option to use a different app, which is the \"Play Store.\"",
+        "sentence_cn": "您还可以选择使用其他应用程序，即“Play Store”。",
+        "words": [
+            "Play Store.",
+            "option",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top status bar displays various icons, including signals and a battery, with the time shown as 11:06.",
+        "sentence_cn": "- 顶部状态栏显示各种图标，包括信号和电池，时间显示为 11:06。",
+        "words": [
+            "status",
+            "bar",
+            "icons",
+            "signals",
+            "battery",
+            "time",
+            "11:06"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "sentence": "The image features a small arrangement of fruits placed on a textured, beige surface.",
+        "sentence_cn": "图像显示，一小排水果被放置在带有纹理的米色表面上。",
+        "words": [
+            "arrangement",
+            "fruits",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center is a ripe banana, predominantly yellow with a few brown spots.",
+        "sentence_cn": "中心是一根成熟的香蕉，主要呈黄色，带有一些棕色斑点。",
+        "words": [
+            "center",
+            "banana",
+            "spots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the banana is a bright orange, smooth-skinned citrus fruit",
+        "sentence_cn": "香蕉前面是亮橙色、果皮光滑的柑橘类水果",
+        "words": [
+            "front",
+            "banana",
+            "orange",
+            "citrus",
+            "fruit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Flanking these are two red apples on either side, each with a glossy and slightly variegated surface pattern.",
+        "sentence_cn": "两侧是两个红苹果，每个苹果的表面都有光滑且略带杂色的花纹。",
+        "words": [
+            "two",
+            "apples",
+            "surface",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The composition is simple and focuses on the contrasting colors and textures of the fruits against a neutral background.",
+        "sentence_cn": "构图简单，重点突出中性背景下水果的对比色和纹理。",
+        "words": [
+            "composition",
+            "colors",
+            "textures",
+            "fruits",
+            "background"
+        ],
+        "id": null
+    }
+]

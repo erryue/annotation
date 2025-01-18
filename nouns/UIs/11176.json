@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image is a screenshot of an app interface related to \"DreamWorks Emoji Trolls.\"",
+        "sentence_cn": "图片是《梦工厂表情符号巨魔》相关应用程序界面的截图。",
+        "words": [
+            "DreamWorks Emoji Trolls.",
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a logo for DreamWorks and Trolls.",
+        "sentence_cn": "顶部是梦工厂和巨魔的标志。",
+        "words": [
+            "top",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there is a central image of a Troll character with pink hair hugging a large cupcake.",
+        "sentence_cn": "下面的中央图像是一个粉红色头发的巨魔角色，他怀里抱着一个大纸杯蛋糕。",
+        "words": [
+            "character",
+            "hair",
+            "cupcake"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cupcake has pink frosting, multicolored sprinkles, and a cherry on top.",
+        "sentence_cn": "纸杯蛋糕上有粉红色的糖霜、五颜六色的糖粒和一颗樱桃。",
+        "words": [
+            "cupcake",
+            "frosting",
+            "sprinkles",
+            "cherry",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, text reads \"Choose an app to share this sticker,\" with options listed for sharing: Bluetooth, Messaging, Android Beam, and Facebook.",
+        "sentence_cn": "图像下方的文字为“选择一个应用程序来分享此贴纸”，其中列出了可供分享的选项：蓝牙、消息、Android Beam 和 Facebook。",
+        "words": [
+            "Choose an app to share this sticker,",
+            "text",
+            "app",
+            "sticker",
+            "options",
+            "Bluetooth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each option has an icon representing the platform.",
+        "sentence_cn": "每个选项都有一个代表该平台的图标。",
+        "words": [
+            "option",
+            "icon",
+            "platform"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a \"CANCEL\" button and a slider bar.",
+        "sentence_cn": "在底部有一个“取消”按钮和一个滑动条。",
+        "words": [
+            "CANCEL",
+            "bottom",
+            "CANCEL",
+            "button",
+            "slider",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app¡¯s status bar at the very top shows a time of 1:05 and typical icons for battery, Wi-Fi, and notifications.",
+        "sentence_cn": "应用程序最顶部的状态栏显示时间 1:05 以及电池、Wi-Fi 和通知的典型图标。",
+        "words": [
+            "app¡¯s",
+            "status",
+            "bar",
+            "top",
+            "time",
+            "1:05",
+            "icons",
+            "battery",
+            "Wi",
+            "-",
+            "Fi",
+            "notifications"
+        ],
+        "id": null
+    }
+]

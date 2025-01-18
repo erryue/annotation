@@ -1,0 +1,352 @@
+[
+    {
+        "sentence": "The image is a promotional flyer for MSC Cruises, advertising an 18-night transatlantic cruise.",
+        "sentence_cn": "该图是地中海邮轮公司的宣传传单，宣传为期 18 晚的跨大西洋邮轮之旅。",
+        "words": [
+            "flyer",
+            "18",
+            "night",
+            "cruise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Features:",
+        "sentence_cn": "### 主要特点：",
+        "words": [
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Section:",
+        "sentence_cn": "- 顶部部分：",
+        "words": [
+            "Top Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - MSC Cruises Logo: Located at the top left.",
+        "sentence_cn": "- MSC 邮轮标志：位于左上角。",
+        "words": [
+            "MSC Cruises Logo",
+            "Logo",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Contact Information: Call to book or for more information at the number 434.282.4223.",
+        "sentence_cn": "- 联系信息：请拨打434.282.4223进行预订或了解更多信息。",
+        "words": [
+            "Contact Information",
+            "434.282.4223",
+            "Contact",
+            "Information",
+            "information",
+            "number",
+            "",
+            "434.282.4223"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement is linked to \"Summit Travel,\" whose logo is at the top right.",
+        "sentence_cn": "该广告链接到“Summit Travel”，其标志位于右上角。",
+        "words": [
+            "Summit Travel,",
+            "logo",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Cruise Details:",
+        "sentence_cn": "- 游轮详情：",
+        "words": [
+            "Cruise Details",
+            "Cruise",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Title: \"18-NIGHT TRANSATLANTIC CRUISE\"",
+        "sentence_cn": "- 标题：“18 晚跨大西洋游轮之旅”",
+        "words": [
+            "18-NIGHT TRANSATLANTIC CRUISE",
+            "Title",
+            "18",
+            "NIGHT",
+            "TRANSATLANTIC",
+            "CRUISE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Subtitle: \"SAILING FROM THE MED TO MIAMI\"",
+        "sentence_cn": "- 字幕：“从地中海航行至迈阿密”",
+        "words": [
+            "SAILING FROM THE MED TO MIAMI",
+            "Subtitle",
+            "MED",
+            "MIAMI"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Visual: An image of a cruise ship on the sea.",
+        "sentence_cn": "- 视觉：海上游轮的图像。",
+        "words": [
+            "cruise",
+            "ship",
+            "sea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Pricing: \"FROM $39 PER NIGHT\"",
+        "sentence_cn": "- 价格：“每​​晚 39 美元起”",
+        "words": [
+            "FROM $39 PER NIGHT",
+            "Pricing",
+            "39",
+            "NIGHT"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Middle Section:",
+        "sentence_cn": "- 中间部分：",
+        "words": [
+            "Middle Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Description: A brief description of the cruise experience, mentioning the journey from the Mediterranean to the Caribbean.",
+        "sentence_cn": "- 描述：简单描述游轮体验，提到从地中海到加勒比海的旅程。",
+        "words": [
+            "Description",
+            "Description",
+            "cruise",
+            "experience",
+            "journey",
+            "Mediterranean",
+            "Caribbean"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Section:",
+        "sentence_cn": "- 底部：",
+        "words": [
+            "Bottom Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Two Cruise Options:",
+        "sentence_cn": "- 两种巡航选择：",
+        "words": [
+            "Two Cruise Options",
+            "Two",
+            "Cruise",
+            "Options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - 18-Night Cruise:",
+        "sentence_cn": "- 18 晚游轮：",
+        "words": [
+            "18-Night Cruise",
+            "18",
+            "Night",
+            "Cruise",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Ship: MSC Divina",
+        "sentence_cn": "- 船只：MSC Divina",
+        "words": [
+            "Ship"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Departure: October 24",
+        "sentence_cn": "- 出发日期：10月24日",
+        "words": [
+            "Departure",
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Fares From: $899",
+        "sentence_cn": "- 票价：899 美元起",
+        "words": [
+            "899"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Itinerary: Ports of call include Genoa, Barcelona, Malaga, Funchal, Bridgetown, Fort De France, Philipsburg, Charlotte Amalie, San Juan, and Miami.",
+        "sentence_cn": "- 行程：停靠港口包括热那亚、巴塞罗那、马拉加、丰沙尔、布里奇敦、法兰西堡、菲利普斯堡、夏洛特阿马利亚、圣胡安和迈阿密。",
+        "words": [
+            "Itinerary",
+            "Ports",
+            "call",
+            "Genoa",
+            "Barcelona",
+            "Malaga",
+            "Funchal",
+            "Bridgetown",
+            "Fort",
+            "De",
+            "France",
+            "Philipsburg",
+            "Charlotte",
+            "Amalie",
+            "San",
+            "Juan",
+            "Miami"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Map: A route map shows the cruise path from Europe to the USA.",
+        "sentence_cn": "- 地图：航线图显示了从欧洲到美国的巡航路径。",
+        "words": [
+            "Map",
+            "route",
+            "map",
+            "cruise",
+            "path",
+            "Europe",
+            "USA"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - 17-Night Cruise:",
+        "sentence_cn": "- 17 晚游轮：",
+        "words": [
+            "17-Night Cruise",
+            "17",
+            "Night",
+            "Cruise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Ship: MSC Divina",
+        "sentence_cn": "- 船只：MSC Divina",
+        "words": [
+            "Ship"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Departure: October 25",
+        "sentence_cn": "- 出发日期：10月25日",
+        "words": [
+            "Departure",
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Fares From: $669",
+        "sentence_cn": "- 票价：669 美元起",
+        "words": [
+            "Fares",
+            "669"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Itinerary: Similar to the 18-night cruise with slight differences.",
+        "sentence_cn": "- 行程：与18晚邮轮类似，但略有不同。",
+        "words": [
+            "18",
+            "night",
+            "cruise",
+            "differences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Map: A similar route map for the 17-night cruise.",
+        "sentence_cn": "- 地图：17 晚游轮的类似路线图。",
+        "words": [
+            "Map",
+            "route",
+            "map",
+            "17",
+            "night",
+            "cruise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Visuals:",
+        "sentence_cn": "### 视觉效果：",
+        "words": [
+            "Visuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The flyer includes a serene ocean background with clear sky, enhancing the appeal of a sea voyage.",
+        "sentence_cn": "- 传单背景为宁静的海洋和晴朗的天空，增强了海上航行的吸引力。",
+        "words": [
+            "flyer",
+            "ocean",
+            "background",
+            "sky",
+            "appeal",
+            "sea",
+            "voyage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Two maps at the bottom provide visual representation of both cruise routes, highlighting the journey across the Atlantic Ocean from Europe to the USA.",
+        "sentence_cn": "- 底部的两张地图直观地呈现了两条巡航路线，重点介绍了从欧洲到美国的横跨大西洋的旅程。",
+        "words": [
+            "Two",
+            "maps",
+            "bottom",
+            "representation",
+            "cruise",
+            "routes",
+            "journey",
+            "the",
+            "Atlantic",
+            "Ocean",
+            "Europe",
+            "USA"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the flyer is designed to attract potential customers with the promise of an extensive and luxurious journey at a competitive price.",
+        "sentence_cn": "总体而言，该传单旨在以具有竞争力的价格承诺提供丰富而豪华的旅程来吸引潜在客户。",
+        "words": [
+            "flyer",
+            "customers",
+            "promise",
+            "journey",
+            "price"
+        ],
+        "id": null
+    }
+]

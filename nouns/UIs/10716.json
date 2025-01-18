@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile application interface with a focus on the \"Categories\" section.",
+        "sentence_cn": "该图是移动应用程序界面的屏幕截图，重点关注“类别”部分。",
+        "words": [
+            "Categories",
+            "application",
+            "interface",
+            "focus",
+            "Categories",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The categories are organized under a tabbed menu featuring \"SMS,\" \"Jokes,\" and \"Videos.\"",
+        "sentence_cn": "这些类别按“短信”、“笑话”和“视频”等标签菜单进行组织。",
+        "words": [
+            "SMS,",
+            "Jokes,",
+            "Videos.",
+            "categories",
+            "menu",
+            "Jokes",
+            "Videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"SMS\" tab is currently selected.",
+        "sentence_cn": "当前已选择“SMS”选项卡。",
+        "words": [
+            "SMS",
+            "tab"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the tabs, there are circular icons representing various categories:",
+        "sentence_cn": "标签下方有代表不同类别的圆形图标：",
+        "words": [
+            "tabs",
+            "icons",
+            "categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Character - Icon with two cartoon-style faces.",
+        "sentence_cn": "1. 角色——带有两张卡通风格面孔的图标。",
+        "words": [
+            "Character",
+            "Character",
+            "Icon",
+            "two",
+            "cartoon",
+            "style",
+            "faces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Wishes - Icon featuring a bouquet of flowers.",
+        "sentence_cn": "2. 愿望——图标为一束鲜花。",
+        "words": [
+            "Wishes",
+            "Wishes",
+            "Icon",
+            "bouquet",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Events - Icon resembling a calendar and clock.",
+        "sentence_cn": "3. 事件——类似日历和时钟的图标。",
+        "words": [
+            "Events",
+            "Events",
+            "Icon",
+            "calendar",
+            "clock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Emotions - Icon showing a smiling face with stars for eyes.",
+        "sentence_cn": "4. 情绪——图标显示一张笑脸，眼睛是星星。",
+        "words": [
+            "Emotions",
+            "Emotions",
+            "Icon",
+            "face",
+            "stars",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Funny - Icon with a broad smiling face.",
+        "sentence_cn": "5. 有趣——带有灿烂笑脸的图标。",
+        "words": [
+            "Funny",
+            "Icon",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Interesting - Icon designed like a geometrical floral pattern.",
+        "sentence_cn": "6. 有趣——图标设计得像几何花卉图案。",
+        "words": [
+            "Interesting",
+            "Icon",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Popular - Icon of a solid star.",
+        "sentence_cn": "7. 流行——实心星号的图标。",
+        "words": [
+            "Popular",
+            "Icon",
+            "star"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Birthdays - Icon of a birthday cake with balloons.",
+        "sentence_cn": "8. 生日——带有气球的生日蛋糕图标。",
+        "words": [
+            "Birthdays",
+            "Birthdays",
+            "Icon",
+            "birthday",
+            "cake",
+            "balloons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top bar includes time and various status icons, and at the bottom, there's a Google Play advertisement for apps.",
+        "sentence_cn": "顶部栏包含时间和各种状态图标，底部是 Google Play 应用广告。",
+        "words": [
+            "bar",
+            "time",
+            "status",
+            "icons",
+            "bottom",
+            "apps"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image shows a man with a beard, wearing a cap, denim shirt, and jeans, sitting on a wooden chair in a grassy field.",
+        "sentence_cn": "照片中，一名留着胡子的男子戴着帽子，身穿牛仔衬衫和牛仔裤，坐在草地上的一张木椅上。",
+        "words": [
+            "man",
+            "beard",
+            "cap",
+            "denim",
+            "shirt",
+            "jeans",
+            "chair",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He appears relaxed, holding a drink.",
+        "sentence_cn": "他看上去很放松​​，手里拿着一杯饮料。",
+        "words": [
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right is a bee hive with bees buzzing around it.",
+        "sentence_cn": "右边是一个蜂巢，蜜蜂在它周围嗡嗡叫。",
+        "words": [
+            "right",
+            "bee",
+            "hive",
+            "bees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above, there is a countdown timer displaying 00 days, 01 hours, 26 minutes, and 31 seconds remaining.",
+        "sentence_cn": "上面有一个倒计时器，显示剩余 00 天、01 小时、26 分钟、31 秒。",
+        "words": [
+            "countdown",
+            "timer",
+            "00",
+            "days",
+            "01",
+            "hours",
+            "26",
+            "minutes",
+            "31",
+            "seconds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text at the top reads: \"BURT, THE BEES, AND ALL THEIR NATURAL ANTICS GO LIVE IN:\"",
+        "sentence_cn": "顶部的文字为：“伯特、蜜蜂和它们所有自然的滑稽动作都生活在：”",
+        "words": [
+            "BURT, THE BEES, AND ALL THEIR NATURAL ANTICS GO LIVE IN:",
+            "Text",
+            "top",
+            "BURT",
+            "BEES",
+            "ANTICS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, with a few soft clouds.",
+        "sentence_cn": "天空晴朗，飘浮着几朵柔软的云。",
+        "words": [
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    }
+]

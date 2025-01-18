@@ -1,0 +1,141 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app login page for \"snagajob.\"",
+        "sentence_cn": "该图是“snagajob”移动应用程序登录页面的截图。",
+        "words": [
+            "snagajob.",
+            "mobile",
+            "app",
+            "login",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a partial view of a person's arm wearing a dark denim shirt and what appears to be a brown apron, suggesting a work environment.",
+        "sentence_cn": "背景中，可以看到一个人的手臂部分，他穿着深色牛仔衬衫，还围着一条棕色围裙，这暗示着这是一个工作环境。",
+        "words": [
+            "background",
+            "view",
+            "person",
+            "arm",
+            "denim",
+            "shirt",
+            "apron",
+            "work",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the screen includes:",
+        "sentence_cn": "屏幕上的文字包括：",
+        "words": [
+            "Text",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"snagajob\" in large white letters.",
+        "sentence_cn": "- 用大号白色字母写着“snagajob”。",
+        "words": [
+            "snagajob",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Get started\" below it in orange",
+        "sentence_cn": "- 下方为橙色“开始使用”",
+        "words": [
+            "Get started",
+            "orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A tagline: \"It's easy! Connect with your Facebook or e-mail account.\"",
+        "sentence_cn": "- 标语：“很简单！连接您的 Facebook 或电子邮件账户。”",
+        "words": [
+            "It's easy! Connect with your Facebook or e-mail account.",
+            "tagline",
+            "e",
+            "-",
+            "mail",
+            "account"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two buttons for user actions:",
+        "sentence_cn": "有两个按钮可供用户操作：",
+        "words": [
+            "two",
+            "buttons",
+            "user",
+            "actions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A blue button labeled \"Continue with Facebook\" featuring the Facebook logo.",
+        "sentence_cn": "1. 一个蓝色按钮，标有“继续使用 Facebook”，带有 Facebook 徽标。",
+        "words": [
+            "Continue with Facebook",
+            "button",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A light blue button labeled \"Sign up using E-Mail\" with an envelope icon.",
+        "sentence_cn": "2. 一个浅蓝色按钮，标有“使用电子邮件注册”，并带有一个信封图标。",
+        "words": [
+            "Sign up using E-Mail",
+            "button",
+            "E",
+            "-",
+            "Mail",
+            "envelope",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these buttons, there's a link saying, \"Have an account? Sign In.\"",
+        "sentence_cn": "在这些按钮下面，有一个链接，上面写着“有账户吗？登录”。",
+        "words": [
+            "Have an account? Sign In.",
+            "buttons",
+            "link",
+            "account"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The device status bar at the top shows icons for notifications, Wi-Fi, battery, and the time at 11:28.",
+        "sentence_cn": "设备顶部的状态栏显示通知、Wi-Fi、电池的图标以及 11:28 的时间。",
+        "words": [
+            "device",
+            "status",
+            "bar",
+            "top",
+            "icons",
+            "notifications",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "time",
+            "11:28"
+        ],
+        "id": null
+    }
+]

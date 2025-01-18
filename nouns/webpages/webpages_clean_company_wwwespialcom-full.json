@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image appears to be a webpage from Espial, a company focused on enhancing viewing experiences.",
+        "sentence_cn": "该图片似乎是 Espial 的一个网页，该公司致力于增强观看体验。",
+        "words": [
+            "webpage",
+            "company",
+            "experiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section has a black bar with the Espial logo, the phrase \"Transforming The Viewing Experience Worldwide,\" a search bar, social media icons (including Twitter, LinkedIn, YouTube, and Facebook), and a contact number.",
+        "sentence_cn": "顶部有一个黑条，上面有 Espial 的标志、短语“改变全球观看体验”、一个搜索栏、社交媒体图标（包括 Twitter、LinkedIn、YouTube 和 Facebook）以及联系电话。",
+        "words": [
+            "Transforming The Viewing Experience Worldwide,",
+            "section",
+            "bar",
+            "logo",
+            "phrase",
+            "search",
+            "bar",
+            "media",
+            "icons",
+            "contact",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Dropdown menus for \"Espial,\" \"Solutions,\" \"Resources,\" and \"News\" are also present.",
+        "sentence_cn": "还有“Espial”、“解决方案”、“资源”和“新闻”下拉菜单。",
+        "words": [
+            "Espial,",
+            "Solutions,",
+            "Resources,",
+            "News",
+            "menus",
+            "Solutions",
+            "Resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large image in the center features a finger touching a screen with icons representing various digital devices and platforms (like Vimeo and Facebook), suggesting connectivity and multimedia interaction.",
+        "sentence_cn": "中间的大图像是一根手指触摸屏幕，屏幕上的图标代表各种数字设备和平台（如 Vimeo 和 Facebook），暗示着连接和多媒体交互。",
+        "words": [
+            "center",
+            "finger",
+            "screen",
+            "icons",
+            "devices",
+            "platforms",
+            "connectivity",
+            "multimedia",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A prominent heading states, \"FAST HTML5 UX: TV Reimagined,\" with a subsection labeled \"SPORTS,\" \"MOVIES,\" and \"TV SHOWS.\"",
+        "sentence_cn": "显眼的标题写着“快速 HTML5 UX：重新构想电视”，其中有一个名为“体育”、“电影”和“电视节目”的子部分。",
+        "words": [
+            "FAST HTML5 UX: TV Reimagined,",
+            "SPORTS,",
+            "MOVIES,",
+            "TV SHOWS.",
+            "heading",
+            "subsection",
+            "SPORTS",
+            "MOVIES",
+            "TV",
+            "SHOWS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there are updates such as:",
+        "sentence_cn": "以下是一些更新内容，例如：",
+        "words": [
+            "updates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. CEO Jaison Dolvane at Imagine Park 2015, with a banner for \"INTX the internet & television expo.\"",
+        "sentence_cn": "1. 首席执行官 Jaison Dolvane 在 2015 年 Imagine Park 活动现场，手举“INTX 互联网与电视博览会”横幅。",
+        "words": [
+            "INTX the internet & television expo.",
+            "CEO",
+            "2015",
+            "banner",
+            "internet",
+            "television",
+            "expo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Espial announcing the acquisition of Bluestreak Technologies, accompanied by the Bluestreak logo.",
+        "sentence_cn": "2. Espial 宣布收购 Bluestreak Technologies，并附带 Bluestreak 标志。",
+        "words": [
+            "acquisition",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. RDK's move to broadband gateways, along with a \"Screen Plays Magazine\" image.",
+        "sentence_cn": "3. RDK 转向宽带网关，并附有“Screen Plays Magazine”图片。",
+        "words": [
+            "Screen Plays Magazine",
+            "move",
+            "gateways"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A notice about the launch of a new Espial Experience Professional Services Group for RDK-focused video service providers, with an image of a meeting scene.",
+        "sentence_cn": "4. 关于成立新的Espial Experience专业服务集团，为RDK视频服务提供商提供服务的通知，并附上会议场景图片。",
+        "words": [
+            "notice",
+            "launch",
+            "video",
+            "service",
+            "providers",
+            "meeting",
+            "scene"
+        ],
+        "id": null
+    }
+]

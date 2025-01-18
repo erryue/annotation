@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image is an advertisement poster for Converse titled \"MYDENTITY.\"",
+        "sentence_cn": "图片是匡威的广告海报，标题为“MYDENTITY”。",
+        "words": [
+            "MYDENTITY.",
+            "poster",
+            "MYDENTITY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a group of students wearing school uniforms.",
+        "sentence_cn": "照片中是一群穿着校服的学生。",
+        "words": [
+            "group",
+            "students",
+            "school",
+            "uniforms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The attire includes white shirts and ties for boys and sailor-style tops with skirts for girls.",
+        "sentence_cn": "服装包括男孩的白衬衫和领带以及女孩的水手风格上衣和裙子。",
+        "words": [
+            "attire",
+            "shirts",
+            "ties",
+            "boys",
+            "sailor",
+            "style",
+            "tops",
+            "skirts",
+            "girls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each student is wearing Converse sneakers in various colors, adding a pop of individuality to their uniform look.",
+        "sentence_cn": "每位学生都穿着各种颜色的匡威运动鞋，为他们的制服增添了一抹个性。",
+        "words": [
+            "student",
+            "sneakers",
+            "colors",
+            "pop",
+            "individuality",
+            "uniform",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster is likely promoting the idea of expressing personal identity through footwear.",
+        "sentence_cn": "这张海报很可能是在宣传通过鞋类来表达个人身份的理念。",
+        "words": [
+            "poster",
+            "idea",
+            "identity",
+            "footwear"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Converse logo is visible at the bottom right, and the source, TokyoFashion.com, is noted at the bottom left.",
+        "sentence_cn": "右下角可见 Converse 徽标，左下角注明了来源 TokyoFashion.com。",
+        "words": [
+            "logo",
+            "right",
+            "source",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background appears to be a classroom or school setting.",
+        "sentence_cn": "背景看起来像是教室或学校场景。",
+        "words": [
+            "background",
+            "classroom",
+            "school"
+        ],
+        "id": null
+    }
+]

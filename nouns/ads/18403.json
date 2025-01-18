@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image is a fashion advertisement for Burberry Brit featuring four young models.",
+        "sentence_cn": "图片是 Burberry Brit 的时尚广告，有四位年轻模特。",
+        "words": [
+            "fashion",
+            "four",
+            "models"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are standing in front of a wrought-iron gate, which creates a stylish backdrop.",
+        "sentence_cn": "他们站在一扇铸铁大门前，大门的背景十分时尚。",
+        "words": [
+            "front",
+            "iron",
+            "gate",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The models are dressed in classic Burberry fashion, showcasing trench coats and scarves.",
+        "sentence_cn": "模特们身着经典的 Burberry 时装，展示风衣和围巾。",
+        "words": [
+            "models",
+            "fashion",
+            "trench",
+            "coats",
+            "scarves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left is wearing a beige trench coat.",
+        "sentence_cn": "左边的女人穿着一件米色风衣。",
+        "words": [
+            "woman",
+            "left",
+            "trench",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The three men are wearing a combination of light sweaters, scarves, and overcoats.",
+        "sentence_cn": "这三名男子均穿着轻便毛衣、围巾和外套。",
+        "words": [
+            "three",
+            "men",
+            "combination",
+            "sweaters",
+            "scarves",
+            "overcoats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The signature Burberry check pattern is visible on some of the scarves.",
+        "sentence_cn": "一些围巾上可以看到标志性的 Burberry 格纹图案。",
+        "words": [
+            "signature",
+            "check",
+            "pattern",
+            "scarves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere of the image is chic and sophisticated, highlighting the elegance and timeless appeal of Burberry's fashion.",
+        "sentence_cn": "图片氛围别致而精致，凸显了 Burberry 时尚的优雅和永恒魅力。",
+        "words": [
+            "atmosphere",
+            "elegance",
+            "appeal",
+            "fashion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting appears natural, enhancing the textures and subtleties of the clothing.",
+        "sentence_cn": "灯光看起来很自然，增强了服装的质感和精致。",
+        "words": [
+            "lighting",
+            "textures",
+            "subtleties",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The brand name \"BURBERRY BRIT\" is displayed in the bottom right corner of the image in a clean, bold font.",
+        "sentence_cn": "品牌名称“BURBERRY BRIT”以清晰、粗体的字体显示在图像的右下角。",
+        "words": [
+            "BURBERRY BRIT",
+            "brand",
+            "name",
+            "corner",
+            "font"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image depicts a serene outdoor space with a modern and minimalist design.",
+        "sentence_cn": "该图描绘了一个宁静的户外空间，具有现代简约的设计。",
+        "words": [
+            "space",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area features a wooden deck with a sleek, low-profile lounge chair positioned on it.",
+        "sentence_cn": "该区域设有一个木质甲板，上面摆放着一张光滑、低调的躺椅。",
+        "words": [
+            "area",
+            "deck",
+            "profile",
+            "lounge",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there are a couple of wooden chairs with a simple design.",
+        "sentence_cn": "左边有几把设计简单的木椅。",
+        "words": [
+            "left",
+            "couple",
+            "chairs",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space is bordered by vertical white metal slats, providing a sense of enclosure while allowing natural light to filter through.",
+        "sentence_cn": "空间由垂直的白色金属板条包围，提供一种封闭感，同时允许自然光透过。",
+        "words": [
+            "space",
+            "metal",
+            "slats",
+            "sense",
+            "enclosure",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, greenery peeks through the slats, with various plants and trees enhancing the natural ambiance.",
+        "sentence_cn": "右侧，绿色植物从板条间隐隐透出，各种植物和树木增强了自然氛围。",
+        "words": [
+            "right",
+            "greenery",
+            "slats",
+            "plants",
+            "trees",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A hanging plant adds a touch of greenery overhead, contributing to the lush atmosphere.",
+        "sentence_cn": "悬挂的植物为头顶增添了一抹绿意，营造出郁郁葱葱的氛围。",
+        "words": [
+            "plant",
+            "touch",
+            "greenery",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting combines elements of nature and architecture, creating a tranquil and inviting environment.",
+        "sentence_cn": "整体环境融合了自然与建筑元素，营造出宁静宜人的环境。",
+        "words": [
+            "elements",
+            "nature",
+            "architecture",
+            "environment"
+        ],
+        "id": null
+    }
+]

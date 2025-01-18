@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a serene coastal scene with a sandy beach in the foreground.",
+        "sentence_cn": "该图描绘的是宁静的海岸景色，前景是沙滩。",
+        "words": [
+            "scene",
+            "beach",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various cows are lying scattered across the sand, some in groups and others alone.",
+        "sentence_cn": "各种奶牛散落在沙地上，有的成群，有的独自一人。",
+        "words": [
+            "cows",
+            "sand",
+            "groups",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The beach is mostly flat with patches of darker, possibly damp sand.",
+        "sentence_cn": "海滩大部分是平坦的，有几片颜色较暗、可能潮湿的沙滩。",
+        "words": [
+            "beach",
+            "patches",
+            "sand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the beach, the ocean stretches out, displaying a gradient of turquoise and deeper blue hues, with gentle waves visible.",
+        "sentence_cn": "海滩的另一边，大海绵延不绝，呈现出从绿松石色到深蓝色的渐变色调，轻轻的海浪清晰可见。",
+        "words": [
+            "beach",
+            "ocean",
+            "gradient",
+            "hues",
+            "waves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a rocky formation extending into the water.",
+        "sentence_cn": "背景中，有一块岩石延伸到水中。",
+        "words": [
+            "background",
+            "formation",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is mostly cloudy with hints of blue peeking through, suggesting a calm, overcast day.",
+        "sentence_cn": "天空多云，透出一丝蓝色，预示着这是一个平静而阴天的日子。",
+        "words": [
+            "sky",
+            "hints",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the bottom of the image, some grassy vegetation is visible, adding a touch of greenery to the scene.",
+        "sentence_cn": "在图像的底部，可以看到一些草类植被，为场景增添了一丝绿意。",
+        "words": [
+            "bottom",
+            "vegetation",
+            "touch",
+            "greenery",
+            "scene"
+        ],
+        "id": null
+    }
+]

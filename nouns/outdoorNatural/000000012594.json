@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image shows a group of African wild dogs standing in a grassy field.",
+        "sentence_cn": "图中是一群非洲野狗站在草地上。",
+        "words": [
+            "group",
+            "dogs",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their fur is patchy with shades of brown, black, and white.",
+        "sentence_cn": "它们的皮毛有棕色、黑色和白色斑驳的颜色。",
+        "words": [
+            "fur",
+            "shades",
+            "brown",
+            "black",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a herd of elephants gathered closely together.",
+        "sentence_cn": "背景中，有一群大象紧密聚集在一起。",
+        "words": [
+            "background",
+            "herd",
+            "elephants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The elephants are large, with their trunks and tusks visible, and they appear to be in a defensive stance.",
+        "sentence_cn": "大象体型巨大，鼻子和象牙清晰可见，似乎处于防御姿态。",
+        "words": [
+            "elephants",
+            "trunks",
+            "tusks",
+            "stance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is set in a natural open landscape, with trees and bushes visible in the background.",
+        "sentence_cn": "场景设置在自然的开阔景观中，背景中可见树木和灌木丛。",
+        "words": [
+            "scene",
+            "landscape",
+            "trees",
+            "bushes",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere suggests a wildlife setting, possibly in a savanna or grassland region.",
+        "sentence_cn": "这里的气氛表明这里是野生动物栖居之地，可能是在热带草原或草地地区。",
+        "words": [
+            "atmosphere",
+            "wildlife",
+            "savanna",
+            "grassland",
+            "region"
+        ],
+        "id": null
+    }
+]

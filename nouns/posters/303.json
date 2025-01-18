@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Ulee's Gold.\"",
+        "sentence_cn": "图片是《Ulee's Gold》的电影海报。",
+        "words": [
+            "Ulee's Gold.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the name \"Peter Fonda\" is prominently displayed.",
+        "sentence_cn": "在顶部，“彼得方达”的名字显眼地显示出来。",
+        "words": [
+            "Peter Fonda",
+            "top",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, a large image features a man with glasses, wearing a plaid shirt, set against a background of a wooded swamp area.",
+        "sentence_cn": "下面的一张大图上，一名戴眼镜、身穿格子衬衫的男子，背景是一片树木繁茂的沼泽地。",
+        "words": [
+            "man",
+            "glasses",
+            "shirt",
+            "background",
+            "swamp",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The middle of the poster contains the text: \"The story of a family on the edge, and the man who brought them back.\"",
+        "sentence_cn": "海报中间写着：“一个边缘家庭的故事，以及将他们带回来的男人。”",
+        "words": [
+            "The story of a family on the edge, and the man who brought them back.",
+            "middle",
+            "poster",
+            "text",
+            "story",
+            "family",
+            "edge",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this text, there is a silhouette of three figures: an adult and two children.",
+        "sentence_cn": "这段文字下方，有三个人影的轮廓：一个成年人和两个小孩。",
+        "words": [
+            "text",
+            "silhouette",
+            "three",
+            "figures",
+            "adult",
+            "two",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, the title \"ULEE'S GOLD\" is presented in large, bold letters.",
+        "sentence_cn": "海报底部用大号粗体字写着“ULEE'S GOLD”。",
+        "words": [
+            "ULEE'S GOLD",
+            "bottom",
+            "poster",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath the title, additional credits are listed, including information about the production, cast, and crew.",
+        "sentence_cn": "标题下方列出了其他人员名单，包括有关制作、演员和剧组人员的信息。",
+        "words": [
+            "title",
+            "credits",
+            "information",
+            "production",
+            "cast",
+            "crew"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film appears to be produced by Orion Pictures and directed by Victor Nunez.",
+        "sentence_cn": "这部电影似乎是由猎户座影业制作，由维克多·努涅斯执导。",
+        "words": [
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rating is indicated as \"R.\"",
+        "sentence_cn": "评级以“R”表示。",
+        "words": [
+            "R.",
+            "rating"
+        ],
+        "id": null
+    }
+]

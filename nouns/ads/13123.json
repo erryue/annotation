@@ -1,0 +1,159 @@
+[
+    {
+        "sentence": "The image is an advertisement featuring three models of BMW cars, highlighting the brand's legacy and evolution in grand touring vehicles.",
+        "sentence_cn": "图片是一则以三款宝马汽车为特色的广告，凸显了该品牌在豪华旅行车领域的传承和发展。",
+        "words": [
+            "three",
+            "models",
+            "cars",
+            "brand",
+            "legacy",
+            "evolution",
+            "touring",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Car: 1938 BMW 328",
+        "sentence_cn": "1.顶级汽车：1938 款宝马 328",
+        "words": [
+            "Top Car: 1938 BMW 328",
+            "Car",
+            "1938",
+            "328"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: A classic red roadster with a vintage design, featuring two seats and open top.",
+        "sentence_cn": "- 描述：一款经典的红色敞篷跑车，具有复古的设计，有两个座位和敞篷。",
+        "words": [
+            "Description",
+            "Description",
+            "roadster",
+            "vintage",
+            "design",
+            "two",
+            "seats",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The driver is wearing a cap.",
+        "sentence_cn": "司机戴着帽子。",
+        "words": [
+            "driver",
+            "cap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Car: 1973 BMW 3.0 CS",
+        "sentence_cn": "2.中间车：1973 款宝马 3.0 CS",
+        "words": [
+            "Middle Car: 1973 BMW 3.0 CS",
+            "Car",
+            "1973",
+            "3.0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: A green coupe with a sleek, retro design.",
+        "sentence_cn": "- 描述：一款具有时尚复古设计的绿色轿跑车。",
+        "words": [
+            "Description",
+            "Description",
+            "coupe",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a hardtop and noticeable chrome accents.",
+        "sentence_cn": "它有一个硬顶和明显的镀铬装饰。",
+        "words": [
+            "hardtop",
+            "chrome",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Car: 1984 BMW 633CSi",
+        "sentence_cn": "3.底部车辆：1984 款宝马 633CSi",
+        "words": [
+            "Bottom Car: 1984 BMW 633CSi",
+            "Car",
+            "1984"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: A white sports coupe with a modern design compared to the other vehicles.",
+        "sentence_cn": "- 描述：与其他车辆相比，这是一款具有现代设计的白色跑车。",
+        "words": [
+            "Description",
+            "Description",
+            "sports",
+            "coupe",
+            "design",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has more elongated and aerodynamic features.",
+        "sentence_cn": "它具有更加细长和更符合空气动力学的特性。",
+        "words": [
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text discusses the legacy of BMW's grand touring tradition, emphasizing craftsmanship, rare design, and performance.",
+        "sentence_cn": "本文讨论了宝马豪华旅行车传统的传承，强调工艺、罕见的设计和性能。",
+        "words": [
+            "text",
+            "legacy",
+            "touring",
+            "tradition",
+            "craftsmanship",
+            "design",
+            "performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions specific features like the lightweight design and engine of the 633CSi, and connects the lineage of BMW cars to a heritage of racing and luxury.",
+        "sentence_cn": "它提到了 633CSi 的轻量化设计和发动机等具体特点，并将宝马汽车的血统与赛车和豪华传统联系起来。",
+        "words": [
+            "features",
+            "design",
+            "engine",
+            "lineage",
+            "cars",
+            "heritage",
+            "racing",
+            "luxury"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The BMW logo and slogan, \"The Ultimate Driving Machine,\" are displayed at the bottom right, reinforcing the brand's identity.",
+        "sentence_cn": "宝马的标志和口号“终极驾驶机器”位于右下角，强化了品牌的形象。",
+        "words": [
+            "The Ultimate Driving Machine,",
+            "logo",
+            "slogan",
+            "Driving",
+            "Machine",
+            "right",
+            "brand",
+            "identity"
+        ],
+        "id": null
+    }
+]

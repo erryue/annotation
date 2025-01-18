@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image features an in-game vehicle called \"Vacca\" from \"Grand Theft Auto V.\"",
+        "sentence_cn": "图片展示的是《侠盗猎车手 V》中的一辆名为“Vacca”的游戏车辆。",
+        "words": [
+            "Vacca",
+            "Grand Theft Auto V.",
+            "game",
+            "vehicle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's an orange-colored sports car with sleek, aerodynamic design elements typical of supercars.",
+        "sentence_cn": "这是一款橙色的跑车，具有超级跑车典型的流线型、空气动力学设计元素。",
+        "words": [
+            "orange",
+            "sports",
+            "car",
+            "design",
+            "elements",
+            "supercars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The car has a low profile, curved windshield, and angular headlights.",
+        "sentence_cn": "该车外形低调，挡风玻璃呈弧形，前大灯呈棱角分明的。",
+        "words": [
+            "car",
+            "profile",
+            "windshield",
+            "headlights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image is a textual description:",
+        "sentence_cn": "图片下方是文字说明：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Title: Vacca",
+        "sentence_cn": "- 标题：Vacca",
+        "words": [
+            "Title:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Image Context: A Vacca in \"Grand Theft Auto V\" (Rear quarter view)",
+        "sentence_cn": "- 图片背景：《侠盗猎车手 V》中的 Vacca（后侧视图）",
+        "words": [
+            "Image Context:",
+            "Grand Theft Auto V",
+            "Image",
+            "Context",
+            "quarter",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Type: Vehicle",
+        "sentence_cn": "- 类型： 车辆",
+        "words": [
+            "Type:",
+            "Type",
+            "Vehicle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Vehicle Class: Super (GTA V/Online)",
+        "sentence_cn": "- 车辆等级：超级（GTA V/在线）",
+        "words": [
+            "Vehicle Class:",
+            "Vehicle",
+            "Class",
+            "Super",
+            "V"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Vehicle Type: Civilian Car",
+        "sentence_cn": "- 车辆类型：民用车",
+        "words": [
+            "Vehicle Type:",
+            "Vehicle",
+            "Type",
+            "Car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The location appears to be a road with some greenery visible in the background.",
+        "sentence_cn": "该地点似乎是一条道路，背景中可见一些绿色植物。",
+        "words": [
+            "location",
+            "road",
+            "greenery",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there is a digital interface overlay with navigation, sharing, and search options at the top of the screen.",
+        "sentence_cn": "此外，屏幕顶部还有一个数字界面覆盖，其中包含导航、共享和搜索选项。",
+        "words": [
+            "interface",
+            "overlay",
+            "navigation",
+            "sharing",
+            "search",
+            "options",
+            "top",
+            "screen"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,138 @@
+[
+    {
+        "sentence": "The image depicts a kitchen area with a clean, organized look.",
+        "sentence_cn": "图中描绘的是整洁、有序的厨房区域。",
+        "words": [
+            "kitchen",
+            "area",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop is tiled in a light beige color, and above it are white cabinets with small round handles.",
+        "sentence_cn": "台面铺着浅米色的瓷砖，上方是带有小圆形把手的白色橱柜。",
+        "words": [
+            "countertop",
+            "color",
+            "cabinets",
+            "handles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lower cabinets and drawers match in color and design.",
+        "sentence_cn": "下柜和抽屉的颜色和设计相匹配。",
+        "words": [
+            "cabinets",
+            "drawers",
+            "color",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the counter, there is a dish rack filled with various kitchen items such as pans, pots, and plates.",
+        "sentence_cn": "柜台左侧有一个碗碟架，上面摆满了平底锅、锅、盘子等各种厨房用具。",
+        "words": [
+            "counter",
+            "dish",
+            "rack",
+            "kitchen",
+            "items",
+            "pans",
+            "pots",
+            "plates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the dish rack is a bottle of dish soap placed on the sink.",
+        "sentence_cn": "碗碟架旁边是一瓶放在水槽上的洗洁精。",
+        "words": [
+            "dish",
+            "rack",
+            "bottle",
+            "dish",
+            "soap",
+            "sink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sink itself is centrally located with a single faucet.",
+        "sentence_cn": "水槽本身位于中央，配有一个水龙头。",
+        "words": [
+            "sink",
+            "faucet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backsplash consists of the same beige tiles as the countertops.",
+        "sentence_cn": "后挡板采用与台面相同的米色瓷砖制成。",
+        "words": [
+            "backsplash",
+            "tiles",
+            "countertops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the counter, there is a coffee maker and a blender, suggesting the space is used for preparing beverages.",
+        "sentence_cn": "柜台右侧有一台咖啡机和一台搅拌机，表明这个空间是用来准备饮料的。",
+        "words": [
+            "counter",
+            "coffee",
+            "maker",
+            "blender",
+            "space",
+            "beverages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A microwave is also present, occupying the corner of the countertop, providing additional functionality.",
+        "sentence_cn": "还有一个微波炉，占据了台面的角落，提供额外的功能。",
+        "words": [
+            "microwave",
+            "corner",
+            "countertop",
+            "functionality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the counter, on the far right, is a white dishwasher integrated with the cabinetry.",
+        "sentence_cn": "柜台下方最右边是一台与橱柜融为一体的白色洗碗机。",
+        "words": [
+            "counter",
+            "right",
+            "dishwasher",
+            "cabinetry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen has a utilitarian design, suitable for practical use.",
+        "sentence_cn": "厨房设计实用，适合实用。",
+        "words": [
+            "kitchen",
+            "design",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The combination of appliances and storage space suggests a well-used and efficient kitchen setting.",
+        "sentence_cn": "电器和储藏空间的组合表明厨房布置充分利用且高效。",
+        "words": [
+            "combination",
+            "appliances",
+            "storage",
+            "space",
+            "kitchen"
+        ],
+        "id": null
+    }
+]

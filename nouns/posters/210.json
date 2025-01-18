@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "The image is a poster for the film \"Indiana Jones and the Last Crusade.\"",
+        "sentence_cn": "图片是电影《夺宝奇兵3：最后的圣战奇兵》的海报。",
+        "words": [
+            "Indiana Jones and the Last Crusade.",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It showcases a dramatic and adventurous theme typical of the Indiana Jones series.",
+        "sentence_cn": "它展现了《夺宝奇兵》系列典型的戏剧性和冒险主题。",
+        "words": [
+            "theme",
+            "series"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center, there is a large illustration of the main character, Indiana Jones, wearing his iconic fedora and leather jacket.",
+        "sentence_cn": "中心是主角印第安纳琼斯的大幅插图，他戴着标志性的软呢帽，穿着皮夹克。",
+        "words": [
+            "center",
+            "illustration",
+            "character",
+            "fedora",
+            "leather",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind him is another character with glasses, suggesting collaboration or partnership.",
+        "sentence_cn": "他身后是另一个戴眼镜的人物，暗示着合作或伙伴关系。",
+        "words": [
+            "character",
+            "glasses",
+            "collaboration",
+            "partnership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around the central figures are scenes depicting adventure: a man riding a horse, a sunset in the background, and vehicle chases, indicating action and excitement.",
+        "sentence_cn": "中心人物周围是描绘冒险的场景：一个男人骑着一匹马，背景是日落，还有车辆追逐，显示出动作和刺激。",
+        "words": [
+            "figures",
+            "scenes",
+            "adventure",
+            "man",
+            "horse",
+            "sunset",
+            "background",
+            "vehicle",
+            "chases",
+            "action",
+            "excitement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The corners of the poster feature portraits of various characters from the film, each adding to the narrative of the story.",
+        "sentence_cn": "海报的角落展示了电影中各个角色的肖像，每个角色都为故事增添了叙事性。",
+        "words": [
+            "corners",
+            "poster",
+            "portraits",
+            "characters",
+            "film",
+            "narrative",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the poster bears the tagline: \"Have the Adventure of Your Life Keeping Up With the Joneses.\"",
+        "sentence_cn": "海报顶部写着一句标语：“与琼斯一家同行，体验人生冒险。”",
+        "words": [
+            "Have the Adventure of Your Life Keeping Up With the Joneses.",
+            "top",
+            "poster",
+            "tagline",
+            "Adventure",
+            "Life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title of the movie is prominently displayed near the bottom: \"Indiana Jones and the Last Crusade.\"",
+        "sentence_cn": "电影的名字醒目地显示在页面底部：“夺宝奇兵：最后的圣战奇兵”。",
+        "words": [
+            "Indiana Jones and the Last Crusade.",
+            "title",
+            "movie",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom also provides details of the film's release date: \"Opens Wednesday May 24 at Theatres Everywhere\" and credits for the cast and crew.",
+        "sentence_cn": "底部还提供了电影上映日期的详细信息：“5 月 24 日星期三在各地影院上映”以及演员和剧组人员名单。",
+        "words": [
+            "Opens Wednesday May 24 at Theatres Everywhere",
+            "bottom",
+            "details",
+            "film",
+            "release",
+            "date",
+            "24",
+            "credits",
+            "cast",
+            "crew"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is warm with earth tones, enhancing the adventurous feel.",
+        "sentence_cn": "整体配色方案以温暖的土色调为主，增强了冒险感。",
+        "words": [
+            "color",
+            "scheme",
+            "earth",
+            "tones",
+            "feel"
+        ],
+        "id": null
+    }
+]

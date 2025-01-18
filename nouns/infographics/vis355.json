@@ -1,0 +1,586 @@
+[
+    {
+        "sentence": "The image provides a detailed infographic titled \"Organic Milk Gains Share\" from Supermarket News, dated October 1, 2012.",
+        "sentence_cn": "该图提供了一份详细的信息图表，题为“有机牛奶份额增加”，摘自《超市新闻》，日期为 2012 年 10 月 1 日。",
+        "words": [
+            "Organic Milk Gains Share",
+            "Milk",
+            "1",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It focuses on the market dynamics and changes in milk sales, especially organic milk.",
+        "sentence_cn": "它主要关注牛奶销售的市场动态和变化，尤其是有机牛奶。",
+        "words": [
+            "market",
+            "dynamics",
+            "changes",
+            "milk",
+            "sales",
+            "milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Sections:",
+        "sentence_cn": "### 主要部分：",
+        "words": [
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### 1. Organic Milk on the Rise",
+        "sentence_cn": "#### 1. 有机牛奶正在兴起",
+        "words": [
+            "Organic Milk on the Rise",
+            "#",
+            "#",
+            "#",
+            "#",
+            "1",
+            "Milk",
+            "Rise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Market Share Increase:",
+        "sentence_cn": "- 市场份额增加：",
+        "words": [
+            "Market Share Increase",
+            "Market",
+            "Share",
+            "Increase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 3.3% in 2010.",
+        "sentence_cn": "- 2010 年为 3.3%。",
+        "words": [
+            "3.3",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 3.8% in 2011.",
+        "sentence_cn": "- 2011 年为 3.8%。",
+        "words": [
+            "3.8",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Volume Growth:",
+        "sentence_cn": "- 销量增长：",
+        "words": [
+            "Volume Growth",
+            "Volume",
+            "Growth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - From 208.7 million gallons in 2010 to 240.7 million gallons in 2011.",
+        "sentence_cn": "- 从 2010 年的 2.087 亿加仑增至 2011 年的 2.407 亿加仑。",
+        "words": [
+            "208.7",
+            "million",
+            "gallons",
+            "2010",
+            "240.7",
+            "million",
+            "gallons",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### 2. Total Milk Volume Declines",
+        "sentence_cn": "#### 2. 总产奶量下降",
+        "words": [
+            "Total Milk Volume Declines",
+            "#",
+            "#",
+            "Milk",
+            "Volume"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Statistics:",
+        "sentence_cn": "- 统计数据：",
+        "words": [
+            "Statistics",
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2008: 6,411.6 million gallons.",
+        "sentence_cn": "- 2008 年：64.116 亿加仑。",
+        "words": [
+            "2008",
+            "6,411.6",
+            "million",
+            "gallons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2009: 6,477.2 million gallons.",
+        "sentence_cn": "- 2009 年：64.772 亿加仑。",
+        "words": [
+            "2009",
+            "6,477.2",
+            "million",
+            "gallons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2010: 6,381.8 million gallons.",
+        "sentence_cn": "- 2010 年：63.818 亿加仑。",
+        "words": [
+            "2010",
+            "6,381.8",
+            "million",
+            "gallons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2011: 6,276.1 million gallons.",
+        "sentence_cn": "- 2011 年：62.761 亿加仑。",
+        "words": [
+            "2011",
+            "6,276.1",
+            "million",
+            "gallons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### 3. Club Stores Gain Share",
+        "sentence_cn": "#### 3. 俱乐部商店获得份额",
+        "words": [
+            "Club Stores Gain Share",
+            "#",
+            "#",
+            "#",
+            "#",
+            "3",
+            "Club",
+            "Stores",
+            "Share"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Market Share of Total Milk:",
+        "sentence_cn": "- 牛奶总市场份额：",
+        "words": [
+            "Market Share of Total Milk",
+            "Market",
+            "Share",
+            "Milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2008: 3.8%",
+        "sentence_cn": "- 2008年：3.8％",
+        "words": [
+            "2008",
+            "3.8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2009: 4.0%",
+        "sentence_cn": "- 2009年：4.0％",
+        "words": [
+            "2009",
+            "4.0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2010: 4.2%",
+        "sentence_cn": "- 2010 年：4.2%",
+        "words": [
+            "2010",
+            "4.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2011: 4.5%",
+        "sentence_cn": "- 2011年：4.5％",
+        "words": [
+            "2011",
+            "4.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### 4. Flavored Milk Sales Decline",
+        "sentence_cn": "#### 4. 调味牛奶销量下滑",
+        "words": [
+            "Flavored Milk Sales Decline",
+            "#",
+            "#",
+            "#",
+            "#",
+            "4",
+            "Milk",
+            "Sales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Traditional Flavored Milk:",
+        "sentence_cn": "- 传统调味牛奶：",
+        "words": [
+            "Traditional Flavored Milk",
+            "Milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 557.0 million gallons in 2010.",
+        "sentence_cn": "- 2010 年为 5.57 亿加仑。",
+        "words": [
+            "557.0",
+            "million",
+            "gallons",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 542.3 million gallons in 2011.",
+        "sentence_cn": "- 2011 年为 5.423 亿加仑。",
+        "words": [
+            "542.3",
+            "million",
+            "gallons",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Organic Flavored Milk:",
+        "sentence_cn": "- 有机调味牛奶：",
+        "words": [
+            "Organic Flavored Milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 13.3 million gallons in 2010.",
+        "sentence_cn": "- 2010 年为 1330 万加仑。",
+        "words": [
+            "13.3",
+            "million",
+            "gallons",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 11.3 million gallons in 2011.",
+        "sentence_cn": "- 2011 年为 1130 万加仑。",
+        "words": [
+            "11.3",
+            "million",
+            "gallons",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### 5. Supermarket Milk Share Declines",
+        "sentence_cn": "#### 5. 超市牛奶份额下降",
+        "words": [
+            "Supermarket Milk Share Declines",
+            "#",
+            "#",
+            "#",
+            "#",
+            "5",
+            "Supermarket",
+            "Milk",
+            "Share",
+            "Declines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Consistent decrease from 44.6% in 2008 to 42.8% in 2011.",
+        "sentence_cn": "- 从 2008 年的 44.6% 持续下降至 2011 年的 42.8%。",
+        "words": [
+            "decrease",
+            "44.6",
+            "2008",
+            "42.8",
+            "%",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### 6. Growth in Organic Milk Sales",
+        "sentence_cn": "#### 6. 有机牛奶销量增长",
+        "words": [
+            "Growth in Organic Milk Sales",
+            "#",
+            "#",
+            "#",
+            "#",
+            "6",
+            "Growth",
+            "Milk",
+            "Sales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 57% growth in club stores in 2011.",
+        "sentence_cn": "- 2011年俱乐部商店增长57%。",
+        "words": [
+            "57",
+            "growth",
+            "club",
+            "stores",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 6% increase in natural food stores.",
+        "sentence_cn": "- 天然食品储存增加6%。",
+        "words": [
+            "6",
+            "increase",
+            "food",
+            "stores"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Insights:",
+        "sentence_cn": "### 其他见解：",
+        "words": [
+            "Insights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Share of Total Milk Sales in 2011 (Pie Chart):",
+        "sentence_cn": "- 2011 年牛奶总销量份额 (饼图)：",
+        "words": [
+            "Share of Total Milk Sales in 2011",
+            "Share",
+            "Milk",
+            "Sales",
+            "2011",
+            "Pie",
+            "Chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Food Retail: 42.8%",
+        "sentence_cn": "- 食品零售：42.8%",
+        "words": [
+            "Food",
+            "Retail",
+            "42.8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Mass Merchandisers: 14.2%",
+        "sentence_cn": "- 大众商品零售店：14.2%",
+        "words": [
+            "14.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Foodservice: 14.1%",
+        "sentence_cn": "- 餐饮服务：14.1%",
+        "words": [
+            "Foodservice",
+            "14.1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Schools: 7.2%",
+        "sentence_cn": "- 学校：7.2%",
+        "words": [
+            "Schools",
+            "7.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - C-Stores: 7.0%",
+        "sentence_cn": "- 便利店：7.0%",
+        "words": [
+            "7.0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Club Stores: 4.5%",
+        "sentence_cn": "- 俱乐部商店：4.5%",
+        "words": [
+            "Club",
+            "4.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Small Grocery: 6.4%",
+        "sentence_cn": "- 小型杂货店：6.4%",
+        "words": [
+            "6.4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Drug Stores: 2.1%",
+        "sentence_cn": "- 药店：2.1%",
+        "words": [
+            "Drug",
+            "2.1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Other Retail: 3.0%",
+        "sentence_cn": "- 其他零售：3.0%",
+        "words": [
+            "3.0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Shrink, etc. 2.2%",
+        "sentence_cn": "- 收缩等 2.2%",
+        "words": [
+            "Shrink",
+            "2.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Natural Food Stores¡¯ Milk Sales:",
+        "sentence_cn": "- 天然食品店的牛奶销售：",
+        "words": [
+            "Natural Food Stores¡¯ Milk Sales",
+            "Milk",
+            "Sales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 53.9% Organic.",
+        "sentence_cn": "-53.9% 有机。",
+        "words": [
+            "53.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 34.3% White Milk.",
+        "sentence_cn": "- 34.3% 白牛奶。",
+        "words": [
+            "34.3",
+            "Milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 11.8% Other.",
+        "sentence_cn": "- 11.8% 其他。",
+        "words": [
+            "11.8",
+            "Other"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Commentary from MilkPEP Webinar:",
+        "sentence_cn": "- MilkPEP 网络研讨会评论：",
+        "words": [
+            "Commentary from MilkPEP Webinar",
+            "Commentary",
+            "Webinar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- \"Mass merchant sales of milk declined in 2011, the first time since this reporting began.",
+        "sentence_cn": "- “2011 年大众商家的牛奶销量出现下滑，这是本报告开始以来的首次。",
+        "words": [
+            "merchant",
+            "sales",
+            "milk",
+            "2011",
+            "time",
+            "reporting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The 2.3% decline translated into a loss of 21 million gallons.\"",
+        "sentence_cn": "2.3%的下降意味着损失了2100万加仑。”",
+        "words": [
+            "2.3",
+            "decline",
+            "loss",
+            "21",
+            "million",
+            "gallons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This infographic details the trends and changes in the milk market, highlighting the growth of organic milk against the backdrop of a general decline in total milk sales.",
+        "sentence_cn": "该信息图详细介绍了牛奶市场的趋势和变化，强调了在牛奶总体销量普遍下降的背景下有机牛奶的增长。",
+        "words": [
+            "trends",
+            "changes",
+            "milk",
+            "market",
+            "growth",
+            "milk",
+            "backdrop",
+            "decline",
+            "milk",
+            "sales"
+        ],
+        "id": null
+    }
+]

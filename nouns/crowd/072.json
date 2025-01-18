@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image depicts a festive indoor scene with two children engaged in play.",
+        "sentence_cn": "图片描绘的是室内的节日场景，其中两个孩子正在玩耍。",
+        "words": [
+            "scene",
+            "two",
+            "children",
+            "play"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are standing in front of a brick wall decorated with evergreen garlands and multicolored string lights, reminiscent of a Christmas setting.",
+        "sentence_cn": "他们站在一面砖墙前，墙上装饰着常青花环和五颜六色的灯串，让人想起圣诞节的场景。",
+        "words": [
+            "front",
+            "brick",
+            "wall",
+            "garlands",
+            "string",
+            "lights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are interacting with an orange toy racetrack, which they are setting between two plastic storage bins with lids.",
+        "sentence_cn": "孩子们正在与一个橙色的玩具赛道互动，他们将其设置在两个带盖子的塑料储物箱之间。",
+        "words": [
+            "children",
+            "toy",
+            "racetrack",
+            "two",
+            "storage",
+            "bins",
+            "lids"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are dressed in formal attire, wearing white shirts and dark vests.",
+        "sentence_cn": "孩子们都穿着正式服装，白衬衫和深色背心。",
+        "words": [
+            "children",
+            "attire",
+            "shirts",
+            "vests"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of them has light brown hair, while the other has reddish hair.",
+        "sentence_cn": "其中一个有着浅棕色的头发，而另一个有着红色的头发。",
+        "words": [
+            "One",
+            "hair",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a small Christmas tree adorned with green and blue ornaments and lights.",
+        "sentence_cn": "背景中有一棵小圣诞树，上面装饰着绿色和蓝色的饰品和灯饰。",
+        "words": [
+            "background",
+            "tree",
+            "ornaments",
+            "lights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fireplace or stove is topped with plush toys, which adds a cozy, playful feel.",
+        "sentence_cn": "壁炉或火炉上放有毛绒玩具，增添了温馨、有趣的感觉。",
+        "words": [
+            "fireplace",
+            "stove",
+            "toys",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A red and green stocking hangs nearby, and a reindeer plush toy is prominently displayed.",
+        "sentence_cn": "附近挂着一只红绿色的长袜，一只驯鹿毛绒玩具显眼地摆放着。",
+        "words": [
+            "stocking",
+            "reindeer",
+            "toy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the side, there's a wooden shelf holding toys and craft materials, including a red bucket containing various items, and Play-Doh containers are visible on another shelf.",
+        "sentence_cn": "侧面有一个木架子，上面放着玩具和手工材料，包括一个装有各种物品的红色桶，另一个架子上还放着一些 Play-Doh 容器。",
+        "words": [
+            "shelf",
+            "toys",
+            "craft",
+            "materials",
+            "bucket",
+            "items",
+            "containers",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A green toy resembling an animal is seen on the floor.",
+        "sentence_cn": "地板上有一个形状像动物的绿色玩具。",
+        "words": [
+            "toy",
+            "animal",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is warm and festive, suggesting a holiday celebration.",
+        "sentence_cn": "整体氛围热烈、喜庆，像是在举行节日庆祝。",
+        "words": [
+            "atmosphere",
+            "holiday",
+            "celebration"
+        ],
+        "id": null
+    }
+]

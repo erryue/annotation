@@ -1,0 +1,148 @@
+[
+    {
+        "sentence": "The image is a webpage from The Patients Association.",
+        "sentence_cn": "该图片是患者协会的网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top left, there's a logo with the initials \"PA.\"",
+        "sentence_cn": "左上角有一个带有首字母“PA”的标志。",
+        "words": [
+            "PA.",
+            "left",
+            "logo",
+            "initials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to it, the helpline information is provided: a phone number and email address.",
+        "sentence_cn": "旁边提供了帮助热线信息：电话号码和电子邮件地址。",
+        "words": [
+            "helpline",
+            "information",
+            "phone",
+            "number",
+            "email",
+            "address"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The slogan \"Listening to Patients, Speaking up for Change\" is displayed.",
+        "sentence_cn": "展示了“倾听患者心声，呼吁改变”的口号。",
+        "words": [
+            "Listening to Patients, Speaking up for Change",
+            "slogan",
+            "Patients",
+            "Change"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Social media icons for Facebook, Twitter, and email are aligned below.",
+        "sentence_cn": "Facebook、Twitter 和电子邮件的社交媒体图标排列如下。",
+        "words": [
+            "media",
+            "icons",
+            "email"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s a search bar with the instruction to enter a search term.",
+        "sentence_cn": "有一个搜索栏，其中有输入搜索词的说明。",
+        "words": [
+            "search",
+            "bar",
+            "instruction",
+            "search",
+            "term"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A horizontal navigation menu includes links to: About Us, Helpline, Policy & Campaigns, Projects, Press Release, Publications, Get involved, and Contact Us.",
+        "sentence_cn": "水平导航菜单包含以下链接：关于我们、帮助热线、政策与活动、项目、新闻稿、出版物、参与和联系我们。",
+        "words": [
+            "navigation",
+            "menu",
+            "links",
+            "Helpline",
+            "Projects",
+            "Press"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A highlighted section announces a short survey in response to an inquiry into primary care, with a \"Click here for the survey\" button.",
+        "sentence_cn": "突出显示的部分宣布进行一项针对初级保健询问的简短调查，并带有“单击此处进行调查”按钮。",
+        "words": [
+            "Click here for the survey",
+            "section",
+            "survey",
+            "response",
+            "inquiry",
+            "care",
+            "survey",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An illustration shows people seated at a table with colorful speech bubbles above them.",
+        "sentence_cn": "插图显示人们坐在桌边，上方有彩色的气泡。",
+        "words": [
+            "illustration",
+            "people",
+            "table",
+            "speech",
+            "bubbles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there are sections with icons related to donations, membership, helpline contact, and newsletter sign-up.",
+        "sentence_cn": "下面，有与捐赠、会员、热线联系方式和新闻通讯注册相关的图标部分。",
+        "words": [
+            "sections",
+            "icons",
+            "donations",
+            "membership",
+            "helpline",
+            "contact",
+            "newsletter",
+            "sign",
+            "up"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each section has a button like \"Make a donation,\" \"Join us,\" \"Contact us,\" or \"Sign up.\"",
+        "sentence_cn": "每个部分都有一个按钮，如“捐款”、“加入我们”、“联系我们”或“注册”。",
+        "words": [
+            "Make a donation,",
+            "Join us,",
+            "Contact us,",
+            "Sign up.",
+            "section",
+            "button",
+            "donation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a title for \"Latest News\" in a turquoise-colored bar.",
+        "sentence_cn": "在底部，有一个用青绿色栏标示的“最新新闻”标题。",
+        "words": [
+            "Latest News",
+            "bottom",
+            "title",
+            "bar"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a serene coastal scene with a single sheep standing on a grassy cliff.",
+        "sentence_cn": "图像描绘了一片宁静的海岸景色，一只绵羊站在草崖上。",
+        "words": [
+            "scene",
+            "sheep",
+            "cliff"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground shows the sheep grazing on sparse grass, surrounded by patches of earth.",
+        "sentence_cn": "前景显示羊群在稀疏的草地上吃草，周围是一片片的土地。",
+        "words": [
+            "foreground",
+            "sheep",
+            "grass",
+            "patches",
+            "earth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the cliffs stretch out towards the sea, which is calm and expansive, occupying a large portion of the image.",
+        "sentence_cn": "背景中，悬崖延伸至平静而宽阔的大海，占据了画面的很大一部分。",
+        "words": [
+            "background",
+            "cliffs",
+            "sea",
+            "portion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, lending a muted, tranquil tone to the scene.",
+        "sentence_cn": "天空阴云密布，给场景带来一种柔和、宁静的色调。",
+        "words": [
+            "sky",
+            "tone",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Waves gently break against the distant shore, and a distinctive rock formation juts out into the sea, adding depth and interest to the coastal landscape.",
+        "sentence_cn": "海浪轻轻地拍打着远处的海岸，独特的岩石结构伸入海中，为海岸景观增添了深度和趣味。",
+        "words": [
+            "Waves",
+            "shore",
+            "rock",
+            "formation",
+            "sea",
+            "depth",
+            "interest",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is peaceful and natural, showcasing the raw beauty of the coastline.",
+        "sentence_cn": "整体氛围宁静而自然，展现了海岸线的原始之美。",
+        "words": [
+            "atmosphere",
+            "beauty",
+            "coastline"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image is a screenshot of a news article titled \"Cosplayer of the Week: Yaya Han\" by Kristine Hutter, published on March 10, 2017, at 12:02 PM.",
+        "sentence_cn": "该图片是 Kristine Hutter 撰写的一篇新闻文章《本周 Cosplayer：Yaya Han》的截图，发布于 2017 年 3 月 10 日 12:02。",
+        "words": [
+            "Cosplayer of the Week: Yaya Han",
+            "news",
+            "article",
+            "10",
+            "2017",
+            "12:02",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The article discusses Yaya Han's early presence at the 1999 Anime Expo and her rise to prominence in the cosplay industry.",
+        "sentence_cn": "本文讨论了 Yaya Han 在 1999 年动漫博览会上的早期亮相以及她在角色扮演行业的崛起。",
+        "words": [
+            "article",
+            "presence",
+            "1999",
+            "rise",
+            "prominence",
+            "cosplay",
+            "industry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights her creativity and dedication to paying homage to her favorite characters.",
+        "sentence_cn": "它凸显了她的创造力和对向她最喜欢的角色致敬的奉献精神。",
+        "words": [
+            "creativity",
+            "dedication",
+            "homage",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the text, there's an image of a woman in a detailed costume.",
+        "sentence_cn": "文字下方是一幅身着精致服装的女人图像。",
+        "words": [
+            "text",
+            "woman",
+            "costume"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The costume appears to be inspired by a character from a popular series, featuring a light blue and gold design with intricate details.",
+        "sentence_cn": "这套服装似乎是受到热门系列剧中角色的启发，以浅蓝色和金色设计为主，细节精致。",
+        "words": [
+            "costume",
+            "character",
+            "series",
+            "design",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman has buns styled in her hair and is posing with her arm raised.",
+        "sentence_cn": "这名女子头发扎成发髻，举起手臂摆出姿势。",
+        "words": [
+            "woman",
+            "buns",
+            "hair",
+            "arm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also an advertisement at the bottom for a football live score app.",
+        "sentence_cn": "底部还有一个足球实时比分应用程序的广告。",
+        "words": [
+            "bottom",
+            "football",
+            "score",
+            "app"
+        ],
+        "id": null
+    }
+]

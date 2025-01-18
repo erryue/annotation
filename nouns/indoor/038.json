@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image depicts a cozy, well-lit playroom with a vibrant atmosphere.",
+        "sentence_cn": "图片描绘的是一间舒适、光线充足、气氛活跃的游戏室。",
+        "words": [
+            "playroom",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is covered with a bright pink carpet, adding a cheerful aspect to the space.",
+        "sentence_cn": "地板上铺着明亮的粉色地毯，给空间增添了欢快的气氛。",
+        "words": [
+            "floor",
+            "carpet",
+            "aspect",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several wooden toys, including a large dollhouse and other smaller figures that suggest imaginative play.",
+        "sentence_cn": "前景中有几个木制玩具，包括一个大娃娃屋和其他一些较小的玩偶，以激发想象力。",
+        "words": [
+            "foreground",
+            "toys",
+            "dollhouse",
+            "figures",
+            "play"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Along the right side of the room, there is a wooden bench where a child in patterned pajamas is sitting, interacting with other children nearby.",
+        "sentence_cn": "房间的右侧有一张木凳，一个穿着图案睡衣的孩子坐在上面，与附近的其他孩子互动。",
+        "words": [
+            "room",
+            "bench",
+            "child",
+            "pajamas",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a guitar case leans against a wall, adding a musical element to the room's ambiance.",
+        "sentence_cn": "左边，一个吉他盒靠在墙上，为房间的氛围增添了音乐元素。",
+        "words": [
+            "left",
+            "guitar",
+            "case",
+            "wall",
+            "element",
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the window sill, colorful bunting flags are strung across, contributing to the playful and festive atmosphere.",
+        "sentence_cn": "窗台上方挂满了五颜六色的彩旗，增添了欢乐喜庆的气氛。",
+        "words": [
+            "window",
+            "sill",
+            "bunting",
+            "flags",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The large windows in the background bring in natural light, with a view of greenery outside, enhancing the room's airy and open feel.",
+        "sentence_cn": "背景中的大窗户引入自然光，可以欣赏到外面的绿色植物，增强了房间通风和开放的感觉。",
+        "words": [
+            "windows",
+            "background",
+            "light",
+            "view",
+            "greenery",
+            "room",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various baskets and storage containers are visible, likely holding toys or craft supplies, indicating that the space is designed for creativity and play.",
+        "sentence_cn": "可以看到各种篮子和储物箱，里面可能装有玩具或工艺品，表明该空间是为创造力和娱乐而设计的。",
+        "words": [
+            "baskets",
+            "storage",
+            "containers",
+            "toys",
+            "craft",
+            "supplies",
+            "space",
+            "creativity",
+            "play"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room feels inviting and child-friendly, providing a welcoming environment for children to engage and explore.",
+        "sentence_cn": "总体而言，房间给人一种温馨、儿童友好的感觉，为孩子们参与和探索提供了一个温馨的环境。",
+        "words": [
+            "room",
+            "child",
+            "environment",
+            "children"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image shows a lively outdoor event, likely a festival or fair, with numerous people seated on green picnic tables scattered across a grassy area.",
+        "sentence_cn": "照片显示的是一场热闹的户外活动，可能是节日或集市，许多人坐在草地上散落的绿色野餐桌上。",
+        "words": [
+            "event",
+            "festival",
+            "fair",
+            "people",
+            "picnic",
+            "tables",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The attendees are casually dressed, suggesting a relaxed atmosphere.",
+        "sentence_cn": "参加者都穿着休闲服装，气氛很轻松。",
+        "words": [
+            "attendees",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, large white tents are set up, under which more people are gathered.",
+        "sentence_cn": "背景中，搭建起了巨大的白色帐篷，帐篷下聚集了更多人。",
+        "words": [
+            "background",
+            "tents",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A stage under one of the tents features a performer, suggesting live entertainment is part of the event.",
+        "sentence_cn": "其中一个帐篷下的舞台上有一位表演者，表明现场娱乐也是活动的一部分。",
+        "words": [
+            "stage",
+            "one",
+            "tents",
+            "performer",
+            "entertainment",
+            "part",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, a windmill adds a rustic element to the scene.",
+        "sentence_cn": "左边的风车给场景增添了质朴的元素。",
+        "words": [
+            "left",
+            "windmill",
+            "element",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is partly cloudy but bright, indicating pleasant weather.",
+        "sentence_cn": "天空多云但明亮，预示着天气宜人。",
+        "words": [
+            "sky",
+            "weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also palm trees and other leafy trees visible, contributing to the outdoor ambiance.",
+        "sentence_cn": "还可以看到棕榈树和其他绿叶树，增添了户外氛围。",
+        "words": [
+            "palm",
+            "trees",
+            "trees",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall impression is of a cheerful, community-oriented gathering.",
+        "sentence_cn": "总体印象是一次欢乐的、以社区为导向的聚会。",
+        "words": [
+            "impression",
+            "community",
+            "gathering"
+        ],
+        "id": null
+    }
+]

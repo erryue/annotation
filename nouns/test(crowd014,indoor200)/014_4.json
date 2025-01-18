@@ -1,7 +1,7 @@
 [
     {
         "sentence": "The image depicts a group of six people casually interacting in a setting that appears to be an informal meeting or discussion.",
-        "sentence_cn": "该图描绘了六个人在看似非正式会议或讨论的场景中随意互动的场景。",
+        "sentence_cn": "该图描绘的是六个人在看似非正式会议或讨论的场景中随意互动。",
         "words": [
             "group",
             "six",
@@ -23,11 +23,12 @@
         "id": null
     },
     {
-        "sentence": "1. **Seated on the Sofa**:",
-        "sentence_cn": "1. **坐在沙发上**：",
+        "sentence": "1. Seated on the Sofa:",
+        "sentence_cn": "1. 坐在沙发上：",
         "words": [
             "Seated on the Sofa",
-            "Sofa"
+            "Sofa",
+            ""
         ],
         "id": null
     },
@@ -84,8 +85,8 @@
         "id": null
     },
     {
-        "sentence": "2. **Standing**:",
-        "sentence_cn": "2. **站立**：",
+        "sentence": "2. Standing:",
+        "sentence_cn": "2. 站立：",
         "words": [
             "Standing",
             "Standing"

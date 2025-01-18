@@ -1,0 +1,355 @@
+[
+    {
+        "sentence": "This image is a screenshot of a webpage from \"games-to-download.com\", featuring downloadable games for various categories.",
+        "sentence_cn": "此图片是“games-to-download.com”网页的截图，其中列出了各种类别的可下载游戏。",
+        "words": [
+            "games-to-download.com",
+            "webpage",
+            "games",
+            "categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Page Layout:",
+        "sentence_cn": "### 页面布局：",
+        "words": [
+            "Page",
+            "Layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header:",
+        "sentence_cn": "-标题：",
+        "words": [
+            "Header:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The website name \"games-to-download.com\" is at the top left, with the word \"games\" in red, \"to\" in green, and \"download\" in blue.",
+        "sentence_cn": "- 网站名称“games-to-download.com”位于左上角，其中“games”为红色，“to”为绿色，“download”为蓝色。",
+        "words": [
+            "games-to-download.com",
+            "games",
+            "to",
+            "download",
+            "website",
+            "name",
+            "word",
+            "games",
+            "red",
+            "to",
+            "green",
+            "download",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \".com\" is in light color.",
+        "sentence_cn": "“.com”是浅色的。",
+        "words": [
+            ".com",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Below the title, in yellow text: \"Games to Download for All Ages to Have Fun Safely\".",
+        "sentence_cn": "- 标题下方用黄色文字写着：“适合所有年龄段的人下载的游戏，让您安全享受乐趣”。",
+        "words": [
+            "Games to Download for All Ages to Have Fun Safely",
+            "title",
+            "text",
+            "Games",
+            "Ages",
+            "Fun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Welcome Section:",
+        "sentence_cn": "- 主要欢迎部分：",
+        "words": [
+            "Main Welcome Section:",
+            "Welcome",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A blue background section with the message: \"Welcome to Games to Download that you can trust!\"",
+        "sentence_cn": "- 蓝色背景部分带有消息：“欢迎来到您可以信赖的游戏下载！”",
+        "words": [
+            "Welcome to Games to Download that you can trust!",
+            "background",
+            "section",
+            "message"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Text in white: \"Games to Download offers downloadable games for you to play and have fun safely.\"",
+        "sentence_cn": "- 白色文字：“游戏下载”提供可下载的游戏，供您安全畅玩。”",
+        "words": [
+            "Games to Download offers downloadable games for you to play and have fun safely.",
+            "Text",
+            "white",
+            "Games",
+            "games",
+            "fun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The instructions: \"PICK YOUR GAME, DOWNLOAD GAME and HAVE FUN now!\" with \"PICK YOUR GAME\" in yellow, \"DOWNLOAD GAME\" in orange, and \"HAVE FUN\" in blue.",
+        "sentence_cn": "- 说明：“选择您的游戏，下载游戏并立即享受乐趣！”其中“选择您的游戏”为黄色，“下载游戏”为橙色，“享受乐趣”为蓝色。",
+        "words": [
+            "PICK YOUR GAME, DOWNLOAD GAME and HAVE FUN now!",
+            "PICK YOUR GAME",
+            "DOWNLOAD GAME",
+            "HAVE FUN",
+            "instructions",
+            "GAME",
+            "GAME",
+            "FUN",
+            "GAME",
+            "GAME",
+            "orange",
+            "FUN",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Game Categories:",
+        "sentence_cn": "- 游戏类别：",
+        "words": [
+            "Game Categories:",
+            "Game",
+            "Categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Displayed in a grid, some in gray background squares, some in white:",
+        "sentence_cn": "- 以网格形式显示，一些为灰色背景方块，一些为白色：",
+        "words": [
+            "grid",
+            "background",
+            "squares",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Action Games: Represented by a UFO shooting.",
+        "sentence_cn": "- 动作游戏：以UFO射击为代表。",
+        "words": [
+            "Action Games",
+            "shooting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Puzzles Games: Shows colorful spheres possibly indicating a matching game.",
+        "sentence_cn": "- 拼图游戏：显示彩色球体，可能表示匹配游戏。",
+        "words": [
+            "Puzzles Games",
+            "Puzzles",
+            "spheres",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Arcade Games: Features classic arcade-style pixel characters.",
+        "sentence_cn": "- 街机游戏：具有经典的街机风格像素角色。",
+        "words": [
+            "Arcade Games",
+            "arcade",
+            "style",
+            "pixel",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Cards Games: Illustrated with playing cards.",
+        "sentence_cn": "- 纸牌游戏：以扑克牌作为插图。",
+        "words": [
+            "Cards Games",
+            "Cards",
+            "playing",
+            "cards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Sports Games: Represented by a flag and football.",
+        "sentence_cn": "- 体育比赛：以一面旗帜和足球为代表。",
+        "words": [
+            "Sports Games",
+            "flag",
+            "football"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Simulation Games: Depicted by a rocket and stars.",
+        "sentence_cn": "- 模拟游戏：以火箭和星星为代表。",
+        "words": [
+            "Simulation Games",
+            "rocket",
+            "stars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Kids Games: Illustrated with child-like silhouettes.",
+        "sentence_cn": "- 儿童游戏：以儿童般的轮廓为插图。",
+        "words": [
+            "Kids Games",
+            "child",
+            "silhouettes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Strategy Games: Features chess pieces.",
+        "sentence_cn": "- 策略游戏：以棋子为特色。",
+        "words": [
+            "Strategy Games",
+            "chess",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Adventure Games: Depicted by a character riding a dragon.",
+        "sentence_cn": "- 冒险游戏：以骑龙的人物为描绘对象。",
+        "words": [
+            "Adventure Games",
+            "character",
+            "dragon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - PSP Games: Displayed with an image of a PSP console.",
+        "sentence_cn": "- PSP 游戏：以 PSP 控制台的图像显示。",
+        "words": [
+            "PSP Games",
+            "console"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Side Advertisements:",
+        "sentence_cn": "### 侧面广告：",
+        "words": [
+            "Advertisements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Ad:",
+        "sentence_cn": "- 顶部广告：",
+        "words": [
+            "Top Ad:",
+            "Ad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Image of a marketplace scene with a covered wagon and people.",
+        "sentence_cn": "- 带有篷车和人群的市场场景图像。",
+        "words": [
+            "Image",
+            "marketplace",
+            "scene",
+            "wagon",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above a red \"Play\" button.",
+        "sentence_cn": "上面有一个红色的“播放”按钮。",
+        "words": [
+            "Play",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Ad:",
+        "sentence_cn": "- 底部广告：",
+        "words": [
+            "Bottom Ad:",
+            "Ad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"CLICK KIDS\" with letters in colored blocks.",
+        "sentence_cn": "- “CLICK KIDS” 带有彩色块字母。",
+        "words": [
+            "CLICK KIDS",
+            "KIDS",
+            "letters",
+            "blocks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Text: \"Teaching KIDS One Click at a Time\" and \"Your Child Will Love To Learn\".",
+        "sentence_cn": "- 文字：“一次点击即可教孩子”和“您的孩子会喜欢学习”。",
+        "words": [
+            "Teaching KIDS One Click at a Time",
+            "Your Child Will Love To Learn",
+            "Text",
+            "KIDS",
+            "One",
+            "Click",
+            "Time",
+            "Child"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Image of a smiling child holding books, depicting a learning theme.",
+        "sentence_cn": "- 一个微笑的孩子手里拿着书的图像，描绘了一个学习主题。",
+        "words": [
+            "Image",
+            "child",
+            "books",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is colorful and playful, likely catering to a wide audience interested in casual downloadable games.",
+        "sentence_cn": "整体设计色彩丰富、充满趣味，很可能会满足对休闲可下载游戏感兴趣的广大受众的需求。",
+        "words": [
+            "design",
+            "audience",
+            "games"
+        ],
+        "id": null
+    }
+]

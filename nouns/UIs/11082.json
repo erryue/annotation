@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image shows a mobile app login screen for \"ticketpop.\"",
+        "sentence_cn": "该图显示了“ticketpop”的移动应用程序登录屏幕。",
+        "words": [
+            "ticketpop.",
+            "mobile",
+            "app",
+            "login",
+            "screen",
+            "ticketpop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is blue with a crowd of people at an event, raising their hands, suggesting a concert or festival atmosphere.",
+        "sentence_cn": "背景为蓝色，活动中的一群人举起手，暗示着音乐会或节日的气氛。",
+        "words": [
+            "background",
+            "crowd",
+            "people",
+            "event",
+            "hands",
+            "concert",
+            "festival",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there are app icons and a clock showing 12:24.",
+        "sentence_cn": "顶部有应用程序图标和显示 12:24 的时钟。",
+        "words": [
+            "top",
+            "app",
+            "icons",
+            "clock",
+            "12:24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below that, the ¡°ticketpop¡± logo features a stylized ticket graphic with a red ticket and yellow background.",
+        "sentence_cn": "在其下方，“ticketpop”标志采用风格化的票证图形，以红色票证和黄色背景呈现。",
+        "words": [
+            "logo",
+            "ticket",
+            "graphic",
+            "ticket",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two prominent red buttons are displayed for login options: \"Login with Facebook\" with a Facebook logo, and \"Connect with Email\" with an email icon.",
+        "sentence_cn": "显示两个显眼的红色按钮用于登录选项：“使用 Facebook 登录”带有 Facebook 徽标，以及“通过电子邮件连接”带有电子邮件图标。",
+        "words": [
+            "Login with Facebook",
+            "Connect with Email",
+            "Two",
+            "buttons",
+            "login",
+            "options",
+            "logo",
+            "email",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these buttons, there¡¯s text that says, \"By using this application, you agree to our Terms of Service and Privacy Policy,\" with clickable links.",
+        "sentence_cn": "在这些按钮下方，有文字“使用此应用程序，即表示您同意我们的服务条款和隐私政策”，并带有可点击的链接。",
+        "words": [
+            "By using this application, you agree to our Terms of Service and Privacy Policy,",
+            "buttons",
+            "text",
+            "application",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are options to \"Sign In\" or \"Skip.\"",
+        "sentence_cn": "在底部，有“登录”或“跳过”的选项。",
+        "words": [
+            "Sign In",
+            "Skip.",
+            "bottom",
+            "options"
+        ],
+        "id": null
+    }
+]

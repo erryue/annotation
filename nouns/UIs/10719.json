@@ -1,0 +1,138 @@
+[
+    {
+        "sentence": "The image is a combination of two puzzles and riddles.",
+        "sentence_cn": "该图像是两个谜题和谜语的组合。",
+        "words": [
+            "combination",
+            "two",
+            "puzzles",
+            "riddles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. The first puzzle, at the top, reads: \"What Starts With E Ends With E, Has Only One Letter In It?\"",
+        "sentence_cn": "1. 第一个谜题位于顶部，内容是：“什么以 E 开头，以 E 结尾，并且只有一个字母？”",
+        "words": [
+            "What Starts With E Ends With E, Has Only One Letter In It?",
+            "puzzle",
+            "top",
+            "One",
+            "Letter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is accompanied by an illustration of a man with a perplexed expression, scratching his head.",
+        "sentence_cn": "旁边附有一幅插图，画中一名男子一脸困惑，正抓着头。",
+        "words": [
+            "illustration",
+            "man",
+            "expression",
+            "head"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are three question marks above his head.",
+        "sentence_cn": "他的头顶上有三个问号。",
+        "words": [
+            "three",
+            "question",
+            "marks",
+            "head"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. The second puzzle, below, is a mathematical challenge: \"Take 1000 and add 40 to it.",
+        "sentence_cn": "2. 下面的第二个谜题是一个数学挑战：“取 1000 并加 40。",
+        "words": [
+            "puzzle",
+            "challenge",
+            "1000",
+            "40"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now add another 1000.",
+        "sentence_cn": "现在再添加 1000。",
+        "words": [
+            "1000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now add 30.",
+        "sentence_cn": "现在加 30。",
+        "words": [
+            "30"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Add another 1000.",
+        "sentence_cn": "再加1000。",
+        "words": [
+            "1000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now add 20.",
+        "sentence_cn": "现在加 20。",
+        "words": [
+            "20"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now add another 1000.",
+        "sentence_cn": "现在再添加 1000。",
+        "words": [
+            "1000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now add 10.",
+        "sentence_cn": "现在加 10。",
+        "words": [
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "What is the total?\"",
+        "sentence_cn": "总数是多少？”",
+        "words": [
+            "total"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background of the first puzzle is light blue, and the text is in bold red letters.",
+        "sentence_cn": "第一个谜题的背景是浅蓝色，文字是粗体红色字母。",
+        "words": [
+            "background",
+            "puzzle",
+            "text",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image includes social media sharing icons and an advertisement for a dating app at the bottom.",
+        "sentence_cn": "图片底部有社交媒体分享图标和约会应用程序的广告。",
+        "words": [
+            "media",
+            "sharing",
+            "icons",
+            "dating",
+            "app",
+            "bottom"
+        ],
+        "id": null
+    }
+]

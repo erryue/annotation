@@ -1,0 +1,59 @@
+[
+    {
+        "sentence": "The image depicts a polar bear walking away on a frozen, icy path.",
+        "sentence_cn": "图像描绘的是一只北极熊在冰冻的小路上行走。",
+        "words": [
+            "bear",
+            "path"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bear appears to be moving slowly over the smooth, reflective surface.",
+        "sentence_cn": "这只熊似乎正在光滑、反光的表面上缓慢移动。",
+        "words": [
+            "bear",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the path, there is a mix of snow and sparse brown vegetation, indicating a cold, tundra-like environment.",
+        "sentence_cn": "小路周围覆盖着积雪，还有稀疏的棕色植被，表明这里的环境寒冷，类似苔原。",
+        "words": [
+            "path",
+            "mix",
+            "snow",
+            "vegetation",
+            "tundra",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are some blurred, distant objects or animals, possibly other wildlife, against a backdrop of dark shrubs or low vegetation.",
+        "sentence_cn": "在背景中，有一些模糊的远处物体或动物，可能是其他野生动物，背景是黑暗的灌木或低矮的植被。",
+        "words": [
+            "background",
+            "objects",
+            "animals",
+            "wildlife",
+            "backdrop",
+            "shrubs",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a sense of solitude and wilderness in a cold climate.",
+        "sentence_cn": "整体场景传达出寒冷气候下的孤独和荒野的感觉。",
+        "words": [
+            "scene",
+            "sense",
+            "solitude",
+            "wilderness",
+            "climate"
+        ],
+        "id": null
+    }
+]

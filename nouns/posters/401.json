@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image is a promotional poster for \"The Brady Bunch Movie.\"",
+        "sentence_cn": "图片是《脱线家族》电影的宣传海报。",
+        "words": [
+            "The Brady Bunch Movie.",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features the cast standing on a wooden staircase.",
+        "sentence_cn": "画面中演员们站在木楼梯上。",
+        "words": [
+            "cast",
+            "staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The staircase is oddly positioned between two halves of a globe that are split apart.",
+        "sentence_cn": "楼梯奇怪地位于分开的两半球体之间。",
+        "words": [
+            "staircase",
+            "two",
+            "halves",
+            "globe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows a hole in the globe where the staircase is inserted.",
+        "sentence_cn": "背景显示了地球仪上插入楼梯的一个洞。",
+        "words": [
+            "background",
+            "hole",
+            "globe",
+            "staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cast is lined up along the staircase, showcasing a variety of bright, retro outfits reminiscent of the 1970s.",
+        "sentence_cn": "演员们沿着楼梯排成一排，展示了各种令人回想起 20 世纪 70 年代的明亮复古服装。",
+        "words": [
+            "cast",
+            "staircase",
+            "variety",
+            "outfits",
+            "1970s"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above them, the text reads, \"They're Back To Save America From The '90s.\"",
+        "sentence_cn": "他们上方的文字写着：“他们回来拯救美国，摆脱 90 年代的困境。”",
+        "words": [
+            "They're Back To Save America From The '90s.",
+            "text",
+            "'",
+            "90s"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the staircase, at the bottom of the poster, is the title \"The Brady Bunch Movie\" in colorful, playful lettering.",
+        "sentence_cn": "楼梯下方，海报底部，用色彩鲜艳、俏皮的字体写着“脱线家族电影”。",
+        "words": [
+            "The Brady Bunch Movie",
+            "staircase",
+            "bottom",
+            "poster",
+            "title",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster's design suggests a humorous, nostalgic theme, contrasting the style and norms of the 1970s with those of the 1990s.",
+        "sentence_cn": "海报的设计传达了一种幽默、怀旧的主题，将 20 世纪 70 年代的风格和规范与 20 世纪 90 年代的风格和规范进行了对比。",
+        "words": [
+            "poster",
+            "design",
+            "theme",
+            "style",
+            "norms",
+            "1970s",
+            "1990s"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also fine print at the bottom with credits and an MPAA rating of PG-13.",
+        "sentence_cn": "底部还有细则，注明了片尾字幕和 MPAA PG-13 评级。",
+        "words": [
+            "print",
+            "bottom",
+            "credits",
+            "rating",
+            "PG-13"
+        ],
+        "id": null
+    }
+]

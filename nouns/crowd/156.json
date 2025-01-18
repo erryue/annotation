@@ -1,0 +1,165 @@
+[
+    {
+        "sentence": "This image shows a lively street scene in what appears to be a European city, likely Venice, based on the architectural style.",
+        "sentence_cn": "这张图片展示了一个热闹的街景，根据其建筑风格来看，它看起来像是一个欧洲城市，很可能是威尼斯。",
+        "words": [
+            "street",
+            "scene",
+            "city",
+            "Venice",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several adults and children interacting.",
+        "sentence_cn": "有几个大人和小孩正在互动。",
+        "words": [
+            "adults",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Foreground:",
+        "sentence_cn": "1. 前景：",
+        "words": [
+            "Foreground:",
+            "Foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Two young children can be seen.",
+        "sentence_cn": "- 可以看到两个小孩。",
+        "words": [
+            "Two",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One child is sitting on the ground wearing a dark coat and another child is standing wearing a colorful winter hat and a blue coat with red pants.",
+        "sentence_cn": "一个孩子穿着深色外套坐在地上，另一个孩子站着，戴着五颜六色的冬帽，穿着蓝色外套和红色裤子。",
+        "words": [
+            "One",
+            "child",
+            "ground",
+            "coat",
+            "child",
+            "winter",
+            "hat",
+            "coat",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. People:",
+        "sentence_cn": "2. 人物：",
+        "words": [
+            "People:",
+            "People"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A man in an olive-green coat and a beanie is gesturing animatedly.",
+        "sentence_cn": "- 一位身穿橄榄绿外套、戴着无檐便帽的男子正生动地做着手势。",
+        "words": [
+            "man",
+            "coat",
+            "beanie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A woman in a dark quilted jacket stands smiling next to a person wearing a brown coat with a fur-trim on the hood.",
+        "sentence_cn": "- 一位身穿深色棉夹克的女士微笑地站在一位身穿棕色外套（帽子上有毛皮饰边）的人旁边。",
+        "words": [
+            "woman",
+            "jacket",
+            "person",
+            "coat",
+            "fur",
+            "trim",
+            "hood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Another woman, wearing a brown coat with toggles and fur-lined hood, is beaming while pushing a stroller, which contains a child covered with a blue blanket featuring yellow duck patterns.",
+        "sentence_cn": "- 另一名妇女身穿带有牛角扣和毛皮兜帽的棕色外套，笑容满面地推着一辆婴儿车，车里的孩子身上盖着一条带有黄色小鸭子图案的蓝色毯子。",
+        "words": [
+            "woman",
+            "coat",
+            "toggles",
+            "fur",
+            "hood",
+            "stroller",
+            "child",
+            "blanket",
+            "duck",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A fourth individual, wearing a dark coat and brown hat, is seen from behind and engaged with the group.",
+        "sentence_cn": "- 从后面看到第四个人，身穿深色外套，戴着棕色帽子，正在与这群人交谈。",
+        "words": [
+            "individual",
+            "coat",
+            "hat",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Background:",
+        "sentence_cn": "3. 背景：",
+        "words": [
+            "Background:",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The scene is set against a backdrop of rustic brick buildings with barred windows, typical of Venetian architecture.",
+        "sentence_cn": "- 场景以质朴的砖砌建筑为背景，这些建筑带有典型的威尼斯建筑风格，窗户为铁栅栏式。",
+        "words": [
+            "scene",
+            "backdrop",
+            "brick",
+            "buildings",
+            "windows",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A trolley with yellow handles is visible in the background, adding to the urban setting.",
+        "sentence_cn": "- 背景中可见带有黄色手柄的手推车，为城市环境增添色彩。",
+        "words": [
+            "trolley",
+            "handles",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group appears to be enjoying a casual and cheerful moment outdoors, dressed warmly for the possibly cool weather.",
+        "sentence_cn": "这群人看上去正在户外享受轻松愉快的时光，为了应对可能凉爽的天气，他们都穿得暖和。",
+        "words": [
+            "group",
+            "weather"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "sentence": "The image shows a pair of feet wearing classic high-top Converse sneakers, partly submerged in a pool.",
+        "sentence_cn": "图片显示，一双脚穿着经典高帮匡威运动鞋，部分浸没在泳池中。",
+        "words": [
+            "pair",
+            "feet",
+            "top",
+            "sneakers",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sneakers are a deep color, possibly maroon or dark red.",
+        "sentence_cn": "这双运动鞋颜色很深，可能是栗色或深红色。",
+        "words": [
+            "sneakers",
+            "color",
+            "maroon",
+            "red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water has a blue tint, giving the scene an underwater look with light reflections visible on the surface.",
+        "sentence_cn": "水呈蓝色，使场景看起来像是水下场景，水面上可以看到光的反射。",
+        "words": [
+            "water",
+            "tint",
+            "scene",
+            "look",
+            "reflections",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The words \"CONVERSE\" and \"Made by you\" are prominently displayed in the center of the image, suggesting an advertisement or promotional content.",
+        "sentence_cn": "图片中央显著显示“CONVERSE”和“Made by you”字样，暗示这是广告或促销内容。",
+        "words": [
+            "CONVERSE",
+            "Made by you",
+            "words",
+            "center",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image has an energetic and youthful vibe, with a fun and carefree atmosphere.",
+        "sentence_cn": "图像充满活力和青春气息，充满乐趣和无忧无虑的气氛。",
+        "words": [
+            "vibe",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

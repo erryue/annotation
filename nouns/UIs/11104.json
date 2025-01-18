@@ -1,0 +1,191 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot from an app or website for finding babysitters.",
+        "sentence_cn": "该图片似乎是一个寻找保姆的应用程序或网站的截图。",
+        "words": [
+            "app",
+            "website",
+            "babysitters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows a search page where users can look for a one-time babysitter.",
+        "sentence_cn": "它显示了一个搜索页面，用户可以在其中寻找一次性保姆。",
+        "words": [
+            "search",
+            "page",
+            "users",
+            "one",
+            "time",
+            "babysitter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a search bar and an option to enter a date for availability.",
+        "sentence_cn": "在顶部，有一个搜索栏和一个输入可用日期的选项。",
+        "words": [
+            "top",
+            "search",
+            "bar",
+            "option",
+            "date",
+            "availability"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top menu bar also displays icons and the time ¡°12:53¡±.",
+        "sentence_cn": "顶部菜单栏还显示图标和时间“12:53”。",
+        "words": [
+            "menu",
+            "bar",
+            "icons",
+            "time",
+            "12:53¡±."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below are profiles of babysitters:",
+        "sentence_cn": "以下是保姆的简介：",
+        "words": [
+            "profiles",
+            "babysitters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Kennette H.",
+        "sentence_cn": "1. 肯尼特 H.",
+        "words": [
+            "Kennette H."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Located in Oakland, CA, 13.8 miles away.",
+        "sentence_cn": "- 位于加利福尼亚州奥克兰，距离 13.8 英里。",
+        "words": [
+            "Oakland",
+            "CA",
+            "13.8",
+            "miles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Charging from $22 per hour.",
+        "sentence_cn": "- 每小时收费 22 美元起。",
+        "words": [
+            "22",
+            "hour"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has a five-star rating with 53 reviews and 20+ repeats.",
+        "sentence_cn": "- 拥有 53 条评论和 20 多次重复评论，获得五星评级。",
+        "words": [
+            "five",
+            "star",
+            "rating",
+            "53",
+            "reviews",
+            "20",
+            "repeats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Ziva H.",
+        "sentence_cn": "2. Ziva H.",
+        "words": [
+            "Ziva H.",
+            "Ziva",
+            "H."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Located in Parkside, 1.6 miles away.",
+        "sentence_cn": "- 位于Parkside，距离1.6英里。",
+        "words": [
+            "Parkside",
+            "1.6",
+            "miles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Charging from $25 per hour.",
+        "sentence_cn": "- 每小时收费25美元起。",
+        "words": [
+            "25",
+            "hour"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has a five-star rating with 234 reviews, 20+ repeats, and responds in 8 hours.",
+        "sentence_cn": "- 拥有 234 条评论、20+ 次重复且在 8 小时内回复的五星评级。",
+        "words": [
+            "five",
+            "star",
+            "rating",
+            "234",
+            "reviews",
+            "20",
+            "+",
+            "repeats",
+            "8",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes a \"Video Profile\" option.",
+        "sentence_cn": "- 包括“视频资料”选项。",
+        "words": [
+            "Video Profile",
+            "Profile",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Christine H.",
+        "sentence_cn": "3. 克里斯汀 H.",
+        "words": [
+            "Christine H."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Located in Daly City, CA, 1.7 miles away.",
+        "sentence_cn": "- 位于加利福尼亚州戴利城，距离 1.7 英里。",
+        "words": [
+            "Daly",
+            "City",
+            "CA",
+            "1.7",
+            "miles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a green bar with an option to \"Show Filters\" for refining the search results.",
+        "sentence_cn": "在底部，有一个绿色栏，其中有“显示过滤器”选项，用于优化搜索结果。",
+        "words": [
+            "Show Filters",
+            "bottom",
+            "bar",
+            "option",
+            "Filters",
+            "search",
+            "results"
+        ],
+        "id": null
+    }
+]

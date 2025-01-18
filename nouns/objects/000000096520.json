@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image features three plush teddy bears sitting in a row.",
+        "sentence_cn": "图片上是三只毛绒泰迪熊并排坐着。",
+        "words": [
+            "three",
+            "teddy",
+            "bears",
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each bear is light brown with a soft, fluffy texture and has pink accents on its ears and feet.",
+        "sentence_cn": "每只熊都是浅棕色，质地柔软蓬松，耳朵和脚上有粉红色的点缀。",
+        "words": [
+            "bear",
+            "texture",
+            "accents",
+            "ears",
+            "feet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bears are slightly different in style, but similar in appearance.",
+        "sentence_cn": "这些熊的风格略有不同，但外观相似。",
+        "words": [
+            "bears",
+            "style",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Bear: This bear has its paws positioned as if covering its eyes, with a pink ribbon tied around its neck.",
+        "sentence_cn": "1. 左边的熊：这只熊的爪子好像遮住了眼睛，脖子上系着一条粉色的丝带。",
+        "words": [
+            "Left Bear",
+            "bear",
+            "paws",
+            "eyes",
+            "ribbon",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Bear: This bear appears to be covering its mouth with its paws, and it also has a pink ribbon around its neck.",
+        "sentence_cn": "2. 中间的熊：这只熊似乎用爪子捂住了嘴，脖子上还系着一条粉红色的丝带。",
+        "words": [
+            "Middle Bear",
+            "bear",
+            "mouth",
+            "paws",
+            "ribbon",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right Bear: This bear has its paws resting normally and is adorned with a blue ribbon tied around its neck.",
+        "sentence_cn": "3. 右边的熊：这只熊的爪子正常休息，脖子上系着一条蓝色丝带。",
+        "words": [
+            "Right Bear",
+            "bear",
+            "paws",
+            "ribbon",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "All three are seated on a light-colored surface against a backdrop of vertical blinds, adding a cozy and charming feel to the scene.",
+        "sentence_cn": "三人都坐在浅色表面上，以垂直百叶窗为背景，为场景增添了舒适迷人的感觉。",
+        "words": [
+            "three",
+            "surface",
+            "backdrop",
+            "blinds",
+            "feel",
+            "scene"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image shows a combination of a laundry and bathroom area inside a somewhat rustic space.",
+        "sentence_cn": "图中显示的是一个略显质朴的空间内洗衣房和浴室区域的组合。",
+        "words": [
+            "combination",
+            "laundry",
+            "bathroom",
+            "area",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a white toilet with a standard design, positioned against a rough concrete wall.",
+        "sentence_cn": "右边有一个标准设计的白色马桶，靠在粗糙的混凝土墙上。",
+        "words": [
+            "right",
+            "toilet",
+            "design",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the toilet, on its left, is a white washing machine or laundry sink unit, which looks slightly worn with visible rust marks.",
+        "sentence_cn": "马桶旁边，左侧是一台白色的洗衣机或洗衣池，看起来略有磨损，有明显的锈迹。",
+        "words": [
+            "toilet",
+            "left",
+            "washing",
+            "machine",
+            "laundry",
+            "sink",
+            "unit",
+            "rust",
+            "marks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall above the sink, there is a window sill that holds various cleaning products, including bottles and containers.",
+        "sentence_cn": "水槽上方的墙上有一个窗台，上面摆放着各种清洁产品，包括瓶子和容器。",
+        "words": [
+            "wall",
+            "sink",
+            "window",
+            "sill",
+            "cleaning",
+            "products",
+            "bottles",
+            "containers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A shower curtain with blue square patterns is partially visible on the left side of the image, suggesting that this area might also serve as a shower space.",
+        "sentence_cn": "图像左侧可以部分看到带有蓝色方形图案的浴帘，这表明该区域也可能用作淋浴空间。",
+        "words": [
+            "shower",
+            "curtain",
+            "patterns",
+            "area",
+            "shower",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is bare concrete, enhancing the utilitarian and unfinished feel of the room.",
+        "sentence_cn": "地板是裸露的混凝土，增强了房间的实用性和未完成的感觉。",
+        "words": [
+            "floor",
+            "concrete",
+            "feel",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, a roll of toilet paper is mounted on the side of the washing unit, and a pair of headphones is hanging on the wall near the sink area.",
+        "sentence_cn": "此外，洗衣机侧面还安装有一卷卫生纸，水槽附近的墙上挂着一副耳机。",
+        "words": [
+            "roll",
+            "toilet",
+            "paper",
+            "washing",
+            "unit",
+            "pair",
+            "headphones",
+            "wall",
+            "sink",
+            "area"
+        ],
+        "id": null
+    }
+]

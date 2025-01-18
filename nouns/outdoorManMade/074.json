@@ -1,0 +1,76 @@
+[
+    {
+        "sentence": "The image showcases an expansive outdoor area with a luxurious swimming pool and a scenic landscape.",
+        "sentence_cn": "图片展示了一个广阔的室外区域，其中有一个豪华的游泳池和风景如画的景观。",
+        "words": [
+            "area",
+            "swimming",
+            "pool",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool has an irregular, freeform shape bordered by natural stone, featuring a connected spa area with a circular design.",
+        "sentence_cn": "游泳池呈不规则的自由形状，周围环绕着天然石材，并设有相连的圆形水疗区。",
+        "words": [
+            "pool",
+            "shape",
+            "stone",
+            "spa",
+            "area",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A waterfall element adds a touch of elegance to the setting.",
+        "sentence_cn": "瀑布元素给环境增添了一丝优雅。",
+        "words": [
+            "waterfall",
+            "element",
+            "touch",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several lounge chairs arranged on a spacious, beige-toned patio, inviting relaxation.",
+        "sentence_cn": "宽敞的米色露台上摆放着几张躺椅，让人放松身心。",
+        "words": [
+            "lounge",
+            "chairs",
+            "beige",
+            "patio",
+            "relaxation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the pool, there are green grassy areas with a variety of trees, adding to the natural, serene atmosphere.",
+        "sentence_cn": "泳池周围是绿色的草地和各种树木，增添了自然、宁静的氛围。",
+        "words": [
+            "pool",
+            "areas",
+            "variety",
+            "trees",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the distance, the landscape stretches out with a mixture of wooded areas and open green fields, creating a picturesque view under a clear blue sky with scattered clouds.",
+        "sentence_cn": "远处，树林和开阔的绿色田野交织在一起，在蓝天白云的映衬下，呈现出一幅如画的风景。",
+        "words": [
+            "distance",
+            "landscape",
+            "mixture",
+            "areas",
+            "fields",
+            "view",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    }
+]

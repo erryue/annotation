@@ -1,0 +1,275 @@
+[
+    {
+        "sentence": "The image is an advertisement flyer for Foodarama featuring a 3-day sale.",
+        "sentence_cn": "图片是 Foodarama 的广告传单，主打三天促销。",
+        "words": [
+            "flyer",
+            "3",
+            "day",
+            "sale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The theme is \"It's game time,\" focusing on various food items.",
+        "sentence_cn": "主题为“游戏时间到了”，重点关注各种食品。",
+        "words": [
+            "It's game time,",
+            "theme",
+            "game",
+            "time",
+            "food",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Left Section:",
+        "sentence_cn": "左部分：",
+        "words": [
+            "Left Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- USDA Bone-In Beef Ribeye Steak: Priced at $3.97 per pound.",
+        "sentence_cn": "- 美国农业部带骨牛排：每磅售价 3.97 美元。",
+        "words": [
+            "USDA Bone-In Beef Ribeye Steak:",
+            "Beef",
+            "Ribeye",
+            "Steak",
+            "3.97",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Boneless Skinless Chicken Breast: $1.37 per pound.",
+        "sentence_cn": "- 无骨无皮鸡胸肉：每磅 1.37 美元。",
+        "words": [
+            "Boneless Skinless Chicken Breast:",
+            "Chicken",
+            "Breast",
+            "1.37",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Texas Wild Caught Gulf White Raw Shrimp: $4.97 per pound.",
+        "sentence_cn": "- 德克萨斯州野生墨西哥湾白虾生虾：每磅 4.97 美元。",
+        "words": [
+            "Texas Wild Caught Gulf White Raw Shrimp:",
+            "Raw",
+            "Shrimp",
+            "4.97",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Country Style Pork Ribs: $0.77 per pound.",
+        "sentence_cn": "- 乡村风味排骨：每磅 0.77 美元。",
+        "words": [
+            "Country Style Pork Ribs:",
+            "Pork",
+            "Ribs",
+            "0.77",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Creamy Hass Avocados: $0.25 each (Avocados from Mexico).",
+        "sentence_cn": "- 奶油哈斯鳄梨：每个 0.25 美元（产自墨西哥的鳄梨）。",
+        "words": [
+            "Creamy Hass Avocados:",
+            "Avocados",
+            "0.25",
+            "Avocados",
+            "Mexico"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Garden Fresh Roma Tomatoes: $0.69 per pound.",
+        "sentence_cn": "- 花园新鲜罗马番茄：每磅 0.69 美元。",
+        "words": [
+            "Garden Fresh Roma Tomatoes:",
+            "Tomatoes",
+            "0.69",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Right Section:",
+        "sentence_cn": "右侧部分：",
+        "words": [
+            "Right Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ground Chuck Burger Patties: $1.88 per pound.",
+        "sentence_cn": "- 碎牛肉汉堡肉饼：每磅 1.88 美元。",
+        "words": [
+            "Patties",
+            "1.88",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- St. Louis Style Pork Ribs: $1.97 per pound.",
+        "sentence_cn": "- 圣路易斯风味排骨：每磅 1.97 美元。",
+        "words": [
+            "Ribs",
+            "1.97",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bud Light or Budweiser: 12-pack for $12.99.",
+        "sentence_cn": "- 百威淡啤或百威啤酒：12 瓶装，售价 12.99 美元。",
+        "words": [
+            "12",
+            "pack",
+            "12.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Coca-Cola products: Four 12-packs for $12.",
+        "sentence_cn": "- 可口可乐产品：四包12瓶装，售价12美元。",
+        "words": [
+            "products",
+            "Four",
+            "12",
+            "packs",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Foodarama Guacamole: 3 oz for $2.99.",
+        "sentence_cn": "- Foodarama 鳄梨酱：3 盎司，售价 2.99 美元。",
+        "words": [
+            "3",
+            "oz",
+            "2.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Foodarama Fresh Salsa: 16 oz for $1.99.",
+        "sentence_cn": "- Foodarama 新鲜莎莎酱：16 盎司，售价 1.99 美元。",
+        "words": [
+            "16",
+            "oz",
+            "1.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bottom Section:",
+        "sentence_cn": "底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Kraft Shredded or Chunk Cheese: 7-8 oz for $1.69.",
+        "sentence_cn": "- 卡夫碎奶酪或块奶酪：7-8 盎司，售价 1.69 美元。",
+        "words": [
+            "7",
+            "8",
+            "oz",
+            "1.69"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sparkletts Purified Drinking Water: 24-pack for $1.99.",
+        "sentence_cn": "- Sparkletts 纯净饮用水：24 瓶装，售价 1.99 美元。",
+        "words": [
+            "24",
+            "pack",
+            "1.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Promotion: Free Dr. Pepper 2-liter product when buying two.",
+        "sentence_cn": "- 促销：购买两瓶 Dr. Pepper 产品，免费获赠 2 升装。",
+        "words": [
+            "Promotion",
+            "2",
+            "liter",
+            "product",
+            "two"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Kraft Barbecue Sauce: 18-18.5 oz for $0.69.",
+        "sentence_cn": "- 卡夫烧烤酱：18-18.5 盎司，售价 0.69 美元。",
+        "words": [
+            "18",
+            "18.5",
+            "oz",
+            "0.69"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ritz Crackers: 11.6-13.7 oz for $1.59.",
+        "sentence_cn": "- Ritz 饼干：11.6-13.7 盎司，售价 1.59 美元。",
+        "words": [
+            "11.6",
+            "13.7",
+            "oz",
+            "1.59"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Velveeta Cheese: 32 oz for $5.99.",
+        "sentence_cn": "- Velveeta 奶酪：32 盎司，售价 5.99 美元。",
+        "words": [
+            "32",
+            "oz",
+            "5.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flyer notes that prices are effective from Wednesday, February 3 through Tuesday, February 9, 2016.",
+        "sentence_cn": "传单指出，价格有效期为 2016 年 2 月 3 日星期三至 2016 年 2 月 9 日星期二。",
+        "words": [
+            "flyer",
+            "prices",
+            "3",
+            "9",
+            "2016"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Foodarama logo and website \"foodaramatexas.com\" are included at the bottom.",
+        "sentence_cn": "底部包含 Foodarama 标志和网站“foodaramatexas.com”。",
+        "words": [
+            "foodaramatexas.com",
+            "logo",
+            "website",
+            "bottom"
+        ],
+        "id": null
+    }
+]

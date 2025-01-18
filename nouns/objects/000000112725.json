@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image shows a bowl filled with a colorful array of chopped vegetables.",
+        "sentence_cn": "图中碗里装满了各种切碎的颜色各异的蔬菜。",
+        "words": [
+            "bowl",
+            "array",
+            "vegetables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vegetables include:",
+        "sentence_cn": "蔬菜包括：",
+        "words": [
+            "vegetables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Red bell peppers, cut into small square pieces.",
+        "sentence_cn": "1. 红甜椒，切成小方块。",
+        "words": [
+            "bell",
+            "peppers",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Yellow bell peppers, also chopped into small squares.",
+        "sentence_cn": "2.黄甜椒，也切成小方块。",
+        "words": [
+            "bell",
+            "peppers",
+            "squares"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Zucchini, diced into cubes, showing the green skin and white interior.",
+        "sentence_cn": "3. 西葫芦切成方块，露出绿色的皮和白色的内部。",
+        "words": [
+            "Zucchini",
+            "cubes",
+            "skin",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Sliced white mushrooms, placed predominantly in one section.",
+        "sentence_cn": "4.白蘑菇切片，主要放在一个区域。",
+        "words": [
+            "mushrooms",
+            "one",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Broccoli florets, positioned to one side of the bowl.",
+        "sentence_cn": "5. 将西兰花小花放在碗的一侧。",
+        "words": [
+            "Broccoli",
+            "florets",
+            "one",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vegetables are neatly arranged within a white bowl, showcasing a vibrant mix of colors and textures.",
+        "sentence_cn": "蔬菜整齐地排列在白色的碗里，呈现出鲜艳的色彩和纹理。",
+        "words": [
+            "vegetables",
+            "bowl",
+            "mix",
+            "colors",
+            "textures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The photo's timestamp in the bottom left indicates it was taken on August 8, 2008, at 17:51.",
+        "sentence_cn": "照片左下角的时间戳显示拍摄时间为 2008 年 8 月 8 日 17:51。",
+        "words": [
+            "photo",
+            "timestamp",
+            "8",
+            "2008",
+            "17:51"
+        ],
+        "id": null
+    }
+]

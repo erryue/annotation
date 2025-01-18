@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image shows an underwater plaque located at Biscayne National Park¡¯s Maritime Heritage Trail.",
+        "sentence_cn": "图中显示的是位于比斯坎国家公园海洋遗产步道的一块水下牌匾。",
+        "words": [
+            "plaque"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plaque has text that includes \"Biscayne National Park\" and mentions \"19th Century Sailing Vessel.\"",
+        "sentence_cn": "牌匾上的文字包括“比斯坎国家公园”并提到“19 世纪帆船”。",
+        "words": [
+            "Biscayne National Park",
+            "19th Century Sailing Vessel.",
+            "plaque",
+            "text",
+            "Century"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plaque seems to be covered in a slight layer of algae or marine growth due to its underwater location.",
+        "sentence_cn": "由于位于水下，这块牌匾似乎被一层薄薄的藻类或海洋生物所覆盖。",
+        "words": [
+            "plaque",
+            "layer",
+            "algae",
+            "growth",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the plaque, there is a coral or rock formation.",
+        "sentence_cn": "斑块上方有珊瑚或岩层。",
+        "words": [
+            "plaque",
+            "coral",
+            "rock",
+            "formation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall colors are shades of green and blue, typical of underwater scenes.",
+        "sentence_cn": "整体色彩是绿色和蓝色的色调，典型的水下场景。",
+        "words": [
+            "colors",
+            "shades",
+            "green",
+            "blue",
+            "scenes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the image, there is a pink bar with a \"VISIT FLORIDA\" logo, suggesting this might be promotional or informational content.",
+        "sentence_cn": "在图片的顶部，有一个粉红色的条，上面有“VISIT FLORIDA”的标志，表明这可能是促销或信息内容。",
+        "words": [
+            "VISIT FLORIDA",
+            "top",
+            "bar",
+            "logo",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the main image, there are thumbnails of videos with play icons.",
+        "sentence_cn": "主图下方是带有播放图标的视频缩略图。",
+        "words": [
+            "thumbnails",
+            "videos",
+            "play",
+            "icons"
+        ],
+        "id": null
+    }
+]

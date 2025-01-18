@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image shows a breakfast tray containing a simple meal, placed on a textured glass surface.",
+        "sentence_cn": "图中显示的是放置在纹理玻璃表面上的早餐托盘，托盘中盛有简单的餐食。",
+        "words": [
+            "breakfast",
+            "tray",
+            "meal",
+            "glass",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tray is dark brown with a checkered pattern.",
+        "sentence_cn": "托盘是深棕色的，带有方格图案。",
+        "words": [
+            "tray",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the tray, there is:",
+        "sentence_cn": "托盘上有：",
+        "words": [
+            "tray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A small stack of toasted slices of whole wheat bread, placed on a white paper plate in the middle of the tray.",
+        "sentence_cn": "1. 将一小叠烤好的全麦面包片放在托盘中间的一个白色纸盘上。",
+        "words": [
+            "stack",
+            "slices",
+            "wheat",
+            "bread",
+            "paper",
+            "plate",
+            "middle",
+            "tray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A white mug filled with black coffee, positioned toward the top-left corner.",
+        "sentence_cn": "2. 一个白色杯子里装满了黑咖啡，放在左上角。",
+        "words": [
+            "mug",
+            "coffee",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A small plastic cup of fruit salad containing diced pieces of pineapple, located near the top-left corner.",
+        "sentence_cn": "3. 位于左上角附近的小塑料杯中装有水果沙拉，其中有切好的菠萝块。",
+        "words": [
+            "cup",
+            "fruit",
+            "salad",
+            "pieces",
+            "pineapple",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Two plastic packets of jam and two packets of margarine placed next to the fruit salad.",
+        "sentence_cn": "4. 两塑料包果酱和两包人造黄油放在水果沙拉旁边。",
+        "words": [
+            "Two",
+            "packets",
+            "jam",
+            "two",
+            "packets",
+            "margarine",
+            "fruit",
+            "salad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. A small clear plastic cup filled with orange juice, located at the bottom right corner.",
+        "sentence_cn": "5. 右下角有一个装满橙汁的小透明塑料杯。",
+        "words": [
+            "cup",
+            "orange",
+            "juice",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. A white plastic fork and a knife placed above the orange juice.",
+        "sentence_cn": "6. 一把白色塑料叉子和一把刀子放置在橙汁上方。",
+        "words": [
+            "fork",
+            "knife",
+            "orange",
+            "juice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This setup suggests a basic and functional breakfast presentation.",
+        "sentence_cn": "这种设置表明早餐的呈现方式是基本的、实用的。",
+        "words": [
+            "breakfast",
+            "presentation"
+        ],
+        "id": null
+    }
+]

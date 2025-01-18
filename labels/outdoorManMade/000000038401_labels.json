@@ -1,0 +1,24 @@
+[
+    {
+        "id": "27003ceb-86e9-46c1-b0c4-1a304c6538b2",
+        "confidence": 0.9205,
+        "class": "airplane",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 382.65665,
+                        "minY": 104.70043,
+                        "maxX": 481.32706,
+                        "maxY": 185.2473
+                    },
+                    "x": 382.65665,
+                    "y": 104.70043,
+                    "w": 98.67041,
+                    "h": 80.54687
+                }
+            }
+        }
+    }
+]

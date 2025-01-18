@@ -1,0 +1,328 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from a cheese store.",
+        "sentence_cn": "该图片是一家奶酪商店的网页截图。",
+        "words": [
+            "webpage",
+            "cheese",
+            "store"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Header:",
+        "sentence_cn": "标题：",
+        "words": [
+            "Header:",
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The logo includes the text \"CNS CHEESE\" with a whimsical font.",
+        "sentence_cn": "- 标志中包含“CNS CHEESE”文字和一种奇特的字体。",
+        "words": [
+            "CNS CHEESE",
+            "logo",
+            "text",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Contact information is displayed at the top right with a phone number, address, and fax number.",
+        "sentence_cn": "- 联系信息显示在右上角，包括电话号码、地址和传真号码。",
+        "words": [
+            "Contact",
+            "information",
+            "right",
+            "phone",
+            "number",
+            "address",
+            "fax",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Navigation Menu:",
+        "sentence_cn": "导航菜单：",
+        "words": [
+            "Navigation Menu:",
+            "Navigation",
+            "Menu"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Across the top, there¡¯s a navigation menu with links to \"Lunch Menu\" and \"Catering Menu.\"",
+        "sentence_cn": "- 顶部有一个导航菜单，其中有“午餐菜单”和“餐饮菜单”的链接。",
+        "words": [
+            "Lunch Menu",
+            "Catering Menu.",
+            "top",
+            "navigation",
+            "menu",
+            "links",
+            "Lunch",
+            "Catering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Content:",
+        "sentence_cn": "主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The page is organized with a central column featuring \"Featured Products For September.\"",
+        "sentence_cn": "- 该页面以“九月特色产品”为中心栏目。",
+        "words": [
+            "Featured Products For September.",
+            "page",
+            "column",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Various cheese-related products with images and options to ¡°more info¡± or ¡°buy now¡± are listed.",
+        "sentence_cn": "- 列出了各种奶酪相关产品，并附有图片以及“更多信息”或“立即购买”选项。",
+        "words": [
+            "cheese",
+            "products",
+            "images",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These include:",
+        "sentence_cn": "这些包括：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Thinking of You\" cheese gift arrangement",
+        "sentence_cn": "- “想念你”奶酪礼品安排",
+        "words": [
+            "Thinking of You",
+            "cheese",
+            "gift",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Cheese Tray - large\"",
+        "sentence_cn": "- “奶酪拼盘 - 大号”",
+        "words": [
+            "Cheese Tray - large"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Crudite large\" (a vegetable platter)",
+        "sentence_cn": "- “Crudite large”（蔬菜拼盘）",
+        "words": [
+            "Crudite large",
+            "vegetable",
+            "platter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Various specific cheeses like \"Aged Asiago,\" \"Abbaya de Belloc,\" \"Taleggio,\" and \"Nancy's Hudson Valley Camembert.\"",
+        "sentence_cn": "- 各种特定奶酪，如“Aged Asiago”、“Abbaya de Belloc”、“Taleggio”和“Nancy's Hudson Valley Camembert”。",
+        "words": [
+            "Aged Asiago,",
+            "Abbaya de Belloc,",
+            "Taleggio,",
+            "Nancy's Hudson Valley Camembert.",
+            "cheeses",
+            "Hudson",
+            "Valley",
+            "Camembert"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sidebars:",
+        "sentence_cn": "侧边栏：",
+        "words": [
+            "Sidebars:",
+            "Sidebars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Left Sidebar:",
+        "sentence_cn": "- 左侧边栏：",
+        "words": [
+            "Left Sidebar:",
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Features categories such as \"Aged Cheese,\" \"Artisan Cheese,\" \"Blue Cheese,\" etc.",
+        "sentence_cn": "- 特色类别包括“陈年奶酪”、“手工奶酪”、“蓝纹奶酪”等。",
+        "words": [
+            "Aged Cheese,",
+            "Artisan Cheese,",
+            "Blue Cheese,",
+            "Features",
+            "categories",
+            "Cheese",
+            "Cheese"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A \"What's New?\" section with a thumbnail image of \"Thinking of You\" priced at $0.00.",
+        "sentence_cn": "- “有什么新鲜事？”部分，其中有一张“想念你”的缩略图，售价为 0.00 美元。",
+        "words": [
+            "What's New?",
+            "Thinking of You",
+            "section",
+            "thumbnail",
+            "0.00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Right Sidebar:",
+        "sentence_cn": "- 右侧边栏：",
+        "words": [
+            "Right Sidebar:",
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Displays a \"Cart\" section, currently indicating \"0 items.\"",
+        "sentence_cn": "- 显示“购物车”部分，当前显示“0 件商品”。",
+        "words": [
+            "Cart",
+            "0 items.",
+            "Cart",
+            "section",
+            "0",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A \"Bestsellers\" list including items like \"Delice de Bourgogne\" and \"Prima Donna Aged Gouda.\"",
+        "sentence_cn": "- “畅销书”列表包括“Delice de Bourgogne”和“Prima Donna Aged Gouda”等商品。",
+        "words": [
+            "Bestsellers",
+            "Delice de Bourgogne",
+            "Prima Donna Aged Gouda.",
+            "Bestsellers",
+            "list",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A \"Quick Find\" section for searching products.",
+        "sentence_cn": "- 用于搜索产品的“快速查找”部分。",
+        "words": [
+            "Quick Find",
+            "Find",
+            "section",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - An \"Information\" section with links to shipping & returns, privacy notice, conditions of use, and contact us.",
+        "sentence_cn": "- “信息”部分，其中包含运输和退货、隐私声明、使用条件和联系我们的链接。",
+        "words": [
+            "Information",
+            "Information",
+            "section",
+            "links",
+            "shipping",
+            "returns",
+            "privacy",
+            "notice",
+            "conditions",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Footer:",
+        "sentence_cn": "页脚：",
+        "words": [
+            "Footer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Displays the date as \"Wednesday 02 September, 2015.\"",
+        "sentence_cn": "- 显示日期为“2015 年 9 月 2 日，星期三”。",
+        "words": [
+            "Wednesday 02 September, 2015.",
+            "date",
+            "02",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mentions \"E-commerce provided by Bitera CateringFirms.com Directory.\"",
+        "sentence_cn": "- 提及“由 Bitera CateringFirms.com 目录提供的电子商务。”",
+        "words": [
+            "E-commerce provided by Bitera CateringFirms.com Directory.",
+            "Mentions",
+            "E",
+            "-",
+            "commerce",
+            "Directory"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Shows the number \"1592874 requests.\"",
+        "sentence_cn": "- 显示数量“1592874 个请求”。",
+        "words": [
+            "1592874 requests.",
+            "number",
+            "1592874",
+            "requests"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design focuses on showcasing various cheese-related products available for purchase with easy navigation and detailed categorization.",
+        "sentence_cn": "该设计专注于展示可供购买的各种奶酪相关产品，并具有便捷的导航和详细的分类。",
+        "words": [
+            "design",
+            "cheese",
+            "products",
+            "purchase",
+            "navigation",
+            "categorization"
+        ],
+        "id": null
+    }
+]

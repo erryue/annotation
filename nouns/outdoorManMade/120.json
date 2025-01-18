@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image shows a city street flanked by tall buildings.",
+        "sentence_cn": "图中显示的是一条两侧高楼林立的城市街道。",
+        "words": [
+            "city",
+            "street",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The architecture is modern, with one building featuring a grid pattern of windows.",
+        "sentence_cn": "该建筑具有现代风格，其中一栋建筑的窗户呈网格状。",
+        "words": [
+            "architecture",
+            "one",
+            "building",
+            "grid",
+            "pattern",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several red banners hanging from poles line the street, advertising ¡°World Youth Day 2008.¡±",
+        "sentence_cn": "街道两旁的柱子上悬挂着几条红色横幅，上面写着“2008 年世界青年日”。",
+        "words": [
+            "banners",
+            "poles",
+            "street",
+            "°"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street, which appears to be well-maintained, has road markings including visible lane dividers.",
+        "sentence_cn": "这条街道看上去维护良好，有道路标记，包括可见的车道分隔线。",
+        "words": [
+            "street",
+            "road",
+            "markings",
+            "lane",
+            "dividers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A car is driving down the street, and a few pedestrians are walking on the sidewalks.",
+        "sentence_cn": "一辆汽车在街上行驶，几个行人在人行道上行走。",
+        "words": [
+            "car",
+            "street",
+            "pedestrians",
+            "sidewalks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The trees along the road are bare, suggesting it might be winter or early spring.",
+        "sentence_cn": "路边的树木光秃秃的，暗示着现在可能正值冬天或者初春。",
+        "words": [
+            "trees",
+            "road",
+            "winter",
+            "spring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a visible sign for a bank on one building, and people are going about their daily activities.",
+        "sentence_cn": "一栋建筑上显眼地挂着一家银行的招牌，人们正在忙着日常活动。",
+        "words": [
+            "sign",
+            "bank",
+            "one",
+            "building",
+            "people",
+            "activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene suggests a busy urban environment with structured traffic flow.",
+        "sentence_cn": "整体场景呈现繁忙的城市环境和有序的交通流。",
+        "words": [
+            "scene",
+            "environment",
+            "traffic",
+            "flow"
+        ],
+        "id": null
+    }
+]

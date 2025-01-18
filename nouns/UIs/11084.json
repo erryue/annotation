@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image shows a screen from the app \"iTooch 4th Grade Math.\"",
+        "sentence_cn": "该图显示了应用程序“iTooch 4th Grade Math”的屏幕。",
+        "words": [
+            "iTooch 4th Grade Math.",
+            "screen",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features cartoon-like characters with large, expressive eyes and smiley faces, one with a red bow.",
+        "sentence_cn": "背景是卡通人物，有着大大的、富有表现力的眼睛和笑脸，其中一个还戴着红色蝴蝶结。",
+        "words": [
+            "background",
+            "cartoon",
+            "characters",
+            "eyes",
+            "faces",
+            "one",
+            "bow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text \"Powered by eduPad\" appears at the bottom, suggesting the app's developer or company.",
+        "sentence_cn": "底部显示“Powered by eduPad”文字，提示该应用程序的开发商或公司。",
+        "words": [
+            "Powered by eduPad",
+            "text",
+            "bottom",
+            "app",
+            "developer",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center is a notification box with the error message: \"Download failed because the content could not be found,\" along with a \"Retry\" button.",
+        "sentence_cn": "中间是一个通知框，其中显示错误消息：“下载失败，因为找不到内容”，以及一个“重试”按钮。",
+        "words": [
+            "Download failed because the content could not be found,",
+            "Retry",
+            "center",
+            "notification",
+            "box",
+            "error",
+            "message",
+            "Download",
+            "content",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is mostly pink with some green elements resembling grass.",
+        "sentence_cn": "背景主要是粉红色，带有一些类似草的绿色元素。",
+        "words": [
+            "background",
+            "elements",
+            "grass"
+        ],
+        "id": null
+    }
+]

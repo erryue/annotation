@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image features a picturesque landscape with a lush, green hillside in the foreground.",
+        "sentence_cn": "该图片展现了一幅风景如画的风景，前景是郁郁葱葱的绿色山坡。",
+        "words": [
+            "landscape",
+            "hillside",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three horses are grazing on this verdant slope: one is white, another is dark brown, and the third is a lighter brown.",
+        "sentence_cn": "三匹马正在这片青翠的山坡上吃草：一匹是白色的，一匹是深棕色的，第三匹是浅棕色的。",
+        "words": [
+            "Three",
+            "horses",
+            "slope",
+            "one",
+            "brown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The hill is bathed in bright sunlight, which enhances the vividness of the grass.",
+        "sentence_cn": "山丘沐浴在明媚的阳光下，使小草显得更加鲜艳。",
+        "words": [
+            "hill",
+            "sunlight",
+            "vividness",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a densely vegetated hillside rises sharply, covered in thick shrubbery and patches of exposed rocky soil.",
+        "sentence_cn": "在背景中，一座植被茂密的山坡陡然升起，上面覆盖着厚厚的灌木丛和大片裸露的岩石土壤。",
+        "words": [
+            "background",
+            "hillside",
+            "shrubbery",
+            "patches",
+            "soil"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The vegetation appears to consist of small, densely packed bushes, creating a textured look across the hillside.",
+        "sentence_cn": "植被似乎由密集的小灌木组成，在山坡上形成了纹理外观。",
+        "words": [
+            "vegetation",
+            "bushes",
+            "look",
+            "hillside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The contrast between the sunlit meadow and the shadowed vegetation adds depth and dimension to the scene.",
+        "sentence_cn": "阳光照射的草地和阴影覆盖的植被之间的对比为场景增添了深度和立体感。",
+        "words": [
+            "contrast",
+            "meadow",
+            "vegetation",
+            "depth",
+            "dimension",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is one of tranquility and natural beauty.",
+        "sentence_cn": "整体氛围是宁静和自然美丽的。",
+        "words": [
+            "atmosphere",
+            "one",
+            "tranquility",
+            "beauty"
+        ],
+        "id": null
+    }
+]

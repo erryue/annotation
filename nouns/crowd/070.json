@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image shows three women in a clothing store.",
+        "sentence_cn": "图为三名妇女在一家服装店里。",
+        "words": [
+            "three",
+            "women",
+            "clothing",
+            "store"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left is wearing a white blouse and smiling while gesturing with her hand.",
+        "sentence_cn": "左边的女人穿着白色上衣，一边微笑一边挥手。",
+        "words": [
+            "woman",
+            "left",
+            "blouse",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman in the middle has long hair and is holding up a stripe-patterned green and brown top in front of her.",
+        "sentence_cn": "中间的女子有一头长发，手捧着一件绿色和棕色条纹的上衣。",
+        "words": [
+            "woman",
+            "middle",
+            "hair",
+            "stripe",
+            "top",
+            "front"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is laughing while looking towards the woman on the right.",
+        "sentence_cn": "她一边笑着，一边看向右边的女人。",
+        "words": [
+            "woman",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the right is also laughing, with her hand on the shoulder of the woman in the middle.",
+        "sentence_cn": "右边的女人也在笑，手放在中间女人的肩膀上。",
+        "words": [
+            "woman",
+            "right",
+            "hand",
+            "shoulder",
+            "woman",
+            "middle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be enjoying a casual shopping experience.",
+        "sentence_cn": "他们似乎正在享受休闲的购物体验。",
+        "words": [
+            "shopping",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a clothing rack with various garments, mostly in black and white, and a modern lamp hanging from the ceiling.",
+        "sentence_cn": "背景中，有一个衣架，上面挂着各种各样的衣服，大多是黑白色，天花板上悬挂着一盏现代灯。",
+        "words": [
+            "background",
+            "clothing",
+            "rack",
+            "garments",
+            "black",
+            "white",
+            "lamp",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a sense of friendship and enjoyment.",
+        "sentence_cn": "整体场景传达出一种友谊和快乐的感觉。",
+        "words": [
+            "scene",
+            "sense",
+            "friendship",
+            "enjoyment"
+        ],
+        "id": null
+    }
+]

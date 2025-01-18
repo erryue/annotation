@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "The image depicts a backyard scene with a group of four adults sitting around a round table covered with a red cloth.",
+        "sentence_cn": "图片描绘的是后院的场景，四个成年人围坐在一张铺着红布的圆桌旁。",
+        "words": [
+            "backyard",
+            "scene",
+            "group",
+            "four",
+            "adults",
+            "table",
+            "cloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are engaged in what appears to be a mealtime gathering, with red plates and various food items like fruit and salad bowls on the table.",
+        "sentence_cn": "他们似乎正在聚餐，桌上摆着红色的盘子和水果、沙拉碗等各种食物。",
+        "words": [
+            "mealtime",
+            "gathering",
+            "plates",
+            "food",
+            "items",
+            "fruit",
+            "salad",
+            "bowls",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a barbecue grill to the left, indicating a possible barbecue or cookout event.",
+        "sentence_cn": "左边有一个烧烤架，表示可能举行烧烤或户外野餐活动。",
+        "words": [
+            "barbecue",
+            "grill",
+            "left",
+            "barbecue",
+            "cookout",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of the adults is seated in a wheelchair, while the others are seated in regular chairs.",
+        "sentence_cn": "其中一名成年人坐在轮椅上，其他成年人则坐在普通椅子上。",
+        "words": [
+            "One",
+            "adults",
+            "wheelchair",
+            "others",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are conversing and appear to be enjoying the outdoor setting.",
+        "sentence_cn": "他们正在交谈，似乎很享受户外的景色。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a large white dog is lying on the brick patio, appearing relaxed.",
+        "sentence_cn": "前景中，一只大白狗躺在砖砌的露台上，看上去很放松​​。",
+        "words": [
+            "foreground",
+            "dog",
+            "brick",
+            "patio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, two children are playing on the lawn, adding to the family-friendly ambiance.",
+        "sentence_cn": "背景中，两个孩子在草坪上玩耍，增添了家庭友好的氛围。",
+        "words": [
+            "background",
+            "two",
+            "children",
+            "lawn",
+            "family",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The yard is well-maintained, with green grass and a yellow house partially visible.",
+        "sentence_cn": "院子保养得很好，绿草如茵，隐约可见一栋黄色的房子。",
+        "words": [
+            "yard",
+            "grass",
+            "house"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a sense of leisure and enjoyment among friends or family.",
+        "sentence_cn": "整体场景传达出一种与朋友或家人一起休闲和享受的感觉。",
+        "words": [
+            "scene",
+            "sense",
+            "leisure",
+            "enjoyment",
+            "friends",
+            "family"
+        ],
+        "id": null
+    }
+]

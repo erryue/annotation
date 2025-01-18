@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "The image is a creative advertisement by Australia Post.",
+        "sentence_cn": "图片是澳大利亚邮政的创意广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features a young woman embracing a figure made entirely of handwritten text.",
+        "sentence_cn": "画中是一位年轻女子拥抱着一个完全由手写文字构成的人物。",
+        "words": [
+            "woman",
+            "figure",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text covers the entire figure, forming the shape of a person hugging her back.",
+        "sentence_cn": "文字覆盖了整个人物，形成了一个拥抱她背部的人的形状。",
+        "words": [
+            "text",
+            "figure",
+            "shape",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text seems to be a personal letter, symbolizing the emotional and tactile connection letters can create.",
+        "sentence_cn": "这段文字看起来像一封私人信件，象征着信件可以建立的情感和触觉联系。",
+        "words": [
+            "text",
+            "letter",
+            "connection",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is smiling, enhancing the feeling of warmth and affection.",
+        "sentence_cn": "女人面带微笑，增添了温暖和爱意的感觉。",
+        "words": [
+            "woman",
+            "feeling",
+            "warmth",
+            "affection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the image, there's the Australia Post logo and the tagline: \"If you really want to touch someone, send them a letter,\" emphasizing the emotional impact of handwritten correspondence.",
+        "sentence_cn": "图片底部是澳大利亚邮政的标志和标语：“如果你真的想感动某人，就给他们发一封信”，强调了手写信件的情感影响。",
+        "words": [
+            "If you really want to touch someone, send them a letter,",
+            "bottom",
+            "logo",
+            "tagline",
+            "letter",
+            "impact",
+            "correspondence"
+        ],
+        "id": null
+    }
+]

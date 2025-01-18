@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Raiders of the Lost Ark,\" featuring a central illustration of the character Indiana Jones.",
+        "sentence_cn": "该图是《夺宝奇兵》的电影海报，以印第安纳琼斯为主角。",
+        "words": [
+            "Raiders of the Lost Ark,",
+            "movie",
+            "poster",
+            "illustration",
+            "character"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is depicted wearing his iconic fedora and leather jacket, holding a whip.",
+        "sentence_cn": "他头戴标志性的软呢帽，身穿皮夹克，手握鞭子。",
+        "words": [
+            "fedora",
+            "leather",
+            "jacket",
+            "whip"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has an adventurous and rugged aesthetic, with earthy tones and textures.",
+        "sentence_cn": "背景具有冒险和粗犷的美感，带有泥土的色调和纹理。",
+        "words": [
+            "background",
+            "aesthetic",
+            "tones",
+            "textures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the text reads: \"Indiana Jones¡ªthe new hero from the creators of JAWS and STAR WARS.\"",
+        "sentence_cn": "顶部的文字写着：“印第安纳琼斯——《大白鲨》和《星球大战》创作者打造的新英雄。”",
+        "words": [
+            "Indiana Jones¡ªthe new hero from the creators of JAWS and STAR WARS.",
+            "top",
+            "text",
+            "hero",
+            "creators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, the title \"Raiders of the Lost Ark\" is prominently displayed in a bold, dynamic font.",
+        "sentence_cn": "在其下方，标题“夺宝奇兵”以粗体、动态的字体突出显示。",
+        "words": [
+            "Raiders of the Lost Ark",
+            "title",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section showcases smaller, action-oriented scenes, including characters on a rope, a woman holding a torch, snakes, and an altar, capturing the adventurous spirit of the film.",
+        "sentence_cn": "底部展示了较小的、以动作为导向的场景，包括绳索上的人物、手持火炬的女人、蛇和祭坛，捕捉了电影的冒险精神。",
+        "words": [
+            "section",
+            "action",
+            "scenes",
+            "characters",
+            "rope",
+            "woman",
+            "torch",
+            "snakes",
+            "altar",
+            "spirit",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional information includes the film credits, with names such as Harrison Ford, Karen Allen, and Steven Spielberg, among others.",
+        "sentence_cn": "附加信息包括电影演职员表，其中包括哈里森·福特、卡伦·艾伦和史蒂文·斯皮尔伯格等人的名字。",
+        "words": [
+            "information",
+            "film",
+            "credits",
+            "names",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a PG rating note and a disclaimer about content suitability for children.",
+        "sentence_cn": "海报上有 PG 评级说明和关于内容适合儿童的免责声明。",
+        "words": [
+            "poster",
+            "rating",
+            "note",
+            "disclaimer",
+            "content",
+            "suitability",
+            "children"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image depicts a scenic view of a waterfall cascading over a dam.",
+        "sentence_cn": "该图描绘的是瀑布从水坝上飞流直下的美景。",
+        "words": [
+            "view",
+            "waterfall",
+            "dam"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structure of the dam is made of stone and features a series of steps where water flows down, creating a beautiful, multi-tiered effect.",
+        "sentence_cn": "大坝结构由石头构成，具有一系列台阶，水流向下流动，形成美丽的多层次效果。",
+        "words": [
+            "structure",
+            "dam",
+            "stone",
+            "series",
+            "steps",
+            "water",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the dam is an arched bridge made of stone and steel, spanning across the waterfall.",
+        "sentence_cn": "大坝上方是一座由石头和钢铁制成的拱桥，横跨瀑布。",
+        "words": [
+            "dam",
+            "bridge",
+            "stone",
+            "steel",
+            "waterfall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bridge has several arches and adds a historical and architectural element to the scene.",
+        "sentence_cn": "这座桥有几个拱门，为景色增添了历史和建筑元素。",
+        "words": [
+            "bridge",
+            "arches",
+            "element",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the waterfall are lush green trees and vegetation, indicating a natural setting.",
+        "sentence_cn": "瀑布周围有郁郁葱葱的绿树和植被，呈现出自然环境。",
+        "words": [
+            "waterfall",
+            "trees",
+            "vegetation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition highlights the harmonious blend of man-made structures with nature.",
+        "sentence_cn": "整体构图凸显了人造建筑与自然的和谐融合。",
+        "words": [
+            "composition",
+            "blend",
+            "man",
+            "structures",
+            "nature"
+        ],
+        "id": null
+    }
+]

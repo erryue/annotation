@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image shows four pieces of luggage lined up in front of a white shelving unit.",
+        "sentence_cn": "图中显示四件行李排列在白色搁架前。",
+        "words": [
+            "four",
+            "pieces",
+            "luggage",
+            "front",
+            "shelving",
+            "unit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "From left to right:",
+        "sentence_cn": "从左到右：",
+        "words": [
+            "left",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A black carry-on bag with a red tag on the flap.",
+        "sentence_cn": "1. 一个黑色的随身行李包，包盖上有红色标签。",
+        "words": [
+            "bag",
+            "tag",
+            "flap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A small, dark blue rolling suitcase with a handle.",
+        "sentence_cn": "2. 一个带手柄的深蓝色小型拉杆箱。",
+        "words": [
+            "suitcase",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A large, olive-green suitcase, also with wheels and a handle.",
+        "sentence_cn": "3. 一个大型的橄榄绿色手提箱，也带有轮子和把手。",
+        "words": [
+            "suitcase",
+            "wheels",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A larger, dark green suitcase with a quilted pattern, featuring brown leather straps and corners.",
+        "sentence_cn": "4. 较大的深绿色行李箱，带有绗缝图案，配有棕色皮带和角。",
+        "words": [
+            "suitcase",
+            "pattern",
+            "leather",
+            "straps",
+            "corners"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The shelving unit behind the luggage has various compartments, containing white boxes with labels, brown woven baskets, and a few books.",
+        "sentence_cn": "行李箱后面的搁架上有各种隔间，里面有带标签的白色盒子、棕色编织篮和几本书。",
+        "words": [
+            "shelving",
+            "unit",
+            "luggage",
+            "compartments",
+            "boxes",
+            "labels",
+            "baskets",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area has a hardwood floor with a large beige rug under the luggage.",
+        "sentence_cn": "该区域铺有硬木地板，行李下铺有一块米色大地毯。",
+        "words": [
+            "area",
+            "hardwood",
+            "floor",
+            "rug",
+            "luggage"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image shows a group of people sitting in a circle outdoors, in what appears to be a courtyard or public square.",
+        "sentence_cn": "照片显示，一群人围坐在户外，看起来像是一个庭院或公共广场。",
+        "words": [
+            "group",
+            "people",
+            "circle",
+            "courtyard",
+            "square"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are wearing traditional clothing, which includes blue caps, blue long-sleeved shirts, and intricately decorated vests or garments with colorful patterns on the back.",
+        "sentence_cn": "他们穿着传统服装，包括蓝色帽子、蓝色长袖衬衫、装饰精美的背心或背部有彩色图案的服装。",
+        "words": [
+            "clothing",
+            "caps",
+            "shirts",
+            "vests",
+            "garments",
+            "patterns",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some individuals are using small folding chairs, while others sit on the ground.",
+        "sentence_cn": "有些人使用小折叠椅，而其他人则坐在地上。",
+        "words": [
+            "individuals",
+            "folding",
+            "chairs",
+            "others",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is lit by sunlight, casting shadows on the ground.",
+        "sentence_cn": "场景被阳光照亮，在地面上投下阴影。",
+        "words": [
+            "scene",
+            "sunlight",
+            "shadows",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is wooden furniture, including a bench, suggesting a relaxed, communal setting.",
+        "sentence_cn": "背景中摆放着木制家具，包括一张长凳，体现出一种轻松、公共的环境。",
+        "words": [
+            "background",
+            "furniture",
+            "bench"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people seem engaged in conversation or resting.",
+        "sentence_cn": "人们似乎正在交谈或休息。",
+        "words": [
+            "people",
+            "conversation"
+        ],
+        "id": null
+    }
+]

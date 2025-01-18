@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image shows a landscape with two black cows standing near the edge of a small body of water.",
+        "sentence_cn": "照片中是一幅风景画，两头黑牛站在一小片水域的边缘。",
+        "words": [
+            "landscape",
+            "two",
+            "cows",
+            "edge",
+            "body",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows have red-colored ear tags, suggesting they may be part of a farm or ranch herd.",
+        "sentence_cn": "这些奶牛的耳标是红色的，这表明它们可能属于农场或牧场的牛群。",
+        "words": [
+            "cows",
+            "ear",
+            "tags",
+            "part",
+            "farm",
+            "ranch",
+            "herd"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their reflections are visible in the water, creating a mirrored effect.",
+        "sentence_cn": "它们的倒影在水中清晰可见，形成了镜面效果。",
+        "words": [
+            "reflections",
+            "water",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding environment is a grassy, open area with dry grass and a blue sky overhead, indicating a clear day.",
+        "sentence_cn": "周围的环境是一片草地，空旷的地方，干草成荫，头顶是蓝天，预示着天气晴朗。",
+        "words": [
+            "environment",
+            "area",
+            "grass",
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape in the background is rolling and sparse, suggesting a rural, possibly semi-arid setting.",
+        "sentence_cn": "背景中的景观起伏而稀疏，表明该地为乡村，可能为半干旱环境。",
+        "words": [
+            "landscape",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground includes some taller grasses, framing the scene.",
+        "sentence_cn": "前景包括一些较高的草，构成了场景。",
+        "words": [
+            "foreground",
+            "grasses",
+            "scene"
+        ],
+        "id": null
+    }
+]

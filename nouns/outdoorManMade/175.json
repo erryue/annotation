@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image depicts a striking scene of a large, blue swimming pool with crystal clear water.",
+        "sentence_cn": "图片描绘了一个令人惊叹的场景：一个巨大的蓝色游泳池，水质清澈见底。",
+        "words": [
+            "scene",
+            "swimming",
+            "pool",
+            "crystal",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there's a triangular, glass-roofed structure resembling a pyramid, which houses an indoor area, possibly a spa or recreation space.",
+        "sentence_cn": "在中心，有一个三角形的玻璃屋顶结构，形似金字塔，里面有一个室内区域，可能是水疗中心或娱乐空间。",
+        "words": [
+            "center",
+            "glass",
+            "structure",
+            "pyramid",
+            "area",
+            "spa",
+            "recreation",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding this structure on the pool deck are several lounge chairs neatly arranged, emphasizing a relaxing environment.",
+        "sentence_cn": "泳池甲板上的这个结构周围整齐地排列着几张躺椅，强调了轻松的环境。",
+        "words": [
+            "structure",
+            "pool",
+            "deck",
+            "lounge",
+            "chairs",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the glass structure are circular hot tubs or small pools connected by walkways",
+        "sentence_cn": "玻璃结构旁边是圆形热水浴缸或由走道连接的小型游泳池",
+        "words": [
+            "glass",
+            "structure",
+            "tubs",
+            "pools",
+            "walkways"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The entire area is bordered by railings, suggesting the area is a platform on the pool.",
+        "sentence_cn": "整个区域都由栏杆包围，表明该区域是泳池上的平台。",
+        "words": [
+            "area",
+            "railings",
+            "area",
+            "platform",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the bottom right, a small sailboat with a person on board glides across the bright blue water, adding a dynamic element to the scene.",
+        "sentence_cn": "右下角，一艘载着一个人的小帆船在湛蓝的水面上滑行，为场景增添了动感元素。",
+        "words": [
+            "right",
+            "sailboat",
+            "person",
+            "board",
+            "water",
+            "element",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance is serene and luxurious, typical of a high-end resort or vacation destination.",
+        "sentence_cn": "整体氛围宁静而豪华，是典型的高端度假村或度假胜地的风格。",
+        "words": [
+            "ambiance",
+            "end",
+            "resort",
+            "vacation",
+            "destination"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image is an advertisement for Au Bon Pain, a food and beverage brand.",
+        "sentence_cn": "图片是食品饮料品牌 Au Bon Pain 的广告。",
+        "words": [
+            "food",
+            "beverage",
+            "brand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It showcases four different espresso drinks, each presented in a cup with the Au Bon Pain logo.",
+        "sentence_cn": "它展示了四种不同的浓缩咖啡饮品，每种饮品都盛放在印有 Au Bon Pain 标志的杯子里。",
+        "words": [
+            "four",
+            "espresso",
+            "drinks",
+            "cup",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cups vary in size and are designed with a yellow and white color scheme.",
+        "sentence_cn": "杯子大小各异，采用黄色和白色的配色方案。",
+        "words": [
+            "cups",
+            "size",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a wooden tray holding the drinks, and each drink is topped with various garnishes like whipped cream and chocolate shavings.",
+        "sentence_cn": "有一个木托盘盛放饮料，每种饮料上面都配有各种装饰，如奶油和巧克力屑。",
+        "words": [
+            "tray",
+            "drinks",
+            "drink",
+            "garnishes",
+            "cream",
+            "chocolate",
+            "shavings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text above the image advertises that all espresso drinks are priced at $1.99.",
+        "sentence_cn": "图片上方的文字宣传所有浓缩咖啡饮料的价格均为 1.99 美元。",
+        "words": [
+            "text",
+            "espresso",
+            "drinks",
+            "1.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Facebook interface is visible, showing a \"Like Page\" button, with the page having 38,609 likes.",
+        "sentence_cn": "Facebook 界面可见，显示“赞页面”按钮，该页面已有 38,609 个赞。",
+        "words": [
+            "Like Page",
+            "interface",
+            "Page",
+            "button",
+            "page",
+            "38,609",
+            "likes"
+        ],
+        "id": null
+    }
+]

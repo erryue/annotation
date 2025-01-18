@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image shows an elderly couple engaged in a dance outdoors.",
+        "sentence_cn": "图为一对老年夫妇在户外跳舞。",
+        "words": [
+            "couple",
+            "dance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is wearing a white shirt with a dark tie and has graying hair.",
+        "sentence_cn": "该男子身穿白衬衫，系着深色领带，头发已然灰白。",
+        "words": [
+            "man",
+            "shirt",
+            "tie",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is wearing a light pink, long-sleeve top with a floral pattern and has curly, light-colored hair.",
+        "sentence_cn": "该女子身穿浅粉色花卉图案长袖上衣，留着浅色卷发。",
+        "words": [
+            "woman",
+            "sleeve",
+            "top",
+            "pattern",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are holding hands, smiling softly at each other, appearing to enjoy a moment of connection and joy.",
+        "sentence_cn": "他们手牵着手，互相温柔地微笑，似乎正在享受着这一刻的亲密和快乐。",
+        "words": [
+            "hands",
+            "connection",
+            "joy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are other people also seeming to participate in a similar activity, suggesting a social or community event.",
+        "sentence_cn": "在背景中，其他人似乎也参与了类似的活动，这表明这是一场社交或社区活动。",
+        "words": [
+            "background",
+            "people",
+            "activity",
+            "community",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is likely a park or outdoor area with greenery visible.",
+        "sentence_cn": "该场景可能是一个公园或可见绿色植物的户外区域。",
+        "words": [
+            "park",
+            "area",
+            "greenery"
+        ],
+        "id": null
+    }
+]

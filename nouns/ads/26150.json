@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image is an advertisement featuring bold, colorful text.",
+        "sentence_cn": "该图片是一则广告，其中的文字粗体且色彩鲜艳。",
+        "words": [
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, it says \"ENTIRE SITE\" in uppercase letters, with orange text and a black shadow.",
+        "sentence_cn": "顶部用大写字母写着“整个网站”，带有橙色文字和黑色阴影。",
+        "words": [
+            "ENTIRE SITE",
+            "top",
+            "SITE",
+            "letters",
+            "text",
+            "shadow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, \"30%\" is written in large magenta numerals, also with a black shadow.",
+        "sentence_cn": "在其下方，用大号洋红色数字写着“30%”，同样带有黑色阴影。",
+        "words": [
+            "30%",
+            "30",
+            "magenta",
+            "numerals",
+            "shadow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A line is drawn beneath the \"30%\", and underneath the line is the word \"TO\" in smaller black letters.",
+        "sentence_cn": "“30%”下方画了一条线，线下方是用较小的黑色字母写的“TO”一词。",
+        "words": [
+            "30%",
+            "TO",
+            "line",
+            "30",
+            "line",
+            "word",
+            "TO",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below \"TO\" is \"75%\" in large magenta numerals, similarly shadowed in black.",
+        "sentence_cn": "“TO”下方是用大号洋红色数字表示的“75%”，同样用黑色阴影表示。",
+        "words": [
+            "TO",
+            "75%",
+            "75",
+            "numerals",
+            "black"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, \"OFF\" is displayed in large orange letters with a black shadow.",
+        "sentence_cn": "底部以大橙色字母显示“OFF”，并带有黑色阴影。",
+        "words": [
+            "OFF",
+            "bottom",
+            "orange",
+            "letters",
+            "shadow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In smaller text at the very bottom, it states, \"EXCLUDES NEW ARRIVALS, SLEEPWEAR, FOOTWEAR AND ACCESSORIES,\" indicating the exclusions to the sale.",
+        "sentence_cn": "最底部较小的文字写着“不包括新品、睡衣、鞋类和配饰”，表明不包含在销售范围内。",
+        "words": [
+            "EXCLUDES NEW ARRIVALS, SLEEPWEAR, FOOTWEAR AND ACCESSORIES,",
+            "text",
+            "bottom",
+            "ARRIVALS",
+            "SLEEPWEAR",
+            "FOOTWEAR",
+            "ACCESSORIES",
+            "exclusions",
+            "sale"
+        ],
+        "id": null
+    }
+]

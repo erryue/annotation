@@ -1,0 +1,414 @@
+[
+    {
+        "sentence": "The image is a webpage from the Kettering Bike Shop, advertising women's bikes.",
+        "sentence_cn": "图片是凯特林自行车商店的一个网页，用于宣传女式自行车。",
+        "words": [
+            "webpage",
+            "women",
+            "bikes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here is a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Header:",
+        "sentence_cn": "### 标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: Dayton's Full Service Cycling Center for over 50 years!!!",
+        "sentence_cn": "- 标题：代顿 50 多年来全方位服务自行车中心！！！",
+        "words": [
+            "Title:",
+            "Title",
+            "Dayton",
+            "50",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Contact Information:",
+        "sentence_cn": "- 联系信息：",
+        "words": [
+            "Contact Information:",
+            "Contact",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Address: 3120 Wilmington Pike, Kettering, Ohio 45429",
+        "sentence_cn": "- 地址：3120 Wilmington Pike, Kettering, Ohio 45429",
+        "words": [
+            "Address:",
+            "Address",
+            "3120",
+            "Kettering",
+            "Ohio",
+            "45429"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Phone: 937-293-3293",
+        "sentence_cn": "- 电话：937-293-3293",
+        "words": [
+            "Phone:",
+            "Phone",
+            "937",
+            "-",
+            "293",
+            "-",
+            "3293"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Fax: 937-293-5413",
+        "sentence_cn": "- 传真： 937-293-5413",
+        "words": [
+            "Fax:",
+            "Fax",
+            "937",
+            "-",
+            "293",
+            "-",
+            "5413"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Email: info@ketteringbikeshop.com",
+        "sentence_cn": "- 电子邮件：info@ketteringbikeshop.com",
+        "words": [
+            "Email:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Store Hours:",
+        "sentence_cn": "- 营业时间：",
+        "words": [
+            "Store Hours:",
+            "Store",
+            "Hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Mon & Thur: 10-8",
+        "sentence_cn": "- 周一至周四：10-8",
+        "words": [
+            "10",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Tue, Wed, Fri: 10-6",
+        "sentence_cn": "- 周二、周三、周五：10-6",
+        "words": [
+            "10",
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Saturday: 10-5",
+        "sentence_cn": "- 周六：10-5",
+        "words": [
+            "10",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Closed Sunday",
+        "sentence_cn": "- 周日休息",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Logo: Features a cyclist graphic.",
+        "sentence_cn": "- 标志：以骑自行车的人的图形为特色。",
+        "words": [
+            "Logo:",
+            "Logo",
+            "cyclist",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Navigation (Left Sidebar):",
+        "sentence_cn": "### 导航（左侧边栏）：",
+        "words": [
+            "Navigation",
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Home",
+        "sentence_cn": "- 家",
+        "words": [
+            "Home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- About Us",
+        "sentence_cn": "- 关于我们",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Our Bike Brands",
+        "sentence_cn": "- 我们的自行车品牌",
+        "words": [
+            "Bike",
+            "Brands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Browse Our Catalog",
+        "sentence_cn": "- 浏览我们的目录",
+        "words": [
+            "Catalog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Women's Products",
+        "sentence_cn": "- 女性用品",
+        "words": [
+            "Women",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Parts & Service",
+        "sentence_cn": "- 零件与服务",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The Perfect New Bike",
+        "sentence_cn": "- 完美的新自行车",
+        "words": [
+            "Bike"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Where Do I Ride?",
+        "sentence_cn": "- 我要骑车去哪里？",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Tips and Tricks",
+        "sentence_cn": "- 提示和技巧",
+        "words": [
+            "Tips",
+            "Tricks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Learn More",
+        "sentence_cn": "- 了解更多",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Cycling Links",
+        "sentence_cn": "- 自行车链接",
+        "words": [
+            "Cycling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- BikeSpeak Forum",
+        "sentence_cn": "- BikeSpeak 论坛",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Email Sign-Up: Enter your e-mail for specials and events.",
+        "sentence_cn": "- 电子邮件注册：输入您的电子邮件以接收特价优惠和活动信息。",
+        "words": [
+            "Email Sign-Up:",
+            "Email",
+            "Sign",
+            "Up",
+            "e",
+            "-",
+            "mail",
+            "specials",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content:",
+        "sentence_cn": "### 主要内容：",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: There¡¯s A Trek WSD For Every Woman!",
+        "sentence_cn": "- 标题：每个女人都有一部 Trek WSD！",
+        "words": [
+            "Title:",
+            "Woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Image: Woman riding a bike along a riverbank with \"trekwomen\" text and logo.",
+        "sentence_cn": "- 图片：一名女子沿着河岸骑着自行车，旁边有“trekwomen”的文字和标志。",
+        "words": [
+            "Image:",
+            "trekwomen",
+            "Image",
+            "Woman",
+            "bike",
+            "riverbank",
+            "trekwomen",
+            "text",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Description: Promotes Trek¡¯s WSD (Women's-Specific Design) bikes for a perfect fit and comfortable ride.",
+        "sentence_cn": "- 描述：推广 Trek 的 WSD（女性专用设计）自行车，以实现完美贴合和舒适的骑行。",
+        "words": [
+            "Description:",
+            "Description",
+            "bikes",
+            "fit",
+            "ride"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Link to learn more about WSD bicycles and stop by soon.",
+        "sentence_cn": "- 链接 了解有关 WSD 自行车的更多信息并尽快访问。",
+        "words": [
+            "Link",
+            "bicycles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Products:",
+        "sentence_cn": "- 附加产品：",
+        "words": [
+            "Additional Products:",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Women's-specific mountain bikes.",
+        "sentence_cn": "- 女士专用的山地自行车。",
+        "words": [
+            "mountain",
+            "bikes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - WSD cycling clothing and components.",
+        "sentence_cn": "- WSD 骑行服装及配件。",
+        "words": [
+            "cycling",
+            "clothing",
+            "components"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Women's-specific road bikes.",
+        "sentence_cn": "- 女士专用的公路自行车。",
+        "words": [
+            "road",
+            "bikes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Featured Items (Right Sidebar):",
+        "sentence_cn": "### 特色商品（右侧边栏）：",
+        "words": [
+            "Items",
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bontrager H5 Hardcase Lite (26-Inch): $29.99 - $34.99",
+        "sentence_cn": "- Bontrager H5 Hardcase Lite（26 英寸）： 29.99 美元 - 34.99 美元",
+        "words": [
+            "Bontrager H5 Hardcase Lite (26-Inch):",
+            "26",
+            "Inch",
+            "29.99",
+            "34.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Shimano SH-R170 Shoes: $199.99",
+        "sentence_cn": "- Shimano SH-R170 鞋： 199.99 美元",
+        "words": [
+            "Shimano SH-R170 Shoes:",
+            "Shoes",
+            "199.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Includes a star rating with 1 review for the shoes.",
+        "sentence_cn": "- 包括对鞋子的 1 条星级评价和 1 条评论。",
+        "words": [
+            "star",
+            "rating",
+            "1",
+            "review",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The webpage focuses on promoting women-specific cycling products and invites users to explore various categories and items available at the shop.",
+        "sentence_cn": "该网页专注于推广女性专用的自行车产品，并邀请用户探索商店提供的各种类别和商品。",
+        "words": [
+            "webpage",
+            "women",
+            "cycling",
+            "products",
+            "users",
+            "categories",
+            "items",
+            "shop"
+        ],
+        "id": null
+    }
+]

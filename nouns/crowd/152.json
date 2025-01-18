@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image shows a classroom setting with a group of students seated in desks, attentively focused on a person who appears to be an instructor or teacher.",
+        "sentence_cn": "照片显示的是一个教室场景，一群学生坐在课桌前，全神贯注地看着一位看起来像是讲师或老师的人。",
+        "words": [
+            "classroom",
+            "group",
+            "students",
+            "desks",
+            "person",
+            "instructor",
+            "teacher"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The instructor, standing near the middle of the room, is handing out papers to the students.",
+        "sentence_cn": "老师站在教室中央，正在给学​​生们分发试卷。",
+        "words": [
+            "instructor",
+            "middle",
+            "room",
+            "papers",
+            "students"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is wearing a light blue shirt and beige trousers.",
+        "sentence_cn": "他穿着浅蓝色衬衫和米色裤子。",
+        "words": [
+            "shirt",
+            "trousers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The classroom has rows of desks, and students are seated facing the whiteboard at the front of the room.",
+        "sentence_cn": "教室里摆放着一排排的课桌，学生们坐在教室前面，面朝白板。",
+        "words": [
+            "classroom",
+            "rows",
+            "desks",
+            "students",
+            "whiteboard",
+            "front",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The students have various items on their desks, such as notebooks, folders, and pens.",
+        "sentence_cn": "学生们的桌子上有各种各样的物品，例如笔记本、文件夹和笔。",
+        "words": [
+            "students",
+            "items",
+            "desks",
+            "notebooks",
+            "folders",
+            "pens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room appears well-lit, and there is a computer and a podium at the front near the teacher.",
+        "sentence_cn": "教室里光线充足，前面靠近老师的地方有一台电脑和一个讲台。",
+        "words": [
+            "room",
+            "computer",
+            "podium",
+            "front",
+            "teacher"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The students vary in appearance, with some taking notes and others looking at the teacher as he distributes the papers.",
+        "sentence_cn": "学生们的样子各异，有的在做笔记，有的则看着老师分发试卷。",
+        "words": [
+            "students",
+            "appearance",
+            "notes",
+            "others",
+            "teacher",
+            "papers"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "sentence": "The image is a webpage from Adobe's careers section, specifically focused on employee benefits in India.",
+        "sentence_cn": "该图是 Adob​​e 职业板块的一个网页，专门关注印度的员工福利。",
+        "words": [
+            "webpage",
+            "careers",
+            "section",
+            "employee",
+            "benefits",
+            "India"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a clean, professional layout with a sidebar on the right for job search and company information.",
+        "sentence_cn": "它具有简洁、专业的布局，右侧有侧边栏用于搜索职位和公司信息。",
+        "words": [
+            "layout",
+            "sidebar",
+            "right",
+            "job",
+            "search",
+            "company",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content:",
+        "sentence_cn": "### 主要内容：",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: Benefits / India",
+        "sentence_cn": "- 标题： 福利 / 印度",
+        "words": [
+            "Title:",
+            "Title",
+            "Benefits",
+            "India"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Introduction: Adobe offers flexible, comprehensive benefits and compensation programs to support employees and their families.",
+        "sentence_cn": "- 简介：Adobe 提供灵活、全面的福利和薪酬计划来支持员工及其家人。",
+        "words": [
+            "Introduction:",
+            "Introduction",
+            "benefits",
+            "compensation",
+            "programs",
+            "employees",
+            "families"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "#### Adobe & Wellness:",
+        "sentence_cn": "#### Adob​​e 与健康：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Healthcare: Medical insurance includes hospitalization, maternity, and coverage for spouse, up to 2 children, and dependent parents.",
+        "sentence_cn": "- 医疗保健：医疗保险包括住院、生育以及配偶、最多 2 名子女和受抚养父母的保险。",
+        "words": [
+            "Healthcare:",
+            "Healthcare",
+            "insurance",
+            "hospitalization",
+            "maternity",
+            "coverage",
+            "spouse",
+            "2",
+            "children",
+            "parents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Annual medical checkups are also provided.",
+        "sentence_cn": "还提供年度体检。",
+        "words": [
+            "checkups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional wellness initiatives include on-site health seminars, wellness competitions, biometric screening, and healthy snacks.",
+        "sentence_cn": "其他健康计划包括现场健康研讨会、健康竞赛、生物特征筛查和健康零食。",
+        "words": [
+            "wellness",
+            "initiatives",
+            "site",
+            "health",
+            "seminars",
+            "wellness",
+            "competitions",
+            "screening",
+            "snacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Time Off:",
+        "sentence_cn": "- 休息时间：",
+        "words": [
+            "Time Off:",
+            "Time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 10 local public holidays are observed.",
+        "sentence_cn": "- 有10天当地公众假期。",
+        "words": [
+            "10",
+            "holidays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 15 days of paid time off per year.",
+        "sentence_cn": "- 每年 15 天带薪休假。",
+        "words": [
+            "15",
+            "days",
+            "time",
+            "year"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Sabbatical Leave is also available based on years of continuous service.",
+        "sentence_cn": "- 根据连续服务年限，还可享受休假。",
+        "words": [
+            "years",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Adobe & Rewards:",
+        "sentence_cn": "#### Adob​​e 与奖励：",
+        "words": [
+            "#",
+            "Rewards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Focuses on financial planning and management for employees.",
+        "sentence_cn": "- 专注于员工的财务规划和管理。",
+        "words": [
+            "Focuses",
+            "planning",
+            "management",
+            "employees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pay and Incentives: Competitive salaries and bonus programs for exemplary performance.",
+        "sentence_cn": "- 薪酬和奖励：具有竞争力的薪酬和针对优秀表现的奖金计划。",
+        "words": [
+            "Pay and Incentives:",
+            "Pay",
+            "Incentives",
+            "salaries",
+            "bonus",
+            "programs",
+            "performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Sidebar:",
+        "sentence_cn": "### 侧边栏：",
+        "words": [
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Quick Job Search: Options to select location and category with a search button.",
+        "sentence_cn": "- 快速职位搜索：使用搜索按钮选择位置和类别的选项。",
+        "words": [
+            "Quick Job Search:",
+            "Job",
+            "Search",
+            "Options",
+            "location",
+            "category",
+            "search",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Information:",
+        "sentence_cn": "- 附加信息：",
+        "words": [
+            "Additional Information:",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Link to join Adobe¡¯s award-winning team.",
+        "sentence_cn": "- 链接加入 Adob​​e 屡获殊荣的团队。",
+        "words": [
+            "Link",
+            "award",
+            "team"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Advertisement for Adobe Life, a digital magazine available for download.",
+        "sentence_cn": "- 可供下载的数字杂志 Adob​​e Life 的广告。",
+        "words": [
+            "Advertisement",
+            "magazine",
+            "download"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Suggestion to view on Chrome or Firefox for the best web experience.",
+        "sentence_cn": "- 建议使用 Chrome 或 Firefox 来浏览以获得最佳网络体验。",
+        "words": [
+            "Suggestion",
+            "web",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Visual elements include small images, a search section, and promotional banners for Adobe Life magazine.",
+        "sentence_cn": "视觉元素包括小图像、搜索部分和 Adob​​e Life 杂志的宣传横幅。",
+        "words": [
+            "elements",
+            "images",
+            "search",
+            "section",
+            "banners",
+            "magazine"
+        ],
+        "id": null
+    }
+]

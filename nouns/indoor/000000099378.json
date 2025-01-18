@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image features a modern kitchen with a clean and bright appearance.",
+        "sentence_cn": "图片展示的是一间现代化的厨房，外观干净明亮。",
+        "words": [
+            "kitchen",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cabinetry is white with silver handles, creating a sleek and tidy look.",
+        "sentence_cn": "橱柜为白色，配有银色把手，营造出光滑整洁的外观。",
+        "words": [
+            "cabinetry",
+            "handles",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertops are grey, likely made from granite or a similar material, offering both durability and style.",
+        "sentence_cn": "台面是灰色的，可能是由花岗岩或类似材料制成，既耐用又时尚。",
+        "words": [
+            "countertops",
+            "granite",
+            "material",
+            "durability",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a large kitchen island in the foreground with three wooden bar stools, each featuring a curved backrest and metal legs, providing a casual and inviting seating area.",
+        "sentence_cn": "前景中有一个大厨房岛，配有三个木制吧台凳，每个凳子都有弯曲的靠背和金属腿，提供一个休闲而温馨的座位区。",
+        "words": [
+            "kitchen",
+            "island",
+            "foreground",
+            "three",
+            "bar",
+            "stools",
+            "backrest",
+            "metal",
+            "legs",
+            "seating",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the island, there¡¯s a round wooden cutting board and a small bowl of grapes, enhancing the kitchen's welcoming and practical feel.",
+        "sentence_cn": "岛上有一块圆形木质切菜板和一小碗葡萄，增强了厨房的温馨和实用感。",
+        "words": [
+            "island",
+            "cutting",
+            "board",
+            "bowl",
+            "grapes",
+            "kitchen",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The back counter is equipped with various appliances, including a built-in oven and microwave on the left, and a double-door refrigerator on the right.",
+        "sentence_cn": "后面的柜台配备了各种电器，包括左边的内置烤箱和微波炉，右边的双门冰箱。",
+        "words": [
+            "counter",
+            "appliances",
+            "oven",
+            "microwave",
+            "left",
+            "door",
+            "refrigerator",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other appliances like a blender, toaster, and kettle are also visible, along with various utensils stored in containers.",
+        "sentence_cn": "还可以看到搅拌机、烤面包机和水壶等其他电器，以及存放在容器中的各种器具。",
+        "words": [
+            "appliances",
+            "blender",
+            "toaster",
+            "kettle",
+            "utensils",
+            "containers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backsplash is tiled in neutral tones, complementing the overall color scheme.",
+        "sentence_cn": "后挡板采用中性色调的瓷砖，与整体配色方案相得益彰。",
+        "words": [
+            "backsplash",
+            "tones",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is tiled with large, off-white tiles, contributing to the kitchen¡¯s expansive and clean aesthetic.",
+        "sentence_cn": "地板上铺着大块的灰白色瓷砖，营造出厨房宽敞、整洁的美感。",
+        "words": [
+            "floor",
+            "white",
+            "tiles",
+            "kitchen¡¯s",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is well-lit with natural light, and the ceiling features recessed lighting for ample illumination.",
+        "sentence_cn": "房间自然采光良好，天花板设有嵌入式照明，照明充足。",
+        "words": [
+            "room",
+            "light",
+            "ceiling",
+            "lighting",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the kitchen is functional, well-organized, and aesthetically pleasing.",
+        "sentence_cn": "总体而言，厨房实用、布局合理、美观。",
+        "words": [
+            "kitchen"
+        ],
+        "id": null
+    }
+]

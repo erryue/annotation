@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a modern, minimalist house situated with a stunning view of a large body of water, likely a lake or sea.",
+        "sentence_cn": "图片描绘的是一座现代简约的房子，可以欣赏到一大片水域的壮丽景色，可能是湖泊或海洋。",
+        "words": [
+            "house",
+            "view",
+            "body",
+            "water",
+            "lake",
+            "sea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The house has a flat roof and features a combination of white and stone exterior walls.",
+        "sentence_cn": "该房屋拥有平屋顶，外墙采用白色和石材组合。",
+        "words": [
+            "house",
+            "roof",
+            "combination",
+            "stone",
+            "exterior",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Large glass sliding doors dominate the side facing the view, allowing light to stream into what appears to be a living or dining area, which is warmly lit from inside.",
+        "sentence_cn": "大型玻璃推拉门占据了面向景观的一侧，让光线照进看似起居室或用餐区的区域，室内充满着温暖的灯光。",
+        "words": [
+            "glass",
+            "doors",
+            "view",
+            "light",
+            "living",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The house is surrounded by a well-maintained garden with various plants and small trees.",
+        "sentence_cn": "房子周围有一个维护良好的花园，里面有各种植物和小树。",
+        "words": [
+            "house",
+            "garden",
+            "plants",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the horizon is visible over the water, with distant mountains under a serene, partly cloudy sky.",
+        "sentence_cn": "在背景中，可以看到水面上的地平线，远处的山脉在宁静的多云天空下。",
+        "words": [
+            "background",
+            "horizon",
+            "water",
+            "mountains",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems to be either early morning or late afternoon, given the soft light.",
+        "sentence_cn": "由于光线柔和，场景似乎是清晨或傍晚。",
+        "words": [
+            "morning",
+            "afternoon",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding landscape is terraced with stone walls, adding to the architectural beauty and blending the structure naturally with the environment.",
+        "sentence_cn": "周围的景观由石墙构成，增加了建筑的美感，并使建筑与环境自然地融为一体。",
+        "words": [
+            "landscape",
+            "stone",
+            "walls",
+            "beauty",
+            "structure",
+            "environment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,339 @@
+[
+    {
+        "sentence": "The image is a screenshot of a weather application for Urbana, displaying current weather conditions and forecasts.",
+        "sentence_cn": "该图是 Urbana 天气应用程序的屏幕截图，显示当前天气状况和预报。",
+        "words": [
+            "weather",
+            "application",
+            "weather",
+            "conditions",
+            "forecasts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Header:",
+        "sentence_cn": "### 标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Time Displayed: 5:39",
+        "sentence_cn": "- 显示时间： 5:39",
+        "words": [
+            "Time Displayed:",
+            "Time",
+            "5:39"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Icons Present: Favorites, Observation, Forecast, Radar, More",
+        "sentence_cn": "- 图标呈现：收藏夹、观察、预报、雷达、更多",
+        "words": [
+            "Icons Present:",
+            "Icons",
+            "Favorites",
+            "Observation",
+            "Forecast",
+            "Radar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Weather Details:",
+        "sentence_cn": "### 天气详情：",
+        "words": [
+            "Weather",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Location: Urbana",
+        "sentence_cn": "- 地点： 厄巴纳",
+        "words": [
+            "Location:",
+            "Location",
+            "Urbana"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Current Weather: Mostly Cloudy",
+        "sentence_cn": "- 当前天气：多云",
+        "words": [
+            "Current Weather:",
+            "Weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Current Temperature: 77.0¡ãF",
+        "sentence_cn": "- 当前温度： 77.0°F",
+        "words": [
+            "Current Temperature:",
+            "Temperature",
+            "77.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- High/Low Temperature: 72¡ãF / 56¡ãF",
+        "sentence_cn": "- 高/低温度： 72°F / 56°F",
+        "words": [
+            "High/Low Temperature:",
+            "Temperature",
+            "72¡ãF",
+            "56¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weather Icon: Partly cloudy with a sun partially covered by clouds",
+        "sentence_cn": "- 天气图标：部分多云，太阳部分被云层遮挡",
+        "words": [
+            "Weather Icon:",
+            "sun",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Forecast Details:",
+        "sentence_cn": "### 预测详情：",
+        "words": [
+            "Forecast",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Announcement: \"Overnight mostly cloudy, with a low around 56.",
+        "sentence_cn": "- 公告：“夜间多云，最低气温为56度左右。",
+        "words": [
+            "Announcement",
+            "Overnight",
+            "low",
+            "56"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Northeast wind 3 to 8 mph.\"",
+        "sentence_cn": "东北风3至8英里/小时。”",
+        "words": [
+            "wind",
+            "3",
+            "8",
+            "mph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Observations:",
+        "sentence_cn": "### 观察结果：",
+        "words": [
+            "Observations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Current Temp: 77.0¡ãF",
+        "sentence_cn": "- 当前温度： 77.0°F",
+        "words": [
+            "Current Temp:",
+            "Temp",
+            "77.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dew Point: 64.0¡ãF",
+        "sentence_cn": "露点：64.0°F",
+        "words": [
+            "Dew Point:",
+            "Dew",
+            "Point"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Humidity: 64%",
+        "sentence_cn": "湿度：64%",
+        "words": [
+            "Humidity:",
+            "Humidity",
+            "64"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wind: 15.0 mph NE",
+        "sentence_cn": "- 风： 东北风 15.0 英里/小时",
+        "words": [
+            "Wind:",
+            "Wind",
+            "15.0",
+            "mph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Gusts: 13 mph",
+        "sentence_cn": "- 阵风：13 英里/小时",
+        "words": [
+            "Gusts:",
+            "Gusts",
+            "13",
+            "mph"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visibility: 10.00 mi",
+        "sentence_cn": "- 能见度：10.00 英里",
+        "words": [
+            "Visibility:",
+            "Visibility",
+            "10.00",
+            "mi"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pressure: 29.83 in",
+        "sentence_cn": "压力：29.83英寸",
+        "words": [
+            "Pressure:",
+            "Pressure",
+            "29.83"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Precipitation: 0%",
+        "sentence_cn": "- 降水量：0%",
+        "words": [
+            "Precipitation:",
+            "Precipitation",
+            "0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tonight's Precipitation: 0%",
+        "sentence_cn": "- 今晚降水量：0%",
+        "words": [
+            "Tonight's Precipitation:",
+            "Tonight",
+            "Precipitation",
+            "0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunrise: 5:42 am",
+        "sentence_cn": "- 日出时间：上午 5:42",
+        "words": [
+            "Sunrise:",
+            "Sunrise",
+            "5:42",
+            "am"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunset: 7:56 pm",
+        "sentence_cn": "- 日落时间：下午 7:56",
+        "words": [
+            "Sunset:",
+            "Sunset",
+            "7:56",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Last updated 45 minutes ago",
+        "sentence_cn": "- 上次更新时间：45 分钟前",
+        "words": [
+            "45",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Buttons and Indicators:",
+        "sentence_cn": "### 按钮和指示灯：",
+        "words": [
+            "Buttons",
+            "Indicators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Refresh Button: At the bottom",
+        "sentence_cn": "- 刷新按钮：位于底部",
+        "words": [
+            "Refresh Button:",
+            "Refresh",
+            "Button",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Circular Indicators:",
+        "sentence_cn": "- 圆形指示器：",
+        "words": [
+            "Circular Indicators:",
+            "Indicators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Left Button: 0% (possibly precipitation)",
+        "sentence_cn": "- 左键：0%（可能是降水）",
+        "words": [
+            "0",
+            "precipitation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Middle: Compass showing NE",
+        "sentence_cn": "- 中间：指南针指向东北",
+        "words": [
+            "Middle",
+            "Compass",
+            "NE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Right Button: Red alert icon (possibly for weather warnings)",
+        "sentence_cn": "- 右键：红色警报图标（可能用于天气警告）",
+        "words": [
+            "alert",
+            "icon",
+            "weather",
+            "warnings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall interface is user-friendly and provides comprehensive weather information for the user.",
+        "sentence_cn": "整体界面友好，为用户提供全面的天气信息。",
+        "words": [
+            "interface",
+            "user",
+            "weather",
+            "information",
+            "user"
+        ],
+        "id": null
+    }
+]

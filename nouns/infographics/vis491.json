@@ -1,0 +1,418 @@
+[
+    {
+        "sentence": "The image is an infographic illustrating the top five job skills employers identify in Chicago, Los Angeles, and Philadelphia.",
+        "sentence_cn": "该图是一张信息图，展示了芝加哥、洛杉矶和费城雇主最看重的五种工作技能。",
+        "words": [
+            "five",
+            "job",
+            "skills",
+            "employers",
+            "Chicago",
+            "Los",
+            "Angeles",
+            "Philadelphia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It visually ranks these skills with corresponding percentages for each city.",
+        "sentence_cn": "它以直观的方式对这些技能进行排序，并根据每个城市的百分比进行相应的排序。",
+        "words": [
+            "skills",
+            "percentages",
+            "city"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Central Imagery:",
+        "sentence_cn": "### 中心图像：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A green box in the center says \"Employers Identify Top 5 Job Skills\" with icons representing each skill:",
+        "sentence_cn": "- 中间的绿色方框写着“雇主认定的五大工作技能”，每个技能都有图标代表：",
+        "words": [
+            "Employers Identify Top 5 Job Skills",
+            "box",
+            "center",
+            "Employers",
+            "5",
+            "Job",
+            "Skills",
+            "icons",
+            "skill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ability & Willingness to Learn depicted with an open book.",
+        "sentence_cn": "- 用一本打开的书来描述学习的能力和意愿。",
+        "words": [
+            "Ability & Willingness to Learn",
+            "Ability",
+            "Willingness",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ability to Analyze & Synthesize New Skills shown as a folder with documents.",
+        "sentence_cn": "- 分析和综合新技能的能力显示为包含文档的文件夹。",
+        "words": [
+            "Ability to Analyze & Synthesize New Skills",
+            "Ability",
+            "Skills",
+            "folder",
+            "documents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Critical Thinking & Problem Solving represented with a puzzle piece.",
+        "sentence_cn": "- 批判性思维和解决问题用拼图碎片表示。",
+        "words": [
+            "Critical Thinking & Problem Solving",
+            "Thinking",
+            "Problem",
+            "puzzle",
+            "piece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Interpersonal Communication illustrated by a conversation icon.",
+        "sentence_cn": "- 以对话图标表示的人际交流。",
+        "words": [
+            "Interpersonal Communication",
+            "conversation",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Collaboration symbolized by a group of four gears.",
+        "sentence_cn": "- 合作 以一组四个齿轮来象征。",
+        "words": [
+            "Collaboration",
+            "Collaboration",
+            "group",
+            "four",
+            "gears"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Skill Ranking:",
+        "sentence_cn": "### 技能排名：",
+        "words": [
+            "Skill",
+            "Ranking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Overall Ratings Across Cities:",
+        "sentence_cn": "- 各城市总体评分：",
+        "words": [
+            "Overall Ratings Across Cities",
+            "Ratings",
+            "Cities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Critical Thinking & Problem Solving (83%)",
+        "sentence_cn": "- 批判性思维与解决问题 (83%)",
+        "words": [
+            "Critical Thinking & Problem Solving",
+            "Thinking",
+            "Problem",
+            "Solving",
+            "83"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ability & Willingness to Learn New Skills (82%)",
+        "sentence_cn": "- 学习新技能的能力和意愿 (82%)",
+        "words": [
+            "Ability & Willingness to Learn New Skills",
+            "Ability",
+            "Willingness",
+            "Skills",
+            "82"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Collaboration/Team Work Skills (77%)",
+        "sentence_cn": "- 协作/团队合作技能 (77%)",
+        "words": [
+            "Collaboration/Team Work Skills",
+            "Collaboration",
+            "Team",
+            "Work",
+            "Skills",
+            "77"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ability to Analyze & Synthesize Information (70%)",
+        "sentence_cn": "- 分析和综合信息的能力 (70%)",
+        "words": [
+            "Ability to Analyze & Synthesize Information",
+            "Ability",
+            "Information",
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Interpersonal Communication (69%)",
+        "sentence_cn": "- 人际沟通 (69%)",
+        "words": [
+            "Interpersonal Communication",
+            "Communication",
+            "69"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### City-wise Breakdown:",
+        "sentence_cn": "### 按城市细分：",
+        "words": [
+            "City",
+            "Breakdown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Chicago:",
+        "sentence_cn": "- 芝加哥：",
+        "words": [
+            "Chicago"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Collaboration (84%)",
+        "sentence_cn": "- 合作（84%）",
+        "words": [
+            "Collaboration",
+            "84"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Critical Thinking (83%)",
+        "sentence_cn": "- 批判性思维（83%）",
+        "words": [
+            "Thinking",
+            "83"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Willingness to Learn (80%)",
+        "sentence_cn": "- 学习意愿 (80%)",
+        "words": [
+            "Willingness",
+            "80"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Collaboration appears twice at different percentages (79%)",
+        "sentence_cn": "- 合作以不同的百分比出现两次（79%）",
+        "words": [
+            "Collaboration",
+            "percentages",
+            "79"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Interpersonal Communication (63%)",
+        "sentence_cn": "- 人际沟通 (63%)",
+        "words": [
+            "Communication",
+            "63"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Los Angeles:",
+        "sentence_cn": "- 洛杉矶：",
+        "words": [
+            "Los Angeles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Collaboration (87%)",
+        "sentence_cn": "- 合作（87%）",
+        "words": [
+            "Collaboration",
+            "87"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Interpersonal Communication (82%)",
+        "sentence_cn": "- 人际沟通 (82%)",
+        "words": [
+            "Communication",
+            "82"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Critical Thinking (83%)",
+        "sentence_cn": "- 批判性思维（83%）",
+        "words": [
+            "Thinking",
+            "83"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Willingness to Learn (82%)",
+        "sentence_cn": "- 愿意学习（82%）",
+        "words": [
+            "Willingness",
+            "82"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Analyze & Synthesize (70%)",
+        "sentence_cn": "- 分析与综合 (70%)",
+        "words": [
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Philadelphia:",
+        "sentence_cn": "- 费城：",
+        "words": [
+            "Philadelphia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Collaboration (87%)",
+        "sentence_cn": "- 合作（87%）",
+        "words": [
+            "Collaboration",
+            "87"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Interpersonal Communication (87%)",
+        "sentence_cn": "- 人际沟通 (87%)",
+        "words": [
+            "Communication",
+            "87"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Critical Thinking (83%)",
+        "sentence_cn": "- 批判性思维（83%）",
+        "words": [
+            "Thinking",
+            "83"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Willingness to Learn (82%)",
+        "sentence_cn": "- 愿意学习（82%）",
+        "words": [
+            "Willingness",
+            "82"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Analyze & Synthesize (70%)",
+        "sentence_cn": "- 分析与综合 (70%)",
+        "words": [
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Details:",
+        "sentence_cn": "### 其他详细信息：",
+        "words": [
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The image features a city skyline silhouette below each city's section.",
+        "sentence_cn": "- 图像下方显示了每个城市部分的城市天际线轮廓。",
+        "words": [
+            "city",
+            "skyline",
+            "silhouette",
+            "city",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Skill icons are consistent throughout, with related percentages next to them, defining their importance level.",
+        "sentence_cn": "- 技能图标始终一致，旁边有相关百分比，定义其重要性级别。",
+        "words": [
+            "Skill",
+            "icons",
+            "percentages",
+            "importance",
+            "level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Each city¡¯s name is highlighted in different colors: Chicago in red, Los Angeles in lime green, and Philadelphia in orange.",
+        "sentence_cn": "- 每个城市的名称都以不同的颜色突出显示：芝加哥为红色，洛杉矶为柠檬绿，费城为橙色。",
+        "words": [
+            "city¡¯s",
+            "name",
+            "colors",
+            "Chicago",
+            "red",
+            "Los",
+            "Angeles",
+            "lime",
+            "green",
+            "Philadelphia",
+            "orange"
+        ],
+        "id": null
+    }
+]

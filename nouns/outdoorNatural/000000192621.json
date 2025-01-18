@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image depicts a large group of elephants wading through a river.",
+        "sentence_cn": "图像描绘了一大群大象正在涉水过河。",
+        "words": [
+            "group",
+            "elephants",
+            "river"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The elephants vary in size, with some smaller ones suggesting a mix of adults and young ones.",
+        "sentence_cn": "大象的大小不一，有些体型较小，有成年象，也有幼象。",
+        "words": [
+            "elephants",
+            "size",
+            "ones",
+            "mix",
+            "adults",
+            "ones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are spread across the shallow, flowing river, which has a few exposed rocks visible above the water.",
+        "sentence_cn": "它们分布在浅浅的、流动的河流上，河面上有几块裸露的岩石可见。",
+        "words": [
+            "river",
+            "rocks",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water appears shallow enough for the elephants to walk comfortably.",
+        "sentence_cn": "水看起来很浅，大象可以舒服地行走。",
+        "words": [
+            "water",
+            "elephants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the river continues, and the landscape seems dry, suggesting a warm climate.",
+        "sentence_cn": "背景中，河流绵延，景观看似干燥，暗示着温暖的气候。",
+        "words": [
+            "background",
+            "river",
+            "landscape",
+            "climate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bank of the river is visible on the left side, with sandy or rocky terrain.",
+        "sentence_cn": "左侧可见河岸，地形为沙地或岩石。",
+        "words": [
+            "bank",
+            "river",
+            "terrain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene captures a natural and serene moment of these majestic animals in their natural habitat.",
+        "sentence_cn": "该场景捕捉到了这些雄伟的动物在自然栖息地中自然而宁静的时刻。",
+        "words": [
+            "scene",
+            "animals",
+            "habitat"
+        ],
+        "id": null
+    }
+]

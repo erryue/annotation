@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image shows a bento-style lunch consisting of two main compartments.",
+        "sentence_cn": "图中显示的是便当式午餐，由两个主要隔间组成。",
+        "words": [
+            "bento",
+            "style",
+            "lunch",
+            "two",
+            "compartments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the top compartment, there is a serving of cooked white rice topped with a few peanuts.",
+        "sentence_cn": "上面的隔间里有一份煮熟的白米饭，上面放着几颗花生。",
+        "words": [
+            "compartment",
+            "serving",
+            "rice",
+            "peanuts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rice is surrounded by broccoli florets.",
+        "sentence_cn": "米饭被西兰花小花包围着。",
+        "words": [
+            "rice",
+            "broccoli",
+            "florets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On one side, there are slices of a spring roll or similar stuffed roll, visible with vegetable filling.",
+        "sentence_cn": "一侧是春卷或类似的卷馅切片，里面可见蔬菜馅。",
+        "words": [
+            "one",
+            "slices",
+            "spring",
+            "roll",
+            "roll",
+            "vegetable",
+            "filling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom compartment contains slices of fresh fruit: mandarin orange segments, and strawberry halves.",
+        "sentence_cn": "底部隔间内装有新鲜水果片：橘子片和草莓片。",
+        "words": [
+            "compartment",
+            "slices",
+            "fruit",
+            "mandarin",
+            "orange",
+            "segments",
+            "strawberry",
+            "halves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the bento box, there is a pink packaged cherry-flavored KitKat bar.",
+        "sentence_cn": "便当盒旁边，有一块粉色包装的樱桃味KitKat巧克力棒。",
+        "words": [
+            "bento",
+            "box",
+            "cherry",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a striped fabric in shades of green, blue, and white.",
+        "sentence_cn": "背景是绿色、蓝色和白色的条纹织物。",
+        "words": [
+            "background",
+            "fabric",
+            "shades",
+            "green",
+            "blue",
+            "white"
+        ],
+        "id": null
+    }
+]

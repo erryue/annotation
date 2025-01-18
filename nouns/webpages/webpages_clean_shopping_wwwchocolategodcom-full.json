@@ -1,0 +1,170 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage for \"The Truffle Shop,\" a business specializing in chocolate truffles and desserts located in Nevada City, California.",
+        "sentence_cn": "该图片是“The Truffle Shop”网页的截图，该店位于加利福尼亚州内华达城，是一家专营松露巧克力和甜点的企业。",
+        "words": [
+            "The Truffle Shop,",
+            "webpage",
+            "business",
+            "chocolate",
+            "truffles",
+            "desserts",
+            "Nevada",
+            "City",
+            "California"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top banner features an image of various decorated chocolate truffles with a logo that includes \"The Truffle Shop\" text against a dark purple background.",
+        "sentence_cn": "顶部横幅上有各种装饰过的松露巧克力的图像，并在深紫色背景上带有“松露店”文字的标志。",
+        "words": [
+            "The Truffle Shop",
+            "banner",
+            "chocolate",
+            "truffles",
+            "logo",
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a whimsical design featuring a winged pig.",
+        "sentence_cn": "还有一种以长翅膀的猪为特色的异想天开的设计。",
+        "words": [
+            "design",
+            "pig"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, a navigation menu includes links to \"Home,\" \"Contact,\" \"About Us,\" \"Our Products,\" \"All Truffles Flavors,\" \"Dessert Catering,\" \"Ordering,\" and \"Holiday Calendar.\"",
+        "sentence_cn": "横幅下方的导航菜单包括“主页”、“联系我们”、“关于我们”、“我们的产品”、“所有松露口味”、“甜点餐饮”、“订购”和“假日日历”的链接。",
+        "words": [
+            "Home,",
+            "Contact,",
+            "About Us,",
+            "Our Products,",
+            "All Truffles Flavors,",
+            "Dessert Catering,",
+            "Ordering,",
+            "Holiday Calendar.",
+            "banner",
+            "navigation",
+            "menu",
+            "links",
+            "Home",
+            "Catering",
+            "Ordering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main section has the title \"Chocolate Truffles & Desserts ¨C Home\" and provides contact information.",
+        "sentence_cn": "主要部分的标题为“巧克力松露和甜点 - 主页”，并提供联系信息。",
+        "words": [
+            "Chocolate Truffles & Desserts ¨C Home",
+            "section",
+            "title",
+            "¨C",
+            "contact",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions the shop's location¡ª408 Broad St., Nevada City, CA¡ªand includes a link to Google Maps.",
+        "sentence_cn": "它提到了商店的位置 - 加利福尼亚州内华达城 Broad St. 408 号 - 并包含 Google 地图的链接。",
+        "words": [
+            "shop",
+            "location¡ª408",
+            "Nevada",
+            "City",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text describes the shop's reputation for quality, stating that its products have been sent to notable places like the White House and the Vatican.",
+        "sentence_cn": "文中描述了该店的品质声誉，并指出其产品已被送往白宫和梵蒂冈等著名场所。",
+        "words": [
+            "text",
+            "shop",
+            "reputation",
+            "quality",
+            "products",
+            "places"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two images with captions: one shows people inside the shop with the text \"Come in to the Truffle Shop and try some of our gourmet chocolate truffles at the Truffle Shop,\" and the other features a person preparing an ice cappuccino with the caption \"Truffle Shop Owner Rudy Udarbe prepares an Ice Cappuccino on the Gaggia.\"",
+        "sentence_cn": "有两张图片带有说明：一张显示商店内的人们，并配有文字“欢迎来到松露店，在松露店品尝一些我们的美味巧克力松露”，另一张显示一个人正在制作冰卡布奇诺，并配有文字“松露店老板 Rudy Udarbe 在 Gaggia 上制作冰卡布奇诺”。",
+        "words": [
+            "Come in to the Truffle Shop and try some of our gourmet chocolate truffles at the Truffle Shop,",
+            "Truffle Shop Owner Rudy Udarbe prepares an Ice Cappuccino on the Gaggia.",
+            "two",
+            "images",
+            "captions",
+            "one",
+            "people",
+            "shop",
+            "text",
+            "gourmet",
+            "chocolate",
+            "truffles",
+            "person",
+            "ice",
+            "cappuccino",
+            "caption",
+            "Cappuccino"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's a section labeled \"2015 Holidays,\" listing dates such as July 4 for Independence Day and September 25 for Native Americans' Day.",
+        "sentence_cn": "右侧有一个标有“2015 年假期”的部分，列出了一些日期，例如 7 月 4 日为独立日，9 月 25 日为美国原住民日。",
+        "words": [
+            "2015 Holidays,",
+            "section",
+            "2015",
+            "Holidays",
+            "dates",
+            "4",
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small image labeled \"Raspberry Chocolate Truffle\" displays a truffle with intricate decoration.",
+        "sentence_cn": "一张标有“覆盆子巧克力松露”的小图片展示了一颗装饰精美的松露。",
+        "words": [
+            "Raspberry Chocolate Truffle",
+            "truffle",
+            "decoration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The date on the webpage is September 2, 2015.",
+        "sentence_cn": "网页上的日期是2015年9月2日。",
+        "words": [
+            "date",
+            "webpage",
+            "2",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has a subtle marble texture.",
+        "sentence_cn": "背景具有微妙的大理石纹理。",
+        "words": [
+            "background",
+            "marble",
+            "texture"
+        ],
+        "id": null
+    }
+]

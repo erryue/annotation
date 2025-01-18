@@ -13,12 +13,12 @@
         "id": null
     },
     {
-        "sentence": "1. **65%** of CIOs believe desk phones will become redundant by 2017.",
-        "sentence_cn": "1. **65%** 的 CIO 认为到 2017 年桌面电话将变得毫无用处。",
+        "sentence": "1. 65% of CIOs believe desk phones will become redundant by 2017.",
+        "sentence_cn": "1. 65% 的 CIO 认为到 2017 年桌面电话将变得毫无用处。",
         "words": [
             "65%",
             "65",
-            "*",
+            "",
             "CIOs",
             "desk",
             "phones",
@@ -27,12 +27,12 @@
         "id": null
     },
     {
-        "sentence": "2. **56%** of global CFOs say they would invest in video conferencing to reduce travel needs.",
-        "sentence_cn": "2. **56%**的全球首席财务官表示，他们将投资视频会议以减少差旅需求。",
+        "sentence": "2. 56% of global CFOs say they would invest in video conferencing to reduce travel needs.",
+        "sentence_cn": "2. 56%的全球首席财务官表示，他们将投资视频会议以减少差旅需求。",
         "words": [
             "56%",
             "56",
-            "*",
+            "",
             "CFOs",
             "video",
             "conferencing",
@@ -42,8 +42,8 @@
         "id": null
     },
     {
-        "sentence": "3. A predicted **Â£2.3bn** global business spend on live video conferencing by 2016.",
-        "sentence_cn": "3. 预计到 2016 年，全球商业在实时视频会议上的支出将达到 **23 亿英镑**。",
+        "sentence": "3. A predicted Â£2.3bn global business spend on live video conferencing by 2016.",
+        "sentence_cn": "3. 预计到 2016 年，全球商业在实时视频会议上的支出将达到 23 亿英镑。",
         "words": [
             "Â£2.3bn",
             "Â£2.3bn",
@@ -56,8 +56,8 @@
         "id": null
     },
     {
-        "sentence": "4. The global value of the immersive video conferencing market is expected to reach **Â£667m** by 2016 with a growth rate of **19.49%**.",
-        "sentence_cn": "4。沉浸式视频会议市场的全球价值预计到2016年达到6.67亿英镑**，增长率为** 19.49％**。",
+        "sentence": "4. The global value of the immersive video conferencing market is expected to reach Â£667m by 2016 with a growth rate of 19.49%.",
+        "sentence_cn": "4. 预计到 2016 年，沉浸式视频会议市场的全球价值将达到 6.67 亿英镑，增长率为 19.49%。",
         "words": [
             "Â£667m",
             "19.49%",
@@ -74,8 +74,8 @@
         "id": null
     },
     {
-        "sentence": "5. Demand for HD video conferencing systems grew by **25%** in 2011.",
-        "sentence_cn": "5. 2011 年，高清视频会议系统的需求增长了 **25%**。",
+        "sentence": "5. Demand for HD video conferencing systems grew by 25% in 2011.",
+        "sentence_cn": "5. 2011 年，高清视频会议系统的需求增长了 25%。",
         "words": [
             "25%",
             "Demand",
@@ -83,15 +83,15 @@
             "video",
             "conferencing",
             "systems",
-            "*",
+            "",
             "25",
             "2011"
         ],
         "id": null
     },
     {
-        "sentence": "6. **1.8bn hours** of Skype video calls are made annually.",
-        "sentence_cn": "6. 每年有**18亿小时**的Skype视频通话。",
+        "sentence": "6. 1.8bn hours of Skype video calls are made annually.",
+        "sentence_cn": "6. 每年有18亿小时的Skype视频通话。",
         "words": [
             "1.8bn hours",
             "1.8bn",
@@ -119,8 +119,8 @@
         "id": null
     },
     {
-        "sentence": "8. **70%** of SMEs would rather use video conferencing than travel to meetings.",
-        "sentence_cn": "8. **70%**的中小企业宁愿使用视频会议，也不愿出门参加会议。",
+        "sentence": "8. 70% of SMEs would rather use video conferencing than travel to meetings.",
+        "sentence_cn": "8. 70%的中小企业宁愿使用视频会议，也不愿出门参加会议。",
         "words": [
             "70%",
             "70",
@@ -132,8 +132,8 @@
         "id": null
     },
     {
-        "sentence": "9. **75%** agreed that video conferencing will replace conference calls as the traditional business communication method.",
-        "sentence_cn": "9. **75%**同意视频会议将取代电话会议成为传统的商业沟通方式。",
+        "sentence": "9. 75% agreed that video conferencing will replace conference calls as the traditional business communication method.",
+        "sentence_cn": "9. 75%同意视频会议将取代电话会议成为传统的商业沟通方式。",
         "words": [
             "75%",
             "75",

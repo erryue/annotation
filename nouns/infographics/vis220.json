@@ -1,0 +1,254 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Crime in Venezuela\" and outlines various crime statistics and issues in Venezuela, emphasizing the increase in crime and corruption over a decade.",
+        "sentence_cn": "该图是一张名为“委内瑞拉犯罪”的信息图，概述了委内瑞拉的各种犯罪统计数据和问题，强调了十年来犯罪和腐败的增加。",
+        "words": [
+            "Crime in Venezuela",
+            "Crime",
+            "crime",
+            "statistics",
+            "issues",
+            "Venezuela",
+            "increase",
+            "crime",
+            "corruption",
+            "decade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Overview",
+        "sentence_cn": "＃＃＃ 概述",
+        "words": [
+            "Overview"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Increase in Crime: Highlights growth in crime due to political and economic issues.",
+        "sentence_cn": "- 犯罪率上升：强调由于政治和经济问题导致的犯罪率上升。",
+        "words": [
+            "Increase in Crime",
+            "Increase",
+            "Crime",
+            "growth",
+            "crime",
+            "issues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Armed Robberies: Common throughout urban areas, including tourist locations.",
+        "sentence_cn": "- 武装抢劫：在城市地区很常见，包括旅游景点。",
+        "words": [
+            "Armed Robberies",
+            "Robberies",
+            "areas",
+            "tourist",
+            "locations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Murders: Between 1998-2006, there were 90,027 murders.",
+        "sentence_cn": "- 谋杀：1998 年至 2006 年间，共发生 90,027 起谋杀案。",
+        "words": [
+            "Murders",
+            "Murders",
+            "1998",
+            "2006",
+            "90,027",
+            "murders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Most Dangerous Cities and States",
+        "sentence_cn": "### 最危险的城市和州",
+        "words": [
+            "Cities",
+            "States"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cities: Caracas is the 4th most insecure city globally after Ciudad Ju¨¢rez (Mexico), Kandahar (Afghanistan), and San Pedro Sula (Honduras).",
+        "sentence_cn": "- 城市：加拉加斯是全球第四个最不安全的城市，仅次于华雷斯城（墨西哥）、坎大哈（阿富汗）和圣佩德罗苏拉（洪都拉斯）。",
+        "words": [
+            "Cities",
+            "Cities",
+            "Caracas",
+            "city",
+            "Ciudad",
+            "Ju¨¢rez",
+            "Mexico",
+            "Kandahar",
+            "Afghanistan",
+            "San",
+            "Pedro",
+            "Sula",
+            "Honduras"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- States: The five most dangerous states are Distrito Capital, Miranda, Zulia, Carabobo, and Aragua.",
+        "sentence_cn": "- 州：最危险的五个州是首都区、米兰达州、苏利亚州、卡拉沃沃州和阿拉瓜州。",
+        "words": [
+            "States",
+            "five",
+            "states",
+            "Distrito",
+            "Capital",
+            "Miranda",
+            "Zulia",
+            "Carabobo",
+            "Aragua"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Caracas: Located in Distrito Capital, it has the 2nd greatest murder rate at 92 homicides per 100,000 residents.",
+        "sentence_cn": "- 加拉加斯：位于首都区，其谋杀率位居第二，每 100,000 居民发生 92 起凶杀案。",
+        "words": [
+            "Caracas",
+            "Caracas",
+            "Distrito",
+            "Capital",
+            "murder",
+            "rate",
+            "92",
+            "homicides",
+            "100,000",
+            "residents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "By 2009, 7,676 people were killed in the metropolitan area.",
+        "sentence_cn": "截至 2009 年，大都市区共有 7,676 人死亡。",
+        "words": [
+            "2009",
+            "7,676",
+            "people",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Weapons",
+        "sentence_cn": "### 武器",
+        "words": [
+            "Weapons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Usage: 97% of robberies involve firearms.",
+        "sentence_cn": "- 用法：97% 的抢劫案涉及枪支。",
+        "words": [
+            "Usage",
+            "Usage",
+            "97",
+            "robberies",
+            "firearms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Control: By 2006, out of 7 million weapons in the streets, only 50,000 were registered, leaving 6,950,000 unregistered and controlled by criminals.",
+        "sentence_cn": "- 控制：截至 2006 年，街头 700 万件武器中，只有 5 万件经过登记，其余 695 万件未登记，被犯罪分子控制。",
+        "words": [
+            "Control",
+            "Control",
+            "2006",
+            "7",
+            "million",
+            "weapons",
+            "streets",
+            "50,000",
+            "6,950,000",
+            "criminals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Global Position: Venezuela is the leading country for deaths caused by firearms, with 22.15 deaths per 100,000 people.",
+        "sentence_cn": "- 全球排名：委内瑞拉是枪击致死率最高的国家，每10万人中有22.15人死亡。",
+        "words": [
+            "Global Position",
+            "Position",
+            "Venezuela",
+            "country",
+            "deaths",
+            "firearms",
+            "22.15",
+            "deaths",
+            "100,000",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Kidnapping",
+        "sentence_cn": "### 绑架",
+        "words": [
+            "Kidnapping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Frequency: Over four kidnappings occur every three days, translating to 23.25 monthly.",
+        "sentence_cn": "- 频率：每三天发生四起以上绑架事件，每月发生 23.25 起。",
+        "words": [
+            "Frequency",
+            "Frequency",
+            "four",
+            "kidnappings",
+            "three",
+            "days",
+            "23.25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2009 Statistics: 134 kidnappings recorded.",
+        "sentence_cn": "- 2009 年统计：记录了 134 起绑架事件。",
+        "words": [
+            "2009 Statistics",
+            "2009",
+            "Statistics",
+            "134",
+            "kidnappings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Outcomes: Of those kidnapped, 55 were released, 33 rescued, 1 released by police pressure, 4 escaped, and 4 died.",
+        "sentence_cn": "- 结果：被绑架者中，55 人获释，33 人获救，1 人迫于警方压力获释，4 人逃脱，4 人死亡。",
+        "words": [
+            "Outcomes",
+            "Outcomes",
+            "55",
+            "33",
+            "1",
+            "police",
+            "pressure",
+            "4",
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic includes visual elements such as flags, maps, and statistical charts to present the data.",
+        "sentence_cn": "信息图包括旗帜、地图和统计图表等视觉元素来呈现数据。",
+        "words": [
+            "elements",
+            "flags",
+            "maps",
+            "charts",
+            "data"
+        ],
+        "id": null
+    }
+]

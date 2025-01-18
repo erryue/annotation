@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image shows various items neatly arranged on a wooden floor:",
+        "sentence_cn": "图中显示了木地板上整齐摆放的各种物品：",
+        "words": [
+            "items",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Laptop: There is a closed silver laptop with an Apple logo on top, placed on a blue sleeve.",
+        "sentence_cn": "1. 笔记本电脑：有一台关闭的银色笔记本电脑，顶部有 Apple 标志，放在蓝色的外壳上。",
+        "words": [
+            "Laptop",
+            "Laptop",
+            "laptop",
+            "logo",
+            "top",
+            "sleeve"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A white wired mouse is connected to it.",
+        "sentence_cn": "一个白色的有线鼠标与之连接。",
+        "words": [
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. iPod and Earphones: Next to the laptop, there is a white iPod with earphones wrapped around it and a small orange stand or dock.",
+        "sentence_cn": "2. iPod 和耳机：笔记本电脑旁边有一个白色的 iPod，上面缠着耳机，还有一个小橙色支架或底座。",
+        "words": [
+            "iPod and Earphones",
+            "Earphones",
+            "laptop",
+            "earphones",
+            "orange",
+            "stand",
+            "dock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Coins and Keys: There are various coins and banknotes, along with a set of keys with keychains.",
+        "sentence_cn": "3. 硬币和钥匙：有各种硬币和纸币，以及一套带钥匙扣的钥匙。",
+        "words": [
+            "Coins and Keys",
+            "Coins",
+            "Keys",
+            "coins",
+            "banknotes",
+            "set",
+            "keys",
+            "keychains"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Papers and Notebooks: Below the laptop, there is a black notebook labeled \"TRIA,\" a Letraset art pad or kit, and some loose papers with handwriting on them.",
+        "sentence_cn": "4. 纸张和笔记本：笔记本电脑下方有一个标有“TRIA”的黑色笔记本、一个 Letraset 绘图板或套件，以及一些上面有手写字的活页纸。",
+        "words": [
+            "Papers and Notebooks",
+            "TRIA,",
+            "Papers",
+            "Notebooks",
+            "laptop",
+            "notebook",
+            "art",
+            "pad",
+            "kit",
+            "papers",
+            "handwriting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Pens: A row of five pens (three black, one blue, and one gray) is arranged below the papers.",
+        "sentence_cn": "5. 笔：纸张下方排列着一排五支笔（三支黑色、一支蓝色、一支灰色）。",
+        "words": [
+            "Pens",
+            "Pens",
+            "row",
+            "five",
+            "pens",
+            "three",
+            "one",
+            "one",
+            "papers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Mobile Phone: A mobile phone with a screen and keypad is placed between the pens and some magazines.",
+        "sentence_cn": "6. 手机：在笔和一些杂志之间放置一部带有屏幕和键盘的手机。",
+        "words": [
+            "Mobile Phone",
+            "Mobile",
+            "Phone",
+            "phone",
+            "screen",
+            "keypad",
+            "pens",
+            "magazines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Magazines: There are several magazines, with the top one featuring \"NME\" and a cover story about \"Oasis on Tour.\"",
+        "sentence_cn": "7. 杂志：有几本杂志，其中最上面的一本刊登了《NME》和一篇关于“绿洲乐队巡演”的封面故事。",
+        "words": [
+            "Magazines",
+            "NME",
+            "Oasis on Tour.",
+            "Magazines",
+            "magazines",
+            "one",
+            "cover",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These items appear to be personal belongings arranged as if they were unpacked from a bag.",
+        "sentence_cn": "这些物品看起来都是个人物品，排列方式就像是从包里拿出来一样。",
+        "words": [
+            "items",
+            "belongings",
+            "bag"
+        ],
+        "id": null
+    }
+]

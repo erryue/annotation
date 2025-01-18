@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image is a screenshot of the UrbanSitter app interface.",
+        "sentence_cn": "图片是 UrbanSitter 应用程序界面的截图。",
+        "words": [
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's the UrbanSitter logo, which includes a green and purple circular icon.",
+        "sentence_cn": "顶部是 UrbanSitter 的标志，其中包括绿色和紫色的圆形图标。",
+        "words": [
+            "top",
+            "logo",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo, a large image features two children playing happily under a piece of fabric held up by an adult.",
+        "sentence_cn": "标志下方是一幅大图像，描绘的是两个孩子在成人举起的一块布料下快乐地玩耍。",
+        "words": [
+            "logo",
+            "two",
+            "children",
+            "piece",
+            "fabric",
+            "adult"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The adult is wearing a striped shirt and gray pants.",
+        "sentence_cn": "成年人穿着条纹衬衫和灰色裤子。",
+        "words": [
+            "adult",
+            "shirt",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, there¡¯s text that says, \"Your community's most trusted babysitters and nannies.\"",
+        "sentence_cn": "图片下方有文字“您所在社区最值得信赖的保姆和保育人员”。",
+        "words": [
+            "Your community's most trusted babysitters and nannies.",
+            "text",
+            "community",
+            "babysitters",
+            "nannies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two green buttons for sign-up options:",
+        "sentence_cn": "有两个绿色按钮用于注册选项：",
+        "words": [
+            "two",
+            "buttons",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"I am a Parent\" with a \"Sign Up\" button.",
+        "sentence_cn": "1.“我是家长”，带有“注册”按钮。",
+        "words": [
+            "I am a Parent",
+            "Sign Up",
+            "Parent",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"I am a Sitter\" with a \"Sign Up\" button.",
+        "sentence_cn": "2.“我是保姆”，带有“注册”按钮。",
+        "words": [
+            "I am a Sitter",
+            "Sign Up",
+            "Sitter",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there¡¯s a link for existing members to log in: \"Already a member? Log In\".",
+        "sentence_cn": "在底部，有一个供现有会员登录的链接：“已经是会员？登录”。",
+        "words": [
+            "Already a member? Log In",
+            "bottom",
+            "link",
+            "members",
+            "member"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The status bar at the top of the image shows Wi-Fi, battery, and time information, indicating the time is 12:47.",
+        "sentence_cn": "图片上方的状态栏显示了Wi-Fi、电池以及时间信息，显示时间为12:47。",
+        "words": [
+            "status",
+            "bar",
+            "top",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "time",
+            "information",
+            "time",
+            "12:47"
+        ],
+        "id": null
+    }
+]

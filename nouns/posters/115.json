@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image is a colorful and vibrant movie poster for a film titled \"The Haunted World of Edward D. Wood Jr.\"",
+        "sentence_cn": "图片是一张色彩鲜艳、充满活力的电影海报，电影名为《爱德华·伍德的幽灵世界》。",
+        "words": [
+            "The Haunted World of Edward D. Wood Jr.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the poster states, \"A Brett Thompson Film\" and \"A Crawford John Thomas Production.\"",
+        "sentence_cn": "海报顶部写着“布雷特·汤普森电影”和“克劳福德·约翰·托马斯制作”。",
+        "words": [
+            "A Brett Thompson Film",
+            "A Crawford John Thomas Production.",
+            "top",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central figure is a man in a suit and tie, in black and white, looking directly at the viewer.",
+        "sentence_cn": "中心人物是一名身着西装、打着领带的男子，颜色为黑白色，直视着观看者。",
+        "words": [
+            "figure",
+            "man",
+            "suit",
+            "tie",
+            "black",
+            "white",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding him, there are various actors and characters in vivid colors, including a woman with striking makeup and red lips, and a man in a dramatic pose.",
+        "sentence_cn": "他的周围，有各种色彩鲜艳的演员和人物，包括一位化着鲜艳妆、涂着红唇的女子和一位摆着戏剧性姿势的男子。",
+        "words": [
+            "actors",
+            "characters",
+            "colors",
+            "woman",
+            "makeup",
+            "lips",
+            "man",
+            "pose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind them, there are spooky, ghost-like faces and other eerie figures.",
+        "sentence_cn": "在他们身后，有幽灵般的面孔和其他令人毛骨悚然的身影。",
+        "words": [
+            "ghost",
+            "faces",
+            "figures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text at the bottom reads, \"A journey into the mind of America's most daring film auteur!\" in bold red and white letters, and it also includes the phrase \"Haunted Hollywood.\"",
+        "sentence_cn": "底部的文字用粗体红白字母写着“走进美国最勇敢的电影导演的内心世界！”其中还包括“闹鬼的好莱坞”这句话。",
+        "words": [
+            "A journey into the mind of America's most daring film auteur!",
+            "Haunted Hollywood.",
+            "text",
+            "bottom",
+            "journey",
+            "mind",
+            "America",
+            "film",
+            "auteur",
+            "letters",
+            "phrase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster conveys a sense of mystery and intrigue, drawing attention to the eccentric and bold style of filmmaker Edward D. Wood Jr.",
+        "sentence_cn": "海报传达出一种神秘和有趣的感觉，吸引人们关注电影制片人爱德华·伍德 (Edward D. Wood Jr.) 古怪而大胆的风格。",
+        "words": [
+            "poster",
+            "sense",
+            "mystery",
+            "intrigue",
+            "attention",
+            "style",
+            "filmmaker"
+        ],
+        "id": null
+    }
+]

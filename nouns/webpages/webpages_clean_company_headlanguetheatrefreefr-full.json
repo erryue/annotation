@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage for Head-Langue Theatre.",
+        "sentence_cn": "该图是 Head-Langue Theatre 网页的截图。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top is the title \"Head-Langue Theatre\".",
+        "sentence_cn": "顶部是标题“Head-Langue Theatre”。",
+        "words": [
+            "Head-Langue Theatre",
+            "top",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a link to view the content in French.",
+        "sentence_cn": "右侧有一个链接可以查看法语内容。",
+        "words": [
+            "right",
+            "link",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is a horizontal image strip featuring various photos of theatrical performances, including scenes with actors in costume and dramatic lighting.",
+        "sentence_cn": "标题下方是一个水平图像带，其中包含各种戏剧表演的照片，包括演员身着服装和戏剧灯光的场景。",
+        "words": [
+            "header",
+            "strip",
+            "photos",
+            "performances",
+            "scenes",
+            "actors",
+            "costume",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left sidebar has a simple navigation menu with links titled \"Home,\" \"In Creation,\" marked with \"Coming soon,\" \"Images\" with a sub-link \"Gallery,\" and \"The company\" with sub-links \"Past productions\" and \"Contact.\"",
+        "sentence_cn": "左侧边栏有一个简单的导航菜单，其中的链接标题为“主页”，“创作中”，标有“即将推出”，“图片”带有子链接“图库”，“公司”带有子链接“过去的作品”和“联系方式”。",
+        "words": [
+            "Home,",
+            "In Creation,",
+            "Coming soon,",
+            "Images",
+            "Gallery,",
+            "The company",
+            "Past productions",
+            "Contact.",
+            "sidebar",
+            "navigation",
+            "menu",
+            "links",
+            "Home",
+            "Creation",
+            "Images",
+            "sub",
+            "-",
+            "link",
+            "Gallery",
+            "company",
+            "sub",
+            "-",
+            "links",
+            "productions",
+            "Contact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content area features a quote from Fringe Report, August 2008, praising the theatre's style.",
+        "sentence_cn": "主要内容区域引用了 2008 年 8 月《Fringe Report》杂志的一句话，赞扬了该剧院的风格。",
+        "words": [
+            "content",
+            "area",
+            "quote",
+            "2008",
+            "theatre",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the quote, there is a description of Head-Langue Theatre, outlining its focus on movement, mask, writing, and sound.",
+        "sentence_cn": "引文下方是对头语言剧院的描述，概述了其对动作、面具、写作和声音的关注。",
+        "words": [
+            "quote",
+            "focus",
+            "movement",
+            "mask",
+            "writing",
+            "sound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions that the company was founded in 2002 by Nydia Hetherington in Paris and highlights its exploration of imaginative theatrical concepts.",
+        "sentence_cn": "其中提到，该公司由 Nydia Hetherington 于 2002 年在巴黎创立，并强调了其对富有想象力的戏剧概念的探索。",
+        "words": [
+            "company",
+            "2002",
+            "Paris",
+            "exploration",
+            "concepts"
+        ],
+        "id": null
+    }
+]

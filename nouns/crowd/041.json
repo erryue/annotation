@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image shows four men standing outdoors in a wooded area, possibly at a campsite or park, given the presence of trees and a wooden cabin in the background.",
+        "sentence_cn": "照片显示四名男子站在树林户外，可能是在露营地或公园，因为背景有树木和一间木屋。",
+        "words": [
+            "four",
+            "men",
+            "area",
+            "campsite",
+            "park",
+            "presence",
+            "trees",
+            "cabin",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "All four individuals are looking at their smartphones.",
+        "sentence_cn": "四个人都在看着自己的智能手机。",
+        "words": [
+            "four",
+            "individuals",
+            "smartphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- First man (left): Wearing a dark-colored peacoat and a colorful scarf.",
+        "sentence_cn": "- 第一名男子（左）：身穿深色豌豆大衣和彩色围巾。",
+        "words": [
+            "First man (left)",
+            "man",
+            "peacoat",
+            "scarf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has a unique facial expression, slightly smirking while holding his phone.",
+        "sentence_cn": "他有着独特的面部表情，拿着手机时略带笑意。",
+        "words": [
+            "expression",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Second man (middle left): Wearing a yellow beanie, a blue hoodie over a button-up shirt, and dark pants.",
+        "sentence_cn": "- 第二名男子（中间左侧）：戴着黄色无檐小帽，纽扣衬衫外面套着蓝色连帽衫，下身穿着深色裤子。",
+        "words": [
+            "Second man (middle left)",
+            "man",
+            "beanie",
+            "hoodie",
+            "shirt",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is focused on his phone.",
+        "sentence_cn": "他正专心看着手机。",
+        "words": [
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Third man (middle right): Wearing a green jacket over a gray hoodie.",
+        "sentence_cn": "- 第三名男子（中右）：身穿绿色夹克，外面套着灰色连帽衫。",
+        "words": [
+            "Third man (middle right)",
+            "man",
+            "jacket",
+            "hoodie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has curly hair and is engrossed in his phone.",
+        "sentence_cn": "他有一头卷发，正全神贯注地看着手机。",
+        "words": [
+            "hair",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Fourth man (right): Wearing glasses and a gray hoodie with a winter hat featuring a pattern and tassels.",
+        "sentence_cn": "- 第四名男子（右）：戴着眼镜，身穿灰色连帽衫，头戴带有图案和流苏的冬帽。",
+        "words": [
+            "Fourth man (right)",
+            "man",
+            "glasses",
+            "hoodie",
+            "winter",
+            "hat",
+            "pattern",
+            "tassels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is also looking at his phone.",
+        "sentence_cn": "他也正在看手机。",
+        "words": [
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is covered with pine needles and the atmosphere appears chilly, suggested by their clothing.",
+        "sentence_cn": "地面上布满了松针，从他们的衣着可以看出，气氛有些寒冷。",
+        "words": [
+            "ground",
+            "pine",
+            "needles",
+            "atmosphere",
+            "clothing"
+        ],
+        "id": null
+    }
+]

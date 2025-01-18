@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts an outdoor gathering, possibly a social event or party, held on a grassy area near a body of water, visible in the background.",
+        "sentence_cn": "图片描绘的是一次户外聚会，可能是社交活动或派对，在背景中可见的水域附近的草地上举行。",
+        "words": [
+            "gathering",
+            "event",
+            "party",
+            "area",
+            "body",
+            "water",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene features several people dressed in semi-formal or formal attire, such as dresses and suits.",
+        "sentence_cn": "场景中有几个人穿着半正式或正式服装，如连衣裙和西装。",
+        "words": [
+            "scene",
+            "people",
+            "attire",
+            "dresses",
+            "suits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a table set with chairs under a large umbrella, indicating a casual seating area for guests.",
+        "sentence_cn": "前景中，一把大伞下摆放着一张桌子和几把椅子，表明这是客人的休闲座位区。",
+        "words": [
+            "foreground",
+            "table",
+            "chairs",
+            "umbrella",
+            "seating",
+            "area",
+            "guests"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Toward the center, a prominent, large tree provides a natural backdrop, adding to the scenic atmosphere.",
+        "sentence_cn": "朝着中心，一棵显眼的大树提供了自然的背景，增添了风景的氛围。",
+        "words": [
+            "center",
+            "tree",
+            "backdrop",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A group of people are gathering near a wooden deck with stairs on the right side of the image, suggesting the possibility of a house or building nearby.",
+        "sentence_cn": "图像右侧有一群人聚集在一个带楼梯的木质甲板附近，这表明附近可能有房屋或建筑物。",
+        "words": [
+            "group",
+            "people",
+            "deck",
+            "stairs",
+            "possibility",
+            "house",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting appears to be relaxed and elegant, with elements of nature and social interaction blended together.",
+        "sentence_cn": "整体环境显得轻松而优雅，融合了自然元素和社交互动。",
+        "words": [
+            "elements",
+            "nature",
+            "interaction"
+        ],
+        "id": null
+    }
+]

@@ -1,13 +1,12 @@
 [
     {
-        "sentence": "The image shows a well-equipped home office or workspace featuring multiple electronic devices on a wooden desk.",
-        "sentence_cn": "图中显示的是一个设备齐全的家庭办公室或工作区，一张木桌上摆放着多台电子设备。",
+        "sentence": "The image depicts a cluttered workspace with several electronic devices and office supplies.",
+        "sentence_cn": "图像描绘了一个杂乱的工作空间，里面摆放着各种电子设备和办公用品。",
         "words": [
-            "home",
-            "office",
             "workspace",
             "devices",
-            "desk"
+            "office",
+            "supplies"
         ],
         "id": null
     },
@@ -18,38 +17,12 @@
         "id": null
     },
     {
-        "sentence": "1. **Monitors and Computers**:",
-        "sentence_cn": "1. **显示器和电脑**：",
+        "sentence": "1. Monitors and Laptops:",
+        "sentence_cn": "1. 显示器和笔记本电脑：",
         "words": [
-            "Monitors and Computers",
+            "Monitors and Laptops",
             "Monitors",
-            "Computers"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - There are three laptops and one desktop monitor.",
-        "sentence_cn": "- 有三台笔记本电脑和一台台式显示器。",
-        "words": [
-            "three",
-            "laptops",
-            "one",
-            "desktop",
-            "monitor"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - A white laptop is on a black desk mat, displaying a web browser with a translation page open.",
-        "sentence_cn": "- 黑色桌垫上放着一台白色笔记本电脑，其中显示着一个打开了翻译页面的网络浏览器。",
-        "words": [
-            "laptop",
-            "desk",
-            "mat",
-            "web",
-            "browser",
-            "translation",
-            "page"
+            "Laptops"
         ],
         "id": null
     },
@@ -60,152 +33,72 @@
         "id": null
     },
     {
-        "sentence": "- A smaller white netbook with a white mouse on a floral mouse pad is on the right.",
-        "sentence_cn": "- 右侧是一台较小的白色上网本，上面有一只白色鼠标，放在一个花卉鼠标垫上。",
+        "sentence": "- There are two laptops on the desk, one white and another one silver with a black keyboard.",
+        "sentence_cn": "- 桌子上有两台笔记本电脑，一台是白色的，另一台是银色的，配有黑色键盘。",
+        "words": [
+            "two",
+            "laptops",
+            "desk",
+            "one",
+            "one",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The white laptop shows a web page, while the silver one displays an image of a starfish.",
+        "sentence_cn": "白色笔记本电脑显示网页，而银色笔记本电脑则显示海星图像。",
+        "words": [
+            "laptop",
+            "web",
+            "page",
+            "one",
+            "starfish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There's a small white netbook in the center of the desk, displaying several icons on its screen.",
+        "sentence_cn": "- 桌子中央有一台白色的小型上网本，屏幕上显示着几个图标。",
         "words": [
             "netbook",
-            "mouse",
-            "mouse",
-            "pad",
-            "right"
+            "center",
+            "desk",
+            "icons",
+            "screen"
         ],
         "id": null
     },
     {
-        "sentence": "   ",
-        "sentence_cn": "",
-        "words": [],
-        "id": null
-    },
-    {
-        "sentence": "- A larger open laptop with a black keyboard and a desktop background featuring a star-shaped object is in the lower right corner.",
-        "sentence_cn": "- 右下角有一台更大的打开的笔记本电脑，配有黑色键盘和以星形物体为背景的桌面背景。",
+        "sentence": "   - An external monitor is positioned at the back-left corner with a large white screen, possibly connected to one of the laptops.",
+        "sentence_cn": "- 外接显示器位于左后角，有一个大的白色屏幕，可能连接到其中一台笔记本电脑。",
         "words": [
-            "laptop",
-            "keyboard",
-            "desktop",
-            "background",
-            "star",
-            "object",
-            "corner"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   ",
-        "sentence_cn": "",
-        "words": [],
-        "id": null
-    },
-    {
-        "sentence": "- An external desktop monitor is at the back, displaying a document or web page.",
-        "sentence_cn": "- 后面有一个外接桌面显示器，可显示文档或网页。",
-        "words": [
-            "desktop",
             "monitor",
-            "back",
-            "document",
-            "web",
-            "page"
+            "corner",
+            "screen",
+            "one",
+            "laptops"
         ],
         "id": null
     },
     {
-        "sentence": "A small plush toy and a pen holder with pens and markers are situated near it.",
-        "sentence_cn": "旁边放着一个小毛绒玩具和一个放着笔和记号笔的笔筒。",
+        "sentence": "2. Computer Accessories:",
+        "sentence_cn": "2. 电脑配件：",
         "words": [
-            "plush",
-            "toy",
-            "pen",
-            "holder",
-            "pens",
-            "markers"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "2. **Desk Accessories**:",
-        "sentence_cn": "2. **办公桌配件**:",
-        "words": [
-            "Desk Accessories",
-            "Desk",
+            "Computer Accessories",
+            "Computer",
             "Accessories"
         ],
         "id": null
     },
     {
-        "sentence": "   - There is a variety of stationery such as pens, markers, and other items in colorful holders.",
-        "sentence_cn": "- 彩色支架上摆放着各种文具，如钢笔、记号笔和其他物品。",
+        "sentence": "   - A black computer mouse is placed on a white surface near the white laptop.",
+        "sentence_cn": "- 一只黑色的电脑鼠标放在白色笔记本电脑附近的白色表面上。",
         "words": [
-            "variety",
-            "stationery",
-            "pens",
-            "markers",
-            "items",
-            "holders"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - A calculator is placed near the upper left area next to the monitor.",
-        "sentence_cn": "- 计算器放置在显示器左上角附近。",
-        "words": [
-            "calculator",
-            "area",
-            "monitor"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - An external speaker, remote control, and wires are scattered around, indicating a typical busy workstation.",
-        "sentence_cn": "- 外部扬声器、遥控器和电线散落在周围，表明这是一个典型的繁忙工作站。",
-        "words": [
-            "speaker",
-            "control",
-            "wires",
-            "workstation"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "3. **Shelving and Storage**:",
-        "sentence_cn": "3.**货架和储存**:",
-        "words": [
-            "Shelving and Storage",
-            "Shelving",
-            "Storage"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - On the right side, a bookshelf filled with CDs and other media is visible.",
-        "sentence_cn": "- 右侧可以看到一个摆满 CD 和其他媒体的书架。",
-        "words": [
-            "bookshelf",
-            "CDs",
-            "media"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - The desk is part of a larger wall unit that houses additional storage or decorative items.",
-        "sentence_cn": "- 书桌是较大的墙壁单元的一部分，可容纳额外的存储空间或装饰物品。",
-        "words": [
-            "desk",
-            "part",
-            "wall",
-            "unit",
-            "storage",
-            "items"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "4. **Overall Environment**:",
-        "sentence_cn": "4. **整体环境**:",
-        "words": [
-            "Overall Environment",
-            "Environment"
+            "computer",
+            "mouse",
+            "surface",
+            "laptop"
         ],
         "id": null
     },
@@ -216,36 +109,172 @@
         "id": null
     },
     {
-        "sentence": "- The workspace is compact yet efficiently organized with a focus on technology and productivity.",
-        "sentence_cn": "- 工作空间紧凑但组织高效，注重技术和生产力。",
+        "sentence": "- Another white mouse on a sunflower-themed mouse pad is next to the netbook.",
+        "sentence_cn": "- 上网本旁边是另一只白色老鼠，放在向日葵主题的鼠标垫上。",
         "words": [
-            "workspace",
-            "focus",
-            "technology",
-            "productivity"
+            "mouse",
+            "sunflower",
+            "mouse",
+            "pad",
+            "netbook"
         ],
         "id": null
     },
     {
-        "sentence": "   - The combination of devices suggests a multitasking work environment.",
-        "sentence_cn": "- 设备的组合表明存在多任务的工作环境。",
+        "sentence": "3. Audio Equipment:",
+        "sentence_cn": "3.音频设备：",
         "words": [
-            "combination",
-            "devices",
-            "work",
-            "environment"
+            "Audio Equipment",
+            "Audio",
+            "Equipment"
         ],
         "id": null
     },
     {
-        "sentence": "This setup indicates a tech-savvy workspace possibly used for tasks that require multiple screens or devices.",
-        "sentence_cn": "此设置表明技术娴熟的工作空间可能用于需要多个屏幕或设备的任务。",
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A single desktop speaker is visible behind the netbook, indicating a basic audio setup.",
+        "sentence_cn": "- 上网本后面可以看到一个桌面扬声器，表明有一个基本的音频设置。",
         "words": [
-            "tech",
+            "desktop",
+            "speaker",
+            "netbook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Office Supplies:",
+        "sentence_cn": "4. 办公用品：",
+        "words": [
+            "Office Supplies",
+            "Office",
+            "Supplies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The back of the desk has several colorful containers holding pens and other small items.",
+        "sentence_cn": "- 桌子后面有几个彩色的容器，可以放置笔和其他小物品。",
+        "words": [
+            "back",
+            "desk",
+            "containers",
+            "pens",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A stuffed toy of a dog sits next to the monitor.",
+        "sentence_cn": "- 一只狗的毛绒玩具放在显示器旁边。",
+        "words": [
+            "toy",
+            "dog",
+            "monitor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A keypad/calculator is next to the stuffed toy.",
+        "sentence_cn": "- 毛绒玩具旁边有一个键盘/计算器。",
+        "words": [
+            "keypad",
+            "calculator",
+            "toy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Furniture and Arrangement:",
+        "sentence_cn": "5. 家具及布置：",
+        "words": [
+            "Furniture and Arrangement",
+            "Furniture",
+            "Arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A wooden shelving unit or desk surface is filled with CDs and books on the right side.",
+        "sentence_cn": "- 右侧的木制搁架或桌面上摆满了 CD 和书籍。",
+        "words": [
+            "shelving",
+            "unit",
+            "desk",
+            "surface",
+            "CDs",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The desk is mainly wooden with a dark surface area where the white laptop is placed.",
+        "sentence_cn": "- 桌子主要由木质构成，表面为深色，放置着白色的笔记本电脑。",
+        "words": [
+            "desk",
+            "surface",
+            "area",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A gray and blue office chair is partially visible, tucked under the desk.",
+        "sentence_cn": "- 一把灰色和蓝色的办公椅部分可见，藏在桌子下面。",
+        "words": [
+            "office",
+            "chair",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Other Equipment:",
+        "sentence_cn": "6.其他设备：",
+        "words": [
+            "Other Equipment",
+            "Equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An external modem or router is present on the desk near the silver laptop.",
+        "sentence_cn": "- 银色笔记本电脑附近的桌子上有一个外部调制解调器或路由器。",
+        "words": [
+            "modem",
+            "router",
+            "desk",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the desk appears to be a versatile workspace with various electronics and personal touches, designed for multitasking or development work.",
+        "sentence_cn": "总体而言，这张办公桌似乎是一个多功能的工作空间，配有各种电子设备和个人风格，专为多任务处理或开发工作而设计。",
+        "words": [
+            "desk",
             "workspace",
-            "tasks",
-            "screens",
-            "devices"
+            "electronics",
+            "touches",
+            "multitasking",
+            "development",
+            "work"
         ],
         "id": null
     }

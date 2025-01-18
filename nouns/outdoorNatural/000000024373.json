@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a savanna landscape with two giraffes walking across a grassy field.",
+        "sentence_cn": "图片描绘的是一片大草原景观，两只长颈鹿正在草地上行走。",
+        "words": [
+            "savanna",
+            "landscape",
+            "two",
+            "giraffes",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The terrain is flat and covered with a mixture of short and tall grass.",
+        "sentence_cn": "地势平坦，长满高低草。",
+        "words": [
+            "terrain",
+            "mixture",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are a few scattered, flat-topped acacia trees typical of savanna regions.",
+        "sentence_cn": "背景中散落着几棵典型的热带草原地区的平顶金合欢树。",
+        "words": [
+            "background",
+            "acacia",
+            "trees",
+            "savanna",
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is clear with a light blue hue, indicating a bright day.",
+        "sentence_cn": "上方的天空晴朗，呈现淡蓝色，预示着晴朗的一天。",
+        "words": [
+            "sky",
+            "hue",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffes are characterized by their long necks and distinctive spotted patterns on their coats.",
+        "sentence_cn": "长颈鹿的特点是脖子长，皮毛上有独特的斑点图案。",
+        "words": [
+            "giraffes",
+            "necks",
+            "patterns",
+            "coats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a sense of calm and openness typical of a natural African savanna environment.",
+        "sentence_cn": "整体场景传达出非洲自然大草原环境典型的平静和开放的感觉。",
+        "words": [
+            "scene",
+            "sense",
+            "calm",
+            "openness",
+            "savanna",
+            "environment"
+        ],
+        "id": null
+    }
+]

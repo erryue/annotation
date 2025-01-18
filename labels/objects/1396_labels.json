@@ -1,0 +1,46 @@
+[
+    {
+        "id": "24ce1d16-1d63-4e9f-92a3-6cd51d57ae85",
+        "confidence": 0.90724,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 394.04449,
+                        "minY": 437.47229,
+                        "maxX": 435.21255,
+                        "maxY": 525.54358
+                    },
+                    "x": 394.04449,
+                    "y": 437.47229,
+                    "w": 41.168060000000025,
+                    "h": 88.07129000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "e21982ab-ee40-49f7-bbd1-b26e79458eb4",
+        "confidence": 0.81884,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 72.21294,
+                        "minY": 301.3501,
+                        "maxX": 243.09517,
+                        "maxY": 531.51959
+                    },
+                    "x": 72.21294,
+                    "y": 301.3501,
+                    "w": 170.88223,
+                    "h": 230.16949
+                }
+            }
+        }
+    }
+]

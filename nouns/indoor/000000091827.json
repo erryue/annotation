@@ -1,0 +1,158 @@
+[
+    {
+        "sentence": "The image depicts a cozy kitchen with a warm, inviting atmosphere.",
+        "sentence_cn": "图像描绘的是一间舒适的厨房，有着温暖、诱人的氛围。",
+        "words": [
+            "kitchen",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen features wooden cabinets with a honey-colored finish, providing ample storage space.",
+        "sentence_cn": "厨房配有蜂蜜色木质橱柜，提供充足的存储空间。",
+        "words": [
+            "kitchen",
+            "cabinets",
+            "honey",
+            "finish",
+            "storage",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A granite countertop runs along the length of the cabinets, accommodating a double sink with a gooseneck faucet.",
+        "sentence_cn": "花岗岩台面沿着橱柜的长度延伸，容纳带鹅颈水龙头的双水槽。",
+        "words": [
+            "granite",
+            "countertop",
+            "length",
+            "cabinets",
+            "sink",
+            "gooseneck",
+            "faucet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The counter also holds various kitchen essentials, such as a knife block, a decorative vase, and a bowl.",
+        "sentence_cn": "柜台上还放置了各种厨房必需品，例如刀架、装饰花瓶和碗。",
+        "words": [
+            "counter",
+            "kitchen",
+            "essentials",
+            "knife",
+            "block",
+            "vase",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the sink are two large windows adorned with patterned yellow curtains, allowing natural light to brighten the space.",
+        "sentence_cn": "水槽上方是两扇大窗户，装饰着带图案的黄色窗帘，自然光照亮了整个空间。",
+        "words": [
+            "sink",
+            "two",
+            "windows",
+            "curtains",
+            "light",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backsplash is made of small, square, multi-colored tiles that complement the countertop.",
+        "sentence_cn": "后挡板由小方形多色瓷砖制成，与台面相得益彰。",
+        "words": [
+            "backsplash",
+            "tiles",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a large white refrigerator with a freezer section.",
+        "sentence_cn": "右边有一台带冷冻室的白色大冰箱。",
+        "words": [
+            "right",
+            "refrigerator",
+            "freezer",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is covered with classic black and white checkerboard tiles, adding a touch of vintage charm to the kitchen.",
+        "sentence_cn": "地板上铺着经典的黑白棋盘格瓷砖，给厨房增添了一丝复古的魅力。",
+        "words": [
+            "floor",
+            "checkerboard",
+            "tiles",
+            "touch",
+            "charm",
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An archway leads to an adjoining room, which appears to be a dining area.",
+        "sentence_cn": "拱门通向相邻的房间，那里看起来像是用餐区。",
+        "words": [
+            "archway",
+            "room",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dining area features a round table with dark wood chairs, set against a window that further enhances the light and airy feel of the space.",
+        "sentence_cn": "用餐区设有一张圆桌和深色木椅，靠窗放置，进一步增强了空间的明亮和通风感。",
+        "words": [
+            "dining",
+            "area",
+            "table",
+            "wood",
+            "chairs",
+            "window",
+            "feel",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a globe pendant light hanging over the table.",
+        "sentence_cn": "桌子上方还悬挂着一个球形吊灯。",
+        "words": [
+            "globe",
+            "pendant",
+            "light",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls in both rooms are painted a soft white, creating a cohesive look.",
+        "sentence_cn": "两个房间的墙壁都漆成柔和的白色，营造出一种统一的外观。",
+        "words": [
+            "walls",
+            "rooms",
+            "white",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the kitchen is a blend of classic and functional design elements.",
+        "sentence_cn": "总体而言，厨房融合了经典和实用的设计元素。",
+        "words": [
+            "kitchen",
+            "blend",
+            "design",
+            "elements"
+        ],
+        "id": null
+    }
+]

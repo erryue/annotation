@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image depicts a serene rural scene with a green field and several Highland cattle grazing.",
+        "sentence_cn": "图像描绘的是一片宁静的乡村景色，有一片绿色的田野和几头正在吃草的高地牛。",
+        "words": [
+            "scene",
+            "field",
+            "cattle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are three adult cows and two calves visible in the foreground.",
+        "sentence_cn": "前景中可以看到三头成年母牛和两头小牛。",
+        "words": [
+            "three",
+            "cows",
+            "two",
+            "calves",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One cow and the two calves are lying on the grass while the other two cows stand nearby.",
+        "sentence_cn": "一头母牛和两头小牛躺在草地上，另外两头母牛站在附近。",
+        "words": [
+            "One",
+            "cow",
+            "two",
+            "calves",
+            "grass",
+            "two",
+            "cows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a picturesque lighthouse with red roof tiles and a distinct red top.",
+        "sentence_cn": "背景中有一座风景如画的灯塔，其屋顶瓦片为红色，顶部为独特的红色。",
+        "words": [
+            "background",
+            "lighthouse",
+            "roof",
+            "tiles",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two flags are flying near the lighthouse.",
+        "sentence_cn": "灯塔附近飘扬着两面旗帜。",
+        "words": [
+            "Two",
+            "flags",
+            "lighthouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ocean can be seen beyond the lighthouse, and there's a small sailboat on the water.",
+        "sentence_cn": "透过灯塔就可以看到大海，水面上有一艘小帆船。",
+        "words": [
+            "ocean",
+            "lighthouse",
+            "sailboat",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and light, adding to the peaceful atmosphere.",
+        "sentence_cn": "天空晴朗明亮，增添了宁静的气氛。",
+        "words": [
+            "sky",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image depicts a casual, intimate family gathering on a couch in what appears to be a living room.",
+        "sentence_cn": "照片描绘的是一个家庭在客厅的沙发上轻松、亲密地聚会的场景。",
+        "words": [
+            "family",
+            "gathering",
+            "couch",
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are six people in total, including adults and children, interacting closely with one another.",
+        "sentence_cn": "共有六个人，有大人也有小孩，彼此密切互动。",
+        "words": [
+            "six",
+            "people",
+            "total",
+            "adults",
+            "children",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left side, a young woman is sitting with a relaxed demeanor, wearing a black top.",
+        "sentence_cn": "- 左侧坐着一名年轻女子，身穿黑色上衣，神态轻松。",
+        "words": [
+            "woman",
+            "demeanor",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to her, an older man is visible, resting his head against the young woman and looking content.",
+        "sentence_cn": "- 在她旁边，可以看到一位年长的男人，将头靠在年轻女子身上，看起来很满足。",
+        "words": [
+            "man",
+            "head",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A child with long, dark hair, wearing a floral-patterned shirt, is facing away and engaging with others.",
+        "sentence_cn": "- 一个有着长长的黑色头发、身穿花卉图案衬衫的孩子正背对着其他人与他人交谈。",
+        "words": [
+            "child",
+            "hair",
+            "floral",
+            "shirt",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to this child is a woman in a red top, appearing comfortable on the couch while interacting with the group.",
+        "sentence_cn": "- 这个孩子旁边是一位身穿红色上衣的女人，她看起来很舒服地坐在沙发上与大家互动。",
+        "words": [
+            "child",
+            "woman",
+            "top",
+            "couch",
+            "group"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An adult man in a red polo shirt sits next to her, holding a beer bottle and smiling at a child.",
+        "sentence_cn": "- 一名身穿红色 Polo 衫的成年男子坐在她旁边，手里拿着啤酒瓶，对着一个孩子微笑。",
+        "words": [
+            "adult",
+            "man",
+            "polo",
+            "shirt",
+            "beer",
+            "bottle",
+            "child"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right side, a small child with short hair and a green shirt, adorned with a necklace, is standing on the couch, appearing playful.",
+        "sentence_cn": "- 右侧，一名身穿绿色上衣、短发、戴着项链的小孩站在沙发上，一脸顽皮的表情。",
+        "words": [
+            "child",
+            "hair",
+            "shirt",
+            "necklace",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are all gathered closely, creating a cozy and affectionate atmosphere.",
+        "sentence_cn": "大家紧密聚集在一起，营造出一种温馨、亲切的氛围。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sunlight filters in through blinds in the background, adding warmth to the scene.",
+        "sentence_cn": "阳光透过背景中的百叶窗照射进来，给场景增添了温暖。",
+        "words": [
+            "Sunlight",
+            "blinds",
+            "background",
+            "warmth",
+            "scene"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "sentence": "The image is an infographic detailing the experiences of people who purchased a home with ZipRealty in 2008.",
+        "sentence_cn": "该图是一张信息图，详细介绍了 2008 年通过 ZipRealty 购买房屋的人们的经历。",
+        "words": [
+            "experiences",
+            "people",
+            "home",
+            "2008"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is divided into two sections:",
+        "sentence_cn": "它分为两个部分：",
+        "words": [
+            "two",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Top Section (Red Background)",
+        "sentence_cn": "### 顶部（红色背景）",
+        "words": [
+            "Section",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"Of the people who purchased a home with ZipRealty in 2008...\"",
+        "sentence_cn": "- 标题：“2008 年通过 ZipRealty 购买房屋的人……”",
+        "words": [
+            "Title:",
+            "Of the people who purchased a home with ZipRealty in 2008...",
+            "Title",
+            "people",
+            "home",
+            "2008"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Pie Chart:",
+        "sentence_cn": "1. 左饼图：",
+        "words": [
+            "Left Pie Chart",
+            "Pie",
+            "Chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows 93%.",
+        "sentence_cn": "- 显示 93%。",
+        "words": [
+            "93"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text underneath reads: \"Nearly all ¡®08 buyers still own the home they bought with ZipRealty.\"",
+        "sentence_cn": "- 下面的文字为：“几乎所有 08 年买家仍然拥有他们通过 ZipRealty 购买的房屋。”",
+        "words": [
+            "Nearly all ¡®08 buyers still own the home they bought with ZipRealty.",
+            "Text",
+            "08",
+            "buyers",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Right Pie Chart:",
+        "sentence_cn": "2. 右饼图：",
+        "words": [
+            "Right Pie Chart",
+            "Pie",
+            "Chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows 60%.",
+        "sentence_cn": "- 显示 60%。",
+        "words": [
+            "60"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text underneath reads: \"Most ¡®08 home buyers thought of their new home as a mid to long-term investment, with 60% planning to live there for over seven years.\"",
+        "sentence_cn": "- 下面文字为：“大多数 08 年购房者将新房视为中长期投资，其中 60% 的人计划在那里居住七年以上。”",
+        "words": [
+            "Most ¡®08 home buyers thought of their new home as a mid to long-term investment, with 60% planning to live there for over seven years.",
+            "Text",
+            "08",
+            "home",
+            "buyers",
+            "home",
+            "term",
+            "investment",
+            "60",
+            "seven",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Divider",
+        "sentence_cn": "### 分隔线",
+        "words": [
+            "Divider"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A horizontal line with alternating stars in red, white, and blue.",
+        "sentence_cn": "- 一条水平线，上面交替出现红、白、蓝三色星星。",
+        "words": [
+            "line",
+            "stars",
+            "red",
+            "white",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Bottom Section (Blue Background)",
+        "sentence_cn": "### 底部（蓝色背景）",
+        "words": [
+            "Section",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- First Pie Chart (Left):",
+        "sentence_cn": "- 第一个饼图（左）：",
+        "words": [
+            "First Pie Chart (Left)",
+            "Pie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Shows 73%.",
+        "sentence_cn": "- 显示 73%。",
+        "words": [
+            "73"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Text underneath reads: \"So, even though 73% believe their house has decreased in value...\"",
+        "sentence_cn": "- 下面的文字是：“因此，尽管 73% 的人认为他们的房子价值已经贬值……”",
+        "words": [
+            "So, even though 73% believe their house has decreased in value...",
+            "Text",
+            "73",
+            "house",
+            "value"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Second Pie Chart (Right):",
+        "sentence_cn": "- 第二张饼图（右）：",
+        "words": [
+            "Second Pie Chart (Right)",
+            "Pie",
+            "Chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Shows 61%.",
+        "sentence_cn": "- 显示 61%。",
+        "words": [
+            "61"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Text underneath reads: \"The majority of ¡®08 home buyers feel neutral to significantly better off than they did four years ago.\"",
+        "sentence_cn": "- 下面文字为：“大多数 08 年购房者感觉他们的经济状况与四年前相比有所改善。”",
+        "words": [
+            "The majority of ¡®08 home buyers feel neutral to significantly better off than they did four years ago.",
+            "Text",
+            "majority",
+            "08",
+            "home",
+            "buyers",
+            "four",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Bottom Text",
+        "sentence_cn": "### 底部文字",
+        "words": [
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"The majority feel they are better off today.\"",
+        "sentence_cn": "- “大多数人觉得他们现在的生活过得更好。”",
+        "words": [
+            "The majority feel they are better off today.",
+            "majority",
+            "today"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme suggests that despite fluctuations in home value, most homebuyers from 2008 feel better or neutral about their situation.",
+        "sentence_cn": "总体主题表明，尽管房屋价值有所波动，但 2008 年的大多数购房者对自己的状况感觉更好或持中立态度。",
+        "words": [
+            "theme",
+            "fluctuations",
+            "home",
+            "value",
+            "homebuyers",
+            "2008",
+            "situation"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image shows a group of six people sitting around a dining table in a restaurant.",
+        "sentence_cn": "图为六人围坐在餐厅的餐桌旁。",
+        "words": [
+            "group",
+            "six",
+            "people",
+            "dining",
+            "table",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be socializing and enjoying a meal together.",
+        "sentence_cn": "他们似乎正在一起社交和享用美食。",
+        "words": [
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table is filled with plates, glasses, and a large tray with a salad, indicating that they are likely sharing dishes.",
+        "sentence_cn": "桌子上摆满了盘子、玻璃杯和一个盛有沙拉的大托盘，这表明他们可能正在分享菜肴。",
+        "words": [
+            "table",
+            "plates",
+            "glasses",
+            "tray",
+            "salad",
+            "dishes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is casual and friendly, with everyone engaged in conversation.",
+        "sentence_cn": "气氛轻松而友好，每个人都在交谈。",
+        "words": [
+            "atmosphere",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The seating arrangement includes a dark booth and chairs, and the background features a purple wall, adding a touch of color to the setting.",
+        "sentence_cn": "座位安排包括深色的隔间和椅子，背景是一面紫色的墙壁，为环境增添了一抹色彩。",
+        "words": [
+            "seating",
+            "arrangement",
+            "booth",
+            "chairs",
+            "background",
+            "wall",
+            "touch",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people are dressed in casual attire, and one person is holding a glass, possibly with a beverage, adding to the convivial ambiance.",
+        "sentence_cn": "人们都穿着休闲服装，其中一个人手里拿着玻璃杯，可能还装着饮料，这更增添了欢乐的氛围。",
+        "words": [
+            "people",
+            "attire",
+            "one",
+            "person",
+            "glass",
+            "beverage",
+            "ambiance"
+        ],
+        "id": null
+    }
+]

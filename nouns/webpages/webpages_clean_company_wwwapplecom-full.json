@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from Apple's website.",
+        "sentence_cn": "该图片是苹果网站网页的截图。",
+        "words": [
+            "webpage",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a black navigation bar with links to various Apple product categories: Mac, iPad, iPhone, Watch, Music, and Support.",
+        "sentence_cn": "顶部有一个黑色导航栏，其中有指向各个 Apple 产品类别的链接：Mac、iPad、iPhone、手表、音乐和支持。",
+        "words": [
+            "top",
+            "navigation",
+            "bar",
+            "links",
+            "product",
+            "categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also icons for search and shopping.",
+        "sentence_cn": "还有用于搜索和购物的图标。",
+        "words": [
+            "icons",
+            "search",
+            "shopping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main part of the image features a grayscale background of a close-up of someone playing a guitar.",
+        "sentence_cn": "图像的主要部分是某人弹吉他的特写镜头的灰度背景。",
+        "words": [
+            "part",
+            "background",
+            "close",
+            "up",
+            "guitar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overlaid on this is a promotional message for Apple Music, which includes the Apple logo and the word \"MUSIC.\"",
+        "sentence_cn": "其上覆盖着 Apple Music 的促销信息，其中包括 Apple 标志和“音乐”字样。",
+        "words": [
+            "MUSIC.",
+            "message",
+            "logo",
+            "word",
+            "MUSIC"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text below reads, \"Free, three-month trial now available.\"",
+        "sentence_cn": "下面的文字是“现在可以免费试用三个月。”",
+        "words": [
+            "Free, three-month trial now available.",
+            "Text",
+            "three",
+            "month",
+            "trial"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are links for \"Learn more about Apple Music\" and \"Start listening now.\"",
+        "sentence_cn": "其中有“了解有关 Apple Music 的更多信息”和“立即开始收听”的链接。",
+        "words": [
+            "Learn more about Apple Music",
+            "Start listening now.",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this promotional banner, there are three smaller sections with images and text.",
+        "sentence_cn": "在这个促销横幅下方，有三个较小的部分，其中包含图片和文字。",
+        "words": [
+            "banner",
+            "three",
+            "sections",
+            "images",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The first section shows three people looking at something together, suggesting a collaborative or educational setting.",
+        "sentence_cn": "第一部分展示三个人一起看某个东西，暗示一种合作或教育的环境。",
+        "words": [
+            "section",
+            "three",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The second section displays an array of colorful iPods and iPhones with the words \"The new iPod touch.\"",
+        "sentence_cn": "第二部分展示了一系列色彩鲜艳的 iPod 和 iPhone，上面写着“新款 iPod touch”。",
+        "words": [
+            "The new iPod touch.",
+            "section",
+            "array",
+            "words",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The third section shows a laptop with a pair of Beats headphones, reading \"Giving begins.\"",
+        "sentence_cn": "第三部分展示了一台带有 Beats 耳机的笔记本电脑，上面写着“奉献开始”。",
+        "words": [
+            "Giving begins.",
+            "section",
+            "laptop",
+            "pair",
+            "headphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s also an iPhone in another section labeled \"Why iPhone.\"",
+        "sentence_cn": "另一个标有“为什么是 iPhone”的部分也有一款 iPhone。",
+        "words": [
+            "Why iPhone.",
+            "section"
+        ],
+        "id": null
+    }
+]

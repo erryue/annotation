@@ -1,0 +1,247 @@
+[
+    {
+        "sentence": "The image is a webpage for Liberty Mutual Insurance.",
+        "sentence_cn": "该图是 Liberty Mutual Insurance 的网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design includes several key features:",
+        "sentence_cn": "该设计包括几个主要特点：",
+        "words": [
+            "design",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Header: Features the Liberty Mutual Insurance logo and navigation links for:",
+        "sentence_cn": "1. 标题：包含 Liberty Mutual Insurance 徽标和导航链接：",
+        "words": [
+            "Header",
+            "Header",
+            "logo",
+            "navigation",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Personal Insurance",
+        "sentence_cn": "- 个人保险",
+        "words": [
+            "Insurance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Business Insurance",
+        "sentence_cn": "- 商业保险",
+        "words": [
+            "Business",
+            "Insurance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - International",
+        "sentence_cn": "- 国际的",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - About Us",
+        "sentence_cn": "- 关于我们",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Contact Us",
+        "sentence_cn": "- 联系我们",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Careers",
+        "sentence_cn": "- 招聘",
+        "words": [
+            "Careers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Navigation Bar: Contains options for different types of insurance and services:",
+        "sentence_cn": "2. 导航栏：包含不同类型的保险和服务的选项：",
+        "words": [
+            "Navigation Bar",
+            "Navigation",
+            "options",
+            "types",
+            "insurance",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Auto Insurance",
+        "sentence_cn": "- 汽车保险",
+        "words": [
+            "Auto",
+            "Insurance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Home Insurance",
+        "sentence_cn": "- 房屋保险",
+        "words": [
+            "Home",
+            "Insurance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Life Insurance",
+        "sentence_cn": "- 人寿保险",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Customer Service",
+        "sentence_cn": "- 客户服务",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Claims Center",
+        "sentence_cn": "- 理赔中心",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Insurance Resources",
+        "sentence_cn": "- 保险资源",
+        "words": [
+            "Insurance",
+            "Resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Social Media Icons: Located at the top right for Facebook, Twitter, LinkedIn, YouTube, and Google+.",
+        "sentence_cn": "3. 社交媒体图标：位于右上角，包括 Facebook、Twitter、LinkedIn、YouTube 和 Google+。",
+        "words": [
+            "Social Media Icons",
+            "Media",
+            "Icons",
+            "top",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Main Banner: Displays a family scene with the text \"Bundle Multiple Policies & Save\" and a call to action to \"Learn More About Our Multi-Policy Discount.\"",
+        "sentence_cn": "4. 主横幅：显示家庭场景，其中带有文字“捆绑多项政策并保存”以及行动号召“了解有关我们的多项政策折扣的更多信息”。",
+        "words": [
+            "Main Banner",
+            "Bundle Multiple Policies & Save",
+            "Learn More About Our Multi-Policy Discount.",
+            "Banner",
+            "family",
+            "scene",
+            "text",
+            "Policies",
+            "call",
+            "action",
+            "Discount"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Sections Under Banner:",
+        "sentence_cn": "5. 横幅下的部分：",
+        "words": [
+            "Sections Under Banner",
+            "Sections",
+            "Banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Customer Login: Information on how to pay bills, report or track claims, and manage policies.",
+        "sentence_cn": "- 客户登录：有关如何支付账单、报告或跟踪索赔以及管理政策的信息。",
+        "words": [
+            "Customer Login",
+            "Customer",
+            "Login",
+            "Information",
+            "bills",
+            "claims",
+            "policies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Get a Free Quote: A form to select the type of insurance and enter a zip code to get a quote, with a phone number provided for further assistance.",
+        "sentence_cn": "- 获取免费报价：用于选择保险类型并输入邮政编码以获取报价的表格，并提供电话号码以获得进一步的帮助。",
+        "words": [
+            "Get a Free Quote",
+            "Quote",
+            "form",
+            "type",
+            "insurance",
+            "zip",
+            "code",
+            "quote",
+            "phone",
+            "number",
+            "assistance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Find a Local Agent: Suggests finding local agents and offices.",
+        "sentence_cn": "- 寻找当地代理商：建议寻找当地代理商和办事处。",
+        "words": [
+            "Find a Local Agent",
+            "Agent",
+            "agents",
+            "offices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "6. Bottom Section: Promotes auto savings and discounts with a partial view titled \"BETTER CAR.\"",
+        "sentence_cn": "6. 底部部分：通过标题为“更好的汽车”的部分视图来宣传汽车节省和折扣。",
+        "words": [
+            "Bottom Section",
+            "BETTER CAR.",
+            "Section",
+            "auto",
+            "savings",
+            "discounts",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is clean and organized, focusing on easy navigation and clear calls to action for prospective and current customers.",
+        "sentence_cn": "设计简洁、井然有序，注重轻松导航以及针对潜在和现有客户的明确行动号召。",
+        "words": [
+            "design",
+            "navigation",
+            "calls",
+            "action",
+            "customers"
+        ],
+        "id": null
+    }
+]

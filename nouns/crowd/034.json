@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image shows a group of children playing on a grassy field.",
+        "sentence_cn": "图中显示一群孩子在草地上玩耍。",
+        "words": [
+            "group",
+            "children",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two children are actively running; a girl in a pink shirt and denim shorts is being chased or tagged by another child in a white T-shirt and navy shorts.",
+        "sentence_cn": "前景中，两个孩子正在奔跑；一个穿着粉色衬衫和牛仔短裤的女孩被另一个穿着白色 T 恤和海军蓝短裤的孩子追逐或跟踪。",
+        "words": [
+            "foreground",
+            "two",
+            "children",
+            "girl",
+            "shirt",
+            "denim",
+            "shorts",
+            "child",
+            "T",
+            "shirt",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The action indicates a playful atmosphere, possibly a game of tag.",
+        "sentence_cn": "这个动作表明了一种有趣的氛围，可能是一场捉迷藏游戏。",
+        "words": [
+            "action",
+            "atmosphere",
+            "game",
+            "tag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, two children are sitting on the grass, watching the game.",
+        "sentence_cn": "背景中，两个孩子坐在草地上观看比赛。",
+        "words": [
+            "background",
+            "two",
+            "children",
+            "grass",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One child is leaning on their hands with legs outstretched, and another is lying down with their head propped up by a hand.",
+        "sentence_cn": "一个孩子双手撑地，双腿伸直，另一个孩子躺着，用手支撑着头。",
+        "words": [
+            "One",
+            "child",
+            "hands",
+            "legs",
+            "head",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is an adult standing further back, partially visible, suggesting supervision.",
+        "sentence_cn": "后面更远的地方站着一位成年人，部分可见，表示在进行监督。",
+        "words": [
+            "adult",
+            "supervision"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surroundings include some neatly trimmed bushes, a patch of flowers, and a red brick building partially visible on the left side.",
+        "sentence_cn": "周围环境包括一些修剪整齐的灌木丛、一片花丛和左侧部分可见的红砖建筑。",
+        "words": [
+            "surroundings",
+            "bushes",
+            "patch",
+            "flowers",
+            "brick",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An orange cone is seen behind the running children, possibly marking an area for the game.",
+        "sentence_cn": "奔跑的孩子们身后有一个橙色锥体，可能标记着游戏区域。",
+        "words": [
+            "orange",
+            "cone",
+            "children",
+            "area",
+            "game"
+        ],
+        "id": null
+    }
+]

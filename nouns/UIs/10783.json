@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image displays a mobile screen showing a collection of hand-drawn sketches of men's noses.",
+        "sentence_cn": "图像显示的是手机屏幕上的一系列男性鼻子的手绘草图。",
+        "words": [
+            "screen",
+            "collection",
+            "hand",
+            "sketches",
+            "men",
+            "noses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are nine drawings arranged in a 3x3 grid.",
+        "sentence_cn": "共有 9 幅画以 3x3 的网格排列。",
+        "words": [
+            "nine",
+            "drawings",
+            "3x3",
+            "grid"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each sketch portrays a different style or angle of a nose, utilizing minimalistic black lines to define the shapes.",
+        "sentence_cn": "每张草图都描绘了鼻子的不同风格或角度，并利用简约的黑线来定义形状。",
+        "words": [
+            "sketch",
+            "style",
+            "angle",
+            "nose",
+            "lines",
+            "shapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a dark red banner with the title \"Face Draw Men Noses.\"",
+        "sentence_cn": "顶部有一条深红色的横幅，标题为“脸上画出男人的鼻子”。",
+        "words": [
+            "Face Draw Men Noses.",
+            "top",
+            "banner",
+            "title",
+            "Face",
+            "Noses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, a white banner contains an advertisement for \"hotwire,\" showing a trip from San Francisco, California for $162 with a \"View\" button.",
+        "sentence_cn": "下面是一条白色横幅，上面是“hotwire”的广告，显示从加利福尼亚州旧金山出发的旅行费用为 162 美元，并带有“查看”按钮。",
+        "words": [
+            "hotwire,",
+            "View",
+            "banner",
+            "trip",
+            "San",
+            "Francisco",
+            "California",
+            "162",
+            "View",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom red bar displays several small icons, including images of eyes and drawings, indicating other sketching options or tools available in the app.",
+        "sentence_cn": "底部的红色栏显示了几个小图标，包括眼睛和图画的图像，表示应用程序中可用的其他素描选项或工具。",
+        "words": [
+            "bar",
+            "icons",
+            "images",
+            "eyes",
+            "drawings",
+            "sketching",
+            "options",
+            "tools",
+            "app"
+        ],
+        "id": null
+    }
+]

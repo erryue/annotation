@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Private Benjamin.\"",
+        "sentence_cn": "图片是《大兵本杰明》的电影海报。",
+        "words": [
+            "Private Benjamin.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a close-up of a woman's face, who appears to be wearing a military helmet.",
+        "sentence_cn": "照片中突出的是一张女人脸部的特写镜头，女人似乎戴着军用头盔。",
+        "words": [
+            "close",
+            "up",
+            "woman",
+            "face",
+            "helmet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her expression is tired and somewhat confused, with dark circles under her eyes and slightly tousled hair.",
+        "sentence_cn": "她的表情很疲惫，有点困惑，眼睛下面有黑眼圈，头发有点凌乱。",
+        "words": [
+            "expression",
+            "circles",
+            "eyes",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above her, in white text, is the tagline: \"The Army was no laughing matter until Judy Benjamin joined it.\"",
+        "sentence_cn": "在她上方，用白色文字写着一句标语：“在朱迪·本杰明加入军队之前，军队从来都不是笑话。”",
+        "words": [
+            "The Army was no laughing matter until Judy Benjamin joined it.",
+            "text",
+            "tagline",
+            "matter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below her face, the title \"PRIVATE BENJAMIN\" is displayed in bold, pink letters, with the actress's name, \"GOLDIE HAWN,\" in gold letters above it.",
+        "sentence_cn": "在她的脸下方，标题“列兵本杰明”以粗体粉红色字母显示，而上方则用金色字母显示女演员的名字“戈尔迪·霍恩”。",
+        "words": [
+            "PRIVATE BENJAMIN",
+            "GOLDIE HAWN,",
+            "face",
+            "title",
+            "letters",
+            "actress",
+            "name",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster also includes credits at the bottom, listing the main cast and crew.",
+        "sentence_cn": "海报底部还附有演职员表，列出了主要演员和剧组人员。",
+        "words": [
+            "poster",
+            "credits",
+            "bottom",
+            "cast",
+            "crew"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions that the film is directed by Howard Zieff and includes names like Eileen Brennan, Armand Assante, and others.",
+        "sentence_cn": "其中提到，这部电影由霍华德·齐夫执导，演员阵容包括艾琳·布伦南、阿曼德·阿山特等。",
+        "words": [
+            "film",
+            "names",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster specifies that the movie is rated R.",
+        "sentence_cn": "海报上明确指出该电影被评为R级。",
+        "words": [
+            "poster",
+            "movie",
+            "R."
+        ],
+        "id": null
+    }
+]

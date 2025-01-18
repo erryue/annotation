@@ -1,0 +1,90 @@
+[
+    {
+        "id": "f52ac4da-19ce-4988-9630-541ff23c372d",
+        "confidence": 0.89532,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.33917,
+                        "minY": 61.87598,
+                        "maxX": 200.98749,
+                        "maxY": 347.00217
+                    },
+                    "x": 0.33917,
+                    "y": 61.87598,
+                    "w": 200.64832,
+                    "h": 285.12618999999995
+                }
+            }
+        }
+    },
+    {
+        "id": "75585ce4-2b69-43c4-9434-7a5a38d94c9f",
+        "confidence": 0.83245,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 307.06888,
+                        "minY": 42.60068,
+                        "maxX": 472.11542,
+                        "maxY": 217.19528
+                    },
+                    "x": 307.06888,
+                    "y": 42.60068,
+                    "w": 165.04654,
+                    "h": 174.5946
+                }
+            }
+        }
+    },
+    {
+        "id": "b9de1abe-4526-4468-8c03-61c3b2428bb9",
+        "confidence": 0.81627,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 183.11945,
+                        "minY": 56.78966,
+                        "maxX": 342.32077,
+                        "maxY": 283.95859
+                    },
+                    "x": 183.11945,
+                    "y": 56.78966,
+                    "w": 159.20131999999998,
+                    "h": 227.16893000000002
+                }
+            }
+        }
+    },
+    {
+        "id": "8dce43ef-6f13-4f4f-86e4-0941a9d1fe03",
+        "confidence": 0.80738,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 209.32431,
+                        "minY": 166.24646,
+                        "maxX": 499.77576,
+                        "maxY": 374.35098
+                    },
+                    "x": 209.32431,
+                    "y": 166.24646,
+                    "w": 290.45145,
+                    "h": 208.10451999999998
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "sentence": "The image presents the evolution of classic Land Rover models from 1948 to 1985.",
+        "sentence_cn": "图中呈现的是1948年至1985年路虎经典车型的演变历程。",
+        "words": [
+            "evolution",
+            "models",
+            "1948",
+            "1985"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features illustrations and descriptions of four series.",
+        "sentence_cn": "它包含四个系列的插图和描述。",
+        "words": [
+            "illustrations",
+            "descriptions",
+            "four",
+            "series"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. 1948 Series I:",
+        "sentence_cn": "1. 1948 系列 I：",
+        "words": [
+            "1948 Series I",
+            "1948"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features a 4WD manual system and a 4-cylinder engine (I4).",
+        "sentence_cn": "- 具有 4WD 手动系统和 4 缸发动机 (I4)。",
+        "words": [
+            "4WD",
+            "system",
+            "4",
+            "cylinder",
+            "engine",
+            "I4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrated with a front and side view of the vehicle.",
+        "sentence_cn": "- 以车辆的正面和侧面视图进行说明。",
+        "words": [
+            "view",
+            "vehicle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. 1958 Series II:",
+        "sentence_cn": "2. 1958 系列 II：",
+        "words": [
+            "1958 Series II",
+            "1958"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The cabin underwent minor modifications.",
+        "sentence_cn": "- 对机舱进行了细微的改动。",
+        "words": [
+            "cabin",
+            "modifications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The engine was one of the first I4 models with a 2-liter gasoline capacity.",
+        "sentence_cn": "- 该发动机是首批具有 2 升汽油容量的 I4 车型之一。",
+        "words": [
+            "engine",
+            "one",
+            "I4",
+            "models",
+            "2",
+            "liter",
+            "gasoline",
+            "capacity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes illustrated front and side views.",
+        "sentence_cn": "- 包括正面和侧面图解。",
+        "words": [
+            "views"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. 1961 Series IIA:",
+        "sentence_cn": "3. 1961 年 IIA 系列：",
+        "words": [
+            "1961 Series IIA",
+            "1961",
+            "Series"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Identified by its flat bonnet design.",
+        "sentence_cn": "- 通过扁平阀盖设计来识别。",
+        "words": [
+            "bonnet",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Some models had additional detail changes.",
+        "sentence_cn": "- 一些模型有额外的细节变化。",
+        "words": [
+            "models",
+            "detail",
+            "changes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Front and side illustrations are shown.",
+        "sentence_cn": "- 显示正面和侧面的插图。",
+        "words": [
+            "Front",
+            "illustrations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. 1971 Series III:",
+        "sentence_cn": "4. 1971系列III：",
+        "words": [
+            "1971 Series III",
+            "1971",
+            "Series"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Retained the traditional design of the IIA.",
+        "sentence_cn": "- 保留了 IIA 的传统设计。",
+        "words": [
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Over half a million units were produced.",
+        "sentence_cn": "- 生产量超过五十万台。",
+        "words": [
+            "million",
+            "units"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Engine improvements led to varied engines with up to 91 HP.",
+        "sentence_cn": "- 发动机的改进导致了多种发动机的功率高达 91 马力。",
+        "words": [
+            "Engine",
+            "improvements",
+            "engines",
+            "91",
+            "HP"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes front and side illustrations.",
+        "sentence_cn": "- 包括正面和侧面插图。",
+        "words": [
+            "illustrations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout connects each series with arrows, demonstrating the chronological progression, and includes brief descriptions in Spanish about each series' features.",
+        "sentence_cn": "布局通过箭头连接每个系列，展示了时间顺序，并用西班牙语简要描述了每个系列的特点。",
+        "words": [
+            "layout",
+            "series",
+            "arrows",
+            "progression",
+            "descriptions",
+            "series",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Land Rover + Evoluci¨®n\" emphasizes the historical development of these vehicles.",
+        "sentence_cn": "“Land Rover + Evoluci¨®n”这个标题强调了这些车辆的历史发展。",
+        "words": [
+            "Land Rover + Evoluci¨®n",
+            "title",
+            "development",
+            "vehicles"
+        ],
+        "id": null
+    }
+]

@@ -1,101 +1,77 @@
 [
     {
-        "sentence": "The image shows a group of five people in a social, indoor environment, such as a library or cafe.",
-        "sentence_cn": "图像显示了图书馆或咖啡馆等社交室内环境中的一群五人。",
+        "sentence": "The image shows a group of five people engaged in a lively conversation in a bright, indoor setting, likely a library or common area.",
+        "sentence_cn": "图像显示，五个人在明亮的室内环境（可能是图书馆或公共区域）中进行热烈的交谈。",
         "words": [
             "group",
             "five",
             "people",
-            "environment",
+            "conversation",
             "library",
-            "cafe"
+            "area"
         ],
         "id": null
     },
     {
-        "sentence": "- The person sitting on the left is using a laptop with several stickers on it.",
-        "sentence_cn": "- 坐在左边的人正在使用一台贴有几张贴纸的笔记本电脑。",
+        "sentence": "Four people are standing around a person seated comfortably in a cushioned chair.",
+        "sentence_cn": "四个人围着一位舒服地坐在软垫椅子上的人站着。",
         "words": [
+            "Four",
+            "people",
             "person",
-            "left",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The individual seated appears relaxed, smiling up at the others, with a laptop open in front of them adorned with various stickers.",
+        "sentence_cn": "坐着的人看起来很放松，抬头对其他人微笑，面前打开了一台贴满各种贴纸的笔记本电脑。",
+        "words": [
+            "individual",
+            "others",
             "laptop",
+            "front",
             "stickers"
         ],
         "id": null
     },
     {
-        "sentence": "They have curly hair and are smiling, wearing a light-colored shirt and a headband.",
-        "sentence_cn": "他们有着卷发，面带微笑，身穿浅色衬衫，戴着头带。",
+        "sentence": "The standing individuals are leaning in, listening or laughing, suggesting a friendly or humorous exchange.",
+        "sentence_cn": "站着的人倾身聆听或大笑，暗示着友好或幽默的交流。",
         "words": [
-            "hair",
-            "shirt",
-            "headband"
+            "individuals",
+            "exchange"
         ],
         "id": null
     },
     {
-        "sentence": "- A group of four people is standing around the seated person.",
-        "sentence_cn": "- 四个人围着坐着的人站着。",
+        "sentence": "All individuals are casually dressed; two have backpacks, indicating a possibly academic setting.",
+        "sentence_cn": "所有人都穿着休闲，其中两人背着背包，表明可能处于学术环境中。",
         "words": [
-            "group",
-            "four",
-            "people",
-            "person"
+            "individuals",
+            "two",
+            "backpacks"
         ],
         "id": null
     },
     {
-        "sentence": "They appear engaged in conversation, with smiling and laughing expressions.",
-        "sentence_cn": "他们似乎在交谈，面带微笑，笑容满面。",
+        "sentence": "The environment includes chairs and tables, with large windows in the background letting in natural light.",
+        "sentence_cn": "环境包括椅子和桌子，背景有大窗户，可让自然光照进室内。",
         "words": [
-            "conversation",
-            "expressions"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- One of the standing people is wearing a black jacket and jeans, with sunglasses perched on their head.",
-        "sentence_cn": "- 其中一位站着的人身穿黑色夹克和牛仔裤，头上戴着太阳镜。",
-        "words": [
-            "One",
-            "people",
-            "jacket",
-            "jeans",
-            "sunglasses",
-            "head"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- Another is wearing a dark jacket, and they also appear to be smiling broadly.",
-        "sentence_cn": "- 另一人穿着深色夹克，并且看起来也笑容满面。",
-        "words": [
-            "jacket"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- A person with a blue and gray backpack, which has a drink in the side pocket, is wearing a mustard-colored sweater.",
-        "sentence_cn": "- 一个人背着蓝灰色的背包，侧袋里有饮料，身上穿着芥末色的毛衣。",
-        "words": [
-            "person",
-            "backpack",
-            "drink",
-            "pocket",
-            "mustard",
-            "sweater"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- The background includes large windows bringing in substantial natural light, and there are wooden chairs and tables around, suggesting a casual, comfortable setting.",
-        "sentence_cn": "- 背景包括大窗户，带来充足的自然光，周围有木椅和桌子，营造出一种休闲、舒适的氛围。",
-        "words": [
-            "background",
-            "windows",
-            "light",
+            "environment",
             "chairs",
-            "tables"
+            "tables",
+            "windows",
+            "background",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is social and collegial.",
+        "sentence_cn": "整体氛围是社交性和同事性的。",
+        "words": [
+            "atmosphere"
         ],
         "id": null
     }

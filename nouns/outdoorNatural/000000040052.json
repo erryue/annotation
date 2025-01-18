@@ -1,0 +1,59 @@
+[
+    {
+        "sentence": "The image shows a group of zebras grazing in an open grassy field.",
+        "sentence_cn": "图中显示一群斑马在开阔的草地上吃草。",
+        "words": [
+            "group",
+            "zebras",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are spread out across the landscape, with their distinct black and white stripes clearly visible.",
+        "sentence_cn": "斑马遍布整个景观，其独特的黑白条纹清晰可见。",
+        "words": [
+            "zebras",
+            "landscape",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is a mix of green and brown patches, indicating a blend of lush and dry areas.",
+        "sentence_cn": "草地上有绿色和棕色斑块，表明草地茂盛和干燥的地区混合在一起。",
+        "words": [
+            "grass",
+            "mix",
+            "patches",
+            "blend",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are a few scattered trees with wide canopies, and some fallen logs or branches are visible on the ground.",
+        "sentence_cn": "背景中，散落着几棵树冠宽阔的树木，地面上可见一些倒下的原木或树枝。",
+        "words": [
+            "background",
+            "trees",
+            "canopies",
+            "logs",
+            "branches",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The horizon features a more densely wooded area, and the sky is a bright, clear blue, suggesting a sunny day.",
+        "sentence_cn": "地平线上是一片更加茂密的树林，天空呈现明亮清澈的蓝色，预示着这将是一个晴朗的日子。",
+        "words": [
+            "horizon",
+            "area",
+            "sky",
+            "blue",
+            "day"
+        ],
+        "id": null
+    }
+]

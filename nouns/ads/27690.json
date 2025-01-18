@@ -1,0 +1,284 @@
+[
+    {
+        "sentence": "The image is an advertisement from Best Buy Mobile promoting a range of Android devices.",
+        "sentence_cn": "该图片是百思买移动公司 (Best Buy Mobile) 推出的宣传一系列 Android 设备的广告。",
+        "words": [
+            "range",
+            "devices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is blue with snowflake designs, suggesting a winter or holiday theme.",
+        "sentence_cn": "背景为蓝色，带有雪花图案，暗示冬季或假日主题。",
+        "words": [
+            "background",
+            "snowflake",
+            "designs",
+            "winter",
+            "holiday",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Android mascot is prominently displayed, and the text highlights that customers can get the latest Android devices.",
+        "sentence_cn": "Android 吉祥物被显著地展示出来，并且文字强调客户可以获得最新的 Android 设备。",
+        "words": [
+            "mascot",
+            "text",
+            "customers",
+            "devices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are five smartphones featured, each with different prices and specifications:",
+        "sentence_cn": "共有五款智能手机，每款的价格和规格各不相同：",
+        "words": [
+            "five",
+            "smartphones",
+            "prices",
+            "specifications"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Samsung Galaxy S Vibrant (Bell):",
+        "sentence_cn": "1. 三星 Galaxy S Vibrant（铃声）：",
+        "words": [
+            "Samsung Galaxy S Vibrant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $99.99 after a $50 savings.",
+        "sentence_cn": "- 价格：节省 50 美元后为 99.99 美元。",
+        "words": [
+            "Price",
+            "99.99",
+            "50",
+            "savings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 5.0 MP camera, 4.0\" display, WiFi.",
+        "sentence_cn": "- 特点：5.0 MP 摄像头、4.0 英寸显示屏、WiFi。",
+        "words": [
+            "Features",
+            "5.0",
+            "MP",
+            "camera",
+            "4.0",
+            "\"",
+            "display",
+            "WiFi"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Samsung Galaxy S Fascinate 3G+ (Telus):",
+        "sentence_cn": "2. 三星 Galaxy S Fascinate 3G+ (Telus)：",
+        "words": [
+            "Samsung Galaxy S Fascinate 3G+"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $149.99.",
+        "sentence_cn": "- 价格：149.99 美元。",
+        "words": [
+            "Price",
+            "149.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 5.0 MP camera, 4.0\" display, 16GB storage.",
+        "sentence_cn": "- 特点：5.0 MP 摄像头、4.0 英寸显示屏、16GB 存储空间。",
+        "words": [
+            "Features",
+            "5.0",
+            "MP",
+            "camera",
+            "4.0",
+            "\"",
+            "display",
+            "16",
+            "GB",
+            "storage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Samsung Galaxy S Captivate (Rogers):",
+        "sentence_cn": "3. 三星 Galaxy S Captivate（罗杰斯）：",
+        "words": [
+            "Samsung Galaxy S Captivate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $149.99 after a $30 savings.",
+        "sentence_cn": "- 价格：节省 30 美元后为 149.99 美元。",
+        "words": [
+            "Price",
+            "149.99",
+            "30",
+            "savings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 5.0 MP camera, 4.0\" display.",
+        "sentence_cn": "- 特点：5.0 MP 摄像头，4.0 英寸显示屏。",
+        "words": [
+            "Features",
+            "5.0",
+            "MP",
+            "camera",
+            "4.0",
+            "\"",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. HTC Desire Z (Bell):",
+        "sentence_cn": "4. HTC Desire Z (铃声):",
+        "words": [
+            "HTC Desire Z",
+            "HTC"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $129.99.",
+        "sentence_cn": "- 价格：129.99 美元。",
+        "words": [
+            "Price",
+            "129.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 5.0 MP camera, 3.7\" display, slider keyboard, WiFi.",
+        "sentence_cn": "- 特点：5.0 MP 摄像头、3.7 英寸显示屏、滑动键盘、WiFi。",
+        "words": [
+            "Features",
+            "5.0",
+            "MP",
+            "camera",
+            "3.7",
+            "\"",
+            "display",
+            "slider",
+            "keyboard",
+            "WiFi"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. HTC Desire HD (Telus):",
+        "sentence_cn": "5. HTC Desire HD (Telus):",
+        "words": [
+            "HTC Desire HD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $49.99 after a $30 savings.",
+        "sentence_cn": "- 价格：节省 30 美元后为 49.99 美元。",
+        "words": [
+            "Price",
+            "49.99",
+            "30",
+            "savings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 5.0 MP camera, 4.3\" display.",
+        "sentence_cn": "- 特点：5.0 MP 摄像头，4.3 英寸显示屏。",
+        "words": [
+            "Features",
+            "5.0",
+            "MP",
+            "camera",
+            "4.3",
+            "\"",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Sony Ericsson Xperia X10 (Rogers):",
+        "sentence_cn": "6. 索尼爱立信 Xperia X10（罗杰斯）：",
+        "words": [
+            "Sony Ericsson Xperia X10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $49.99 after a $30 savings.",
+        "sentence_cn": "- 价格：节省 30 美元后为 49.99 美元。",
+        "words": [
+            "Price",
+            "49.99",
+            "30",
+            "savings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features: 8.1 MP camera, 4.0\" display.",
+        "sentence_cn": "- 特点：8.1 MP摄像头，4.0英寸显示屏。",
+        "words": [
+            "Features",
+            "8.1",
+            "MP",
+            "camera",
+            "4.0",
+            "\"",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The advertisement mentions a free $50 gift card with activation for some models.",
+        "sentence_cn": "广告中提到，激活某些型号可免费获赠价值 50 美元的礼品卡。",
+        "words": [
+            "50",
+            "gift",
+            "card",
+            "activation",
+            "models"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each phone is associated with a specific carrier: Bell, Telus, or Rogers.",
+        "sentence_cn": "每部手机都与特定运营商相关联：Bell、Telus 或 Rogers。",
+        "words": [
+            "phone",
+            "carrier"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The offer details and terms are listed at the bottom, including a note about the required voice and data plan.",
+        "sentence_cn": "优惠详情和条款列于底部，包括所需语音和数据计划的说明。",
+        "words": [
+            "offer",
+            "details",
+            "terms",
+            "bottom",
+            "note",
+            "voice",
+            "data",
+            "plan"
+        ],
+        "id": null
+    }
+]

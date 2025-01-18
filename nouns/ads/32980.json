@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image is a glossy advertisement from CoverGirl featuring their LashBlast Luxe mascara.",
+        "sentence_cn": "图片是 CoverGirl 的一则精美广告，展示了其 LashBlast Luxe 睫毛膏。",
+        "words": [
+            "mascara"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is a close-up of a woman with long, wavy brown hair and flawless skin.",
+        "sentence_cn": "左侧是一个女人的特写镜头，她有一头长长的、波浪形的棕色头发和完美无瑕的皮肤。",
+        "words": [
+            "close",
+            "up",
+            "woman",
+            "hair",
+            "skin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She's posing with her head resting on her arm, looking directly at the viewer.",
+        "sentence_cn": "她将头靠在手臂上，直视观众。",
+        "words": [
+            "head",
+            "arm",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The word \"COVERGIRL\" is prominently displayed at the top in pink.",
+        "sentence_cn": "“COVERGIRL”字样以粉红色突出显示在顶部。",
+        "words": [
+            "COVERGIRL",
+            "word",
+            "COVERGIRL",
+            "top",
+            "pink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, the text reads \"GLISTEN UP! BIG, BOLD LASHES,\" highlighting the product¡¯s effect.",
+        "sentence_cn": "下面的文字写着“闪亮登场！浓密而大胆的睫毛”，突出了该产品的效果。",
+        "words": [
+            "GLISTEN UP! BIG, BOLD LASHES,",
+            "text",
+            "LASHES",
+            "product¡¯s",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The right side of the image showcases the LashBlast Luxe mascara.",
+        "sentence_cn": "图片右侧展示了 LashBlast Luxe 睫毛膏。",
+        "words": [
+            "mascara"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mascara tube is pink with a black band, and an orange mascara wand is shown next to it.",
+        "sentence_cn": "睫毛膏管是粉色的，带有黑色带子，旁边是一根橙色的睫毛膏棒。",
+        "words": [
+            "mascara",
+            "tube",
+            "band",
+            "mascara",
+            "wand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text above the product introduces it as having a \"blackest black LashBlast formula\" designed for adding shimmer and volume to lashes.",
+        "sentence_cn": "产品上方的文字介绍说，它具有“最黑的 LashBlast 配方”，旨在为睫毛增添光泽和浓密度。",
+        "words": [
+            "blackest black LashBlast formula",
+            "Text",
+            "product",
+            "formula",
+            "shimmer",
+            "volume",
+            "lashes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a section at the bottom encouraging consumers to \"ACCESSORIZE YOUR EYES!\" with various shades available.",
+        "sentence_cn": "底部还有一个部分鼓励消费者“装饰你的眼睛！”，其中有各种色调可供选择。",
+        "words": [
+            "ACCESSORIZE YOUR EYES!",
+            "section",
+            "bottom",
+            "consumers",
+            "EYES",
+            "shades"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the advertisement conveys a glamorous and eye-catching theme, emphasizing bold and beautiful lashes.",
+        "sentence_cn": "总体而言，广告传达了一个迷人而引人注目的主题，强调了大胆而美丽的睫毛。",
+        "words": [
+            "eye",
+            "theme",
+            "lashes"
+        ],
+        "id": null
+    }
+]

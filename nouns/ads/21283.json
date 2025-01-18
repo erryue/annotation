@@ -1,0 +1,217 @@
+[
+    {
+        "sentence": "The image is a collage of advertisements featuring three promotional offers with a green-striped border:",
+        "sentence_cn": "该图片是一幅广告拼贴画，其中包含三条带有绿色条纹边框的促销优惠：",
+        "words": [
+            "collage",
+            "advertisements",
+            "three",
+            "offers",
+            "border"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Section - Colgate Dental Care:",
+        "sentence_cn": "1. 顶部部分 - 高露洁牙科护理：",
+        "words": [
+            "Top Section - Colgate Dental Care:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows several Colgate products, including toothpaste, mouthwash, and a toothbrush.",
+        "sentence_cn": "- 展示几种高露洁产品，包括牙膏、漱口水和牙刷。",
+        "words": [
+            "products",
+            "toothpaste",
+            "mouthwash",
+            "toothbrush"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Promotion details:",
+        "sentence_cn": "- 优惠详情：",
+        "words": [
+            "Promotion",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - With a store card, the price is $3.49.",
+        "sentence_cn": "- 使用商店卡，价格为 3.49 美元。",
+        "words": [
+            "store",
+            "card",
+            "price",
+            "3.49"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Register Rewards on the next purchase reduces it by $2.50.",
+        "sentence_cn": "- 下次购买时注册奖励可减少 2.50 美元。",
+        "words": [
+            "purchase",
+            "2.50"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Effective price: 99 cents.",
+        "sentence_cn": "- 实际价格：99美分。",
+        "words": [
+            "price",
+            "99",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Applies to select toothpaste (3.5 to 6 oz), Total Lasting, Advanced, or Gum Health mouthwash (8.45 oz), and select toothbrushes.",
+        "sentence_cn": "- 适用于精选牙膏（3.5 至 6 盎司）、Total Lasting、Advanced 或 Gum Health 漱口水（8.45 盎司）以及精选牙刷。",
+        "words": [
+            "toothpaste",
+            "3.5",
+            "6",
+            "oz",
+            "mouthwash",
+            "8.45",
+            "oz",
+            "toothbrushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Bottom Left Section - Gillette Venus Embrace Razor:",
+        "sentence_cn": "2. 左下部分 - 吉列 Venus Embrace 剃须刀：",
+        "words": [
+            "Bottom Left Section - Gillette Venus Embrace Razor:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays an image of the Gillette Venus Embrace Razor.",
+        "sentence_cn": "- 显示吉列维纳斯拥抱剃须刀的图像。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Promotion details:",
+        "sentence_cn": "- 优惠详情：",
+        "words": [
+            "Promotion",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - With a store card, the price is $3.",
+        "sentence_cn": "- 使用商店卡，价格为 3 美元。",
+        "words": [
+            "store",
+            "card",
+            "price",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Earn 2000 bonus points, equivalent to $2.",
+        "sentence_cn": "- 赚取 2000 奖励积分，相当于 2 美元。",
+        "words": [
+            "2000",
+            "bonus",
+            "points",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Effective price: 50 cents.",
+        "sentence_cn": "- 实际价格：50美分。",
+        "words": [
+            "price",
+            "50",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Right Section - Scunci Hair Elastics:",
+        "sentence_cn": "3. 右下部分 - Scunci 发圈：",
+        "words": [
+            "Bottom Right Section - Scunci Hair Elastics:",
+            "Section",
+            "Scunci",
+            "Hair",
+            "Elastics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays an image of Scunci No Damage Hair Elastics (18 pack).",
+        "sentence_cn": "- 显示 Scunci 无损伤发带（18 件装）的图片。",
+        "words": [
+            "18",
+            "pack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Promotion details:",
+        "sentence_cn": "- 优惠详情：",
+        "words": [
+            "Promotion",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - With a store card, the price is 2 for $3.",
+        "sentence_cn": "- 使用商店卡，价格为 2 件 3 美元。",
+        "words": [
+            "store",
+            "card",
+            "price",
+            "2",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Register Rewards on the next purchase for $3.",
+        "sentence_cn": "- 下次购买时只需 3 美元即可注册奖励。",
+        "words": [
+            "Rewards",
+            "purchase",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Effective price: Free with purchase.",
+        "sentence_cn": "- 有效价格：购买即免费。",
+        "words": [
+            "price",
+            "purchase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image uses vibrant colors and simple layout to attract customers, highlighting deals with bold text.",
+        "sentence_cn": "图片采用鲜艳的色彩和简单的布局来吸引顾客，并用粗体文字突出显示交易。",
+        "words": [
+            "colors",
+            "layout",
+            "customers",
+            "deals",
+            "text"
+        ],
+        "id": null
+    }
+]

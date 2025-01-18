@@ -1,0 +1,193 @@
+[
+    {
+        "sentence": "The image shows a group of four young adults lying on the grass in a park-like setting.",
+        "sentence_cn": "照片中，四个年轻人躺在公园般的草地上。",
+        "words": [
+            "group",
+            "four",
+            "adults",
+            "grass",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be socializing and engaged in looking at a laptop screen.",
+        "sentence_cn": "他们似乎正在社交并专注于看着笔记本电脑屏幕。",
+        "words": [
+            "laptop",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a breakdown of the scene:",
+        "sentence_cn": "以下是该场景的具体分解：",
+        "words": [
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. People:",
+        "sentence_cn": "1. 人：",
+        "words": [
+            "People",
+            "People"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The group consists of two women and two men.",
+        "sentence_cn": "- 该团体由两名女性和两名男性组成。",
+        "words": [
+            "group",
+            "two",
+            "women",
+            "two",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - They are all smiling and seem to be enjoying each other's company.",
+        "sentence_cn": "- 他们都面带微笑，似乎很享受彼此的陪伴。",
+        "words": [
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Attire:",
+        "sentence_cn": "2. 服装:",
+        "words": [
+            "Attire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The woman on the left is wearing sunglasses and a pink sleeveless top.",
+        "sentence_cn": "- 左边的女人戴着太阳镜，穿着粉色无袖上衣。",
+        "words": [
+            "woman",
+            "left",
+            "sunglasses",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She has a ponytail and an orange wristwatch.",
+        "sentence_cn": "她扎着马尾辫，戴着一块橙色的手表。",
+        "words": [
+            "ponytail",
+            "wristwatch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The man next to her is holding a can and wearing earphones and a purple shirt.",
+        "sentence_cn": "- 她旁边的男人手里拿着一个罐子，戴着耳机，穿着紫色衬衫。",
+        "words": [
+            "man",
+            "can",
+            "earphones",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The woman next to him has red hair and is wearing turquoise sunglasses with a light blue top.",
+        "sentence_cn": "- 他旁边的女人有着红头发，戴着绿松石色的太阳镜，上衣为浅蓝色。",
+        "words": [
+            "woman",
+            "hair",
+            "sunglasses",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The man on the far right is wearing a striped shirt in shades of green, white, and orange.",
+        "sentence_cn": "- 最右边的男子穿着绿色、白色和橙色条纹衬衫。",
+        "words": [
+            "man",
+            "right",
+            "shirt",
+            "shades",
+            "green",
+            "white",
+            "orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Setting:",
+        "sentence_cn": "3. 设置：",
+        "words": [
+            "Setting",
+            "Setting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - They are lying on grass, possibly in a park, as indicated by the greenery around them.",
+        "sentence_cn": "- 他们躺在草地上，可能是在公园里，从周围的绿色植物可以看出。",
+        "words": [
+            "grass",
+            "park",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is natural light, suggesting it might be daytime.",
+        "sentence_cn": "- 有自然光，表明可能是白天。",
+        "words": [
+            "light",
+            "daytime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Activities:",
+        "sentence_cn": "4. 活动：",
+        "words": [
+            "Activities",
+            "Activities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - All of them are focused on the laptop, suggesting they are either watching something or engaged in an online activity together.",
+        "sentence_cn": "- 他们所有人都专注于笔记本电脑，表明他们要么在看什么东西，要么在一起进行在线活动。",
+        "words": [
+            "laptop",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere of the image is relaxed and sociable, indicative of friends spending leisure time together outdoors.",
+        "sentence_cn": "图像的整体氛围是轻松和社交的，描绘了朋友们一起在户外度过休闲时光的场景。",
+        "words": [
+            "atmosphere",
+            "friends",
+            "leisure",
+            "time"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,153 @@
+[
+    {
+        "sentence": "The image shows a neatly arranged tabletop with several items.",
+        "sentence_cn": "图中桌面整齐地摆放着几件物品。",
+        "words": [
+            "tabletop",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Food Items:",
+        "sentence_cn": "1. 食品：",
+        "words": [
+            "Food Items",
+            "Food",
+            "Items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is an orange placed inside an orange rectangular plastic container.",
+        "sentence_cn": "- 一个橙子放在一个橙色的矩形塑料容器内。",
+        "words": [
+            "orange",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A yellow banana is positioned beside the container.",
+        "sentence_cn": "- 容器旁边放置一根黄色的香蕉。",
+        "words": [
+            "banana",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Drinkware",
+        "sentence_cn": "2. 饮具",
+        "words": [
+            "",
+            "Drinkware"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - A white ceramic mug is filled with a light brown beverage, likely tea or coffee, with a spoon resting on the table next to it.",
+        "sentence_cn": "- 白色陶瓷杯中盛有浅棕色饮料，可能是茶或咖啡，旁边的桌子上放着一把勺子。",
+        "words": [
+            "mug",
+            "beverage",
+            "tea",
+            "coffee",
+            "spoon",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Accessories:",
+        "sentence_cn": "3.配件：",
+        "words": [
+            "Accessories",
+            "Accessories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A set of keys with several attached keychains is located near the mug.",
+        "sentence_cn": "- 杯子附近有一套钥匙和几个附带的钥匙链。",
+        "words": [
+            "set",
+            "keys",
+            "keychains",
+            "mug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Black earphones are laid out with their cord partially looped.",
+        "sentence_cn": "- 黑色耳机的线部分环绕放置。",
+        "words": [
+            "earphones",
+            "cord"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bag",
+        "sentence_cn": "4. 袋子",
+        "words": [
+            "",
+            "Bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - A black bag with a strap is positioned in the rear corner of the table, featuring some text or logo in red and white.",
+        "sentence_cn": "- 一个带有背带的黑色袋子放置在桌子的后角，上面印有一些红色和白色的文字或标志。",
+        "words": [
+            "bag",
+            "strap",
+            "corner",
+            "table",
+            "text",
+            "logo",
+            "red",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table surface is gray, and the setting seems to be an office or workspace environment, given the style of the desk and items on it.",
+        "sentence_cn": "桌面是灰色的，从桌子的风格和桌子上的物品来看，这里似乎是办公室或工作空间。",
+        "words": [
+            "table",
+            "surface",
+            "office",
+            "workspace",
+            "environment",
+            "style",
+            "desk",
+            "items"
+        ],
+        "id": null
+    }
+]

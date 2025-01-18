@@ -1,0 +1,24 @@
+[
+    {
+        "id": "06da1cfd-2d12-4cab-b6fa-61f91e7f0ca8",
+        "confidence": 0.81684,
+        "class": "bottle",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 387.80826,
+                        "minY": 85.27167,
+                        "maxX": 479.95901,
+                        "maxY": 343.19083
+                    },
+                    "x": 387.80826,
+                    "y": 85.27167,
+                    "w": 92.15074999999996,
+                    "h": 257.91916000000003
+                }
+            }
+        }
+    }
+]

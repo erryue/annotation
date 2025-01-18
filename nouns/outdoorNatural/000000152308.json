@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a group of elephants, likely in a natural savanna habitat.",
+        "sentence_cn": "图像描绘的是一群大象，可能栖息在天然的大草原上。",
+        "words": [
+            "group",
+            "elephants",
+            "savanna",
+            "habitat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene shows several elephants, including an adult elephant with long tusks walking alongside a smaller, younger elephant.",
+        "sentence_cn": "场景中有多头大象，包括一头长着长牙的成年象，与一头体型较小、年龄较小的大象一起行走。",
+        "words": [
+            "scene",
+            "elephants",
+            "elephant",
+            "tusks",
+            "elephant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The elephants are moving across a grassy area with patches of bare earth visible.",
+        "sentence_cn": "大象正在穿过一片草地，可以看到大片裸露的土地。",
+        "words": [
+            "elephants",
+            "area",
+            "patches",
+            "earth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are other adult and young elephants.",
+        "sentence_cn": "背景中还有其他成年象和幼象。",
+        "words": [
+            "background",
+            "adult",
+            "elephants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, giving a muted light to the scene.",
+        "sentence_cn": "天空阴云密布，场景的光线暗淡。",
+        "words": [
+            "sky",
+            "light",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, several white birds, possibly egrets, are present, either flying or standing near the elephants.",
+        "sentence_cn": "此外，还有几只白色的鸟，可能是白鹭，要么在飞翔，要么站在大象附近。",
+        "words": [
+            "birds",
+            "egrets",
+            "elephants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is open, with distant trees and vegetation visible along the horizon.",
+        "sentence_cn": "景观开阔，远处的树木和植被沿着地平线清晰可见。",
+        "words": [
+            "landscape",
+            "trees",
+            "vegetation",
+            "horizon"
+        ],
+        "id": null
+    }
+]

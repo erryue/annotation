@@ -1,0 +1,108 @@
+[
+    {
+        "sentence": "The image shows a lively scene on a stage, where a group of people appears to be engaged in a performance or dance.",
+        "sentence_cn": "图像显示了舞台上热闹的场景，一群人似乎正在表演或跳舞。",
+        "words": [
+            "scene",
+            "stage",
+            "group",
+            "people",
+            "performance",
+            "dance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The participants form a line and are holding onto each other's waists or shoulders, moving in sync.",
+        "sentence_cn": "参加者排成一线，互相扶着腰部或肩膀，同步移动。",
+        "words": [
+            "participants",
+            "line",
+            "waists",
+            "shoulders",
+            "sync"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central figure in the line is dressed in a colorful, playful costume resembling a clown or performer, complete with a red shirt, yellow overalls, and oversized shoes.",
+        "sentence_cn": "队伍的中心人物穿着色彩鲜艳、俏皮的服装，类似小丑或表演者，包括红色衬衫、黄色工作服和大号鞋子。",
+        "words": [
+            "figure",
+            "line",
+            "costume",
+            "clown",
+            "performer",
+            "shirt",
+            "overalls",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To their left, a person in a red shirt is part of the line dance.",
+        "sentence_cn": "在他们的左边，一个穿着红色衬衫的人正在参加排舞。",
+        "words": [
+            "left",
+            "person",
+            "shirt",
+            "part",
+            "line",
+            "dance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Others include children and adults, some dressed casually.",
+        "sentence_cn": "其他人包括儿童和成人，有些穿着随意。",
+        "words": [
+            "Others",
+            "children",
+            "adults"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One person is holding a large parrot.",
+        "sentence_cn": "一个人抱着一只大鹦鹉。",
+        "words": [
+            "One",
+            "person",
+            "parrot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, an audience watches the performance, sitting closely together and appearing engaged.",
+        "sentence_cn": "在背景中，观众们紧紧地坐在一起，观看着表演，显得十分投入。",
+        "words": [
+            "background",
+            "audience",
+            "performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting looks like an indoor stage or arena with advertisements or signs visible above the audience area.",
+        "sentence_cn": "该场景看起来像一个室内舞台或竞技场，观众区域上方可见广告或标志。",
+        "words": [
+            "stage",
+            "arena",
+            "advertisements",
+            "signs",
+            "audience",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting focuses on the performers, highlighting them against the darker background.",
+        "sentence_cn": "灯光聚焦于表演者，在较暗的背景中突显他们。",
+        "words": [
+            "lighting",
+            "performers",
+            "background"
+        ],
+        "id": null
+    }
+]

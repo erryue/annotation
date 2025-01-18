@@ -1,0 +1,24 @@
+[
+    {
+        "id": "587cd414-d800-4aa7-9533-dfb1ab94bac9",
+        "confidence": 0.82374,
+        "class": "refrigerator",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 432.77692,
+                        "minY": 132.63338,
+                        "maxX": 465.78317,
+                        "maxY": 256.246
+                    },
+                    "x": 432.77692,
+                    "y": 132.63338,
+                    "w": 33.006249999999966,
+                    "h": 123.61261999999999
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Black Beauty,\" a film produced by Warner Bros. Family Entertainment.",
+        "sentence_cn": "图片是华纳兄弟家庭娱乐公司出品的电影《黑骏马》的电影海报。",
+        "words": [
+            "Black Beauty,",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a dramatic scene with a black horse rearing up on its hind legs, set against a background of sunlight filtering through trees.",
+        "sentence_cn": "海报呈现了一幅戏剧性的场景：一匹黑马用后腿直立起来，背景是透过树木照射下来的阳光。",
+        "words": [
+            "poster",
+            "scene",
+            "horse",
+            "legs",
+            "background",
+            "sunlight",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting creates a warm, golden ambiance, highlighting the horse's form.",
+        "sentence_cn": "灯光营造出温暖、金色的氛围，凸显了马的形态。",
+        "words": [
+            "lighting",
+            "ambiance",
+            "horse",
+            "form"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the film's title \"BLACK BEAUTY\" is prominently displayed in green lettering.",
+        "sentence_cn": "海报上方，影片名称“黑骏马”以绿色字体醒目显示。",
+        "words": [
+            "BLACK BEAUTY",
+            "top",
+            "poster",
+            "film",
+            "title",
+            "BLACK",
+            "BEAUTY",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the horse, there's a tagline: \"An story for all ages.",
+        "sentence_cn": "马的下面有一行标语：“一个适合所有年龄段的人观看的故事。",
+        "words": [
+            "horse",
+            "tagline",
+            "story",
+            "ages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A film suitable for all time.",
+        "sentence_cn": "一部适合所有年龄段的电影。",
+        "words": [
+            "film",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Share the adventure.\"",
+        "sentence_cn": "分享冒险。”",
+        "words": [
+            "adventure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower part of the poster, there is a small circular image depicting a scene of a man and a woman in period clothing, interacting with the horse.",
+        "sentence_cn": "海报下部有一个圆形小图像，描绘的是身着古装的一男一女与马互动的场景。",
+        "words": [
+            "part",
+            "poster",
+            "scene",
+            "man",
+            "woman",
+            "period",
+            "clothing",
+            "horse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The movie rating symbol is located in the bottom-left corner, indicating the film is suitable for general audiences.",
+        "sentence_cn": "电影分级符号位于左下角，表示该影片适合一般观众观看。",
+        "words": [
+            "movie",
+            "rating",
+            "symbol",
+            "corner",
+            "film",
+            "audiences"
+        ],
+        "id": null
+    }
+]

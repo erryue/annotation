@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Four Weddings and a Funeral.\"",
+        "sentence_cn": "图片是电影《四个婚礼和一个葬礼》的电影海报。",
+        "words": [
+            "Four Weddings and a Funeral.",
+            "movie",
+            "poster",
+            "film",
+            "Four",
+            "Weddings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a group of people standing behind a table with a white tablecloth and a cake.",
+        "sentence_cn": "画中一群人站在一张桌子后面，桌子上铺着白色的桌布，放着一块蛋糕。",
+        "words": [
+            "group",
+            "people",
+            "table",
+            "tablecloth",
+            "cake"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are six people depicted, dressed in wedding attire, suggesting a celebratory context.",
+        "sentence_cn": "画中有六个人身着婚礼服装，暗示着一种庆祝的气氛。",
+        "words": [
+            "six",
+            "people",
+            "wedding",
+            "attire",
+            "context"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the far right is playfully holding up a leg, wearing a suit but with no shirt.",
+        "sentence_cn": "最右边的人开玩笑地抬起一条腿，穿着西装，但没有穿衬衫。",
+        "words": [
+            "person",
+            "right",
+            "leg",
+            "suit",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Confetti is falling, adding to the festive atmosphere.",
+        "sentence_cn": "五彩纸屑飘落，增添了节日气氛。",
+        "words": [
+            "Confetti",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A sheep with a pink bow is positioned in front of the table.",
+        "sentence_cn": "桌子前面摆放着一只戴着粉色蝴蝶结的绵羊。",
+        "words": [
+            "sheep",
+            "bow",
+            "front",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the poster displays the names \"Hugh Grant\" and \"Andie MacDowell,\" indicating the lead actors.",
+        "sentence_cn": "海报上方印有“休·格兰特”和“安迪·麦克道威尔”的名字，表明两位主演是谁。",
+        "words": [
+            "Hugh Grant",
+            "Andie MacDowell,",
+            "top",
+            "poster",
+            "names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them, the title \"four Weddings and a funeral\" is written in stylized pink and gray lettering with a heart symbol.",
+        "sentence_cn": "在它们下面，标题“四个婚礼和一个葬礼”以风格化的粉色和灰色字体写成，并带有心形符号。",
+        "words": [
+            "four Weddings and a funeral",
+            "title",
+            "four",
+            "Weddings",
+            "funeral",
+            "lettering",
+            "heart",
+            "symbol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline \"FIVE GOOD REASONS TO STAY SINGLE\" is printed beneath the title.",
+        "sentence_cn": "标题下方印有标语“保持单身的五个好理由”。",
+        "words": [
+            "FIVE GOOD REASONS TO STAY SINGLE",
+            "tagline",
+            "FIVE",
+            "REASONS",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom includes credits, listing details about the production and creative team.",
+        "sentence_cn": "底部包括名单，列出了有关制作和创作团队的详细信息。",
+        "words": [
+            "bottom",
+            "credits",
+            "details",
+            "production",
+            "team"
+        ],
+        "id": null
+    }
+]

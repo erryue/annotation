@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Avon's \"Cotillion\" fragrance.",
+        "sentence_cn": "该图片是雅芳“Cotillion”香水的复古广告。",
+        "words": [
+            "Cotillion",
+            "vintage",
+            "fragrance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a sophisticated woman on the left, wearing a glamorous off-the-shoulder gown, pearls, and a bracelet.",
+        "sentence_cn": "左边是一位成熟的女人，身穿华丽的露肩礼服，戴着珍珠和手镯。",
+        "words": [
+            "woman",
+            "left",
+            "shoulder",
+            "gown",
+            "pearls",
+            "bracelet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her hair is styled elegantly, and she holds a pink compact.",
+        "sentence_cn": "她的头发造型优雅，手里拿着一个粉色粉盒。",
+        "words": [
+            "hair",
+            "compact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark with star-like sparkles, highlighting the perfume's allure.",
+        "sentence_cn": "背景为深色，带有星星般的闪光，凸显了香水的魅力。",
+        "words": [
+            "background",
+            "star",
+            "sparkles",
+            "perfume",
+            "allure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right are various \"Cotillion\" beauty products, including a few bottles and containers with pink caps.",
+        "sentence_cn": "右边是各种“Cotillion”美容产品，包括一些带粉色瓶盖的瓶子和容器。",
+        "words": [
+            "Cotillion",
+            "right",
+            "Cotillion",
+            "beauty",
+            "products",
+            "bottles",
+            "containers",
+            "caps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottles are set against a rich purple backdrop, further enhancing the luxurious feel.",
+        "sentence_cn": "瓶子以浓郁的紫色背景为背景，进一步增强了奢华感。",
+        "words": [
+            "bottles",
+            "backdrop",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text highlights the exclusivity and appeal of the fragrance, emphasizing that it is available through Avon representatives.",
+        "sentence_cn": "文字重点突出了这款香水的独特性和吸引力，并强调可通过雅芳代表购买。",
+        "words": [
+            "text",
+            "exclusivity",
+            "appeal",
+            "fragrance",
+            "representatives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom right, there¡¯s an image of two Avon representatives, likely to convey personalized service.",
+        "sentence_cn": "右下角有两位雅芳代表的图像，可能传达个性化的服务。",
+        "words": [
+            "right",
+            "two",
+            "representatives",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Avon logo and contact information are also visible.",
+        "sentence_cn": "雅芳的标志和联系信息也清晰可见。",
+        "words": [
+            "logo",
+            "contact",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the ad exudes elegance and sophistication, aiming to attract consumers to the product's unique charm.",
+        "sentence_cn": "总体而言，该广告散发着优雅和精致的气息，旨在吸引消费者关注产品的独特魅力。",
+        "words": [
+            "ad",
+            "elegance",
+            "sophistication",
+            "consumers",
+            "product",
+            "charm"
+        ],
+        "id": null
+    }
+]

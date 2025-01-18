@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image shows a lively urban street scene, likely in Times Square, New York City.",
+        "sentence_cn": "图片展示的是热闹的城市街景，很可能是纽约时代广场的场景。",
+        "words": [
+            "street",
+            "scene",
+            "New",
+            "York",
+            "City"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground features a dark green Mini Cooper S with Ontario plates from BMW Toronto parked on the side of the street.",
+        "sentence_cn": "前景是一辆深绿色的 Mini Cooper S，挂着安大略省车牌，来自宝马多伦多，停在路边。",
+        "words": [
+            "foreground",
+            "Ontario",
+            "plates",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to it is a white van with \"Chevrolet\" visible on the back.",
+        "sentence_cn": "旁边停着一辆白色货车，车尾印有“雪佛兰”字样。",
+        "words": [
+            "Chevrolet",
+            "van",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street is bustling with traffic, including a yellow taxi cab and various other vehicles.",
+        "sentence_cn": "街道上车水马龙，有一辆黄色出租车和各种其他车辆。",
+        "words": [
+            "street",
+            "traffic",
+            "taxi",
+            "cab",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there are commercial buildings with vibrant signage, including a \"25 Bardo's\" sign and a large advertisement for Heineken.",
+        "sentence_cn": "左边是商业建筑，上面有生动的标牌，包括“25 Bardo's”标牌和喜力啤酒的大型广告。",
+        "words": [
+            "25 Bardo's",
+            "left",
+            "buildings",
+            "signage",
+            "25",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other visible businesses include Sbarro, a well-known pizza chain, and Mama Sbarro¡¯s.",
+        "sentence_cn": "其他知名企业包括著名披萨连锁店 Sbarro 和 Mama Sbarro's。",
+        "words": [
+            "businesses",
+            "pizza",
+            "chain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The densely packed area is filled with bright, colorful billboards and advertising signs, characteristic of the iconic Times Square environment.",
+        "sentence_cn": "这个密集的区域充满了明亮、色彩鲜艳的广告牌和广告牌，这是标志性的时代广场环境的特色。",
+        "words": [
+            "area",
+            "billboards",
+            "advertising",
+            "signs",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pedestrians are also seen on the sidewalks, contributing to the busy, energetic atmosphere of the cityscape.",
+        "sentence_cn": "人行道上也随处可见行人，为城市景观增添了繁忙、充满活力的氛围。",
+        "words": [
+            "Pedestrians",
+            "sidewalks",
+            "atmosphere",
+            "cityscape"
+        ],
+        "id": null
+    }
+]

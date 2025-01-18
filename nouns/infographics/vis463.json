@@ -1,0 +1,453 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"All you need to know about Blogger,\" highlighting various aspects and statistics of the Blogger platform.",
+        "sentence_cn": "该图是一张信息图，标题为“您需要了解的有关 Blogger 的所有信息”，重点介绍了 Blogger 平台的各个方面和统计数据。",
+        "words": [
+            "All you need to know about Blogger,",
+            "aspects",
+            "statistics",
+            "platform"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### A Brief History",
+        "sentence_cn": "### 简史",
+        "words": [
+            "History"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 1999: Launched by Pyra Labs.",
+        "sentence_cn": "- 1999：由 Pyra Labs 推出。",
+        "words": [
+            "1999",
+            "1999"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2003: Acquired by Google.",
+        "sentence_cn": "- 2003：被谷歌收购。",
+        "words": [
+            "2003",
+            "2003"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2004: First major redesign with new templates.",
+        "sentence_cn": "- 2004：首次使用新模板进行重大重新设计。",
+        "words": [
+            "2004",
+            "2004",
+            "redesign",
+            "templates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2006: \"Blogger Beta\" launched.",
+        "sentence_cn": "- 2006：推出“Blogger Beta”。",
+        "words": [
+            "2006",
+            "Blogger Beta",
+            "2006"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2007: Blogger in Draft introduced.",
+        "sentence_cn": "- 2007：Blogger 草稿版推出。",
+        "words": [
+            "2007",
+            "2007",
+            "Blogger",
+            "Draft"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2009: New features for the 10th anniversary.",
+        "sentence_cn": "- 2009：十周年的新功能。",
+        "words": [
+            "2009",
+            "2009",
+            "features",
+            "anniversary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2010: Dynamic Templates introduced.",
+        "sentence_cn": "- 2010：引入动态模板。",
+        "words": [
+            "2010",
+            "2010"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2012: New interface rolled out.",
+        "sentence_cn": "- 2012：推出新界面。",
+        "words": [
+            "2012",
+            "2012",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Vital Statistics",
+        "sentence_cn": "### 重要统计数据",
+        "words": [
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 3,241,270: Number of sites linking to blogger.com.",
+        "sentence_cn": "- 3,241,270：链接到 blogger.com 的网站数量。",
+        "words": [
+            "3,241,270",
+            "3,241,270",
+            "Number",
+            "sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Global Alexa Traffic Rank: #47.",
+        "sentence_cn": "- 全球 Alexa 流量排名：#47。",
+        "words": [
+            "Global Alexa Traffic Rank",
+            "Traffic",
+            "Rank",
+            "#",
+            "47"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Social Network Followers (as of September 2012):",
+        "sentence_cn": "- 社交网络关注者（截至 2012 年 9 月）：",
+        "words": [
+            "Social Network Followers",
+            "Followers",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Facebook: 37K",
+        "sentence_cn": "- Facebook：3.7万",
+        "words": [
+            "37",
+            "K"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Google+: 239K",
+        "sentence_cn": "- Google+：23.9万",
+        "words": [
+            "239",
+            "K"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Twitter: 191K",
+        "sentence_cn": "- 推特：191K",
+        "words": [
+            "Twitter",
+            "191",
+            "K"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Traffic Sources:",
+        "sentence_cn": "- 流量来源：",
+        "words": [
+            "Traffic Sources",
+            "Traffic",
+            "Sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - USA: 14.9%",
+        "sentence_cn": "- 美国：14.9％",
+        "words": [
+            "USA",
+            "14.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - India: 17.9%",
+        "sentence_cn": "- 印度：17.9%",
+        "words": [
+            "India",
+            "17.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Brazil: 6.0%",
+        "sentence_cn": "- 巴西：6.0％",
+        "words": [
+            "Brazil",
+            "6.0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Reasons to Use Blogger",
+        "sentence_cn": "### 使用 Blogger 的理由",
+        "words": [
+            "Reasons",
+            "Blogger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Free service with no hosting fees.",
+        "sentence_cn": "1. 免费服务，无托管费。",
+        "words": [
+            "service",
+            "hosting",
+            "fees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Easy to use with \"push button publishing.\"",
+        "sentence_cn": "2.“一键发布”功能，使用方便。",
+        "words": [
+            "push button publishing.",
+            "push",
+            "button",
+            "publishing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Fully customizable templates.",
+        "sentence_cn": "3. 完全可定制的模板。",
+        "words": [
+            "templates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. SEO features (e.g., custom 404 pages).",
+        "sentence_cn": "4. SEO 功能（例如自定义 404 页面）。",
+        "words": [
+            "SEO",
+            "features",
+            "404",
+            "pages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Use of a custom domain.",
+        "sentence_cn": "5. 使用自定义域。",
+        "words": [
+            "Use",
+            "domain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Integration with Google services.",
+        "sentence_cn": "6. 与 Google 服务集成。",
+        "words": [
+            "Integration",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Ability to create team blogs.",
+        "sentence_cn": "7. 能够创建团队博客。",
+        "words": [
+            "Ability",
+            "team",
+            "blogs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Access to hundreds of gadgets.",
+        "sentence_cn": "8. 可以使用数百种小工具。",
+        "words": [
+            "Access",
+            "hundreds",
+            "gadgets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Blogging on the go with mobile apps.",
+        "sentence_cn": "9. 使用移动应用随时随地写博客。",
+        "words": [
+            "go",
+            "apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Infinite design possibilities.",
+        "sentence_cn": "10.无限的设计可能性。",
+        "words": [
+            "design",
+            "possibilities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Information",
+        "sentence_cn": "＃＃＃ 附加信息",
+        "words": [
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Blogger is available in 41 languages.",
+        "sentence_cn": "- Blogger 提供 41 种语言 版本。",
+        "words": [
+            "41 languages",
+            "41",
+            "languages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Transliteration available for Blogger in five Indic languages.",
+        "sentence_cn": "- Blogger 提供五种印度语言的音译功能。",
+        "words": [
+            "Transliteration",
+            "five",
+            "languages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Former Twitter CEO, Evan Williams, was a co-founder of Blogger.",
+        "sentence_cn": "- 前 Twitter 首席执行官埃文·威廉姆斯 (Evan Williams) 是 Blogger 的联合创始人。",
+        "words": [
+            "co",
+            "-",
+            "founder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Blogger was found to be the most reliable blogging service with 100% uptime in 2011.",
+        "sentence_cn": "- Blogger 被认为是最可靠的博客服务，2011 年正常运行时间达 100%。",
+        "words": [
+            "blogging",
+            "service",
+            "100",
+            "uptime",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Popular Blogger Sites",
+        "sentence_cn": "### 热门博客网站",
+        "words": [
+            "Blogger",
+            "Sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ikea Hackers: ikea hackers.net",
+        "sentence_cn": "- 宜家黑客：ikea hackers.net",
+        "words": [
+            "Ikea Hackers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Post Secret: postsecret.com",
+        "sentence_cn": "- Post Secret: postsecret.com",
+        "words": [
+            "Post Secret",
+            "Post"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dark Roasted Blend: darkroastedblend.com",
+        "sentence_cn": "- 深烘焙混合：darkroastedblend.com",
+        "words": [
+            "Dark Roasted Blend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hyperbole and a Half: hyperboleandahalf.blogspot.com",
+        "sentence_cn": "- Hyperbole and a Half：hyperboleandahalf.blogspot.com",
+        "words": [
+            "Hyperbole and a Half",
+            "Half"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- BLDG BLOG: bldgblog.blogspot.com",
+        "sentence_cn": "- BLDG 博客: bldgblog.blogspot.com",
+        "words": [
+            "BLDG BLOG"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- BibliOdyssey: bibliodyssey.blogspot.com",
+        "sentence_cn": "- BibliOdyssey：bibliodyssey.blogspot.com",
+        "words": [
+            "BibliOdyssey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- How About Orange: howaboutorange.blogspot.com",
+        "sentence_cn": "- How About Orange：howaboutorange.blogspot.com",
+        "words": [
+            "How About Orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Resources",
+        "sentence_cn": "### 其他资源",
+        "words": [
+            "Resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Blogger's social media and support links: Google+, Facebook, Twitter, and BloggerHelp.",
+        "sentence_cn": "- Blogger 的社交媒体和支持链接：Google+、Facebook、Twitter 和 BloggerHelp。",
+        "words": [
+            "media",
+            "support",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic was designed by Amanda Kennedy for Blogger Buster and DailyGraphics.info.",
+        "sentence_cn": "该信息图由 Amanda Kennedy 为 Blogger Buster 和 DailyGraphics.info 设计。",
+        "words": [],
+        "id": null
+    }
+]

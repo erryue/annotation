@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image depicts two people in an office setting.",
+        "sentence_cn": "图像描绘的是办公室里的两个人。",
+        "words": [
+            "two",
+            "people",
+            "office"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is sitting at a desk, working on a computer.",
+        "sentence_cn": "这位男士正坐在桌前，使用电脑工作。",
+        "words": [
+            "man",
+            "desk",
+            "computer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has short, brown hair and is wearing a light blue dress shirt with a dark tie.",
+        "sentence_cn": "他有一头棕色的短发，身穿浅蓝色衬衫，系着深色领带。",
+        "words": [
+            "hair",
+            "dress",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is standing beside him, leaning over the desk.",
+        "sentence_cn": "女人站在他旁边，俯身在桌子上。",
+        "words": [
+            "woman",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She has long, blonde hair and is wearing a light-colored blouse.",
+        "sentence_cn": "她有一头金色的长发，穿着浅色衬衫。",
+        "words": [
+            "hair",
+            "blouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She appears to be smiling or engaging in conversation with him.",
+        "sentence_cn": "她似乎在微笑或正在和他交谈。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there are several items, including a red stamp, a black desk lamp, and a holder with pens.",
+        "sentence_cn": "桌子上有几件物品，包括一个红色的邮票、一盏黑色的台灯和一个带笔的笔架。",
+        "words": [
+            "desk",
+            "items",
+            "stamp",
+            "desk",
+            "lamp",
+            "holder",
+            "pens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows office shelves with various items scattered on them.",
+        "sentence_cn": "背景显示办公室的架子上散落着各种物品。",
+        "words": [
+            "background",
+            "office",
+            "shelves",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the image, there is a red and yellow banner with a BBC website URL.",
+        "sentence_cn": "图像顶部有一个红黄色的横幅，上面有 BBC 网站的网址。",
+        "words": [
+            "top",
+            "banner",
+            "website",
+            "URL"
+        ],
+        "id": null
+    }
+]

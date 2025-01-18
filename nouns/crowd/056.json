@@ -1,0 +1,107 @@
+[
+    {
+        "sentence": "The image shows a group of people standing in line at a red food truck parked indoors.",
+        "sentence_cn": "照片显示，一群人在一辆停在室内的红色餐车前排队。",
+        "words": [
+            "group",
+            "people",
+            "line",
+            "food",
+            "truck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The truck has a vintage appearance and is serving coffee, as indicated by the menu displayed on the side.",
+        "sentence_cn": "这辆卡车外观复古，侧面的菜单显示，卡车正在供应咖啡。",
+        "words": [
+            "truck",
+            "vintage",
+            "appearance",
+            "coffee",
+            "menu"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The menu lists items like espresso, tea, and Americano.",
+        "sentence_cn": "菜单上列出了浓缩咖啡、茶和美式咖啡等菜品。",
+        "words": [
+            "menu",
+            "items",
+            "espresso",
+            "tea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems to be a casual indoor environment with large windows that provide natural light.",
+        "sentence_cn": "这里的环境似乎是一个休闲的室内环境，有大窗户可以提供自然光。",
+        "words": [
+            "environment",
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two individuals inside the truck are serving customers, both wearing red caps.",
+        "sentence_cn": "卡车内有两个人正在为顾客服务，都戴着红帽子。",
+        "words": [
+            "Two",
+            "individuals",
+            "truck",
+            "customers",
+            "caps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "People in line have a variety of casual attire, including jackets and backpacks.",
+        "sentence_cn": "排队的人有各种各样的休闲服装，包括夹克和背包。",
+        "words": [
+            "People",
+            "line",
+            "variety",
+            "attire",
+            "jackets",
+            "backpacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a man wearing a light gray suit and a black hat stands slightly apart, observing the scene.",
+        "sentence_cn": "前景中，一名身穿浅灰色西装、头戴黑色帽子的男子站在稍远的地方，观察着这一场景。",
+        "words": [
+            "foreground",
+            "man",
+            "suit",
+            "hat",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black cushioned bench is visible on the side, and the surface appears to be concrete.",
+        "sentence_cn": "侧面可以看到一个黑色的软垫长凳，表面似乎是混凝土的。",
+        "words": [
+            "bench",
+            "surface",
+            "concrete"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a vintage sign on the front of the truck providing some historical context or information about the vehicle.",
+        "sentence_cn": "卡车前面还有一个复古标志，提供有关该车辆的一些历史背景或信息。",
+        "words": [
+            "sign",
+            "front",
+            "truck",
+            "context",
+            "information",
+            "vehicle"
+        ],
+        "id": null
+    }
+]

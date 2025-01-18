@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image depicts a cozy, vintage-style bedroom with wooden paneled walls and a warm, rustic ambiance.",
+        "sentence_cn": "图片描绘的是一间舒适的、复古风格的卧室，墙壁铺有木板，氛围温暖而质朴。",
+        "words": [
+            "style",
+            "bedroom",
+            "walls",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a wooden floor with sunlight streaming through large windows, enhancing its welcoming atmosphere.",
+        "sentence_cn": "房间内铺有木地板，阳光透过大窗户照射进来，增添了温馨的氛围。",
+        "words": [
+            "room",
+            "floor",
+            "sunlight",
+            "windows",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the room, a bed is adorned with a colorful patchwork quilt and a blue dress is laid out neatly on top.",
+        "sentence_cn": "房间中央的一张床上铺着色彩斑斓的拼布被子，上面整齐地摆放着一件蓝色的连衣裙。",
+        "words": [
+            "center",
+            "room",
+            "bed",
+            "patchwork",
+            "quilt",
+            "dress",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small teddy bear rests on the bed as well.",
+        "sentence_cn": "床上还躺着一只小泰迪熊。",
+        "words": [
+            "teddy",
+            "bear",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, a wooden dresser with an ornate mirror stands against the wall, accompanied by a simple wooden chair.",
+        "sentence_cn": "左边，靠墙摆放着一张配有华丽镜子的木制梳妆台，旁边还有一把简单的木椅。",
+        "words": [
+            "left",
+            "dresser",
+            "mirror",
+            "wall",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a rocking chair nearby, suggesting a space for relaxation.",
+        "sentence_cn": "附近还有一把摇椅，表明这是一个放松的空间。",
+        "words": [
+            "rocking",
+            "chair",
+            "space",
+            "relaxation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the right corner, an open wardrobe displays neatly arranged clothing.",
+        "sentence_cn": "右边角落，开放式的衣柜里，整齐地陈列着衣物。",
+        "words": [
+            "corner",
+            "wardrobe",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On top of the wardrobe, there's a model sailboat, contributing to the room's nostalgic charm.",
+        "sentence_cn": "衣柜上方有一艘帆船模型，为房间增添了怀旧的魅力。",
+        "words": [
+            "top",
+            "wardrobe",
+            "model",
+            "sailboat",
+            "room",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window is dressed with sheer white curtains, adding to the softness and brightness of the space.",
+        "sentence_cn": "窗户饰有透明的白色窗帘，增添了空间的柔和和明亮。",
+        "words": [
+            "window",
+            "curtains",
+            "softness",
+            "brightness",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small table is positioned between the windows, with a potted plant and some books, completing the inviting aesthetic of the room.",
+        "sentence_cn": "窗户之间有一张小桌子，上面放着一盆盆栽和一些书籍，增添了房间的温馨美感。",
+        "words": [
+            "table",
+            "windows",
+            "plant",
+            "books",
+            "aesthetic",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room has a homely and tranquil feel, with a touch of nostalgia.",
+        "sentence_cn": "总体而言，房间给人一种温馨、宁静的感觉，还有一丝怀旧之情。",
+        "words": [
+            "room",
+            "feel",
+            "touch",
+            "nostalgia"
+        ],
+        "id": null
+    }
+]

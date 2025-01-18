@@ -1,0 +1,47 @@
+[
+    {
+        "sentence": "The image shows three apples placed on a white plate with a design featuring a stylized green and black radial pattern resembling petals or leaves.",
+        "sentence_cn": "图中显示三个苹果放在一个白色盘子上，盘子上的图案为绿色和黑色的放射状图案，类似花瓣或树叶。",
+        "words": [
+            "three",
+            "apples",
+            "plate",
+            "design",
+            "pattern",
+            "petals",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The apples are predominantly red with some yellow-green streaks, giving them a vibrant and fresh appearance.",
+        "sentence_cn": "这些苹果主要呈红色，带有一些黄绿色条纹，看起来充满活力且新鲜。",
+        "words": [
+            "apples",
+            "streaks",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are arranged in a cluster, evenly spaced on the plate, which sits on a light-colored wooden surface.",
+        "sentence_cn": "它们排列成一簇，均匀分布在盘子上，盘子放在浅色的木质表面上。",
+        "words": [
+            "cluster",
+            "plate",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is natural, casting soft shadows and highlighting the apples' smooth, shiny texture.",
+        "sentence_cn": "灯光很自然，投射出柔和的阴影，凸显了苹果光滑、有光泽的质地。",
+        "words": [
+            "lighting",
+            "shadows",
+            "apples",
+            "texture"
+        ],
+        "id": null
+    }
+]

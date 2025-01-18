@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image is an advertisement for a \"Friends & Family Event\" with a promotion.",
+        "sentence_cn": "该图片是“朋友和家人活动”的促销广告。",
+        "words": [
+            "Friends & Family Event",
+            "Event",
+            "promotion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The words \"Share the Love\" appear prominently at the top in a stylish script font.",
+        "sentence_cn": "“分享爱”几个字以时尚的脚本字体突出显示在顶部。",
+        "words": [
+            "Share the Love",
+            "words",
+            "Love",
+            "top",
+            "script",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, it states that there is a 20% discount plus free shipping available.",
+        "sentence_cn": "下面说明有 20% 的折扣并且提供免费送货。",
+        "words": [
+            "20",
+            "discount",
+            "shipping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The offer details are divided into two sections:",
+        "sentence_cn": "优惠详情分为两部分：",
+        "words": [
+            "offer",
+            "details",
+            "two",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Online: Customers can use the code \"FABLOVE\" at checkout.",
+        "sentence_cn": "1. 在线：顾客可以在结账时使用代码“FABLOVE”。",
+        "words": [
+            "Online",
+            "FABLOVE",
+            "Customers",
+            "code",
+            "FABLOVE",
+            "checkout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Boutiques & Outlets: Customers need to show the email at checkout.",
+        "sentence_cn": "2. 精品店和直销店：顾客需要在结账时出示电子邮件。",
+        "words": [
+            "Boutiques & Outlets",
+            "Customers",
+            "email",
+            "checkout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two buttons:",
+        "sentence_cn": "有两个按钮：",
+        "words": [
+            "two",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Shop Now\" with a gold background.",
+        "sentence_cn": "- 带有金色背景的“立即购买”。",
+        "words": [
+            "Shop Now",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Find a Boutique\" with a white background.",
+        "sentence_cn": "- “查找精品店”的背景为白色。",
+        "words": [
+            "Find a Boutique",
+            "Boutique",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower part of the image, there are several makeup products from bareMinerals, including foundation, lipstick, and brushes, arranged aesthetically.",
+        "sentence_cn": "图片下方，是bareMinerals的几款彩妆产品，有粉底、口红、刷子等，排列得很美观。",
+        "words": [
+            "part",
+            "makeup",
+            "products",
+            "foundation",
+            "lipstick",
+            "brushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a soft, peachy watercolor texture.",
+        "sentence_cn": "背景是柔和的桃色水彩纹理。",
+        "words": [
+            "background",
+            "watercolor",
+            "texture"
+        ],
+        "id": null
+    }
+]

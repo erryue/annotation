@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image depicts a baseball-themed mobile game interface.",
+        "sentence_cn": "图片描绘的是一个以棒球为主题的手机游戏界面。",
+        "words": [
+            "baseball",
+            "game",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a banner with the text \"BATTING PRACTICE!\" in bold, followed by an option to \"GET THE APP.\"",
+        "sentence_cn": "顶部有一个横幅，上面用粗体写着“击球练习！”，后面跟着一个选项“获取应用程序”。",
+        "words": [
+            "BATTING PRACTICE!",
+            "GET THE APP.",
+            "top",
+            "banner",
+            "text",
+            "PRACTICE",
+            "option",
+            "APP"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene illustrates a virtual baseball field with a pitcher standing on the mound ready to throw a pitch.",
+        "sentence_cn": "场景展示了一个虚拟棒球场，投手站在投手丘上准备投球。",
+        "words": [
+            "scene",
+            "baseball",
+            "field",
+            "pitcher",
+            "mound",
+            "pitch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a batter in a striped uniform and blue helmet is poised to hit.",
+        "sentence_cn": "前景中，一名身穿条纹制服和戴着蓝色头盔的击球手正准备击球。",
+        "words": [
+            "foreground",
+            "batter",
+            "uniform",
+            "helmet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text \"GET AS MANY HITS AS YOU CAN!\" is displayed prominently, instructing the player on the game's objective.",
+        "sentence_cn": "“尽可能多地击中目标！”的文字被突出显示，指导玩家完成游戏目标。",
+        "words": [
+            "GET AS MANY HITS AS YOU CAN!",
+            "text",
+            "HITS",
+            "player",
+            "game",
+            "objective"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this instruction, there is a graphic of a hand with a pointed finger, indicating to the player that they need to interact with the game by tapping to swing.",
+        "sentence_cn": "在这个说明的下方，有一只伸出手指的手的图形，指示玩家需要通过点击来挥动来与游戏互动。",
+        "words": [
+            "instruction",
+            "graphic",
+            "hand",
+            "finger",
+            "player",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The phrase \"TAP TO SWING\" is clearly shown at the bottom, emphasizing the gameplay action necessary.",
+        "sentence_cn": "底部清晰显示“TAP TO SWING”字样，强调必要的游戏动作。",
+        "words": [
+            "TAP TO SWING",
+            "phrase",
+            "bottom",
+            "gameplay",
+            "action"
+        ],
+        "id": null
+    }
+]

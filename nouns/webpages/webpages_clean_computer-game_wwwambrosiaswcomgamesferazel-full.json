@@ -1,0 +1,200 @@
+[
+    {
+        "sentence": "The image shows a webpage from Ambrosia Software Inc. showcasing a game called \"Ferazel's Wand.\"",
+        "sentence_cn": "该图显示了 Ambrosia Software Inc. 的网页，其中展示了一款名为“Ferazel's Wand”的游戏。",
+        "words": [
+            "Ferazel's Wand.",
+            "webpage",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: Displays the Ambrosia Software Inc. logo with navigation links for Utilities, Games, News, Support, and About Us.",
+        "sentence_cn": "- 标题：显示 Ambrosia Software Inc. 徽标以及实用程序、游戏、新闻、支持和关于我们的导航链接。",
+        "words": [
+            "Header",
+            "Header",
+            "logo",
+            "navigation",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a search bar and account options at the top.",
+        "sentence_cn": "顶部还有一个搜索栏和帐户选项。",
+        "words": [
+            "search",
+            "bar",
+            "account",
+            "options",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Content:",
+        "sentence_cn": "- 主要内容：",
+        "words": [
+            "Main Content",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A section labeled \"Ferazel's Wand 1.0.3\" with tabs for \"Features\" and \"Add-On Files.\"",
+        "sentence_cn": "- 标有“Ferazel's Wand 1.0.3”的部分，其中包含“功能”和“附加文件”选项卡。",
+        "words": [
+            "Ferazel's Wand 1.0.3",
+            "Features",
+            "Add-On Files.",
+            "section",
+            "Wand",
+            "1.0.3",
+            "tabs",
+            "Features",
+            "Files"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The main graphic features fantasy artwork with \"Ferazel's Wand\" in stylized text.",
+        "sentence_cn": "- 主图采用奇幻艺术风格，并以风格化的文字呈现“费拉泽尔的魔杖”。",
+        "words": [
+            "Ferazel's Wand",
+            "fantasy",
+            "artwork",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image depicts a character in a cloak, holding a wand with a fiery tip, standing on a cliffside with a dark creature in the background.",
+        "sentence_cn": "图像描绘了一个身穿斗篷的人物，手持一根尖端燃烧的魔杖，站在悬崖边，背景中有一个黑暗生物。",
+        "words": [
+            "character",
+            "cloak",
+            "wand",
+            "tip",
+            "cliffside",
+            "creature",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sidebar on the Right:",
+        "sentence_cn": "- 右侧边栏：",
+        "words": [
+            "Sidebar on the Right",
+            "Sidebar",
+            "Right",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Options to \"Download Free Trial\" and \"Purchase\" the game for $20, with a note indicating that the product is not OS X compatible.",
+        "sentence_cn": "- 可选择“下载免费试用版”和“购买”游戏（售价 20 美元），并注明该产品与 OS X 不兼容。",
+        "words": [
+            "Download Free Trial",
+            "Purchase",
+            "Options",
+            "Trial",
+            "game",
+            "20",
+            "note",
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Description Text:",
+        "sentence_cn": "- 描述文字：",
+        "words": [
+            "Description Text",
+            "Description",
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Titled \"Jump, Cast Spells, and Travel!\", it describes the game as a fantasy adventure where players control Ferazel, the last of the free habnabits.",
+        "sentence_cn": "- 标题为“跳跃、施法和旅行！”，它将游戏描述为一场奇幻冒险，玩家可以控制最后的自由生物 Ferazel。",
+        "words": [
+            "Jump, Cast Spells, and Travel!",
+            "Spells",
+            "game",
+            "fantasy",
+            "adventure",
+            "players",
+            "habnabits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It involves jumping, casting spells, and traveling through Teraknorn while learning new spells and facing challenges.",
+        "sentence_cn": "它包括跳跃、施法、穿越特拉克诺恩，同时学习新的法术并面对挑战。",
+        "words": [
+            "spells",
+            "Teraknorn",
+            "spells",
+            "challenges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The narrative hints at an antagonist named Xichra, requiring strength, wisdom, and experience to defeat.",
+        "sentence_cn": "- 叙述暗示了一个名为 Xichra 的反派，需要力量、智慧和经验才能打败他。",
+        "words": [
+            "narrative",
+            "antagonist",
+            "strength",
+            "wisdom",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Quote Section: A quote elaborating on the appeal of \"Ferazel's Wand\" as a side-scrolling adventure that caters to both younger and older audiences by balancing simplicity with engaging content.",
+        "sentence_cn": "- 引言部分：一段引言阐述了“费拉泽尔的魔杖”作为一款横向卷轴冒险游戏的吸引力，它通过平衡简单性和引人入胜的内容来满足年轻和年长观众的需求。",
+        "words": [
+            "Quote Section",
+            "Ferazel's Wand",
+            "Quote",
+            "Section",
+            "quote",
+            "appeal",
+            "adventure",
+            "audiences",
+            "simplicity",
+            "content"
+        ],
+        "id": null
+    }
+]

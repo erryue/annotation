@@ -1,0 +1,119 @@
+[
+    {
+        "sentence": "The image is an advertisement for Citibank's \"Gourmet Hour\" promotion.",
+        "sentence_cn": "图片是花旗银行“美食时光”促销活动的广告。",
+        "words": [
+            "Gourmet Hour",
+            "promotion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is predominantly blue with the Citibank logo featured prominently at the top right.",
+        "sentence_cn": "背景以蓝色为主，花旗银行的标志位于右上角的显著位置。",
+        "words": [
+            "background",
+            "logo",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's an image of a smiling woman and child enjoying a meal.",
+        "sentence_cn": "左侧是一张微笑的女人和孩子正在享用美食的图片。",
+        "words": [
+            "woman",
+            "child",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this image is a blue section with text advertising \"Gourmet Hour\" stating \"30% off your food bill when you dine early,\" specifically for lunch from 11 am to 12:30 pm and dinner from 5:30 pm to 7 pm.",
+        "sentence_cn": "图片下方是蓝色区域，文字广告为“美食时光”，指出“提前用餐可享受 30% 的餐费折扣”，具体为上午 11 点至下午 12 点 30 分的午餐和下午 5 点 30 分至下午 7 点的晚餐。",
+        "words": [
+            "Gourmet Hour",
+            "30% off your food bill when you dine early,",
+            "section",
+            "text",
+            "30",
+            "food",
+            "bill",
+            "lunch",
+            "11",
+            "am",
+            "12:30",
+            "pm",
+            "dinner",
+            "5:30",
+            "pm",
+            "7",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, details about the offer are provided.",
+        "sentence_cn": "右侧提供了有关该优惠的详细信息。",
+        "words": [
+            "details",
+            "offer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions that the promotion runs until November 20th and offers a 30% discount on the food bill during specified hours.",
+        "sentence_cn": "上面提到，促销活动将持续到 11 月 20 日，并在指定时段提供 30% 的食品折扣。",
+        "words": [
+            "promotion",
+            "20th",
+            "30",
+            "discount",
+            "food",
+            "bill",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are sections highlighting popular restaurants and eateries participating in the promotion, each with a small image of a dish, the restaurant name, and contact details.",
+        "sentence_cn": "其中有部分部分重点介绍了参与促销活动的热门餐厅和小吃店，每个部分都有一道菜的小图片、餐厅名称和联系方式。",
+        "words": [
+            "sections",
+            "restaurants",
+            "eateries",
+            "promotion",
+            "dish",
+            "restaurant",
+            "name",
+            "contact",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text instructions encourage consumers to use their Citibank Credit or Debit Card to enjoy these discounts, with directions to visit the website or call a hotline for more information.",
+        "sentence_cn": "文字说明鼓励消费者使用花旗银行信用卡或借记卡享受这些折扣，并指导他们访问网站或拨打热线获取更多信息。",
+        "words": [
+            "Text",
+            "instructions",
+            "consumers",
+            "discounts",
+            "directions",
+            "website",
+            "hotline",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom are small images of Citibank cards.",
+        "sentence_cn": "底部是花旗银行卡的小图像。",
+        "words": [
+            "bottom",
+            "images",
+            "cards"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,181 @@
+[
+    {
+        "sentence": "The image features a collection of small, varied objects arranged on a flat surface.",
+        "sentence_cn": "该图像展示了平面上排列的各种小物体的集合。",
+        "words": [
+            "collection",
+            "objects",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Toy Vehicles:",
+        "sentence_cn": "1. 玩具车：",
+        "words": [
+            "Toy Vehicles",
+            "Toy",
+            "Vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the left, there's a miniature horse-drawn carriage model with yellow wheels and a dark red and white body.",
+        "sentence_cn": "- 左边是一辆微型马车模型，黄色的车轮，深红白色的车身。",
+        "words": [
+            "left",
+            "horse",
+            "carriage",
+            "model",
+            "wheels",
+            "body"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In the center, there's a small white model of a vintage racing car with a simplistic design and green interior.",
+        "sentence_cn": "- 中心是一辆老式赛车的小型白色模型，设计简约，内饰为绿色。",
+        "words": [
+            "center",
+            "model",
+            "vintage",
+            "racing",
+            "car",
+            "design",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Tools and Hardware:",
+        "sentence_cn": "2. 工具和硬件：",
+        "words": [
+            "Tools and Hardware",
+            "Tools",
+            "Hardware"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A wooden stick with two different-sized screws is mounted vertically.",
+        "sentence_cn": "- 垂直安装一根带有两颗不同尺寸螺丝的木棍。",
+        "words": [
+            "stick",
+            "two",
+            "screws"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The larger screw has a washer at its base.",
+        "sentence_cn": "",
+        "words": [
+            "screw",
+            "washer",
+            "base"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Other Objects:",
+        "sentence_cn": "3. 其他对象：",
+        "words": [
+            "Other Objects",
+            "Objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A cylindrical black object with a white disc at the top is connected to a red and white twisted cord.",
+        "sentence_cn": "- 一个圆柱形的黑色物体，顶部有一个白色圆盘，与一条红白相间的绞线相连。",
+        "words": [
+            "object",
+            "disc",
+            "top",
+            "cord"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the end of the cord is a cork.",
+        "sentence_cn": "绳子的末端有一个软木塞。",
+        "words": [
+            "end",
+            "cord",
+            "cork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A pack of matches lies in the bottom right corner.",
+        "sentence_cn": "- 右下角有一盒火柴。",
+        "words": [
+            "pack",
+            "matches",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The box has red branding and a white striking surface.",
+        "sentence_cn": "盒子上有红色的品牌标识和白色的醒目表面。",
+        "words": [
+            "box",
+            "branding",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a white triangular piece nearby.",
+        "sentence_cn": "",
+        "words": [
+            "piece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The objects are placed on a plain, light colored surface that appears to be under natural lighting.",
+        "sentence_cn": "这些物体被放置在看似处于自然光下的普通、浅色表面上。",
+        "words": [
+            "objects",
+            "surface",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The arrangement appears random, possibly as part of a creative or playful scene setup.",
+        "sentence_cn": "这种安排看似随机，可能是创意或有趣的场景设置的一部分。",
+        "words": [
+            "arrangement",
+            "part",
+            "scene"
+        ],
+        "id": null
+    }
+]

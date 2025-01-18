@@ -1,0 +1,167 @@
+[
+    {
+        "sentence": "The image appears to be a mobile app screen displaying an offer.",
+        "sentence_cn": "该图像看起来像是一个显示优惠的移动应用程序屏幕。",
+        "words": [
+            "app",
+            "screen",
+            "offer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a purple header with the text \"Share,\" and it shows typical mobile app icons.",
+        "sentence_cn": "顶部有一个紫色标题，上面写着“分享”的文字，并显示典型的移动应用程序图标。",
+        "words": [
+            "Share,",
+            "top",
+            "header",
+            "text",
+            "Share",
+            "mobile",
+            "app",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time displayed on the phone is 12:53, with the temperature at 73¡ãF.",
+        "sentence_cn": "手机上显示的时间是12:53，温度为73°F。",
+        "words": [
+            "time",
+            "phone",
+            "12:53",
+            "temperature",
+            "73¡ãF."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header, there is a photo of two children sitting on grass, facing each other.",
+        "sentence_cn": "标题下方是一张两个孩子面对面坐在草地上的照片。",
+        "words": [
+            "header",
+            "photo",
+            "two",
+            "children",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are both wearing blue jackets with geometric patterns.",
+        "sentence_cn": "两人都穿着带有几何图案的蓝色夹克。",
+        "words": [
+            "jackets",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One child is holding a red mug with white polka dots, while the other child is holding a similar mug in white with a red stripe.",
+        "sentence_cn": "一个孩子拿着一个带有白色圆点的红色杯子，而另一个孩子拿着一个类似的带有红色条纹的白色杯子。",
+        "words": [
+            "One",
+            "child",
+            "mug",
+            "polka",
+            "dots",
+            "child",
+            "mug",
+            "stripe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the photo, there is a promotional message in a white box:",
+        "sentence_cn": "照片下方，白色方框内有一条促销信息：",
+        "words": [
+            "photo",
+            "message",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"Earn Free Babysitting Credits!\"",
+        "sentence_cn": "- 标题：“赢取免费保姆积分！”",
+        "words": [
+            "Title:",
+            "Earn Free Babysitting Credits!",
+            "Babysitting",
+            "Credits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Subtitle: \"Invite a Friend, Get a $35 Credit\"",
+        "sentence_cn": "- 副标题：“邀请朋友，获得 35 美元积分”",
+        "words": [
+            "Subtitle:",
+            "Invite a Friend, Get a $35 Credit",
+            "Subtitle",
+            "Friend",
+            "35",
+            "Credit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Details: \"Invite friends and when they book their first sitter, you get a $35 credit to pay your sitters.",
+        "sentence_cn": "- 详情：“邀请朋友，当他们预订第一位保姆时，您将获得 35 美元的信用额度来支付给保姆。",
+        "words": [
+            "Details:",
+            "Details",
+            "friends",
+            "sitter",
+            "35",
+            "credit",
+            "sitters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Friends get a $35 credit with your invite, too.",
+        "sentence_cn": "您的邀请好友也可获得 35 美元信用额度。",
+        "words": [
+            "Friends",
+            "35",
+            "credit",
+            "invite"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's a win-win!\"",
+        "sentence_cn": "这是一个双赢的局面！”",
+        "words": [
+            "win",
+            "win"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Button: \"Share Your Referral Link\"",
+        "sentence_cn": "- 按钮：“分享您的推荐链接”",
+        "words": [
+            "Button:",
+            "Share Your Referral Link",
+            "Button",
+            "Referral",
+            "Link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background behind the text box is grass, giving the image a fresh, outdoor feel.",
+        "sentence_cn": "文本框后面的背景是草地，给图像一种清新、户外的感觉。",
+        "words": [
+            "background",
+            "text",
+            "box",
+            "grass",
+            "feel"
+        ],
+        "id": null
+    }
+]

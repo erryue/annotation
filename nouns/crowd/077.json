@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image depicts a room filled with multiple instances of the same person engaged in various activities, creating a humorous and chaotic scene.",
+        "sentence_cn": "图像描绘了一个房间里挤满了同一个人从事各种活动的多个实例，创造了一个幽默而混乱的场景。",
+        "words": [
+            "room",
+            "instances",
+            "person",
+            "activities",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Foreground Left: A woman with long hair is talking on the phone, looking intensely towards the viewer.",
+        "sentence_cn": "1. 前景左：一位长发女子正在打电话，目光专注地看着观众。",
+        "words": [
+            "Foreground Left",
+            "Foreground",
+            "woman",
+            "hair",
+            "phone",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small portion of another person's face peeks from behind her arm.",
+        "sentence_cn": "另一个人的脸的一小部分从她的手臂后面露出。",
+        "words": [
+            "portion",
+            "person",
+            "face",
+            "arm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Center: On the bed, a woman in a pink shirt sits cross-legged, holding a snack package, with another wearing jeans and a brown top beside her.",
+        "sentence_cn": "2. 中间：床上，一名身穿粉色衬衫的女子盘腿而坐，手里拿着零食包，旁边还有一名身穿牛仔裤和棕色上衣的女子。",
+        "words": [
+            "Center",
+            "Center",
+            "bed",
+            "woman",
+            "shirt",
+            "snack",
+            "package",
+            "jeans",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Background: Near the wall, one woman is standing and pinning something to the wall, wearing a green shirt with the number 20 on the back.",
+        "sentence_cn": "3. 背景：靠近墙壁，站着一名女子，将某物钉在墙上，她身穿一件绿色的衬衫，背后印着数字 20。",
+        "words": [
+            "Background",
+            "Background",
+            "wall",
+            "one",
+            "woman",
+            "wall",
+            "shirt",
+            "number",
+            "20",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Far Right: Another woman in a polka-dot dress sits on a chair reading a book.",
+        "sentence_cn": "4. 最右边：另一位身穿圆点连衣裙的女子坐在椅子上看书。",
+        "words": [
+            "Far Right",
+            "woman",
+            "polka",
+            "dot",
+            "dress",
+            "chair",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A bookshelf with various items, including toys and books, is nearby.",
+        "sentence_cn": "附近有一个书架，上面摆放着玩具和书籍等各种物品。",
+        "words": [
+            "bookshelf",
+            "items",
+            "toys",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Floor: Several women are engaged in casual activities on the floor, with one drawing on the other's leg.",
+        "sentence_cn": "5. 地板：几名女子在地板上随意活动，其中一人在另一个人的腿上画画。",
+        "words": [
+            "Floor",
+            "Floor",
+            "women",
+            "activities",
+            "floor",
+            "one",
+            "leg"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is colorful, with vibrant bedding, adding to the dynamic and playful atmosphere.",
+        "sentence_cn": "房间色彩丰富，配有色彩鲜艳的床上用品，增添了动感和活泼的氛围。",
+        "words": [
+            "room",
+            "bedding",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

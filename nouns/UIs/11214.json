@@ -1,0 +1,170 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile application displaying various categories of henna and tattoo designs.",
+        "sentence_cn": "该图片似乎是一个移动应用程序的截图，其中展示了各种类别的指甲花和纹身设计。",
+        "words": [
+            "application",
+            "categories",
+            "henna",
+            "tattoo",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface is red, with categories shown in a grid layout, each with an image and label:",
+        "sentence_cn": "界面为红色，类别以网格布局显示，每个类别都有一个图像和标签：",
+        "words": [
+            "interface",
+            "categories",
+            "grid",
+            "layout",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Henna Tattoo: Features an intricate floral henna design.",
+        "sentence_cn": "1. 指甲花纹身：具有复杂的花卉指甲花图案。",
+        "words": [
+            "Henna Tattoo",
+            "Henna",
+            "Tattoo",
+            "henna",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Cute Animal Designs: Shows a black-and-white silhouette of an animal, likely a fox or wolf.",
+        "sentence_cn": "2. 可爱的动物设计：展示动物的黑白轮廓，可能是狐狸或狼。",
+        "words": [
+            "Cute Animal Designs",
+            "silhouette",
+            "animal",
+            "fox",
+            "wolf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Tribal Designs: Displays a hand adorned with a complex tribal pattern.",
+        "sentence_cn": "3. 部落设计：展示一只饰有复杂部落图案的手。",
+        "words": [
+            "Tribal Designs",
+            "hand",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Henna Designs: Features a hand with a detailed henna pattern, emphasizing floral and paisley motifs.",
+        "sentence_cn": "4. 指甲花设计：以手为特色，带有详细的指甲花图案，强调花卉和佩斯利图案。",
+        "words": [
+            "Henna Designs",
+            "hand",
+            "henna",
+            "pattern",
+            "motifs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Wedding Special Designs: Shows legs with elaborate henna designs meant for weddings.",
+        "sentence_cn": "5. 婚礼特别设计：展示专为婚礼设计的带有精致指甲花图案的腿部。",
+        "words": [
+            "Wedding Special Designs",
+            "Wedding",
+            "legs",
+            "henna",
+            "designs",
+            "weddings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Design for Bride: Presents hands with traditional bridal henna patterns, heavily filled with intricate details.",
+        "sentence_cn": "6. 为新娘设计：呈现新娘手上的传统指甲花图案，充满复杂的细节。",
+        "words": [
+            "Design for Bride",
+            "Design",
+            "hands",
+            "henna",
+            "patterns",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Designer Mehndi: Displays a creative and elaborate henna design on a hand.",
+        "sentence_cn": "7. 设计师 Mehndi：展示手上富有创意且精致的指甲花设计。",
+        "words": [
+            "Designer Mehndi",
+            "Designer",
+            "henna",
+            "design",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Design for Hand: Features two hands covered with dense and ornate mehndi patterns.",
+        "sentence_cn": "8. 手部设计：两只手上布满了浓密而华丽的曼海蒂图案。",
+        "words": [
+            "Design for Hand",
+            "Design",
+            "Hand",
+            "two",
+            "hands",
+            "mehndi",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Pakistani Mehndi: Shows a hand with vibrant and colorful henna, adorned with additional jewelry.",
+        "sentence_cn": "9. 巴基斯坦曼海蒂：展示一只涂满鲜艳多彩指甲花的手，上面还装饰有其他珠宝。",
+        "words": [
+            "Pakistani Mehndi",
+            "hand",
+            "henna",
+            "jewelry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section contains app controls and social media icons.",
+        "sentence_cn": "顶部部分包含应用程序控件和社交媒体图标。",
+        "words": [
+            "section",
+            "app",
+            "controls",
+            "media",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time shows 5:57.",
+        "sentence_cn": "时间显示5:57。",
+        "words": [
+            "time",
+            "5:57"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom contains an advertisement for a tax return app, indicating it has 37,259 reviews and a high rating.",
+        "sentence_cn": "底部是一款报税应用的广告，显示该应用有 37,259 条评论，评分很高。",
+        "words": [
+            "bottom",
+            "tax",
+            "return",
+            "app",
+            "37,259",
+            "reviews",
+            "rating"
+        ],
+        "id": null
+    }
+]

@@ -1,6 +1,6 @@
 [
     {
-        "id": "faf41d89-93b8-4872-99b9-1f731f09b07d",
+        "id": "412a57a1-9b22-477c-9d6f-be916264b462",
         "confidence": 0.9664,
         "class": "laptop",
         "target": {
@@ -22,7 +22,7 @@
         }
     },
     {
-        "id": "449a02c1-28d5-4839-86e0-6f03716d9802",
+        "id": "206a4957-39ef-46fa-afb6-89c3206f1bfd",
         "confidence": 0.93817,
         "class": "laptop",
         "target": {
@@ -44,7 +44,7 @@
         }
     },
     {
-        "id": "f21f6db3-b84e-4d10-99c1-4291143ca8b8",
+        "id": "6a5a595f-5df4-4a11-8aa1-ffa7cf1b3d86",
         "confidence": 0.91603,
         "class": "laptop",
         "target": {
@@ -66,7 +66,7 @@
         }
     },
     {
-        "id": "7ec7b172-4127-4c18-bf24-eafabea06c1a",
+        "id": "510b15f3-d509-49fd-ad69-a0ec1d3bd671",
         "confidence": 0.88196,
         "class": "tv",
         "target": {
@@ -83,226 +83,6 @@
                     "y": 0.37324,
                     "w": 384.42578000000003,
                     "h": 288.33245
-                }
-            }
-        }
-    },
-    {
-        "id": "d6af1f24-5a38-4869-a0a5-488a9311314e",
-        "confidence": 0.78665,
-        "class": "mouse",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 479.37219,
-                        "minY": 537.97821,
-                        "maxX": 537.11139,
-                        "maxY": 607.19189
-                    },
-                    "x": 479.37219,
-                    "y": 537.97821,
-                    "w": 57.73920000000004,
-                    "h": 69.21367999999995
-                }
-            }
-        }
-    },
-    {
-        "id": "def20903-a820-4147-b5de-c764cb2dde8b",
-        "confidence": 0.47173,
-        "class": "chair",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 87.23318,
-                        "minY": 817.05151,
-                        "maxX": 662.79877,
-                        "maxY": 1078.79639
-                    },
-                    "x": 87.23318,
-                    "y": 817.05151,
-                    "w": 575.5655899999999,
-                    "h": 261.74487999999997
-                }
-            }
-        }
-    },
-    {
-        "id": "8ef563a9-3195-4a50-bf67-e0f119c94c32",
-        "confidence": 0.43672,
-        "class": "keyboard",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 99.93069,
-                        "minY": 523.42883,
-                        "maxX": 384.91113,
-                        "maxY": 685.4024
-                    },
-                    "x": 99.93069,
-                    "y": 523.42883,
-                    "w": 284.98044000000004,
-                    "h": 161.97357
-                }
-            }
-        }
-    },
-    {
-        "id": "053766ee-77ac-40a9-b06a-046a08538cec",
-        "confidence": 0.37935,
-        "class": "keyboard",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 474.29544,
-                        "minY": 380.40518,
-                        "maxX": 662.5155,
-                        "maxY": 458.51355
-                    },
-                    "x": 474.29544,
-                    "y": 380.40518,
-                    "w": 188.22006,
-                    "h": 78.10837000000004
-                }
-            }
-        }
-    },
-    {
-        "id": "d226298e-1e6e-4413-ae19-6aed66321c89",
-        "confidence": 0.37078,
-        "class": "keyboard",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 900.6922,
-                        "minY": 733.22424,
-                        "maxX": 1268.03015,
-                        "maxY": 1079.0
-                    },
-                    "x": 900.6922,
-                    "y": 733.22424,
-                    "w": 367.3379500000001,
-                    "h": 345.77576
-                }
-            }
-        }
-    },
-    {
-        "id": "d67b83bd-5b8c-4853-9ae0-6f960b22d980",
-        "confidence": 0.31322,
-        "class": "keyboard",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 1016.22803,
-                        "minY": 13.23056,
-                        "maxX": 1174.36987,
-                        "maxY": 124.59549
-                    },
-                    "x": 1016.22803,
-                    "y": 13.23056,
-                    "w": 158.14184,
-                    "h": 111.36493
-                }
-            }
-        }
-    },
-    {
-        "id": "e37ab89f-0bc9-4f4a-bb29-19c6f55360b6",
-        "confidence": 0.27736,
-        "class": "bottle",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 804.80536,
-                        "minY": 140.92653,
-                        "maxX": 899.44006,
-                        "maxY": 333.55023
-                    },
-                    "x": 804.80536,
-                    "y": 140.92653,
-                    "w": 94.63470000000007,
-                    "h": 192.62369999999999
-                }
-            }
-        }
-    },
-    {
-        "id": "db6f2052-1067-4a1f-8050-f8623b567825",
-        "confidence": 0.25297,
-        "class": "book",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 853.22522,
-                        "minY": 484.03696,
-                        "maxX": 1059.46167,
-                        "maxY": 701.14075
-                    },
-                    "x": 853.22522,
-                    "y": 484.03696,
-                    "w": 206.23644999999988,
-                    "h": 217.10379
-                }
-            }
-        }
-    },
-    {
-        "id": "54762630-81e1-4814-af28-714efb01c1c6",
-        "confidence": 0.22354,
-        "class": "book",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 1059.92188,
-                        "minY": 341.4252,
-                        "maxX": 1133.58081,
-                        "maxY": 443.37585
-                    },
-                    "x": 1059.92188,
-                    "y": 341.4252,
-                    "w": 73.65892999999983,
-                    "h": 101.95065
-                }
-            }
-        }
-    },
-    {
-        "id": "8ffc8676-2917-4797-aa6b-a5dbf7c7c72c",
-        "confidence": 0.21661,
-        "class": "mouse",
-        "target": {
-            "selector": {
-                "type": "RECTANGLE",
-                "geometry": {
-                    "bounds": {
-                        "minX": 669.3761,
-                        "minY": 483.18997,
-                        "maxX": 752.26855,
-                        "maxY": 590.55493
-                    },
-                    "x": 669.3761,
-                    "y": 483.18997,
-                    "w": 82.89245000000005,
-                    "h": 107.36496
                 }
             }
         }

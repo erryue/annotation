@@ -1,0 +1,46 @@
+[
+    {
+        "id": "db67cdf2-8d49-42ec-bac0-4ee9067ae728",
+        "confidence": 0.85556,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 625.1311,
+                        "minY": 244.80058,
+                        "maxX": 842.8219,
+                        "maxY": 593.23657
+                    },
+                    "x": 625.1311,
+                    "y": 244.80058,
+                    "w": 217.69080000000008,
+                    "h": 348.43599000000006
+                }
+            }
+        }
+    },
+    {
+        "id": "8575f8d7-11bf-4a9e-8214-aa8616336350",
+        "confidence": 0.81862,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 970.1449,
+                        "minY": 331.66748,
+                        "maxX": 1438.43372,
+                        "maxY": 1079.0
+                    },
+                    "x": 970.1449,
+                    "y": 331.66748,
+                    "w": 468.28882,
+                    "h": 747.3325199999999
+                }
+            }
+        }
+    }
+]

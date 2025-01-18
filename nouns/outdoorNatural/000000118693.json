@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image shows a group of giraffes and zebras in a grassy enclosure, possibly in a zoo or wildlife park.",
+        "sentence_cn": "照片中，一群长颈鹿和斑马处在草地围栏内，可能是在动物园或野生动物园。",
+        "words": [
+            "group",
+            "giraffes",
+            "zebras",
+            "enclosure",
+            "zoo",
+            "wildlife",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A prominent giraffe is walking in the foreground, displaying its long neck and distinctive brown patches on a cream background.",
+        "sentence_cn": "一只显眼的长颈鹿正在前景中行走，在奶油色的背景上展示着它的长脖子和独特的棕色斑点。",
+        "words": [
+            "giraffe",
+            "foreground",
+            "neck",
+            "patches",
+            "cream",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffe exhibits a graceful stride as it moves across the green grass.",
+        "sentence_cn": "长颈鹿在绿草上行走时展现出优雅的步伐。",
+        "words": [
+            "giraffe",
+            "stride",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, several other giraffes are gathered near a large tree with bare branches.",
+        "sentence_cn": "背景中，另外几只长颈鹿聚集在一棵光秃秃树枝的大树旁。",
+        "words": [
+            "background",
+            "giraffes",
+            "tree",
+            "branches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These giraffes seem to be interacting or grazing together.",
+        "sentence_cn": "这些长颈鹿似乎正在互动或一起吃草。",
+        "words": [
+            "giraffes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a zebra is visible eating grass, with its characteristic black and white stripes.",
+        "sentence_cn": "右边，一只斑马正在吃草，它有着独特的黑白条纹。",
+        "words": [
+            "right",
+            "zebra",
+            "eating",
+            "grass",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further back, another zebra and giraffe can be seen, partially obscured by foliage.",
+        "sentence_cn": "再往后看，可以看到另一只斑马和长颈鹿，部分被树叶遮挡。",
+        "words": [
+            "zebra",
+            "giraffe",
+            "foliage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is set on a sunny day, with the sunlight casting shadows on the animals and the ground.",
+        "sentence_cn": "场景设定在一个晴朗的日子，阳光在动物和地面上投下阴影。",
+        "words": [
+            "scene",
+            "day",
+            "sunlight",
+            "shadows",
+            "animals",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the animals, there are dense trees and foliage, adding to the natural setting of the enclosure.",
+        "sentence_cn": "动物的身后有茂密的树木和树叶，为围栏增添了自然环境。",
+        "words": [
+            "animals",
+            "trees",
+            "foliage",
+            "enclosure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Large rocks are scattered throughout the area, contributing to the landscape's design.",
+        "sentence_cn": "大石头散布在整个区域，为景观的设计作出贡献。",
+        "words": [
+            "rocks",
+            "area",
+            "landscape",
+            "design"
+        ],
+        "id": null
+    }
+]

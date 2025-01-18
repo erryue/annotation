@@ -1,0 +1,141 @@
+[
+    {
+        "sentence": "The image is a webpage from ChildLine, featuring a bright and friendly design.",
+        "sentence_cn": "图片是ChildLine的网页，设计明亮、友好。",
+        "words": [
+            "webpage",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the ChildLine logo is prominently displayed along with their contact number, 0800 1111, next to a phone icon.",
+        "sentence_cn": "在顶部，ChildLine 徽标与其联系电话 0800 1111 一起突出显示，旁边有一个电话图标。",
+        "words": [
+            "top",
+            "logo",
+            "contact",
+            "number",
+            "0800",
+            "1111",
+            "phone",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a blue sky with clouds above a grassy field.",
+        "sentence_cn": "背景是蓝天，草地上方有云彩。",
+        "words": [
+            "background",
+            "sky",
+            "clouds",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The navigation bar below the logo offers options to \"Play,\" \"Explore,\" and \"Talk,\" with a search box and a link to \"Your locker\" for login or sign-up.",
+        "sentence_cn": "徽标下方的导航栏提供“播放”、“探索”和“交谈”选项，并带有搜索框和“您的储物柜”链接，用于登录或注册。",
+        "words": [
+            "Play,",
+            "Explore,",
+            "Talk,",
+            "Your locker",
+            "navigation",
+            "bar",
+            "logo",
+            "options",
+            "search",
+            "box",
+            "link",
+            "locker",
+            "login",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the navigation bar, a main section showcases an image of raised hands against a green chalkboard, labeled \"School.\"",
+        "sentence_cn": "在导航栏下方，主要部分展示了一幅绿色黑板上举起的手的图像，标有“学校”。",
+        "words": [
+            "School.",
+            "navigation",
+            "bar",
+            "section",
+            "hands",
+            "chalkboard",
+            "School"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are links related to topics like \"Depression and feeling sad\" and \"Drugs.\"",
+        "sentence_cn": "其中有与“抑郁和悲伤”和“毒品”等主题相关的链接。",
+        "words": [
+            "Depression and feeling sad",
+            "Drugs.",
+            "links",
+            "topics",
+            "Depression",
+            "Drugs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a \"Need to talk?\" box encourages contact with ChildLine, stating that calls are free and confidential.",
+        "sentence_cn": "右侧的“需要交谈吗？”框鼓励您与儿童热线联系，并说明通话是免费且保密的。",
+        "words": [
+            "Need to talk?",
+            "right",
+            "box",
+            "contact",
+            "calls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It provides options to call, find more information, chat with a counselor, or visit message boards, along with information for adults.",
+        "sentence_cn": "它提供呼叫、查找更多信息、与顾问聊天或访问留言板的选项，以及成人信息。",
+        "words": [
+            "options",
+            "information",
+            "counselor",
+            "message",
+            "boards",
+            "information",
+            "adults"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are boxes for \"Message boards,\" \"Ask Sam,\" \"Online chat,\" and a section on \"Bullying on social networks,\" each with relevant images and icons.",
+        "sentence_cn": "底部有“留言板”、“问 Sam”、“在线聊天”等框，以及“社交网络上的欺凌”部分，每个框都有相关的图像和图标。",
+        "words": [
+            "Message boards,",
+            "Ask Sam,",
+            "Online chat,",
+            "Bullying on social networks,",
+            "bottom",
+            "boxes",
+            "Message",
+            "boards",
+            "chat",
+            "section",
+            "networks",
+            "images",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is colorful and inviting, aimed at providing support and advice.",
+        "sentence_cn": "设计色彩丰富、引人注目，旨在提供支持和建议。",
+        "words": [
+            "design",
+            "support",
+            "advice"
+        ],
+        "id": null
+    }
+]

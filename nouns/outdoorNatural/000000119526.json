@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a serene, sunny scene in what appears to be a savanna or a wildlife park.",
+        "sentence_cn": "图片描绘的是一片宁静、阳光明媚的场景，看起来像是一片大草原或野生动物公园。",
+        "words": [
+            "scene",
+            "savanna",
+            "wildlife",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are four giraffes walking gracefully across a grassy plain.",
+        "sentence_cn": "四只长颈鹿正在草原上优雅地行走。",
+        "words": [
+            "four",
+            "giraffes",
+            "plain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area is surrounded by numerous trees, including tall palm trees and other leafy trees, providing a sense of a natural habitat.",
+        "sentence_cn": "该地区周围有许多树木，包括高大的棕榈树和其他绿叶树，给人一种自然栖息地的感觉。",
+        "words": [
+            "area",
+            "trees",
+            "palm",
+            "trees",
+            "trees",
+            "sense",
+            "habitat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a wooden fence borders the edge of a path or another section of the park, suggesting that this is likely an enclosed area for the animals.",
+        "sentence_cn": "在前景中，一道木栅栏围绕着一条小路的边缘或公园的另一个部分，这表明这里很可能是动物的封闭区域。",
+        "words": [
+            "foreground",
+            "fence",
+            "edge",
+            "path",
+            "section",
+            "park",
+            "area",
+            "animals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is a mix of grass and bare earth, with some low bushy plants.",
+        "sentence_cn": "地面是草地和裸露的土地，还有一些低矮的灌木植物。",
+        "words": [
+            "ground",
+            "mix",
+            "grass",
+            "earth",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is peaceful, with the animals appearing calm as they roam the open space.",
+        "sentence_cn": "整体氛围是平静的，动物在空旷的空间里漫步时显得很平静。",
+        "words": [
+            "atmosphere",
+            "animals",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The natural lighting enhances the greenery and the spotted patterns on the giraffes, creating a warm and inviting scene.",
+        "sentence_cn": "自然光线增强了绿色植物和长颈鹿身上的斑点图案，营造出温暖而迷人的场景。",
+        "words": [
+            "lighting",
+            "greenery",
+            "patterns",
+            "giraffes",
+            "scene"
+        ],
+        "id": null
+    }
+]

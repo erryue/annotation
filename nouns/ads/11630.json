@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Del Monte Pineapple Juice, published in The Saturday Evening Post on March 5, 1955.",
+        "sentence_cn": "该图是 Del Monte 菠萝汁的复古广告，于 1955 年 3 月 5 日刊登在《星期六晚邮报》上。",
+        "words": [
+            "vintage",
+            "5",
+            "1955"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central focus of the ad is an illustration of a large pineapple with a Del Monte Pineapple Juice can integrated into its center.",
+        "sentence_cn": "广告的中心焦点是一颗大菠萝的插图，中间有一个 Del Monte 菠萝汁罐。",
+        "words": [
+            "focus",
+            "ad",
+            "illustration",
+            "pineapple",
+            "can",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The can is labeled with the Del Monte brand, showcasing their \"Grand Quality\" and \"Unsweetened Pineapple Juice\" with an image of a glass filled with juice beside some pineapple pieces.",
+        "sentence_cn": "罐子上贴有 Del Monte 品牌标签，展示了其“优质”和“无糖菠萝汁”，图片中是一杯装满果汁的玻璃杯，旁边放着一些菠萝片。",
+        "words": [
+            "Grand Quality",
+            "Unsweetened Pineapple Juice",
+            "can",
+            "brand",
+            "glass",
+            "juice",
+            "pineapple",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the pineapple are twelve cartoon-like faces of children, each with a different expression and wearing a variety of colorful hats, suggesting excitement and enjoyment.",
+        "sentence_cn": "菠萝周围是十二张卡通般的儿童脸，每个儿童都有不同的表情，戴着各种颜色的帽子，暗示着兴奋和享受。",
+        "words": [
+            "pineapple",
+            "twelve",
+            "cartoon",
+            "faces",
+            "children",
+            "expression",
+            "variety",
+            "hats",
+            "excitement",
+            "enjoyment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are depicted with straws leading towards the pineapple, emphasizing the theme \"Everybody draws straws for TRUE-TO-THE-FRUIT FLAVOR.\"",
+        "sentence_cn": "他们手中拿着吸管，指向菠萝，强调了“每个人都抽吸管，品尝真正的水果味道”这一主题。",
+        "words": [
+            "Everybody draws straws for TRUE-TO-THE-FRUIT FLAVOR.",
+            "straws",
+            "pineapple",
+            "theme",
+            "straws",
+            "FLAVOR"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text at the bottom reinforces the brand message, implying that the juice is as flavorful and fresh as eating real fruit.",
+        "sentence_cn": "底部的文字强化了品牌信息，暗示果汁和吃真正的水果一样美味和新鲜。",
+        "words": [
+            "text",
+            "bottom",
+            "brand",
+            "message",
+            "juice",
+            "fruit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad uses bright and vivid colors to attract attention and convey a sense of fun and freshness associated with the product.",
+        "sentence_cn": "广告采用明亮、鲜艳的色彩来吸引注意力，并传达与产品相关的乐趣和新鲜感。",
+        "words": [
+            "ad",
+            "colors",
+            "attention",
+            "sense",
+            "fun",
+            "freshness",
+            "product"
+        ],
+        "id": null
+    }
+]

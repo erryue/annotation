@@ -1,0 +1,217 @@
+[
+    {
+        "sentence": "The image shows a group of four people sitting around a small table, engaged in a lively conversation and laughing.",
+        "sentence_cn": "图中四个人围坐在一张小桌子旁，热烈地交谈着，笑着。",
+        "words": [
+            "group",
+            "four",
+            "people",
+            "table",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group appears to be in a casual setting, likely a caf¨¦ or a social gathering place.",
+        "sentence_cn": "该团体似乎处于一个休闲场所，可能是咖啡馆或社交聚会场所。",
+        "words": [
+            "group",
+            "caf¨",
+            "gathering",
+            "place"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description of each person and surrounding elements:",
+        "sentence_cn": "以下是每个人和周围元素的详细描述：",
+        "words": [
+            "person",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Person on the Left:",
+        "sentence_cn": "1. 左边的人：",
+        "words": [
+            "Person on the Left:",
+            "Person",
+            "Left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Wears a plaid shirt with shades of green, blue, and white.",
+        "sentence_cn": "- 穿着带有绿色、蓝色和白色色调的格子衬衫。",
+        "words": [
+            "shirt",
+            "shades",
+            "green",
+            "blue",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has short hair and is wearing glasses.",
+        "sentence_cn": "- 留着短发，戴着眼镜。",
+        "words": [
+            "hair",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Leaning forward with hands resting on a few stacked books.",
+        "sentence_cn": "- 身体前倾，双手放在几叠书上。",
+        "words": [
+            "hands",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Person from the Left:",
+        "sentence_cn": "2. 左边第二人：",
+        "words": [
+            "Second Person from the Left:",
+            "Person",
+            "Left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Wears a beige top with a bright turquoise scarf.",
+        "sentence_cn": "- 穿着米色上衣，搭配亮绿松石色围巾。",
+        "words": [
+            "top",
+            "scarf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has curly hair and is wearing large circular earrings.",
+        "sentence_cn": "- 有一头卷发，戴着大圆形耳环。",
+        "words": [
+            "hair",
+            "earrings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Smiling broadly and appears very engaged in the conversation.",
+        "sentence_cn": "- 笑容灿烂，看上去非常投入于谈话。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Third Person from the Left:",
+        "sentence_cn": "3. 左边第三人称：",
+        "words": [
+            "Third Person from the Left:",
+            "Person",
+            "Left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Wears a colorful, patterned poncho or wrap with a flower tucked in her hair.",
+        "sentence_cn": "- 穿着色彩鲜艳、有图案的斗篷或披肩，头发上插着一朵花。",
+        "words": [
+            "poncho",
+            "wrap",
+            "flower",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has long, wavy hair.",
+        "sentence_cn": "- 有一头长长的、波浪形的头发。",
+        "words": [
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Laughing openly with a wide smile, holding a glass containing a purple smoothie with a straw.",
+        "sentence_cn": "- 笑容灿烂地大笑，手里拿着一杯插着吸管的紫色冰沙。",
+        "words": [
+            "smile",
+            "glass",
+            "smoothie",
+            "straw"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Person on the Right:",
+        "sentence_cn": "4. 右边的人：",
+        "words": [
+            "Person on the Right:",
+            "Person",
+            "Right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Wears a white button-up shirt with thin, dark stripes.",
+        "sentence_cn": "- 穿着带有深色细条纹的白色纽扣衬衫。",
+        "words": [
+            "shirt",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has short hair and is smiling warmly.",
+        "sentence_cn": "- 有着短发并且笑容温暖。",
+        "words": [
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Appears amiable and attentive to the ongoing conversation.",
+        "sentence_cn": "- 显得友善并且关注正在进行的谈话。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Environment:",
+        "sentence_cn": "环境：",
+        "words": [
+            "Environment:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There is a laptop on the table, suggesting a mix of leisure and perhaps some work or study.",
+        "sentence_cn": "- 桌子上有一台笔记本电脑，暗示着这里有休闲场所，也可能是工作或学习场所。",
+        "words": [
+            "laptop",
+            "table",
+            "mix",
+            "leisure",
+            "work",
+            "study"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The atmosphere appears cheerful and relaxed, indicative of a fun, social interaction among friends or colleagues.",
+        "sentence_cn": "- 气氛显得愉快和轻松，表明朋友或同事之间有趣的社交互动。",
+        "words": [
+            "atmosphere",
+            "interaction",
+            "friends",
+            "colleagues"
+        ],
+        "id": null
+    }
+]

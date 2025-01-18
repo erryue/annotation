@@ -1,0 +1,143 @@
+[
+    {
+        "sentence": "The image shows a home office setup on a wooden table.",
+        "sentence_cn": "图中显示的是木桌上的家庭办公室布置。",
+        "words": [
+            "home",
+            "office",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are two laptops: the one on the left is an Apple laptop, and the one on the right is a Dell laptop.",
+        "sentence_cn": "桌子上有两台笔记本电脑：左边的是苹果笔记本电脑，右边的是戴尔笔记本电脑。",
+        "words": [
+            "table",
+            "two",
+            "laptops",
+            "one",
+            "laptop",
+            "one",
+            "right",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both are open and displaying content on their screens.",
+        "sentence_cn": "两者均已打开并在屏幕上显示内容。",
+        "words": [
+            "content",
+            "screens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the Apple laptop, there's a white cup, and a plastic package with napkins or tissues.",
+        "sentence_cn": "苹果笔记本电脑旁边有一个白色的杯子，还有一个装有餐巾纸或纸巾的塑料包装。",
+        "words": [
+            "laptop",
+            "cup",
+            "package",
+            "napkins",
+            "tissues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A bag of Walkers crisps is placed on the keyboard of the Apple laptop.",
+        "sentence_cn": "一袋沃克斯薯片放在苹果笔记本电脑的键盘上。",
+        "words": [
+            "bag",
+            "crisps",
+            "keyboard",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the table, there is a bowl with a salad, containing tomatoes and greens, along with a fork.",
+        "sentence_cn": "桌子中央放着一个碗，碗里盛有沙拉，有西红柿和蔬菜，还有一把叉子。",
+        "words": [
+            "center",
+            "table",
+            "bowl",
+            "salad",
+            "tomatoes",
+            "greens",
+            "fork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the salad, there is a plate with two sandwiches.",
+        "sentence_cn": "沙拉前面有一个盘子，里面有两个三明治。",
+        "words": [
+            "front",
+            "salad",
+            "plate",
+            "two",
+            "sandwiches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wired computer mouse is connected to the Dell laptop, and next to it, there's a glass filled with a red liquid, likely juice or a smoothie.",
+        "sentence_cn": "有线电脑鼠标连接到戴尔笔记本电脑上，旁边有一杯装满红色液体的玻璃杯，可能是果汁或冰沙。",
+        "words": [
+            "computer",
+            "mouse",
+            "laptop",
+            "glass",
+            "liquid",
+            "juice",
+            "smoothie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various cables are scattered around the table.",
+        "sentence_cn": "各种电缆散落在桌子周围。",
+        "words": [
+            "cables",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A healthy green plant in a white pot is positioned at the back corner, adding a bit of greenery to the setting.",
+        "sentence_cn": "一株健康的绿色植物种植在一个白色的花盆里，放置在后面的角落，为环境增添了一丝绿意。",
+        "words": [
+            "plant",
+            "pot",
+            "corner",
+            "bit",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two chairs, one on each side of the table, can be seen with their muted blue hues.",
+        "sentence_cn": "桌子两侧各有一把椅子，呈柔和的蓝色。",
+        "words": [
+            "Two",
+            "chairs",
+            "one",
+            "table",
+            "hues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere suggests a workspace mixed with a casual dining area.",
+        "sentence_cn": "整体氛围呈现为工作空间与休闲用餐区的融合。",
+        "words": [
+            "atmosphere",
+            "workspace",
+            "dining",
+            "area"
+        ],
+        "id": null
+    }
+]

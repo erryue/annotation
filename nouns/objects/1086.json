@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image shows a countertop in a kitchen setting.",
+        "sentence_cn": "图像显示了厨房的台面。",
+        "words": [
+            "countertop",
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, part of a gas stove is visible with two burners, and a dark-colored pot on one of them.",
+        "sentence_cn": "左侧可以看到煤气炉的一部分，上面有两个炉头，其中一个炉头上放着一个深色的锅。",
+        "words": [
+            "part",
+            "gas",
+            "stove",
+            "two",
+            "burners",
+            "pot",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the countertop, there is a black spatula and a gray-handled utensil.",
+        "sentence_cn": "台面上，有一把黑色的铲子和一把灰色手柄的器具。",
+        "words": [
+            "countertop",
+            "spatula",
+            "utensil"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A red lighter with a long nose lies next to them.",
+        "sentence_cn": "一个长鼻子的红色打火机放在他们旁边。",
+        "words": [
+            "lighter",
+            "nose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a tall cup with a \"Red Bull\" logo.",
+        "sentence_cn": "中央是一个高大的杯子，上面印有“红牛”的标志。",
+        "words": [
+            "Red Bull",
+            "center",
+            "cup",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind it, there are two lit candles: one in a small, red glass holder and the other in a clear faceted glass holder.",
+        "sentence_cn": "在它后面，有两根点燃的蜡烛：一根放在一个小的红色玻璃烛台上，另一根放在一个透明的多面玻璃烛台上。",
+        "words": [
+            "two",
+            "candles",
+            "one",
+            "glass",
+            "holder",
+            "glass",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the candles is a coaster with a small lid on it.",
+        "sentence_cn": "蜡烛旁边是一个带小盖子的杯垫。",
+        "words": [
+            "candles",
+            "coaster",
+            "lid"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a large, blue, ribbed kitchen utensil holder contains various utensils.",
+        "sentence_cn": "右边，一个大型的蓝色带肋厨房用具架，里面放着各种用具。",
+        "words": [
+            "right",
+            "kitchen",
+            "utensil",
+            "holder",
+            "utensils"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a small decorative item with a landscape scene.",
+        "sentence_cn": "还有一个带有风景的小装饰品。",
+        "words": [
+            "item",
+            "landscape",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall arrangement suggests a casual, everyday kitchen setting with some mood lighting from the candles.",
+        "sentence_cn": "整体布置体现出一种休闲、日常的厨房氛围，通过蜡烛营造出情调灯光。",
+        "words": [
+            "arrangement",
+            "kitchen",
+            "mood",
+            "lighting",
+            "candles"
+        ],
+        "id": null
+    }
+]

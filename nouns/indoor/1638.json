@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image depicts a cozy living room setting.",
+        "sentence_cn": "图像描绘了一个舒适的客厅布置。",
+        "words": [
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center is a large, cream-colored sofa adorned with an array of colorful throw pillows in shades of green, orange, and red.",
+        "sentence_cn": "房间中央是一张奶油色的大沙发，上面装饰着一排彩色的抱枕，颜色有绿色、橙色和红色。",
+        "words": [
+            "center",
+            "cream",
+            "sofa",
+            "array",
+            "throw",
+            "pillows",
+            "shades",
+            "green",
+            "orange",
+            "red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A dark red or burgundy throw blanket is draped over one arm of the sofa.",
+        "sentence_cn": "沙发的一只扶手上搭着一条深红色或酒红色的毯子。",
+        "words": [
+            "throw",
+            "blanket",
+            "one",
+            "arm",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa are three round, woven ottomans that serve as a coffee table.",
+        "sentence_cn": "沙发前面有三个圆形的编织脚凳，可用作咖啡桌。",
+        "words": [
+            "front",
+            "sofa",
+            "three",
+            "ottomans",
+            "coffee",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of them holds a green vase with vibrant pink tulips, adding a fresh touch to the room.",
+        "sentence_cn": "其中一人拿着一个绿色花瓶，花瓶里插着鲜艳的粉红色郁金香，给房间增添了清新的气息。",
+        "words": [
+            "One",
+            "vase",
+            "tulips",
+            "touch",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another ottoman has some coasters, and there appears to be a candle or small decorative item on another.",
+        "sentence_cn": "另一个凳子上有一些杯垫，另一个凳子上似乎有一支蜡烛或小装饰品。",
+        "words": [
+            "ottoman",
+            "coasters",
+            "candle",
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A floor lamp with a vintage-style shade stands to the left of the sofa, providing illumination.",
+        "sentence_cn": "沙发左侧有一盏带有复古风格灯罩的落地灯，提供照明。",
+        "words": [
+            "floor",
+            "lamp",
+            "style",
+            "shade",
+            "sofa",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a large houseplant with broad green leaves adds a natural element to the space.",
+        "sentence_cn": "在背景中，一株有着宽大绿叶的大型室内植物为空间增添了自然元素。",
+        "words": [
+            "background",
+            "houseplant",
+            "leaves",
+            "element",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features wooden flooring and warm, neutral walls, which create a welcoming atmosphere.",
+        "sentence_cn": "房间设有木地板和温暖、中性的墙壁，营造出温馨的氛围。",
+        "words": [
+            "room",
+            "flooring",
+            "walls",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

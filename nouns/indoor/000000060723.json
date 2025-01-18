@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image depicts a cozy office space with a wooden desk and an office chair.",
+        "sentence_cn": "图像描绘了一个舒适的办公空间，里面有一张木桌和一把办公椅。",
+        "words": [
+            "office",
+            "space",
+            "desk",
+            "office",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s a computer monitor on the desk along with a keyboard and mouse.",
+        "sentence_cn": "桌子上有一台电脑显示器、一台键盘和鼠标。",
+        "words": [
+            "computer",
+            "monitor",
+            "desk",
+            "keyboard",
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Papers and a notepad are scattered across the desk surface.",
+        "sentence_cn": "桌面上散落着纸张和记事本。",
+        "words": [
+            "Papers",
+            "notepad",
+            "desk",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A desk lamp provides warm lighting and a plant adds a touch of greenery.",
+        "sentence_cn": "台灯提供温暖的照明，植物增添一抹绿意。",
+        "words": [
+            "desk",
+            "lamp",
+            "lighting",
+            "plant",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adorning the desk are personal touches such as framed photographs and small knick-knacks.",
+        "sentence_cn": "书桌上装饰着一些个人物品，如相框和小摆设。",
+        "words": [
+            "desk",
+            "touches",
+            "photographs",
+            "knick",
+            "knacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby, a shelf contains various items including books, collectibles, a license plate, and a small figurine.",
+        "sentence_cn": "附近的架子上摆放着各种物品，包括书籍、收藏品、车牌和小雕像。",
+        "words": [
+            "shelf",
+            "items",
+            "books",
+            "collectibles",
+            "license",
+            "plate",
+            "figurine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are light-colored, contributing to a calm atmosphere.",
+        "sentence_cn": "墙壁是浅色的，营造出一种平静的氛围。",
+        "words": [
+            "walls",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene suggests a personalized and inviting workspace.",
+        "sentence_cn": "整体场景呈现个性化和诱人的工作空间。",
+        "words": [
+            "scene",
+            "workspace"
+        ],
+        "id": null
+    }
+]

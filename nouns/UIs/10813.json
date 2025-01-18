@@ -1,0 +1,165 @@
+[
+    {
+        "sentence": "The image shows a mobile app interface displaying the \"Top News\" section focused on esports.",
+        "sentence_cn": "图中显示的是移动应用程序界面，其中显示了专注于电子竞技的“头条新闻”部分。",
+        "words": [
+            "Top News",
+            "app",
+            "interface",
+            "section",
+            "esports"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app has a dark theme with icons at the top including a flashlight, eye, lock, folder, and a ghost icon, along with a battery indicator and time (1:35).",
+        "sentence_cn": "该应用程序采用深色主题，顶部的图标包括手电筒、眼睛、锁、文件夹和幽灵图标，以及电池指示器和时间（1:35）。",
+        "words": [
+            "app",
+            "theme",
+            "icons",
+            "top",
+            "flashlight",
+            "eye",
+            "lock",
+            "folder",
+            "ghost",
+            "icon",
+            "battery",
+            "indicator",
+            "time",
+            "1:35"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface has tabs for different games: \"LOL,\" \"DOTA2,\" \"CSGO,\" \"Overwatch,\" \"COD,\" and \"Smash,\" with the \"DOTA2\" tab selected in purple.",
+        "sentence_cn": "界面上有不同游戏的标签：“LOL”，“DOTA2”，“CSGO”，“守望先锋”，“COD”和“Smash”，其中“DOTA2”标签以紫色选定。",
+        "words": [
+            "LOL,",
+            "DOTA2,",
+            "CSGO,",
+            "Overwatch,",
+            "COD,",
+            "Smash,",
+            "DOTA2",
+            "interface",
+            "tabs",
+            "games",
+            "tab",
+            "purple"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there are two news items:",
+        "sentence_cn": "以下是两条新闻：",
+        "words": [
+            "two",
+            "news",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. First Item:",
+        "sentence_cn": "1. 第一项：",
+        "words": [
+            "First Item",
+            "Item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Image of a person speaking.",
+        "sentence_cn": "- 正在讲话的人的图像。",
+        "words": [
+            "Image",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Headline: ¡°Nahaz: 'I would much rather have a double elimination Major announced months in advance'¡±",
+        "sentence_cn": "- 标题：“Nahaz：‘我宁愿提前几个月宣布双淘汰赛’”",
+        "words": [
+            "Headline",
+            "elimination",
+            "Major",
+            "months"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Category: Dota 2",
+        "sentence_cn": "类别：Dota 2",
+        "words": [
+            "Category",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Time: 32 minutes ago",
+        "sentence_cn": "- 时间：32分钟前",
+        "words": [
+            "Time",
+            "32",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Item:",
+        "sentence_cn": "2. 第二项：",
+        "words": [
+            "Second Item",
+            "Item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Image of a man seated at a gaming setup, possibly during a tournament.",
+        "sentence_cn": "- 一名男子坐在游戏设备旁的图像，可能是在比赛期间。",
+        "words": [
+            "Image",
+            "man",
+            "gaming",
+            "tournament"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is a play button icon over the image, indicating a video.",
+        "sentence_cn": "- 图像上方有一个播放按钮图标，表示这是视频。",
+        "words": [
+            "play",
+            "button",
+            "icon",
+            "video"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Headline: ¡°Universe on lessons learned on Secret: 'It'¡±",
+        "sentence_cn": "- 标题：“宇宙从《秘密：它》中吸取的教训”",
+        "words": [
+            "Headline",
+            "Universe",
+            "lessons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface includes interactive elements like a heart icon for liking or saving content.",
+        "sentence_cn": "该界面包括一些交互元素，例如用于喜欢或保存内容的心形图标。",
+        "words": [
+            "interface",
+            "elements",
+            "heart",
+            "icon",
+            "content"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image shows a neatly arranged, cozy bedroom with a large bed as the central focus.",
+        "sentence_cn": "图片展示的是一间布置整洁、舒适的卧室，以一张大床为中心。",
+        "words": [
+            "bedroom",
+            "bed",
+            "focus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bed is made with crisp white linens, and there are multiple pillows in layers at the head, including large white pillows and smaller decorative ones in a light gold color.",
+        "sentence_cn": "床上铺着洁白的床单，床头分层摆放着多个枕头，包括白色的大枕头和一些浅金色的小装饰枕头。",
+        "words": [
+            "bed",
+            "linens",
+            "pillows",
+            "layers",
+            "head",
+            "pillows",
+            "ones",
+            "gold",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A long cylindrical bolster pillow in a matching light gold shade lies across the bed.",
+        "sentence_cn": "床上放着一个圆柱形的长枕，颜色与金色相配。",
+        "words": [
+            "bolster",
+            "pillow",
+            "shade",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the bed, a single red rose is placed, adding a touch of elegance and romance.",
+        "sentence_cn": "床上摆放着一朵红玫瑰，增添了几分优雅与浪漫。",
+        "words": [
+            "bed",
+            "rose",
+            "touch",
+            "elegance",
+            "romance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small dark purple decorative pillow with floral details is also present near the bolster pillow.",
+        "sentence_cn": "靠垫旁边还有一个带有花卉图案的深紫色小装饰枕头。",
+        "words": [
+            "pillow",
+            "details",
+            "bolster",
+            "pillow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The headboard has a draped fabric design that complements the pillows.",
+        "sentence_cn": "床头板采用垂褶布艺设计，与枕头相得益彰。",
+        "words": [
+            "headboard",
+            "fabric",
+            "design",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A warm wall lamp is mounted on the wall beside the bed, providing soft lighting.",
+        "sentence_cn": "床边的墙壁上安装了一盏暖色的壁灯，提供柔和的灯光。",
+        "words": [
+            "wall",
+            "lamp",
+            "wall",
+            "bed",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Artwork in neutral tones hangs on the adjacent wall, subtly enhancing the room's decor.",
+        "sentence_cn": "相邻的墙壁上悬挂着中性色调的艺术品，巧妙地增强了房间的装饰效果。",
+        "words": [
+            "Artwork",
+            "tones",
+            "wall",
+            "room",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A staircase is visible in the background, leading upwards, with a small hallway and another floral arrangement visible in a nook.",
+        "sentence_cn": "背景中可以看到一条向上延伸的楼梯，楼梯间内有一条小走廊，角落处还有另一种花卉布置。",
+        "words": [
+            "staircase",
+            "background",
+            "hallway",
+            "arrangement",
+            "nook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance of the room is luxurious and inviting, with a focus on comfort and aesthetics.",
+        "sentence_cn": "房间的整体氛围豪华而温馨，注重舒适性和美观性。",
+        "words": [
+            "ambiance",
+            "room",
+            "focus",
+            "comfort",
+            "aesthetics"
+        ],
+        "id": null
+    }
+]

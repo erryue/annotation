@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Delicatessen,\" presented by Claudie Ossard.",
+        "sentence_cn": "图片是克劳迪·奥萨德 (Claudie Ossard) 呈现的《黑店狂想曲》电影海报。",
+        "words": [
+            "Delicatessen,",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a textured, rustic red color with a worn appearance, giving a vintage feel.",
+        "sentence_cn": "背景是具有纹理的质朴红色，具有磨损的外观，给人一种复古的感觉。",
+        "words": [
+            "background",
+            "color",
+            "appearance",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center is a three-dimensional, golden pig sculpture, which stands out prominently against the background.",
+        "sentence_cn": "中心处为一立体的金猪雕塑，在背景中格外醒目。",
+        "words": [
+            "center",
+            "three",
+            "pig",
+            "sculpture",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pig forms a visual focal point.",
+        "sentence_cn": "猪形成了视觉焦点。",
+        "words": [
+            "pig",
+            "point"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"DELICATESSEN\" is written in large, bold, yellow letters at the top, with a slight shadowing effect that adds depth to the text.",
+        "sentence_cn": "标题“DELICATESSEN”以大号粗体黄色字母写在顶部，并带有轻微的阴影效果，增加了文本的深度。",
+        "words": [
+            "DELICATESSEN",
+            "title",
+            "letters",
+            "top",
+            "shadowing",
+            "effect",
+            "depth",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath the pig sculpture, it mentions \"un film de JEUNET et CARO\" in yellow, indicating the directors of the film.",
+        "sentence_cn": "猪雕塑的下方用黄色写着“un film de JEUNET et CARO”，指的是这部电影的导演。",
+        "words": [
+            "un film de JEUNET et CARO",
+            "pig",
+            "sculpture",
+            "yellow",
+            "directors",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, the credits are listed in smaller yellow text, naming the cast and crew involved in the production.",
+        "sentence_cn": "海报底部以较小的黄色文字列出了片尾字幕，列出了参与制作的演员和剧组人员的名字。",
+        "words": [
+            "bottom",
+            "poster",
+            "credits",
+            "text",
+            "cast",
+            "crew",
+            "production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic suggests a quirky, possibly dark or satirical theme, in line with the film's genre.",
+        "sentence_cn": "整体美感体现出一种古怪、可能黑暗或讽刺的主题，与电影类型相符。",
+        "words": [
+            "aesthetic",
+            "theme",
+            "line",
+            "film",
+            "genre"
+        ],
+        "id": null
+    }
+]

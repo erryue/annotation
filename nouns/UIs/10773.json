@@ -1,0 +1,251 @@
+[
+    {
+        "sentence": "The image shows an \"Attributions\" screen from an application called \"Colorblind Vision (Free).\"",
+        "sentence_cn": "该图显示了名为“Colorblind Vision（免费）”的应用程序的“归因”屏幕。",
+        "words": [
+            "Attributions",
+            "Colorblind Vision (Free).",
+            "Attributions",
+            "screen",
+            "application"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It lists various images and their creators.",
+        "sentence_cn": "它列出了各种图像及其创作者。",
+        "words": [
+            "images",
+            "creators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark, with the text mostly in turquoise and structured in two columns.",
+        "sentence_cn": "背景是深色的，文字大部分是绿松石色，分为两列。",
+        "words": [
+            "background",
+            "text",
+            "turquoise",
+            "two",
+            "columns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The images and their respective creators are:",
+        "sentence_cn": "这些图片和它们各自的创作者是：",
+        "words": [
+            "images",
+            "creators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bluebird by ibm4381",
+        "sentence_cn": "- ibm4381 的 Bluebird",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Fall Leaves by Mark Mrwizard",
+        "sentence_cn": "- Mark Mrwizard 的《落叶》",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Butterfly A by whologwhy",
+        "sentence_cn": "- Whologwhy 的蝴蝶 A",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Butterfly B by therichbrooks",
+        "sentence_cn": "- therichbrooks 的 Butterfly B",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Fire truck by Tobyotter",
+        "sentence_cn": "- Tobyotter 生产的消防车",
+        "words": [
+            "Fire",
+            "truck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Flowers by dionhinchcliffe",
+        "sentence_cn": "- dionhinchcliffe 的鲜花",
+        "words": [
+            "Flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Clown by chefranden",
+        "sentence_cn": "- chefranden 拍摄的小丑",
+        "words": [
+            "Clown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Quirkle by Benimoto",
+        "sentence_cn": "- Benimoto 的 Quirkle",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Crayons by woodleywonderworks",
+        "sentence_cn": "- woodleywonderworks 出品的蜡笔",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Colors by Viktor Hertz",
+        "sentence_cn": "- Viktor Hertz 的色彩",
+        "words": [
+            "Colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Rainbow by yettis doings",
+        "sentence_cn": "- yettis doings 的彩虹",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Jellybeans by PhotopediaPhotos",
+        "sentence_cn": "- Jellybeans，作者：PhotopediaPhotos",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Sunset by Godo-Godai",
+        "sentence_cn": "- Godo-Godai 的日落",
+        "words": [
+            "Sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Lessons and corresponding creators include:",
+        "sentence_cn": "课程和相应的创作者包括：",
+        "words": [
+            "Lessons",
+            "creators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 1 - Eyes by Tessa_the_Pisces",
+        "sentence_cn": "- 第 1 课 - Tessa_the_Pisces 的眼睛",
+        "words": [
+            "Lesson",
+            "1",
+            "Eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 2 - 3D Glasses by Matt Neale",
+        "sentence_cn": "- 第 2 课 - 3D 眼镜（作者：Matt Neale）",
+        "words": [
+            "Lesson",
+            "2",
+            "3D",
+            "Glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 3 - Red Lights by Michael Prados",
+        "sentence_cn": "- 第 3 课 - 红灯，作者：Michael Prados",
+        "words": [
+            "Lesson",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 4 - Galaxy by HubbleColor {Zolt}",
+        "sentence_cn": "- 第 4 课 - HubbleColor 的星系 {Zolt}",
+        "words": [
+            "Lesson",
+            "4",
+            "Galaxy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 5 - Weights by Gudlyf",
+        "sentence_cn": "- 第 5 课 - Gudlyf 的重量",
+        "words": [
+            "Lesson",
+            "5",
+            "Weights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 6 - Monkey by kevin j",
+        "sentence_cn": "- 第 6 课 - 猴子 作者：kevin j",
+        "words": [
+            "Lesson",
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lesson 7 - Swatches by Omar Omar",
+        "sentence_cn": "- 第 7 课 - Omar Omar 的样品",
+        "words": [
+            "Lesson",
+            "7",
+            "Swatches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lessons 8 to 11 - Colored Paint by Ingrid Truemper",
+        "sentence_cn": "- 第 8 至 11 课 - Ingrid Truemper 的彩色绘画",
+        "words": [
+            "Lessons",
+            "8",
+            "11",
+            "Paint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are two button options: \"Disclaimer\" and \"OK.\"",
+        "sentence_cn": "在底部有两个按钮选项：“免责声明”和“确定”。",
+        "words": [
+            "Disclaimer",
+            "OK.",
+            "bottom",
+            "two",
+            "button",
+            "options",
+            "Disclaimer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app interface around the attribution box has a green color scheme with some icons visible at the top.",
+        "sentence_cn": "归因框周围的应用程序界面采用绿色配色方案，顶部可见一些图标。",
+        "words": [
+            "app",
+            "interface",
+            "attribution",
+            "box",
+            "color",
+            "scheme",
+            "icons",
+            "top"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "sentence": "The image shows a man and a woman walking their dogs on a sidewalk.",
+        "sentence_cn": "照片显示一名男子和一名女子在人行道上遛狗。",
+        "words": [
+            "man",
+            "woman",
+            "dogs",
+            "sidewalk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man, facing away from the camera, is wearing a blue polo shirt and jeans, holding a red leash attached to a small, light-brown dog.",
+        "sentence_cn": "该男子背对着镜头，身穿蓝色 Polo 衫和牛仔裤，手里牵着一条红色皮带，皮带上牵着一只浅棕色的小狗。",
+        "words": [
+            "man",
+            "camera",
+            "polo",
+            "shirt",
+            "jeans",
+            "leash",
+            "dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman, walking towards the camera, is dressed in a pink tank top and black leggings, holding a blue leash with a black and white dog.",
+        "sentence_cn": "这位女子身穿粉色背心和黑色紧身裤，向镜头走来，手里牵着一条蓝色皮带，皮带上还牵着一只黑白相间的狗。",
+        "words": [
+            "woman",
+            "camera",
+            "tank",
+            "top",
+            "leggings",
+            "leash",
+            "dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sidewalk is lined with greenery, including trees and shrubs, and there are buildings visible in the background, suggesting an urban setting.",
+        "sentence_cn": "人行道两旁种满了树木和灌木等绿色植物，背景中可以看到建筑物，呈现出城市环境。",
+        "words": [
+            "sidewalk",
+            "greenery",
+            "trees",
+            "shrubs",
+            "buildings",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene appears to be a pleasant day, ideal for a walk.",
+        "sentence_cn": "看起来天气很好，很适合散步。",
+        "words": [
+            "scene",
+            "day",
+            "walk"
+        ],
+        "id": null
+    }
+]

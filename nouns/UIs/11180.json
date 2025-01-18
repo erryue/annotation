@@ -1,0 +1,153 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile tutorial window from an app called \"Emoji Trolls\" by DreamWorks.",
+        "sentence_cn": "该图片是梦工厂一款名为“Emoji Trolls”的应用程序的移动教程窗口的屏幕截图。",
+        "words": [
+            "Emoji Trolls",
+            "tutorial",
+            "window",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a gradient of teal to dark green.",
+        "sentence_cn": "背景是从青色到深绿色的渐变色。",
+        "words": [
+            "background",
+            "gradient",
+            "teal",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there are icons for social media and sharing options, such as Facebook.",
+        "sentence_cn": "顶部有社交媒体和共享选项的图标，例如 Facebook。",
+        "words": [
+            "top",
+            "icons",
+            "media",
+            "sharing",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central tutorial window has a teal header with the word \"TUTORIAL\" in bold.",
+        "sentence_cn": "中央教程窗口有一个青绿色标题，上面用粗体显示“TUTORIAL”字样。",
+        "words": [
+            "TUTORIAL",
+            "tutorial",
+            "window",
+            "header",
+            "word"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The instructional text reads, \"Tap the favorites icon to see your most used emojis.",
+        "sentence_cn": "说明文字如下：“点击收藏夹图标即可查看您最常用的表情符号。",
+        "words": [
+            "text",
+            "favorites",
+            "icon",
+            "emojis"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Press and hold emoji to remove it from favorites.\"",
+        "sentence_cn": "按住表情符号即可将其从收藏夹中删除。”",
+        "words": [
+            "emoji",
+            "favorites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the text are cartoonish emoji characters with phrases:",
+        "sentence_cn": "文字下方是带有短语的卡通表情符号：",
+        "words": [
+            "text",
+            "emoji",
+            "characters",
+            "phrases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"OOOPS!\" with a colorful troll.",
+        "sentence_cn": "- “哎呀！”伴随着五颜六色的巨魔。",
+        "words": [
+            "OOOPS!",
+            "troll"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A troll next to a cupcake with a pink background.",
+        "sentence_cn": "- 一只巨魔站在一个粉红色背景的纸杯蛋糕旁边。",
+        "words": [
+            "troll",
+            "cupcake",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"SIGH\" with a purple-haired troll in blue clothing.",
+        "sentence_cn": "- 一名身穿蓝色衣服的紫发巨魔发出“叹息”声。",
+        "words": [
+            "SIGH",
+            "troll",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"SORRY\" below a sad-looking blue troll.",
+        "sentence_cn": "- 一脸悲伤的蓝色巨魔下方写着“抱歉”。",
+        "words": [
+            "SORRY",
+            "SORRY",
+            "troll"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"TEE HEE!\" next to a striped creature.",
+        "sentence_cn": "- “嘻嘻！”旁边是一个有条纹的生物。",
+        "words": [
+            "TEE HEE!",
+            "creature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"THANK YOU\" with a blue troll holding something.",
+        "sentence_cn": "- 一个蓝色巨魔拿着某物说“谢谢”。",
+        "words": [
+            "THANK YOU",
+            "troll"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the tutorial window are icons representing emoji categories, with a star icon highlighted to indicate the favorites section.",
+        "sentence_cn": "教程窗口的底部是代表表情符号类别的图标，其中突出显示的星形图标表示收藏夹部分。",
+        "words": [
+            "bottom",
+            "tutorial",
+            "window",
+            "icons",
+            "emoji",
+            "categories",
+            "star",
+            "icon",
+            "favorites",
+            "section"
+        ],
+        "id": null
+    }
+]

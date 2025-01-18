@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image depicts a rustic log cabin set in a snowy landscape.",
+        "sentence_cn": "图像描绘的是雪景中的一间简朴小木屋。",
+        "words": [
+            "log",
+            "cabin",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cabin has a steeply pitched roof and is constructed from dark, weathered wood.",
+        "sentence_cn": "小屋有一个陡峭的屋顶，由深色风化的木材建造而成。",
+        "words": [
+            "cabin",
+            "roof",
+            "wood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Prominent red doors and window frames contrast with the natural wood color.",
+        "sentence_cn": "显眼的红色门窗框与天然的木色形成鲜明对比。",
+        "words": [
+            "doors",
+            "window",
+            "frames",
+            "wood",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the main door, there are what appear to be decorative white antler mounts.",
+        "sentence_cn": "主门上方，有一些看似装饰性的白色鹿角支架。",
+        "words": [
+            "door",
+            "antler",
+            "mounts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, snow covers the ground, and a black and white dog stands facing away, adding a sense of scale and movement to the scene.",
+        "sentence_cn": "前景中，白雪覆盖大地，一只黑白相间的狗背对着前方站立着，为场景增添了一种规模感和动感。",
+        "words": [
+            "foreground",
+            "snow",
+            "ground",
+            "dog",
+            "sense",
+            "scale",
+            "movement",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and blue, and in the background, there are snow-covered hills and trees, providing a picturesque mountain backdrop.",
+        "sentence_cn": "天空湛蓝清澈，背景是白雪覆盖的山丘和树木，构成了一幅风景如画的山景。",
+        "words": [
+            "sky",
+            "background",
+            "snow",
+            "hills",
+            "trees",
+            "mountain",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image conveys a serene, wintery atmosphere.",
+        "sentence_cn": "图像传达出一种宁静的冬天氛围。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

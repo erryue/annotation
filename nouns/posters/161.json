@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image is a vintage movie poster for \"Top Gun.\"",
+        "sentence_cn": "该图是《壮志凌云》的复古电影海报。",
+        "words": [
+            "Top Gun.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a tagline that reads, \"Up there with the best of the best.\"",
+        "sentence_cn": "顶部有一行标语，写着“与最优秀的人一起站在那里”。",
+        "words": [
+            "Up there with the best of the best.",
+            "top",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, the prominent names \"Tom Cruise\" and \"Kelly McGillis\" are displayed in bold white text.",
+        "sentence_cn": "下面，突出的名字“汤姆·克鲁斯”和“凯莉·麦吉利斯”以粗体白色文字显示。",
+        "words": [
+            "Tom Cruise",
+            "Kelly McGillis",
+            "names",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Central to the design is a large photograph of two characters.",
+        "sentence_cn": "设计的核心是一张两个人物的大幅照片。",
+        "words": [
+            "design",
+            "photograph",
+            "two",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is wearing a leather jacket with patches, and the woman is close by his side.",
+        "sentence_cn": "男子身穿带有补丁的皮夹克，女子紧挨着他身边。",
+        "words": [
+            "man",
+            "leather",
+            "jacket",
+            "patches",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has a red, white, and blue theme that resembles an American flag.",
+        "sentence_cn": "背景采用红色、白色和蓝色主题，类似于美国国旗。",
+        "words": [
+            "background",
+            "theme",
+            "flag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the photograph, there¡¯s an illustration of a fighter jet, emphasizing the aviation theme.",
+        "sentence_cn": "照片上方是一架战斗机的插图，强调了航空主题。",
+        "words": [
+            "photograph",
+            "illustration",
+            "fighter",
+            "jet",
+            "aviation",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The movie title \"Top Gun\" appears prominently in bold letters, with a star and wings motif that includes red stripes.",
+        "sentence_cn": "电影名称“壮志凌云”以粗体字母突出显示，并带有星星和翅膀图案，其中包含红色条纹。",
+        "words": [
+            "Top Gun",
+            "movie",
+            "title",
+            "letters",
+            "star",
+            "wings",
+            "motif",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lower part of the poster contains smaller text detailing credits for the movie, listing additional cast members, production team, and other relevant information.",
+        "sentence_cn": "海报的下部包含较小的文字，详细介绍了电影的演职员表、其他演员、制作团队和其他相关信息。",
+        "words": [
+            "part",
+            "poster",
+            "text",
+            "credits",
+            "movie",
+            "cast",
+            "members",
+            "production",
+            "team",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme combines shades of blue, red, and black, conveying a sense of drama and action.",
+        "sentence_cn": "整体配色方案结合了蓝色、红色和黑色的色调，传达出一种戏剧性和动感。",
+        "words": [
+            "color",
+            "scheme",
+            "shades",
+            "blue",
+            "red",
+            "black",
+            "sense",
+            "drama",
+            "action"
+        ],
+        "id": null
+    }
+]

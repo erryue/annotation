@@ -1,0 +1,116 @@
+[
+    {
+        "sentence": "The image shows a cozy and well-decorated hotel room.",
+        "sentence_cn": "图为舒适且装修精美的酒店房间。",
+        "words": [
+            "hotel",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a large double bed with a white fitted sheet and a brown bed skirt.",
+        "sentence_cn": "客房配有一张大双人床，配有白色床单和棕色床裙。",
+        "words": [
+            "bed",
+            "sheet",
+            "bed",
+            "skirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bedspread and pillows include patterns that complement the room's warm tones.",
+        "sentence_cn": "床罩和枕头的图案与房间的暖色调相得益彰。",
+        "words": [
+            "bedspread",
+            "pillows",
+            "patterns",
+            "room",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The headboard is dark wood, adding an elegant touch, and the wall behind the bed is painted in a soft, inviting orange color.",
+        "sentence_cn": "床头板采用深色木质，增添了优雅的感觉，床后面的墙壁则漆成柔和、诱人的橙色。",
+        "words": [
+            "headboard",
+            "wood",
+            "touch",
+            "wall",
+            "bed",
+            "orange",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the bed, there is a framed piece of rectangular artwork featuring abstract designs.",
+        "sentence_cn": "床上方挂着一幅具有抽象图案的矩形艺术品。",
+        "words": [
+            "bed",
+            "piece",
+            "artwork",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the bed are matching dark wood nightstands, each with a lamp that emits a warm glow, creating a cozy ambiance.",
+        "sentence_cn": "床的两侧是相配的深色木质床头柜，每个床头柜上都有一盏发出温暖光芒的灯，营造出舒适的氛围。",
+        "words": [
+            "bed",
+            "wood",
+            "nightstands",
+            "lamp",
+            "glow",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One lamp is turned on, casting a soft light.",
+        "sentence_cn": "一盏灯亮着，散发出柔和的光芒。",
+        "words": [
+            "One",
+            "lamp",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small, decorative item and a telephone are placed on the nightstand.",
+        "sentence_cn": "床头柜上摆放着一件小装饰品和一部电话。",
+        "words": [
+            "item",
+            "telephone",
+            "nightstand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is tiled in a light color, and there is a small, earth-toned area rug by the side of the bed.",
+        "sentence_cn": "地板上铺着浅色的瓷砖，床边放着一块土色调的小地毯。",
+        "words": [
+            "floor",
+            "color",
+            "earth",
+            "area",
+            "rug",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is warm and inviting, with an emphasis on comfort and relaxation.",
+        "sentence_cn": "整体配色方案温暖而温馨，强调舒适和放松。",
+        "words": [
+            "color",
+            "scheme",
+            "comfort",
+            "relaxation"
+        ],
+        "id": null
+    }
+]

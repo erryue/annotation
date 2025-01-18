@@ -1,0 +1,274 @@
+[
+    {
+        "sentence": "The image shows a webpage from GameFAQs featuring the game \"Lemmings Paintball.\"",
+        "sentence_cn": "该图显示了 GameFAQs 的一个网页，其中介绍了游戏“Lemmings Paintball”。",
+        "words": [
+            "Lemmings Paintball.",
+            "webpage",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Layout:",
+        "sentence_cn": "布局：",
+        "words": [
+            "Layout:",
+            "Layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: Includes navigation options like \"3DS,\" \"DS,\" \"PSP,\" \"PS3,\" etc., and a search bar for game titles.",
+        "sentence_cn": "- 标题：包括“3DS”、“DS”、“PSP”、“PS3”等导航选项，以及游戏标题的搜索栏。",
+        "words": [
+            "Header:",
+            "3DS,",
+            "DS,",
+            "PSP,",
+            "PS3,",
+            "Header",
+            "navigation",
+            "options",
+            "3DS",
+            "PSP",
+            "PS3",
+            "search",
+            "bar",
+            "game",
+            "titles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Banner Ad: An advertisement at the top right corner promoting \"ORANGETHEORY.\"",
+        "sentence_cn": "- 横幅广告：右上角宣传“ORANGETHEORY”的广告。",
+        "words": [
+            "Banner Ad:",
+            "ORANGETHEORY.",
+            "Banner",
+            "Ad",
+            "corner",
+            "ORANGETHEORY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Main Content:",
+        "sentence_cn": "主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Game Title Section: Displays \"PC > Action > General\" as the category path, followed by the title \"Lemmings Paintball.\"",
+        "sentence_cn": "- 游戏标题部分：显示“PC > 动作 > 常规”作为类别路径，后跟标题“Lemmings Paintball”。",
+        "words": [
+            "Game Title Section:",
+            "PC > Action > General",
+            "Lemmings Paintball.",
+            "Game",
+            "Title",
+            "Section",
+            "Action",
+            "category",
+            "path",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation Tabs: Options like Home, Cheats, Reviews, Images, Answers, and Board.",
+        "sentence_cn": "- 导航标签：主页、秘籍、评论、图片、答案和板块等选项。",
+        "words": [
+            "Navigation Tabs:",
+            "Navigation",
+            "Tabs",
+            "Options",
+            "Home",
+            "Cheats",
+            "Reviews",
+            "Images",
+            "Answers",
+            "Board"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Title Data:",
+        "sentence_cn": "标题数据：",
+        "words": [
+            "Title Data:",
+            "Title",
+            "Data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Genre: Action > General",
+        "sentence_cn": "- 类型：动作 > 一般",
+        "words": [
+            "Genre",
+            "Action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Developer: Visual Sciences",
+        "sentence_cn": "- 开发者：Visual Sciences",
+        "words": [
+            "Developer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- ESRB Descriptor: Mild Animated Violence",
+        "sentence_cn": "- ESRB 描述：轻度动画暴力",
+        "words": [
+            "Descriptor",
+            "Violence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Number of Players: 1-2 Players",
+        "sentence_cn": "- 玩家人数：1-2 名玩家",
+        "words": [
+            "Number",
+            "Players",
+            "1",
+            "2",
+            "Players"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Release Data:",
+        "sentence_cn": "发布数据：",
+        "words": [
+            "Release Data:",
+            "Release",
+            "Data"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lists the release details for \"Lemmings Paintball\" in the US and EU regions, both published by Psygnosis with a release date of 05/31/96.",
+        "sentence_cn": "- 列出了美国和欧盟地区的“Lemmings Paintball”发布详情，均由 Psygnosis 发布，发布日期为 1996 年 5 月 31 日。",
+        "words": [
+            "Lemmings Paintball",
+            "Lists",
+            "release",
+            "details",
+            "US",
+            "EU",
+            "regions",
+            "release",
+            "date",
+            "05/31/96"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The US version has a rating of K-A.",
+        "sentence_cn": "美国版本评级为K-A。",
+        "words": [
+            "US",
+            "version",
+            "rating",
+            "K",
+            "A."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Right Panel Content:",
+        "sentence_cn": "右侧面板内容：",
+        "words": [
+            "Right Panel Content:",
+            "Panel",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Game Detail: Includes a small image of the game's cover and links to additional information.",
+        "sentence_cn": "- 游戏详情：包括游戏封面的小图像和其他信息的链接。",
+        "words": [
+            "Game Detail:",
+            "Game",
+            "Detail",
+            "game",
+            "cover",
+            "links",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Advertisement: Promotes \"Big Brother LIVE FEEDS 24/7 ACCESS\" with an offer for a free trial.",
+        "sentence_cn": "- 广告：推广“老大哥实时消息 24/7 访问”，并提供免费试用。",
+        "words": [
+            "Advertisement:",
+            "Big Brother LIVE FEEDS 24/7 ACCESS",
+            "24/7",
+            "ACCESS",
+            "offer",
+            "trial"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Games You May Like:",
+        "sentence_cn": "你可能喜欢的游戏：",
+        "words": [
+            "Games You May Like:",
+            "Games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Shows another game suggestion, \"Ballistix,\" with a brief description.",
+        "sentence_cn": "- 显示另一个游戏建议“Ballistix”，并附有简短说明。",
+        "words": [
+            "Ballistix,",
+            "game",
+            "suggestion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is simple, focusing on providing details about the game, its release, and related content while incorporating some advertising elements.",
+        "sentence_cn": "整体设计简单，注重提供有关游戏、游戏发布和相关内容的详细信息，同时融入一些广告元素。",
+        "words": [
+            "design",
+            "details",
+            "game",
+            "release",
+            "content",
+            "advertising",
+            "elements"
+        ],
+        "id": null
+    }
+]

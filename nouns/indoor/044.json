@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image depicts a cozy and stylish living room.",
+        "sentence_cn": "图像描绘了一个舒适而时尚的客厅。",
+        "words": [
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point is a white sofa adorned with various cushions in shades of red and orange, adding warmth to the space.",
+        "sentence_cn": "焦点是一张白色的沙发，上面装饰着各种红色和橙色的靠垫，为空间增添了温暖。",
+        "words": [
+            "point",
+            "sofa",
+            "cushions",
+            "shades",
+            "red",
+            "orange",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the sofa is a red patterned throw, which complements the cushions.",
+        "sentence_cn": "沙发上放着一条红色图案的毯子，与垫子相得益彰。",
+        "words": [
+            "sofa",
+            "throw",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa is a coffee table with a light-colored top and black metal legs.",
+        "sentence_cn": "沙发前面是一张咖啡桌，桌面是浅色的，桌腿是黑色的金属。",
+        "words": [
+            "front",
+            "sofa",
+            "coffee",
+            "table",
+            "top",
+            "metal",
+            "legs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table are a pale yellow bowl, a square plate, a book, and a glass vase with drooping yellow flowers, adding a touch of nature to the scene.",
+        "sentence_cn": "桌上摆放着一只淡黄色的碗，一只方形的盘子，一本书，以及一只插着低垂黄色花朵的玻璃花瓶，为场景增添了一丝自然气息。",
+        "words": [
+            "table",
+            "bowl",
+            "plate",
+            "book",
+            "glass",
+            "vase",
+            "flowers",
+            "touch",
+            "nature",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the side, there's a stack of large floor cushions in white and red tones, providing additional seating.",
+        "sentence_cn": "一侧有一堆白色和红色的大地垫，可以提供额外的座位。",
+        "words": [
+            "stack",
+            "floor",
+            "cushions",
+            "tones",
+            "seating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small, minimalist side table holds a pot with a single white orchid.",
+        "sentence_cn": "一张小而简约的边桌上放着一盆白色兰花。",
+        "words": [
+            "table",
+            "pot",
+            "orchid"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are adorned with framed artwork that adds character and interest to the room.",
+        "sentence_cn": "墙壁上装饰着带框架的艺术品，为房间增添了特色和趣味。",
+        "words": [
+            "walls",
+            "artwork",
+            "character",
+            "interest",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color palette combines warm earthy colors and neutral tones, creating a welcoming and harmonious atmosphere.",
+        "sentence_cn": "整体色调结合了温暖的泥土色和中性色调，营造出温馨和谐的氛围。",
+        "words": [
+            "color",
+            "palette",
+            "colors",
+            "tones",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

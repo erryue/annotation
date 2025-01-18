@@ -1,0 +1,248 @@
+[
+    {
+        "sentence": "The image depicts a webpage for \"Cleveland's Classic Console & Arcade Gaming Show\" (CCAG).",
+        "sentence_cn": "该图展示了“克利夫兰经典游戏机与街机游戏展”（CCAG）的网页。",
+        "words": [
+            "Cleveland's Classic Console & Arcade Gaming Show",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page has a dark, space-themed background with yellow and green text.",
+        "sentence_cn": "该页面采用深色、太空主题的背景，并配有黄色和绿色文字。",
+        "words": [
+            "page",
+            "space",
+            "background",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Header:",
+        "sentence_cn": "### 标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Logo: The top left shows the CCAG logo with the tagline \"Classic Console & Arcade Gaming Show.\"",
+        "sentence_cn": "- 标志：左上角显示 CCAG 标志，标语为“经典游戏机和街机游戏展”。",
+        "words": [
+            "Classic Console & Arcade Gaming Show.",
+            "Logo",
+            "left",
+            "logo",
+            "tagline",
+            "Show"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation: A menu at the top includes links for Home, FAQ, Contact Us, Help Us Grow, CCAG Store, Forum, and Links.",
+        "sentence_cn": "- 导航：顶部的菜单包括主页、常见问题、联系我们、帮助我们成长、CCAG 商店、论坛和链接的链接。",
+        "words": [
+            "Navigation",
+            "menu",
+            "top",
+            "links",
+            "Home",
+            "Links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content:",
+        "sentence_cn": "### 主要内容：",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- CCAGShow 2016 Info:",
+        "sentence_cn": "- CCAGShow 2016 信息：",
+        "words": [
+            "CCAGShow 2016 Info:",
+            "2016",
+            "Info"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Date: Saturday, July 23, 2016.",
+        "sentence_cn": "- 日期：2016 年 7 月 23 日，星期六。",
+        "words": [
+            "Date",
+            "23",
+            "2016"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Location: North Olmsted Soccer Sportsplex, 31515 Lorain Rd., North Olmsted, Ohio.",
+        "sentence_cn": "- 地点：北奥尔姆斯特德足球运动中心，31515 Lorain Rd.，俄亥俄州北奥尔姆斯特德。",
+        "words": [
+            "Location",
+            "31515",
+            "North",
+            "Olmsted",
+            "Ohio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Time: Noon to 8 PM.",
+        "sentence_cn": "- 时间：中午至晚上 8 点。",
+        "words": [
+            "Time",
+            "Noon",
+            "8",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Admission: $10; free for kids age 12 and under.",
+        "sentence_cn": "- 门票：10 美元；12 岁及以下儿童免费。",
+        "words": [
+            "Admission",
+            "10",
+            "kids",
+            "age",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Note: All vendors and attendees receive one Chinese Auction Coupon.",
+        "sentence_cn": "- 注意：所有供应商和与会者都会收到一张中国拍卖优惠券。",
+        "words": [
+            "Note",
+            "vendors",
+            "attendees",
+            "one",
+            "Coupon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Flyer Section:",
+        "sentence_cn": "- 传单部分：",
+        "words": [
+            "Flyer Section:",
+            "Flyer",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Contains images of the show flyer available in both color and greyscale.",
+        "sentence_cn": "- 包含彩色和灰度两种形式的演出传单图像。",
+        "words": [
+            "images",
+            "show",
+            "flyer",
+            "color",
+            "greyscale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Instructions on how to save the flyer are provided.",
+        "sentence_cn": "- 提供有关如何保存传单的说明。",
+        "words": [
+            "Instructions",
+            "flyer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Sidebars:",
+        "sentence_cn": "### 侧边栏：",
+        "words": [
+            "Sidebars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- General Menu: Links to Home, FAQ, Contact Us, Help Us Grow, CCAG Store, Latest News Archive, Forum, and Links.",
+        "sentence_cn": "- 常规菜单：链接到主页、常见问题解答、联系我们、帮助我们成长、CCAG 商店、最新新闻档案、论坛和链接。",
+        "words": [
+            "General Menu:",
+            "Menu",
+            "Links",
+            "Home",
+            "FAQ",
+            "Links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Vendor Table Status: A link for vendors to check the current status of tables.",
+        "sentence_cn": "- 供应商桌子状态：供应商用于检查桌子当前状态的链接。",
+        "words": [
+            "Vendor Table Status:",
+            "Vendor",
+            "Table",
+            "Status",
+            "link",
+            "vendors",
+            "status",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Support CCAG Show: Instructions for supporting the show via PayPal, excluding credit cards.",
+        "sentence_cn": "- 支持 CCAG 节目：通过 PayPal 支持节目的说明，不包括信用卡。",
+        "words": [
+            "Support CCAG Show:",
+            "Instructions",
+            "show",
+            "credit",
+            "cards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Bottom Section:",
+        "sentence_cn": "### 底部部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- CCAGShow 2015 Sponsors: A mention of a $200 donation from Video Game Connection, detailing a \"CONNECT - O - CASH Shopping Spree!\" with an image of a mock currency or prize certificate.",
+        "sentence_cn": "- CCAGShow 2015 赞助商：提到了来自 Video Game Connection 的 200 美元捐款，并详细介绍了“CONNECT - O - CASH 购物狂欢节！”，并附上了模拟货币或奖品证书的图片。",
+        "words": [
+            "CCAGShow 2015 Sponsors:",
+            "CONNECT - O - CASH Shopping Spree!",
+            "2015",
+            "Sponsors",
+            "mention",
+            "200",
+            "donation",
+            "Shopping",
+            "Spree",
+            "currency",
+            "prize",
+            "certificate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is retro-themed, aligning with the classic gaming focus of the event.",
+        "sentence_cn": "整体设计以复古为主题，与活动的经典游戏重点相一致。",
+        "words": [
+            "design",
+            "gaming",
+            "focus",
+            "event"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "sentence": "The image depicts a modern, minimalist bathroom interior.",
+        "sentence_cn": "该图描绘的是现代简约的浴室内部。",
+        "words": [
+            "bathroom",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Walls and Flooring: The room features smooth, light grey walls complementing the glossy white floor, creating an airy and spacious feel.",
+        "sentence_cn": "- 墙壁和地板：房间采用光滑的浅灰色墙壁，与光滑的白色地板相得益彰，营造出通风宽敞的感觉。",
+        "words": [
+            "Walls and Flooring",
+            "Walls",
+            "Flooring",
+            "room",
+            "walls",
+            "floor",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Vanity Area:",
+        "sentence_cn": "- 梳妆区：",
+        "words": [
+            "Vanity Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A floating wooden vanity with a natural finish provides a warm contrast to the cooler tones.",
+        "sentence_cn": "悬浮式木质梳妆台采用自然饰面，与较冷的色调形成温暖的对比。",
+        "words": [
+            "vanity",
+            "finish",
+            "contrast",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two spacious drawers.",
+        "sentence_cn": "它有两个宽敞的抽屉。",
+        "words": [
+            "two",
+            "drawers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Atop it, there¡¯s a stylish black vessel sink paired with a sleek, modern faucet.",
+        "sentence_cn": "其顶部有一个时尚的黑色面盆，搭配光滑、现代的水龙头。",
+        "words": [
+            "vessel",
+            "sink",
+            "faucet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the sink, a vertical rectangular mirror is mounted, with a small wall light above, casting a soft glow.",
+        "sentence_cn": "水槽上方安装有一面垂直的矩形镜子，上方有一盏小壁灯，散发出柔和的光芒。",
+        "words": [
+            "sink",
+            "mirror",
+            "wall",
+            "light",
+            "glow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cabinets: To the right of the mirror, three horizontal white cabinets are mounted on the wall, offering storage and maintaining the clean lines of the design.",
+        "sentence_cn": "- 橱柜：镜子右侧，墙上安装了三个水平的白色橱柜，既能储存东西，又能保持设计的简洁线条。",
+        "words": [
+            "Cabinets",
+            "Cabinets",
+            "right",
+            "mirror",
+            "three",
+            "cabinets",
+            "wall",
+            "storage",
+            "lines",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Decor and Accessories: A small white dog figurine is placed on the countertop for decoration, adding a touch of personality.",
+        "sentence_cn": "- 装饰和配件：台面上摆放了一只小白狗雕像作为装饰，增添了一丝个性。",
+        "words": [
+            "Decor and Accessories",
+            "Decor",
+            "Accessories",
+            "dog",
+            "figurine",
+            "countertop",
+            "decoration",
+            "touch",
+            "personality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A towel hangs from a transparent stand next to the vanity, which maintains the minimalist aesthetic.",
+        "sentence_cn": "毛巾挂在梳妆台旁边的透明支架上，保持了简约的美感。",
+        "words": [
+            "towel",
+            "stand",
+            "vanity",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lighting: Two spherical pendant lights hang from the ceiling on the left side, casting interesting shadows on the wall due to their design and placement.",
+        "sentence_cn": "- 照明：两个球形吊灯悬挂在左侧的天花板上，由于其设计和位置，在墙壁上投射出有趣的阴影。",
+        "words": [
+            "Lighting",
+            "Lighting",
+            "Two",
+            "pendant",
+            "lights",
+            "ceiling",
+            "shadows",
+            "wall",
+            "design",
+            "placement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Design Elements: The design emphasizes clean lines, with a focus on functionality and simplicity.",
+        "sentence_cn": "- 设计元素：设计强调简洁的线条，注重功能性和简洁性。",
+        "words": [
+            "Design Elements",
+            "Design",
+            "Elements",
+            "design",
+            "lines",
+            "focus",
+            "functionality",
+            "simplicity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a plush white rug in front of the vanity, adding a layer of comfort and texture to the space.",
+        "sentence_cn": "梳妆台前有一块毛绒绒的白色地毯，给空间增添了一层舒适感和质感。",
+        "words": [
+            "rug",
+            "front",
+            "vanity",
+            "layer",
+            "comfort",
+            "texture",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the bathroom is characterized by its sleek, contemporary design, blending functionality with aesthetic appeal.",
+        "sentence_cn": "总体而言，这间浴室的特点是时尚、现代的设计，将功能性与美观性融为一体。",
+        "words": [
+            "bathroom",
+            "design",
+            "functionality",
+            "appeal"
+        ],
+        "id": null
+    }
+]

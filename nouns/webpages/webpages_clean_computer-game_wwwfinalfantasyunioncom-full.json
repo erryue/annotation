@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from \"The Gaming Union Network\" specifically from the section \"Final Fantasy Union.\"",
+        "sentence_cn": "该图是“游戏联盟网络”网页的截图，具体来说是“最终幻想联盟”部分。",
+        "words": [
+            "The Gaming Union Network",
+            "Final Fantasy Union.",
+            "webpage",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The site features a menu with options for \"Home,\" \"News,\" \"Community,\" \"Podcasts,\" \"Database,\" and \"Characters.\"",
+        "sentence_cn": "该网站的菜单上有“主页”、“新闻”、“社区”、“播客”、“数据库”和“人物”等选项。",
+        "words": [
+            "Home,",
+            "News,",
+            "Community,",
+            "Podcasts,",
+            "Database,",
+            "Characters.",
+            "site",
+            "menu",
+            "options",
+            "Home",
+            "News",
+            "Community",
+            "Podcasts",
+            "Database",
+            "Characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page title is about \"Minion Battles Announced During the Latest Final Fantasy XIV Letter from the Producer Live,\" published on Sunday, August 23rd, 2015.",
+        "sentence_cn": "该页面标题为“在最新的《最终幻想 14》制作人现场来信中宣布仆从战斗”，发布于 2015 年 8 月 23 日星期日。",
+        "words": [
+            "Minion Battles Announced During the Latest Final Fantasy XIV Letter from the Producer Live,",
+            "page",
+            "title",
+            "Minion",
+            "Battles",
+            "XIV",
+            "Letter",
+            "23rd",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's an advertisement banner for \"GAMEZONE\" featuring characters from games.",
+        "sentence_cn": "有一个“GAMEZONE”的广告横幅，其中有游戏人物。",
+        "words": [
+            "GAMEZONE",
+            "banner",
+            "characters",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there's an article with a date and author credit to \"Alex.\"",
+        "sentence_cn": "标题下方有一篇文章，其中注明日期和作者为“亚历克斯”。",
+        "words": [
+            "Alex.",
+            "title",
+            "article",
+            "date",
+            "author",
+            "credit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An image related to \"Final Fantasy XIV\" is prominently displayed as part of the article, depicting a dark, ominous structure with vivid colors.",
+        "sentence_cn": "文章中突出显示了一张与《最终幻想 XIV》相关的图像，该图像用鲜艳的色彩描绘了一个黑暗、险恶的结构。",
+        "words": [
+            "Final Fantasy XIV",
+            "part",
+            "article",
+            "structure",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's a sidebar with a \"Final Fantasy Union Podcast\" section, mentioning Final Fantasy IX's anniversary.",
+        "sentence_cn": "右侧的侧边栏上有“最终幻想联盟播客”部分，其中提到了《最终幻想 IX》的周年纪念日。",
+        "words": [
+            "Final Fantasy Union Podcast",
+            "sidebar",
+            "section",
+            "anniversary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The site's visual design includes a black header and light gray content area, with social media icons for RSS, Facebook, and Twitter at the top right.",
+        "sentence_cn": "该网站的视觉设计包括黑色标题和浅灰色内容区域，右上角有 RSS、Facebook 和 Twitter 的社交媒体图标。",
+        "words": [
+            "site",
+            "design",
+            "header",
+            "content",
+            "area",
+            "media",
+            "icons",
+            "top",
+            "right"
+        ],
+        "id": null
+    }
+]

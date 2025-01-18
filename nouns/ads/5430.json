@@ -1,0 +1,113 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement featuring a well-dressed man wearing a light-colored suit, a white shirt, and a patterned tie.",
+        "sentence_cn": "图片是一则复古广告，主角是一位衣着考究的男士，身穿浅色西装、白衬衫和带图案的领带。",
+        "words": [
+            "vintage",
+            "man",
+            "suit",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is smiling and standing beside a fence.",
+        "sentence_cn": "那个男人微笑着站在栅栏旁边。",
+        "words": [
+            "man",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the ad, there's a section titled \"Fielder¡¯s Choice.\"",
+        "sentence_cn": "广告右侧有一个名为“Fielder's Choice”的部分。",
+        "words": [
+            "Fielder¡¯s Choice.",
+            "ad",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this title, there's a smaller image of a bespectacled man and a quote attributed to \"Mr. Kuppenheimer.\"",
+        "sentence_cn": "在这个标题下面，有一张较小的戴眼镜男子的图片，以及一句出自“库彭海默先生”的引言。",
+        "words": [
+            "Mr. Kuppenheimer.",
+            "title",
+            "man",
+            "quote"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The quote discusses the quality of a silk blend suit priced at $195, which the man in the main photo is wearing.",
+        "sentence_cn": "这句话讨论了主照片中的男子所穿的一套售价 195 美元的真丝混纺西装的质量。",
+        "words": [
+            "quote",
+            "quality",
+            "silk",
+            "blend",
+            "suit",
+            "195",
+            "man",
+            "photo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text emphasizes the style and quality of the suit, appealing to those interested in value and fashion.",
+        "sentence_cn": "文字强调了西装的风格和品质，吸引了那些对价值和时尚感兴趣的人。",
+        "words": [
+            "text",
+            "style",
+            "quality",
+            "suit",
+            "value",
+            "fashion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights features like a single-breasted jacket and pleated trousers.",
+        "sentence_cn": "它突出了单排扣夹克和褶皱裤等特点。",
+        "words": [
+            "features",
+            "jacket",
+            "trousers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom of the ad displays the Kuppenheimer Men's Clothiers logo and the tagline, \"America's #1 Value Clothier For Men.\"",
+        "sentence_cn": "广告底部展示了 Kuppenheimer 男士服装店的标志和标语“美国第一的男士服装店”。",
+        "words": [
+            "America's #1 Value Clothier For Men.",
+            "bottom",
+            "ad",
+            "logo",
+            "tagline",
+            "America",
+            "#",
+            "1",
+            "Value"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The year 1989 is noted at the bottom left, indicating the advertisement's date, and there are credit card logos indicating forms of payment accepted.",
+        "sentence_cn": "左下角标有 1989 年，表明广告的日期，并且有信用卡标识表明接受的付款方式。",
+        "words": [
+            "year",
+            "1989",
+            "date",
+            "credit",
+            "card",
+            "logos",
+            "forms",
+            "payment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,393 @@
+[
+    {
+        "sentence": "The image is an infographic comparing Roger Federer and Rafael Nadal, two of the greatest tennis players.",
+        "sentence_cn": "该图是一张比较两位最伟大的网球运动员罗杰·费德勒和拉斐尔·纳达尔的信息图。",
+        "words": [
+            "two",
+            "tennis",
+            "players"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Illustrations:",
+        "sentence_cn": "插图：",
+        "words": [
+            "Illustrations:",
+            "Illustrations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, there's an illustration of Federer holding a tennis racket.",
+        "sentence_cn": "- 左边是费德勒手持网球拍的插图。",
+        "words": [
+            "left",
+            "illustration",
+            "tennis",
+            "racket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right, there's an illustration of Nadal, also with a racket.",
+        "sentence_cn": "- 右边是纳达尔的插图，他也拿着球拍。",
+        "words": [
+            "right",
+            "illustration",
+            "racket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text and Comparisons:",
+        "sentence_cn": "文本与比较：",
+        "words": [
+            "Text and Comparisons:",
+            "Text",
+            "Comparisons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Federer:",
+        "sentence_cn": "- 费德勒：",
+        "words": [
+            "Federer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Country: Switzerland",
+        "sentence_cn": "- 国家：瑞士",
+        "words": [
+            "Country",
+            "Switzerland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Age: 31",
+        "sentence_cn": "年龄：31岁",
+        "words": [
+            "Age",
+            "31"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Plays: Right-Handed",
+        "sentence_cn": "- 玩法：右手",
+        "words": [
+            "Plays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Age started tennis: 8",
+        "sentence_cn": "- 开始打网球的年龄：8岁",
+        "words": [
+            "Age",
+            "tennis",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Turned pro: 17",
+        "sentence_cn": "- 转为职业选手：17",
+        "words": [
+            "17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Grand Slams: 17 (Wimbledon '03, '04, '05, '06, '07, '09, '12; US Open '04, '05, '06, '07, '08; Australian Open '04, '06, '07, '10)",
+        "sentence_cn": "- 大满贯：17 次（温布尔登网球公开赛 '03、'04、'05、'06、'07、'09、'12；美国网球公开赛 '04、'05、'06、'07、'08；澳大利亚网球公开赛 '04、'06、'07、'10）",
+        "words": [
+            "17",
+            "'",
+            "03",
+            "'",
+            "04",
+            "'",
+            "05",
+            "'",
+            "06",
+            "'",
+            "07",
+            "'",
+            "09",
+            "'",
+            "12",
+            "'",
+            "04",
+            "'",
+            "05",
+            "'",
+            "06",
+            "'",
+            "07",
+            "'",
+            "08",
+            "'",
+            "04",
+            "'",
+            "06",
+            "'",
+            "07",
+            "'",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Head-to-head vs. Nadal: 10",
+        "sentence_cn": "- 与纳达尔交手记录：10",
+        "words": [
+            "Head",
+            "head",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Career Titles: 76",
+        "sentence_cn": "- 职业头衔：76",
+        "words": [
+            "Career",
+            "Titles",
+            "76"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Career Win %: 82",
+        "sentence_cn": "- 职业生涯胜率：82%",
+        "words": [
+            "Career",
+            "Win",
+            "82"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Prize Money: $74 million",
+        "sentence_cn": "- 奖金：7400 万美元",
+        "words": [
+            "74",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Additional achievements: Reached 22 consecutive Grand Slam semi-finals, won two different Grand Slam tournaments five times in a row, ranked No. 1 for 289 weeks.",
+        "sentence_cn": "- 其他成就：连续22次进入大满贯半决赛，连续5次赢得两项不同的大满贯赛事，排名第一长达289周。",
+        "words": [
+            "achievements",
+            "22",
+            "semi",
+            "-",
+            "finals",
+            "two",
+            "tournaments",
+            "five",
+            "times",
+            "row",
+            "No",
+            "1",
+            "289",
+            "weeks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Nadal:",
+        "sentence_cn": "- 纳达尔：",
+        "words": [
+            "Nadal:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Country: Spain",
+        "sentence_cn": "- 国家：西班牙",
+        "words": [
+            "Country",
+            "Spain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Age: 26",
+        "sentence_cn": "年龄：26岁",
+        "words": [
+            "Age",
+            "26"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Plays: Left-Handed",
+        "sentence_cn": "- 玩法：左撇子",
+        "words": [
+            "Plays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Age started tennis: 4",
+        "sentence_cn": "- 开始打网球的年龄：4岁",
+        "words": [
+            "Age",
+            "tennis",
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Turned pro: 15",
+        "sentence_cn": "- 转为职业选手：15",
+        "words": [
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Grand Slams: 11 (Wimbledon '08, '10; French Open '05, '06, '07, '08, '10, '11, '12; US Open '10; Australian Open '09)",
+        "sentence_cn": "- 大满贯：11 次（2008、2010 年温布尔登网球公开赛；2005、2006、2007、2008、2010、2011、2012 年法国网球公开赛；2010 年美国网球公开赛；2009 年澳大利亚网球公开赛）",
+        "words": [
+            "11",
+            "'",
+            "08",
+            "'",
+            "10",
+            "'",
+            "05",
+            "'",
+            "06",
+            "'",
+            "07",
+            "'",
+            "08",
+            "'",
+            "10",
+            "'",
+            "11",
+            "'",
+            "12",
+            "'",
+            "10",
+            "'",
+            "09"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Head-to-head vs. Federer: 18 (leads 8-2 in Grand Slams)",
+        "sentence_cn": "- 与费德勒交手次数：18（大满贯赛中以 8-2 领先）",
+        "words": [
+            "Head",
+            "head",
+            "18",
+            "8",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Career Titles: 50",
+        "sentence_cn": "- 职业头衔：50",
+        "words": [
+            "Career",
+            "Titles",
+            "50"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Career Win %: 83",
+        "sentence_cn": "- 职业生涯胜率：83",
+        "words": [
+            "Career",
+            "Win",
+            "83"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Prize Money: $50 million",
+        "sentence_cn": "- 奖金：5000 万美元",
+        "words": [
+            "50",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Additional achievements: Only man to win 7 French Open titles, youngest in the Open Era to complete a career Grand Slam, reached 400 match wins faster than any active player, won Olympic Gold in 2008, led Spain to four Davis Cup victories.",
+        "sentence_cn": "- 其他成就：唯一一位 7 次夺得法网冠军的男子选手、公开赛时代最年轻的完成职业大满贯的选手、比任何现役选手都快取得 400 场胜利、2008 年夺得奥运金牌、带领西班牙队四次夺得戴维斯杯冠军。",
+        "words": [
+            "achievements",
+            "man",
+            "7",
+            "titles",
+            "career",
+            "400",
+            "match",
+            "wins",
+            "player",
+            "2008",
+            "Spain",
+            "four",
+            "victories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Design:",
+        "sentence_cn": "设计：",
+        "words": [
+            "Design:",
+            "Design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The text uses different colors: red/pink for Federer and orange/yellow for Nadal.",
+        "sentence_cn": "- 文字使用不同的颜色：红色/粉色代表费德勒，橙色/黄色代表纳达尔。",
+        "words": [
+            "text",
+            "colors",
+            "red",
+            "pink",
+            "orange",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Icons next to certain stats represent Grand Slams, head-to-head matchups, career titles, win percentage, and prize money.",
+        "sentence_cn": "- 某些统计数据旁边的图标代表大满贯、正面对决、职业冠军、胜率和奖金。",
+        "words": [
+            "Icons",
+            "stats",
+            "head",
+            "head",
+            "matchups",
+            "career",
+            "titles",
+            "win",
+            "percentage",
+            "prize",
+            "money"
+        ],
+        "id": null
+    }
+]

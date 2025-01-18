@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene characterized by rolling hills and a lush, expansive landscape.",
+        "sentence_cn": "该画描绘的是一幅田园风光，其特点是连绵起伏的丘陵和郁郁葱葱的广阔景观。",
+        "words": [
+            "scene",
+            "hills",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, several sheep are grazing or resting on a grassy area near a road.",
+        "sentence_cn": "前景中，几只羊正在道路附近的草地上吃草或休息。",
+        "words": [
+            "foreground",
+            "sheep",
+            "area",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep have thick, fluffy coats, some marked with colorful patches.",
+        "sentence_cn": "羊的皮毛又厚又蓬松，有的还有彩色斑纹。",
+        "words": [
+            "sheep",
+            "coats",
+            "patches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A stone wall runs parallel to the road, adding a rustic element that separates the grazing area from the road.",
+        "sentence_cn": "一堵石墙与道路平行，增添了一种将放牧区与道路隔开的质朴元素。",
+        "words": [
+            "stone",
+            "wall",
+            "road",
+            "element",
+            "grazing",
+            "area",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape stretches out into the distance, revealing a patchwork of green fields and hedgerows.",
+        "sentence_cn": "景观向远方延伸，露出一片片绿色的田野和树篱。",
+        "words": [
+            "landscape",
+            "distance",
+            "patchwork",
+            "fields",
+            "hedgerows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Small clusters of trees and farmhouses dot the scenery, enhancing the rural charm.",
+        "sentence_cn": "小树丛和农舍点缀着风景，增添了乡村魅力。",
+        "words": [
+            "clusters",
+            "trees",
+            "farmhouses",
+            "scenery",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is clear, suggesting a bright, sunny day, which illuminates the vivid greens of the countryside.",
+        "sentence_cn": "头顶的天空晴朗，预示着一个阳光明媚的日子，照亮了乡村的鲜绿。",
+        "words": [
+            "sky",
+            "day",
+            "greens",
+            "countryside"
+        ],
+        "id": null
+    }
+]

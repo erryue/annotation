@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image features a meal consisting of a hamburger and a hot dog placed on a decorative plate with a green leafy design.",
+        "sentence_cn": "图片上的餐点由一个汉堡包和一条热狗组成，放置在一个带有绿叶图案的装饰盘上。",
+        "words": [
+            "meal",
+            "hamburger",
+            "dog",
+            "plate",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The hamburger is on the left side of the plate and includes a bun, a beef patty, a slice of tomato, and a slice of onion.",
+        "sentence_cn": "汉堡在盘子的左边，包括一个面包，一个牛肉饼，一片西红柿和一片洋葱。",
+        "words": [
+            "hamburger",
+            "plate",
+            "bun",
+            "beef",
+            "patty",
+            "slice",
+            "tomato",
+            "slice",
+            "onion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right is a hot dog in a bun, topped with ketchup, mustard, and relish.",
+        "sentence_cn": "右边是夹在面包里的热狗，上面涂着番茄酱、芥末和调味酱。",
+        "words": [
+            "right",
+            "dog",
+            "bun",
+            "ketchup",
+            "mustard",
+            "relish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are jars and bottles, including Heinz tomato ketchup, a jar of relish, mustard, and a bottle labeled as \"Ken's Steak House Dressing.\"",
+        "sentence_cn": "背景中，有各种罐子和瓶子，包括亨氏番茄酱、一罐调味品、芥末酱和一瓶贴有“肯氏牛排馆调味品”标签的调味品。",
+        "words": [
+            "Ken's Steak House Dressing.",
+            "background",
+            "jars",
+            "bottles",
+            "tomato",
+            "ketchup",
+            "jar",
+            "relish",
+            "mustard",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the plate is a glass bowl containing a salad made with lettuce, tomatoes, and cucumber.",
+        "sentence_cn": "盘子右边是一个玻璃碗，里面盛着用生菜、西红柿和黄瓜做成的沙拉。",
+        "words": [
+            "right",
+            "plate",
+            "glass",
+            "bowl",
+            "salad",
+            "lettuce",
+            "tomatoes",
+            "cucumber"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fork and paper napkin with a green pattern are placed on the table nearby.",
+        "sentence_cn": "旁边的桌子上摆放着一把叉子和一张带有绿色图案的纸巾。",
+        "words": [
+            "fork",
+            "paper",
+            "napkin",
+            "pattern",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The meal is set on a tiled countertop.",
+        "sentence_cn": "餐食摆放在瓷砖台面上。",
+        "words": [
+            "meal",
+            "countertop"
+        ],
+        "id": null
+    }
+]

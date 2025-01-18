@@ -1,0 +1,117 @@
+[
+    {
+        "sentence": "The image is a vintage movie poster for the film \"El Puente Sobre el R¨ªo Kwai,\" known in English as \"The Bridge on the River Kwai.\"",
+        "sentence_cn": "该图是电影“El Puente Sobre el R¨ªo Kwai”的复古电影海报，该电影的英文名称为“桂河大桥”。",
+        "words": [
+            "El Puente Sobre el R¨ªo Kwai,",
+            "The Bridge on the River Kwai.",
+            "vintage",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features bold, dramatic artwork with warm colors, predominantly yellow, red, and green.",
+        "sentence_cn": "其艺术作品大胆、富有戏剧性，色调温暖，主要为黄色、红色和绿色。",
+        "words": [
+            "artwork",
+            "colors",
+            "yellow",
+            "red",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the names of the main actors, William Holden, Alec Guinness, and Jack Hawkins, are listed in black text.",
+        "sentence_cn": "海报上方以黑色字体列出主要演员威廉·霍尔登、亚历克·吉尼斯、杰克·霍金斯的名字。",
+        "words": [
+            "top",
+            "poster",
+            "names",
+            "actors",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these names, the film's title is prominently displayed in large, red letters.",
+        "sentence_cn": "在这些名字下方，电影的名称以大红色字母突出显示。",
+        "words": [
+            "names",
+            "film",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The center of the poster is dominated by a large, stylized illustration of a bridge, indicating the film's central theme.",
+        "sentence_cn": "海报的中央是一幅大型的、风格化的桥梁插图，表明了电影的中心主题。",
+        "words": [
+            "center",
+            "poster",
+            "illustration",
+            "bridge",
+            "film",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two prominent faces are painted on the left side; one appears distressed, while the other wears a military hat, conveying a sense of drama and seriousness.",
+        "sentence_cn": "左侧画着两个突出的面孔，一个看起来很痛苦，另一个戴着军帽，传达出一种戏剧性和严肃的感觉。",
+        "words": [
+            "Two",
+            "faces",
+            "one",
+            "hat",
+            "sense",
+            "drama",
+            "seriousness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these figures are smaller, stylized images of soldiers and workers walking along the bridge, adding to the narrative of the film.",
+        "sentence_cn": "这些人物下方是较小的、风格化的士兵和工人沿桥行走的图像，增强了影片的叙事性。",
+        "words": [
+            "figures",
+            "images",
+            "soldiers",
+            "workers",
+            "bridge",
+            "narrative",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a line of text in smaller font listing other actors, including Sessue Hayakawa, James Donald, and Ann Sears, along with the director's name, David Lean.",
+        "sentence_cn": "还有一行较小字体的文字列出了其他演员，包括早川雪洲 (Sessue Hayakawa)、詹姆斯·唐纳德 (James Donald) 和安·西尔斯 (Ann Sears)，以及导演的名字大卫·里恩 (David Lean)。",
+        "words": [
+            "line",
+            "text",
+            "font",
+            "actors",
+            "director",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The use of vivid colors and dynamic illustrations captures the intensity and dramatic theme of the movie.",
+        "sentence_cn": "鲜艳的色彩和动态的插图的运用捕捉了电影的强度和戏剧性主题。",
+        "words": [
+            "use",
+            "colors",
+            "illustrations",
+            "intensity",
+            "theme",
+            "movie"
+        ],
+        "id": null
+    }
+]

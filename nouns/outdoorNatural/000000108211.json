@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "The image shows two dogs in a grassy area surrounded by trees and bushes.",
+        "sentence_cn": "照片中两只狗处在一片草地上，周围是树木和灌木丛。",
+        "words": [
+            "two",
+            "dogs",
+            "area",
+            "trees",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dog on the right, a black dog, is in mid-air, jumping to catch a blue frisbee.",
+        "sentence_cn": "右边的狗是一只黑狗，它正在半空中跳跃去接一个蓝色的飞盘。",
+        "words": [
+            "dog",
+            "right",
+            "dog",
+            "mid",
+            "air",
+            "frisbee"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dog is fully extended, displaying agility and focus on the frisbee.",
+        "sentence_cn": "狗完全伸展，显示出敏捷性和对飞盘的专注。",
+        "words": [
+            "dog",
+            "agility",
+            "focus",
+            "frisbee"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The second dog, a brown one, is on the ground with its back to the camera and is looking towards the jumping dog.",
+        "sentence_cn": "第二只狗是一只棕色的，它躺在地上，背对着镜头，看着那只跳跃的狗。",
+        "words": [
+            "dog",
+            "one",
+            "ground",
+            "back",
+            "camera",
+            "dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground is grassy and well-lit by sunlight, while the trees provide a natural backdrop with a mix of light and shadow.",
+        "sentence_cn": "前景是草地，被阳光照亮，而树木则提供了光影交织的自然背景。",
+        "words": [
+            "foreground",
+            "sunlight",
+            "trees",
+            "backdrop",
+            "mix",
+            "light",
+            "shadow"
+        ],
+        "id": null
+    }
+]

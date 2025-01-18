@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image depicts a waterfront cityscape featuring a prominent skyline along a body of water.",
+        "sentence_cn": "该图描绘的是海滨城市景观，水域沿岸有一条突出的天际线。",
+        "words": [
+            "waterfront",
+            "cityscape",
+            "skyline",
+            "body",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a large ferry is navigating the water, characterized by its white and green color scheme.",
+        "sentence_cn": "前景中，一艘大型渡轮正在水面上航行，其特点是白色和绿色的配色方案。",
+        "words": [
+            "foreground",
+            "ferry",
+            "water",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This vessel is docked at a terminal or pier.",
+        "sentence_cn": "该船停靠在码头或码头。",
+        "words": [
+            "vessel",
+            "terminal",
+            "pier"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background showcases a variety of modern buildings and skyscrapers, including:",
+        "sentence_cn": "背景展示了各种现代建筑和摩天大楼，包括：",
+        "words": [
+            "background",
+            "variety",
+            "buildings",
+            "skyscrapers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A mix of architectural styles, with both glass and traditional facades.",
+        "sentence_cn": "1. 多种建筑风格，既有玻璃立面，也有传统立面。",
+        "words": [
+            "mix",
+            "styles",
+            "glass",
+            "facades"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Different heights and designs, featuring a distinctly urban environment.",
+        "sentence_cn": "2. 不同的高度和设计，体现出独特的城市环境。",
+        "words": [
+            "heights",
+            "designs",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water appears calm, reflecting the buildings above, and the overall lighting suggests a clear, sunny day with a blue sky overhead.",
+        "sentence_cn": "水面看似平静，倒映着上方的建筑物，整体灯光映衬着晴朗的天气，头顶是蔚蓝的天空。",
+        "words": [
+            "water",
+            "buildings",
+            "lighting",
+            "day",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image conveys a bustling city atmosphere with maritime activity.",
+        "sentence_cn": "图像传达出繁忙的城市氛围和海上活动。",
+        "words": [
+            "city",
+            "atmosphere",
+            "activity"
+        ],
+        "id": null
+    }
+]

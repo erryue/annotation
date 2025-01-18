@@ -1,0 +1,61 @@
+[
+    {
+        "sentence": "The image depicts a park scene with a prominent art installation made of large, braided blue ropes.",
+        "sentence_cn": "该图描绘了一个公园场景，其中有一个由巨大编织的蓝色绳索制成的显眼艺术装置。",
+        "words": [
+            "park",
+            "scene",
+            "art",
+            "installation",
+            "ropes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These ropes are intricately arranged across a vibrant green lawn and also form a wall-like structure in the background.",
+        "sentence_cn": "这些绳索精心排列在鲜绿色的草坪上，并在背景中形成类似墙壁的结构。",
+        "words": [
+            "ropes",
+            "lawn",
+            "wall",
+            "structure",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the installation is lush greenery, including a variety of trees and bushes with different shades of leaves, some of which are dark red and others light green.",
+        "sentence_cn": "装置周围是郁郁葱葱的绿地，包括各种各样的树木和灌木丛，叶子的颜色有深有浅，有的是深红色，有的是浅绿色。",
+        "words": [
+            "installation",
+            "greenery",
+            "variety",
+            "trees",
+            "bushes",
+            "shades",
+            "leaves",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the installation, you can see tall city buildings, suggesting an urban park setting.",
+        "sentence_cn": "在装置的后面，你可以看到高大的城市建筑，暗示着一个城市公园的环境。",
+        "words": [
+            "installation",
+            "city",
+            "buildings",
+            "park"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, indicating a cloudy day.",
+        "sentence_cn": "天空阴云密布，预示着将是多云天气。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    }
+]

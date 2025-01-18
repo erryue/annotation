@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Unbearable Lightness of Being.\"",
+        "sentence_cn": "图片是《不能承受的生命之轻》的电影海报。",
+        "words": [
+            "The Unbearable Lightness of Being.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a dark, moody design with the central figure of a woman's face lying sideways, partially covered by a hat.",
+        "sentence_cn": "该画的设计充满阴暗忧郁的气氛，中央是一个侧卧的女人的脸，部分被帽子遮住。",
+        "words": [
+            "design",
+            "figure",
+            "woman",
+            "face",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above her in the hat is the image of a man and a woman embracing, suggesting an intimate moment.",
+        "sentence_cn": "戴着帽子的她上方是一男一女拥抱的图像，暗示着亲密的时刻。",
+        "words": [
+            "hat",
+            "man",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone is artistic and suggestive of romance and drama.",
+        "sentence_cn": "整体基调充满艺术感，充满浪漫和戏剧感。",
+        "words": [
+            "tone",
+            "romance",
+            "drama"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the text reads \"The Unbearable Lightness of Being\" followed by the tagline \"A lover's story.\"",
+        "sentence_cn": "底部的文字写着“不能承受的生命之轻”，后面跟着标语“一个情人的故事”。",
+        "words": [
+            "The Unbearable Lightness of Being",
+            "A lover's story.",
+            "bottom",
+            "text",
+            "tagline",
+            "lover",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional text includes credits for the cast and crew, noting that it's a Philip Kaufman film based on a novel by Milan Kundera.",
+        "sentence_cn": "附加文字包括演员和剧组人员名单，并指出这是一部根据米兰昆德拉的小说改编的菲利普考夫曼电影。",
+        "words": [
+            "text",
+            "credits",
+            "cast",
+            "crew",
+            "film",
+            "novel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film is rated R.",
+        "sentence_cn": "这部电影被评级为R级。",
+        "words": [
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster conveys a sense of intrigue and emotion.",
+        "sentence_cn": "海报传达出一种阴谋和情感的感觉。",
+        "words": [
+            "poster",
+            "sense",
+            "intrigue",
+            "emotion"
+        ],
+        "id": null
+    }
+]

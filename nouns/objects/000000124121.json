@@ -1,0 +1,182 @@
+[
+    {
+        "sentence": "The image features a variety of balls arranged on a blue surface, likely a billiard table.",
+        "sentence_cn": "图像显示，各种球排列在蓝色表面上，很像一张台球桌。",
+        "words": [
+            "variety",
+            "balls",
+            "surface",
+            "billiard",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Pool Cue: A wooden pool cue is positioned diagonally at the top of the image, extending from the left.",
+        "sentence_cn": "1. 台球杆：一根木制台球杆斜置于图片顶部，从左侧延伸而出。",
+        "words": [
+            "Pool Cue",
+            "Pool",
+            "Cue",
+            "pool",
+            "cue",
+            "top",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Billiard Balls:",
+        "sentence_cn": "2. 台球：",
+        "words": [
+            "Billiard Balls",
+            "Balls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Solid white cue ball near the pool cue.",
+        "sentence_cn": "- 台球杆附近有纯白色主球。",
+        "words": [
+            "cue",
+            "ball",
+            "pool",
+            "cue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Numbered 3 ball (red) and 8 ball (black) are visible.",
+        "sentence_cn": "- 可见编号为 3 的球（红色）和 8 号球（黑色）。",
+        "words": [
+            "3",
+            "ball",
+            "8",
+            "ball"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Numbered 14 ball (striped green and white) is present.",
+        "sentence_cn": "- 有 14 号球（绿色和白色条纹）。",
+        "words": [
+            "14",
+            "ball"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Other Balls:",
+        "sentence_cn": "3. 其他球：",
+        "words": [
+            "Other Balls",
+            "Balls",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A yellow tennis ball with visible branding.",
+        "sentence_cn": "- 带有明显品牌标识的黄色网球。",
+        "words": [
+            "tennis",
+            "ball",
+            "branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A baseball with red stitching and printed text.",
+        "sentence_cn": "- 带有红色缝线和印刷文字的棒球。",
+        "words": [
+            "baseball",
+            "stitching",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A small white golf ball with the number \"2\".",
+        "sentence_cn": "- 一个写有数字“2”的小白色高尔夫球。",
+        "words": [
+            "2",
+            "golf",
+            "ball",
+            "number",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A rubber band ball made up of multiple colored rubber bands.",
+        "sentence_cn": "- 由多根彩色橡皮筋组成的橡皮筋球。",
+        "words": [
+            "rubber",
+            "band",
+            "ball",
+            "rubber",
+            "bands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A metallic-looking ball that reflects light.",
+        "sentence_cn": "- 一个能反射光线的金属球。",
+        "words": [
+            "ball",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An orange, which is slightly smaller in size compared to some of the other balls.",
+        "sentence_cn": "- 一个橙子，与其他一些球相比尺寸略小。",
+        "words": [
+            "orange",
+            "size",
+            "balls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Cricket Ball:",
+        "sentence_cn": "4. 板球：",
+        "words": [
+            "Cricket Ball",
+            "Cricket",
+            "Ball"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Dark red with visible stitching, resembling a cricket ball.",
+        "sentence_cn": "- 深红色，缝线清晰可见，形似板球。",
+        "words": [
+            "stitching",
+            "cricket",
+            "ball"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting and arrangement create a diverse and colorful display of various ball types, highlighting differences in size, texture, and color.",
+        "sentence_cn": "这样的设置和安排，使得各种球型呈现出丰富多彩的景象，凸显了球体大小、纹理和颜色的差异。",
+        "words": [
+            "arrangement",
+            "display",
+            "ball",
+            "types",
+            "differences",
+            "size",
+            "texture",
+            "color"
+        ],
+        "id": null
+    }
+]

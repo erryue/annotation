@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Return of the Pink Panther.\"",
+        "sentence_cn": "图片是《粉红豹归来》的电影海报。",
+        "words": [
+            "The Return of the Pink Panther.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a bold red graphic with the text \"I'M A HIT!\"",
+        "sentence_cn": "顶部有一个醒目的红色图形，上面写着“我很成功！”",
+        "words": [
+            "I'M A HIT!",
+            "top",
+            "graphic",
+            "text",
+            "HIT"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to this is the Pink Panther character holding a sign that says \"Movie Reviews.\"",
+        "sentence_cn": "旁边是粉红豹角色，手里拿着一块牌子，上面写着“电影评论”。",
+        "words": [
+            "Movie Reviews.",
+            "character",
+            "sign",
+            "Reviews"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster is filled with various illustrations of the Pink Panther character in different comedic poses, interspersed with snippets of positive movie reviews from different cities such as New York, Los Angeles, Cincinnati, and Philadelphia.",
+        "sentence_cn": "海报中充满了粉红豹角色以不同喜剧姿势的插图，并穿插了来自纽约、洛杉矶、辛辛那提和费城等不同城市的正面电影评论片段。",
+        "words": [
+            "poster",
+            "illustrations",
+            "character",
+            "poses",
+            "snippets",
+            "movie",
+            "reviews",
+            "cities",
+            "New",
+            "York",
+            "Los",
+            "Angeles",
+            "Cincinnati",
+            "Philadelphia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The notable reviews praise the film with phrases like, \"Watching it is like taking a trip home,\" and \"A cheerful escape from all the things that ail us.\"",
+        "sentence_cn": "著名评论家这样称赞这部电影：“观看这部电影就像是一次回家之旅”、“让我们从所有烦恼中解脱出来的快乐之旅”。",
+        "words": [
+            "Watching it is like taking a trip home,",
+            "A cheerful escape from all the things that ail us.",
+            "reviews",
+            "film",
+            "phrases",
+            "trip",
+            "escape",
+            "things"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each review is accompanied by a humorous Pink Panther drawing.",
+        "sentence_cn": "每篇评论都附有一幅幽默的粉红豹图画。",
+        "words": [
+            "review",
+            "drawing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these, the main credits appear with the actors' names: Peter Sellers, Christopher Plummer, Catherine Schell, and Herbert Lom.",
+        "sentence_cn": "下面是主要演职员表和演员的名字：彼得·塞勒斯 (Peter Sellers)、克里斯托弗·普卢默 (Christopher Plummer)、凯瑟琳·谢尔 (Catherine Schell) 和赫伯特·洛姆 (Herbert Lom)。",
+        "words": [
+            "credits",
+            "actors",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's noted that the movie was directed by Blake Edwards.",
+        "sentence_cn": "据悉，该片导演为布莱克·爱德华兹。",
+        "words": [
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the bottom, there¡¯s a larger drawing of the Pink Panther standing next to a character who is presumably Inspector Clouseau, played by Peter Sellers, in his iconic trench coat and hat.",
+        "sentence_cn": "靠近底部，有一幅更大的画，画中粉红豹站在一个角色旁边，这个角色很可能是克鲁索探长，由彼得·塞勒斯饰演，身穿标志性的风衣和帽子。",
+        "words": [
+            "bottom",
+            "drawing",
+            "character",
+            "trench",
+            "coat",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text at the bottom highlights \"the RETURN of the Pink Panther.\"",
+        "sentence_cn": "底部的文字突出显示“粉红豹的回归”。",
+        "words": [
+            "the RETURN of the Pink Panther.",
+            "text",
+            "bottom",
+            "RETURN"
+        ],
+        "id": null
+    }
+]

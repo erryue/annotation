@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image depicts a group of Tuborg beer bottles arranged in a semi-circle.",
+        "sentence_cn": "图中是一组排列成半圆形的 Tuborg 啤酒瓶。",
+        "words": [
+            "group",
+            "beer",
+            "bottles",
+            "semi",
+            "-",
+            "circle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central bottle is prominently highlighted, glowing with a vibrant green hue.",
+        "sentence_cn": "中央的瓶子十分显眼，散发着鲜艳的绿色光泽。",
+        "words": [
+            "bottle",
+            "hue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is also green, creating a monochromatic effect that emphasizes the central bottle.",
+        "sentence_cn": "背景也是绿色的，形成了强调中央瓶子的单色效果。",
+        "words": [
+            "background",
+            "effect",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The words \"bachelor party\" are written in yellow near the bottom center.",
+        "sentence_cn": "靠近底部中央处用黄色写着“单身派对”字样。",
+        "words": [
+            "bachelor party",
+            "words",
+            "bachelor",
+            "party",
+            "yellow",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the text, there is a removed bottle cap and a piece of torn label lying on a flat surface.",
+        "sentence_cn": "文字下方，有一个被取下的瓶盖和一块撕破的标签，躺在平坦的表面上。",
+        "words": [
+            "text",
+            "bottle",
+            "cap",
+            "piece",
+            "label",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the bottom right corner, the Tuborg logo is displayed with the text \"the fun starts here!\" in smaller letters below it.",
+        "sentence_cn": "右下角是 Tuborg 的标志，下方用较小的字母写着“乐趣从这里开始！”。",
+        "words": [
+            "the fun starts here!",
+            "corner",
+            "logo",
+            "text",
+            "fun",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the image is lively and celebratory, appropriate for the intended theme of a bachelor party.",
+        "sentence_cn": "图像的整体色调活泼、喜庆，适合单身派对的主题。",
+        "words": [
+            "tone",
+            "theme",
+            "bachelor",
+            "party"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image is a comic strip style advertisement featuring Iron Man and Audi.",
+        "sentence_cn": "图片是钢铁侠和奥迪的漫画风格广告。",
+        "words": [
+            "strip",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Panel: Shows Iron Man in his suit, appearing to be underwater or in a blue-tinted environment.",
+        "sentence_cn": "1. 顶部面板：显示身着战衣的钢铁侠，似乎身处水下或蓝色环境中。",
+        "words": [
+            "Top Panel",
+            "Panel",
+            "suit",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "His arc reactor is glowing, and he looks active and confident.",
+        "sentence_cn": "他的电弧反应堆闪闪发光，他看起来活跃而自信。",
+        "words": [
+            "arc",
+            "reactor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Panel: Contains the text, \"It's never a bad day at work when the commute looks like this.\"",
+        "sentence_cn": "2. 第二幅图：包含文本“当通勤路途像这样时，工作就不会是糟糕的一天。”",
+        "words": [
+            "Second Panel",
+            "It's never a bad day at work when the commute looks like this.",
+            "Panel",
+            "text",
+            "day",
+            "work",
+            "commute"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Third Panel: A man with short hair and sunglasses, dressed in a blue suit, is driving a red Audi e-tron.",
+        "sentence_cn": "3. 第三幅画：一名留着短发、戴着墨镜、身着蓝色西装的男子驾驶着一辆红色的奥迪 e-tron。",
+        "words": [
+            "Third Panel",
+            "Panel",
+            "man",
+            "hair",
+            "sunglasses",
+            "suit",
+            "e",
+            "-",
+            "tron"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He seems composed and in motion.",
+        "sentence_cn": "他看上去镇定自若，行动敏捷。",
+        "words": [
+            "motion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Fourth Panel: Displays the red Audi driving through a scenic landscape with mountains in the background.",
+        "sentence_cn": "4. 第四幅画板：显示红色奥迪行驶在风景如画的景观中，背景是群山。",
+        "words": [
+            "Fourth Panel",
+            "Panel",
+            "landscape",
+            "mountains",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Bottom Panel: Features the text, \"Audi. Engineered for Iron Man,\" with the Marvel and Iron Man 3 logos, highlighting a collaboration between Marvel and Audi.",
+        "sentence_cn": "5. 底部面板：文字“奥迪。专为钢铁侠打造”，并带有漫威和钢铁侠 3 的标志，突出了漫威和奥迪之间的合作。",
+        "words": [
+            "Bottom Panel",
+            "Audi. Engineered for Iron Man,",
+            "Panel",
+            "text",
+            "3",
+            "logos",
+            "collaboration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Audi's branding, including the \"Truth in Engineering\" slogan and the logo with four rings, is visible at the top.",
+        "sentence_cn": "奥迪的品牌标识，包括“工程真理”的口号和四个环的标志，在顶部清晰可见。",
+        "words": [
+            "Truth in Engineering",
+            "branding",
+            "Truth",
+            "Engineering",
+            "slogan",
+            "logo",
+            "four",
+            "rings",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad effectively combines elements of action and sophistication associated with Iron Man and Audi.",
+        "sentence_cn": "该广告有效地结合了钢铁侠和奥迪的动作和精致元素。",
+        "words": [
+            "ad",
+            "elements",
+            "action",
+            "sophistication"
+        ],
+        "id": null
+    }
+]

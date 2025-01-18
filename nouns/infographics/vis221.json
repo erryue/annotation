@@ -1,0 +1,883 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Canada's Least Liked Cities\" which shows the negative perception of various Canadian cities by province.",
+        "sentence_cn": "该图是一张名为“加拿大最不受欢迎的城市”的信息图，显示了各省对加拿大各个城市的负面看法。",
+        "words": [
+            "Canada's Least Liked Cities",
+            "perception",
+            "cities",
+            "province"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The survey was conducted by Leger Marketing, co-commissioned by the Association of Canadian Studies and the National Capital Commission.",
+        "sentence_cn": "该项调查由 Leger Marketing 实施，由加拿大研究协会和国家首都委员会共同委托。",
+        "words": [
+            "survey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Legend:",
+        "sentence_cn": "传奇：",
+        "words": [
+            "Legend:",
+            "Legend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- BC (British Columbia): Brown",
+        "sentence_cn": "- BC (不列颠哥伦比亚省): 布朗",
+        "words": [
+            "BC",
+            "British",
+            "Columbia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- AB (Alberta): Orange",
+        "sentence_cn": "- AB（艾伯塔省）：​​橙色",
+        "words": [
+            "Alberta"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- MB/SK (Manitoba/Saskatchewan): Yellow",
+        "sentence_cn": "- MB/SK（曼尼托巴省/萨斯喀彻温省）：黄色",
+        "words": [
+            "Manitoba"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- ON (Ontario): Blue",
+        "sentence_cn": "- ON（安大略省）：蓝色",
+        "words": [
+            "ON",
+            "Ontario"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- QC (Quebec): Green",
+        "sentence_cn": "- QC (魁北克) ：绿色",
+        "words": [
+            "Quebec"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Atlantic: Orange",
+        "sentence_cn": "- 大西洋：橙色",
+        "words": [
+            "Atlantic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Total: Red",
+        "sentence_cn": "总计：红色",
+        "words": [
+            "Total"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each row represents a city with circles indicating the percentage of negative perception from people in each province/region.",
+        "sentence_cn": "每行代表一个城市，圆圈表示每个省/地区人们负面看法的百分比。",
+        "words": [
+            "row",
+            "city",
+            "circles",
+            "percentage",
+            "perception",
+            "people",
+            "province",
+            "region"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The big gray circle symbolizes 100% of the province¡¯s population, while the colored circle represents the negative perception by % of population.",
+        "sentence_cn": "大灰色圆圈象征着该省 100％ 的人口，而彩色圆圈则代表人口百分比的负面看法。",
+        "words": [
+            "circle",
+            "100",
+            "province¡¯s",
+            "population",
+            "circle",
+            "perception",
+            "%",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Cities and Negative Perception Percentages:",
+        "sentence_cn": "城市和负面看法百分比：",
+        "words": [
+            "Cities and Negative Perception Percentages:",
+            "Cities",
+            "Perception",
+            "Percentages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Toronto",
+        "sentence_cn": "1. 多伦多",
+        "words": [
+            "Toronto"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 23%",
+        "sentence_cn": "- 卑诗省：23%",
+        "words": [
+            "23"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 30%",
+        "sentence_cn": "AB：30％",
+        "words": [
+            "30"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 27%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：27%",
+        "words": [
+            "MB",
+            "SK",
+            "27"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 15%",
+        "sentence_cn": "开启：15％",
+        "words": [
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 15%",
+        "sentence_cn": "质量控制：15％",
+        "words": [
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 19%",
+        "sentence_cn": "- 大西洋：19％",
+        "words": [
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 19%",
+        "sentence_cn": "总计：19％",
+        "words": [
+            "Total",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. ",
+        "sentence_cn": "2. ",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Vancouver",
+        "sentence_cn": "温哥华",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 7%",
+        "sentence_cn": "- 卑诗省：7%",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 17%",
+        "sentence_cn": "AB：17％",
+        "words": [
+            "17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 12%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：12%",
+        "words": [
+            "MB",
+            "SK",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 9%",
+        "sentence_cn": "开启：9％",
+        "words": [
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 5%",
+        "sentence_cn": "质量控制：5％",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 8%",
+        "sentence_cn": "- 大西洋：8％",
+        "words": [
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 9%",
+        "sentence_cn": "总计：9％",
+        "words": [
+            "Total",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. ",
+        "sentence_cn": "3. ",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Montreal",
+        "sentence_cn": "蒙特利尔",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 14%",
+        "sentence_cn": "- 卑诗省：14%",
+        "words": [
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 20%",
+        "sentence_cn": "AB：20％",
+        "words": [
+            "20"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 21%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：21%",
+        "words": [
+            "MB",
+            "SK",
+            "21"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 18%",
+        "sentence_cn": "开启：18％",
+        "words": [
+            "18"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 20%",
+        "sentence_cn": "质量控制：20％",
+        "words": [
+            "20"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 12%",
+        "sentence_cn": "- 大西洋：12％",
+        "words": [
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 18%",
+        "sentence_cn": "总计：18％",
+        "words": [
+            "Total",
+            "18"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Victoria",
+        "sentence_cn": "4. 维多利亚",
+        "words": [
+            "Victoria"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 3%",
+        "sentence_cn": "- 卑诗省：3%",
+        "words": [
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 5%",
+        "sentence_cn": "AB：5％",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 2%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：2%",
+        "words": [
+            "MB",
+            "SK",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 4%",
+        "sentence_cn": "开启：4％",
+        "words": [
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 6%",
+        "sentence_cn": "质量控制：6％",
+        "words": [
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 3%",
+        "sentence_cn": "- 大西洋：3％",
+        "words": [
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 4%",
+        "sentence_cn": "总计：4％",
+        "words": [
+            "Total",
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Calgary",
+        "sentence_cn": "5. 卡尔加里",
+        "words": [
+            "Calgary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 11%",
+        "sentence_cn": "- 卑诗省：11%",
+        "words": [
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 9%",
+        "sentence_cn": "AB：9％",
+        "words": [
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 9%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：9%",
+        "words": [
+            "MB",
+            "SK",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 9%",
+        "sentence_cn": "开启：9％",
+        "words": [
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 9%",
+        "sentence_cn": "质量控制：9％",
+        "words": [
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 7%",
+        "sentence_cn": "- 大西洋：7%",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 9%",
+        "sentence_cn": "总计：9％",
+        "words": [
+            "Total",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Edmonton",
+        "sentence_cn": "6. 埃德蒙顿",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 14%",
+        "sentence_cn": "- 卑诗省：14%",
+        "words": [
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 16%",
+        "sentence_cn": "AB：16％",
+        "words": [
+            "16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 5%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：5%",
+        "words": [
+            "MB",
+            "SK",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 10%",
+        "sentence_cn": "开启：10％",
+        "words": [
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 7%",
+        "sentence_cn": "质量控制：7％",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 11%",
+        "sentence_cn": "- 大西洋：11％",
+        "words": [
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 11%",
+        "sentence_cn": "总计：11％",
+        "words": [
+            "Total",
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Ottawa-Gatineau",
+        "sentence_cn": "7. 渥太华-加蒂诺",
+        "words": [
+            "Ottawa-Gatineau"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 10%",
+        "sentence_cn": "- 卑诗省：10％",
+        "words": [
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 11%",
+        "sentence_cn": "AB：11％",
+        "words": [
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 9%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：9%",
+        "words": [
+            "MB",
+            "SK",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 7%",
+        "sentence_cn": "开启：7％",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 11%",
+        "sentence_cn": "质量控制：11％",
+        "words": [
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 6%",
+        "sentence_cn": "- 大西洋：6％",
+        "words": [
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 9%",
+        "sentence_cn": "总计：9％",
+        "words": [
+            "Total",
+            "9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Quebec City",
+        "sentence_cn": "8. 魁北克市",
+        "words": [
+            "Quebec City",
+            "Quebec",
+            "City"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 16%",
+        "sentence_cn": "- 卑诗省：16％",
+        "words": [
+            "16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 25%",
+        "sentence_cn": "AB：25％",
+        "words": [
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 25%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：25%",
+        "words": [
+            "MB",
+            "SK",
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 17%",
+        "sentence_cn": "开启：17％",
+        "words": [
+            "17"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 5%",
+        "sentence_cn": "质量控制：5％",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 14%",
+        "sentence_cn": "- 大西洋：14％",
+        "words": [
+            "14"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 15%",
+        "sentence_cn": "总计：15％",
+        "words": [
+            "Total",
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Halifax",
+        "sentence_cn": "9.哈利法克斯",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - BC: 4%",
+        "sentence_cn": "- 卑诗省：4%",
+        "words": [
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - AB: 5%",
+        "sentence_cn": "AB：5％",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - MB/SK: 2%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：2%",
+        "words": [
+            "MB",
+            "SK",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - ON: 5%",
+        "sentence_cn": "开启：5％",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - QC: 5%",
+        "sentence_cn": "质量控制：5％",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Atlantic: 6%",
+        "sentence_cn": "- 大西洋：6％",
+        "words": [
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Total: 5%",
+        "sentence_cn": "总计：5％",
+        "words": [
+            "Total",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Canada",
+        "sentence_cn": "10.加拿大",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "    - BC: 2%",
+        "sentence_cn": "- 卑诗省：2%",
+        "words": [
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - AB: 3%",
+        "sentence_cn": "AB：3％",
+        "words": [
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - MB/SK: 3%",
+        "sentence_cn": "- 马萨诸塞/斯卡纳：3%",
+        "words": [
+            "MB",
+            "SK",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - ON: 2%",
+        "sentence_cn": "开启：2％",
+        "words": [
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - QC: 13%",
+        "sentence_cn": "质量控制：13％",
+        "words": [
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Atlantic: 4%",
+        "sentence_cn": "- 大西洋：4％",
+        "words": [
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Total: 5%",
+        "sentence_cn": "总计：5％",
+        "words": [
+            "Total",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This infographic presents a visual representation of perceptions, with Toronto and Montreal experiencing higher negative perceptions overall compared to other cities.",
+        "sentence_cn": "该信息图以直观的方式呈现了人们的看法，与其他城市相比，多伦多和蒙特利尔总体上受到的负面看法更高。",
+        "words": [
+            "representation",
+            "perceptions",
+            "Toronto",
+            "Montreal",
+            "perceptions",
+            "cities"
+        ],
+        "id": null
+    }
+]

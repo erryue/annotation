@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image is a black-and-white photo showing a group of six people on a stage.",
+        "sentence_cn": "该图像是一张黑白照片，显示六个人站在舞台上。",
+        "words": [
+            "photo",
+            "group",
+            "six",
+            "people",
+            "stage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One man, dressed in a suit, is shaking hands with a woman.",
+        "sentence_cn": "一名身着西装的男子正在与一名女子握手。",
+        "words": [
+            "One",
+            "man",
+            "suit",
+            "hands",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is holding a small object or card.",
+        "sentence_cn": "女人手里拿着一个小物件或一张卡片。",
+        "words": [
+            "woman",
+            "object",
+            "card"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another man, who is bald and wears glasses, is slightly behind her, appearing to hold a microphone.",
+        "sentence_cn": "另一名秃顶、戴眼镜的男子位于她身后不远处，似乎拿着麦克风。",
+        "words": [
+            "man",
+            "glasses",
+            "microphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to them is a man in overalls and a cap, facing forward.",
+        "sentence_cn": "他们旁边是一名身穿工作服、戴着帽子、面朝前方的男子。",
+        "words": [
+            "man",
+            "overalls",
+            "cap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fourth man, partially visible, stands behind, wearing a plaid shirt and half turned to the side.",
+        "sentence_cn": "第四名男子站在后面，部分可见，身穿格子衬衫，半侧身。",
+        "words": [
+            "man",
+            "plaid",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Off to the side, near a lectern, another man stands, wearing a long-sleeve shirt and watching the interaction.",
+        "sentence_cn": "在一侧的讲台附近，站着另一名身穿长袖衬衫的男子，观察着这一互动。",
+        "words": [
+            "lectern",
+            "man",
+            "sleeve",
+            "shirt",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere suggests a formal or public event.",
+        "sentence_cn": "其气氛表明这是一个正式或公开的活动。",
+        "words": [
+            "atmosphere",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The stage is wooden, and there is a dark curtain in the background.",
+        "sentence_cn": "舞台是木质的，背景有一块深色的幕布。",
+        "words": [
+            "stage",
+            "curtain",
+            "background"
+        ],
+        "id": null
+    }
+]

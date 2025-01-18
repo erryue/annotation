@@ -1,0 +1,134 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Ghost and the Darkness.\"",
+        "sentence_cn": "图片是《幽灵与黑暗》的电影海报。",
+        "words": [
+            "The Ghost and the Darkness.",
+            "movie",
+            "poster",
+            "Darkness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a dramatic design with a reddish hue dominating the background.",
+        "sentence_cn": "它的设计十分引人注目，背景以红色为主。",
+        "words": [
+            "design",
+            "hue",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two men are prominently displayed.",
+        "sentence_cn": "前景中，两名男子显得格外显眼。",
+        "words": [
+            "foreground",
+            "two",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are looking intensely towards the viewer, suggesting seriousness and action.",
+        "sentence_cn": "他们全神贯注地看着观众，表现出严肃性和行动力。",
+        "words": [
+            "viewer",
+            "seriousness",
+            "action"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the names \"Michael Douglas\" and \"Val Kilmer\" are prominently displayed in white text.",
+        "sentence_cn": "海报顶部以白色文字显著显示“迈克尔·道格拉斯”和“瓦尔·基尔默”的名字。",
+        "words": [
+            "Michael Douglas",
+            "Val Kilmer",
+            "top",
+            "poster",
+            "names",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below their faces, set against the red background, the tagline \"Prey for the Hunters\" is written to add intrigue.",
+        "sentence_cn": "在他们的脸下方，在红色背景下，写着标语“猎人的猎物”，以增加吸引力。",
+        "words": [
+            "Prey for the Hunters",
+            "faces",
+            "background",
+            "tagline",
+            "Prey",
+            "Hunters",
+            "intrigue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"The Ghost and the Darkness\" is centered towards the bottom in bold white and black text.",
+        "sentence_cn": "标题“幽灵与黑暗”以粗体黑白文字居中显示在底部。",
+        "words": [
+            "The Ghost and the Darkness",
+            "title",
+            "Darkness",
+            "bottom",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the statement \"Only the most incredible parts of the story are true\" suggests the film¡¯s basis on real events.",
+        "sentence_cn": "片名下方的这句话“只有故事中最令人难以置信的部分才是真实的”表明该片是根据真实事件改编的。",
+        "words": [
+            "Only the most incredible parts of the story are true",
+            "title",
+            "statement",
+            "parts",
+            "story",
+            "film¡¯s",
+            "basis",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also includes an African landscape silhouette featuring a lone tree and a group of people trekking, adding an adventurous feel.",
+        "sentence_cn": "图片中还包括一幅非洲风景剪影，其中有一棵孤树和一群徒步旅行的人，增添了一种冒险的感觉。",
+        "words": [
+            "landscape",
+            "silhouette",
+            "tree",
+            "group",
+            "people",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's information about the film's release date and production credits.",
+        "sentence_cn": "底部有关于电影上映日期和制作人员的信息。",
+        "words": [
+            "bottom",
+            "information",
+            "film",
+            "release",
+            "date",
+            "production",
+            "credits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster's overall tone is intense and adventurous, hinting at a thrilling story.",
+        "sentence_cn": "海报整体基调紧张刺激，暗示着一个惊心动魄的故事。",
+        "words": [
+            "poster",
+            "tone",
+            "story"
+        ],
+        "id": null
+    }
+]

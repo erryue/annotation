@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image consists of three distinct designs featuring Absolut Vodka bottles, each labeled \"ABSOLUT UNIQUE.\"",
+        "sentence_cn": "该图片由三种独特的 Absolut Vodka 酒瓶设计组成，每个酒瓶上都贴有“ABSOLUT UNIQUE”的标签。",
+        "words": [
+            "ABSOLUT UNIQUE.",
+            "three",
+            "designs",
+            "bottles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Image:",
+        "sentence_cn": "1. 左图：",
+        "words": [
+            "Left Image:",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The bottle is predominantly blue with splashes of lighter blue and white near the bottom.",
+        "sentence_cn": "- 瓶子主要为蓝色，底部附近有浅蓝色和白色斑点。",
+        "words": [
+            "bottle",
+            "splashes",
+            "blue",
+            "white",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It features dynamic, abstract background patterns with curved, overlapping shapes in varying shades of blue and teal.",
+        "sentence_cn": "- 它具有动态、抽象的背景图案，具有弯曲、重叠的形状，呈现出不同深浅的蓝色和青色。",
+        "words": [
+            "background",
+            "patterns",
+            "shapes",
+            "shades",
+            "blue",
+            "teal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Center Image:",
+        "sentence_cn": "2. 中心图像：",
+        "words": [
+            "Center Image:",
+            "Center",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The bottle has a gradient design, blending purple and white.",
+        "sentence_cn": "- 瓶子采用渐变设计，融合紫色和白色。",
+        "words": [
+            "bottle",
+            "gradient",
+            "design",
+            "purple",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The background is a checkered pattern with curved lines in pastel purple and light blue, creating an optical illusion effect.",
+        "sentence_cn": "- 背景是带有淡紫色和淡蓝色曲线的方格图案，营造出视觉错觉效果。",
+        "words": [
+            "background",
+            "pattern",
+            "lines",
+            "purple",
+            "light",
+            "blue",
+            "illusion",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right Image:",
+        "sentence_cn": "3. 右图：",
+        "words": [
+            "Right Image:",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The bottle displays a bright gradient of green and yellow, with a pink and white splash near the bottom.",
+        "sentence_cn": "- 瓶子呈现出明亮的绿色和黄色渐变色，底部附近有一抹粉色和白色。",
+        "words": [
+            "bottle",
+            "gradient",
+            "green",
+            "yellow",
+            "splash",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The background consists of intertwining yellow and teal shapes, creating a vibrant, flowing design.",
+        "sentence_cn": "- 背景由交织的黄色和青色形状组成，创造出充满活力的流畅设计。",
+        "words": [
+            "background",
+            "shapes",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each design highlights the \"Unique\" aspect through distinct color schemes and abstract patterns.",
+        "sentence_cn": "每种设计都通过独特的配色方案和抽象图案凸显“独特”的方面。",
+        "words": [
+            "Unique",
+            "design",
+            "aspect",
+            "color",
+            "schemes",
+            "patterns"
+        ],
+        "id": null
+    }
+]

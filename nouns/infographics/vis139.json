@@ -1,0 +1,468 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Moms and Social Media in 2012.\"",
+        "sentence_cn": "该图是一张信息图表，标题为“2012 年的妈妈和社交媒体”。",
+        "words": [
+            "Moms and Social Media in 2012.",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It provides statistics on how mothers engage with social media and brands online.",
+        "sentence_cn": "它提供了母亲如何参与社交媒体和在线品牌的统计数据。",
+        "words": [
+            "statistics",
+            "mothers",
+            "media",
+            "brands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Moms Use Social Networks a Lot!",
+        "sentence_cn": "### 妈妈们经常使用社交网络！",
+        "words": [
+            "Moms",
+            "Networks",
+            "Lot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Regular Use:",
+        "sentence_cn": "- 常规使用：",
+        "words": [
+            "Regular Use:",
+            "Use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 80% of young moms (expectant/with kids under 8) use social media regularly.",
+        "sentence_cn": "- 80% 的年轻妈妈（孕妇/孩子 8 岁以下）经常使用社交媒体。",
+        "words": [
+            "80",
+            "moms",
+            "kids",
+            "8)",
+            "social",
+            "media"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 55% of the general online population uses social media regularly.",
+        "sentence_cn": "- 55% 的一般上网人群经常使用社交媒体。",
+        "words": [
+            "55",
+            "population",
+            "social",
+            "media"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Having Over 200 Facebook Friends:",
+        "sentence_cn": "- 拥有超过 200 名 Facebook 好友：",
+        "words": [
+            "Having Over 200 Facebook Friends:",
+            "200",
+            "Friends"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 52% of young moms.",
+        "sentence_cn": "- 52% 的年轻妈妈。",
+        "words": [
+            "52",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 32% of the general online population.",
+        "sentence_cn": "- 占一般上网人口的 32%。",
+        "words": [
+            "32",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Using Social Media While Watching Videos:",
+        "sentence_cn": "- 观看视频时使用社交媒体：",
+        "words": [
+            "Using Social Media While Watching Videos:",
+            "Media",
+            "Videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 49% of young moms.",
+        "sentence_cn": "- 49% 的年轻妈妈。",
+        "words": [
+            "49",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 23% of the general online population.",
+        "sentence_cn": "- 占一般上网人口的 23%。",
+        "words": [
+            "23",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Platform Usage:",
+        "sentence_cn": "### 平台使用情况：",
+        "words": [
+            "Platform",
+            "Usage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Facebook:",
+        "sentence_cn": "- Facebook：",
+        "words": [
+            "Facebook:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 90% of Latina moms (25-59, with kids 3-18) visited in the past 30 days.",
+        "sentence_cn": "- 90% 的拉丁裔妈妈（25-59 岁，孩子年龄 3-18 岁）在过去 30 天内访问过。",
+        "words": [
+            "90",
+            "moms",
+            "25",
+            "59",
+            "kids",
+            "3",
+            "18",
+            "30",
+            "days"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Twitter:",
+        "sentence_cn": "-推特：",
+        "words": [
+            "Twitter:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 37% of Latina moms visited in the past 30 days.",
+        "sentence_cn": "- 37% 的拉丁裔妈妈在过去 30 天内访问过。",
+        "words": [
+            "37",
+            "moms",
+            "30",
+            "days"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Moms Are Open to Brands on Social Networks:",
+        "sentence_cn": "### 妈妈们对社交网络上的品牌持开放态度：",
+        "words": [
+            "Moms",
+            "Brands",
+            "Networks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Purchases from Social Recommendations:",
+        "sentence_cn": "- 通过社交推荐购买：",
+        "words": [
+            "Purchases from Social Recommendations:",
+            "Purchases",
+            "Recommendations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 42% of moms have made a purchase this way.",
+        "sentence_cn": "- 42% 的妈妈通过这种方式购买商品。",
+        "words": [
+            "42",
+            "moms",
+            "purchase",
+            "way"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 29% of non-moms have done the same.",
+        "sentence_cn": "- 29% 的非妈妈也做过同样的事情。",
+        "words": [
+            "29",
+            "non",
+            "-",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Following Content Sites:",
+        "sentence_cn": "- 关注内容网站：",
+        "words": [
+            "Following Content Sites:",
+            "Content",
+            "Sites"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 71% of moms frequently or occasionally follow.",
+        "sentence_cn": "- 71% 的妈妈经常或偶尔关注。",
+        "words": [
+            "71",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 62% of web users in general do this.",
+        "sentence_cn": "- 总体而言，62% 的网络用户都会这样做。",
+        "words": [
+            "62",
+            "web",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Following Brands from Ads:",
+        "sentence_cn": "- 通过广告关注品牌：",
+        "words": [
+            "Following Brands from Ads:",
+            "Brands",
+            "Ads"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 32% of moms are likely to follow these brands.",
+        "sentence_cn": "- 32%的妈妈可能会关注这些品牌。",
+        "words": [
+            "32",
+            "moms",
+            "brands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 25% of web users are likely to follow.",
+        "sentence_cn": "- 25% 的网络用户可能会关注。",
+        "words": [
+            "25",
+            "web",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Moms Are Promoters of Brands on Social Networks:",
+        "sentence_cn": "### 妈妈是社交网络上的品牌推广者：",
+        "words": [
+            "Moms",
+            "Promoters",
+            "Brands",
+            "Networks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Recommendation and Interaction:",
+        "sentence_cn": "- 推荐互动：",
+        "words": [
+            "Recommendation and Interaction:",
+            "Recommendation",
+            "Interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 59% of moms recommend brands via social networks, compared to 44% of non-moms.",
+        "sentence_cn": "- 59%的妈妈通过社交网络推荐品牌，而非妈妈的比例仅为 44%。",
+        "words": [
+            "59",
+            "moms",
+            "brands",
+            "networks",
+            "44",
+            "%",
+            "non",
+            "-",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 49% of moms talk about brands they follow on Facebook; 33% of non-moms do.",
+        "sentence_cn": "- 49% 的妈妈会谈论她们在 Facebook 上关注的品牌；33% 的非妈妈会谈论她们关注的品牌。",
+        "words": [
+            "49",
+            "moms",
+            "brands",
+            "33",
+            "%",
+            "non",
+            "-",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 52% of moms link to a brand ad; 40% for non-moms.",
+        "sentence_cn": "- 52% 的妈妈会链接到品牌广告；非妈妈的比例为 40%。",
+        "words": [
+            "52",
+            "moms",
+            "brand",
+            "ad",
+            "40",
+            "%",
+            "non",
+            "-",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 34% of moms post to a brand's page, compared to 28% of non-moms.",
+        "sentence_cn": "- 34% 的妈妈会在品牌页面上发布帖子，而非妈妈的比例仅为 28%。",
+        "words": [
+            "34",
+            "moms",
+            "brand",
+            "page",
+            "28",
+            "%",
+            "non",
+            "-",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Interaction with Companies:",
+        "sentence_cn": "### 与公司互动：",
+        "words": [
+            "Interaction",
+            "Companies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Following Brands Due to Interaction:",
+        "sentence_cn": "- 通过互动关注品牌：",
+        "words": [
+            "Following Brands Due to Interaction:",
+            "Brands",
+            "Interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 29% of moms interact with authors/contributors as a reason to follow a brand.",
+        "sentence_cn": "- 29% 的妈妈与作者/贡献者互动，以此作为关注某个品牌的原因。",
+        "words": [
+            "29",
+            "moms",
+            "authors",
+            "contributors",
+            "reason",
+            "brand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 17% of other women do the same.",
+        "sentence_cn": "- 其他 17% 的女性也有同样的情况。",
+        "words": [
+            "17",
+            "women"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Belief in Influence:",
+        "sentence_cn": "- 影响力的信念：",
+        "words": [
+            "Belief in Influence:",
+            "Belief",
+            "Influence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 63% of moms believe they can influence companies by voicing opinions.",
+        "sentence_cn": "- 63% 的妈妈认为她们可以通过发表意见来影响公司。",
+        "words": [
+            "63",
+            "moms",
+            "companies",
+            "opinions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 56% of non-moms believe the same.",
+        "sentence_cn": "- 56% 的非妈妈也有同样的看法。",
+        "words": [
+            "56",
+            "non",
+            "-",
+            "moms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image concludes with sources from Babycenter, Burst Media Online Insights, Performics, and Mamiverse.",
+        "sentence_cn": "该图片的最后来源是 Babycenter、Burst Media Online Insights、Performics 和 Mamiverse。",
+        "words": [
+            "sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The colors used are predominantly pink, blue, and orange, indicating different categories and comparisons.",
+        "sentence_cn": "使用的颜色主要是粉色、蓝色和橙色，表示不同的类别和比较。",
+        "words": [
+            "colors",
+            "orange",
+            "categories",
+            "comparisons"
+        ],
+        "id": null
+    }
+]

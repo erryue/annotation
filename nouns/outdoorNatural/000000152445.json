@@ -1,0 +1,67 @@
+[
+    {
+        "sentence": "The image depicts a wide, open grassland scene with a gently rolling terrain in the background.",
+        "sentence_cn": "图像描绘了一片广阔的草原场景，背景是起伏的地形。",
+        "words": [
+            "grassland",
+            "scene",
+            "terrain",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is an adult zebra sitting on the ground alongside a zebra foal.",
+        "sentence_cn": "前景中，一只成年斑马和一只斑马幼崽坐在地上。",
+        "words": [
+            "foreground",
+            "adult",
+            "zebra",
+            "ground",
+            "zebra",
+            "foal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foal appears to be standing or attempting to stand, as if it might be newly born.",
+        "sentence_cn": "这匹小马驹看上去正站立着或试图站立，就像刚出生一样。",
+        "words": [
+            "foal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are positioned prominently in the grassy field under a clear sky.",
+        "sentence_cn": "晴朗的天空下，斑马在草地上占据着显眼的位置。",
+        "words": [
+            "zebras",
+            "field",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are a few antelopes grazing or standing at a distance, and the landscape extends towards a hazy horizon of hills or mountains.",
+        "sentence_cn": "背景中，有几只羚羊在远处吃草或站立，景观延伸至朦胧的丘陵或山脉地平线。",
+        "words": [
+            "background",
+            "antelopes",
+            "distance",
+            "landscape",
+            "horizon",
+            "hills",
+            "mountains"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a natural savannah environment.",
+        "sentence_cn": "整体布置体现出自然的大草原环境。",
+        "words": [
+            "savannah",
+            "environment"
+        ],
+        "id": null
+    }
+]

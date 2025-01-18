@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Heavy Metal.\"",
+        "sentence_cn": "图片是电影《重金属》的海报。",
+        "words": [
+            "Heavy Metal.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a dynamic and colorful illustration of a warrior woman with wild blonde hair, wearing a revealing outfit.",
+        "sentence_cn": "该画作以动态且色彩丰富的插画形式呈现，描绘的是一位有着狂野金发、身穿暴露服装的女战士。",
+        "words": [
+            "illustration",
+            "warrior",
+            "woman",
+            "hair",
+            "outfit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is riding a large, fierce, dragon-like creature with prominent orange wings.",
+        "sentence_cn": "她骑着一头巨大、凶猛、像龙一样的生物，长着突出的橙色翅膀。",
+        "words": [
+            "dragon",
+            "creature",
+            "wings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is holding a weapon raised above her head in a triumphant gesture.",
+        "sentence_cn": "这名女子将武器举过头顶，做出胜利的姿态。",
+        "words": [
+            "woman",
+            "weapon",
+            "head",
+            "gesture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The creature has large eyes and an open mouth, displaying sharp teeth, with its talons extended as if flying forward.",
+        "sentence_cn": "这种生物有着大大的眼睛和张开的嘴，露出锋利的牙齿，爪子伸出，仿佛在向前飞翔。",
+        "words": [
+            "creature",
+            "eyes",
+            "mouth",
+            "teeth",
+            "talons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the title \"HEAVY METAL\" is displayed in large, metallic blue letters.",
+        "sentence_cn": "海报顶部以巨大的金属蓝色字母显示“重金属”的标题。",
+        "words": [
+            "HEAVY METAL",
+            "top",
+            "poster",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has an industrial, metallic texture with bolts, enhancing the theme.",
+        "sentence_cn": "背景具有工业金属质感，并带有螺栓，增强了主题。",
+        "words": [
+            "background",
+            "texture",
+            "bolts",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the tagline \"LOUDER AND NASTIER THAN EVER!\" is printed, along with additional film credits and the Columbia Pictures logo.",
+        "sentence_cn": "底部印有标语“比以往任何时候都更大声、更恶劣！”以及其他电影演职员表和哥伦比亚影业公司的标志。",
+        "words": [
+            "LOUDER AND NASTIER THAN EVER!",
+            "bottom",
+            "tagline",
+            "film",
+            "credits",
+            "logo"
+        ],
+        "id": null
+    }
+]

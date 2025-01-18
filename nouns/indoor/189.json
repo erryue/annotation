@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image depicts a sophisticated, well-appointed living room.",
+        "sentence_cn": "图片描绘的是精致且设备齐全的客厅。",
+        "words": [
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a central beige upholstered sofa with curved arms, positioned against a textured wall adorned with a framed artwork.",
+        "sentence_cn": "房间中央摆放着一张带弯曲扶手的米色软垫沙发，靠着一面带有纹理的墙壁，墙上装饰着一幅带框架的艺术品。",
+        "words": [
+            "sofa",
+            "arms",
+            "wall",
+            "artwork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beige curtains hang from the ceiling, adding a soft backdrop and warmth to the space.",
+        "sentence_cn": "米色窗帘悬挂在天花板上，为空间增添了柔和的背景和温暖。",
+        "words": [
+            "curtains",
+            "ceiling",
+            "backdrop",
+            "warmth",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa, there's a round glass coffee table with a decorative white vase on top and several books stacked beneath.",
+        "sentence_cn": "沙发前面有一张圆形玻璃茶几，上面放着一个白色的装饰花瓶，下面堆放着几本书。",
+        "words": [
+            "front",
+            "sofa",
+            "glass",
+            "coffee",
+            "table",
+            "vase",
+            "top",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The seating arrangement includes a large cushioned chair and two small, velvet-covered square ottomans with dark wooden bases.",
+        "sentence_cn": "座位安排包括一把大软垫椅子和两个带有深色木质底座的天鹅绒覆盖的方形小脚凳。",
+        "words": [
+            "seating",
+            "arrangement",
+            "chair",
+            "two",
+            "velvet",
+            "ottomans",
+            "bases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A modern floor lamp provides ambient lighting, complementing the room's cozy and inviting atmosphere.",
+        "sentence_cn": "现代落地灯提供环境照明，补充房间舒适而温馨的氛围。",
+        "words": [
+            "floor",
+            "lamp",
+            "lighting",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A side table to the right holds what looks like a thin-legged lamp, and a small drink table with glassware stands beside the chair.",
+        "sentence_cn": "右边的边桌上放着一盏看起来像细腿灯的东西，椅子旁边放着一张摆放着玻璃器皿的小饮料桌。",
+        "words": [
+            "table",
+            "right",
+            "lamp",
+            "drink",
+            "table",
+            "glassware",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a fireplace with a decorative mantle adds a touch of elegance.",
+        "sentence_cn": "左侧，带有装饰性壁炉架的壁炉增添了一丝优雅。",
+        "words": [
+            "left",
+            "fireplace",
+            "mantle",
+            "touch",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is covered with a striped area rug in neutral tones, tying the room's earthy color palette together.",
+        "sentence_cn": "地板上铺着中性色调的条纹地毯，与房间的泥土色调融为一体。",
+        "words": [
+            "floor",
+            "area",
+            "rug",
+            "tones",
+            "room",
+            "color",
+            "palette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An open magazine rests on a small table, indicating a casual yet thoughtful attention to detail.",
+        "sentence_cn": "一本打开的杂志放在一张小桌子上，体现出对细节的随意而又深思熟虑的关注。",
+        "words": [
+            "magazine",
+            "table",
+            "attention",
+            "detail"
+        ],
+        "id": null
+    }
+]

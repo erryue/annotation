@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image features a minimalist desk setup with several objects:",
+        "sentence_cn": "该图展示了一个极简主义风格的办公桌，上面摆放着几件物品：",
+        "words": [
+            "desk",
+            "objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Pencil Holder: On the left, there's a white cylindrical container filled with various colored pencils, their tips pointed upwards.",
+        "sentence_cn": "1. 铅笔架：左边是一个白色的圆柱形容器，里面盛满了各种彩色的铅笔，笔尖朝上。",
+        "words": [
+            "Pencil Holder",
+            "Pencil",
+            "Holder",
+            "container",
+            "pencils",
+            "tips"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Small Figurine: Next to the pencil holder, there is a small action figure.",
+        "sentence_cn": "2. 小雕像：笔筒旁边有一个小雕像。",
+        "words": [
+            "Small Figurine",
+            "pencil",
+            "holder",
+            "action",
+            "figure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The figure is dressed in blue and yellow.",
+        "sentence_cn": "该人物身着蓝色和黄色的衣服。",
+        "words": [
+            "figure",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Desk Lamp:",
+        "sentence_cn": "3. 台灯：",
+        "words": [
+            "Desk Lamp",
+            "Desk",
+            "Lamp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a uniquely designed desk lamp.",
+        "sentence_cn": "右边是一盏设计独特的台灯。",
+        "words": [
+            "right",
+            "desk",
+            "lamp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lamp has a wooden arm, a bright LED strip, and it rests on two slender, lime-green legs forming a tripod shape.",
+        "sentence_cn": "该灯有一个木质灯臂、一条明亮的 LED 灯带，并由两条细长的、柠檬绿色的灯腿支撑，形成三脚架形状。",
+        "words": [
+            "lamp",
+            "arm",
+            "LED",
+            "strip",
+            "two",
+            "lime",
+            "legs",
+            "tripod",
+            "shape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Book or Catalog: In the foreground, there is a catalog or book lying flat on the surface.",
+        "sentence_cn": "4. 书籍或目录：在前景中，有一本目录或书籍平放在表面上。",
+        "words": [
+            "Book or Catalog",
+            "Book",
+            "Catalog",
+            "foreground",
+            "catalog",
+            "book",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features several rectangular sections in green, red, and gray colors and displays some text.",
+        "sentence_cn": "它具有几个绿色、红色和灰色的矩形部分，并显示一些文本。",
+        "words": [
+            "sections",
+            "colors",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is plain white, creating a clean and modern look.",
+        "sentence_cn": "背景为纯白色，营造出干净、现代的外观。",
+        "words": [
+            "background",
+            "look"
+        ],
+        "id": null
+    }
+]

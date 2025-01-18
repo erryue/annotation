@@ -1,0 +1,129 @@
+[
+    {
+        "sentence": "The image shows a cozy kitchen with a warm, inviting ambiance.",
+        "sentence_cn": "图片展示了一个舒适的厨房，有着温暖、诱人的氛围。",
+        "words": [
+            "kitchen",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are adorned with patterned curtains featuring a repetitive, intricate design.",
+        "sentence_cn": "墙壁上装饰着重复且复杂的图案窗帘。",
+        "words": [
+            "walls",
+            "curtains",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two windows covered by these curtains.",
+        "sentence_cn": "有两扇窗户被这些窗帘遮住了。",
+        "words": [
+            "two",
+            "windows",
+            "curtains"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen cabinets are painted in a pale yellow-green color, giving the space a vintage feel.",
+        "sentence_cn": "厨房橱柜漆成淡黄绿色，给空间带来复古的感觉。",
+        "words": [
+            "kitchen",
+            "cabinets",
+            "color",
+            "space",
+            "vintage",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the kitchen, a small wooden island holds a white bowl.",
+        "sentence_cn": "在厨房的中央，一个小木岛上放着一个白色的碗。",
+        "words": [
+            "center",
+            "kitchen",
+            "island",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the island, several pots and pans hang from a rack, adding functionality and charm.",
+        "sentence_cn": "岛上方的架子上悬挂着几个锅碗瓢盆，增加了实用性和魅力。",
+        "words": [
+            "island",
+            "pots",
+            "pans",
+            "rack",
+            "functionality",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop is lined with various kitchen items, including a potted plant, utensils in holders, and a dish drying rack near the sink.",
+        "sentence_cn": "台面上摆放着各种厨房用品，包括盆栽、餐具架和水槽附近的碗碟晾干架。",
+        "words": [
+            "countertop",
+            "kitchen",
+            "items",
+            "plant",
+            "utensils",
+            "holders",
+            "dish",
+            "drying",
+            "rack",
+            "sink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sink area features a vintage-style faucet with tiles as a backsplash.",
+        "sentence_cn": "水槽区配有复古风格的水龙头，并以瓷砖作为防溅板。",
+        "words": [
+            "sink",
+            "area",
+            "style",
+            "faucet",
+            "tiles",
+            "backsplash"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, a microwave oven and other small appliances can be seen on the countertop.",
+        "sentence_cn": "右侧的台面上摆放着微波炉等小家电。",
+        "words": [
+            "microwave",
+            "oven",
+            "appliances",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A stove is partially visible to the far right.",
+        "sentence_cn": "最右边可以部分看到炉子。",
+        "words": [
+            "stove",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall lighting is warm, with a soft, yellowish glow illuminating the entire kitchen, enhancing its welcoming atmosphere.",
+        "sentence_cn": "整体灯光呈暖色，柔和的黄色光芒照亮整个厨房，增强了其温馨的氛围。",
+        "words": [
+            "lighting",
+            "glow",
+            "kitchen",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

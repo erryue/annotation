@@ -1,145 +1,126 @@
 [
     {
-        "sentence": "The image depicts a group of six professionals, both men and women, dressed in formal business attire, engaging in conversation.",
-        "sentence_cn": "图片描绘的是六位专业人士，包括男性和女性，身着正式的商务装，正在交谈。",
+        "sentence": "The image shows a group of seven people dressed in business attire, standing in a bright, modern space with a tile floor and large, gridded windows in the background.",
+        "sentence_cn": "照片中，七个人身着商务装，站在一个明亮、现代化的空间里，背景是瓷砖地板和大块的格子窗户。",
         "words": [
             "group",
-            "six",
-            "professionals",
-            "men",
-            "women",
+            "seven",
+            "people",
             "business",
             "attire",
-            "conversation"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "Here's a detailed description:",
-        "sentence_cn": "以下是详细描述：",
-        "words": [],
-        "id": null
-    },
-    {
-        "sentence": "1. **Clothing**: All individuals are dressed in business suits.",
-        "sentence_cn": "1. **服装**：所有人员均穿着西装。",
-        "words": [
-            "Clothing",
-            "Clothing",
-            "individuals",
-            "business",
-            "suits"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The men are wearing ties, and the women are wearing blazers, skirts, and smart shoes.",
-        "sentence_cn": "男士们都打着领带，女士们则穿着西装、裙子和漂亮的鞋子。",
-        "words": [
-            "men",
-            "ties",
-            "women",
-            "blazers",
-            "skirts",
-            "shoes"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "2. **Setting**: The background suggests an office or corporate environment with bright, natural lighting.",
-        "sentence_cn": "2. **设置**：背景建议是具有明亮自然灯光的办公室或公司环境。",
-        "words": [
-            "Setting",
-            "Setting",
-            "background",
-            "office",
-            "environment",
-            "lighting"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The floor is tiled, and large, light-filled panels form the backdrop.",
-        "sentence_cn": "地板铺有瓷砖，大块、明亮的面板构成了背景。",
-        "words": [
+            "space",
+            "tile",
             "floor",
-            "light",
-            "panels",
-            "backdrop"
+            "windows",
+            "background"
         ],
         "id": null
     },
     {
-        "sentence": "3. **Posture and Interaction**: The group is casually standing and engaged in discussion.",
-        "sentence_cn": "3. **姿势与互动**：小组随意站立，进行讨论。",
+        "sentence": "The group appears to be engaged in conversation, with some people smiling and gesturing.",
+        "sentence_cn": "这群人似乎正在交谈，有些人面带微笑，做着手势。",
         "words": [
-            "Posture and Interaction",
-            "Posture",
-            "Interaction",
             "group",
-            "discussion"
+            "conversation",
+            "people"
         ],
         "id": null
     },
     {
-        "sentence": "Their body language shows they are involved and possibly enjoying a light, friendly conversation.",
-        "sentence_cn": "他们的肢体语言表明他们很投入并且可能享受轻松友好的对话。",
+        "sentence": "- On the left, a man in a dark suit, white shirt, and tie is smiling and facing a woman slightly to his right.",
+        "sentence_cn": "- 左边，一位身穿深色西装、白衬衫和领带的男士正面带微笑，面朝他右边的一位女士。",
         "words": [
-            "body",
-            "language",
-            "conversation"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "4. **Grouping**: There appear to be two main clusters within the group:",
-        "sentence_cn": "4. **分组**：组内似乎有两个主要集群：",
-        "words": [
-            "Grouping",
-            "Grouping",
-            "two",
-            "clusters",
-            "group"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - On the left side, three individuals (two men and one woman) are facing each other and sharing a laugh.",
-        "sentence_cn": "- 左侧，三个人（两男一女）面对面，一起大笑。",
-        "words": [
-            "three",
-            "individuals",
-            "two",
-            "men",
-            "one",
-            "woman",
-            "laugh"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "   - On the right side, the remaining three individuals (two women and one man) are conversing with engaged body language.",
-        "sentence_cn": "- 右侧，剩下的三个人（两个女人和一个男人）正在通过投入的肢体语言进行交谈。",
-        "words": [
-            "three",
-            "individuals",
-            "two",
-            "women",
-            "one",
+            "left",
             "man",
-            "body",
-            "language"
+            "suit",
+            "shirt",
+            "tie",
+            "woman",
+            "right"
         ],
         "id": null
     },
     {
-        "sentence": "The overall atmosphere conveys a sense of professionalism combined with a relaxed, collegial interaction.",
-        "sentence_cn": "整体氛围体现出一种专业精神和轻松、友好的互动氛围。",
+        "sentence": "- Next, a woman with short red hair is wearing a dark suit and white blouse, smiling.",
+        "sentence_cn": "- 接下来，一位红色短发女子身穿深色西装和白色衬衫，面带微笑。",
+        "words": [
+            "woman",
+            "hair",
+            "suit",
+            "blouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Beside her, a man with dark curly hair and glasses is wearing a light gray suit with a blue shirt and patterned tie.",
+        "sentence_cn": "- 在她旁边，一位有着深色卷发、戴着眼镜的男子穿着浅灰色西装，里面搭配着蓝色衬衫和带图案的领带。",
+        "words": [
+            "man",
+            "hair",
+            "glasses",
+            "suit",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center-right, a woman with long dark hair wears a dark suit and seems to be talking.",
+        "sentence_cn": "- 中右侧，一位留着黑色长发、身穿深色西装的女人似乎正在说话。",
+        "words": [
+            "center",
+            "right",
+            "woman",
+            "hair",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- To her right, a woman with blonde hair in an updo wears a black skirt suit with a white blouse, smiling.",
+        "sentence_cn": "- 在她的右边，一位金发高髻女子身穿黑色套裙和白色衬衫，面带微笑。",
+        "words": [
+            "right",
+            "woman",
+            "hair",
+            "updo",
+            "skirt",
+            "suit",
+            "blouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A man with dark hair is wearing a dark suit and striped tie, appearing to converse.",
+        "sentence_cn": "- 一名黑发男子身穿深色西装，系着条纹领带，似乎正在交谈。",
+        "words": [
+            "man",
+            "hair",
+            "suit",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Finally, a woman with short curly hair stands on the far right in a dark skirt suit with her back slightly turned.",
+        "sentence_cn": "- 最后，最右边站着一位身穿深色裙装、略微背对着镜头的短卷发女子。",
+        "words": [
+            "woman",
+            "hair",
+            "right",
+            "skirt",
+            "suit",
+            "back"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is professional and lively, indicating a collaborative or social work environment.",
+        "sentence_cn": "这里的气氛专业而活跃，表明这是一种协作或社交的工作环境。",
         "words": [
             "atmosphere",
-            "sense",
-            "professionalism",
-            "interaction"
+            "work",
+            "environment"
         ],
         "id": null
     }

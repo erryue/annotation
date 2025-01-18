@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "The image shows a woman and two children sitting on the ground in a fenced area, petting a large white dog.",
+        "sentence_cn": "照片中，一名妇女和两个孩子坐在围栏区域的地面上，抚摸着一只大白狗。",
+        "words": [
+            "woman",
+            "two",
+            "children",
+            "ground",
+            "area",
+            "dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman is wearing a pink and white striped polo shirt and jeans, and she gently holds the dog's collar.",
+        "sentence_cn": "女子身穿粉白条纹 Polo 衫和牛仔裤，轻轻地握着狗的项圈。",
+        "words": [
+            "woman",
+            "polo",
+            "shirt",
+            "jeans",
+            "dog",
+            "collar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are brushing the dog, with one child in a purple shirt and white pants and the other in an orange shirt with a flower design and plaid shorts.",
+        "sentence_cn": "孩子们正在给狗梳毛，一个孩子穿着紫色衬衫和白色裤子，另一个孩子穿着带有花朵图案的橙色衬衫和格子短裤。",
+        "words": [
+            "children",
+            "dog",
+            "one",
+            "child",
+            "shirt",
+            "pants",
+            "shirt",
+            "flower",
+            "design",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They¡¯re all focused on the dog, which has a blue collar and is sitting calmly.",
+        "sentence_cn": "他们的注意力都集中在这只戴着蓝色项圈、安静地坐着的狗身上。",
+        "words": [
+            "dog",
+            "collar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are several other dogs visible through the fence, and other people can be seen walking around.",
+        "sentence_cn": "在背景中，透过栅栏可以看到其他几只狗，还可以看到其他人在周围走动。",
+        "words": [
+            "background",
+            "dogs",
+            "fence",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be an outdoor area, possibly a dog park or petting zoo, with sandy ground.",
+        "sentence_cn": "该场景似乎是一个室外区域，可能是狗公园或宠物动物园，地面有沙地。",
+        "words": [
+            "area",
+            "dog",
+            "park",
+            "petting",
+            "zoo",
+            "ground"
+        ],
+        "id": null
+    }
+]

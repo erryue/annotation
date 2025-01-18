@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image shows a meal spread out on a wooden table.",
+        "sentence_cn": "图中显示的是摆放在木桌上的一顿饭菜。",
+        "words": [
+            "meal",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a white plate with several sandwich triangles made from whole grain bread filled with ingredients such as cheese and possibly tomato or another filling.",
+        "sentence_cn": "白色的盘子里装着几个由全麦面包做成的三角形三明治，里面填满了奶酪、西红柿或其他馅料。",
+        "words": [
+            "plate",
+            "sandwich",
+            "triangles",
+            "grain",
+            "bread",
+            "ingredients",
+            "cheese",
+            "tomato",
+            "filling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the sandwiches, there are some ripple-style potato chips.",
+        "sentence_cn": "三明治旁边放着一些波纹状的薯片。",
+        "words": [
+            "sandwiches",
+            "style",
+            "potato",
+            "chips"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a white bowl containing a dark brown soup, which appears to be a thick, tomato-based soup or chili.",
+        "sentence_cn": "右边有一个白色的碗，里面盛着深棕色的汤，看上去是浓稠的番茄汤或辣椒汤。",
+        "words": [
+            "right",
+            "bowl",
+            "soup",
+            "tomato",
+            "soup",
+            "chili"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A metal spoon is resting inside the bowl.",
+        "sentence_cn": "碗里放着一把金属勺子。",
+        "words": [
+            "metal",
+            "spoon",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the bowl of soup is a bottle of orange soda with a blue and orange label, standing upright on the table.",
+        "sentence_cn": "汤碗后面是一瓶橙子汽水，贴着蓝色和橙色的标签，直立在桌子上。",
+        "words": [
+            "bowl",
+            "soup",
+            "bottle",
+            "orange",
+            "soda",
+            "label",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there is a small blue bowl filled with various sugar packets, likely for coffee or tea, towards the back of the arrangement.",
+        "sentence_cn": "此外，在花束的后面还有一个蓝色的小碗，碗里装满了各种糖包，可能是用来喝咖啡或茶的。",
+        "words": [
+            "bowl",
+            "sugar",
+            "packets",
+            "coffee",
+            "tea",
+            "back",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The meal is set in a way that suggests a casual dining setting, possibly a cafe or a diner.",
+        "sentence_cn": "用餐方式让人联想到休闲用餐环境，可能是咖啡馆或小餐馆。",
+        "words": [
+            "meal",
+            "way",
+            "dining",
+            "cafe",
+            "diner"
+        ],
+        "id": null
+    }
+]

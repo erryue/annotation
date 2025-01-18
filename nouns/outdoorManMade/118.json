@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image depicts an urban scene in a city with modern architecture.",
+        "sentence_cn": "该图描绘的是一座拥有现代建筑的城市景观。",
+        "words": [
+            "scene",
+            "city",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two streetcars are visible, both red and white, and belonging to the local transit system.",
+        "sentence_cn": "可以看到两辆有轨电车，分别为红色和白色，属于当地的交通系统。",
+        "words": [
+            "Two",
+            "streetcars",
+            "transit",
+            "system"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The streetcar to the left is marked with route \"510 Spadina Station.\"",
+        "sentence_cn": "左边的有轨电车标有“510 Spadina 站”路线。",
+        "words": [
+            "510 Spadina Station.",
+            "streetcar",
+            "left",
+            "route",
+            "510"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cyclist is riding alongside this streetcar.",
+        "sentence_cn": "一名骑自行车的人正在这辆有轨电车旁边骑行。",
+        "words": [
+            "cyclist",
+            "streetcar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The streetcars are on dedicated tracks that run along a median.",
+        "sentence_cn": "有轨电车在沿着中间地带行驶的专用轨道上。",
+        "words": [
+            "streetcars",
+            "tracks",
+            "median"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are two high-rise office buildings with a distinctive checkered window pattern.",
+        "sentence_cn": "背景中，有两栋高层办公楼，其窗户有着独特的方格图案。",
+        "words": [
+            "background",
+            "two",
+            "rise",
+            "office",
+            "buildings",
+            "window",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These buildings are adorned with numerous square windows and have a stepped design.",
+        "sentence_cn": "这些建筑物装饰有众多方形窗户，并采用阶梯式设计。",
+        "words": [
+            "buildings",
+            "windows",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there are lush green trees around the area, providing contrast to the urban environment.",
+        "sentence_cn": "此外，该地区周围有郁郁葱葱的绿树，与城市环境形成鲜明对比。",
+        "words": [
+            "trees",
+            "area",
+            "contrast",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Traffic signals and transit-specific signals are present, indicating a well-organized intersection.",
+        "sentence_cn": "有交通信号灯和专用交通信号灯，表明路口秩序井然。",
+        "words": [
+            "Traffic",
+            "signals",
+            "transit",
+            "signals",
+            "intersection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image conveys a bustling, well-developed urban atmosphere.",
+        "sentence_cn": "图像传达出繁华、发达的城市氛围。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

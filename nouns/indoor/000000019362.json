@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "The image depicts a warmly lit, cozy bedroom.",
+        "sentence_cn": "图像描绘的是一间灯光温暖、舒适的卧室。",
+        "words": [
+            "bedroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The centerpiece is a bed with a white sheet and a brown blanket, complemented by two decorative pillows with a wavy pattern on them.",
+        "sentence_cn": "房间的中心是一张床，上面铺着白色的床单和棕色的毯子，还有两个带有波浪图案的装饰枕头。",
+        "words": [
+            "centerpiece",
+            "bed",
+            "sheet",
+            "blanket",
+            "two",
+            "pillows",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the bed, there are nightstands with classic, elegant table lamps that have beige, fabric lampshades.",
+        "sentence_cn": "床的两侧是床头柜，上面摆放着经典、优雅的台灯，配有米色布艺灯罩。",
+        "words": [
+            "bed",
+            "nightstands",
+            "table",
+            "lamps",
+            "fabric",
+            "lampshades"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small electronic device rests on the bed, likely a tablet.",
+        "sentence_cn": "床上放着一个小型电子设备，可能是平板电脑。",
+        "words": [
+            "device",
+            "bed",
+            "tablet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a window with striped curtains that allow natural light to filter into the room.",
+        "sentence_cn": "左边有一扇窗户，窗户上有条纹窗帘，可以让自然光照进房间。",
+        "words": [
+            "left",
+            "window",
+            "curtains",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the window, a wooden desk is positioned with a traditional chair, and a modern desk lamp sits on it, along with a phone.",
+        "sentence_cn": "窗户前面，有一张木质书桌，配有一把传统的椅子，上面放着一盏现代台灯和一部电话。",
+        "words": [
+            "front",
+            "window",
+            "desk",
+            "chair",
+            "desk",
+            "lamp",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An upholstered armchair with a tufted back in a rust color is situated in the corner near the desk.",
+        "sentence_cn": "靠近书桌的角落里有一把带软垫的扶手椅，椅背为铁锈色，带有簇绒毛。",
+        "words": [
+            "armchair",
+            "back",
+            "rust",
+            "color",
+            "corner",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted a muted, warm beige, adding to the relaxing ambiance, and the room has white crown molding at the ceiling.",
+        "sentence_cn": "墙壁漆成柔和、温暖的米色，增添了轻松的氛围，房间的天花板上有白色的皇冠造型。",
+        "words": [
+            "walls",
+            "beige",
+            "ambiance",
+            "room",
+            "crown",
+            "molding",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting gives off a stylish yet comfortable vibe, balancing modern touches with classic elements.",
+        "sentence_cn": "整体环境营造出时尚而舒适的氛围，平衡了现代风格与古典元素。",
+        "words": [
+            "vibe",
+            "touches",
+            "elements"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image depicts a well-organized garage space.",
+        "sentence_cn": "图像描绘的是一个井然有序的车库空间。",
+        "words": [
+            "garage",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there are several tall wooden storage cabinets with a series of drawers and countertops.",
+        "sentence_cn": "左侧有几个高大的木质储物柜，配有一系列抽屉和台面。",
+        "words": [
+            "storage",
+            "cabinets",
+            "series",
+            "drawers",
+            "countertops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Small items and tools can be seen on the countertop, along with a window to allow natural light.",
+        "sentence_cn": "台面上摆放着小物品和工具，还有一扇窗户，可以让自然光照进来。",
+        "words": [
+            "items",
+            "tools",
+            "countertop",
+            "window",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, a colorful children's play area is set up with a small table and three colorful chairs¡ªtwo red and one yellow.",
+        "sentence_cn": "中心设置了一个色彩缤纷的儿童游乐区，配有一张小桌子和三把五颜六色的椅子——两把红色的，一把黄色的。",
+        "words": [
+            "center",
+            "children",
+            "play",
+            "area",
+            "table",
+            "three",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are drawing and coloring supplies.",
+        "sentence_cn": "桌子上有绘画和着色用品。",
+        "words": [
+            "table",
+            "drawing",
+            "coloring",
+            "supplies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around the play area, there are foam play mats with numbers and other scattered toys, including a toy bucket and a small tricycle.",
+        "sentence_cn": "游乐区周围有标有数字的泡沫游戏垫和其他散落的玩具，包括玩具桶和小三轮车。",
+        "words": [
+            "play",
+            "area",
+            "foam",
+            "play",
+            "mats",
+            "numbers",
+            "toys",
+            "toy",
+            "bucket",
+            "tricycle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a table tennis setup with paddles and balls.",
+        "sentence_cn": "右边有一套乒乓球设备，配有球拍和球。",
+        "words": [
+            "right",
+            "table",
+            "tennis",
+            "paddles",
+            "balls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above and on the wall are mounted storage grids holding various sports equipment, including rackets, balls, and hats.",
+        "sentence_cn": "墙壁上方和上方安装有储物格，用于存放各种运动器材，包括球拍、球和帽子。",
+        "words": [
+            "wall",
+            "storage",
+            "grids",
+            "sports",
+            "equipment",
+            "rackets",
+            "balls",
+            "hats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, shelves are mounted to store shoes and other items.",
+        "sentence_cn": "此外，还安装了架子来存放鞋子和其他物品。",
+        "words": [
+            "shelves",
+            "shoes",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall appearance is neat and functional, designed for both recreational and practical use.",
+        "sentence_cn": "整体外观整洁且功能齐全，兼具休闲和实用功能。",
+        "words": [
+            "appearance",
+            "use"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,201 @@
+[
+    {
+        "sentence": "The image is a screenshot of the NBC News website, featuring top news stories.",
+        "sentence_cn": "图片是 NBC 新闻网站的截图，其中刊登了头条新闻。",
+        "words": [
+            "website",
+            "news",
+            "stories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header includes the NBC News logo, navigation options like home, top videos, and various news categories (e.g., U.S., World, Politics).",
+        "sentence_cn": "标题包括 NBC 新闻标志、主页等导航选项、热门视频和各种新闻类别（例如美国、世界、政治）。",
+        "words": [
+            "header",
+            "logo",
+            "navigation",
+            "options",
+            "home",
+            "videos",
+            "news",
+            "categories",
+            "U.S.",
+            "Politics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also highlighted topics like \"Iran Nuclear Talks\" and \"Europe's Border Crisis.\"",
+        "sentence_cn": "其中还包括“伊朗核谈判”和“欧洲边境危机”等热门话题。",
+        "words": [
+            "Iran Nuclear Talks",
+            "Europe's Border Crisis.",
+            "topics",
+            "Talks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Section:",
+        "sentence_cn": "主要部分：",
+        "words": [
+            "Main Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The featured story has an image showing a crowd, presumably migrants, with the headline: \"'We Are Human Beings': Greek Island Flooded by Migrants,\" credited to Petros Giannakouris/AP.",
+        "sentence_cn": "- 专题报道中有一张人群图片，推测是移民，标题为“‘我们是人类’：希腊岛屿被移民淹没”，图片来源：Petros Giannakouris/AP。",
+        "words": [
+            "'We Are Human Beings': Greek Island Flooded by Migrants,",
+            "story",
+            "crowd",
+            "migrants",
+            "headline",
+            "Human",
+            "Beings",
+            "Island",
+            "Migrants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other Stories:",
+        "sentence_cn": "其他故事：",
+        "words": [
+            "Other Stories:",
+            "Stories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Pope Francis Making Marriage Ending Simpler - Image of Pope Francis.",
+        "sentence_cn": "1. 教皇弗朗西斯让婚姻结束变得更简单 - 教皇弗朗西斯的图片。",
+        "words": [
+            "Pope Francis Making Marriage Ending Simpler",
+            "Marriage",
+            "Ending",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Clinton Email Report - Image of a woman in a blue background.",
+        "sentence_cn": "2. 克林顿电子邮件报告 - 蓝色背景中的女性图像。",
+        "words": [
+            "Clinton Email Report",
+            "Image",
+            "woman",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Great White Shark Dies - No image shown.",
+        "sentence_cn": "3. 大白鲨死亡 - 未显示图像。",
+        "words": [
+            "Great White Shark Dies",
+            "Shark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Stocks Open Higher - No image shown.",
+        "sentence_cn": "4. 股票高开 - 未显示图像。",
+        "words": [
+            "Stocks Open Higher",
+            "Stocks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Queen¡¯s Record - Image of the Queen.",
+        "sentence_cn": "5. 女王的记录——女王的形象。",
+        "words": [
+            "Queen¡¯s Record",
+            "Record",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Swapped at Birth Reunion - No image shown.",
+        "sentence_cn": "6. 出生重聚时交换 - 未显示图像。",
+        "words": [
+            "Swapped at Birth Reunion",
+            "Birth",
+            "Reunion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Brothers Slain at Convenience Store - No image shown.",
+        "sentence_cn": "7. 便利店里的兄弟被杀 - 未显示图像。",
+        "words": [
+            "Brothers Slain at Convenience Store",
+            "Brothers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Starving Dog Rescued - No image shown.",
+        "sentence_cn": "8. 饥饿的狗获救 - 未显示图像。",
+        "words": [
+            "Starving Dog Rescued",
+            "Dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Latest News Sidebar:",
+        "sentence_cn": "最新新闻侧边栏：",
+        "words": [
+            "Latest News Sidebar:",
+            "News",
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Includes brief headlines like \"Survivor of Virginia TV Shooting Released from Hospital\" and repeated stories about a kidnapped Iraqi minister and a great white shark dying.",
+        "sentence_cn": "- 包括简短的标题，例如“弗吉尼亚州电视枪击案的幸存者出院”以及关于被绑架的伊拉克部长和大白鲨死亡的重复故事。",
+        "words": [
+            "Survivor of Virginia TV Shooting Released from Hospital",
+            "headlines",
+            "Survivor",
+            "TV",
+            "Shooting",
+            "Hospital",
+            "stories",
+            "minister",
+            "shark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sidebar Features:",
+        "sentence_cn": "侧边栏功能：",
+        "words": [
+            "Sidebar Features:",
+            "Sidebar",
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Options for signing up for breaking news updates and social media links for Facebook, Twitter, Google+, and an RSS feed.",
+        "sentence_cn": "- 选择注册以获取突发新闻更新和 Facebook、Twitter、Google+ 和 RSS 源的社交媒体链接。",
+        "words": [
+            "Options",
+            "news",
+            "updates",
+            "media",
+            "links",
+            "feed"
+        ],
+        "id": null
+    }
+]

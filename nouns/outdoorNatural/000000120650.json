@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image depicts a group of sheep in a snowy field.",
+        "sentence_cn": "图像描绘的是雪原中的一群绵羊。",
+        "words": [
+            "group",
+            "sheep",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep vary in color, including brown, white, and black.",
+        "sentence_cn": "羊的颜色各异，有棕色、白色和黑色。",
+        "words": [
+            "sheep",
+            "color",
+            "brown",
+            "black"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is covered with snow, and there are patches where the snow is thin or melted, exposing some straw or grass.",
+        "sentence_cn": "地面上覆盖着白雪，有些地方雪很薄或者融化了，露出了一些稻草或者小草。",
+        "words": [
+            "ground",
+            "snow",
+            "patches",
+            "snow",
+            "straw",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are bare trees without leaves and a structure with a red roof, possibly a barn or shed.",
+        "sentence_cn": "背景中，有光秃秃的没有叶子的树木和一座红色屋顶的建筑，可能是谷仓或棚屋。",
+        "words": [
+            "background",
+            "trees",
+            "leaves",
+            "structure",
+            "roof",
+            "barn",
+            "shed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky appears overcast with a grayish-blue hue, indicating a typical winter scene.",
+        "sentence_cn": "天空阴云密布，呈现灰蓝色调，呈现出典型的冬季景象。",
+        "words": [
+            "sky",
+            "hue",
+            "winter",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep are standing and grazing, appearing to be at ease in the wintry environment.",
+        "sentence_cn": "羊群站着吃草，看上去在寒冷的环境中很自在。",
+        "words": [
+            "sheep",
+            "ease",
+            "environment"
+        ],
+        "id": null
+    }
+]

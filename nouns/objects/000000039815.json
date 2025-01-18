@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image shows a still life arrangement of fruit placed in a distinctive blue, asymmetric-shaped dish.",
+        "sentence_cn": "图像显示了水果的静物排列，这些水果被放置在一个独特的蓝色、不对称形状的盘子中。",
+        "words": [
+            "life",
+            "arrangement",
+            "fruit",
+            "dish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dish contains several ripe bananas, spotted with small brown marks, indicating ripeness.",
+        "sentence_cn": "盘子里有几根成熟的香蕉，上面有棕色的小斑点，表明已经成熟。",
+        "words": [
+            "dish",
+            "bananas",
+            "marks",
+            "ripeness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Resting on top of these bananas are a bunch of green grapes, some of which are leaning to the side.",
+        "sentence_cn": "这些香蕉上面放着一串绿葡萄，有些还歪向一边。",
+        "words": [
+            "top",
+            "bananas",
+            "bunch",
+            "grapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A single pear with a few brown spots is nestled at the foreground of the dish.",
+        "sentence_cn": "一只带有几个棕色斑点的梨坐落在盘子的前景中。",
+        "words": [
+            "pear",
+            "spots",
+            "foreground",
+            "dish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a simple flat surface in a warm, yellowish tint, providing a contrasting backdrop to the vibrant colors of the fruit and the blue dish.",
+        "sentence_cn": "背景是一个简单的平面，呈温暖的黄色色调，与水果和蓝色盘子的鲜艳色彩形成了鲜明的对比。",
+        "words": [
+            "background",
+            "surface",
+            "tint",
+            "backdrop",
+            "colors",
+            "fruit",
+            "dish"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image is a vintage-style movie poster for the film \"On Golden Pond.\"",
+        "sentence_cn": "图片是电影《金色池塘》的复古风格电影海报。",
+        "words": [
+            "On Golden Pond.",
+            "style",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features illustrated portraits of four characters arranged vertically.",
+        "sentence_cn": "海报中，四个人物的肖像以竖向排列。",
+        "words": [
+            "poster",
+            "portraits",
+            "four",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top is an older man wearing glasses and a hat, smiling broadly.",
+        "sentence_cn": "山顶上是一位戴着眼镜和帽子的老人，笑容满面。",
+        "words": [
+            "top",
+            "man",
+            "glasses",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below him is an older woman with a warm smile and curly hair.",
+        "sentence_cn": "他下面是一位年长的妇女，有着温暖的微笑和卷发。",
+        "words": [
+            "woman",
+            "smile",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below her is a younger woman with long, wavy hair.",
+        "sentence_cn": "她下面是一位留着长长的波浪形头发的年轻女子。",
+        "words": [
+            "woman",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom is a young boy with light hair, also smiling.",
+        "sentence_cn": "最下面是一个浅色头发的小男孩，也面带微笑。",
+        "words": [
+            "bottom",
+            "boy",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"On Golden Pond\" appears in the lower right section, with the \"O\" depicting a small illustration of a pond with a sunset.",
+        "sentence_cn": "标题“金色池塘”出现在右下角，其中的“O”描绘了一幅带有日落的池塘小插图。",
+        "words": [
+            "On Golden Pond",
+            "O",
+            "title",
+            "section",
+            "O",
+            "illustration",
+            "pond",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beneath the image, the tagline reads, \"when life is at its finest... when love is at its fullest...\"",
+        "sentence_cn": "图片下方的标语写着：“当生活处于最美好状态时......当爱情处于最充实状态时......”",
+        "words": [
+            "when life is at its finest... when love is at its fullest...",
+            "tagline",
+            "life",
+            "love"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The names of the film's stars¡ªKatharine Hepburn, Henry Fonda, and Jane Fonda¡ªare prominently displayed.",
+        "sentence_cn": "影片明星的名字——凯瑟琳·赫本、亨利·方达和简·方达——都被醒目地显示出来。",
+        "words": [
+            "names",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional credits for the film's production team are listed at the bottom, including details about the director, writer, and producers.",
+        "sentence_cn": "底部列出了电影制作团队的附加信息，包括导演、编剧和制片人的详细信息。",
+        "words": [
+            "credits",
+            "film",
+            "production",
+            "team",
+            "bottom",
+            "details",
+            "director",
+            "writer",
+            "producers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is soft and nostalgic, emphasizing themes of family and love.",
+        "sentence_cn": "整体设计柔和而怀旧，强调家庭和爱的主题。",
+        "words": [
+            "design",
+            "themes",
+            "family",
+            "love"
+        ],
+        "id": null
+    }
+]

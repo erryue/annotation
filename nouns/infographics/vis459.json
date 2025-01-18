@@ -1,0 +1,239 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Una gran usina de trabajo,\" discussing the entertainment industry in Argentina.",
+        "sentence_cn": "该图片是一个名为“Una gran usina de trabajo”的信息图，讨论了阿根廷的娱乐业。",
+        "words": [
+            "Una gran usina de trabajo,",
+            "entertainment",
+            "industry",
+            "Argentina"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It predicts the industry's growth, projecting a doubling over four years to reach $13,669 million by 2016.",
+        "sentence_cn": "该公司预测了该行业的增长，预计四年内增长一倍，到 2016 年达到 136.69 亿美元。",
+        "words": [
+            "industry",
+            "growth",
+            "doubling",
+            "four",
+            "years",
+            "13,669",
+            "million",
+            "2016"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Top Section:",
+        "sentence_cn": "### 顶部部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A cartoon character with multiple arms holding various gadgets: a newspaper, tablet, smartphone, earbuds, and a gaming controller, symbolizing different entertainment media.",
+        "sentence_cn": "- 一个有多条手臂的卡通人物，手里拿着各种各样的小玩意：报纸、平板电脑、智能手机、耳机和游戏控制器，象征着不同的娱乐媒体。",
+        "words": [
+            "cartoon",
+            "character",
+            "arms",
+            "gadgets",
+            "newspaper",
+            "tablet",
+            "smartphone",
+            "earbuds",
+            "gaming",
+            "controller",
+            "entertainment",
+            "media"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Lower Section:",
+        "sentence_cn": "### 下部：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Left (Facturaci¨®n de la industria):",
+        "sentence_cn": "- 左（工业工厂）：",
+        "words": [
+            "Left (Facturaci¨®n de la industria)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A bar graph showing estimated industry revenues in Latin America for 2016, comparing Mexico ($25,823 million), Brazil ($23,963 million), Argentina ($13,669 million), Colombia ($6,251 million), and Venezuela ($4,579 million).",
+        "sentence_cn": "- 条形图显示了 2016 年拉丁美洲的行业收入预估，比较了墨西哥（258.23 亿美元）、巴西（239.63 亿美元）、阿根廷（136.69 亿美元）、哥伦比亚（62.51 亿美元）和委内瑞拉（45.79 亿美元）。",
+        "words": [
+            "bar",
+            "graph",
+            "industry",
+            "revenues",
+            "Latin",
+            "America",
+            "2016",
+            "Mexico",
+            "25,823",
+            "million",
+            "Brazil",
+            "23,963",
+            "million",
+            "Argentina",
+            "13,669",
+            "million",
+            "Colombia",
+            "6,251",
+            "million",
+            "Venezuela",
+            "4,579",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - It highlights Argentina's growth from $6,573 million in 2012 to the projected 2016 figure.",
+        "sentence_cn": "- 强调了阿根廷从 2012 年的 65.73 亿美元增长到预计的 2016 年数字。",
+        "words": [
+            "Argentina",
+            "growth",
+            "6,573",
+            "million",
+            "2012",
+            "2016",
+            "figure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Middle (De d¨®nde vendr¨ªan los ingresos):",
+        "sentence_cn": "- 中（De d´®nde vendràªan los ingresos）：",
+        "words": [
+            "Middle (De d¨®nde vendr¨ªan los ingresos)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Displays a pie chart of income sources for Argentina in 2016: Usage rights ($4,814 million), advertising ($4,584 million), and access charges ($4,271 million).",
+        "sentence_cn": "- 展示 2016 年阿根廷收入来源饼图：使用权（48.14 亿美元）、广告（45.84 亿美元）和接入费（42.71 亿美元）。",
+        "words": [
+            "pie",
+            "chart",
+            "income",
+            "sources",
+            "Argentina",
+            "2016",
+            "Usage",
+            "rights",
+            "4,814",
+            "million",
+            "advertising",
+            "4,584",
+            "million",
+            "access",
+            "charges",
+            "4,271",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Right (Lo que el consumidor quiere):",
+        "sentence_cn": "- 右（Lo que el consumidor quiere）：",
+        "words": [
+            "Right (Lo que el consumidor quiere)",
+            "consumidor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Describes consumer preferences: high-quality, low-cost content, simultaneous content consumption, integrated experiences, and personalized content experiences.",
+        "sentence_cn": "- 描述消费者偏好：高质量、低成本的内容、同时内容消费、综合体验和个性化内容体验。",
+        "words": [
+            "consumer",
+            "preferences",
+            "quality",
+            "cost",
+            "content",
+            "content",
+            "consumption",
+            "experiences",
+            "content",
+            "experiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Far Right (Principales migraciones):",
+        "sentence_cn": "- 最右翼（Principales migraciones）：",
+        "words": [
+            "Far Right (Principales migraciones)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Shows trends in media consumption:",
+        "sentence_cn": "- 显示媒体消费趋势：",
+        "words": [
+            "trends",
+            "media",
+            "consumption"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Digital migration (print to digital) with a growth from 5% to 18%.",
+        "sentence_cn": "- 数字化迁移（印刷到数字化）增长率从 5% 到 18%。",
+        "words": [
+            "migration",
+            "print",
+            "digital",
+            "growth",
+            "5",
+            "18",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Mobile consumption increase from 26% to 45%.",
+        "sentence_cn": "- 移动消费从26%增加到45%。",
+        "words": [
+            "Mobile",
+            "consumption",
+            "increase",
+            "26",
+            "45",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic combines textual data and visuals to convey the rapid changes and growth expected in the entertainment sector in Argentina and broader Latin America.",
+        "sentence_cn": "该信息图结合了文本数据和视觉效果，传达了阿根廷和拉丁美洲娱乐业预期的快速变化和增长。",
+        "words": [
+            "data",
+            "visuals",
+            "changes",
+            "growth",
+            "entertainment",
+            "sector",
+            "Argentina",
+            "Latin",
+            "America"
+        ],
+        "id": null
+    }
+]

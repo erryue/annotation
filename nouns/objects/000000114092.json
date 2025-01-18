@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image shows a neatly set table with a vibrant meal.",
+        "sentence_cn": "照片中，餐桌摆放整齐，餐食丰盛。",
+        "words": [
+            "table",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On a yellow plate, there are two main food items: scrambled eggs garnished with herbs, and slices of cooked sausages with a hint of herbs as well.",
+        "sentence_cn": "黄色盘子里有两种主要食物：用香草点缀的炒鸡蛋，以及带有淡淡香草味的熟香肠片。",
+        "words": [
+            "plate",
+            "two",
+            "food",
+            "items",
+            "eggs",
+            "herbs",
+            "slices",
+            "sausages",
+            "hint",
+            "herbs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate is set on a green placemat which contrasts nicely with the yellow plate and white tablecloth beneath it.",
+        "sentence_cn": "盘子放在绿色餐垫上，与下面的黄色盘子和白色桌布形成了鲜明的对比。",
+        "words": [
+            "plate",
+            "placemat",
+            "plate",
+            "tablecloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a glass of red wine next to a wine bottle.",
+        "sentence_cn": "背景中，有一个酒瓶旁边有一杯红酒。",
+        "words": [
+            "background",
+            "glass",
+            "wine",
+            "wine",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden napkin holder with geometric designs holds white napkins.",
+        "sentence_cn": "带有几何图案的木制餐巾架可以放置白色餐巾。",
+        "words": [
+            "napkin",
+            "holder",
+            "designs",
+            "napkins"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a small salt shaker nearby.",
+        "sentence_cn": "附近还有一个小盐瓶。",
+        "words": [
+            "salt",
+            "shaker"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fork is placed on the right side of the plate, positioned neatly for use.",
+        "sentence_cn": "叉子置于盘子的右侧，摆放整齐，以备使用。",
+        "words": [
+            "fork",
+            "plate",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting gives a cozy and inviting feel, likely set for a pleasant meal.",
+        "sentence_cn": "整体环境给人一种舒适、温馨的感觉，很适合享用愉快的晚餐。",
+        "words": [
+            "feel",
+            "meal"
+        ],
+        "id": null
+    }
+]

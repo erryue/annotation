@@ -1,0 +1,328 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from the \"Mackinac Fudge Shop.\"",
+        "sentence_cn": "该图片是“Mackinac Fudge Shop”网页的截图。",
+        "words": [
+            "Mackinac Fudge Shop.",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a dark red and white color theme.",
+        "sentence_cn": "它采用深红色和白色的主题色彩。",
+        "words": [
+            "color",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Header:",
+        "sentence_cn": "标题：",
+        "words": [
+            "Header:",
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top features the shop's logo with the name \"MACKINAC FUDGE SHOP\" inside a bordered hexagonal shape.",
+        "sentence_cn": "- 顶部有商店的标志，上面有名称“MACKINAC FUDGE SHOP”的字样，周围是六边形边框。",
+        "words": [
+            "MACKINAC FUDGE SHOP",
+            "top",
+            "shop",
+            "logo",
+            "name",
+            "shape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation links include \"Gourmet Fudge,\" \"Candies,\" \"Bark,\" \"Popcorn,\" \"Gift Boxes,\" \"Monthly Clubs,\" and \"Favors.\"",
+        "sentence_cn": "- 导航链接包括“美食软糖”、“糖果”、“树皮”、“爆米花”、“礼品盒”、“月度俱乐部”和“喜好”。",
+        "words": [
+            "Gourmet Fudge,",
+            "Candies,",
+            "Bark,",
+            "Popcorn,",
+            "Gift Boxes,",
+            "Monthly Clubs,",
+            "Favors.",
+            "Navigation",
+            "links",
+            "Candies",
+            "Bark",
+            "Popcorn",
+            "Gift",
+            "Boxes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Options for \"View Cart,\" \"About,\" and \"My Account\" are on the upper right, along with a search bar.",
+        "sentence_cn": "- 右上角有“查看购物车”、“关于”和“我的帐户”选项以及搜索栏。",
+        "words": [
+            "View Cart,",
+            "About,",
+            "My Account",
+            "Options",
+            "View",
+            "Cart",
+            "Account",
+            "right",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Content:",
+        "sentence_cn": "主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The page promotes \"Mix & Match\" custom assortments of their products.",
+        "sentence_cn": "- 该页面宣传其产品的“混合搭配”定制分类。",
+        "words": [
+            "Mix & Match",
+            "page",
+            "assortments",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An image on the right showcases an assortment of chocolates and confections.",
+        "sentence_cn": "- 右侧的图片展示了各种巧克力和糖果。",
+        "words": [
+            "right",
+            "assortment",
+            "chocolates",
+            "confections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Product Listings:",
+        "sentence_cn": "产品列表：",
+        "words": [
+            "Product Listings:",
+            "Product",
+            "Listings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Very Berry Dark Chocolate Bark",
+        "sentence_cn": "1. 浆果味黑巧克力皮",
+        "words": [
+            "Very Berry Dark Chocolate Bark",
+            "Chocolate",
+            "Bark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $11.95",
+        "sentence_cn": "- 价格：11.95 美元",
+        "words": [
+            "Price",
+            "11.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Dark chocolate bark with Michigan cherries, cranberries, white chocolate drizzle, and maple sugar, approximately 8 oz.",
+        "sentence_cn": "- 描述：黑巧克力皮配密歇根樱桃、蔓越莓、白巧克力细雨和枫糖，约 8 盎司。",
+        "words": [
+            "Description",
+            "chocolate",
+            "bark",
+            "Michigan",
+            "cherries",
+            "cranberries",
+            "chocolate",
+            "drizzle",
+            "maple",
+            "sugar",
+            "8",
+            "oz"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Mackinac Fudge ¨C 3 Slice Box",
+        "sentence_cn": "2. Mackinac Fudge – 3 片装",
+        "words": [
+            "Mackinac Fudge ¨C 3 Slice Box",
+            "3",
+            "Slice",
+            "Box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $19.95",
+        "sentence_cn": "- 价格：19.95美元",
+        "words": [
+            "Price",
+            "19.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Choose any three Gourmet Mackinac Island Fudge Flavors in a three slice gift box, each slice approx. 1/2 lb.",
+        "sentence_cn": "- 描述：选择三片礼盒中的任意三种美食麦基诺岛软糖口味，每片约 1/2 磅。",
+        "words": [
+            "Description",
+            "three",
+            "three",
+            "slice",
+            "gift",
+            "box",
+            "slice",
+            "1/2",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Custom Chocolates Gift Sampler",
+        "sentence_cn": "3. 定制巧克力礼品样品",
+        "words": [
+            "Custom Chocolates Gift Sampler",
+            "Chocolates",
+            "Gift",
+            "Sampler",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $35.95",
+        "sentence_cn": "- 价格：35.95 美元",
+        "words": [
+            "Price",
+            "35.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Choose any three hand-dipped chocolates, old-fashioned candies, and chocolate barks for a gift assortment.",
+        "sentence_cn": "- 描述：选择任意三种手工巧克力、老式糖果和巧克力皮作为礼物组合。",
+        "words": [
+            "Description",
+            "three",
+            "hand",
+            "chocolates",
+            "candies",
+            "chocolate",
+            "barks",
+            "gift",
+            "assortment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Custom Chocolates Gift Tower",
+        "sentence_cn": "4. 定制巧克力礼品塔",
+        "words": [
+            "Custom Chocolates Gift Tower"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $59.95",
+        "sentence_cn": "- 价格：59.95 美元",
+        "words": [
+            "Price",
+            "59.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Not provided in this excerpt.",
+        "sentence_cn": "- 描述：此摘录中未提供。",
+        "words": [
+            "Description",
+            "excerpt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Custom Gift Box #1",
+        "sentence_cn": "5. 定制礼品盒#1",
+        "words": [
+            "Custom Gift Box #1",
+            "Gift",
+            "Box",
+            "#",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $45.95",
+        "sentence_cn": "- 价格：45.95 美元",
+        "words": [
+            "Price",
+            "45.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Not provided in this excerpt.",
+        "sentence_cn": "- 描述：此摘录中未提供。",
+        "words": [
+            "Description",
+            "excerpt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Aztec Bark",
+        "sentence_cn": "6. 阿兹特克树皮",
+        "words": [
+            "Aztec Bark",
+            "Bark"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Price: $10.95",
+        "sentence_cn": "- 价格：10.95 美元",
+        "words": [
+            "Price",
+            "10.95"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Description: Not provided in this excerpt.",
+        "sentence_cn": "- 描述：此摘录中未提供。",
+        "words": [
+            "Description",
+            "excerpt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the webpage highlights various confectionery products with options for gifts and customization.",
+        "sentence_cn": "总体而言，该网页重点介绍了各种糖果产品，并提供礼品和定制选择。",
+        "words": [
+            "webpage",
+            "confectionery",
+            "products",
+            "options",
+            "gifts",
+            "customization"
+        ],
+        "id": null
+    }
+]

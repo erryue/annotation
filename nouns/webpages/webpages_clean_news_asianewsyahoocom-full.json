@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image is a screenshot of a Yahoo News webpage.",
+        "sentence_cn": "该图片是雅虎新闻网页的截图。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page features a navigation bar with categories like Home, Singapore, GE2015, Malaysia, and more.",
+        "sentence_cn": "该页面设有导航栏，其中包含主页、新加坡、GE2015、马来西亚等类别。",
+        "words": [
+            "page",
+            "navigation",
+            "bar",
+            "categories",
+            "Home",
+            "Malaysia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, the top stories section highlights \"GE2015: FULL COVERAGE\" with various news articles related to the Singapore General Election 2015.",
+        "sentence_cn": "下方的头条新闻部分重点介绍了“2015 年新加坡大选：全面报道”，其中包含与 2015 年新加坡大选相关的多篇新闻文章。",
+        "words": [
+            "GE2015: FULL COVERAGE",
+            "stories",
+            "section",
+            "FULL",
+            "COVERAGE",
+            "news",
+            "articles",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main highlighted story is about the Singapore Democratic Party unveiling two more candidates for the upcoming election, with an image of two individuals in red shirts.",
+        "sentence_cn": "主要新闻是新加坡民主党公布即将举行的选举的另外两名候选人，并附有两名身穿红衫的人的照片。",
+        "words": [
+            "story",
+            "two",
+            "candidates",
+            "election",
+            "two",
+            "individuals",
+            "shirts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other smaller news stories below include pictures and headlines related to other political parties and key events, such as Catalonia preparing for a significant vote and UBS facing sanctions violations.",
+        "sentence_cn": "下面的其他较小新闻报道包括与其他政党和重大事件相关的图片和标题，例如加泰罗尼亚准备进行重大投票和瑞银面临制裁违规。",
+        "words": [
+            "news",
+            "stories",
+            "pictures",
+            "headlines",
+            "parties",
+            "events",
+            "Catalonia",
+            "vote",
+            "sanctions",
+            "violations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a promotional banner for Yahoo Mail and a \"Latest News\" sidebar listing more news articles and an advertisement.",
+        "sentence_cn": "还有雅虎邮箱的促销横幅和列出更多新闻文章和广告的“最新新闻”侧边栏。",
+        "words": [
+            "Latest News",
+            "banner",
+            "sidebar",
+            "news",
+            "articles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall layout is in a typical news portal format with images, headlines, and summaries.",
+        "sentence_cn": "整体布局采用典型的新闻门户格式，包含图片、标题和摘要。",
+        "words": [
+            "layout",
+            "news",
+            "portal",
+            "format",
+            "images",
+            "headlines",
+            "summaries"
+        ],
+        "id": null
+    }
+]

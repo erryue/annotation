@@ -1,0 +1,90 @@
+[
+    {
+        "id": "4f9e1deb-16c5-4cae-bb2c-c7a9279e6adb",
+        "confidence": 0.95415,
+        "class": "laptop",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 415.80261,
+                        "minY": 124.02103,
+                        "maxX": 772.46643,
+                        "maxY": 422.63333
+                    },
+                    "x": 415.80261,
+                    "y": 124.02103,
+                    "w": 356.66381999999993,
+                    "h": 298.6123
+                }
+            }
+        }
+    },
+    {
+        "id": "b71f00a1-bcb9-41b5-ad84-7cfa88b046bb",
+        "confidence": 0.90677,
+        "class": "laptop",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 211.62219,
+                        "minY": 153.42949,
+                        "maxX": 450.53189,
+                        "maxY": 343.48923
+                    },
+                    "x": 211.62219,
+                    "y": 153.42949,
+                    "w": 238.9097,
+                    "h": 190.05974000000003
+                }
+            }
+        }
+    },
+    {
+        "id": "8415a2a0-ae19-4c42-8b54-582627b089d8",
+        "confidence": 0.87043,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 159.59514,
+                        "minY": 17.23312,
+                        "maxX": 345.62729,
+                        "maxY": 235.82629
+                    },
+                    "x": 159.59514,
+                    "y": 17.23312,
+                    "w": 186.03215000000003,
+                    "h": 218.59317
+                }
+            }
+        }
+    },
+    {
+        "id": "e33206ec-f289-457d-bbd8-bd46adb7ea04",
+        "confidence": 0.84168,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.62195,
+                        "minY": 398.68213,
+                        "maxX": 192.32982,
+                        "maxY": 599.43286
+                    },
+                    "x": 0.62195,
+                    "y": 398.68213,
+                    "w": 191.70787,
+                    "h": 200.75073000000003
+                }
+            }
+        }
+    }
+]

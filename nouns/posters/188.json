@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image is a movie poster for Stanley Kubrick's film \"Full Metal Jacket.\"",
+        "sentence_cn": "图片是斯坦利·库布里克的电影《全金属外壳》的电影海报。",
+        "words": [
+            "Full Metal Jacket.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster prominently features a camouflage military helmet with the words \"BORN TO KILL\" written on it in bold letters.",
+        "sentence_cn": "海报上显著的位置是一顶迷彩军用头盔，上面用粗体字写着“生来杀戮”。",
+        "words": [
+            "BORN TO KILL",
+            "poster",
+            "camouflage",
+            "helmet",
+            "words",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Attached to the helmet is a peace symbol button, which creates a juxtaposition of war and peace.",
+        "sentence_cn": "头盔上附有一颗和平符号按钮，形成战争与和平的并列。",
+        "words": [
+            "helmet",
+            "peace",
+            "symbol",
+            "button",
+            "juxtaposition",
+            "war",
+            "peace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Around the helmet are several bullets, giving a sense of warfare.",
+        "sentence_cn": "头盔周围有数颗子弹，给人一种战争的感觉。",
+        "words": [
+            "helmet",
+            "bullets",
+            "sense",
+            "warfare"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the helmet, a line reads: ¡°IN VIETNAM THE WIND DOESN¡¯T BLOW IT SUCKS.¡± Below the helmet, the title \"Stanley Kubrick's Full Metal Jacket\" is displayed in large, bold letters.",
+        "sentence_cn": "头盔上方写着一行字：“在越南，风不吹，真是糟透了。”头盔下方，用大而粗的字母写着“斯坦利·库布里克的全金属外壳”。",
+        "words": [
+            "Stanley Kubrick's Full Metal Jacket",
+            "helmet",
+            "line",
+            "WIND",
+            "helmet",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Smaller text at the bottom lists the cast and crew, including stars like Matthew Modine and Adam Baldwin.",
+        "sentence_cn": "底部较小的文字列出了演员和剧组人员，包括马修·莫迪恩和亚当·鲍德温等明星。",
+        "words": [
+            "text",
+            "bottom",
+            "cast",
+            "crew",
+            "stars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a stark and impactful design, emphasizing themes of war and duality.",
+        "sentence_cn": "海报设计鲜明、震撼力十足，强调了战争和二元性的主题。",
+        "words": [
+            "poster",
+            "design",
+            "themes",
+            "war",
+            "duality"
+        ],
+        "id": null
+    }
+]

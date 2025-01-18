@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image is a promotional poster for the movie \"Patton.\"",
+        "sentence_cn": "图片是电影《巴顿将军》的宣传海报。",
+        "words": [
+            "Patton.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a prominent, stylized illustration of a military officer in uniform, adorned with various medals and a helmet, standing against a backdrop of a large American flag.",
+        "sentence_cn": "该作品以一幅突出的、风格化的插图为特色，描绘的是一名身穿制服的军官，佩戴着各种勋章和头盔，站在一面巨大的美国国旗的背景前。",
+        "words": [
+            "illustration",
+            "officer",
+            "uniform",
+            "medals",
+            "helmet",
+            "backdrop",
+            "flag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the officer, dark silhouettes of soldiers and tanks are visible, emphasizing a war theme.",
+        "sentence_cn": "在军官下方，可以看到士兵和坦克的黑色轮廓，强调了战争主题。",
+        "words": [
+            "officer",
+            "silhouettes",
+            "soldiers",
+            "tanks",
+            "war",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, a quotation from Vincent Canby of the New York Times praises the film as \"The epic American war movie that Hollywood has always wanted to make but never had the guts to do before.\"",
+        "sentence_cn": "海报上方引用了《纽约时报》文森特·坎比的一句话，称赞该片是“好莱坞一直想拍，但从未有勇气拍的美国战争史诗片”。",
+        "words": [
+            "The epic American war movie that Hollywood has always wanted to make but never had the guts to do before.",
+            "top",
+            "poster",
+            "quotation",
+            "film",
+            "war",
+            "movie",
+            "guts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the illustration is another quote from Liz Smith of Cosmopolitan Magazine, which describes the film as a mature portrayal of war and its hero-villain character in \"all his glorious and vainglorious humanity.\"",
+        "sentence_cn": "插图下方是《国际都会》杂志丽兹·史密斯的另一句话，她将这部电影描述为对战争的成熟描绘，以及其中的英雄兼反派角色“展现出其所有光荣和虚荣的人性”。",
+        "words": [
+            "all his glorious and vainglorious humanity.",
+            "illustration",
+            "quote",
+            "film",
+            "portrayal",
+            "war",
+            "hero",
+            "villain",
+            "character",
+            "humanity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film title \"PATTON\" is boldly displayed in red, followed by smaller text detailing the film's cast, specifically mentioning George C. Scott and Karl Malden.",
+        "sentence_cn": "电影名称“PATTON”以红色粗体显示，后面跟着较小的文字，详细介绍了电影演员阵容，特别提到了乔治·斯科特和卡尔·马登。",
+        "words": [
+            "PATTON",
+            "film",
+            "title",
+            "red",
+            "text",
+            "film",
+            "cast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The production and other credits are listed, alongside the logo for Twentieth Century Fox and other technical information about the film.",
+        "sentence_cn": "其中列出了制作和其他人员名单，以及二十世纪福克斯的标志和有关该电影的其他技术信息。",
+        "words": [
+            "production",
+            "credits",
+            "logo",
+            "information",
+            "film"
+        ],
+        "id": null
+    }
+]

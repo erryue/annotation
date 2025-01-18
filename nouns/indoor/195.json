@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image depicts a nursery or daycare room.",
+        "sentence_cn": "该图描绘的是托儿所或日托室。",
+        "words": [
+            "nursery",
+            "daycare",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several white cribs lined up against the walls, each adorned with different colored hanging blankets.",
+        "sentence_cn": "墙边摆放着几张白色婴儿床，每个婴儿床上都挂着不同颜色的毯子。",
+        "words": [
+            "cribs",
+            "walls",
+            "blankets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some have pastel patterns, while one features a bright red and blue quilt with decorative shapes.",
+        "sentence_cn": "有些被子有着柔和的图案，而其中一张被子则有着鲜红色和蓝色的装饰图案。",
+        "words": [
+            "patterns",
+            "one",
+            "quilt",
+            "shapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are baby swings with toys hanging on them and large teddy bears placed on or near them.",
+        "sentence_cn": "有婴儿秋千，上面挂着玩具，上面或附近放着大泰迪熊。",
+        "words": [
+            "baby",
+            "swings",
+            "toys",
+            "teddy",
+            "bears"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is carpeted with a neutral color.",
+        "sentence_cn": "房间里铺着中性色的地毯。",
+        "words": [
+            "room",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the floor, there are a few colored soft play mats in yellow and green.",
+        "sentence_cn": "地板上铺着几块黄色和绿色的彩色软垫。",
+        "words": [
+            "floor",
+            "play",
+            "mats",
+            "yellow",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Rocking chairs are also present, likely for caregivers to sit while tending to the babies.",
+        "sentence_cn": "还配有摇椅，可能是供看护者在照顾婴儿时坐的。",
+        "words": [
+            "Rocking",
+            "chairs",
+            "caregivers",
+            "babies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls have a soft, neutral wallpaper with a floral or whimsical pattern, and there are windows allowing natural light to filter into the room.",
+        "sentence_cn": "墙壁上贴着柔和的中性色调墙纸，上面绘有花卉或异想天开的图案，窗户允许自然光照进房间。",
+        "words": [
+            "walls",
+            "wallpaper",
+            "pattern",
+            "windows",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is warm and inviting, designed for infant care.",
+        "sentence_cn": "整体氛围温暖而温馨，专为婴儿护理而设计。",
+        "words": [
+            "atmosphere",
+            "infant",
+            "care"
+        ],
+        "id": null
+    }
+]

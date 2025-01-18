@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image features three adult elephants in a natural setting.",
+        "sentence_cn": "照片中是自然环境中的三头成年大象。",
+        "words": [
+            "three",
+            "adult",
+            "elephants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two of the elephants are engaged in what appears to be a playful or friendly interaction, facing each other with their trunks entwined and tusks in close proximity.",
+        "sentence_cn": "两头大象正在进行着看似嬉戏或友好的互动，它们面对面，鼻子缠绕在一起，象牙靠得很近。",
+        "words": [
+            "Two",
+            "elephants",
+            "interaction",
+            "trunks",
+            "tusks",
+            "proximity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The third elephant is standing slightly apart, facing away from the interaction, with its back turned towards the camera.",
+        "sentence_cn": "第三头大象站得稍微远一些，背对着镜头，避开了互动。",
+        "words": [
+            "elephant",
+            "interaction",
+            "back",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is a mix of dry soil and sparse grass, suggesting a savanna-like environment.",
+        "sentence_cn": "地面由干土和稀疏的草混合而成，表明环境类似于大草原。",
+        "words": [
+            "ground",
+            "mix",
+            "soil",
+            "grass",
+            "savanna",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is dense green vegetation and trees, indicating a lush, natural habitat.",
+        "sentence_cn": "背景中有茂密的绿色植被和树木，表明这里是一个郁郁葱葱的自然栖息地。",
+        "words": [
+            "background",
+            "vegetation",
+            "trees",
+            "habitat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere seems calm and natural, typical of a wildlife environment.",
+        "sentence_cn": "整体氛围显得平静而自然，典型的野生动物环境。",
+        "words": [
+            "atmosphere",
+            "wildlife",
+            "environment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image features a plate that has an open sandwich on it.",
+        "sentence_cn": "图中盘子里有一个开口的三明治。",
+        "words": [
+            "plate",
+            "sandwich"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sandwich includes layers of sliced meat, possibly roast beef, and a generous portion of mixed green lettuce.",
+        "sentence_cn": "三明治里有多层肉片，可能还有烤牛肉，以及大量的混合绿色生菜。",
+        "words": [
+            "sandwich",
+            "layers",
+            "meat",
+            "beef",
+            "portion",
+            "lettuce"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sandwich is served on white bread.",
+        "sentence_cn": "三明治夹在白面包里。",
+        "words": [
+            "sandwich",
+            "bread"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate is white with a blue and red border.",
+        "sentence_cn": "盘子是白色的，带有蓝色和红色的边框。",
+        "words": [
+            "plate",
+            "border"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the sandwich is a plastic cup containing a small amount of milk.",
+        "sentence_cn": "三明治旁边放着一个塑料杯，里面装着少量牛奶。",
+        "words": [
+            "sandwich",
+            "plastic",
+            "cup",
+            "amount",
+            "milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A fork is placed on the plate, and a knife is positioned on the table beside it.",
+        "sentence_cn": "盘子上放着一把叉子，旁边的桌子上放着一把刀。",
+        "words": [
+            "fork",
+            "plate",
+            "knife",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, part of a dark-colored laptop is visible, placed on a countertop or table surface.",
+        "sentence_cn": "在背景中，可以看到深色笔记本电脑的一部分，放置在台面或桌面上。",
+        "words": [
+            "background",
+            "part",
+            "laptop",
+            "countertop",
+            "table",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene suggests a quick meal, possibly eaten at a workspace.",
+        "sentence_cn": "这个场景表明这是一顿快餐，可能是在工作场所吃的。",
+        "words": [
+            "scene",
+            "meal",
+            "workspace"
+        ],
+        "id": null
+    }
+]

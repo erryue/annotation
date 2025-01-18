@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image displays a scenic view of an African savanna landscape.",
+        "sentence_cn": "图像展示了非洲大草原的美景。",
+        "words": [
+            "view",
+            "savanna",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a group of zebras is grazing on the lush green grass.",
+        "sentence_cn": "前景中，一群斑马正在茂盛的绿草上吃草。",
+        "words": [
+            "foreground",
+            "group",
+            "zebras",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their black and white stripes are clearly visible against the greenery.",
+        "sentence_cn": "它们的黑白条纹在绿树的映衬下清晰可见。",
+        "words": [
+            "stripes",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A dirt path winds through the scene on the left side.",
+        "sentence_cn": "一条泥土小路蜿蜒穿过左侧的场景。",
+        "words": [
+            "dirt",
+            "path",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a large tree with a wide canopy provides shade.",
+        "sentence_cn": "右边有一棵树冠宽阔的大树，为人们遮荫。",
+        "words": [
+            "right",
+            "tree",
+            "canopy",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the landscape stretches out to reveal more of the savanna, dotted with small shrubs and trees.",
+        "sentence_cn": "在背景中，景观延伸开来，露出更多的大草原，其间点缀着小灌木和树木。",
+        "words": [
+            "background",
+            "landscape",
+            "savanna",
+            "shrubs",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Rolling hills and a blue, slightly cloudy sky can be seen in the distance.",
+        "sentence_cn": "远处可以看到连绵起伏的山丘和蓝色略带云彩的天空。",
+        "words": [
+            "hills",
+            "sky",
+            "distance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is serene and natural, capturing the essence of the African wilderness.",
+        "sentence_cn": "整体氛围宁静而自然，捕捉了非洲荒野的精髓。",
+        "words": [
+            "atmosphere",
+            "essence",
+            "wilderness"
+        ],
+        "id": null
+    }
+]

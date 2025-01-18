@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image depicts a cozy bedroom with a large bed as the focal point.",
+        "sentence_cn": "图像描绘的是一间舒适的卧室，以一张大床为焦点。",
+        "words": [
+            "bedroom",
+            "bed",
+            "point"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bed features an ornate wooden headboard with intricate carvings and tall posts.",
+        "sentence_cn": "床配有华丽的木质床头板，上面有精致的雕刻和高高的床柱。",
+        "words": [
+            "bed",
+            "headboard",
+            "carvings",
+            "posts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bedding is covered with a light-colored patchwork quilt, and there are several decorative pillows of various patterns and textures, including floral and striped designs.",
+        "sentence_cn": "床上铺着浅色的拼布被子，还有几个不同图案和纹理的装饰枕头，包括花卉和条纹图案。",
+        "words": [
+            "bedding",
+            "patchwork",
+            "quilt",
+            "pillows",
+            "patterns",
+            "textures",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the bed, there are matching wooden nightstands, each with a distinct design.",
+        "sentence_cn": "床的两侧有配套的木质床头柜，每个床头柜都有独特的设计。",
+        "words": [
+            "bed",
+            "nightstands",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left side table has an old-fashioned lamp, a clock, and some small items, while the right side appears to have books or papers and some items partially visible.",
+        "sentence_cn": "左侧桌子上有一盏老式灯、一个钟和一些小物品，而右侧桌子上似乎放着书籍或纸张以及一些部分可见的物品。",
+        "words": [
+            "table",
+            "lamp",
+            "clock",
+            "items",
+            "side",
+            "books",
+            "papers",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the left corner of the room, there is a window with blinds partially drawn, allowing natural light to illuminate the space.",
+        "sentence_cn": "房间的左角有一扇窗户，百叶窗部分拉开，让自然光照亮整个空间。",
+        "words": [
+            "corner",
+            "room",
+            "window",
+            "blinds",
+            "light",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a neutral tone, enhancing the bright and airy feel of the room.",
+        "sentence_cn": "墙壁漆成中性色调，增强了房间明亮通风的感觉。",
+        "words": [
+            "walls",
+            "tone",
+            "feel",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the floor, there is light-colored carpet, contributing to the warm and comfortable ambiance of the room.",
+        "sentence_cn": "地板上铺着浅色的地毯，营造出房间温暖舒适的氛围。",
+        "words": [
+            "floor",
+            "carpet",
+            "ambiance",
+            "room"
+        ],
+        "id": null
+    }
+]

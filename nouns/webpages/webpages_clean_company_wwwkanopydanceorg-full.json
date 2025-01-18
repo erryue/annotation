@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image is a webpage for Kanopy Dance, featuring a sleek design with a black and white background of dancers in motion.",
+        "sentence_cn": "图片是 Kanopy Dance 的网页，其设计时尚，背景为黑白色背景，展现舞者的运动。",
+        "words": [
+            "webpage",
+            "design",
+            "background",
+            "dancers",
+            "motion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The banner headline reads \"Performance Season,\" indicating the 2015-2016 season.",
+        "sentence_cn": "横幅标题为“演出季”，指的是2015-2016演出季。",
+        "words": [
+            "Performance Season,",
+            "banner",
+            "headline",
+            "2015",
+            "2016",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights works by Kanopy's artistic directors and choreographers, emphasizing themes of elegance, humor, romance, and compelling performances.",
+        "sentence_cn": "它突出了 Kanopy 艺术总监和编舞的作品，强调优雅、幽默、浪漫和引人注目的表演主题。",
+        "words": [
+            "works",
+            "directors",
+            "choreographers",
+            "themes",
+            "elegance",
+            "humor",
+            "romance",
+            "performances"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are navigation links on the top menu and right sidebar, including \"About,\" \"Company,\" \"Academy,\" \"Support,\" and \"Contact.\"",
+        "sentence_cn": "顶部菜单和右侧边栏有导航链接，包括“关于”、“公司”、“学院”、“支持”和“联系”。",
+        "words": [
+            "About,",
+            "Company,",
+            "Academy,",
+            "Support,",
+            "Contact.",
+            "navigation",
+            "links",
+            "menu",
+            "sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sidebar provides options like \"Performance Season,\" \"The Academy,\" \"The Studio,\" \"News & Events,\" and \"Dancers.\"",
+        "sentence_cn": "侧边栏提供“演出季”、“学院”、“工作室”、“新闻与活动”和“舞者”等选项。",
+        "words": [
+            "Performance Season,",
+            "The Academy,",
+            "The Studio,",
+            "News & Events,",
+            "Dancers.",
+            "sidebar",
+            "options",
+            "Performance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A highlighted ¡°Read More¡± button is centered on the page.",
+        "sentence_cn": "页面中央突出显示了“阅读更多”按钮。",
+        "words": [
+            "button",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, there's a section titled \"Register for Classes All Ages/Levels,\" followed by two boxes.",
+        "sentence_cn": "横幅下方有一个名为“注册所有年龄/级别的课程”的部分，后面是两个框。",
+        "words": [
+            "Register for Classes All Ages/Levels,",
+            "banner",
+            "section",
+            "Classes",
+            "two",
+            "boxes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The first box is labeled \"UPCOMING\" and describes the Performance Season 2015-2016, and the second box, labeled \"DANCE CLASSES,\" introduces the Academy for Contemporary Dance and Choreography with various class offerings.",
+        "sentence_cn": "第一个框标有“即将推出”，描述了 2015-2016 演出季，第二个框标有“舞蹈课程”，介绍了现代舞蹈和编舞学院提供的各种课程。",
+        "words": [
+            "UPCOMING",
+            "DANCE CLASSES,",
+            "box",
+            "UPCOMING",
+            "Season",
+            "2015",
+            "2016",
+            "box",
+            "DANCE",
+            "CLASSES",
+            "class",
+            "offerings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is modern with accents of orange for buttons and labels, providing a dynamic yet sophisticated look.",
+        "sentence_cn": "整体设计很现代，按钮和标签以橙色点缀，看起来动感而精致。",
+        "words": [
+            "design",
+            "accents",
+            "orange",
+            "buttons",
+            "labels",
+            "look"
+        ],
+        "id": null
+    }
+]

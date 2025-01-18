@@ -1,0 +1,46 @@
+[
+    {
+        "id": "98459ac4-e312-4da0-b325-c3b25ae7ad29",
+        "confidence": 0.91063,
+        "class": "zebra",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 274.17102,
+                        "minY": 235.74295,
+                        "maxX": 388.80658,
+                        "maxY": 499.60757
+                    },
+                    "x": 274.17102,
+                    "y": 235.74295,
+                    "w": 114.63556,
+                    "h": 263.86462
+                }
+            }
+        }
+    },
+    {
+        "id": "f45bdfdf-751b-4edf-b68d-a7016210db63",
+        "confidence": 0.85024,
+        "class": "zebra",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 210.67731,
+                        "minY": 224.20847,
+                        "maxX": 307.28052,
+                        "maxY": 472.76575
+                    },
+                    "x": 210.67731,
+                    "y": 224.20847,
+                    "w": 96.60321000000002,
+                    "h": 248.55728000000002
+                }
+            }
+        }
+    }
+]

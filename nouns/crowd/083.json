@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image depicts a group of four people engaged in conversation in what appears to be a lobby or informal setting.",
+        "sentence_cn": "图片描绘的是四个人在大厅或非正式场合中交谈的场景。",
+        "words": [
+            "group",
+            "four",
+            "people",
+            "conversation",
+            "lobby"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The environment is dimly lit, with a warm ambiance from the lamps in the background.",
+        "sentence_cn": "环境灯光昏暗，背景灯光营造出温暖的氛围。",
+        "words": [
+            "environment",
+            "ambiance",
+            "lamps",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Person Details:",
+        "sentence_cn": "1. 个人资料:",
+        "words": [
+            "Person Details",
+            "Person",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - One person is wearing a black top and has short, dark hair.",
+        "sentence_cn": "- 一个人穿着黑色上衣，留着黑色的短发。",
+        "words": [
+            "One",
+            "person",
+            "top",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Another individual wears a blue long-sleeve shirt and blue jeans, with long blonde hair.",
+        "sentence_cn": "- 另一个人穿着蓝色长袖衬衫和蓝色牛仔裤，留着金色长发。",
+        "words": [
+            "individual",
+            "sleeve",
+            "shirt",
+            "jeans",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A person in a green shirt and jeans has short hair and is wearing a gray hat.",
+        "sentence_cn": "- 穿着绿色衬衫和牛仔裤的人留着短发，戴着灰色帽子。",
+        "words": [
+            "person",
+            "shirt",
+            "jeans",
+            "hair",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Another is wearing a long, blue coat over a red shirt, with blonde hair.",
+        "sentence_cn": "- 另一位身穿蓝色长外套，里面是红色衬衫，有一头金发。",
+        "words": [
+            "coat",
+            "shirt",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Background Activity:",
+        "sentence_cn": "2. 背景活动：",
+        "words": [
+            "Background Activity",
+            "Background",
+            "Activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are additional people seated on chairs, holding cups, and engaged in conversation.",
+        "sentence_cn": "- 还有其他人坐在椅子上，手里拿着杯子，正在交谈。",
+        "words": [
+            "people",
+            "chairs",
+            "cups",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Setting Elements:",
+        "sentence_cn": "3. 设置元素：",
+        "words": [
+            "Setting Elements",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The setting appears to have carpeted flooring with a striped pattern and upholstered furniture.",
+        "sentence_cn": "- 该场景似乎铺有条纹图案的地毯，并配有软垫家具。",
+        "words": [
+            "flooring",
+            "pattern",
+            "furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Lamps and decor give the area a cozy and relaxed feel.",
+        "sentence_cn": "- 灯具和装饰给该区域带来舒适和轻松的感觉。",
+        "words": [
+            "Lamps",
+            "decor",
+            "area",
+            "feel"
+        ],
+        "id": null
+    }
+]

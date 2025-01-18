@@ -1,0 +1,24 @@
+[
+    {
+        "id": "25ad2325-ae61-44ea-ad85-987c06c9dd46",
+        "confidence": 0.91941,
+        "class": "teddy bear",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 15.13147,
+                        "minY": 97.09387,
+                        "maxX": 297.72217,
+                        "maxY": 397.35809
+                    },
+                    "x": 15.13147,
+                    "y": 97.09387,
+                    "w": 282.5907,
+                    "h": 300.26422
+                }
+            }
+        }
+    }
+]

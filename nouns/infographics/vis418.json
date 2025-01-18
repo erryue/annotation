@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": "The image is a map of the United States showing the membership distribution of states in different assessment consortia.",
+        "sentence_cn": "该图是美国地图，显示了各州在不同评估联盟中的成员分布情况。",
+        "words": [
+            "map",
+            "the",
+            "United",
+            "States",
+            "membership",
+            "distribution",
+            "states",
+            "assessment",
+            "consortia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The map is divided into four categories based on the consortium membership:",
+        "sentence_cn": "该地图根据联盟成员身份分为四类：",
+        "words": [
+            "map",
+            "four",
+            "categories",
+            "consortium",
+            "membership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Smarter Balanced Assessment Consortium (25 states): These states are colored in dark blue.",
+        "sentence_cn": "1. 智能平衡评估联盟（25 个州）：这些州以深蓝色表示。",
+        "words": [
+            "Smarter Balanced Assessment Consortium (25 states):",
+            "25",
+            "states",
+            "states",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are primarily located in the western, northern, and northeastern regions.",
+        "sentence_cn": "它们主要位于西部、北部和东北地区。",
+        "words": [
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Partnership for Assessment of Readiness for College and Careers (PARCC) - 22 states plus D.C.: These states are colored in orange.",
+        "sentence_cn": "2. 大学与职业准备情况评估合作伙伴关系 (PARCC) - 22 个州及华盛顿特区：这些州以橙色表示。",
+        "words": [
+            "Partnership for Assessment of Readiness for College and Careers (PARCC) - 22 states plus D.C.:",
+            "22",
+            "states",
+            "D.C.",
+            "states",
+            "orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are mainly in the eastern and southern regions.",
+        "sentence_cn": "主要分布在东部和南部地区。",
+        "words": [
+            "regions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Both Consortia (3 states): These states are indicated with orange and blue diagonal stripes.",
+        "sentence_cn": "3. 两个联盟（3 个州）：这些州以橙色和蓝色斜条纹表示。",
+        "words": [
+            "Both Consortia (3 states):",
+            "Consortia",
+            "3",
+            "states",
+            "states",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The states are North Dakota, Colorado, and New Hampshire.",
+        "sentence_cn": "这些州是北达科他州、科罗拉多州和新罕布什尔州。",
+        "words": [
+            "states",
+            "North",
+            "Dakota",
+            "Colorado",
+            "New",
+            "Hampshire"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. None (6 states): These states did not join any consortium and are colored in teal.",
+        "sentence_cn": "4. 无（6 个州）：这些州未加入任何联盟，因此以青色表示。",
+        "words": [
+            "None (6 states):",
+            "None",
+            "6",
+            "states",
+            "states",
+            "consortium",
+            "teal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They include Texas, Virginia, Nebraska, Alaska, and Minnesota.",
+        "sentence_cn": "其中包括德克萨斯州、弗吉尼亚州、内布拉斯加州、阿拉斯加州和明尼苏达州。",
+        "words": [
+            "Texas",
+            "Virginia",
+            "Nebraska",
+            "Alaska",
+            "Minnesota"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, a headline reads \"ASSESSMENT CONSORTIA MEMBERSHIP\" with a subheading stating ¡°$360 million in federal grants has gone to groups of states developing common assessments.¡±",
+        "sentence_cn": "顶部的标题写着“评估联盟成员资格”，副标题写着“3.6 亿美元的联邦拨款已发放给各州制定共同评估的团体。”",
+        "words": [
+            "ASSESSMENT CONSORTIA MEMBERSHIP",
+            "top",
+            "headline",
+            "MEMBERSHIP",
+            "subheading",
+            "°",
+            "360",
+            "million",
+            "grants",
+            "groups",
+            "states"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A legend at the bottom shows the color codes for the different categories, and the source of the information is indicated as the Smarter Balanced Assessment Consortium and the Partnership for Assessment of Readiness for College and Careers.",
+        "sentence_cn": "底部的图例显示了不同类别的颜色代码，信息来源标明为智能平衡评估联盟和大学及职业准备评估伙伴关系。",
+        "words": [
+            "legend",
+            "bottom",
+            "color",
+            "codes",
+            "categories",
+            "source",
+            "information"
+        ],
+        "id": null
+    }
+]

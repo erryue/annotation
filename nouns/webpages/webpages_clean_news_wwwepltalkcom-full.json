@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from \"World Soccer Talk\" featuring various soccer-related news and updates.",
+        "sentence_cn": "该图片是“世界足球谈话”网页的截图，其中包含各种与足球相关的新闻和更新。",
+        "words": [
+            "World Soccer Talk",
+            "webpage",
+            "soccer",
+            "news",
+            "updates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section highlights international games available on US TV and streaming, with a large image of an Adidas Brazuca soccer ball, which was used in the FIFA World Cup Brazil.",
+        "sentence_cn": "顶部部分重点介绍了美国电视和流媒体上播放的国际比赛，其中有一张巴西世界杯上使用的阿迪达斯“Brazuca”足球的大图片。",
+        "words": [
+            "section",
+            "games",
+            "US",
+            "TV",
+            "streaming",
+            "soccer",
+            "ball"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Headlines on the right mention EPL transfer deals and Bundesliga viewing guides.",
+        "sentence_cn": "右侧的标题提到了英超联赛的转会交易和德甲联赛观看指南。",
+        "words": [
+            "Headlines",
+            "right",
+            "transfer",
+            "deals",
+            "viewing",
+            "guides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, the content is split into three sections:",
+        "sentence_cn": "下面，内容分为三个部分：",
+        "words": [
+            "content",
+            "three",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. What's New: Features a \"Fox Soccer 2Go\" interface with upcoming live matches, including Czech Republic v Kazakhstan, Italy v Malta, and Belgium v Bosnia and Herzegovina.",
+        "sentence_cn": "1. 新功能：采用“Fox Soccer 2Go”界面，播放即将举行的现场比赛，包括捷克共和国对阵哈萨克斯坦、意大利对阵马耳他以及比利时对阵波斯尼亚和黑塞哥维那。",
+        "words": [
+            "What's New",
+            "Fox Soccer 2Go",
+            "interface",
+            "matches",
+            "Czech",
+            "Republic",
+            "Kazakhstan",
+            "Italy",
+            "Malta",
+            "Belgium",
+            "Bosnia",
+            "and",
+            "Herzegovina"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. What's Rising: Discusses Stoke City's rejection of Norwich¡¯s bid for Jonathan Walters, with an accompanying image of a soccer player in a jersey.",
+        "sentence_cn": "2. 最新动态：讨论了斯托克城拒绝诺维奇队对乔纳森·沃尔特斯的报价，并附上了一张身穿球衣的足球运动员的图片。",
+        "words": [
+            "What's Rising",
+            "rejection",
+            "bid",
+            "soccer",
+            "player",
+            "jersey"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. What's Hot: Contains a story about a player named Zelalem joining the US men¡¯s national team history at Rangers, with a photo of a man surrounded by reporters.",
+        "sentence_cn": "3. 热点：包含一个名为泽拉莱姆的球员加入美国男子国家队流浪者队的历史，并附有一张男子被记者团团围住的照片。",
+        "words": [
+            "What's Hot",
+            "story",
+            "player",
+            "US",
+            "men¡¯s",
+            "team",
+            "history",
+            "photo",
+            "man",
+            "reporters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header includes navigation links for \"Transfer News,\" \"TV Schedules,\" \"EPL News,\" \"Podcasts,\" and more.",
+        "sentence_cn": "标题包括“转会新闻”、“电视节目表”、“英超新闻”、“播客”等导航链接。",
+        "words": [
+            "Transfer News,",
+            "TV Schedules,",
+            "EPL News,",
+            "Podcasts,",
+            "header",
+            "navigation",
+            "links",
+            "Podcasts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website layout is clean with clear sections for different types of content.",
+        "sentence_cn": "网站布局清晰，不同类型内容的划分清晰。",
+        "words": [
+            "website",
+            "layout",
+            "sections",
+            "types",
+            "content"
+        ],
+        "id": null
+    }
+]

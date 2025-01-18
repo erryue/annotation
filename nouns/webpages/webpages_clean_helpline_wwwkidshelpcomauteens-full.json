@@ -1,0 +1,201 @@
+[
+    {
+        "sentence": "The image is a colorful webpage from Kids Helpline, a service for young people in Australia.",
+        "sentence_cn": "该图是澳大利亚为青少年提供的服务“儿童求助热线”的一个彩色网页。",
+        "words": [
+            "webpage",
+            "service",
+            "people",
+            "Australia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is predominantly blue with various sections and features available for navigation.",
+        "sentence_cn": "该页面主要以蓝色为主，其中有各种可供导航的部分和功能。",
+        "words": [
+            "page",
+            "sections",
+            "features",
+            "navigation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top left, there is the Kids Helpline logo.",
+        "sentence_cn": "左上角是儿童求助热线的标志。",
+        "words": [
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, it states, \"Welcome to Kids Helpline,\" and describes the service as a free, private, and confidential counseling service for young people aged between 5 and 25.",
+        "sentence_cn": "下面写着“欢迎来到儿童帮助热线”，并将该服务描述为针对 5 岁至 25 岁年轻人的免费、私密和保密的咨询服务。",
+        "words": [
+            "Welcome to Kids Helpline,",
+            "service",
+            "counseling",
+            "service",
+            "people",
+            "5",
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Prominent buttons for contacting a counselor are included: a pink button for calling \"1800 55 1800,\" a blue button for \"Web Counselling,\" and a green button for \"Email Counselling.\"",
+        "sentence_cn": "其中包括联系咨询师的显眼按钮：粉色按钮用于拨打“1800 55 1800”，蓝色按钮用于“网络咨询”，绿色按钮用于“电子邮件咨询”。",
+        "words": [
+            "1800 55 1800,",
+            "Web Counselling,",
+            "Email Counselling.",
+            "buttons",
+            "counselor",
+            "button",
+            "1800",
+            "55",
+            "1800",
+            "button",
+            "Counselling",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page emphasizes that they can discuss various topics, such as relationships, friends in need, school or study worries, and feelings of anger or confusion.",
+        "sentence_cn": "该页面强调，他们可以讨论各种话题，例如人际关系、需要帮助的朋友、学校或学习的烦恼以及愤怒或困惑的感受。",
+        "words": [
+            "page",
+            "topics",
+            "relationships",
+            "friends",
+            "need",
+            "school",
+            "study",
+            "worries",
+            "feelings",
+            "anger",
+            "confusion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A section highlighted in orange introduces \"NEW! Social Support,\" allowing users to chat with peers.",
+        "sentence_cn": "以橙色突出显示的部分介绍了“新！社交支持”，允许用户与同伴聊天。",
+        "words": [
+            "NEW! Social Support,",
+            "section",
+            "orange",
+            "users",
+            "peers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there's a section for users to participate in a poll titled \"Have Your Say\" about the benefits of having one's own money, with options like setting a savings goal or choosing a prepaid plan for a phone.",
+        "sentence_cn": "右侧有一个名为“发表您的意见”的民意调查部分，供用户参与有关拥有自己的钱的好处的调查，其中有设置储蓄目标或选择手机预付费计划等选项。",
+        "words": [
+            "Have Your Say",
+            "right",
+            "section",
+            "users",
+            "poll",
+            "Say",
+            "benefits",
+            "money",
+            "options",
+            "savings",
+            "goal",
+            "plan",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several navigation links are scattered throughout, offering access to additional information about topics like money matters, sexuality, identity, and dealing with difficult news.",
+        "sentence_cn": "整个过程中分布着几个导航链接，提供有关金钱问题、性、身份和处理困难消息等主题的更多信息。",
+        "words": [
+            "navigation",
+            "links",
+            "access",
+            "information",
+            "topics",
+            "money",
+            "matters",
+            "sexuality",
+            "identity",
+            "news"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom contains links categorized under headers like \"Get Help,\" \"Your Space,\" \"Get Info,\" \"About Us,\" and \"Get Involved.\"",
+        "sentence_cn": "底部包含按“获取帮助”、“您的空间”、“获取信息”、“关于我们”和“参与”等标题分类的链接。",
+        "words": [
+            "Get Help,",
+            "Your Space,",
+            "Get Info,",
+            "About Us,",
+            "Get Involved.",
+            "bottom",
+            "links",
+            "headers",
+            "Help",
+            "Space",
+            "Info"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These links provide information about counseling services, activities, how to make cyberspace better, and ways to get involved with the helpline.",
+        "sentence_cn": "这些链接提供有关咨询服务、活动、如何改善网络空间以及如何参与热线的信息。",
+        "words": [
+            "links",
+            "information",
+            "counseling",
+            "services",
+            "activities",
+            "cyberspace",
+            "ways",
+            "helpline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Visual elements include an image of smiling young people and cartoons or graphics promoting cyberspace safety and user interaction.",
+        "sentence_cn": "视觉元素包括微笑的年轻人的图像以及促进网络空间安全和用户互动的卡通或图形。",
+        "words": [
+            "elements",
+            "people",
+            "cartoons",
+            "graphics",
+            "cyberspace",
+            "safety",
+            "user",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s a search bar at the top right corner for site navigation.",
+        "sentence_cn": "右上角有一个搜索栏，用于网站导航。",
+        "words": [
+            "search",
+            "bar",
+            "corner",
+            "site",
+            "navigation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is friendly and accessible, catering to a young audience.",
+        "sentence_cn": "整体设计友好且易于理解，迎合年轻观众的需求。",
+        "words": [
+            "design",
+            "audience"
+        ],
+        "id": null
+    }
+]

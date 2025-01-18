@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "The image depicts a grassy enclosure with two zebras and a giraffe.",
+        "sentence_cn": "图像描绘的是一片草地围栏，里面有两只斑马和一只长颈鹿。",
+        "words": [
+            "enclosure",
+            "two",
+            "zebras",
+            "giraffe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are in the foreground, grazing on the grass.",
+        "sentence_cn": "斑马位于前景中，正在草地上吃草。",
+        "words": [
+            "zebras",
+            "foreground",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their distinctive black and white stripes are clearly visible, creating a striking contrast against the green grass.",
+        "sentence_cn": "它们独特的黑白条纹清晰可见，与绿色的草地形成鲜明的对比。",
+        "words": [
+            "stripes",
+            "contrast",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a giraffe stands near a metal fence, also surrounded by greenery.",
+        "sentence_cn": "背景中，一只长颈鹿站在金属栅栏旁，周围也被绿色植物包围。",
+        "words": [
+            "background",
+            "giraffe",
+            "metal",
+            "fence",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffe's long neck and legs make it towering over the scene.",
+        "sentence_cn": "长颈鹿的长脖子和长腿使它显得格外高大。",
+        "words": [
+            "giraffe",
+            "neck",
+            "legs",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background consists of dense green foliage, partially shading the area.",
+        "sentence_cn": "背景由茂密的绿叶组成，遮蔽了部分区域。",
+        "words": [
+            "background",
+            "foliage",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The enclosure appears to be part of a zoo or wildlife park.",
+        "sentence_cn": "这个围栏看上去是动物园或野生动物园的一部分。",
+        "words": [
+            "enclosure",
+            "part",
+            "zoo",
+            "wildlife",
+            "park"
+        ],
+        "id": null
+    }
+]

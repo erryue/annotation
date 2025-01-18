@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image displays a tutorial screen from the \"Emoji Trolls\" app by DreamWorks.",
+        "sentence_cn": "该图显示的是梦工厂出品的“Emoji Trolls”应用程序的教程屏幕。",
+        "words": [
+            "Emoji Trolls",
+            "tutorial",
+            "screen",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features cartoonish hair motifs of various vibrant colors, suggestive of the Trolls theme.",
+        "sentence_cn": "背景以各种鲜艳色彩的卡通头发图案为特色，暗示了巨魔的主题。",
+        "words": [
+            "background",
+            "hair",
+            "motifs",
+            "colors",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tutorial text reads:",
+        "sentence_cn": "教程正文如下：",
+        "words": [
+            "tutorial",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Within Emoji Trolls, tap the emoji you want to share and then select your favorite app to share with.\"",
+        "sentence_cn": "“在 Emoji Trolls 中，点击您想要分享的表情符号，然后选择您最喜欢的应用程序进行分享。”",
+        "words": [
+            "Within Emoji Trolls, tap the emoji you want to share and then select your favorite app to share with.",
+            "emoji",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the text, there's an option to choose an app to share an emoji.",
+        "sentence_cn": "在文本下方，有一个选项可以选择一个应用程序来分享表情符号。",
+        "words": [
+            "text",
+            "option",
+            "app",
+            "emoji"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Displayed icons include:",
+        "sentence_cn": "显示的图标包括：",
+        "words": [
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Instagram",
+        "sentence_cn": "- Instagram",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Messenger",
+        "sentence_cn": "- 信使",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Twitter (for tweeting)",
+        "sentence_cn": "- Twitter（用于发推文）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Twitter (for direct messaging)",
+        "sentence_cn": "- Twitter（用于直接消息传递）",
+        "words": [
+            "messaging"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the screen are app icons and the \"Emoji Trolls\" logo, and at the bottom is a menu bar with possible selections.",
+        "sentence_cn": "屏幕顶部是应用程序图标和“Emoji Trolls”标志，底部是带有可选选项的菜单栏。",
+        "words": [
+            "Emoji Trolls",
+            "top",
+            "screen",
+            "app",
+            "icons",
+            "logo",
+            "bottom",
+            "menu",
+            "bar",
+            "selections"
+        ],
+        "id": null
+    }
+]

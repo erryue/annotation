@@ -1,0 +1,399 @@
+[
+    {
+        "sentence": "The image is a screenshot of a website's homepage, specifically \"Logan Banner.\"",
+        "sentence_cn": "该图片是某个网站主页的截图，具体来说是“Logan Banner”。",
+        "words": [
+            "Logan Banner.",
+            "website",
+            "homepage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Header:",
+        "sentence_cn": "### 标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Logo and Social Media Icons: At the top left, the \"Logan Banner\" logo is displayed along with social media icons (Facebook, Twitter, Instagram, Email, Trophy, RSS).",
+        "sentence_cn": "- 标志和社交媒体图标：左上角显示“Logan Banner”标志以及社交媒体图标（Facebook、Twitter、Instagram、电子邮件、奖杯、RSS）。",
+        "words": [
+            "Logo and Social Media Icons",
+            "Logan Banner",
+            "Media",
+            "Icons",
+            "left",
+            "logo",
+            "media",
+            "icons",
+            "RSS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Advertisement: Below the header, there's a banner ad for Kingsford Charcoal, featuring \"Applewood\" and a call to \"Get recipe.\"",
+        "sentence_cn": "- 广告：标题下方是 Kingsford Charcoal 的横幅广告，以“Applewood”为特色，并呼吁“获取食谱”。",
+        "words": [
+            "Advertisement",
+            "Applewood",
+            "Get recipe.",
+            "header",
+            "banner",
+            "ad",
+            "call",
+            "recipe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation Bar: A red navigation bar is present with menu items like Home, News, Sports, Obits, Opinion, Features, Calendar, Entertainment, Classifieds, Businesses, Finance, Subscription.",
+        "sentence_cn": "- 导航栏：红色导航栏包含主页、新闻、体育、讣告、观点、功能、日历、娱乐、分类广告、商业、金融、订阅等菜单项。",
+        "words": [
+            "Navigation Bar",
+            "Navigation",
+            "Bar",
+            "navigation",
+            "bar",
+            "menu",
+            "items",
+            "Home",
+            "Sports",
+            "Obits",
+            "Opinion",
+            "Features",
+            "Calendar",
+            "Entertainment",
+            "Classifieds",
+            "Businesses",
+            "Finance",
+            "Subscription"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Content Sections:",
+        "sentence_cn": "### 内容部分：",
+        "words": [
+            "Content",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Top Stories (Left Column)",
+        "sentence_cn": "#### 头条新闻（左栏）",
+        "words": [
+            "Stories",
+            "Column"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Displays a news story about the \"Logan Shrine Club picnic\" with an associated image showing people around a table with a large cake.",
+        "sentence_cn": "- 显示有关“洛根神社俱乐部野餐”的新闻报道，并附有一张相关图片，显示人们围坐在一张放着大蛋糕的桌子旁。",
+        "words": [
+            "Logan Shrine Club picnic",
+            "news",
+            "story",
+            "picnic",
+            "people",
+            "table",
+            "cake"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation arrows suggest multiple stories can be rotated through this section.",
+        "sentence_cn": "- 导航箭头表明多个故事可以通过此部分轮换。",
+        "words": [
+            "Navigation",
+            "arrows",
+            "stories",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### News Updates (Center Column)",
+        "sentence_cn": "#### 新闻更新（中心栏）",
+        "words": [
+            "News",
+            "Updates",
+            "Center",
+            "Column"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A list of news articles with snippets:",
+        "sentence_cn": "- 带有片段的新闻文章列表：",
+        "words": [
+            "list",
+            "news",
+            "articles",
+            "snippets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Logan Shrine Club picnic\" ¨C 2:04 am, 0 comments.",
+        "sentence_cn": "- “洛根神社俱乐部野餐” – 凌晨 2:04，0 条评论。",
+        "words": [
+            "Logan Shrine Club picnic",
+            "picnic",
+            "2:04",
+            "am",
+            "0",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Capito visits Logan CoC\" ¨C 2:03 am, 0 comments.",
+        "sentence_cn": "- “Capito 访问 Logan CoC” ¨C 凌晨 2:03，0 条评论。",
+        "words": [
+            "Capito visits Logan CoC",
+            "2:03",
+            "am",
+            "0",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Conley sentenced over pawned guns\" ¨C 2:03 am, 1 comment.",
+        "sentence_cn": "- “康利因典当枪支被判刑”¨C 凌晨 2:03，1 条评论。",
+        "words": [
+            "Conley sentenced over pawned guns",
+            "guns",
+            "2:03",
+            "am",
+            "1",
+            "comment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Prater pleads guilty\" ¨C 2:02 am, 1 comment.",
+        "sentence_cn": "— “普拉特认罪” – 凌晨 2:02，1 条评论。",
+        "words": [
+            "Prater pleads guilty",
+            "2:02",
+            "am",
+            "1",
+            "comment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Boil Water Advisory issued\" ¨C Updated 3:31 pm, 3 comments.",
+        "sentence_cn": "- “发布煮沸水警告” – 下午 3:31 更新，3 条评论。",
+        "words": [
+            "Boil Water Advisory issued",
+            "3:31",
+            "pm",
+            "3",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Ladder training at Verdunville VFD\" ¨C 1:06 am, 0 comments.",
+        "sentence_cn": "- “在 Verdunville VFD 进行梯子训练” – 凌晨 1:06，0 条评论。",
+        "words": [
+            "Ladder training at Verdunville VFD",
+            "Ladder",
+            "training",
+            "1:06",
+            "am",
+            "0",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Man arrested on four counts of sexual assault.\"",
+        "sentence_cn": "- “一名男子因四项性侵犯指控被捕。”",
+        "words": [
+            "Man arrested on four counts of sexual assault.",
+            "Man",
+            "four",
+            "counts",
+            "assault"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Classifieds (Right Column)",
+        "sentence_cn": "#### 分类广告（右栏）",
+        "words": [
+            "Classifieds",
+            "Column"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Titled \"Jobs\" with navigation arrows, suggesting multiple classifieds can be browsed.",
+        "sentence_cn": "- 标题为“工作”，并带有导航箭头，表明可以浏览多个分类广告。",
+        "words": [
+            "Jobs",
+            "Jobs",
+            "navigation",
+            "arrows",
+            "classifieds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Sports Section (Bottom Left)",
+        "sentence_cn": "### 体育部分（左下）",
+        "words": [
+            "#",
+            "#",
+            "Sports",
+            "Section",
+            "Left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Contains headlines:",
+        "sentence_cn": "- 包含标题：",
+        "words": [
+            "headlines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Sherman football player¡¯s ¡®miracle¡¯ story\" ¨C September 2nd, 2015.",
+        "sentence_cn": "- “谢尔曼足球运动员的‘奇迹’故事”——2015 年 9 月 2 日。",
+        "words": [
+            "Sherman football player¡¯s ¡®miracle¡¯ story",
+            "football",
+            "player¡¯s",
+            "miracle¡¯",
+            "story",
+            "2nd",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Cats to face Shady¡¯s spread offense\" ¨C September 2nd, 2015.",
+        "sentence_cn": "- “猫队将面对 Shady 的传播进攻”——2015 年 9 月 2 日。",
+        "words": [
+            "Cats to face Shady¡¯s spread offense",
+            "Cats",
+            "spread",
+            "offense",
+            "2nd",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The date is mentioned alongside each headline with a count of comments.",
+        "sentence_cn": "- 每个标题旁边都注明了日期和评论数。",
+        "words": [
+            "date",
+            "headline",
+            "count",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Weather and Additional Ads (Top Right)",
+        "sentence_cn": "### 天气和附加广告（右上）",
+        "words": [
+            "Weather",
+            "Ads",
+            "Top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Displays the weather for Logan, WV, as \"79.0¡ã Cloudy.\"",
+        "sentence_cn": "- 显示西弗吉尼亚州洛根市的天气为“79.0° 多云”。",
+        "words": [
+            "79.0¡ã Cloudy.",
+            "weather",
+            "Logan",
+            "WV",
+            "79.0¡ã"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An ad for \"C&W Discount Furniture Co.\" with a listed phone number.",
+        "sentence_cn": "- 一则“C&W 折扣家具公司”的广告，其中列出了电话号码。",
+        "words": [
+            "C&W Discount Furniture Co.",
+            "ad",
+            "phone",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Another advertisement for \"State Farm\" offering \"Discounts up to 40%.\"",
+        "sentence_cn": "- 另一则“State Farm”广告提供“高达 40% 的折扣”。",
+        "words": [
+            "State Farm",
+            "Discounts up to 40%.",
+            "Discounts",
+            "40"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Footer:",
+        "sentence_cn": "＃＃＃ 页脚：",
+        "words": [
+            "Footer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Search Bar: A search bar with an \"Articles\" dropdown and magnifying glass icon for searching content on the site.",
+        "sentence_cn": "- 搜索栏：带有“文章”下拉菜单和放大镜图标的搜索栏，用于搜索网站上的内容。",
+        "words": [
+            "Search Bar",
+            "Articles",
+            "Search",
+            "Bar",
+            "search",
+            "bar",
+            "Articles",
+            "dropdown",
+            "magnifying",
+            "glass",
+            "icon",
+            "content",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall layout is divided into sections with clear navigation and categorization of content for easy browsing.",
+        "sentence_cn": "整体布局分为多个部分，导航清晰，内容分类，方便浏览。",
+        "words": [
+            "layout",
+            "sections",
+            "navigation",
+            "categorization",
+            "content",
+            "browsing"
+        ],
+        "id": null
+    }
+]

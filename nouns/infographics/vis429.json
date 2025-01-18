@@ -1,0 +1,236 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Walk to Work: Different Styles of Walking.\"",
+        "sentence_cn": "该图是一张信息图，标题为“步行上班：不同的步行风格”。",
+        "words": [
+            "Walk to Work: Different Styles of Walking.",
+            "Styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It showcases various walking styles, each associated with a specific calorie burn rate and a \"cool factor.\"",
+        "sentence_cn": "它展示了各种步行风格，每种风格都与特定的卡路里燃烧率和“酷炫因素”相关。",
+        "words": [
+            "cool factor.",
+            "walking",
+            "styles",
+            "calorie",
+            "burn",
+            "rate",
+            "factor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic includes the following walking styles:",
+        "sentence_cn": "该信息图包括以下步行方式：",
+        "words": [
+            "walking",
+            "styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Flaneur:",
+        "sentence_cn": "1. 漫游者：",
+        "words": [
+            "Flaneur"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Calories/hour: 141",
+        "sentence_cn": "卡路里/小时：141",
+        "words": [
+            "Calories",
+            "hour",
+            "141"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cool Factor: 3",
+        "sentence_cn": "酷炫指数：3",
+        "words": [
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Tech",
+        "sentence_cn": "2. 科技",
+        "words": [
+            "Tech"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Calories/hour: 176",
+        "sentence_cn": "卡路里/小时：176",
+        "words": [
+            "Calories",
+            "hour",
+            "176"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cool Factor: 4",
+        "sentence_cn": "酷炫指数：4",
+        "words": [
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Zombie",
+        "sentence_cn": "3. 僵尸",
+        "words": [
+            "Zombie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Calories/hour: 132",
+        "sentence_cn": "卡路里/小时：132",
+        "words": [
+            "Calories",
+            "hour",
+            "132"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cool Factor: 5",
+        "sentence_cn": "酷炫指数：5",
+        "words": [
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Jive Turkey:",
+        "sentence_cn": "4. Jive Turkey：",
+        "words": [
+            "Jive Turkey",
+            "Jive"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Calories/hour: 422",
+        "sentence_cn": "卡路里/小时：422",
+        "words": [
+            "Calories",
+            "hour",
+            "422"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cool Factor: 7",
+        "sentence_cn": "酷炫指数：7",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Olympic walker:",
+        "sentence_cn": "5. 奥运竞走运动员：",
+        "words": [
+            "Olympic walker",
+            "walker"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Calories/hour: 563",
+        "sentence_cn": "卡路里/小时：563",
+        "words": [
+            "Calories",
+            "hour",
+            "563"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cool Factor: 1",
+        "sentence_cn": "酷炫系数：1",
+        "words": [
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Extreme Walker:",
+        "sentence_cn": "6. 极限步行者：",
+        "words": [
+            "Extreme Walker",
+            "Walker",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Calories/hour: 704",
+        "sentence_cn": "卡路里/小时：704",
+        "words": [
+            "Calories",
+            "hour",
+            "704"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cool Factor: 10",
+        "sentence_cn": "酷炫指数：10",
+        "words": [
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image features silhouettes of people in different walking poses.",
+        "sentence_cn": "图片呈现了人们以不同姿势行走的轮廓。",
+        "words": [
+            "silhouettes",
+            "people",
+            "walking",
+            "poses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is sponsored by Harvey Norman and connectedhealth.",
+        "sentence_cn": "本次活动由 Harvey Norman 和 Connectedhealth 赞助。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The data is according to Nutri-Strategy, focusing on calories burned for an individual with an average weight of 70 kg.",
+        "sentence_cn": "该数据根据 Nutri-Strategy 提供，重点关注平均体重 70 公斤的人燃烧的卡路里。",
+        "words": [
+            "data",
+            "calories",
+            "individual",
+            "weight",
+            "70",
+            "kg"
+        ],
+        "id": null
+    }
+]

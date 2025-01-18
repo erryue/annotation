@@ -1,0 +1,134 @@
+[
+    {
+        "id": "a829d757-4c46-446d-837b-3f705397899b",
+        "confidence": 0.92248,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1191.09473,
+                        "minY": 210.5202,
+                        "maxX": 1757.55798,
+                        "maxY": 976.54266
+                    },
+                    "x": 1191.09473,
+                    "y": 210.5202,
+                    "w": 566.46325,
+                    "h": 766.0224599999999
+                }
+            }
+        }
+    },
+    {
+        "id": "1294dfe0-7415-4572-9abb-901c5790433e",
+        "confidence": 0.87082,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1635.1084,
+                        "minY": 137.43692,
+                        "maxX": 1918.76782,
+                        "maxY": 948.57007
+                    },
+                    "x": 1635.1084,
+                    "y": 137.43692,
+                    "w": 283.65941999999995,
+                    "h": 811.13315
+                }
+            }
+        }
+    },
+    {
+        "id": "1668cb5f-7e36-47e0-bdd2-c6eaf191d882",
+        "confidence": 0.85391,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 455.43307,
+                        "minY": 43.58903,
+                        "maxX": 801.36279,
+                        "maxY": 520.33405
+                    },
+                    "x": 455.43307,
+                    "y": 43.58903,
+                    "w": 345.92972000000003,
+                    "h": 476.74502000000007
+                }
+            }
+        }
+    },
+    {
+        "id": "84de1d63-4613-4a60-a274-9cb847593ab1",
+        "confidence": 0.8248,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1037.30286,
+                        "minY": 18.86093,
+                        "maxX": 1323.46155,
+                        "maxY": 356.11835
+                    },
+                    "x": 1037.30286,
+                    "y": 18.86093,
+                    "w": 286.15869,
+                    "h": 337.25742
+                }
+            }
+        }
+    },
+    {
+        "id": "dfb48c23-5fe4-408f-9a1d-fd75676b248a",
+        "confidence": 0.82204,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1297.28528,
+                        "minY": 44.72273,
+                        "maxX": 1535.00452,
+                        "maxY": 305.53275
+                    },
+                    "x": 1297.28528,
+                    "y": 44.72273,
+                    "w": 237.7192399999999,
+                    "h": 260.81002
+                }
+            }
+        }
+    },
+    {
+        "id": "75278198-4cc2-4c85-a587-096900552927",
+        "confidence": 0.80948,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 727.40173,
+                        "minY": 29.24474,
+                        "maxX": 1074.47314,
+                        "maxY": 432.83719
+                    },
+                    "x": 727.40173,
+                    "y": 29.24474,
+                    "w": 347.07141,
+                    "h": 403.59245000000004
+                }
+            }
+        }
+    }
+]

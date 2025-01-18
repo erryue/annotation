@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image depicts a lush green meadow with five sheep in the foreground.",
+        "sentence_cn": "图像描绘了一片郁郁葱葱的绿色草地，前景有五只绵羊。",
+        "words": [
+            "meadow",
+            "five",
+            "sheep",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep have thick, fluffy wool with black faces and are standing close together.",
+        "sentence_cn": "这些羊的毛又厚又蓬松，脸是黑色的，而且挤在一起。",
+        "words": [
+            "sheep",
+            "wool",
+            "faces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be grazing or moving towards the camera.",
+        "sentence_cn": "它们似乎在吃草或向相机移动。",
+        "words": [
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is vibrant and verdant, indicative of a healthy and fertile landscape.",
+        "sentence_cn": "草儿生机勃勃、翠绿欲滴，显示出一片健康而肥沃的土地。",
+        "words": [
+            "grass",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the distance, a single sheep is seen further up the hill.",
+        "sentence_cn": "远处，山上有一只羊。",
+        "words": [
+            "distance",
+            "sheep",
+            "hill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene is peaceful and pastoral, highlighting a serene rural setting under clear weather conditions.",
+        "sentence_cn": "整体场景宁静而田园，凸显了晴朗天气下宁静的乡村风光。",
+        "words": [
+            "scene",
+            "weather",
+            "conditions"
+        ],
+        "id": null
+    }
+]

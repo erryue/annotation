@@ -1,0 +1,111 @@
+[
+    {
+        "sentence": "The image shows a close-up of a plate of food on a metal outdoor table.",
+        "sentence_cn": "照片为户外金属桌上一盘食物的特写。",
+        "words": [
+            "close",
+            "up",
+            "plate",
+            "food",
+            "metal",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plate has a brown edge and contains several food items:",
+        "sentence_cn": "盘子边缘是棕色的，里面有几种食物：",
+        "words": [
+            "plate",
+            "edge",
+            "food",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Burger: A cheeseburger with a whole wheat bun, a beef patty, and a slice of cheese.",
+        "sentence_cn": "1. 汉堡：一个由全麦面包、牛肉饼和一片奶酪组成的芝士汉堡。",
+        "words": [
+            "Burger",
+            "Burger",
+            "cheeseburger",
+            "wheat",
+            "bun",
+            "beef",
+            "patty",
+            "slice",
+            "cheese"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cheese is slightly melted and peeking out from the side of the bun.",
+        "sentence_cn": "奶酪略微融化并从面包的侧面露出。",
+        "words": [
+            "cheese",
+            "bun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. French Fries: A portion of thick-cut fries, golden brown and arranged in a small pile.",
+        "sentence_cn": "2. 炸薯条：一份厚切的薯条，呈金黄色，摆成一小堆。",
+        "words": [
+            "French Fries",
+            "Fries",
+            "portion",
+            "fries",
+            "pile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Barbecue Rib: A single piece of grilled or barbecued rib placed in the foreground on the edge of the plate.",
+        "sentence_cn": "3. 烧烤排骨：将一块烤或烧烤的排骨放在盘子边缘的前景中。",
+        "words": [
+            "Barbecue Rib",
+            "Barbecue",
+            "Rib",
+            "piece",
+            "rib",
+            "foreground",
+            "edge",
+            "plate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Ketchup: A small pool of ketchup is placed near the fries for dipping.",
+        "sentence_cn": "4. 番茄酱：在薯条附近放一小滩番茄酱，供蘸食。",
+        "words": [
+            "Ketchup",
+            "Ketchup",
+            "pool",
+            "ketchup",
+            "fries",
+            "dipping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows a person in a gray shirt, partially visible, sitting at the table.",
+        "sentence_cn": "背景中可以看到一个穿着灰色衬衫的人坐在桌边，部分可见。",
+        "words": [
+            "background",
+            "person",
+            "shirt",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests the setting is outdoors during a sunny day.",
+        "sentence_cn": "灯光表明场景是在阳光明媚的日子里的户外。",
+        "words": [
+            "lighting",
+            "day"
+        ],
+        "id": null
+    }
+]

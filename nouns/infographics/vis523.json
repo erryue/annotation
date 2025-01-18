@@ -1,0 +1,278 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Life of an Hourlie,\" which illustrates details about Hourlies, including their creation and popularity.",
+        "sentence_cn": "该图是一张名为“小时工的生活”的信息图，其中展示了小时工的详细信息，包括其创作和受欢迎程度。",
+        "words": [
+            "Life of an Hourlie,",
+            "Life",
+            "details",
+            "creation",
+            "popularity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visual Elements:",
+        "sentence_cn": "- 视觉元素：",
+        "words": [
+            "Visual Elements",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Cartoon-style graphics including elements like an airplane, parachutes, a building with floors, conveyor belts, and various vehicles.",
+        "sentence_cn": "- 卡通风格的图形，包括飞机、降落伞、有地板的建筑物、传送带和各种车辆等元素。",
+        "words": [
+            "Cartoon",
+            "style",
+            "graphics",
+            "elements",
+            "airplane",
+            "parachutes",
+            "building",
+            "floors",
+            "conveyor",
+            "belts",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A large central house with multiple floors where Hourlies are produced and managed.",
+        "sentence_cn": "- 一栋拥有多层的大型中央房屋，用于生产和管理小时工。",
+        "words": [
+            "house",
+            "floors",
+            "Hourlies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Textual Elements:",
+        "sentence_cn": "- 文本元素：",
+        "words": [
+            "Textual Elements",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Top Section:",
+        "sentence_cn": "- 顶部部分：",
+        "words": [
+            "Top Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"85% of sellers are based in the UK & US.\"",
+        "sentence_cn": "- “85％的卖家位于英国和美国。”",
+        "words": [
+            "85% of sellers are based in the UK & US.",
+            "85",
+            "sellers",
+            "UK",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"A new Hourlie is created every 8 minutes.\"",
+        "sentence_cn": "- “每 8 分钟就会创建一个新的 Hourlie。”",
+        "words": [
+            "A new Hourlie is created every 8 minutes.",
+            "8",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"On average, each Hourlie is 3.5 hours long.\"",
+        "sentence_cn": "- “平均而言，每个 Hourlie 的时长为 3.5 小时。”",
+        "words": [
+            "On average, each Hourlie is 3.5 hours long.",
+            "3.5",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Nearly 25% of Hourlies are in the design category ¨C it¡¯s all about the portfolio!\"",
+        "sentence_cn": "- “近 25% 的 Hourlies 属于设计类别 — 一切都与作品集有关！”",
+        "words": [
+            "Nearly 25% of Hourlies are in the design category ¨C it¡¯s all about the portfolio!",
+            "25",
+            "design",
+            "category",
+            "portfolio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Middle Section:",
+        "sentence_cn": "- 中间部分：",
+        "words": [
+            "Middle Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"Hourlie Delivery\" with an illustration showing Hourlies being delivered via parachute.",
+        "sentence_cn": "- “Hourlie Delivery” 的插图展示了 Hourlie 通过降落伞运送的过程。",
+        "words": [
+            "Hourlie Delivery",
+            "illustration",
+            "Hourlies",
+            "parachute"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Below the building: \"60% of Hourlies sold, sell more than once.\"",
+        "sentence_cn": "- 建筑物下方：“60% 的小时工已售出，可多次出售。”",
+        "words": [
+            "60% of Hourlies sold, sell more than once.",
+            "building",
+            "60"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bottom Section:",
+        "sentence_cn": "- 底部：",
+        "words": [
+            "Bottom Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - \"What Hourlies Are Popular\" with a chart showing popularity.",
+        "sentence_cn": "- “哪些小时最受欢迎”，并配有显示受欢迎程度的图表。",
+        "words": [
+            "What Hourlies Are Popular",
+            "Hourlies",
+            "chart",
+            "popularity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Design: 24%",
+        "sentence_cn": "设计：24％",
+        "words": [
+            "Design",
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Web Development: 13%",
+        "sentence_cn": "- Web 开发：13%",
+        "words": [
+            "Web",
+            "Development",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Creative Arts: 7%",
+        "sentence_cn": "- 创意艺术：7%",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Social Media: 10%",
+        "sentence_cn": "- 社交媒体：10％",
+        "words": [
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Writing: 10%",
+        "sentence_cn": "- 写作：10％",
+        "words": [
+            "Writing",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "      - Marketing & PR: 6%",
+        "sentence_cn": "- 营销与公关：6%",
+        "words": [
+            "Marketing",
+            "PR",
+            "6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Design Style:",
+        "sentence_cn": "- 设计风格：",
+        "words": [
+            "Design Style",
+            "Design",
+            "Style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Uses a playful and cartoonish style with bright orange and blue colors.",
+        "sentence_cn": "- 采用俏皮的卡通风格，配以明亮的橙色和蓝色。",
+        "words": [
+            "style",
+            "orange",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Includes various dotted paths and arrows to show movement and flow.",
+        "sentence_cn": "- 包括各种虚线路径和箭头来显示运动和流动。",
+        "words": [
+            "paths",
+            "arrows",
+            "movement",
+            "flow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Branding:",
+        "sentence_cn": "- 品牌：",
+        "words": [
+            "Branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The website \"peopleperhour.com\" is mentioned, indicating the source and possibly promoting the platform related to Hourlies.",
+        "sentence_cn": "- 提到了“peopleperhour.com”网站，表明了来源并可能推广与 Hourlies 相关的平台。",
+        "words": [
+            "peopleperhour.com",
+            "website",
+            "source",
+            "platform"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This infographic provides a visual representation of how Hourlies are created, their duration, geographical origins, and the categories they fall into.",
+        "sentence_cn": "此信息图直观地展示了小时表的创建方式、持续时间、地理来源以及所属类别。",
+        "words": [
+            "representation",
+            "duration",
+            "origins",
+            "categories"
+        ],
+        "id": null
+    }
+]

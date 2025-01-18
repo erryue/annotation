@@ -1,92 +1,164 @@
 [
     {
-        "sentence": "The image shows a neatly organized office space with light-colored carpet.",
-        "sentence_cn": "图中显示的是整洁的办公空间，铺有浅色地毯。",
+        "sentence": "The image shows a well-organized home office with a warm and professional atmosphere.",
+        "sentence_cn": "图中显示的是一个井然有序的家庭办公室，充满着温馨而专业的氛围。",
         "words": [
+            "home",
             "office",
-            "space",
-            "carpet"
+            "atmosphere"
         ],
         "id": null
     },
     {
-        "sentence": "On the left, a bookshelf holds several books, VHS tapes, and framed photographs.",
-        "sentence_cn": "左边的书架上放着几本书、VHS 录像带和相框。",
+        "sentence": "Furniture & Layout:",
+        "sentence_cn": "家具与布局：",
         "words": [
+            "Furniture & Layout",
+            "Furniture",
+            "Layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Desk Area: A wooden desk with a hutch against the back wall.",
+        "sentence_cn": "- 桌子区域：一张木桌，靠后墙有一个橱柜。",
+        "words": [
+            "Desk Area",
+            "Desk",
+            "Area",
+            "desk",
+            "hutch",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black office chair is positioned in front of it.",
+        "sentence_cn": "前面摆放着一把黑色的办公椅。",
+        "words": [
+            "office",
+            "chair",
+            "front"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk has a lamp on it.",
+        "sentence_cn": "桌子上有一盏灯。",
+        "words": [
+            "desk",
+            "lamp"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bookshelves: To the left, there¡¯s a tall wooden bookshelf filled with books and personal items, including framed photographs.",
+        "sentence_cn": "- 书架：左边有一个高大的木制书架，上面摆满了书籍和个人物品，包括带框的照片。",
+        "words": [
+            "Bookshelves",
+            "Bookshelves",
             "left",
             "bookshelf",
             "books",
-            "VHS",
-            "tapes",
+            "items",
             "photographs"
         ],
         "id": null
     },
     {
-        "sentence": "A brown leather chair is positioned nearby, facing a desk.",
-        "sentence_cn": "附近摆放着一把棕色皮椅，面朝桌子。",
+        "sentence": "- Chair: A brown leather armchair is placed in front of an old-style CRT monitor on a smaller desk or side table.",
+        "sentence_cn": "- 椅子：一张棕色皮革扶手椅摆放在一张较小的桌子或边桌上的一台老式 CRT 显示器前。",
         "words": [
+            "Chair",
+            "Chair",
             "leather",
-            "chair",
-            "desk"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The desk, made of dark wood, includes a computer monitor and keyboard.",
-        "sentence_cn": "桌子由深色木材制成，配有电脑显示器和键盘。",
-        "words": [
-            "desk",
-            "wood",
-            "computer",
+            "armchair",
+            "front",
+            "style",
+            "CRT",
             "monitor",
-            "keyboard"
+            "desk",
+            "table"
         ],
         "id": null
     },
     {
-        "sentence": "On the walls surrounding the desk are several framed documents, possibly certificates or diplomas.",
-        "sentence_cn": "桌子周围的墙上挂着几份装裱好的文件，可能是证书或文凭。",
+        "sentence": "Decor:",
+        "sentence_cn": "装饰风格：",
         "words": [
-            "walls",
-            "desk",
-            "documents",
+            "Decor",
+            "Decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wall Decor: There are several framed certificates and photographs hanging on the walls.",
+        "sentence_cn": "- 墙面装饰：墙上挂着几张相框的证书和照片。",
+        "words": [
+            "Wall Decor",
+            "Wall",
+            "Decor",
             "certificates",
-            "diplomas"
+            "photographs",
+            "walls"
         ],
         "id": null
     },
     {
-        "sentence": "Above the desk is a wooden hutch with various decorative items, including a small replica of an antenna and other small objects.",
-        "sentence_cn": "桌子上方是一个木制橱柜，里面摆放着各种装饰品，包括一个天线的小型复制品和其他小物件。",
+        "sentence": "- Personal Touches: There are small decorative items on the desk and shelves, including a model airplane and a small bull figurine.",
+        "sentence_cn": "- 个人风格：桌子和架子上有小装饰品，包括模型飞机和小牛雕像。",
         "words": [
-            "desk",
-            "hutch",
+            "Personal Touches",
+            "Touches",
             "items",
-            "replica",
-            "antenna",
-            "objects"
+            "desk",
+            "shelves",
+            "model",
+            "airplane",
+            "bull",
+            "figurine"
         ],
         "id": null
     },
     {
-        "sentence": "To the right, there's a tall wooden filing cabinet.",
-        "sentence_cn": "右边有一个高高的木制文件柜。",
+        "sentence": "Lighting & Flooring:",
+        "sentence_cn": "照明和地板：",
         "words": [
-            "right",
-            "filing",
-            "cabinet"
+            "Lighting & Flooring",
+            "Lighting",
+            "Flooring"
         ],
         "id": null
     },
     {
-        "sentence": "Overall, the room has a clean and professional appearance, lit by fluorescent ceiling lights.",
-        "sentence_cn": "总体而言，房间外观干净、专业，由荧光天花板灯照明。",
+        "sentence": "- The room is lit by overhead fluorescent lights, providing bright, even lighting.",
+        "sentence_cn": "- 房间由高架荧光灯照明，提供明亮均匀的照明。",
         "words": [
             "room",
-            "appearance",
-            "ceiling",
-            "lights"
+            "lights",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The flooring appears to be light-colored carpet, giving a soft look to the room.",
+        "sentence_cn": "- 地板似乎是浅色的地毯，给房间带来柔和的感觉。",
+        "words": [
+            "flooring",
+            "carpet",
+            "look",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the office offers a cozy and personalized environment suitable for work and study.",
+        "sentence_cn": "总体而言，办公室提供了一个舒适且个性化的环境，适合工作和学习。",
+        "words": [
+            "office",
+            "environment",
+            "work",
+            "study"
         ],
         "id": null
     }

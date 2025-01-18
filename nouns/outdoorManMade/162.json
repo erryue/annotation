@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image shows a scenic view of a coastal town, likely a Mediterranean locale.",
+        "sentence_cn": "图片显示的是一个沿海小镇的风景，很可能是地中海地区。",
+        "words": [
+            "view",
+            "town",
+            "Mediterranean",
+            "locale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are numerous buildings with traditional orange terracotta roofs, typical of the region's architecture.",
+        "sentence_cn": "前景中，有许多建筑物有着传统的橙色陶土屋顶，这是该地区典型的建筑风格。",
+        "words": [
+            "foreground",
+            "buildings",
+            "orange",
+            "terracotta",
+            "roofs",
+            "region",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The buildings appear densely packed, suggesting a historic town center with narrow streets.",
+        "sentence_cn": "建筑物看起来密集，表明这是一个街道狭窄、历史悠久的城镇中心。",
+        "words": [
+            "buildings",
+            "town",
+            "center",
+            "streets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The harbor in the midground is filled with a variety of boats, including sailboats and yachts, indicating a popular or upscale maritime spot.",
+        "sentence_cn": "中间的港口停泊着各种船只，包括帆船和游艇，表明这是一个受欢迎或高档的海滨景点。",
+        "words": [
+            "harbor",
+            "midground",
+            "variety",
+            "boats",
+            "sailboats",
+            "yachts",
+            "spot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water is a deep blue, reflecting a clear sky above.",
+        "sentence_cn": "水是深蓝色的，上面倒映着晴朗的天空。",
+        "words": [
+            "water",
+            "blue",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, several small, green islands can be seen dotting the open sea, adding to the picturesque landscape.",
+        "sentence_cn": "在背景中，可以看到几个绿色的小岛点缀在公海上，为风景如画的景色增添了色彩。",
+        "words": [
+            "background",
+            "islands",
+            "sea",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area is lush with vegetation, with shrubbery and trees visible on the islands and the less developed parts of the mainland.",
+        "sentence_cn": "该地区植被茂盛，岛屿上和大陆欠发达地区可见灌木和树木。",
+        "words": [
+            "area",
+            "vegetation",
+            "shrubbery",
+            "trees",
+            "islands",
+            "parts",
+            "mainland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image conveys a tranquil and inviting coastal setting with historical and nautical charm.",
+        "sentence_cn": "总体而言，这幅图像传达出一种宁静而迷人的海滨风光，充满历史和航海魅力。",
+        "words": [
+            "charm"
+        ],
+        "id": null
+    }
+]

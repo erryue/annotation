@@ -1,0 +1,24 @@
+[
+    {
+        "id": "e1053919-5f58-4b56-a933-14ceb8bb0feb",
+        "confidence": 0.84271,
+        "class": "book",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 115.91442,
+                        "minY": 0.0,
+                        "maxX": 847.32715,
+                        "maxY": 782.77673
+                    },
+                    "x": 115.91442,
+                    "y": 0.0,
+                    "w": 731.41273,
+                    "h": 782.77673
+                }
+            }
+        }
+    }
+]

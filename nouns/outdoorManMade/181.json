@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "The image shows an outdoor patio area with a stone-paved floor.",
+        "sentence_cn": "图中显示的是铺有石头地板的室外露台区域。",
+        "words": [
+            "patio",
+            "area",
+            "stone",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's a built-in outdoor kitchen featuring a stainless steel grill and additional kitchen appliances embedded in a stone counter.",
+        "sentence_cn": "右侧有一个内置户外厨房，配有不锈钢烤架和嵌入石台的其他厨房用具。",
+        "words": [
+            "right",
+            "kitchen",
+            "steel",
+            "grill",
+            "kitchen",
+            "appliances",
+            "stone",
+            "counter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop and appliances are integrated into a stone wall that matches the flooring.",
+        "sentence_cn": "台面和电器融入与地板相匹配的石墙中。",
+        "words": [
+            "countertop",
+            "appliances",
+            "stone",
+            "wall",
+            "flooring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there's a covered pavilion supported by wooden posts, also resting on a stone foundation.",
+        "sentence_cn": "左边有一座有顶的亭子，由木柱支撑，同样坐落在石头基座上。",
+        "words": [
+            "left",
+            "pavilion",
+            "posts",
+            "stone",
+            "foundation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pavilion has a wooden roof and shelter from the elements.",
+        "sentence_cn": "亭子有一个木制屋顶，可以遮风避雨。",
+        "words": [
+            "pavilion",
+            "roof",
+            "shelter",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, lush greenery, including trees and shrubs, surrounds the patio, providing a natural ambiance and some privacy.",
+        "sentence_cn": "在背景中，郁郁葱葱的绿色植物，包括树木和灌木，环绕着露台，提供了自然的氛围和一定的隐私。",
+        "words": [
+            "background",
+            "greenery",
+            "trees",
+            "shrubs",
+            "patio",
+            "ambiance",
+            "privacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a space designed for outdoor cooking and entertaining.",
+        "sentence_cn": "整体布置表明这是一个专为户外烹饪和娱乐而设计的空间。",
+        "words": [
+            "space",
+            "cooking",
+            "entertaining"
+        ],
+        "id": null
+    }
+]

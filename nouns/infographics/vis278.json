@@ -1,0 +1,297 @@
+[
+    {
+        "sentence": "The image is a detailed demographic map titled \"A Taxonomy of Transitions\" which depicts racial and ethnic self-identification in Chicago in the year 2000.",
+        "sentence_cn": "该图是一张详细的人口统计地图，名为“转变分类法”，描绘了 2000 年芝加哥的种族和民族自我认同情况。",
+        "words": [
+            "A Taxonomy of Transitions",
+            "map",
+            "self",
+            "identification",
+            "Chicago",
+            "year",
+            "2000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The data is sourced from the U.S. Census and organized at a block level with each dot representing twenty-five people.",
+        "sentence_cn": "数据来源于美国人口普查，按区块级别组织，每个点代表二十五个人。",
+        "words": [
+            "data",
+            "block",
+            "level",
+            "dot",
+            "twenty",
+            "five",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Key Features:",
+        "sentence_cn": "### 主要特点：",
+        "words": [
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Color Coding:",
+        "sentence_cn": "- 颜色编码：",
+        "words": [
+            "Color Coding:",
+            "Color",
+            "Coding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - White population is represented by pink dots.",
+        "sentence_cn": "- 白人群体以粉红色圆点表示。",
+        "words": [
+            "White",
+            "population",
+            "dots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Black population is represented by blue dots.",
+        "sentence_cn": "- 黑色人口以蓝点表示。",
+        "words": [
+            "Black",
+            "population",
+            "dots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Asian population is represented by green dots.",
+        "sentence_cn": "- 亚洲人口以绿点表示。",
+        "words": [
+            "Asian",
+            "population",
+            "dots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Hispanic population is represented by orange dots.",
+        "sentence_cn": "- 西班牙裔人口以橙色圆点表示。",
+        "words": [
+            "Hispanic",
+            "population",
+            "orange",
+            "dots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Other population is represented by gray dots.",
+        "sentence_cn": "- 其他人口以灰点表示。",
+        "words": [
+            "Other",
+            "population",
+            "dots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- City Layout:",
+        "sentence_cn": "- 城市布局：",
+        "words": [
+            "City Layout:",
+            "City",
+            "Layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The map outlines Chicago's official community areas with black lines, displaying a detailed urban layout.",
+        "sentence_cn": "- 地图用黑线勾勒出芝加哥的官方社区区域，展示了详细的城市布局。",
+        "words": [
+            "map",
+            "Chicago",
+            "community",
+            "areas",
+            "lines",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Major roads and the outline of the city are visible, enhancing spatial understanding.",
+        "sentence_cn": "- 主要道路和城市轮廓清晰可见，增强空间理解。",
+        "words": [
+            "roads",
+            "outline",
+            "city",
+            "understanding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Inset Map:",
+        "sentence_cn": "- 插图：",
+        "words": [
+            "Inset Map:",
+            "Map"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- In the bottom left corner, there's an inset map that aggregates the same data by community area.",
+        "sentence_cn": "- 左下角有一个插图，按社区区域汇总了相同的数据。",
+        "words": [
+            "corner",
+            "map",
+            "data",
+            "community",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It uses solid colors to depict majority populations:",
+        "sentence_cn": "它使用纯色来描绘大多数人口：",
+        "words": [
+            "colors",
+            "majority",
+            "populations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Pink for areas where the population is more than 80% white.",
+        "sentence_cn": "- 粉色代表白人人口占人口总数 80% 以上的地区。",
+        "words": [
+            "areas",
+            "population",
+            "80"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Light pink indicates a majority white population without the 80% threshold.",
+        "sentence_cn": "- 浅粉色表示白人占多数，未达到 80% 的门槛。",
+        "words": [
+            "pink",
+            "majority",
+            "population",
+            "80",
+            "threshold"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Blue for more than 80% black areas.",
+        "sentence_cn": "- 超过 80％ 的黑色区域为蓝色。",
+        "words": [
+            "Blue",
+            "80",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Light blue indicates a majority black population without the 80% threshold.",
+        "sentence_cn": "- 浅蓝色表示黑人占多数，未达到 80% 的门槛。",
+        "words": [
+            "blue",
+            "majority",
+            "population",
+            "80",
+            "threshold"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Orange for more than 80% Hispanic areas.",
+        "sentence_cn": "- 橙色代表 80% 以上的西班牙裔地区。",
+        "words": [
+            "80",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Yellow indicates a majority Hispanic population without the 80% threshold.",
+        "sentence_cn": "- 黄色表示西班牙裔人口占多数，但未达到 80% 的门槛。",
+        "words": [
+            "Yellow",
+            "majority",
+            "population",
+            "80",
+            "threshold"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Gray for areas with no majority.",
+        "sentence_cn": "- 灰色表示没有多数的区域。",
+        "words": [
+            "areas",
+            "majority"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Scale:",
+        "sentence_cn": "- 规模：",
+        "words": [
+            "Scale:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The map has a scale of 1:200,000, providing context for the size and distribution of the population.",
+        "sentence_cn": "- 该地图的比例为 1:200,000，提供了人口规模和分布的背景信息。",
+        "words": [
+            "map",
+            "scale",
+            "1:200,000",
+            "context",
+            "size",
+            "distribution",
+            "population"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Overall Impression:",
+        "sentence_cn": "### 总体印象：",
+        "words": [
+            "#",
+            "Impression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The map visually represents the racial and ethnic distribution in Chicago, showing clear patterns of segregation and concentration of specific groups within different parts of the city.",
+        "sentence_cn": "该地图直观地呈现了芝加哥的种族和民族分布，显示了城市不同地区内特定群体的隔离和集中的清晰模式。",
+        "words": [
+            "map",
+            "distribution",
+            "Chicago",
+            "patterns",
+            "segregation",
+            "concentration",
+            "groups",
+            "parts",
+            "city"
+        ],
+        "id": null
+    }
+]

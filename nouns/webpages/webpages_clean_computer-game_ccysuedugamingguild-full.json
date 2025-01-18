@@ -1,0 +1,274 @@
+[
+    {
+        "sentence": "The image appears to be a webpage from the early internet era, specifically for the YSU Gaming Guild.",
+        "sentence_cn": "该图像似乎是互联网时代早期的一个网页，专门为 YSU 游戏协会设计。",
+        "words": [
+            "webpage",
+            "internet",
+            "era"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Background and Design:",
+        "sentence_cn": "背景与设计：",
+        "words": [
+            "Background and Design:",
+            "Background",
+            "Design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The background is black with a chaotic, fractal-like pattern in various colors, giving it a retro web design appearance.",
+        "sentence_cn": "- 背景为黑色，带有各种颜色的混乱的分形图案，使其具有复古的网页设计外观。",
+        "words": [
+            "background",
+            "fractal",
+            "pattern",
+            "colors",
+            "web",
+            "design",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text is displayed in bright colors, including red, green, cyan, and yellow, which stand out against the dark background.",
+        "sentence_cn": "- 文本以明亮的颜色显示，包括红色、绿色、青色和黄色，在深色背景下显得格外突出。",
+        "words": [
+            "Text",
+            "colors",
+            "red",
+            "green",
+            "cyan",
+            "yellow",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Header:",
+        "sentence_cn": "标题：",
+        "words": [
+            "Header:",
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top of the page welcomes visitors with the message, \"Welcome to the YSU Gaming Guild Home Page,\" using a combination of cyan, red, and green fonts.",
+        "sentence_cn": "- 页面顶部使用青色、红色和绿色字体组合，用“欢迎来到 YSU 游戏公会主页”来欢迎访客。",
+        "words": [
+            "Welcome to the YSU Gaming Guild Home Page,",
+            "top",
+            "page",
+            "visitors",
+            "message",
+            "combination",
+            "fonts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the welcome message, it is stated that this is an \"official RPGA Network Club,\" with the RPGA Network logo prominently displayed.",
+        "sentence_cn": "- 在欢迎信息下方，声明这是一个“官方 RPGA 网络俱乐部”，并且突出显示了 RPGA 网络徽标。",
+        "words": [
+            "official RPGA Network Club,",
+            "message",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Content:",
+        "sentence_cn": "主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There¡¯s a large green banner with \"Sanctioned Club\" written on it.",
+        "sentence_cn": "- 有一面巨大的绿色横幅，上面写着“受认可的俱乐部”。",
+        "words": [
+            "Sanctioned Club",
+            "banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Information about the YSU Gaming Guild is provided: it includes students, faculty, staff, and alumni who are interested in gaming.",
+        "sentence_cn": "- 提供有关 YSU 游戏协会的信息：其中包括对游戏感兴趣的学生、教师、员工和校友。",
+        "words": [
+            "Information",
+            "students",
+            "faculty",
+            "staff",
+            "alumni",
+            "gaming"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It mentions that the guild was founded in 1998.",
+        "sentence_cn": "其中提到该协会成立于 1998 年。",
+        "words": [
+            "guild",
+            "1998"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Announcements include details on events such as \"STEEL VALLEY CON 2001\" and \"Super Lan Party 2001,\" with dates that were likely upcoming at the time.",
+        "sentence_cn": "- 公告包括“STEEL VALLEY CON 2001”和“Super Lan Party 2001”等活动的详细信息，以及当时可能举行的日期。",
+        "words": [
+            "STEEL VALLEY CON 2001",
+            "Super Lan Party 2001,",
+            "Announcements",
+            "details",
+            "events",
+            "2001",
+            "2001",
+            "dates",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The text uses exclamatory language like \"New! Updated RPGA Schedule\" and \"The LC MODS are IN!!!\" to grab attention.",
+        "sentence_cn": "- 文本使用感叹词，如“新！更新的RPGA时间表”和“LC MODS 来了！！！”来吸引注意力。",
+        "words": [
+            "New! Updated RPGA Schedule",
+            "The LC MODS are IN!!!",
+            "text",
+            "language",
+            "MODS",
+            "attention"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Side Bar:",
+        "sentence_cn": "侧边栏：",
+        "words": [
+            "Side Bar:",
+            "Side",
+            "Bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left, there is a vertical sidebar with navigation buttons or links, including text and icons.",
+        "sentence_cn": "- 左侧有一个垂直侧边栏，其中包含导航按钮或链接，包括文本和图标。",
+        "words": [
+            "left",
+            "sidebar",
+            "navigation",
+            "buttons",
+            "links",
+            "text",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These include:",
+        "sentence_cn": "这些包括：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - An image featuring \"OFFICIAL\" text.",
+        "sentence_cn": "- 一张带有“官方”文字的图片。",
+        "words": [
+            "OFFICIAL",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Links/buttons labeled \"AniPike\" and \"EVERGLIDE.\"",
+        "sentence_cn": "- 标有“AniPike”和“EVERGLIDE”的链接/按钮。",
+        "words": [
+            "AniPike",
+            "EVERGLIDE.",
+            "Links",
+            "buttons",
+            "EVERGLIDE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Small icon images, possibly related to navigation or enhancement of the sidebar, are scattered along this section.",
+        "sentence_cn": "- 小图标图像散布于此部分，可能与导航或侧边栏的增强有关。",
+        "words": [
+            "icon",
+            "images",
+            "navigation",
+            "enhancement",
+            "sidebar",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional Visuals:",
+        "sentence_cn": "附加视觉效果：",
+        "words": [
+            "Additional Visuals:",
+            "Visuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There are two crossed swords with the \"YSU\" emblem placed near the top, reinforcing the gaming and guild theme.",
+        "sentence_cn": "- 有两把交叉的剑，顶部附近有“YSU”徽章，强化了游戏和公会的主题。",
+        "words": [
+            "YSU",
+            "two",
+            "swords",
+            "emblem",
+            "top",
+            "gaming",
+            "guild",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the bottom of the page snippet shown, there's an advertisement or promotional image for \"Hachi¡¯s.\"",
+        "sentence_cn": "- 在显示的页面片段的底部，有“Hachi's”的广告或促销图片。",
+        "words": [
+            "Hachi¡¯s.",
+            "bottom",
+            "page",
+            "snippet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the design reflects a typical late 1990s to early 2000s internet aesthetic, characterized by vibrant colors, busy backgrounds, and a mix of images and hyperlinked text.",
+        "sentence_cn": "总体而言，该设计反映了 20 世纪 90 年代末至 21 世纪初典型的互联网美学，其特点是色彩鲜艳、背景繁杂、图像与超链接文本混合。",
+        "words": [
+            "design",
+            "1990s",
+            "2000s",
+            "internet",
+            "aesthetic",
+            "colors",
+            "backgrounds",
+            "mix",
+            "images",
+            "text"
+        ],
+        "id": null
+    }
+]

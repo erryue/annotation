@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image depicts a multi-lane highway with several cars and a motorcycle traveling in both directions.",
+        "sentence_cn": "图像描绘了一条多车道高速公路，多辆汽车和一辆摩托车在两个方向上行驶。",
+        "words": [
+            "highway",
+            "cars",
+            "motorcycle",
+            "directions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The road is divided by a grassy median.",
+        "sentence_cn": "道路被一条草地分隔开。",
+        "words": [
+            "road",
+            "median"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Large, tall light poles line the highway.",
+        "sentence_cn": "高速公路两旁，排列着高大、粗壮的灯柱。",
+        "words": [
+            "poles",
+            "highway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An overpass bridge crosses the highway, with traffic visible on it as well.",
+        "sentence_cn": "一座立交桥横跨高速公路，桥上的交通也清晰可见。",
+        "words": [
+            "overpass",
+            "bridge",
+            "highway",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the highway, there are well-maintained grassy areas, some with trees and bushes.",
+        "sentence_cn": "高速公路两侧均为维护良好的草地，部分草地上还生长着树木和灌木丛。",
+        "words": [
+            "highway",
+            "areas",
+            "trees",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding area includes hilly terrain with houses and more trees in the background.",
+        "sentence_cn": "周围地区为丘陵地带，背景中有房屋和树木。",
+        "words": [
+            "area",
+            "terrain",
+            "houses",
+            "trees",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The weather appears overcast with a cloudy sky.",
+        "sentence_cn": "天气阴沉，天空多云。",
+        "words": [
+            "weather",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are multiple lanes marked with clear white lines, and traffic seems moderate.",
+        "sentence_cn": "多条车道标有清晰的白线，交通状况似乎一般。",
+        "words": [
+            "lanes",
+            "lines",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A blue road sign can be seen on the right side of the image.",
+        "sentence_cn": "图像右侧可以看到蓝色路标。",
+        "words": [
+            "road",
+            "sign"
+        ],
+        "id": null
+    }
+]

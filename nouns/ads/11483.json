@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image is an advertisement for Ben & Jerry's Raspberry Fudge Chunk Greek Frozen Yogurt.",
+        "sentence_cn": "该图片是 Ben & Jerry's Raspberry Fudge Chunk Greek Frozen Yogurt 的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The main visual shows a large, tilted container of the yogurt with the lid open.",
+        "sentence_cn": "主图显示一个装有酸奶的大容器，容器倾斜，盖子打开。",
+        "words": [
+            "visual",
+            "container",
+            "yogurt",
+            "lid"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Inside, there is a whimsical scene resembling Mount Olympus with Greek mythology elements.",
+        "sentence_cn": "里面有一个类似奥林匹斯山的奇妙场景，带有希腊神话元素。",
+        "words": [
+            "scene",
+            "Mount",
+            "Olympus",
+            "mythology",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A figure that resembles Zeus is sitting on a cloud, holding a lightning bolt.",
+        "sentence_cn": "一个类似宙斯的人物坐在云端，手里拿着一道闪电。",
+        "words": [
+            "figure",
+            "cloud",
+            "lightning",
+            "bolt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Aphrodite-like figures and classical columns are seen, with a backdrop of greenery and ancient architecture.",
+        "sentence_cn": "可以看到阿芙罗狄蒂般的人物和古典的柱子，背景是绿色植物和古老的建筑。",
+        "words": [
+            "Aphrodite",
+            "figures",
+            "columns",
+            "backdrop",
+            "greenery",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the container, there is a bowl of the frozen yogurt, topped with raspberries and fudge chunks.",
+        "sentence_cn": "容器前面放着一碗冻酸奶，上面放着覆盆子和软糖块。",
+        "words": [
+            "front",
+            "container",
+            "bowl",
+            "yogurt",
+            "raspberries",
+            "fudge",
+            "chunks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two smaller bowls hold additional raspberries and fudge.",
+        "sentence_cn": "两个小碗里装有额外的覆盆子和软糖。",
+        "words": [
+            "Two",
+            "bowls",
+            "raspberries",
+            "fudge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text below explains a playful story of Zeus craving Greek yogurt, which became frozen after an accident, and he found it divine.",
+        "sentence_cn": "下面的文字解释了一个有趣的故事，宙斯渴望吃希腊酸奶，这种酸奶在一次事故后被冻住了，而他发现它非常美味。",
+        "words": [
+            "text",
+            "story",
+            "yogurt",
+            "accident"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This inspired the creation of Raspberry Fudge Chunk Greek Frozen Yogurt.",
+        "sentence_cn": "这启发了覆盆子软糖块希腊冷冻酸奶的创作。",
+        "words": [
+            "creation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline at the end reads, \"It's really Greekin' good.\"",
+        "sentence_cn": "最后的标语写着：“这真的是希腊美食。”",
+        "words": [
+            "It's really Greekin' good.",
+            "tagline",
+            "end"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image uses Greek mythology humorously to market the frozen yogurt.",
+        "sentence_cn": "总体而言，该图像幽默地利用希腊神话来推销冻酸奶。",
+        "words": [
+            "mythology",
+            "yogurt"
+        ],
+        "id": null
+    }
+]

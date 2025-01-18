@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from \"Pak Tribune,\" a Pakistan news service.",
+        "sentence_cn": "该图片是巴基斯坦新闻社“Pak Tribune”网页的截图。",
+        "words": [
+            "Pak Tribune,",
+            "webpage",
+            "Pakistan",
+            "news",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is dated Thursday, Aug 27, 2015.",
+        "sentence_cn": "该页面的发布日期为 2015 年 8 月 27 日星期四。",
+        "words": [
+            "page",
+            "27",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features various sections such as Main, Sports, Business, Entertainment, and more.",
+        "sentence_cn": "它具有主页、体育、商业、娱乐等各种专栏。",
+        "words": [
+            "sections",
+            "Main",
+            "Business"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a headline: \"Aamir vows to make strong comeback,\" discussing a cricketer named M Aamir and his return to domestic cricket.",
+        "sentence_cn": "最上方有一个标题：“阿米尔发誓强势回归”，讨论一位名叫 M 阿米尔的板球运动员重返国内板球界。",
+        "words": [
+            "Aamir vows to make strong comeback,",
+            "top",
+            "headline",
+            "comeback",
+            "cricketer",
+            "return",
+            "cricket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside this story, there's a picture of the cricketer.",
+        "sentence_cn": "在这个故事旁边，还有一张板球运动员的照片。",
+        "words": [
+            "story",
+            "picture",
+            "cricketer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, under \"Top Stories,\" there are summaries of other news articles:",
+        "sentence_cn": "下面的“头条新闻”下有其他新闻文章的摘要：",
+        "words": [
+            "Top Stories,",
+            "summaries",
+            "news",
+            "articles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"Rameez in favour of playing Yasir against Australia\"",
+        "sentence_cn": "1.“拉米兹赞成让亚西尔对阵澳大利亚”",
+        "words": [
+            "Rameez in favour of playing Yasir against Australia",
+            "favour",
+            "Australia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"Pelvis injury forces Pakistan's Irfan out of World Cup\"",
+        "sentence_cn": "2.“巴基斯坦选手伊尔凡因骨盆受伤退出世界杯”",
+        "words": [
+            "Pelvis injury forces Pakistan's Irfan out of World Cup",
+            "Pelvis",
+            "injury",
+            "Pakistan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. \"Pressure on Australia not Pakistan, says Sarfraz\"",
+        "sentence_cn": "3.“萨法拉兹称，应该向澳大利亚施压，而不是巴基斯坦”",
+        "words": [
+            "Pressure on Australia not Pakistan, says Sarfraz",
+            "Pressure",
+            "Australia",
+            "Pakistan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a sidebar with a video player showing people holding what appear to be large boards while running.",
+        "sentence_cn": "侧边栏的视频播放器显示人们在跑步时手持看似大板的东西。",
+        "words": [
+            "sidebar",
+            "video",
+            "player",
+            "people",
+            "boards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom right, there's another article: \"Sharapova, Djokovic advance at Indian Wells, Wozniacki out,\" accompanied by an image of a female tennis player wearing a visor.",
+        "sentence_cn": "右下角还有一篇文章：“莎拉波娃、德约科维奇晋级印第安维尔斯公开赛，沃兹尼亚奇出局”，并配上了一张戴着护目镜的女网球运动员的图片。",
+        "words": [
+            "Sharapova, Djokovic advance at Indian Wells, Wozniacki out,",
+            "right",
+            "article",
+            "tennis",
+            "player",
+            "visor"
+        ],
+        "id": null
+    }
+]

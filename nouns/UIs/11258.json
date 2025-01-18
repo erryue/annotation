@@ -1,0 +1,165 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile application interface titled \"Love Quotes.\"",
+        "sentence_cn": "该图片似乎是一款名为“爱情语录”的手机应用程序界面的截图。",
+        "words": [
+            "Love Quotes.",
+            "application",
+            "interface",
+            "Love",
+            "Quotes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The interface includes several sections:",
+        "sentence_cn": "该界面包括几个部分：",
+        "words": [
+            "interface",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Header: The top bar shows the title \"Love Quotes\" with an image thumbnail on the left.",
+        "sentence_cn": "1. 标题：顶部栏显示标题“爱情语录”，左侧显示图片缩略图。",
+        "words": [
+            "Header",
+            "Love Quotes",
+            "Header",
+            "bar",
+            "title",
+            "Love",
+            "Quotes",
+            "thumbnail",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "System icons for notifications, battery, time (12:28), and other typical status indicators are at the top.",
+        "sentence_cn": "通知、电池、时间（12:28）和其他典型状态指示器的系统图标位于顶部。",
+        "words": [
+            "System",
+            "icons",
+            "notifications",
+            "battery",
+            "time",
+            "12:28",
+            "status",
+            "indicators",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Main Content: Below the header is a section with an image containing a love quote.",
+        "sentence_cn": "2. 主要内容：标题下方是包含爱情名言的图片部分。",
+        "words": [
+            "Main Content",
+            "Content",
+            "header",
+            "section",
+            "love",
+            "quote"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The quote reads, \"Sometimes your nearness takes my breath away and all the things I want to say can find no voice.",
+        "sentence_cn": "歌词写道：“有时你的靠近让我无法呼吸，所有我想说的话都无法用言语表达。",
+        "words": [
+            "quote",
+            "nearness",
+            "breath",
+            "things",
+            "voice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Then in silence, I can only hope my eyes will speak my heart.\"",
+        "sentence_cn": "然后在沉默中，我只希望我的眼睛能说出我的心声。”",
+        "words": [
+            "silence",
+            "eyes",
+            "heart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Options: Below the image are four clickable options:",
+        "sentence_cn": "3. 选项：图片下方有四个可点击的选项：",
+        "words": [
+            "Options",
+            "Options",
+            "four",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Send To Friend: Represented by an icon of a person with an arrow.",
+        "sentence_cn": "- 发送给朋友：用一个带有箭头的人形图标表示。",
+        "words": [
+            "Send To Friend",
+            "icon",
+            "person",
+            "arrow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Rate Application: Illustrated by a star icon.",
+        "sentence_cn": "- 评分应用：以星形图标表示。",
+        "words": [
+            "Rate Application",
+            "Rate",
+            "Application",
+            "star",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Send Feedback: Shown with a feedback box icon.",
+        "sentence_cn": "- 发送反馈：显示反馈框图标。",
+        "words": [
+            "Send Feedback",
+            "Feedback",
+            "feedback",
+            "box",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Our Work: Displayed with a briefcase icon.",
+        "sentence_cn": "- 我们的工作：以公文包图标显示。",
+        "words": [
+            "Our Work",
+            "Work",
+            "briefcase",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Exit Button: At the bottom, an orange bar with the word \"Exit\" allows users to close the application.",
+        "sentence_cn": "4. 退出按钮：在底部，一个带有“退出”字样的橙色条允许用户关闭应用程序。",
+        "words": [
+            "Exit Button",
+            "Exit",
+            "Exit",
+            "Button",
+            "bottom",
+            "orange",
+            "bar",
+            "word",
+            "Exit",
+            "users",
+            "application"
+        ],
+        "id": null
+    }
+]

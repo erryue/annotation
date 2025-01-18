@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image shows a neatly arranged workstation.",
+        "sentence_cn": "图中显示的是一个排列整齐的工作站。",
+        "words": [
+            "workstation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden desk has several items on it:",
+        "sentence_cn": "一张木桌上放着几件物品：",
+        "words": [
+            "desk",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Laptop: A MacBook is open on the desk, displaying an email or webpage with folders on the left side and an open window on the right.",
+        "sentence_cn": "1. 笔记本电脑：桌上打开了一台 MacBook，显示一封电子邮件或网页，左侧是文件夹，右侧有一个打开的窗口。",
+        "words": [
+            "Laptop",
+            "Laptop",
+            "desk",
+            "email",
+            "webpage",
+            "folders",
+            "window",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Speakers: There are two round, white speakers with black fronts on either side of the laptop.",
+        "sentence_cn": "2. 扬声器：笔记本电脑两侧有两个圆形、白色、正面为黑色的扬声器。",
+        "words": [
+            "Speakers",
+            "Speakers",
+            "two",
+            "speakers",
+            "fronts",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Desk Lamp: On the left side of the desk, there is a modern, white desk lamp with a curved design.",
+        "sentence_cn": "3. 台灯：桌子左侧有一盏现代化的白色弧形设计台灯。",
+        "words": [
+            "Desk Lamp",
+            "Desk",
+            "Lamp",
+            "desk",
+            "desk",
+            "lamp",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Containers: To the right of the laptop, there are three plastic containers in different colors.",
+        "sentence_cn": "4. 容器：笔记本电脑的右侧有三个不同颜色的塑料容器。",
+        "words": [
+            "Containers",
+            "Containers",
+            "right",
+            "laptop",
+            "three",
+            "containers",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The blue and orange containers seem to hold various office supplies like pens and clips, while the green one appears empty.",
+        "sentence_cn": "蓝色和橙色的容器似乎装有各种办公用品，如钢笔和夹子，而绿色的容器看起来是空的。",
+        "words": [
+            "containers",
+            "office",
+            "supplies",
+            "pens",
+            "clips",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Chair: A black office chair with a mesh back is partially visible on the right.",
+        "sentence_cn": "5. 椅子：右侧可部分看到一把带有网状靠背的黑色办公椅。",
+        "words": [
+            "Chair",
+            "Chair",
+            "office",
+            "chair",
+            "mesh",
+            "back",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. View: There is a large window in the background that provides a view of outdoor seating with tables and chairs.",
+        "sentence_cn": "6. 景观：背景中有一个大窗户，可以看到摆放着桌椅的户外座位。",
+        "words": [
+            "View",
+            "View",
+            "window",
+            "background",
+            "view",
+            "seating",
+            "tables",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk has a clean and organized appearance in a well-lit office environment.",
+        "sentence_cn": "在光线充足的办公环境中，办公桌看起来干净、整洁。",
+        "words": [
+            "desk",
+            "appearance",
+            "office",
+            "environment"
+        ],
+        "id": null
+    }
+]

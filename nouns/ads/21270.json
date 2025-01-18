@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image is a two-panel comic strip featuring cartoon fish characters.",
+        "sentence_cn": "该图像是一幅双联漫画，其中有卡通鱼人物。",
+        "words": [
+            "two",
+            "panel",
+            "comic",
+            "strip",
+            "cartoon",
+            "fish",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Panel 1:",
+        "sentence_cn": "面板 1：",
+        "words": [
+            "Panel 1:",
+            "Panel",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Two fish are depicted swimming in a flooded area of what seems to be Canada, indicated by a submerged sign with \"Canada\" partially visible.",
+        "sentence_cn": "- 图中描绘了两条鱼在看似加拿大的洪水区域内游动，水下的标志牌上部分显示“加拿大”字样。",
+        "words": [
+            "Canada",
+            "Two",
+            "fish",
+            "area",
+            "Canada",
+            "sign",
+            "Canada"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The water is colored blue, and the background includes a building, partially underwater, to emphasize the flooding.",
+        "sentence_cn": "- 水是蓝色的，背景包括一栋部分在水下的建筑物，以强调洪水。",
+        "words": [
+            "water",
+            "background",
+            "building",
+            "flooding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A speech bubble above asks, \"What do you do when Canada's flooded?\"",
+        "sentence_cn": "- 上面的对话框询问“加拿大发生洪水时你会怎么做？”",
+        "words": [
+            "What do you do when Canada's flooded?",
+            "speech",
+            "bubble",
+            "Canada"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Panel 2:",
+        "sentence_cn": "面板 2：",
+        "words": [
+            "Panel 2:",
+            "Panel",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The same two fish are now on dry land, still in Canada, as the background features a grass and a partially visible sign.",
+        "sentence_cn": "- 同样的两条鱼现在仍在加拿大的陆地上，背景是一片草地和一个部分可见的标志。",
+        "words": [
+            "two",
+            "fish",
+            "land",
+            "Canada",
+            "background",
+            "grass",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- One fish is holding a can of \"Canada Dry,\" a reference to the brand of ginger ale.",
+        "sentence_cn": "- 一条鱼拿着一罐“Canada Dry”，这是姜汁汽水的品牌。",
+        "words": [
+            "Canada Dry,",
+            "One",
+            "fish",
+            "can",
+            "reference",
+            "brand",
+            "ginger",
+            "ale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The other fish, looking surprised, has a speech bubble saying, \"Hey, the water is going away...\"",
+        "sentence_cn": "- 另一条鱼看起来很惊讶，上面有一个对话框说：“嘿，水正在消失......”",
+        "words": [
+            "Hey, the water is going away...",
+            "fish",
+            "speech",
+            "bubble",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The text above reads, \"You drink CANADA DRY...\"",
+        "sentence_cn": "- 上面的文字写着“你喝的是 CANADA DRY……”",
+        "words": [
+            "You drink CANADA DRY...",
+            "text",
+            "DRY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The comic humorously links the name of the soft drink \"Canada Dry\" to the phrase about drinking all the floodwater to make it dry.",
+        "sentence_cn": "漫画幽默地将这种饮料的名字“Canada Dry”与喝光所有洪水以使洪水干涸的短语联系起来。",
+        "words": [
+            "Canada Dry",
+            "name",
+            "drink",
+            "phrase",
+            "floodwater"
+        ],
+        "id": null
+    }
+]

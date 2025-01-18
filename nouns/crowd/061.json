@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a group of six people engaged in a meeting or discussion around a conference table.",
+        "sentence_cn": "图像描绘了六个人围坐在会议桌旁开会或讨论的情景。",
+        "words": [
+            "group",
+            "six",
+            "people",
+            "meeting",
+            "discussion",
+            "conference",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The participants are dressed in professional attire, and they appear to be focused and engaged in conversation.",
+        "sentence_cn": "参与者身着职业装，看上去注意力非常集中，并且正在进行交谈。",
+        "words": [
+            "participants",
+            "attire",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person at the center-left of the image is speaking or making a point, with one hand raised as if gesturing to emphasize their thought.",
+        "sentence_cn": "- 图像左侧中心的人正在讲话或表达观点，并举起一只手，仿佛在做手势强调自己的想法。",
+        "words": [
+            "person",
+            "center",
+            "left",
+            "point",
+            "one",
+            "hand",
+            "thought"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- An older man sitting next to him, dressed in a gray suit, listens intently.",
+        "sentence_cn": "- 一位坐在他旁边、穿着灰色西装的老人正专心地听着。",
+        "words": [
+            "man",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The others around the table are also attentive, some with hands resting on their chins, suggesting deep concentration or contemplation.",
+        "sentence_cn": "- 桌子周围的其他人也很专注，有些人用手托着下巴，表明他们正在深度集中注意力或沉思。",
+        "words": [
+            "others",
+            "table",
+            "hands",
+            "chins",
+            "concentration",
+            "contemplation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the table, there are documents, notepads, and several glasses and cups, indicating a professional setting, possibly in an office.",
+        "sentence_cn": "- 桌子上有文件、记事本和几个玻璃杯和茶杯，表明这是一个专业的环境，可能是在办公室。",
+        "words": [
+            "table",
+            "documents",
+            "notepads",
+            "glasses",
+            "cups",
+            "office"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The background is softly blurred, focusing attention on the group, and suggesting a modern office environment with natural lighting filtering in.",
+        "sentence_cn": "- 背景柔和模糊，将注意力集中在群体上，并暗示着自然光线照射下的现代化办公环境。",
+        "words": [
+            "background",
+            "attention",
+            "group",
+            "office",
+            "environment",
+            "lighting"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image depicts a scene in front of a large, historic stone building, likely a cathedral or church, featuring gothic architectural elements such as tall arched windows and entryways.",
+        "sentence_cn": "该图描绘的是一座大型历史性石头建筑前的场景，可能是一座大教堂或教堂，具有高拱形窗户和入口等哥特式建筑元素。",
+        "words": [
+            "scene",
+            "front",
+            "stone",
+            "building",
+            "cathedral",
+            "church",
+            "elements",
+            "windows",
+            "entryways"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the building, there is a horse-drawn carriage.",
+        "sentence_cn": "楼前停着一辆马车。",
+        "words": [
+            "front",
+            "building",
+            "horse",
+            "carriage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The carriage is pink with white wheels, and the horse is brown with a harness.",
+        "sentence_cn": "马车是粉红色的，配有白色的车轮，马是棕色的，配有马具。",
+        "words": [
+            "carriage",
+            "wheels",
+            "horse",
+            "harness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area is well-lit with ornate street lamps lining the walkway.",
+        "sentence_cn": "该地区光线充足，人行道两旁有华丽的路灯。",
+        "words": [
+            "area",
+            "street",
+            "lamps",
+            "walkway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several people are visible near the building's entrance, which is illuminated from within, adding warmth to the otherwise grey stone structure.",
+        "sentence_cn": "建筑物入口附近可以看到几个人，建筑物内部被照亮，给原本灰色的石头结构增添了温暖。",
+        "words": [
+            "people",
+            "building",
+            "entrance",
+            "warmth",
+            "stone",
+            "structure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Banners are hanging above the entrances on the building's facade.",
+        "sentence_cn": "横幅悬挂在建筑物正面的入口上方。",
+        "words": [
+            "Banners",
+            "entrances",
+            "building",
+            "facade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is serene and somewhat nostalgic.",
+        "sentence_cn": "整体氛围宁静而又略带怀旧气息。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "sentence": "The image shows a compact, neatly organized bathroom.",
+        "sentence_cn": "图中显示的是紧凑、整洁的浴室。",
+        "words": [
+            "bathroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point is a small vanity with a round, white vessel sink mounted on a marble countertop.",
+        "sentence_cn": "焦点是一个小梳妆台，大理石台面上安装着一个圆形的白色面盆。",
+        "words": [
+            "point",
+            "vanity",
+            "vessel",
+            "sink",
+            "marble",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A modern, sleek faucet complements the sink.",
+        "sentence_cn": "时尚现代的水龙头与水槽相得益彰。",
+        "words": [
+            "faucet",
+            "sink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the countertop, there is a wooden cabinet with metal handles.",
+        "sentence_cn": "台面下方有一个带金属把手的木质橱柜。",
+        "words": [
+            "countertop",
+            "cabinet",
+            "metal",
+            "handles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a toilet with a white tank.",
+        "sentence_cn": "左边有一个带白色水箱的马桶。",
+        "words": [
+            "left",
+            "toilet",
+            "tank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the tank's top, there's a glass shelf holding a few items.",
+        "sentence_cn": "水箱顶部有一个玻璃架，上面放着一些物品。",
+        "words": [
+            "tank",
+            "top",
+            "glass",
+            "shelf",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Positioned on the shelf is a small bouquet of pink roses in a vase, a folded paper item, and a small decorative piece.",
+        "sentence_cn": "架子上摆放着花瓶中的一小束粉红玫瑰、一件折纸物品和一件小装饰品。",
+        "words": [
+            "shelf",
+            "bouquet",
+            "roses",
+            "vase",
+            "paper",
+            "item",
+            "piece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the sink, there's also a toothbrush and possibly a toothpaste tube.",
+        "sentence_cn": "水槽旁边还有一把牙刷，可能还有一管牙膏。",
+        "words": [
+            "sink",
+            "toothbrush",
+            "toothpaste",
+            "tube"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Directly above the sink is a mirrored medicine cabinet.",
+        "sentence_cn": "水槽正上方是一个带镜面的药柜。",
+        "words": [
+            "sink",
+            "medicine",
+            "cabinet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall near the shelf, there's a light switch or outlet.",
+        "sentence_cn": "在架子附近的墙上，有一个电灯开关或插座。",
+        "words": [
+            "wall",
+            "shelf",
+            "switch",
+            "outlet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A towel ring is mounted on the side of the vanity, holding a white hand towel.",
+        "sentence_cn": "梳妆台侧面安装有一个毛巾环，可以挂一条白色的手巾。",
+        "words": [
+            "towel",
+            "ring",
+            "vanity",
+            "hand",
+            "towel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bathroom's walls are a light color, and part of a bathtub with a white shower curtain is visible on the right side of the image.",
+        "sentence_cn": "浴室的墙壁是浅色的，图片右侧可以看到部分浴缸和白色浴帘。",
+        "words": [
+            "bathroom",
+            "walls",
+            "color",
+            "part",
+            "bathtub",
+            "shower",
+            "curtain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is composed of dark tiles, adding contrast to the light tones of the room.",
+        "sentence_cn": "地板由深色瓷砖铺成，与房间的浅色调形成对比。",
+        "words": [
+            "flooring",
+            "tiles",
+            "contrast",
+            "tones",
+            "room"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image depicts a group of cows walking in a line along a sandy beach.",
+        "sentence_cn": "图像描绘了一群牛沿着沙滩排成一排行走。",
+        "words": [
+            "group",
+            "cows",
+            "line",
+            "beach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The beach has white sand, and the sky above is clear with a light blue hue, suggesting a sunny day.",
+        "sentence_cn": "海滩沙子洁白，天空晴朗，泛着淡蓝色，预示着阳光明媚的一天。",
+        "words": [
+            "beach",
+            "sand",
+            "sky",
+            "hue",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ocean alongside the beach has a gradient of blue colors, transitioning from a lighter turquoise near the shore to a deeper blue further out.",
+        "sentence_cn": "海滩旁边的海水呈现出渐变的蓝色，从靠近海岸的浅绿松石色过渡到远处的深蓝色。",
+        "words": [
+            "ocean",
+            "beach",
+            "gradient",
+            "colors",
+            "turquoise",
+            "shore",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the water, a few boats are visible, including a sailboat with white sails, adding to the serene coastal scene.",
+        "sentence_cn": "水中，可见几艘船只，包括一艘挂着白色风帆的帆船，为宁静的海岸景色增添了色彩。",
+        "words": [
+            "water",
+            "boats",
+            "sailboat",
+            "sails",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cows appear to be moving from the left side of the image to the right, following the contour of the shoreline.",
+        "sentence_cn": "奶牛似乎正沿着海岸线的轮廓从图像的左侧向右侧移动。",
+        "words": [
+            "cows",
+            "right",
+            "contour",
+            "shoreline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the scene combines elements of pastoral life with a picturesque beach setting.",
+        "sentence_cn": "总体而言，该场景将田园生活元素与风景如画的海滩环境融为一体。",
+        "words": [
+            "scene",
+            "elements",
+            "life",
+            "beach"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "sentence": "The image is an advertisement for Baskin Robbins, promoting a 31% discount.",
+        "sentence_cn": "图片是 Baskin Robbins 的广告，促销 31% 的折扣。",
+        "words": [
+            "31",
+            "discount"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there¡¯s a large \"31% OFF\" text with a pink spoon forming the shape of the \"1\" in \"31%.\"",
+        "sentence_cn": "左侧是大大的“31% OFF”文字，旁边还有一把粉色勺子，形状就像“31%”中的“1”。",
+        "words": [
+            "31% OFF",
+            "1",
+            "31%.",
+            "left",
+            "31",
+            "text",
+            "spoon",
+            "shape",
+            "1",
+            "31",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text is stylized and colorful, using shades of pink and purple, with images of ice cream scoops inside the numbers.",
+        "sentence_cn": "文字风格独特，色彩丰富，使用了粉色和紫色色调，数字内还有冰淇淋勺的图像。",
+        "words": [
+            "text",
+            "shades",
+            "pink",
+            "purple",
+            "images",
+            "ice",
+            "cream",
+            "scoops",
+            "numbers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, three ice cream containers are depicted:",
+        "sentence_cn": "右侧描绘了三个冰淇淋容器：",
+        "words": [
+            "right",
+            "three",
+            "ice",
+            "cream",
+            "containers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A pint-sized container labeled \"PINT.\"",
+        "sentence_cn": "1. 一品脱大小的容器，标有“PINT”。",
+        "words": [
+            "PINT.",
+            "pint",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A quart-sized container labeled \"QUART.\"",
+        "sentence_cn": "2. 一个标有“QUART”的夸脱大小的容器。",
+        "words": [
+            "QUART.",
+            "quart",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A half-gallon container labeled \"1/2 GALLON.\"",
+        "sentence_cn": "3. 一个标有“1/2 加仑”的半加仑容器。",
+        "words": [
+            "1/2 GALLON.",
+            "gallon",
+            "container",
+            "1/2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each container features a variety of ice cream flavors and the Baskin Robbins logo, which is prominently displayed in pink and blue.",
+        "sentence_cn": "每个容器都装有各种口味的冰淇淋，并印有 Baskin Robbins 标志，该标志以粉色和蓝色突出显示。",
+        "words": [
+            "container",
+            "variety",
+            "ice",
+            "cream",
+            "flavors",
+            "logo",
+            "pink",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a light, quilted pattern, and there's a pink strip at the bottom with the text \"JUST FOR YUMMY HANDPACKED ITEM.\"",
+        "sentence_cn": "背景是浅色的绗缝图案，底部有一条粉色条纹，上面写着“仅限美味手工包装物品”。",
+        "words": [
+            "JUST FOR YUMMY HANDPACKED ITEM.",
+            "background",
+            "pattern",
+            "strip",
+            "bottom",
+            "text"
+        ],
+        "id": null
+    }
+]

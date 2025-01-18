@@ -1,85 +1,89 @@
 [
     {
-        "sentence": "The image shows a group of young adults enjoying a casual outdoor gathering.",
-        "sentence_cn": "照片中是一群年轻人正在享受一场休闲的户外聚会。",
+        "sentence": "The image shows a small group of people enjoying a casual outdoor gathering.",
+        "sentence_cn": "照片中，一小群人正在享受一场休闲的户外聚会。",
         "words": [
             "group",
-            "adults",
+            "people",
             "gathering"
         ],
         "id": null
     },
     {
-        "sentence": "They are on a terrace or patio of a residential building.",
-        "sentence_cn": "它们位于住宅楼的露台或庭院上。",
+        "sentence": "- On the left, a person in a red shirt is interacting with someone wearing patterned stockings and a colorful top.",
+        "sentence_cn": "- 左边，一个穿着红色衬衫的人正在与一个穿着图案长袜和彩色上衣的人互动。",
         "words": [
-            "terrace",
-            "patio",
-            "building"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "There's a mix of greenery and buildings visible in the background, suggesting a garden or a courtyard setting.",
-        "sentence_cn": "背景中可以看到绿色植物和建筑物的混合，暗示着一个花园或庭院。",
-        "words": [
-            "mix",
-            "greenery",
-            "buildings",
-            "background",
-            "garden",
-            "courtyard"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- A young woman sits on the wall, smiling and holding a glass.",
-        "sentence_cn": "- 一位年轻女子坐在墙边，微笑着，手里拿着一杯酒。",
-        "words": [
-            "woman",
-            "wall",
-            "glass"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- Another woman is sitting with her wearing a colorful outfit and patterned tights.",
-        "sentence_cn": "- 另一位女士坐在她旁边，穿着色彩鲜艳的衣服和有图案的紧身衣。",
-        "words": [
-            "woman",
-            "outfit",
-            "tights"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "- A man in a red t-shirt is speaking to one of the women.",
-        "sentence_cn": "- 一名身穿红色 T 恤的男子正在和其中一名女子交谈。",
-        "words": [
-            "man",
-            "t",
-            "-",
+            "left",
+            "person",
             "shirt",
-            "one",
-            "women"
+            "stockings",
+            "top"
         ],
         "id": null
     },
     {
-        "sentence": "- Another woman, wearing a striped top, is sitting at the edge, looking contemplative.",
-        "sentence_cn": "- 另一位身穿条纹上衣的女子坐在边缘，一脸沉思的表情。",
+        "sentence": "The person in the red shirt seems to be offering food or a snack.",
+        "sentence_cn": "穿红衬衫的人似乎在提供食物或零食。",
         "words": [
-            "woman",
+            "person",
+            "shirt",
+            "food",
+            "snack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center, a person in a white tank top with a graphic design is sitting on a railing and holding a glass, smiling and appearing to engage in conversation.",
+        "sentence_cn": "- 在中心，一个穿着带有图形图案的白色背心的人坐在栏杆上，手里拿着玻璃杯，面带微笑，似乎在交谈。",
+        "words": [
+            "center",
+            "person",
+            "tank",
             "top",
-            "edge"
+            "design",
+            "railing",
+            "glass",
+            "conversation"
         ],
         "id": null
     },
     {
-        "sentence": "The atmosphere appears relaxed and social.",
-        "sentence_cn": "气氛显得轻松而又社交。",
+        "sentence": "- On the right, there are two more people.",
+        "sentence_cn": "- 右边还有两个人。",
         "words": [
-            "atmosphere"
+            "right",
+            "two",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One is wearing a striped sweater, looking thoughtful, and is engaged with another person who is partially visible.",
+        "sentence_cn": "一个人穿着条纹毛衣，看上去若有所思，并且正在和另一个人交往，但只看到部分身影。",
+        "words": [
+            "One",
+            "sweater",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features greenery and a building, suggesting the setting is outside, possibly on a balcony or terrace.",
+        "sentence_cn": "背景是绿色植物和建筑物，表明场景是在室外，可能是在阳台或露台上。",
+        "words": [
+            "background",
+            "greenery",
+            "building",
+            "balcony",
+            "terrace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mood appears relaxed and friendly.",
+        "sentence_cn": "气氛显得轻松而友好。",
+        "words": [
+            "mood"
         ],
         "id": null
     }

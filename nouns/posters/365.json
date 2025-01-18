@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Powder.\"",
+        "sentence_cn": "图片是电影《Powder》的电影海报。",
+        "words": [
+            "Powder.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a close-up of a pale face wearing round sunglasses.",
+        "sentence_cn": "照片特写镜头是一张戴着圆形太阳镜的苍白脸。",
+        "words": [
+            "close",
+            "up",
+            "face",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lenses of the sunglasses display an image of lightning against a blue sky.",
+        "sentence_cn": "太阳镜的镜片显示出蓝天背景下的闪电图像。",
+        "words": [
+            "lenses",
+            "sunglasses",
+            "lightning",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tagline on the poster reads, \"An extraordinary encounter with another human being.\"",
+        "sentence_cn": "海报上的标语写着“与另一个人的非凡相遇”。",
+        "words": [
+            "An extraordinary encounter with another human being.",
+            "tagline",
+            "poster",
+            "encounter",
+            "being"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the tagline, the title \"POWDER\" is prominently displayed.",
+        "sentence_cn": "标语下方，醒目地显示着标题“POWDER”。",
+        "words": [
+            "POWDER",
+            "tagline",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, credits for the film's cast and crew are listed in smaller text.",
+        "sentence_cn": "海报底部以较小的文字列出了电影演员和剧组的人员名单。",
+        "words": [
+            "bottom",
+            "poster",
+            "credits",
+            "film",
+            "cast",
+            "crew",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is a soft, muted white and blue, creating a mysterious and ethereal atmosphere.",
+        "sentence_cn": "整体配色为柔和、低调的白色和蓝色，营造出一种神秘、空灵的氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "white",
+            "blue",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

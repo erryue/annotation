@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile app called \"Multiplication Memorizer.\"",
+        "sentence_cn": "该图片是一款名为“乘法记忆器”的手机应用程序的截图。",
+        "words": [
+            "Multiplication Memorizer.",
+            "mobile",
+            "app",
+            "Multiplication"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It focuses on the multiplication table for 8.",
+        "sentence_cn": "它主要关注 8 的乘法表。",
+        "words": [
+            "multiplication",
+            "table",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The equations displayed are:",
+        "sentence_cn": "显示的方程式为：",
+        "words": [
+            "equations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \\(8 \\times 8 = 64\\)",
+        "sentence_cn": "- \\（8 \\乘以 8 = 64\\）",
+        "words": [
+            "\\(8",
+            "8",
+            "64\\"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \\(8 \\times 9 = 72\\)",
+        "sentence_cn": "- \\（8 \\乘以 9 = 72\\）",
+        "words": [
+            "\\(8",
+            "9",
+            "72\\"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It also lists incomplete equations for:",
+        "sentence_cn": "它还列出了不完整的方程式：",
+        "words": [
+            "equations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \\(8 \\times 10 = \\)",
+        "sentence_cn": "- \\（8 \\乘以 10 = \\）",
+        "words": [
+            "\\(8",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \\(8 \\times 11 = \\)",
+        "sentence_cn": "- \\（8 \\乘以 11 = \\）",
+        "words": [
+            "\\(8",
+            "11"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \\(8 \\times 12 = \\)",
+        "sentence_cn": "- \\（8 \\乘以 12 = \\）",
+        "words": [
+            "\\(8",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a header with the app name and a visibility icon.",
+        "sentence_cn": "顶部有一个带有应用程序名称和可见性图标的标题。",
+        "words": [
+            "top",
+            "header",
+            "app",
+            "name",
+            "visibility",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's an advertisement for Amazon and a green power symbol button.",
+        "sentence_cn": "底部有亚马逊的广告和绿色电源符号按钮。",
+        "words": [
+            "bottom",
+            "power",
+            "symbol",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screenshot is taken at 11:45, as shown at the top of the screen.",
+        "sentence_cn": "截图是在11:45时拍摄的，如屏幕顶部所示。",
+        "words": [
+            "11:45",
+            "top",
+            "screen"
+        ],
+        "id": null
+    }
+]

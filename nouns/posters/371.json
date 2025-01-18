@@ -1,0 +1,76 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Bridges of Madison County.\"",
+        "sentence_cn": "图片是《廊桥遗梦》的电影海报。",
+        "words": [
+            "The Bridges of Madison County.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a warm, sepia-toned background with the title prominently displayed in the center in bold, red letters.",
+        "sentence_cn": "它具有温暖的棕褐色调背景，标题以粗体红色字母突出显示在中心。",
+        "words": [
+            "sepia",
+            "background",
+            "title",
+            "center",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the title are the names \"Clint Eastwood\" and \"Meryl Streep,\" indicating their starring roles.",
+        "sentence_cn": "片名上方有“克林特·伊斯特伍德”和“梅丽尔·斯特里普”的名字，表明两人的主演角色。",
+        "words": [
+            "Clint Eastwood",
+            "Meryl Streep,",
+            "title",
+            "names",
+            "roles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there is an image of two people embracing.",
+        "sentence_cn": "标题下方是两个人拥抱的图像。",
+        "words": [
+            "title",
+            "two",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be in a tender, intimate moment.",
+        "sentence_cn": "他们看上去正处于温柔、亲密的时刻。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a scenic view of a covered bridge, which is a significant element in the story.",
+        "sentence_cn": "背景是一座廊桥的风景，这是故事中的一个重要元素。",
+        "words": [
+            "background",
+            "view",
+            "bridge",
+            "element",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color palette is soft and nostalgic, emphasizing themes of romance and nostalgia.",
+        "sentence_cn": "整体色调柔和而怀旧，强调浪漫和怀旧的主题。",
+        "words": [
+            "color",
+            "palette",
+            "themes",
+            "romance",
+            "nostalgia"
+        ],
+        "id": null
+    }
+]

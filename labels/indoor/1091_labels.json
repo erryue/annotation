@@ -1,0 +1,24 @@
+[
+    {
+        "id": "8c01a899-f83f-40ef-8096-6fe2781210fc",
+        "confidence": 0.85161,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 13.05275,
+                        "minY": 0.14295,
+                        "maxX": 332.02899,
+                        "maxY": 408.33606
+                    },
+                    "x": 13.05275,
+                    "y": 0.14295,
+                    "w": 318.97624,
+                    "h": 408.19311
+                }
+            }
+        }
+    }
+]

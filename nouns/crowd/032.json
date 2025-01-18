@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a classroom scene with an elderly man seated at a table with several young children around him.",
+        "sentence_cn": "图片描绘的是教室里的场景，一位老人坐在桌边，周围围着几个小孩。",
+        "words": [
+            "classroom",
+            "scene",
+            "man",
+            "table",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man, wearing glasses, a tie, and a jacket, is attentively interacting with the children.",
+        "sentence_cn": "这位戴着眼镜、打着领带、穿着夹克的男子正专心地与孩子们互动。",
+        "words": [
+            "man",
+            "glasses",
+            "tie",
+            "jacket",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children, dressed in school uniforms, are gathered closely, engaging with him and appearing to handle small objects on the table, possibly coins or similar items.",
+        "sentence_cn": "穿着校服的孩子们聚在一起，与他互动，似乎在摆弄桌子上的小物体，可能是硬币或类似物品。",
+        "words": [
+            "children",
+            "school",
+            "uniforms",
+            "objects",
+            "table",
+            "coins",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a person standing, possibly a teacher, observing the interaction.",
+        "sentence_cn": "在背景中，有一个人站着，可能是一位老师，正在观察这场互动。",
+        "words": [
+            "background",
+            "person",
+            "teacher",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a practical setup with a projector screen, filing cabinets, and various items like bags and a coat, suggesting an educational setting.",
+        "sentence_cn": "房间里有投影仪屏幕、文件柜以及包和外套等各种物品，非常实用，适合教育环境。",
+        "words": [
+            "room",
+            "projector",
+            "screen",
+            "filing",
+            "cabinets",
+            "items",
+            "bags",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems to be one of learning and curiosity.",
+        "sentence_cn": "这里的氛围似乎充满了学习和好奇。",
+        "words": [
+            "atmosphere",
+            "one",
+            "learning",
+            "curiosity"
+        ],
+        "id": null
+    }
+]

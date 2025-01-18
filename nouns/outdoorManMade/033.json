@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image depicts a serene beach scene.",
+        "sentence_cn": "图像描绘的是一片宁静的海滩场景。",
+        "words": [
+            "beach",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground is dominated by a stretch of white sandy beach, and there are several tall palm trees swaying gently in the breeze.",
+        "sentence_cn": "前景是一片白色的沙滩，几棵高大的棕榈树在微风中轻轻摇曳。",
+        "words": [
+            "foreground",
+            "stretch",
+            "beach",
+            "palm",
+            "trees",
+            "breeze"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the palm trees, the sea is visible, with its calm, turquoise-blue water extending to the horizon.",
+        "sentence_cn": "棕榈树后面可见大海，平静的蓝绿色海水延伸至地平线。",
+        "words": [
+            "palm",
+            "trees",
+            "sea",
+            "water",
+            "horizon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Small boats are anchored in the water, adding a touch of activity to the tranquil setting.",
+        "sentence_cn": "小船停泊在水中，给宁静的环境增添了一丝活力。",
+        "words": [
+            "boats",
+            "water",
+            "touch",
+            "activity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden dock extends out over the water to the right, suggesting a place for boats to moor or for people to enjoy the view.",
+        "sentence_cn": "木制码头向右侧延伸至水面，可供船只停泊或供人们欣赏风景。",
+        "words": [
+            "dock",
+            "water",
+            "right",
+            "place",
+            "boats",
+            "people",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is a clear, deep blue with a few wispy clouds scattered throughout, indicating fair weather.",
+        "sentence_cn": "头顶的天空湛蓝清澈，散落着几朵薄云，预示着天气晴朗。",
+        "words": [
+            "sky",
+            "blue",
+            "clouds",
+            "weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is peaceful and inviting, ideal for a relaxing day by the sea.",
+        "sentence_cn": "整体氛围宁静而温馨，非常适合在海边度过轻松的一天。",
+        "words": [
+            "atmosphere",
+            "day",
+            "sea"
+        ],
+        "id": null
+    }
+]

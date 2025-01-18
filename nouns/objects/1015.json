@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "The image shows a neatly arranged meal on a wooden table.",
+        "sentence_cn": "图中所示的是木桌上整齐摆放的餐食。",
+        "words": [
+            "meal",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a large, vibrant bowl of salad containing a mix of leafy greens, sliced carrots, and chunks of chicken.",
+        "sentence_cn": "有一大碗色彩鲜艳的沙拉，里面有各种绿叶蔬菜、胡萝卜片和鸡肉块。",
+        "words": [
+            "bowl",
+            "salad",
+            "mix",
+            "greens",
+            "carrots",
+            "chunks",
+            "chicken"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two utensils are placed in the salad.",
+        "sentence_cn": "沙拉中放置了两个餐具。",
+        "words": [
+            "Two",
+            "utensils",
+            "salad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A glass and a pitcher filled with water are positioned next to the salad.",
+        "sentence_cn": "沙拉旁边摆放着一杯玻璃杯和一壶装满水的水。",
+        "words": [
+            "glass",
+            "pitcher",
+            "water",
+            "salad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A folded blue placemat is spread beneath the items.",
+        "sentence_cn": "物品下方铺有折叠的蓝色餐垫。",
+        "words": [
+            "placemat",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the placemat, there is a small loaf of bread and a stack of yellow napkins or cheese slices.",
+        "sentence_cn": "餐垫上放着一小块面包和一叠黄色餐巾或奶酪片。",
+        "words": [
+            "placemat",
+            "loaf",
+            "bread",
+            "stack",
+            "napkins",
+            "cheese",
+            "slices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table setting suggests a simple, healthy meal.",
+        "sentence_cn": "餐桌布置体现出一顿简单而健康的饭菜。",
+        "words": [
+            "table",
+            "meal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is warm, possibly from natural sunlight streaming in.",
+        "sentence_cn": "灯光很暖和，可能是自然阳光照射进来的。",
+        "words": [
+            "lighting",
+            "sunlight"
+        ],
+        "id": null
+    }
+]

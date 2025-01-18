@@ -1,0 +1,275 @@
+[
+    {
+        "sentence": "The image is a screenshot of a weather app or forecast display, showing current weather conditions and temperatures for several cities.",
+        "sentence_cn": "该图是天气应用程序或预报显示的屏幕截图，显示了几个城市的当前天气状况和温度。",
+        "words": [
+            "weather",
+            "app",
+            "forecast",
+            "display",
+            "weather",
+            "conditions",
+            "temperatures",
+            "cities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Los Angeles",
+        "sentence_cn": "- 洛杉矶",
+        "words": [
+            "Los Angeles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Current temperature: 70.0¡ãF",
+        "sentence_cn": "- 当前温度：70.0°F",
+        "words": [
+            "temperature",
+            "70.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Conditions: Mostly Sunny, with a slight chance of showers overnight",
+        "sentence_cn": "- 天气状况：大部分时间晴朗，夜间有小雨",
+        "words": [
+            "Conditions",
+            "chance",
+            "showers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High: 68¡ãF, Low: 60¡ãF",
+        "sentence_cn": "- 最高：68°F，最低：60°F",
+        "words": [
+            "High",
+            "68¡ãF",
+            "60¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Chicago",
+        "sentence_cn": "- 芝加哥",
+        "words": [
+            "Chicago"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Current temperature: 59.0¡ãF",
+        "sentence_cn": "- 当前温度：59.0°F",
+        "words": [
+            "temperature",
+            "59.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Conditions: Cloudy, with mostly cloudy overnight",
+        "sentence_cn": "- 天气状况：多云​​，夜间多云",
+        "words": [
+            "Conditions",
+            "overnight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High: 53¡ãF, Low: 44¡ãF",
+        "sentence_cn": "- 最高：53°F，最低：44°F",
+        "words": [
+            "High",
+            "53¡ãF",
+            "44¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- South Houston",
+        "sentence_cn": "- 南休斯顿",
+        "words": [
+            "South Houston",
+            "Houston"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Current temperature: 82.0¡ãF",
+        "sentence_cn": "- 当前温度：82.0°F",
+        "words": [
+            "temperature",
+            "82.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Conditions: Partly Sunny, mostly cloudy overnight",
+        "sentence_cn": "- 天气状况：部分晴朗，夜间多云",
+        "words": [
+            "Conditions",
+            "overnight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High: 83¡ãF, Low: 69¡ãF",
+        "sentence_cn": "- 最高：83°F，最低：69°F",
+        "words": [
+            "High",
+            "83¡ãF",
+            "69¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Phoenix",
+        "sentence_cn": "-凤凰",
+        "words": [
+            "Phoenix"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Current temperature: 73.0¡ãF",
+        "sentence_cn": "- 当前温度：73.0°F",
+        "words": [
+            "temperature",
+            "73.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Conditions: Chance of thunderstorms, slight chance of thunderstorms overnight",
+        "sentence_cn": "- 天气状况：可能有雷暴，夜间可能有雷暴",
+        "words": [
+            "Conditions",
+            "Chance",
+            "thunderstorms",
+            "chance",
+            "thunderstorms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High: 71¡ãF, Low: 54¡ãF",
+        "sentence_cn": "- 最高：71°F，最低：54°F",
+        "words": [
+            "High",
+            "71¡ãF",
+            "54¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Philadelphia",
+        "sentence_cn": "- 费城",
+        "words": [
+            "Philadelphia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Current temperature: 65.1¡ãF",
+        "sentence_cn": "- 当前温度：65.1°F",
+        "words": [
+            "temperature",
+            "65.1¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Conditions: Partly Cloudy",
+        "sentence_cn": "- 天气状况：部分多云",
+        "words": [
+            "Conditions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High: 63¡ãF, Low: 48¡ãF",
+        "sentence_cn": "- 最高：63°F，最低：48°F",
+        "words": [
+            "High",
+            "63¡ãF",
+            "48¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Detroit",
+        "sentence_cn": "- 底特律",
+        "words": [
+            "Detroit",
+            "Detroit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Current temperature: 59.0¡ãF",
+        "sentence_cn": "- 当前温度：59.0°F",
+        "words": [
+            "temperature",
+            "59.0¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Conditions: Partly Sunny, partly cloudy overnight",
+        "sentence_cn": "- 天气状况：部分晴朗，夜间部分多云",
+        "words": [
+            "Conditions",
+            "overnight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High: 61¡ãF, Low: 42¡ãF",
+        "sentence_cn": "- 最高：61°F，最低：42°F",
+        "words": [
+            "High",
+            "61¡ãF",
+            "42¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app interface at the top has icons for different sections, such as Favorites, Observation, Forecast, Radar, and More.",
+        "sentence_cn": "应用程序界面顶部有不同部分的图标，例如收藏夹、观察、预报、雷达等。",
+        "words": [
+            "app",
+            "interface",
+            "top",
+            "icons",
+            "sections",
+            "Observation",
+            "Forecast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time displayed on the device is 5:43.",
+        "sentence_cn": "设备上显示的时间是5:43。",
+        "words": [
+            "time",
+            "device",
+            "5:43"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The graphical representation of the weather includes icons showing sun, clouds, and thunderstorms.",
+        "sentence_cn": "天气的图形表示包括显示太阳、云和雷暴的图标。",
+        "words": [
+            "representation",
+            "weather",
+            "icons",
+            "sun",
+            "clouds",
+            "thunderstorms"
+        ],
+        "id": null
+    }
+]

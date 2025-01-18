@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image showcases a group of people gathered at what appears to be a marathon or running event.",
+        "sentence_cn": "照片中显示的是一群人聚集在一场马拉松或跑步比赛中的场景。",
+        "words": [
+            "group",
+            "people",
+            "marathon",
+            "running",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are standing along the roadside, marked by orange cones and a thin rope barrier.",
+        "sentence_cn": "他们站在路边，以橙色锥形筒和细绳屏障作为标记。",
+        "words": [
+            "roadside",
+            "cones",
+            "rope",
+            "barrier"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some of the individuals are wearing running gear, with visible bib numbers pinned to their shirts.",
+        "sentence_cn": "有些人穿着跑步装备，衬衫上别着明显的号码布。",
+        "words": [
+            "individuals",
+            "running",
+            "gear",
+            "bib",
+            "numbers",
+            "shirts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The participants display various postures, some appearing to stretch or prepare for the event.",
+        "sentence_cn": "参与者摆出各种姿势，有的似乎在进行伸展运动或为比赛做准备。",
+        "words": [
+            "participants",
+            "postures",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting seems to be outdoors on a sunny day, with a house and trees in the background.",
+        "sentence_cn": "场景似乎是阳光明媚的日子里的户外，背景是房屋和树木。",
+        "words": [
+            "day",
+            "house",
+            "trees",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The attire includes T-shirts, shorts, and caps, suitable for running.",
+        "sentence_cn": "服装包括T恤、短裤和帽子，适合跑步。",
+        "words": [
+            "attire",
+            "T",
+            "shirts",
+            "shorts",
+            "caps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are both men and women in the group, and one person is holding a water bottle.",
+        "sentence_cn": "这群人中有男有女，其中一人手里拿着水瓶。",
+        "words": [
+            "men",
+            "women",
+            "group",
+            "one",
+            "person",
+            "water",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere suggests a sense of anticipation and readiness.",
+        "sentence_cn": "这种气氛体现出一种期待和准备的感觉。",
+        "words": [
+            "atmosphere",
+            "sense",
+            "anticipation",
+            "readiness"
+        ],
+        "id": null
+    }
+]

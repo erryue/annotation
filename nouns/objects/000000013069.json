@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image shows a bar setting with a bottle and a glass prominently displayed on a wooden countertop.",
+        "sentence_cn": "图片展示了一个酒吧场景，木制台面上显眼地陈列着一瓶酒和一只玻璃杯。",
+        "words": [
+            "bar",
+            "bottle",
+            "glass",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottle: The bottle has a label indicating it¡¯s a craft beer, specifically a pale ale.",
+        "sentence_cn": "- 瓶子：瓶子上有标签，表明这是精酿啤酒，特别是淡啤酒。",
+        "words": [
+            "Bottle",
+            "Bottle",
+            "bottle",
+            "label",
+            "craft",
+            "beer",
+            "ale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two sunflowers, one yellow and one dark red, are placed inside the bottle, using it as a vase.",
+        "sentence_cn": "瓶子里面放置了两朵向日葵，一朵黄色，一朵深红色，把瓶子当做花瓶使用。",
+        "words": [
+            "Two",
+            "sunflowers",
+            "one",
+            "one",
+            "bottle",
+            "vase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Glass: Next to the bottle is a large, clear glass goblet containing a mix of nuts, possibly including peanuts, almonds, and other varieties.",
+        "sentence_cn": "- 玻璃：瓶子旁边是一个大而透明的玻璃杯，里面装有混合坚果，可能包括花生、杏仁和其他品种。",
+        "words": [
+            "Glass",
+            "Glass",
+            "bottle",
+            "glass",
+            "goblet",
+            "mix",
+            "nuts",
+            "peanuts",
+            "almonds",
+            "varieties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background: The background is dimly lit, featuring a shelf stocked with various bottles, suggesting a bar or pub atmosphere.",
+        "sentence_cn": "- 背景：背景灯光昏暗，架子上摆满了各种瓶子，暗示着酒吧或酒馆的氛围。",
+        "words": [
+            "Background",
+            "Background",
+            "background",
+            "shelf",
+            "bottles",
+            "bar",
+            "pub",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some glassware is also visible in the background, reinforcing the bar setting.",
+        "sentence_cn": "背景中还可以看到一些玻璃器皿，强化了酒吧的氛围。",
+        "words": [
+            "glassware",
+            "background",
+            "bar"
+        ],
+        "id": null
+    }
+]

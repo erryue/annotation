@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image features a clever marketing advertisement for the Audi R8 V10.",
+        "sentence_cn": "该图是奥迪 R8 V10 的巧妙营销广告。",
+        "words": [
+            "marketing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows two pictures of a garage.",
+        "sentence_cn": "它展示了两张车库的照片。",
+        "words": [
+            "two",
+            "pictures",
+            "garage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the left picture, the garage appears to have a red Audi R8 parked inside, but this is actually a realistic garage banner.",
+        "sentence_cn": "在左图中，车库里似乎停着一辆红色的奥迪 R8，但这实际上是一个逼真的车库横幅。",
+        "words": [
+            "picture",
+            "garage",
+            "garage",
+            "banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The banner is designed to create the illusion of the car being parked inside with the garage door open.",
+        "sentence_cn": "该横幅的设计旨在营造出汽车停在车库内且车库门打开的幻觉。",
+        "words": [
+            "banner",
+            "illusion",
+            "car",
+            "garage",
+            "door"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the right picture, the garage door is partially open, revealing it is just an image printed on the door, not an actual car.",
+        "sentence_cn": "在右图中，车库门部分打开，露出的只是印在门上的图像，而不是真正的汽车。",
+        "words": [
+            "picture",
+            "garage",
+            "door",
+            "door",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below these images is a description of the marketing tactic, explaining how this 1:1 scale photo-realistic banner was used to generate interest in the Audi R8, giving the impression of owning the car without actually having one.",
+        "sentence_cn": "这些图片下面是营销策略的描述，解释了如何使用这张 1：1 比例的照片般逼真的横幅来引起人们对奥迪 R8 的兴趣，给人一种虽然没有车却拥有车的印象。",
+        "words": [
+            "images",
+            "marketing",
+            "tactic",
+            "1:1",
+            "scale",
+            "photo",
+            "banner",
+            "interest",
+            "impression",
+            "car",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background around the garage is brickwork, and there's some greenery on the left side.",
+        "sentence_cn": "车库周围的背景是砖砌的，左侧有一些绿色植物。",
+        "words": [
+            "background",
+            "garage",
+            "brickwork",
+            "greenery"
+        ],
+        "id": null
+    }
+]

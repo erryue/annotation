@@ -1,0 +1,84 @@
+[
+    {
+        "sentence": "The image is a screenshot of a food delivery app called \"hungryhouse.\"",
+        "sentence_cn": "图片是一款名为“hungryhouse”的外卖配送应用程序的截图。",
+        "words": [
+            "hungryhouse.",
+            "food",
+            "delivery",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The upper section has a red bar with various icons like home, favorites, information, security, and settings.",
+        "sentence_cn": "上部有一个红色栏，其中有各种图标，如主页、收藏夹、信息、安全和设置。",
+        "words": [
+            "section",
+            "bar",
+            "icons",
+            "home",
+            "favorites",
+            "information",
+            "security",
+            "settings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main background features a display of diverse dishes, including a bowl of stir-fried vegetables, a container of rice with peas and shrimp, and a noodle dish with chopsticks.",
+        "sentence_cn": "主背景展示了各种菜肴，包括一碗炒蔬菜、一盒豌豆虾米饭和一盘带筷子的面条。",
+        "words": [
+            "background",
+            "display",
+            "dishes",
+            "bowl",
+            "vegetables",
+            "container",
+            "rice",
+            "peas",
+            "shrimp",
+            "noodle",
+            "dish",
+            "chopsticks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center foreground, there's text that reads: \"Pop in your postcode below and we'll find takeaways near you.\"",
+        "sentence_cn": "在前景中央，有这样一段文字：“请输入您的邮政编码，我们就会找到您附近的外卖店。”",
+        "words": [
+            "Pop in your postcode below and we'll find takeaways near you.",
+            "foreground",
+            "text",
+            "postcode",
+            "takeaways"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there's a text field labeled \"Enter postcode\" for users to input their location.",
+        "sentence_cn": "在其下方，有一个标有“输入邮政编码”的文本字段，供用户输入他们的位置。",
+        "words": [
+            "Enter postcode",
+            "text",
+            "field",
+            "postcode",
+            "users",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's also a yellow button labeled \"FEED ME,\" which likely initiates a search for nearby takeout options.",
+        "sentence_cn": "还有一个黄色按钮标有“FEED ME”，这可能会启动对附近外卖选项的搜索。",
+        "words": [
+            "FEED ME,",
+            "button",
+            "search",
+            "takeout",
+            "options"
+        ],
+        "id": null
+    }
+]

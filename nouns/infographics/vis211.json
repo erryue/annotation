@@ -1,0 +1,183 @@
+[
+    {
+        "sentence": "The image is an infographic on global food supply.",
+        "sentence_cn": "",
+        "words": [
+            "food",
+            "supply"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a gray background with white and turquoise graphics and text.",
+        "sentence_cn": "",
+        "words": [
+            "background",
+            "graphics",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Section:",
+        "sentence_cn": "1. 顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Title: \"GLOBAL FOOD SUPPLY\" in white.",
+        "sentence_cn": "- 标题：“全球粮食供应”，白色。",
+        "words": [
+            "GLOBAL FOOD SUPPLY",
+            "Title",
+            "FOOD",
+            "SUPPLY",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A visual representation of white and turquoise icons resembling grains or plants.",
+        "sentence_cn": "- 以白色和绿松石色图标来表示谷物或植物的视觉形象。",
+        "words": [
+            "representation",
+            "icons",
+            "grains",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The turquoise icons make up 75%, and the white ones make up 25%.",
+        "sentence_cn": "绿松石图标占 75%，白色图标占 25%。",
+        "words": [
+            "turquoise",
+            "icons",
+            "75",
+            "ones",
+            "25",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Section:",
+        "sentence_cn": "2. 中间部分：",
+        "words": [
+            "Middle Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text indicates that 75% of the food supply comes from only 12 plant and 5 animal species.",
+        "sentence_cn": "- 文本表明 75% 的食物供应仅来自 12 种植物和 5 种动物。",
+        "words": [
+            "Text",
+            "75",
+            "food",
+            "supply",
+            "12",
+            "plant",
+            "5",
+            "animal",
+            "species"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Additional text highlights that nearly 60% of the calories/proteins from plants in the human diet come from just three plants: Corn, Wheat, and Rice.",
+        "sentence_cn": "- 附加文字强调，人类饮食中近 60% 的植物热量/蛋白质来自三种植物：玉米、小麦和大米。",
+        "words": [
+            "text",
+            "60",
+            "calories",
+            "proteins",
+            "plants",
+            "diet",
+            "three",
+            "plants",
+            "Corn",
+            "Rice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Section:",
+        "sentence_cn": "3. 底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A pie chart comparing edible plant species and those consumed by humans.",
+        "sentence_cn": "- 比较可食用植物种类和人类食用植物种类的饼图。",
+        "words": [
+            "pie",
+            "chart",
+            "plant",
+            "species",
+            "humans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows there are 300,000 edible plant species, but only 150-200 are consumed by humans.",
+        "sentence_cn": "- 显示有 300,000 种可食用植物，但只有 150-200 种被人类食用。",
+        "words": [
+            "300,000",
+            "plant",
+            "species",
+            "150",
+            "200",
+            "humans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Footer:",
+        "sentence_cn": "4. 页脚：",
+        "words": [
+            "Footer:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Attribution to Terreform Center for Advanced Urban Research.",
+        "sentence_cn": "- 归功于 Terreform 高级城市研究中心。",
+        "words": [
+            "Attribution"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A reference note citing the source from the United Nations Food and Agriculture Organization, 2005.",
+        "sentence_cn": "- 引用联合国粮食及农业组织 2005 年的数据来源的参考说明。",
+        "words": [
+            "reference",
+            "note",
+            "source",
+            "2005"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme emphasizes the limited diversity in food sources despite the availability of numerous edible plant species.",
+        "sentence_cn": "总体主题强调尽管可食用植物种类繁多，但食物来源的多样性却有限。",
+        "words": [
+            "theme",
+            "diversity",
+            "food",
+            "sources",
+            "availability",
+            "plant",
+            "species"
+        ],
+        "id": null
+    }
+]

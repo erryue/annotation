@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image features a tall, brick church tower situated in a well-maintained grassy area.",
+        "sentence_cn": "照片中是一座高大的砖砌教堂塔，坐落在一片维护良好的草地上。",
+        "words": [
+            "brick",
+            "church",
+            "tower",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tower has a prominent clock with golden numerals and hands, located a bit below its middle section.",
+        "sentence_cn": "塔内有一座显眼的时钟，上面有金色的数字和指针，位于塔中部略下方。",
+        "words": [
+            "tower",
+            "clock",
+            "numerals",
+            "hands",
+            "bit",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The architecture displays a series of arched windows, typical of traditional church design.",
+        "sentence_cn": "该建筑拥有一系列拱形窗户，这是典型的传统教堂设计。",
+        "words": [
+            "architecture",
+            "series",
+            "windows",
+            "church",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Flanking the path leading up to the church are several leafless trees, suggesting late winter or early spring.",
+        "sentence_cn": "通往教堂的道路两旁有几棵光秃秃的树，暗示着冬末或初春。",
+        "words": [
+            "path",
+            "church",
+            "trees",
+            "winter",
+            "spring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, in the grass, scattered tombstones are visible, hinting at a churchyard or cemetery.",
+        "sentence_cn": "右边的草地上，散落的墓碑清晰可见，暗示着那里有教堂墓地或公墓。",
+        "words": [
+            "right",
+            "grass",
+            "tombstones",
+            "churchyard",
+            "cemetery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, on the right side, houses with red-tiled roofs and chimney stacks can be seen, indicating a residential area nearby.",
+        "sentence_cn": "背景右侧，可以看到红瓦屋顶和烟囱的房屋，表明附近是住宅区。",
+        "words": [
+            "background",
+            "houses",
+            "roofs",
+            "chimney",
+            "stacks",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, with no visible clouds, suggesting a sunny day.",
+        "sentence_cn": "天空晴朗，万里无云，预示着将是晴朗的一天。",
+        "words": [
+            "sky",
+            "clouds",
+            "day"
+        ],
+        "id": null
+    }
+]

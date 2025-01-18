@@ -1,0 +1,200 @@
+[
+    {
+        "sentence": "The image is a snapshot of a webpage from a site called \"Daily News.\"",
+        "sentence_cn": "该图片是“每日新闻”网站网页的快照。",
+        "words": [
+            "Daily News.",
+            "snapshot",
+            "webpage",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features the headline story about the Cottonwood Festival celebrating its 25th anniversary, hosted at Alameda Park by the Alamogordo Chamber of Commerce during Labor Day weekend.",
+        "sentence_cn": "该报的头条新闻是关于劳动节周末期间阿拉莫戈多商会在阿拉米达公园举办的庆祝 25 周年的 Cottonwood 节。",
+        "words": [
+            "headline",
+            "story",
+            "anniversary",
+            "weekend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Elements:",
+        "sentence_cn": "主要元素：",
+        "words": [
+            "Main Elements:",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Banner:",
+        "sentence_cn": "1. 顶部横幅：",
+        "words": [
+            "Top Banner:",
+            "Banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An advertisement for \"Mr. Electric,\" which highlights services like lighting upgrades, electrical inspections, and air conditioning.",
+        "sentence_cn": "- “电气先生”的广告，重点介绍照明升级、电气检查和空调等服务。",
+        "words": [
+            "Mr. Electric,",
+            "services",
+            "lighting",
+            "upgrades",
+            "inspections",
+            "air",
+            "conditioning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Navigation Bar:",
+        "sentence_cn": "2. 导航栏：",
+        "words": [
+            "Navigation Bar:",
+            "Navigation",
+            "Bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Links for various sections such as News, Sports, Business, Entertainment, and more.",
+        "sentence_cn": "- 新闻、体育、商业、娱乐等各个部分的链接。",
+        "words": [
+            "Links",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Weather information for Alamogordo, NM, with current temperature, high, low, and a 5-day forecast.",
+        "sentence_cn": "- 新墨西哥州阿拉莫戈多的天气信息，包括当前温度、最高温度、最低温度以及未来 5 天的预报。",
+        "words": [
+            "Weather",
+            "information",
+            "Alamogordo",
+            "NM",
+            "temperature",
+            "5",
+            "day",
+            "forecast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Breaking News Section:",
+        "sentence_cn": "3. 突发新闻部分：",
+        "words": [
+            "Breaking News Section:",
+            "Breaking",
+            "News",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Lists headlines like \"How Do Locals Eat in Oahu? Find Out Here,\" \"Park hosts Native American art show,\" and \"Veteran seeks return of pickup.\"",
+        "sentence_cn": "- 列出诸如“当地人如何在瓦胡岛吃饭？在这里了解”、“公园举办美洲原住民艺术展”和“退伍军人寻求皮卡归还”等标题。",
+        "words": [
+            "How Do Locals Eat in Oahu? Find Out Here,",
+            "Park hosts Native American art show,",
+            "Veteran seeks return of pickup.",
+            "Lists",
+            "headlines",
+            "Locals",
+            "art",
+            "show",
+            "Veteran",
+            "return",
+            "pickup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Main Story:",
+        "sentence_cn": "4. 主线故事：",
+        "words": [
+            "Main Story:",
+            "Story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Accompanied by a large image of a child with face paint at the Cottonwood Festival.",
+        "sentence_cn": "- 附有一幅在 Cottonwood 节上脸上涂满油彩的儿童的大幅图像。",
+        "words": [
+            "child",
+            "face",
+            "paint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Text describes the 25th annual Arts and Crafts Festival¡¯s celebration.",
+        "sentence_cn": "- 文字描述了第 25 届年度艺术和手工艺节的庆祝活动。",
+        "words": [
+            "Text",
+            "Festival¡¯s",
+            "celebration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Advertisements:",
+        "sentence_cn": "5. 广告：",
+        "words": [
+            "Advertisements:",
+            "Advertisements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An ad for the 2015 Ford Super Duty truck showcases its features and availability.",
+        "sentence_cn": "- 2015 款福特 Super Duty 卡车的广告展示了其功能和可用性。",
+        "words": [
+            "ad",
+            "2015",
+            "truck",
+            "features",
+            "availability"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A promotional box for a fundraiser event titled \"New Mexico's Treasures\" at Animal Village NM, scheduled for September 12.",
+        "sentence_cn": "- 新墨西哥州动物村“新墨西哥州的宝藏”募捐活动的促销箱，该活动定于 9 月 12 日举行。",
+        "words": [
+            "New Mexico's Treasures",
+            "box",
+            "fundraiser",
+            "event",
+            "Treasures",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the webpage combines news elements with engaging visuals and advertisements.",
+        "sentence_cn": "总体而言，该网页将新闻元素与引人入胜的视觉效果和广告结合在一起。",
+        "words": [
+            "webpage",
+            "news",
+            "elements",
+            "visuals",
+            "advertisements"
+        ],
+        "id": null
+    }
+]

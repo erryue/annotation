@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image shows an indoor setting, possibly at a social or formal gathering.",
+        "sentence_cn": "图像显示的是室内场景，可能是社交或正式聚会。",
+        "words": [
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two men are shaking hands.",
+        "sentence_cn": "前景中，两个男人正在握手。",
+        "words": [
+            "foreground",
+            "two",
+            "men",
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One man is wearing a casual outfit with a jacket, while the other is dressed in a suit.",
+        "sentence_cn": "一名男子穿着休闲装，搭配夹克，而另一名男子则穿着西装。",
+        "words": [
+            "One",
+            "man",
+            "outfit",
+            "jacket",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A woman in a striped sweater stands nearby with her back to the camera.",
+        "sentence_cn": "一位身穿条纹毛衣的女子站在附近，背对着镜头。",
+        "words": [
+            "woman",
+            "sweater",
+            "back",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are people gathered around a bar area.",
+        "sentence_cn": "背景中，人们聚集在酒吧区周围。",
+        "words": [
+            "background",
+            "people",
+            "bar",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A bartender is serving drinks to a group of individuals who are conversing.",
+        "sentence_cn": "一位调酒师正在为正在交谈的一群人提供饮料。",
+        "words": [
+            "bartender",
+            "drinks",
+            "group",
+            "individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is warm, and the walls feature decorative wallpaper, suggesting a hotel or banquet setting.",
+        "sentence_cn": "灯光温暖，墙壁上贴有装饰墙纸，让人联想到酒店或宴会场所。",
+        "words": [
+            "lighting",
+            "walls",
+            "wallpaper",
+            "hotel",
+            "banquet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears to be friendly and social.",
+        "sentence_cn": "这里的气氛显得友好而又社交性强。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

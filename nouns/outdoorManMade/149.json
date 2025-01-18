@@ -1,0 +1,107 @@
+[
+    {
+        "sentence": "The image showcases a luxurious outdoor space and residential area.",
+        "sentence_cn": "图片展示了豪华的户外空间和住宅区。",
+        "words": [
+            "space",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a covered patio with a stylish chandelier hanging from the wooden ceiling.",
+        "sentence_cn": "前景中有一个带顶棚的露台，木质天花板上悬挂着时尚的枝形吊灯。",
+        "words": [
+            "foreground",
+            "patio",
+            "chandelier",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath, a round table is surrounded by six intricate wrought iron chairs with red cushions.",
+        "sentence_cn": "下面是一张圆桌，周围摆放着六把带有红色垫子的精致铸铁椅子。",
+        "words": [
+            "table",
+            "six",
+            "iron",
+            "chairs",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table is a decorative floral arrangement.",
+        "sentence_cn": "桌子上摆放着装饰性的花卉。",
+        "words": [
+            "table",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background reveals a large, elegant house with cream-colored walls and a dark roof.",
+        "sentence_cn": "背景是一座优雅的大房子，有奶油色的墙壁和深色的屋顶。",
+        "words": [
+            "background",
+            "house",
+            "cream",
+            "walls",
+            "roof"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The house features multiple large windows, allowing for ample natural light.",
+        "sentence_cn": "房子设有多个大窗户，可以提供充足的自然光。",
+        "words": [
+            "house",
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding lawn is well-manicured, with a variety of trees and shrubs, including several palm trees that give the area a tropical feel.",
+        "sentence_cn": "周围的草坪修剪整齐，种植有各种树木和灌木，其中包括几棵棕榈树，给该地区带来热带风情。",
+        "words": [
+            "lawn",
+            "variety",
+            "trees",
+            "shrubs",
+            "palm",
+            "trees",
+            "area",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there are several padded chaise lounges lined up, suggesting a recreational or relaxation area, possibly near a pool that's not visible in the image.",
+        "sentence_cn": "左边排列着几张带软垫的躺椅，表明这是一个娱乐或放松区域，可能靠近图片中看不到的游泳池。",
+        "words": [
+            "left",
+            "chaise",
+            "lounges",
+            "relaxation",
+            "area",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance of the scene is one of comfort and elegance, highlighting an expansive and beautifully maintained outdoor living space.",
+        "sentence_cn": "场景的整体氛围是舒适和优雅的，突出了宽敞和精心维护的户外生活空间。",
+        "words": [
+            "ambiance",
+            "scene",
+            "one",
+            "comfort",
+            "elegance",
+            "living",
+            "space"
+        ],
+        "id": null
+    }
+]

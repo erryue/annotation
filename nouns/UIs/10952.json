@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot from a mobile app called \"HauntedBooth.\"",
+        "sentence_cn": "该图片似乎是一款名为“HauntedBooth”的手机应用程序的截图。",
+        "words": [
+            "HauntedBooth.",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a dark, textured surface, giving a spooky, eerie vibe.",
+        "sentence_cn": "背景是黑暗的、有纹理的表面，给人一种幽灵般、怪异的感觉。",
+        "words": [
+            "background",
+            "surface",
+            "vibe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's an advertisement for \"ZombieBooth 2,\" showcasing \"Unlimited Zombification.\"",
+        "sentence_cn": "顶部是“ZombieBooth 2”的广告，展示“无限僵尸化”。",
+        "words": [
+            "ZombieBooth 2,",
+            "Unlimited Zombification.",
+            "top",
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad shows a before-and-after transformation of a man into a zombie, with cracked skin and eerie eyes.",
+        "sentence_cn": "广告展示了一名男子变成僵尸的前后变化，他的皮肤龟裂，眼神怪异。",
+        "words": [
+            "ad",
+            "transformation",
+            "man",
+            "zombie",
+            "skin",
+            "eyes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A \"FREE DOWNLOAD\" button is prominently displayed.",
+        "sentence_cn": "显著位置显示了“免费下载”按钮。",
+        "words": [
+            "FREE DOWNLOAD",
+            "DOWNLOAD",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the ad, there are several icon buttons with half-human, half-zombie faces.",
+        "sentence_cn": "广告下方有几个半人半僵尸面孔的图标按钮。",
+        "words": [
+            "ad",
+            "icon",
+            "buttons",
+            "faces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These images are designed with ¡°GET¡± labels, possibly indicating in-app purchases or downloadable content.",
+        "sentence_cn": "这些图像带有“GET”标签，可能表示应用内购买或可下载内容。",
+        "words": [
+            "images",
+            "labels",
+            "app",
+            "purchases",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom center, there's a red \"START\" button, suggesting the main action to begin using the app.",
+        "sentence_cn": "在底部中央，有一个红色的“开始”按钮，建议开始使用该应用程序的主要操作。",
+        "words": [
+            "START",
+            "center",
+            "button",
+            "action",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of this button is a black bar with a blue orb icon indicating \"3\" resources.",
+        "sentence_cn": "此按钮右侧是一个黑条，其中有一个蓝色球体图标，表示“3”个资源。",
+        "words": [
+            "3",
+            "right",
+            "button",
+            "bar",
+            "orb",
+            "icon",
+            "3",
+            "resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower part of the screen, there's another advertisement by 3M related to \"Quality assurance guidelines for VH2O2 sterilizers,\" with a \"DOWNLOAD\" button.",
+        "sentence_cn": "屏幕下方，还有一则3M公司的广告，内容是“VH2O2灭菌器质量保证指南”，并附有“下载”按钮。",
+        "words": [
+            "Quality assurance guidelines for VH2O2 sterilizers,",
+            "DOWNLOAD",
+            "part",
+            "screen",
+            "Quality",
+            "assurance",
+            "guidelines",
+            "sterilizers",
+            "DOWNLOAD",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the screen is heavily themed around horror and transformation, typical in photo-editing apps with special effects.",
+        "sentence_cn": "总体而言，屏幕主要以恐怖和变形为主题，这在具有特效的照片编辑应用中很常见。",
+        "words": [
+            "screen",
+            "horror",
+            "transformation",
+            "photo",
+            "editing",
+            "apps",
+            "effects"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image depicts a beautifully landscaped garden featuring a small waterfall cascading into a pool.",
+        "sentence_cn": "图像描绘的是风景优美的花园，其中有一条小瀑布倾泻而下，流入水池。",
+        "words": [
+            "garden",
+            "waterfall",
+            "pool"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water flows over a rocky formation, creating a gentle waterfall effect that splashes into the clear pond below.",
+        "sentence_cn": "水流过岩石，形成柔和的瀑布效果，溅入下面清澈的池塘。",
+        "words": [
+            "water",
+            "formation",
+            "waterfall",
+            "effect",
+            "pond"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the water feature are various types of lush greenery, including evergreen shrubs and coniferous trees.",
+        "sentence_cn": "水景周围有各种茂密的绿色植物，包括常绿灌木和针叶树。",
+        "words": [
+            "water",
+            "feature",
+            "types",
+            "greenery",
+            "shrubs",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The garden is enclosed by a black wrought-iron fence in the background, adding a sense of privacy and elegance.",
+        "sentence_cn": "花园背景由黑色铸铁栅栏包围，增添了私密性和优雅感。",
+        "words": [
+            "garden",
+            "iron",
+            "fence",
+            "background",
+            "sense",
+            "privacy",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A well-maintained, vibrant green lawn occupies the foreground, providing a soft contrast to the rocky and water elements.",
+        "sentence_cn": "前景是一片维护良好、生机勃勃的绿色草坪，与岩石和水元素形成了柔和的对比。",
+        "words": [
+            "lawn",
+            "foreground",
+            "contrast",
+            "water",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance is serene and natural, showcasing a harmonious blend of water, stone, and plant life, perfect for a tranquil outdoor retreat.",
+        "sentence_cn": "整体氛围宁静而自然，展现了水、石头和植物的和谐融合，非常适合宁静的户外休闲。",
+        "words": [
+            "ambiance",
+            "blend",
+            "water",
+            "stone",
+            "plant",
+            "life",
+            "retreat"
+        ],
+        "id": null
+    }
+]

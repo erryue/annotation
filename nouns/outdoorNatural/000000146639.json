@@ -1,0 +1,63 @@
+[
+    {
+        "sentence": "The image depicts a serene outdoor scene under a large, lush tree.",
+        "sentence_cn": "这幅图描绘的是一棵茂盛的大树下宁静的户外场景。",
+        "words": [
+            "scene",
+            "tree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three people are seated on the grass, likely enjoying a picnic or leisurely gathering.",
+        "sentence_cn": "三个人坐在草地上，像是在享受野餐或悠闲的聚会。",
+        "words": [
+            "Three",
+            "people",
+            "grass",
+            "picnic",
+            "gathering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby, a brown horse grazes peacefully.",
+        "sentence_cn": "附近，一匹棕色的马正在安静地吃草。",
+        "words": [
+            "horse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sunlight filters through the leaves, casting dappled shadows on the ground.",
+        "sentence_cn": "阳光透过树叶，在地面上投射出斑驳的阴影。",
+        "words": [
+            "Sunlight",
+            "leaves",
+            "shadows",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surroundings are open and grassy, with a few more trees in the distance, suggesting a tranquil countryside setting.",
+        "sentence_cn": "周围空旷而青草茂盛，远处还有几棵树，呈现出宁静的乡村氛围。",
+        "words": [
+            "surroundings",
+            "trees",
+            "distance",
+            "countryside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears relaxed and pleasant, ideal for a quiet day in nature.",
+        "sentence_cn": "这里的气氛显得轻松愉快，非常适合在大自然中度过安静的一天。",
+        "words": [
+            "atmosphere",
+            "day",
+            "nature"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image is a movie poster featuring a dark background with the title \"Incognito\" prominently displayed in red at the bottom center.",
+        "sentence_cn": "该图片是一张电影海报，背景为深色，底部中央以红色突出显示标题“Incognito”。",
+        "words": [
+            "Incognito",
+            "movie",
+            "poster",
+            "background",
+            "title",
+            "red",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names \"Jason Patric\" and \"Ir¨¨ne Jacob\" are shown in white letters.",
+        "sentence_cn": "在顶部，名字“Jason Patric”和“Ir¨¨ne Jacob”以白色字母显示。",
+        "words": [
+            "Jason Patric",
+            "Ir¨¨ne Jacob",
+            "top",
+            "names",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two large faces dominate the poster: one of a man on the left and a woman on the right.",
+        "sentence_cn": "海报上主要有两张大脸：左边是男人，右边是女人。",
+        "words": [
+            "Two",
+            "faces",
+            "poster",
+            "one",
+            "man",
+            "left",
+            "woman",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both appear serious and are partially illuminated.",
+        "sentence_cn": "两者都显得很严肃，并且有部分被照亮。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Below them, there is a scene of a man in a suit walking along a bridge, with a backdrop that includes Big Ben and a night view of the city, suggesting a London setting.",
+        "sentence_cn": "下面，是一个穿着西装的男人沿着桥行走的场景，背景是大本钟和城市夜景，让人联想到伦敦的背景。",
+        "words": [
+            "scene",
+            "man",
+            "suit",
+            "bridge",
+            "backdrop",
+            "night",
+            "view",
+            "city",
+            "London"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster is mysterious and dramatic.",
+        "sentence_cn": "海报整体基调神秘而富有戏剧性。",
+        "words": [
+            "tone",
+            "poster"
+        ],
+        "id": null
+    }
+]

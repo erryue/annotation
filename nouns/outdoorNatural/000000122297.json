@@ -1,0 +1,59 @@
+[
+    {
+        "sentence": "The image depicts two giraffes standing in a savannah landscape.",
+        "sentence_cn": "图像描绘的是两只长颈鹿站在大草原上。",
+        "words": [
+            "two",
+            "giraffes",
+            "savannah",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are surrounded by tall, dry grass and low bushes, typical of an African environment.",
+        "sentence_cn": "它们周围是高高的干草和低矮的灌木丛，这是典型的非洲环境。",
+        "words": [
+            "grass",
+            "bushes",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are scattered trees, characteristic of the savannah, with one tree on the left having a distinctly bent trunk.",
+        "sentence_cn": "背景中散落着树木，这是大草原的特色，左边有一棵树的树干明显弯曲。",
+        "words": [
+            "background",
+            "trees",
+            "savannah",
+            "one",
+            "tree",
+            "left",
+            "trunk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is mostly clear with a few fluffy clouds, and the sunlight suggests it's a bright day.",
+        "sentence_cn": "天空晴朗，有几朵蓬松的云彩，阳光预示着这是一个晴朗的一天。",
+        "words": [
+            "sky",
+            "clouds",
+            "sunlight",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffes are seen with their long necks and legs, blending well into the natural habitat.",
+        "sentence_cn": "长颈鹿有着长长的脖子和腿，与自然栖息地融为一体。",
+        "words": [
+            "giraffes",
+            "necks",
+            "legs",
+            "habitat"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image depicts a picturesque rural landscape featuring a quaint cottage in the foreground, surrounded by lush green grass and trees.",
+        "sentence_cn": "这幅画描绘了一幅风景如画的乡村风光，前景是一间古雅的小屋，周围环绕着郁郁葱葱的绿草和树木。",
+        "words": [
+            "landscape",
+            "cottage",
+            "foreground",
+            "grass",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cottage has a traditional design with stone walls and chimneys.",
+        "sentence_cn": "小屋采用传统设计，设有石墙和烟囱。",
+        "words": [
+            "cottage",
+            "design",
+            "stone",
+            "walls",
+            "chimneys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind it, there's a serene lake reflecting the vibrant greenery.",
+        "sentence_cn": "它后面是一片宁静的湖泊，倒映着生机勃勃的绿色植物。",
+        "words": [
+            "lake",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle ground, more trees and dense foliage cover the slopes, creating a rich tapestry of greens.",
+        "sentence_cn": "在中间地带，更多的树木和茂密的树叶覆盖着山坡，形成一幅丰富的绿色挂毯。",
+        "words": [
+            "ground",
+            "trees",
+            "foliage",
+            "slopes",
+            "tapestry",
+            "greens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small, scattered settlement with white buildings is visible, adding to the idyllic countryside charm.",
+        "sentence_cn": "可见一小片散落的白色建筑聚居地，更增添了田园诗般的乡村魅力。",
+        "words": [
+            "settlement",
+            "buildings",
+            "countryside",
+            "charm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dominated by majestic hills and rocky mountains under a lightly clouded blue sky.",
+        "sentence_cn": "背景是淡淡云彩的蓝天下的雄伟山丘和岩石山脉。",
+        "words": [
+            "background",
+            "hills",
+            "mountains",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The hills are clothed in various shades of green and brown, indicating a natural blend of grassland and rocky terrain.",
+        "sentence_cn": "山丘覆盖着各种深浅不一的绿色和棕色，显示出草原和岩石地形的自然融合。",
+        "words": [
+            "hills",
+            "shades",
+            "green",
+            "brown",
+            "blend",
+            "grassland",
+            "terrain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The entire scene exudes tranquility and natural beauty, typical of a peaceful rural setting.",
+        "sentence_cn": "整个场景散发着宁静和自然之美，典型的宁静乡村风情。",
+        "words": [
+            "scene",
+            "tranquility",
+            "beauty"
+        ],
+        "id": null
+    }
+]

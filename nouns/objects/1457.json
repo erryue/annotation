@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image depicts a decorative setting on a surface, possibly a table or a shelf.",
+        "sentence_cn": "该图像描绘的是表面（可能是桌子或架子）上的装饰布置。",
+        "words": [
+            "surface",
+            "table",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is a lamp with an ornate, translucent base and a greenish lampshade adorned with golden fringe and tassels.",
+        "sentence_cn": "左边有一盏灯，底座华丽，半透明，灯罩呈绿色，饰有金色流苏和穗子。",
+        "words": [
+            "left",
+            "lamp",
+            "base",
+            "lampshade",
+            "fringe",
+            "tassels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the lamp is a figurine of a person, dressed in a white gown with a blue ribbon around the waist.",
+        "sentence_cn": "灯旁边有一尊人物小雕像，身穿白色长袍，腰间系着蓝色飘带。",
+        "words": [
+            "lamp",
+            "figurine",
+            "person",
+            "gown",
+            "ribbon",
+            "waist"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The gown is decorated with golden stars, and the figure is wearing a conical hat, giving it a festive or whimsical appearance.",
+        "sentence_cn": "长袍上装饰着金色的星星，人物戴着圆锥形的帽子，给人一种喜庆或异想天开的感觉。",
+        "words": [
+            "gown",
+            "stars",
+            "figure",
+            "hat",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the figurine, there is a small, vintage-style wooden desk organizer with a roll-top design.",
+        "sentence_cn": "小雕像旁边有一个小型的、带有卷顶设计的复古风格木制桌面收纳盒。",
+        "words": [
+            "figurine",
+            "style",
+            "desk",
+            "organizer",
+            "roll",
+            "top",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small sculpture of an animal skull, possibly a rodent or small mammal, rests on top.",
+        "sentence_cn": "顶部放置着一个小动物头骨雕塑，可能是啮齿动物或小型哺乳动物。",
+        "words": [
+            "sculpture",
+            "animal",
+            "skull",
+            "rodent",
+            "mammal",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the desk organizer, there is a small toy or figurine of a baby, adding a playful element to the arrangement.",
+        "sentence_cn": "桌面收纳盒的前面放着一个小玩具或婴儿小雕像，为整个布置增添了有趣的元素。",
+        "words": [
+            "front",
+            "desk",
+            "organizer",
+            "toy",
+            "figurine",
+            "baby",
+            "element",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the far right, a potted plant with long, narrow, green leaves provides a touch of nature and greenery.",
+        "sentence_cn": "最右边是一盆有着狭长绿叶的盆栽植物，给人一种自然和绿色的感觉。",
+        "words": [
+            "right",
+            "plant",
+            "leaves",
+            "touch",
+            "nature",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The plant is in a brown and red pot, placed within a decorative holder.",
+        "sentence_cn": "这株植物种在一个棕色和红色的花盆里，放置在一个装饰性的支架上。",
+        "words": [
+            "plant",
+            "pot",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The entire setup is on a colorful woven cloth, adding texture and color to the display.",
+        "sentence_cn": "整个装置位于一块彩色编织布上，为展示增添了纹理和色彩。",
+        "words": [
+            "cloth",
+            "texture",
+            "color",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wall behind is plain, which highlights the decorative items.",
+        "sentence_cn": "后面的墙是朴素的，突出了装饰物品。",
+        "words": [
+            "wall",
+            "items"
+        ],
+        "id": null
+    }
+]

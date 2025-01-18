@@ -1,0 +1,90 @@
+[
+    {
+        "id": "14f96adf-0c4d-4298-b150-b40bb7153199",
+        "confidence": 0.92233,
+        "class": "horse",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 12.08546,
+                        "minY": 169.39856,
+                        "maxX": 92.24641,
+                        "maxY": 285.54935
+                    },
+                    "x": 12.08546,
+                    "y": 169.39856,
+                    "w": 80.16095,
+                    "h": 116.15079
+                }
+            }
+        }
+    },
+    {
+        "id": "7c2b3bca-b068-497f-af40-32bad4bf7459",
+        "confidence": 0.918,
+        "class": "horse",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 326.18631,
+                        "minY": 184.20793,
+                        "maxX": 453.33679,
+                        "maxY": 315.13654
+                    },
+                    "x": 326.18631,
+                    "y": 184.20793,
+                    "w": 127.15048000000002,
+                    "h": 130.92861000000002
+                }
+            }
+        }
+    },
+    {
+        "id": "cec1c657-ceb8-4e73-b086-2b771db12348",
+        "confidence": 0.91637,
+        "class": "horse",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 202.62433,
+                        "minY": 182.5349,
+                        "maxX": 332.99738,
+                        "maxY": 297.61493
+                    },
+                    "x": 202.62433,
+                    "y": 182.5349,
+                    "w": 130.37305000000003,
+                    "h": 115.08003000000002
+                }
+            }
+        }
+    },
+    {
+        "id": "43b1db0b-399a-407e-8c53-835e0f99dca3",
+        "confidence": 0.89323,
+        "class": "horse",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 104.89777,
+                        "minY": 174.83177,
+                        "maxX": 175.08917,
+                        "maxY": 294.43573
+                    },
+                    "x": 104.89777,
+                    "y": 174.83177,
+                    "w": 70.1914,
+                    "h": 119.60395999999997
+                }
+            }
+        }
+    }
+]

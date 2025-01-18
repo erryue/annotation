@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image is an advertisement for Coors Light beer.",
+        "sentence_cn": "图片是 Coors Light 啤酒的广告。",
+        "words": [
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a bottle of Coors Light with condensation and ice crystals on it, indicating it's cold.",
+        "sentence_cn": "该广告显著地展示了一瓶 Coors Light 啤酒，上面有凝结的水珠和冰晶，表明啤酒很冷。",
+        "words": [
+            "bottle",
+            "condensation",
+            "ice",
+            "crystals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The label on the bottle has turned blue, highlighting their \"Cold Activated Bottle\" feature.",
+        "sentence_cn": "瓶子上的标签变成了蓝色，突出了其“冷激活瓶”的功能。",
+        "words": [
+            "Cold Activated Bottle",
+            "label",
+            "bottle",
+            "Bottle",
+            "feature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a scenic view of snow-covered mountains and a clear blue sky, emphasizing the theme of cold and freshness.",
+        "sentence_cn": "背景为雪山美景和湛蓝的天空，强调寒冷和清新的主题。",
+        "words": [
+            "background",
+            "view",
+            "snow",
+            "mountains",
+            "sky",
+            "theme",
+            "cold",
+            "freshness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the image reads \"ICE COLD WHEN THE LABEL TURNS BLUE\" and \"ROCKY MOUNTAIN REFRESHMENT,\" suggesting the beer is as refreshing as the Rockies themselves.",
+        "sentence_cn": "图片上的文字写着“标签变成蓝色时冰镇”和“落基山脉清凉饮料”，暗示这款啤酒和落基山脉一样清凉。",
+        "words": [
+            "ICE COLD WHEN THE LABEL TURNS BLUE",
+            "ROCKY MOUNTAIN REFRESHMENT,",
+            "text",
+            "ICE",
+            "COLD",
+            "LABEL",
+            "BLUE",
+            "MOUNTAIN",
+            "REFRESHMENT",
+            "beer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, it encourages responsible drinking with a small note.",
+        "sentence_cn": "底部有一张小纸条，鼓励人们合理饮酒。",
+        "words": [
+            "bottom",
+            "drinking",
+            "note"
+        ],
+        "id": null
+    }
+]

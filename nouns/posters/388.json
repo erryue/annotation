@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Beverly Hills Cop III.\"",
+        "sentence_cn": "图片是《比佛利山警探 3》的电影海报。",
+        "words": [
+            "Beverly Hills Cop III.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a man wearing a black bomber jacket with white sleeves, a white t-shirt, and jeans, holding a handgun in a pose that suggests action or readiness.",
+        "sentence_cn": "照片中的男子身穿白色袖子黑色飞行员夹克、白色 T 恤和牛仔裤，手持手枪，做出准备或行动的姿势。",
+        "words": [
+            "man",
+            "bomber",
+            "jacket",
+            "sleeves",
+            "t",
+            "shirt",
+            "jeans",
+            "handgun",
+            "pose",
+            "action",
+            "readiness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is also wearing white sneakers.",
+        "sentence_cn": "他还穿着白色的运动鞋。",
+        "words": [
+            "sneakers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The name \"Eddie Murphy\" is prominently displayed at the top in bold white letters, indicating the lead actor.",
+        "sentence_cn": "“Eddie Murphy”的名字以粗体白色字母突出显示在顶部，表明他是主演。",
+        "words": [
+            "Eddie Murphy",
+            "name",
+            "top",
+            "letters",
+            "actor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a graphic of a red roller coaster track loops dramatically, adding a sense of excitement and thrill.",
+        "sentence_cn": "背景中，红色过山车轨道的图形戏剧性地循环，增添了一种兴奋和刺激的感觉。",
+        "words": [
+            "background",
+            "graphic",
+            "roller",
+            "coaster",
+            "track",
+            "sense",
+            "excitement",
+            "thrill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text \"IN FOR THE RIDE OF HIS LIFE\" is positioned to the left of the man, alluding to the movie's adventurous theme.",
+        "sentence_cn": "“IN FOR THE RIDE OF HIS LIFE” 的文字位于该男子的左侧，暗示着电影的冒险主题。",
+        "words": [
+            "IN FOR THE RIDE OF HIS LIFE",
+            "text",
+            "RIDE",
+            "LIFE",
+            "left",
+            "man",
+            "movie",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the movie's title, \"BEVERLY HILLS Cop III,\" is displayed in stylized white and red text.",
+        "sentence_cn": "在底部，电影的标题“比佛利山警探 3”以风格化的白色和红色文字显示。",
+        "words": [
+            "BEVERLY HILLS Cop III,",
+            "bottom",
+            "movie",
+            "title",
+            "III",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the release date \"MAY 25\" is mentioned.",
+        "sentence_cn": "标题下方提到了发布日期“5 月 25 日”。",
+        "words": [
+            "MAY 25",
+            "title",
+            "release",
+            "date",
+            "25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small Paramount logo is at the lower right, indicating the production company.",
+        "sentence_cn": "右下方有一个小小的派拉蒙标志，表明了制作公司的身份。",
+        "words": [
+            "logo",
+            "right",
+            "production",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is dark with vibrant red accents, enhancing the action genre vibe of the poster.",
+        "sentence_cn": "整体配色为深色，带有鲜艳的红色点缀，增强了海报的动作类型氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "accents",
+            "action",
+            "genre",
+            "vibe",
+            "poster"
+        ],
+        "id": null
+    }
+]

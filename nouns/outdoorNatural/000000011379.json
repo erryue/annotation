@@ -1,0 +1,61 @@
+[
+    {
+        "sentence": "The image shows a group of zebras standing together in a dry, arid landscape.",
+        "sentence_cn": "图像显示一群斑马站在干燥、干旱的景观中。",
+        "words": [
+            "group",
+            "zebras",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their distinctive black and white stripes are prominent.",
+        "sentence_cn": "它们独特的黑白条纹十分显眼。",
+        "words": [
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground appears sandy and sparse, with some scattered dry vegetation and a few bare tree branches.",
+        "sentence_cn": "地面看起来沙质且稀疏，有一些零散的干燥植被和几根光秃秃的树枝。",
+        "words": [
+            "ground",
+            "vegetation",
+            "tree",
+            "branches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are taller, leafless trees, suggesting a semi-desert or savanna environment.",
+        "sentence_cn": "背景中，有较高的无叶树木，表明周围是半沙漠或稀树草原环境。",
+        "words": [
+            "background",
+            "trees",
+            "semi",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and light blue, indicating a sunny day.",
+        "sentence_cn": "天空晴朗，淡蓝，预示着天气晴朗。",
+        "words": [
+            "sky",
+            "light",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are mostly facing towards the right of the image, and they seem calm and relaxed in their natural habitat.",
+        "sentence_cn": "斑马大多面向图像的右侧，它们在自然栖息地中显得平静而放松。",
+        "words": [
+            "zebras",
+            "habitat"
+        ],
+        "id": null
+    }
+]

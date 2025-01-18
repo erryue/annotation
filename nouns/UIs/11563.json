@@ -1,0 +1,228 @@
+[
+    {
+        "sentence": "The image is a screenshot from a language learning app focused on Spanish.",
+        "sentence_cn": "该图是一款专注于西班牙语的语言学习应用程序的屏幕截图。",
+        "words": [
+            "language",
+            "learning",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is divided into different sections and categories to help learn vocabulary and phrases.",
+        "sentence_cn": "它分为不同的部分和类别，以帮助学习词汇和短语。",
+        "words": [
+            "sections",
+            "categories",
+            "vocabulary",
+            "phrases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Bar:",
+        "sentence_cn": "1. 顶部栏：",
+        "words": [
+            "Top Bar",
+            "Bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The screen shows the word \"Spanish\" prominently at the top, likely indicating the language being learned.",
+        "sentence_cn": "- 屏幕顶部显著显示“西班牙语”一词，可能表明正在学习的语言。",
+        "words": [
+            "Spanish",
+            "screen",
+            "word",
+            "top",
+            "language"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The time on the device is 8:05, and several icons are visible at the top for connectivity, notifications, and apps.",
+        "sentence_cn": "- 设备上的时间为 8:05，顶部可以看到几个用于连接、通知和应用程序的图标。",
+        "words": [
+            "time",
+            "device",
+            "8:05",
+            "icons",
+            "top",
+            "connectivity",
+            "notifications",
+            "apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Main Sections:",
+        "sentence_cn": "2. 主要部分：",
+        "words": [
+            "Main Sections",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Phrases and Favorites: Tabs are available, with \"Phrases\" currently selected.",
+        "sentence_cn": "- 短语和收藏夹：标签可用，当前已选择“短语”。",
+        "words": [
+            "Phrases",
+            "Favorites",
+            "Phrases",
+            "Phrases",
+            "",
+            "Favorites",
+            "",
+            "",
+            "Tabs",
+            "Phrases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Suggestion Box:",
+        "sentence_cn": "- 建议箱：",
+        "words": [
+            "Suggestion Box",
+            "Suggestion",
+            "Box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Displays the English word \"nose\" with its Spanish translation \"nariz.\"",
+        "sentence_cn": "- 显示英文单词“nose”及其西班牙语翻译“nariz”。",
+        "words": [
+            "nose",
+            "nariz.",
+            "word",
+            "nose",
+            "translation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - An icon of a light bulb is labeled \"Suggestion.\"",
+        "sentence_cn": "- 灯泡图标标有“建议”。",
+        "words": [
+            "Suggestion.",
+            "icon",
+            "bulb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Categories:",
+        "sentence_cn": "3. 类别：",
+        "words": [
+            "Categories",
+            "Categories"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Six illustrated categories are shown with descriptive icons and titles:",
+        "sentence_cn": "- 显示六个带有描述性图标和标题的类别：",
+        "words": [
+            "Six",
+            "categories",
+            "icons",
+            "titles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Common: Illustrated with a person waving.",
+        "sentence_cn": "- 常见：以一个人挥手的画面为例。",
+        "words": [
+            "Common",
+            "person"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Emergency: Shown with a first aid kit.",
+        "sentence_cn": "- 紧急情况：显示急救箱。",
+        "words": [
+            "Emergency",
+            "Emergency",
+            "aid",
+            "kit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Romance: Represented with two heart-shaped balloons.",
+        "sentence_cn": "- 浪漫：用两个心形气球表示。",
+        "words": [
+            "Romance",
+            "Romance",
+            "two",
+            "heart",
+            "balloons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Greetings: Depicted with a handshake.",
+        "sentence_cn": "- 问候：以握手来表示。",
+        "words": [
+            "Greetings",
+            "Greetings",
+            "handshake"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Eating: Illustrated with a plate and cutlery on a yellow background.",
+        "sentence_cn": "- 进食：以黄色背景描绘盘子和餐具。",
+        "words": [
+            "Eating",
+            "Eating",
+            "plate",
+            "cutlery",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Shopping: Shown with a shopping bag.",
+        "sentence_cn": "- 购物：显示购物袋。",
+        "words": [
+            "Shopping",
+            "Shopping",
+            "shopping",
+            "bag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Numbers: Uses colorful blocks showing the numbers 1, 2, and 3.",
+        "sentence_cn": "- 数字：使用彩色块显示数字 1、2 和 3。",
+        "words": [
+            "Numbers",
+            "Numbers",
+            "blocks",
+            "numbers",
+            "1",
+            "2",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout is colorful and visually appealing, with each category designed to represent its function with appropriate icons, making it easy to navigate for users.",
+        "sentence_cn": "布局丰富多彩，视觉上具有吸引力，每个类别都用适当的图标来代表其功能，方便用户浏览。",
+        "words": [
+            "layout",
+            "category",
+            "function",
+            "icons",
+            "users"
+        ],
+        "id": null
+    }
+]

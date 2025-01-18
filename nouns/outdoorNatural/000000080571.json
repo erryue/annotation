@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image shows a group of seven goats walking towards the camera on a paved brick path.",
+        "sentence_cn": "照片中，七只山羊沿着铺好的砖路向镜头走来。",
+        "words": [
+            "group",
+            "seven",
+            "goats",
+            "camera",
+            "brick",
+            "path"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The goats are of varying colors, including brown, beige, and cream.",
+        "sentence_cn": "山羊的颜色各异，包括棕色、米色和奶油色。",
+        "words": [
+            "goats",
+            "colors",
+            "brown",
+            "beige",
+            "cream"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The path they are on is bordered by green grass and trees in the background, suggesting a park or garden setting.",
+        "sentence_cn": "他们所走的小路背景两旁是绿草和树木，让人联想到公园或花园。",
+        "words": [
+            "path",
+            "grass",
+            "trees",
+            "background",
+            "park",
+            "garden"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The goats appear to be moving together in a natural environment, creating a dynamic and lively scene.",
+        "sentence_cn": "山羊似乎在自然环境中一起移动，创造出动态和热闹的场景。",
+        "words": [
+            "goats",
+            "environment",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is natural, with shadows cast on the path.",
+        "sentence_cn": "灯光很自然，小路上投射出阴影。",
+        "words": [
+            "lighting",
+            "shadows",
+            "path"
+        ],
+        "id": null
+    }
+]

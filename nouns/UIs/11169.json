@@ -1,0 +1,176 @@
+[
+    {
+        "sentence": "The image is a screenshot from a smartphone.",
+        "sentence_cn": "该图片是智能手机的截图。",
+        "words": [
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Bar:",
+        "sentence_cn": "1. 顶部栏：",
+        "words": [
+            "Top Bar",
+            "Bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Contains typical smartphone interface icons like signal strength, Wi-Fi, battery, and the time, which is shown as 1:06.",
+        "sentence_cn": "- 包含典型的智能手机界面图标，如信号强度、Wi-Fi、电池和时间，显示为 1:06。",
+        "words": [
+            "smartphone",
+            "interface",
+            "icons",
+            "signal",
+            "strength",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "time",
+            "1:06"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Upper Image Section:",
+        "sentence_cn": "2. 上图部分：",
+        "words": [
+            "Upper Image Section",
+            "Image",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Shows three slices of kiwi fruit arranged horizontally.",
+        "sentence_cn": "- 显示水平排列的三片猕猴桃片。",
+        "words": [
+            "three",
+            "slices",
+            "kiwi",
+            "fruit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The slices are bright green with the characteristic black seeds around a white center.",
+        "sentence_cn": "切片呈鲜绿色，白色中心周围有典型的黑色种子。",
+        "words": [
+            "slices",
+            "seeds",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lower Image Section:",
+        "sentence_cn": "3. 下图部分：",
+        "words": [
+            "Lower Image Section",
+            "Image",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Contains several colorful cartoon characters from the \"Trolls\" franchise.",
+        "sentence_cn": "- 包含“巨魔”系列中的几个丰富多彩的卡通人物。",
+        "words": [
+            "Trolls",
+            "cartoon",
+            "characters",
+            "franchise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each character is accompanied by a phrase, including \"BYE,\" \"HEY!,\" \"NO!,\" \"HELLO,\" \"HMMM,\" \"OK,\" \"LET'S GO!,\" and \"ON MY WAY!\"",
+        "sentence_cn": "每个角色都配有一个短语，包括“再见”、“嘿！”、“不！”、“你好”、“嗯”、“好的”、“我们走吧！”和“我在路上！”",
+        "words": [
+            "BYE,",
+            "HEY!,",
+            "NO!,",
+            "HELLO,",
+            "HMMM,",
+            "OK,",
+            "LET'S GO!,",
+            "ON MY WAY!",
+            "character",
+            "phrase",
+            "HMMM",
+            "WAY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The background is a light color, and the phrases are in different colors matching the characters.",
+        "sentence_cn": "- 背景为浅色，短语采用与字符相匹配的不同颜色。",
+        "words": [
+            "background",
+            "color",
+            "phrases",
+            "colors",
+            "characters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Bar:",
+        "sentence_cn": "4. 底部栏：",
+        "words": [
+            "Bottom Bar",
+            "Bar",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Has a white background with icons such as a star, two troll character icons, and a plus symbol.",
+        "sentence_cn": "- 背景为白色，带有星星、两个巨魔角色图标和加号等图标。",
+        "words": [
+            "background",
+            "icons",
+            "star",
+            "two",
+            "troll",
+            "character",
+            "icons",
+            "plus",
+            "symbol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This appears to be a messaging app interface with sticker options.",
+        "sentence_cn": "这似乎是一个带有贴纸选项的消息应用程序界面。",
+        "words": [
+            "messaging",
+            "app",
+            "interface",
+            "sticker",
+            "options"
+        ],
+        "id": null
+    }
+]

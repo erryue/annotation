@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image depicts a small, cozy bedroom.",
+        "sentence_cn": "图像描绘的是一间小而舒适的卧室。",
+        "words": [
+            "bedroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a wooden bed with a colorful patchwork quilt.",
+        "sentence_cn": "客房配有一张木床，床上铺有彩色拼布被子。",
+        "words": [
+            "bed",
+            "patchwork",
+            "quilt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A neatly folded white towel is placed on the quilt.",
+        "sentence_cn": "被子上放着一条折叠整齐的白毛巾。",
+        "words": [
+            "towel",
+            "quilt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the bed, a window with a red curtain allows natural light to enter the room.",
+        "sentence_cn": "床旁边有一扇挂着红色窗帘的窗户，让自然光进入房间。",
+        "words": [
+            "bed",
+            "window",
+            "curtain",
+            "light",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A rustic mirror with a bear-themed design is mounted on the wall.",
+        "sentence_cn": "墙上挂着一面以熊为主题设计的乡村风格镜子。",
+        "words": [
+            "mirror",
+            "bear",
+            "design",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above it, an old-style CRT television is positioned, bracketed high on the wall in one corner.",
+        "sentence_cn": "它的上方，放置着一台老式 CRT 电视机，固定在角落处的高高的墙上。",
+        "words": [
+            "style",
+            "television",
+            "wall",
+            "one",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has light-colored walls and a carpeted floor.",
+        "sentence_cn": "房间的墙壁是浅色的，地板上铺着地毯。",
+        "words": [
+            "room",
+            "walls",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Ceiling lighting with a fan is partially visible in the image.",
+        "sentence_cn": "图像中可以部分看到带有风扇的天花板照明。",
+        "words": [
+            "Ceiling",
+            "lighting",
+            "fan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall decor and furnishings suggest a simple, possibly rustic or cabin-like theme.",
+        "sentence_cn": "整体装饰和家具呈现出一种简单、质朴或小屋般的主题。",
+        "words": [
+            "decor",
+            "furnishings",
+            "cabin",
+            "theme"
+        ],
+        "id": null
+    }
+]

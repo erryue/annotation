@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Basic Instinct.\"",
+        "sentence_cn": "图片是《本能》的电影海报。",
+        "words": [
+            "Basic Instinct.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a slightly grainy, blue-tinted close-up of two individuals in an intimate embrace.",
+        "sentence_cn": "海报上是两个人亲密拥抱的特写镜头，略带颗粒感，色调为蓝色。",
+        "words": [
+            "poster",
+            "close",
+            "up",
+            "two",
+            "individuals",
+            "embrace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is shown in profile, while the woman faces the viewer with an intense and mysterious expression, partially obscured by the man's shoulder.",
+        "sentence_cn": "男人呈现侧面，而女人则以强烈而神秘的表情面对观看者，部分表情被男人的肩膀遮挡。",
+        "words": [
+            "man",
+            "profile",
+            "woman",
+            "viewer",
+            "expression",
+            "man",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the name \"MICHAEL DOUGLAS\" is prominently displayed in red capital letters.",
+        "sentence_cn": "海报顶部以红色大写字母显著地显示着“MICHAEL DOUGLAS”的名字。",
+        "words": [
+            "MICHAEL DOUGLAS",
+            "top",
+            "poster",
+            "name",
+            "capital",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, there is a tagline written in black: \"A brutal murder.",
+        "sentence_cn": "图片下方，有一行黑色的标语：“一场残忍的谋杀。",
+        "words": [
+            "tagline",
+            "murder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A brilliant killer.",
+        "sentence_cn": "一位出色的杀手。",
+        "words": [
+            "killer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cop who can't resist the danger.\"",
+        "sentence_cn": "一个无法抵抗危险的警察。”",
+        "words": [
+            "cop",
+            "danger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, the title \"BASIC INSTINCT\" is written in large, bold red and black letters.",
+        "sentence_cn": "海报底部用红黑色粗体大字写着“本能”的标题。",
+        "words": [
+            "BASIC INSTINCT",
+            "bottom",
+            "poster",
+            "title",
+            "INSTINCT",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there is a credit block detailing the film's cast and crew, studio logos, and other production information.",
+        "sentence_cn": "标题下方是片尾字幕，详细介绍了电影的演员和剧组人员、制片厂徽标和其他制作信息。",
+        "words": [
+            "title",
+            "credit",
+            "block",
+            "film",
+            "cast",
+            "crew",
+            "studio",
+            "logos",
+            "production",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a classic and provocative design that hints at themes of mystery and seduction.",
+        "sentence_cn": "海报设计经典而富有挑逗性，暗示着神秘和诱惑的主题。",
+        "words": [
+            "poster",
+            "design",
+            "themes",
+            "mystery",
+            "seduction"
+        ],
+        "id": null
+    }
+]

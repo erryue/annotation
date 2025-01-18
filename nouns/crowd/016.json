@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image depicts two young children playing in a grassy field.",
+        "sentence_cn": "图像描绘了两个小孩在草地上玩耍。",
+        "words": [
+            "two",
+            "children",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both are holding hands and appear to be joyfully spinning or dancing with each other.",
+        "sentence_cn": "两人都手牵着手，看上去正快乐地旋转或跳舞。",
+        "words": [
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The child on the left is wearing an orange t-shirt, blue jeans, and white sneakers.",
+        "sentence_cn": "- 左边的孩子穿着橙色 T 恤、蓝色牛仔裤和白色运动鞋。",
+        "words": [
+            "child",
+            "left",
+            "t",
+            "shirt",
+            "jeans",
+            "sneakers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their light-colored hair is flying as they leap or spin.",
+        "sentence_cn": "当它们跳跃或旋转时，它们的浅色头发飞扬。",
+        "words": [
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The child on the right is dressed in a gray hoodie, blue jeans, and white shoes.",
+        "sentence_cn": "- 右边的孩子穿着灰色连帽衫、蓝色牛仔裤和白色鞋子。",
+        "words": [
+            "child",
+            "right",
+            "hoodie",
+            "jeans",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their hair is tied up in a small ponytail.",
+        "sentence_cn": "他们的头发扎成了小马尾。",
+        "words": [
+            "hair",
+            "ponytail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a lush, green meadow, suggesting an outdoor, playful setting under natural light.",
+        "sentence_cn": "背景是一片郁郁葱葱的绿色草地，呈现出自然光下的户外嬉戏场景。",
+        "words": [
+            "background",
+            "meadow",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children seem happy and energetic in their interaction.",
+        "sentence_cn": "孩子们在互动中显得快乐而充满活力。",
+        "words": [
+            "children",
+            "interaction"
+        ],
+        "id": null
+    }
+]

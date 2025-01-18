@@ -1,0 +1,173 @@
+[
+    {
+        "sentence": "The image is a screenshot of the Daily News Pix website.",
+        "sentence_cn": "该图是《每日新闻图片》网站的截图。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: The top section has the logo \"DAILY NEWS PIX,\" a brief mention of it being the photo archive of New York¡¯s Daily News, and navigation options like \"Home,\" \"Pricing,\" \"Contact Us,\" \"About Us,\" and \"Help.\"",
+        "sentence_cn": "- 标题：顶部有“DAILY NEWS PIX”的标志，简要提到它是纽约每日新闻的照片档案，以及“主页”、“定价”、“联系我们”、“关于我们”和“帮助”等导航选项。",
+        "words": [
+            "Header:",
+            "DAILY NEWS PIX,",
+            "Home,",
+            "Pricing,",
+            "Contact Us,",
+            "About Us,",
+            "Help.",
+            "Header",
+            "section",
+            "logo",
+            "mention",
+            "photo",
+            "archive",
+            "New",
+            "York¡¯s",
+            "Daily",
+            "navigation",
+            "options",
+            "Home",
+            "Pricing",
+            "Help"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Search and Account Options: There is a search bar and options to register or log in.",
+        "sentence_cn": "- 搜索和帐户选项：有一个搜索栏和注册或登录选项。",
+        "words": [
+            "Search and Account Options:",
+            "Search",
+            "Account",
+            "Options",
+            "search",
+            "bar",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Image: A black and white photograph titled, \"SUMMER IN THE CITY: New York Baseball 1947-1957,\" inviting users to click to view the gallery.",
+        "sentence_cn": "- 主图：一张黑白照片，标题为“城市之夏：1947-1957 年的纽约棒球”，邀请用户点击查看图库。",
+        "words": [
+            "Main Image:",
+            "SUMMER IN THE CITY: New York Baseball 1947-1957,",
+            "Image",
+            "photograph",
+            "CITY",
+            "1947",
+            "1957",
+            "users",
+            "gallery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows a baseball player in uniform, possibly from the Dodgers, surrounded by people in a stadium setting.",
+        "sentence_cn": "照片中，一名身穿制服的棒球运动员（可能是道奇队的球员）在体育场内被人群包围。",
+        "words": [
+            "baseball",
+            "player",
+            "uniform",
+            "people",
+            "stadium"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Left Sidebar: Contains a menu with categories like \"Current Events,\" \"Animals,\" \"Boroughs & Neighborhoods,\" \"Crime,\" \"Fashion,\" etc.",
+        "sentence_cn": "- 左侧边栏：包含“时事”、“动物”、“行政区和社区”、“犯罪”、“时尚”等类别的菜单。",
+        "words": [
+            "Left Sidebar:",
+            "Current Events,",
+            "Animals,",
+            "Boroughs & Neighborhoods,",
+            "Crime,",
+            "Fashion,",
+            "Sidebar",
+            "menu",
+            "categories",
+            "Events",
+            "Animals",
+            "Crime",
+            "Fashion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Right Sidebar: It mentions commercial use, noting a partnership with Getty Images for editorial and commercial licensing.",
+        "sentence_cn": "- 右侧边栏：提到了商业用途，并指出与 Getty Images 建立了编辑和商业许可的合作关系。",
+        "words": [
+            "Right Sidebar:",
+            "Sidebar",
+            "use",
+            "partnership",
+            "licensing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are links to social media platforms like Twitter and Foursquare, as well as a section called \"Jeter Front Pages!\"",
+        "sentence_cn": "其中有 Twitter 和 Foursquare 等社交媒体平台的链接，以及一个名为“Jeter Front Pages！”的部分。",
+        "words": [
+            "Jeter Front Pages!",
+            "links",
+            "media",
+            "platforms",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below Main Image: There is a section titled \"New York Buildings and Landmarks Galleries,\" featuring images and brief descriptions of the Brooklyn Bridge, Statue of Liberty, Chrysler Building, and World Trade Center.",
+        "sentence_cn": "- 主图下方：有一个名为“纽约建筑和地标画廊”的部分，其中包含布鲁克林大桥、自由女神像、克莱斯勒大厦和世界贸易中心的图片和简要说明。",
+        "words": [
+            "Below Main Image:",
+            "New York Buildings and Landmarks Galleries,",
+            "Image",
+            "section",
+            "images",
+            "descriptions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Notices: There are notices about a \"SHIPPING SCHEDULE\" and a note that they do not ship to addresses outside the U.S.",
+        "sentence_cn": "- 通知：有关于“运输时间表”的通知，以及他们不运送到美国境外地址的通知。",
+        "words": [
+            "Notices:",
+            "SHIPPING SCHEDULE",
+            "Notices",
+            "notices",
+            "SHIPPING",
+            "SCHEDULE",
+            "note",
+            "addresses",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme is focused on photo galleries related to New York landmarks and historical events.",
+        "sentence_cn": "总体主题集中在与纽约地标和历史事件相关的照片画廊上。",
+        "words": [
+            "theme",
+            "photo",
+            "galleries",
+            "New",
+            "York",
+            "landmarks",
+            "events"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "sentence": "The image appears to be a webpage layout with a focus on an article titled \"Getting Connected to UK Higher Education.\"",
+        "sentence_cn": "该图片似乎是一个网页布局，重点关注一篇题为“连接英国高等教育”的文章。",
+        "words": [
+            "Getting Connected to UK Higher Education.",
+            "webpage",
+            "layout",
+            "focus",
+            "article"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's a section with links and information about Eric Stoller, including options to follow his Twitter, learn about him, email him, subscribe to new posts, and view his bio and testimonials.",
+        "sentence_cn": "在左侧，有一个包含 Eric Stoller 的链接和信息的部分，包括关注他的 Twitter、了解他、给他发送电子邮件、订阅新帖子以及查看他的简历和推荐的选项。",
+        "words": [
+            "section",
+            "links",
+            "information",
+            "options",
+            "posts",
+            "bio",
+            "testimonials"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An orange logo for \"Inside Higher Ed\" is also present.",
+        "sentence_cn": "其中还出现了“Inside Higher Ed”的橙色标志。",
+        "words": [
+            "Inside Higher Ed",
+            "orange",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content features an image of a vintage suitcase adorned with various stickers, including the flags of the UK and the USA, social media logos (Twitter, LinkedIn), the Apple logo, and the \"Inside Higher Ed\" logo.",
+        "sentence_cn": "主要内容是一个复古手提箱的图像，上面贴有各种贴纸，包括英国和美国的国旗、社交媒体标志（Twitter、LinkedIn）、苹果标志和“Inside Higher Ed”标志。",
+        "words": [
+            "Inside Higher Ed",
+            "content",
+            "suitcase",
+            "stickers",
+            "flags",
+            "UK",
+            "USA",
+            "media",
+            "logos",
+            "logo",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, there¡¯s a brief text stating the article is about using social media to learn about UK higher education.",
+        "sentence_cn": "图片下方有一段简短的文字，说明该文章是关于使用社交媒体了解英国高等教育的。",
+        "words": [
+            "text",
+            "article",
+            "media",
+            "UK",
+            "education"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, some recommended social media accounts to follow are mentioned: @blackbullion, @kenton_lewis, @daveowhite, @digisim.",
+        "sentence_cn": "此外，还提到了一些建议关注的社交媒体账户：@blackbullion、@kenton_lewis、@daveowhite、@digisim。",
+        "words": [
+            "media",
+            "accounts"
+        ],
+        "id": null
+    }
+]

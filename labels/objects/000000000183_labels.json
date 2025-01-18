@@ -1,0 +1,46 @@
+[
+    {
+        "id": "fb004d5d-dfc6-48d7-bca1-5a95f0e1d93f",
+        "confidence": 0.87941,
+        "class": "wine glass",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 245.95348,
+                        "minY": 51.20911,
+                        "maxX": 317.18768,
+                        "maxY": 150.31633
+                    },
+                    "x": 245.95348,
+                    "y": 51.20911,
+                    "w": 71.23419999999999,
+                    "h": 99.10721999999998
+                }
+            }
+        }
+    },
+    {
+        "id": "3d73131b-22c2-47ef-8a5b-4eeea817078a",
+        "confidence": 0.81405,
+        "class": "bottle",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 76.03438,
+                        "minY": 16.68068,
+                        "maxX": 143.61337,
+                        "maxY": 163.47932
+                    },
+                    "x": 76.03438,
+                    "y": 16.68068,
+                    "w": 67.57899,
+                    "h": 146.79864
+                }
+            }
+        }
+    }
+]

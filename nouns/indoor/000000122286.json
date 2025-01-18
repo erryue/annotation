@@ -1,0 +1,159 @@
+[
+    {
+        "sentence": "The image depicts a cozy bedroom with a modern style.",
+        "sentence_cn": "图像描绘的是一间现代风格的舒适卧室。",
+        "words": [
+            "bedroom",
+            "style"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Bed: The room features a neatly made bed with a simple wood frame and dark bedding.",
+        "sentence_cn": "- 床：房间里有一张整洁的床，有简单的木框架和深色的床上用品。",
+        "words": [
+            "Bed",
+            "Bed",
+            "room",
+            "bed",
+            "wood",
+            "frame",
+            "bedding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is placed against a wall beneath a large window with closed horizontal blinds.",
+        "sentence_cn": "它靠墙放置在一扇大窗户下方，窗户的水平百叶窗关闭。",
+        "words": [
+            "wall",
+            "window",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lighting: There is a tall standing lamp next to the bed, providing warm ambient lighting.",
+        "sentence_cn": "- 照明：床旁边有一盏高大的落地灯，提供温暖的环境照明。",
+        "words": [
+            "Lighting",
+            "Lighting",
+            "lamp",
+            "bed",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another lamp with multiple lights stands near the bed, enhancing the room's illumination.",
+        "sentence_cn": "另一盏带有多盏灯的灯放在床边，增强了房间的照明。",
+        "words": [
+            "lamp",
+            "lights",
+            "bed",
+            "room",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Furniture: To the right of the bed is a small bookshelf filled with books and a few decorative items.",
+        "sentence_cn": "- 家具：床的右边是一个小书架，上面摆满了书籍和一些装饰品。",
+        "words": [
+            "Furniture",
+            "Furniture",
+            "right",
+            "bed",
+            "bookshelf",
+            "books",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby, there's a desk with a computer and another chair.",
+        "sentence_cn": "附近有一张带电脑的桌子和另一把椅子。",
+        "words": [
+            "desk",
+            "computer",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setup suggests the room serves as both a sleeping and workspace.",
+        "sentence_cn": "该设置表明该房间既可用作睡眠区，又可用作工作区。",
+        "words": [
+            "room",
+            "workspace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Decor: A framed item, possibly a poster or art piece, is hung on the wall.",
+        "sentence_cn": "- 装饰：墙上挂着一个带框的物品，可能是海报或艺术品。",
+        "words": [
+            "Decor",
+            "Decor",
+            "item",
+            "poster",
+            "art",
+            "piece",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room¡¯s decor is minimalistic, giving it a clean and orderly appearance.",
+        "sentence_cn": "房间的装饰简约，看起来干净整洁。",
+        "words": [
+            "room¡¯s",
+            "decor",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Seating: In the foreground, there appears to be a futon or an additional soft chair, ideal for relaxation.",
+        "sentence_cn": "- 座位：在前景中，似乎有一个蒲团或一把额外的软椅，非常适合放松。",
+        "words": [
+            "Seating",
+            "Seating",
+            "foreground",
+            "futon",
+            "chair",
+            "relaxation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Flooring: The room is carpeted in a neutral tone, complementing the rest of the space.",
+        "sentence_cn": "- 地板：房间铺有中性色调的地毯，与其余空间相得益彰。",
+        "words": [
+            "Flooring",
+            "Flooring",
+            "room",
+            "tone",
+            "rest",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room is well-organized and functional, combining elements for sleeping, reading, and working.",
+        "sentence_cn": "总体而言，房间布局合理，功能齐全，集睡眠、阅读和工作等功能于一体。",
+        "words": [
+            "room",
+            "elements",
+            "sleeping",
+            "reading"
+        ],
+        "id": null
+    }
+]

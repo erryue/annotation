@@ -1,0 +1,134 @@
+[
+    {
+        "sentence": "The image shows an assortment of grocery items on a table.",
+        "sentence_cn": "图中显示了桌子上的各类杂货。",
+        "words": [
+            "assortment",
+            "grocery",
+            "items",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Fruits:",
+        "sentence_cn": "1. 水果：",
+        "words": [
+            "Fruits",
+            "Fruits",
+            "",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Two ripe mangoes, one more red and yellow, and the other with a green and red skin.",
+        "sentence_cn": "- 两个成熟的芒果，一个是红色和黄色，另一个是绿色和红色的果皮。",
+        "words": [
+            "Two",
+            "mangoes",
+            "one",
+            "skin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A lemon, yellow with a slightly rough texture, placed on top of a container of strawberries.",
+        "sentence_cn": "- 一个黄色的柠檬，质地略显粗糙，放在一盒草莓上。",
+        "words": [
+            "lemon",
+            "texture",
+            "top",
+            "container",
+            "strawberries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A clear plastic container filled with red strawberries.",
+        "sentence_cn": "- 一个装满红色草莓的透明塑料容器。",
+        "words": [
+            "container",
+            "strawberries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Dairy Products:",
+        "sentence_cn": "2. 乳制品：",
+        "words": [
+            "Dairy Products",
+            "Dairy",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A small carton of Lucerne heavy whipping cream with an orange label.",
+        "sentence_cn": "- 一小盒贴有橙色标签的卢塞恩浓稠奶油。",
+        "words": [
+            "carton",
+            "whipping",
+            "cream",
+            "orange",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A round tub of mascarpone cheese with a brown and white label.",
+        "sentence_cn": "- 一盒圆形的马斯卡彭奶酪，贴有棕色和白色标签。",
+        "words": [
+            "tub",
+            "mascarpone",
+            "cheese",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Packaged Goods:",
+        "sentence_cn": "3. 包装商品：",
+        "words": [
+            "Packaged Goods",
+            "Goods"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A package of Great Value sugar cookies, depicted with an image of a cookie with rainbow sprinkles on the packaging.",
+        "sentence_cn": "- 一包 Great Value 糖饼干，包装上绘有带有彩虹糖屑的饼干图像。",
+        "words": [
+            "package",
+            "sugar",
+            "cookies",
+            "cookie",
+            "rainbow",
+            "sprinkles",
+            "packaging"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are other grocery items like plastic bags and a spiral notebook visible.",
+        "sentence_cn": "在背景中，可以看到其他杂货，例如塑料袋和螺旋笔记本。",
+        "words": [
+            "background",
+            "grocery",
+            "items",
+            "bags",
+            "notebook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting looks like a kitchen or a common area where groceries are sorted.",
+        "sentence_cn": "这个场景看起来像是一个厨房或者一个对杂货进行分类的公共区域。",
+        "words": [
+            "kitchen",
+            "area",
+            "groceries"
+        ],
+        "id": null
+    }
+]

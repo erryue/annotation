@@ -1,0 +1,150 @@
+[
+    {
+        "sentence": "The image depicts a living room that appears to be set up for a celebration or party.",
+        "sentence_cn": "图片描绘的是一间看似为庆祝或聚会而布置的客厅。",
+        "words": [
+            "room",
+            "celebration",
+            "party"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is moderately cluttered, with several noticeable elements:",
+        "sentence_cn": "房间相当杂乱，有几个明显的元素：",
+        "words": [
+            "room",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Furniture: There are a few pieces of furniture, including a beige couch, a patterned armchair, and a black surface that could be a table or piano.",
+        "sentence_cn": "1. 家具：有几件家具，包括一张米色沙发、一把带图案的扶手椅，以及一个可能是桌子或钢琴的黑色表面。",
+        "words": [
+            "Furniture",
+            "Furniture",
+            "pieces",
+            "furniture",
+            "couch",
+            "armchair",
+            "surface",
+            "table",
+            "piano"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A lamp is placed beside the seating area.",
+        "sentence_cn": "座位区旁边放置了一盏灯。",
+        "words": [
+            "lamp",
+            "seating",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Decorations: Streamers and balloons in different colors (red, blue, white, and pink) are strung across the room.",
+        "sentence_cn": "2. 装饰：不同颜色（红、蓝、白和粉色）的彩带和气球挂满整个房间。",
+        "words": [
+            "Decorations",
+            "Decorations",
+            "Streamers",
+            "balloons",
+            "colors",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a decorative piece with hanging red baubles and green foliage, resembling mistletoe, in the ceiling area.",
+        "sentence_cn": "天花板区域有一件装饰品，上面悬挂着红色的小饰品和绿色的叶子，形似槲寄生。",
+        "words": [
+            "piece",
+            "baubles",
+            "foliage",
+            "mistletoe",
+            "ceiling",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Signage: A large pink sign is propped up on one side of the room with what seems to be handwritten text.",
+        "sentence_cn": "3. 标牌：房间一侧立着一个巨大的粉色标牌，上面似乎是手写的文字。",
+        "words": [
+            "Signage",
+            "Signage",
+            "sign",
+            "one",
+            "room",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above, there is a banner with visible letters that, although backward, likely says \"CONGRATULATIONS.\"",
+        "sentence_cn": "上方是一条横幅，上面清晰可见字母，虽然写反了，但很可能是写着“恭喜”。",
+        "words": [
+            "CONGRATULATIONS.",
+            "banner",
+            "letters",
+            "CONGRATULATIONS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Miscellaneous Items: A whiteboard or similar object sits near the TV.",
+        "sentence_cn": "4. 杂项：电视旁边有一块白板或类似物品。",
+        "words": [
+            "Miscellaneous Items",
+            "Items",
+            "whiteboard",
+            "object",
+            "TV"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the floor, there are some items such as a box labeled \"Pike\" and a few other possibly discarded items.",
+        "sentence_cn": "地板上有一些物品，例如标有“派克”的盒子和一些其他可能被丢弃的物品。",
+        "words": [
+            "Pike",
+            "floor",
+            "items",
+            "box",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Lighting: The room is lit by ceiling lights and the floor lamp, giving it a warm ambiance.",
+        "sentence_cn": "5. 照明：房间由天花板灯和落地灯照亮，营造出温馨的氛围。",
+        "words": [
+            "Lighting",
+            "Lighting",
+            "room",
+            "ceiling",
+            "lights",
+            "floor",
+            "lamp",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. General Condition: The room looks lived-in and casual, with various items scattered around, suggesting preparation for or the aftermath of a recent gathering.",
+        "sentence_cn": "6. 总体情况：房间看起来有人居住且很随意，周围散落着各种物品，暗示着最近聚会的准备或后续情况。",
+        "words": [
+            "General Condition",
+            "Condition",
+            "room",
+            "items",
+            "preparation",
+            "aftermath",
+            "gathering"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image depicts a street scene featuring an elegant, historical building.",
+        "sentence_cn": "该图描绘的是一幅街景，其中有一座优雅的历史建筑。",
+        "words": [
+            "street",
+            "scene",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This structure has an appealing architectural design with arched entrances supported by columns, and is identified as a \"Hotel de Ville\" (Town Hall) with a traditional domed roof.",
+        "sentence_cn": "该建筑拥有引人注目的建筑设计，其拱形入口由柱子支撑，并被称为“市政厅”，具有传统的圆顶屋顶。",
+        "words": [
+            "Hotel de Ville",
+            "structure",
+            "design",
+            "entrances",
+            "columns",
+            "roof"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building is adorned with the Luxembourgish flag, indicating its location in Luxembourg.",
+        "sentence_cn": "该建筑装饰有卢森堡国旗，表明其位于卢森堡。",
+        "words": [
+            "building",
+            "flag",
+            "location",
+            "Luxembourg"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a traffic light and street lamps are visible, positioned along a paved road.",
+        "sentence_cn": "在前景中，可以看到交通灯和路灯，它们位于一条铺好的道路旁。",
+        "words": [
+            "foreground",
+            "traffic",
+            "light",
+            "street",
+            "lamps",
+            "road"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a signboard displaying a large map or informational content situated nearby.",
+        "sentence_cn": "附近有一块显示大型地图或信息内容的招牌。",
+        "words": [
+            "signboard",
+            "map",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two pedestrians are seen walking, likely locals or tourists, adding life to the otherwise formal setting.",
+        "sentence_cn": "有两个行人在行走，可能是当地人或游客，为原本严肃的场景增添了活力。",
+        "words": [
+            "Two",
+            "pedestrians",
+            "locals",
+            "tourists",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area is lined with trees showing fresh leaves, suggesting a springtime setting.",
+        "sentence_cn": "这一带树木繁茂，长满了新叶，呈现出春天的景象。",
+        "words": [
+            "area",
+            "trees",
+            "leaves",
+            "springtime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene captures a blend of historical architecture with everyday urban life.",
+        "sentence_cn": "该场景融合了历史建筑和日常城市生活。",
+        "words": [
+            "scene",
+            "blend",
+            "architecture",
+            "life"
+        ],
+        "id": null
+    }
+]

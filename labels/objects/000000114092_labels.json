@@ -1,0 +1,68 @@
+[
+    {
+        "id": "c509cfa9-5ec8-4e81-9c8b-6a682b5475a3",
+        "confidence": 0.91936,
+        "class": "fork",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 376.86932,
+                        "minY": 280.07526,
+                        "maxX": 479.53912,
+                        "maxY": 392.43378
+                    },
+                    "x": 376.86932,
+                    "y": 280.07526,
+                    "w": 102.66980000000001,
+                    "h": 112.35852
+                }
+            }
+        }
+    },
+    {
+        "id": "db937396-a6af-4f4e-8177-3cdf027f1af1",
+        "confidence": 0.91904,
+        "class": "wine glass",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 232.88368,
+                        "minY": 8.32358,
+                        "maxX": 340.35242,
+                        "maxY": 301.58295
+                    },
+                    "x": 232.88368,
+                    "y": 8.32358,
+                    "w": 107.46874,
+                    "h": 293.25937
+                }
+            }
+        }
+    },
+    {
+        "id": "80bc7ac8-ccbb-413b-a149-8c94f3b4b251",
+        "confidence": 0.84285,
+        "class": "dining table",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.7681,
+                        "minY": 53.81812,
+                        "maxX": 478.32181,
+                        "maxY": 634.48792
+                    },
+                    "x": 0.7681,
+                    "y": 53.81812,
+                    "w": 477.55371,
+                    "h": 580.6698
+                }
+            }
+        }
+    }
+]

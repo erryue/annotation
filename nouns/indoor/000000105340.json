@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "The image depicts a bright and elegant interior setting, featuring a glass-top dining table with a wooden frame.",
+        "sentence_cn": "图片描绘的是明亮而优雅的室内环境，其中设有带木制框架的玻璃面餐桌。",
+        "words": [
+            "glass",
+            "top",
+            "dining",
+            "table",
+            "frame"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there is a MacBook Pro laptop open and in use, displaying various windows on the screen.",
+        "sentence_cn": "桌子上，有一台打开并正在使用的 MacBook Pro 笔记本电脑，屏幕上显示着各种窗口。",
+        "words": [
+            "table",
+            "laptop",
+            "use",
+            "windows",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the laptop, a hard drive with connected cables is placed.",
+        "sentence_cn": "笔记本电脑的左侧放置了一块连接有电缆的硬盘。",
+        "words": [
+            "laptop",
+            "drive",
+            "cables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black computer mouse and a pair of eyeglasses are situated on the right side of the laptop.",
+        "sentence_cn": "笔记本电脑的右侧有一个黑色鼠标和一副眼镜。",
+        "words": [
+            "computer",
+            "mouse",
+            "pair",
+            "eyeglasses",
+            "laptop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, an abundant arrangement of yellow flowers sits prominently on the table, adding a burst of color.",
+        "sentence_cn": "在背景中，一束丰富的黄色花朵显眼地摆放在桌子上，增添了一抹色彩。",
+        "words": [
+            "background",
+            "arrangement",
+            "flowers",
+            "table",
+            "burst",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is warmly lit, with sunlight streaming in through large glass doors draped with light curtains, creating a cozy and inviting atmosphere.",
+        "sentence_cn": "房间灯光温暖，阳光透过挂着轻质窗帘的大玻璃门照射进来，营造出舒适温馨的氛围。",
+        "words": [
+            "room",
+            "sunlight",
+            "glass",
+            "doors",
+            "curtains",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A lamp and wooden furniture are also visible, with bookshelves containing books and potted plants contributing to the decorative and homey environment.",
+        "sentence_cn": "还可以看到灯和木制家具，书架上摆放着书籍和盆栽，营造出装饰性和温馨的环境。",
+        "words": [
+            "lamp",
+            "furniture",
+            "bookshelves",
+            "books",
+            "plants",
+            "environment"
+        ],
+        "id": null
+    }
+]

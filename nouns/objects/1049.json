@@ -1,0 +1,232 @@
+[
+    {
+        "sentence": "The image shows a neatly organized kitchen shelf.",
+        "sentence_cn": "图中显示的是整齐排列的厨房架子。",
+        "words": [
+            "kitchen",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the top shelf, there is a variety of items:",
+        "sentence_cn": "顶层架子上有各种各样的物品：",
+        "words": [
+            "shelf",
+            "variety",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Storage Jars and Bottles:",
+        "sentence_cn": "1. 储存罐和瓶子：",
+        "words": [
+            "Storage Jars and Bottles:",
+            "Storage",
+            "Jars",
+            "Bottles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the left is a glass jar with a metallic lid containing what appears to be twine or yarn balls.",
+        "sentence_cn": "- 左边是一个带金属盖的玻璃罐，里面装着看似麻线或纱球的东西。",
+        "words": [
+            "left",
+            "glass",
+            "jar",
+            "lid",
+            "twine",
+            "yarn",
+            "balls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Next, there's a tall glass bottle with a metal-and-plastic spout, possibly containing oil or vinegar.",
+        "sentence_cn": "- 接下来，有一个高玻璃瓶，带有金属和塑料喷嘴，可能装有油或醋。",
+        "words": [
+            "glass",
+            "bottle",
+            "metal",
+            "plastic",
+            "spout",
+            "oil",
+            "vinegar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle Area:",
+        "sentence_cn": "2. 中间区域：",
+        "words": [
+            "Middle Area:",
+            "Area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A rectangular woven basket serves as a decorative backdrop.",
+        "sentence_cn": "- 矩形编织篮可作为装饰背景。",
+        "words": [
+            "basket",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In front of the basket are two small, sleek, metallic salt and pepper shakers placed on a small white tray.",
+        "sentence_cn": "- 篮子前面有两个小巧、光滑、金属质感的盐瓶和胡椒瓶，放在一个白色的小托盘上。",
+        "words": [
+            "front",
+            "basket",
+            "two",
+            "salt",
+            "pepper",
+            "shakers",
+            "tray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A glass jar with a clip-lock lid contains some cookies or biscotti.",
+        "sentence_cn": "- 带有夹锁盖的玻璃罐中装有饼干或意式脆饼。",
+        "words": [
+            "glass",
+            "jar",
+            "clip",
+            "lock",
+            "lid",
+            "cookies",
+            "biscotti"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right End:",
+        "sentence_cn": "3. 右端：",
+        "words": [
+            "Right End:",
+            "End"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A wooden mortar and pestle set rests on a small white frame.",
+        "sentence_cn": "- 一套木制研钵和研杵放在一个小的白色框架上。",
+        "words": [
+            "mortar",
+            "pestle",
+            "set",
+            "frame"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Behind it are two small chalkboards leaning against the wall.",
+        "sentence_cn": "- 后面是两块靠在墙上的小黑板。",
+        "words": [
+            "two",
+            "chalkboards",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A metallic bucket with a plant is partly visible to the far right.",
+        "sentence_cn": "- 最右边可以部分看到一个装有植物的金属桶。",
+        "words": [
+            "bucket",
+            "plant",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the shelf, there are hooks with items hanging:",
+        "sentence_cn": "架子下面有挂钩，上面挂着物品：",
+        "words": [
+            "shelf",
+            "hooks",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left to Right:",
+        "sentence_cn": "1. 从左到右：",
+        "words": [
+            "Left to Right:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A heart-shaped blackboard with a rope handle.",
+        "sentence_cn": "- 带有绳索手柄的心形黑板。",
+        "words": [
+            "heart",
+            "blackboard",
+            "rope",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Metal tongs hang from a hook.",
+        "sentence_cn": "- 金属钳子挂在钩子上。",
+        "words": [
+            "Metal",
+            "tongs",
+            "hook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A pair of scissors hangs alongside a small circular disk.",
+        "sentence_cn": "- 一把剪刀挂在一个小圆盘旁边。",
+        "words": [
+            "pair",
+            "scissors",
+            "disk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A soft pouch containing a striped cloth is hung next.",
+        "sentence_cn": "- 接下来挂着一个装有条纹布的软袋。",
+        "words": [
+            "pouch",
+            "cloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic is minimalist and functional, with a mix of modern and rustic elements.",
+        "sentence_cn": "整体美学简约而实用，融合了现代与乡村元素。",
+        "words": [
+            "aesthetic",
+            "mix",
+            "elements"
+        ],
+        "id": null
+    }
+]

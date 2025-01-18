@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Kellogg's Corn Flakes.",
+        "sentence_cn": "该图是家乐氏玉米片的复古广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features a young boy wearing a baseball cap with a red brim, pouring a box of Corn Flakes into a bowl.",
+        "sentence_cn": "画中是一个戴着红帽檐棒球帽的小男孩，正在将一盒玉米片倒进碗里。",
+        "words": [
+            "boy",
+            "baseball",
+            "cap",
+            "brim",
+            "box",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The boy appears focused on his task.",
+        "sentence_cn": "这个男孩看上去专注于他的任务。",
+        "words": [
+            "boy",
+            "task"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The box of Corn Flakes is prominently displayed, with a picture of the same boy on its front, creating an interesting and recursive visual effect.",
+        "sentence_cn": "玉米片盒子被显眼地展示出来，正面是同一个男孩的照片，创造了一种有趣且递归的视觉效果。",
+        "words": [
+            "box",
+            "picture",
+            "boy",
+            "front",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting includes a glass of milk next to the bowl on a checked tablecloth, evoking a typical breakfast scene.",
+        "sentence_cn": "场景包括格子桌布上的碗旁边的一杯牛奶，让人想起典型的早餐场景。",
+        "words": [
+            "glass",
+            "milk",
+            "bowl",
+            "tablecloth",
+            "breakfast",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background has a subtle, tiled appearance.",
+        "sentence_cn": "背景呈现出一种微妙的平铺外观。",
+        "words": [
+            "background",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the image is a block of text promoting the product, mentioning the convenience and popularity of Kellogg's Corn Flakes for meals both at home and outdoors.",
+        "sentence_cn": "图片底部是一段宣传产品的文字，提到了家乐氏玉米片无论在家还是在户外用餐的便利性和受欢迎程度。",
+        "words": [
+            "bottom",
+            "block",
+            "text",
+            "product",
+            "convenience",
+            "popularity",
+            "meals",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Kellogg's logo is visible, along with the phrase \"The best to you each morning.\"",
+        "sentence_cn": "清晰可见的还有家乐氏的标志以及“每天早晨为您奉上最好的礼物”这句话。",
+        "words": [
+            "The best to you each morning.",
+            "logo",
+            "phrase",
+            "morning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone is cheerful and wholesome, emphasizing the brand as a family-friendly choice.",
+        "sentence_cn": "整体基调欢快、健康，强调该品牌是适合家庭的选择。",
+        "words": [
+            "tone",
+            "brand",
+            "family",
+            "choice"
+        ],
+        "id": null
+    }
+]

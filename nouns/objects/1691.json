@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image depicts a small, clear glass shelf mounted on a textured, off-white wall.",
+        "sentence_cn": "图像描绘了一个小型透明玻璃架子，安装在带有纹理的灰白色墙壁上。",
+        "words": [
+            "glass",
+            "shelf",
+            "white",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the shelf, there is a bottle labeled \"Yankee Candle\" with \"Sage & Citrus\" written on it, indicating a scented product.",
+        "sentence_cn": "在架子的左侧，有一个瓶子，上面贴有“Yankee Candle”的标签，上面写着“Sage & Citrus”，表明这是一种有香味的产品。",
+        "words": [
+            "Yankee Candle",
+            "Sage & Citrus",
+            "shelf",
+            "bottle",
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the bottle are two fragrance sachets, also labeled \"Yankee Candle,\" with the \"Sage & Citrus\" scent.",
+        "sentence_cn": "瓶子旁边是两个香薰袋，也标有“Yankee Candle”，带有“鼠尾草和柑橘”香味。",
+        "words": [
+            "Yankee Candle,",
+            "Sage & Citrus",
+            "bottle",
+            "two",
+            "fragrance",
+            "sachets",
+            "scent"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design on the sachets features an image of citrus fruit and sage leaves.",
+        "sentence_cn": "",
+        "words": [
+            "design",
+            "sachets",
+            "citrus",
+            "fruit",
+            "sage",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the shelf, there is a small, round, brown ceramic holder, possibly for a tealight candle, though it appears empty.",
+        "sentence_cn": "架子的中央有一个小而圆的棕色陶瓷支架，可能用来放置茶蜡烛，不过支架里面是空的。",
+        "words": [
+            "center",
+            "shelf",
+            "holder",
+            "tealight",
+            "candle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right end of the shelf, there is a decorative, amber-colored glass vase with a wide opening and a textured, iridescent body, adding a touch of elegance to the arrangement.",
+        "sentence_cn": "架子的右端有一个装饰性的琥珀色玻璃花瓶，开口较大，瓶身纹理鲜明，闪闪发亮，给整个布置增添了一丝优雅。",
+        "words": [
+            "end",
+            "shelf",
+            "amber",
+            "glass",
+            "vase",
+            "opening",
+            "body",
+            "touch",
+            "elegance",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall display creates a cozy, aromatic ambiance, suggestive of home fragrance and decoration.",
+        "sentence_cn": "整体展示营造出一种舒适、芳香的氛围，让人联想到家居的香味和装饰。",
+        "words": [
+            "display",
+            "ambiance",
+            "home",
+            "fragrance",
+            "decoration"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,213 @@
+[
+    {
+        "sentence": "The image is from the California Council on Problem Gambling's website.",
+        "sentence_cn": "图片来自加州问题赌博委员会的网站。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a young man with short hair in a contemplative pose against a dark, textured background.",
+        "sentence_cn": "画中是一位短发年轻男子，在深色纹理背景前摆出沉思的姿势。",
+        "words": [
+            "man",
+            "hair",
+            "pose",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is dark, with the man illuminated by subtle lighting.",
+        "sentence_cn": "整体色调为深色，男子被柔和的灯光照亮。",
+        "words": [
+            "color",
+            "scheme",
+            "man",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there are floating social media icons for Facebook, Twitter, and LinkedIn.",
+        "sentence_cn": "左侧有 Facebook、Twitter 和 LinkedIn 的浮动社交媒体图标。",
+        "words": [
+            "left",
+            "media",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top right, there is a helpline for problem gambling: \"Need Help? Call 1.800.GAMBLER (426-2537) or text the word 'support' to 53342.\"",
+        "sentence_cn": "右上角有一条针对赌博问题的帮助热线：“需要帮助？请致电1.800.GAMBLER（426-2537）或发送短信‘support’到53342。”",
+        "words": [
+            "Need Help? Call 1.800.GAMBLER (426-2537) or text the word 'support' to 53342.",
+            "right",
+            "helpline",
+            "problem",
+            "gambling",
+            "Help",
+            "1.800.GAMBLER",
+            "426",
+            "-",
+            "2537",
+            "word",
+            "support",
+            "53342"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The center features information about different groups affected by gambling issues:",
+        "sentence_cn": "该中心提供有关受赌博问题影响的不同群体的信息：",
+        "words": [
+            "center",
+            "information",
+            "groups",
+            "gambling",
+            "issues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Problem Gamblers: Offers help for those whose gambling is causing issues, with a link to \"Learn more...\"",
+        "sentence_cn": "- 问题赌徒：为那些因赌博而产生问题的人提供帮助，并提供“了解更多...”的链接",
+        "words": [
+            "Problem Gamblers",
+            "Learn more...",
+            "Problem",
+            "Gamblers",
+            "help",
+            "gambling",
+            "issues",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Affected Families: Provides support for those with family members who have gambling problems, with a link to \"Learn more...\"",
+        "sentence_cn": "- 受影响的家庭：为有赌博问题的家庭成员提供支持，并提供“了解更多...”的链接。",
+        "words": [
+            "Affected Families",
+            "Learn more...",
+            "support",
+            "family",
+            "members",
+            "gambling",
+            "problems",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Impacted Youth: Addresses how gambling affects young people, with a link to \"Learn more...\"",
+        "sentence_cn": "- 受影响的青少年：阐述赌博如何影响年轻人，并附有“了解更多……”的链接。",
+        "words": [
+            "Impacted Youth",
+            "Learn more...",
+            "gambling",
+            "people",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Treatment Professionals: Provides resources and training for counselors and therapists, with a link to \"Learn more...\"",
+        "sentence_cn": "- 治疗专业人士：为咨询师和治疗师提供资源和培训，并提供“了解更多...”链接。",
+        "words": [
+            "Treatment Professionals",
+            "Learn more...",
+            "Treatment",
+            "resources",
+            "training",
+            "counselors",
+            "therapists",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Gamble Responsibly: Advises on lowering gambling risks, with a link to \"Learn more...\"",
+        "sentence_cn": "- 负责任地赌博：建议降低赌博风险，并附有“了解更多……”的链接。",
+        "words": [
+            "Gamble Responsibly",
+            "Learn more...",
+            "gambling",
+            "risks",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is an \"About Us\" section detailing the organization¡¯s mission, founded in 1986 to help problem gamblers and their families.",
+        "sentence_cn": "在底部，有一个“关于我们”部分，详细介绍了该组织的使命，该组织成立于 1986 年，旨在帮助问题赌徒及其家人。",
+        "words": [
+            "About Us",
+            "bottom",
+            "section",
+            "organization¡¯s",
+            "mission",
+            "1986",
+            "problem",
+            "gamblers",
+            "families"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Lastly, there is a \"Support Us\" section with options to donate via PayPal or Amazon Smile, acknowledging their non-profit funding.",
+        "sentence_cn": "最后，还有一个“支持我们”部分，其中提供通过 PayPal 或 Amazon Smile 捐款的选项，以确认他们的非营利性资金。",
+        "words": [
+            "Support Us",
+            "section",
+            "options",
+            "funding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower right corner, there's an icon with the text \"We do not save your number.",
+        "sentence_cn": "右下角有一个图标，上面写着“我们不保存您的号码。",
+        "words": [
+            "corner",
+            "icon",
+            "text",
+            "number"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Call a Counselor Now!\"",
+        "sentence_cn": "立即致电辅导员！”",
+        "words": [
+            "Counselor"
+        ],
+        "id": null
+    }
+]

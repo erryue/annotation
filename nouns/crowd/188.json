@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a romantic moment between two people indoors, sharing a kiss.",
+        "sentence_cn": "这张照片描绘的是两个人在室内接吻的浪漫时刻。",
+        "words": [
+            "two",
+            "people",
+            "kiss"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the left is leaning over, wearing a blue sweater, and holding a bouquet of flowers.",
+        "sentence_cn": "左边的人弯腰驼背，穿着蓝色毛衣，手里拿着一束鲜花。",
+        "words": [
+            "person",
+            "left",
+            "sweater",
+            "bouquet",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flowers are a vibrant mix, including red gerberas, white hydrangeas, and other blossoms, wrapped in white paper with pink heart decorations.",
+        "sentence_cn": "这些花色彩鲜艳，有红色非洲菊、白色绣球花和其他花朵，用白纸包裹，并带有粉红色心形装饰。",
+        "words": [
+            "flowers",
+            "mix",
+            "gerberas",
+            "hydrangeas",
+            "blossoms",
+            "paper",
+            "heart",
+            "decorations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the right, with blonde hair, is receiving the kiss.",
+        "sentence_cn": "右边的金发女子正在接受亲吻。",
+        "words": [
+            "person",
+            "right",
+            "hair",
+            "kiss"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows a bright window, a lit candle, and a lamp, with natural light streaming in.",
+        "sentence_cn": "背景是一扇明亮的窗户、一支点燃的蜡烛和一盏灯，自然光照进来。",
+        "words": [
+            "background",
+            "window",
+            "candle",
+            "lamp",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is intimate and warm.",
+        "sentence_cn": "气氛亲密而温暖。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

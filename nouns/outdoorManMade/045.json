@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image features a peaceful lakeside scene during sunset.",
+        "sentence_cn": "这张照片展现的是日落时宁静的湖畔景色。",
+        "words": [
+            "lakeside",
+            "scene",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a boat lift with a canopy, reflecting in the calm water, which captures the warm glow of the setting sun.",
+        "sentence_cn": "前景中，有一座带顶篷的升船机，倒映在平静的水面上，捕捉到落日的温暖光芒。",
+        "words": [
+            "foreground",
+            "boat",
+            "lift",
+            "canopy",
+            "water",
+            "glow",
+            "sun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a boathouse with the name \"Wojcik\" is visible.",
+        "sentence_cn": "右侧可见一个名为“Wojcik”的船屋。",
+        "words": [
+            "Wojcik",
+            "right",
+            "boathouse",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Inside, a white boat is stored, with a wooded shoreline and a few rocks leading up to it.",
+        "sentence_cn": "里面停放着一艘白色的船，船前有树木繁茂的海岸线和几块岩石。",
+        "words": [
+            "boat",
+            "shoreline",
+            "rocks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the boathouse are tall, lush trees that create a serene, natural backdrop.",
+        "sentence_cn": "船屋周围是高大茂盛的树木，营造出宁静自然的背景。",
+        "words": [
+            "boathouse",
+            "trees",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grassy area in front of the trees adds to the tranquil atmosphere of the scene.",
+        "sentence_cn": "树前的草地更增添了场景的宁静气氛。",
+        "words": [
+            "area",
+            "front",
+            "trees",
+            "atmosphere",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall lighting gives the image a warm, golden hue, characteristic of the sunset time.",
+        "sentence_cn": "整体灯光使图像呈现出温暖的金色色调，这是日落时分的特色。",
+        "words": [
+            "lighting",
+            "hue",
+            "sunset",
+            "time"
+        ],
+        "id": null
+    }
+]

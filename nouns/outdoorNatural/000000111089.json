@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image shows a serene outdoor scene with a flock of birds in flight against a bright blue sky.",
+        "sentence_cn": "照片中是一片宁静的户外场景，一群鸟儿在蔚蓝的天空中飞翔。",
+        "words": [
+            "scene",
+            "flock",
+            "birds",
+            "flight",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The birds appear to be flying in a loose formation across the sky, from the left to the right.",
+        "sentence_cn": "这些鸟儿似乎以松散的队形在天空中飞翔，从左到右。",
+        "words": [
+            "birds",
+            "formation",
+            "sky",
+            "left",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them is a body of water, likely a lake or river, which reflects the blue of the sky.",
+        "sentence_cn": "它们下面是一片水域，可能是湖泊或河流，倒映着天空的蓝色。",
+        "words": [
+            "body",
+            "water",
+            "lake",
+            "river",
+            "blue",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the image, there is a tree with lush green foliage, indicating it's likely summertime.",
+        "sentence_cn": "图片左侧有一棵枝叶繁茂的树，表明现在可能是夏季。",
+        "words": [
+            "tree",
+            "foliage",
+            "summertime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several other trees and vegetation line the horizon in the distance, with the water extending across the width of the image.",
+        "sentence_cn": "远处的地平线上排列着几棵树和植被，水面延伸至整个图像的宽度。",
+        "words": [
+            "trees",
+            "vegetation",
+            "horizon",
+            "distance",
+            "water",
+            "width"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sunlight creates gentle shadows, and the overall atmosphere is calm and peaceful.",
+        "sentence_cn": "阳光投射出柔和的阴影，整体氛围平静而祥和。",
+        "words": [
+            "sunlight",
+            "shadows",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image captures a moment of natural beauty and motion, with a sense of freedom in the birds' flight.",
+        "sentence_cn": "这幅图像捕捉到了自然美丽和运动的瞬间，给人一种鸟儿飞翔的自由感。",
+        "words": [
+            "beauty",
+            "motion",
+            "sense",
+            "freedom",
+            "birds",
+            "flight"
+        ],
+        "id": null
+    }
+]

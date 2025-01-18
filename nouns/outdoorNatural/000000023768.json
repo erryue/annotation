@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene featuring a group of sheep and lambs grazing on a lush green field.",
+        "sentence_cn": "画中描绘的是田园风光，一群绵羊和羔羊在郁郁葱葱的绿色田野上吃草。",
+        "words": [
+            "scene",
+            "group",
+            "sheep",
+            "lambs",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two adult sheep are primarily focused on grazing, their woolly coats appearing thick and textured.",
+        "sentence_cn": "前景中，两只成年绵羊主要专注于吃草，它们的毛看起来厚实且有质感。",
+        "words": [
+            "foreground",
+            "two",
+            "adult",
+            "sheep",
+            "coats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near them, three lambs stand and graze casually, their coats smoother and lighter.",
+        "sentence_cn": "在它们附近，三只小羊羔站着悠闲地吃草，它们的皮毛更光滑、更轻。",
+        "words": [
+            "three",
+            "lambs",
+            "coats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The mid-ground features more open pasture leading to a row of bare, leafless trees, suggesting it¡¯s likely late winter or early spring.",
+        "sentence_cn": "中景呈现的是更加开阔的牧场，通向一排光秃秃、没有叶子的树木，这表明现在可能是冬末或春初。",
+        "words": [
+            "mid",
+            "-",
+            "ground",
+            "pasture",
+            "row",
+            "trees",
+            "winter",
+            "spring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is overcast with a soft gray hue, casting a gentle, diffused light over the scene.",
+        "sentence_cn": "上方的天空阴云密布，呈现出一种柔和的灰色色调，为整个场景投射出柔和、散射的光线。",
+        "words": [
+            "sky",
+            "hue",
+            "light",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is tranquil and bucolic, capturing the essence of rural life.",
+        "sentence_cn": "整体氛围宁静而田园，体现了乡村生活的精髓。",
+        "words": [
+            "atmosphere",
+            "essence",
+            "life"
+        ],
+        "id": null
+    }
+]

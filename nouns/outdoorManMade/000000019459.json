@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image depicts a bustling harbor scene with numerous boats and yachts docked in the water.",
+        "sentence_cn": "图像描绘的是繁忙的港口场景，无数船只和游艇停靠在水中。",
+        "words": [
+            "harbor",
+            "scene",
+            "boats",
+            "yachts",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a prominent orange lifeboat with the number \"52-02\" visible.",
+        "sentence_cn": "前景中，有一艘显眼的橙色救生艇，上面清晰可见编号“52-02”。",
+        "words": [
+            "52-02",
+            "foreground",
+            "lifeboat",
+            "number",
+            "52",
+            "02"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the lifeboat are various smaller boats and white yachts, some of which are anchored and others in motion on the water.",
+        "sentence_cn": "救生艇周围还有各种小船和白色游艇，有的停泊在那里，有的在水面上行驶着。",
+        "words": [
+            "lifeboat",
+            "boats",
+            "yachts",
+            "others",
+            "motion",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a quaint coastal town is visible, featuring a collection of tightly-packed buildings with varying architectural styles.",
+        "sentence_cn": "背景中可见一座古雅的海滨小镇，其建筑风格各异，建筑密集排列。",
+        "words": [
+            "background",
+            "town",
+            "collection",
+            "buildings",
+            "styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The buildings are predominantly white, with some having colorful facades, adding to the charm of the town.",
+        "sentence_cn": "这些建筑以白色为主，有些建筑有着彩色的外墙，更增添了小镇的魅力。",
+        "words": [
+            "buildings",
+            "facades",
+            "charm",
+            "town"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structures appear to be built on a slight incline, rising up from the shore.",
+        "sentence_cn": "这些建筑看上去像是建在从岸边升起的略微倾斜的地方。",
+        "words": [
+            "structures",
+            "incline",
+            "shore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the town, the landscape is lush with greenery and a few scattered trees.",
+        "sentence_cn": "小镇上方，草木葱茏，零星散布着几棵树。",
+        "words": [
+            "town",
+            "landscape",
+            "greenery",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and blue, suggesting a bright, sunny day, creating a lively and picturesque ambiance.",
+        "sentence_cn": "天空晴朗蔚蓝，预示着阳光明媚，充满生机和如画的氛围。",
+        "words": [
+            "sky",
+            "day",
+            "ambiance"
+        ],
+        "id": null
+    }
+]

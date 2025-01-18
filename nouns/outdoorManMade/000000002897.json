@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image depicts a quaint street scene, possibly in a small town or historic area.",
+        "sentence_cn": "该图描绘的是古雅的街景，可能是位于小镇或历史区。",
+        "words": [
+            "street",
+            "scene",
+            "town",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a pair of traditional-style street lamps mounted on a single pole made of dark metal.",
+        "sentence_cn": "",
+        "words": [
+            "foreground",
+            "pair",
+            "style",
+            "street",
+            "lamps",
+            "pole",
+            "metal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the lamps, an ornate metallic archway spans the street with the words \"SOUTH QUAY\" prominently displayed in gold-colored lettering.",
+        "sentence_cn": "灯的后面，一座华丽的金属拱门横跨街道，上面用金色字母显眼地写着“SOUTH QUAY”。",
+        "words": [
+            "SOUTH QUAY",
+            "lamps",
+            "archway",
+            "street",
+            "words",
+            "gold",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's a building with a light-colored brick facade and maroon trim.",
+        "sentence_cn": "左侧有一栋建筑，其外观为浅色砖砌，带有栗色装饰。",
+        "words": [
+            "building",
+            "brick",
+            "facade",
+            "maroon",
+            "trim"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Hanging baskets with greenery adorn the exterior, and there are large windows reflecting the street scene.",
+        "sentence_cn": "悬挂着绿色植物的花篮装饰着外部，大窗户映出街景。",
+        "words": [
+            "baskets",
+            "greenery",
+            "exterior",
+            "windows",
+            "street",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of this building, a few outdoor tables and chairs are set up on the pavement, suggesting a caf¨¦ or a casual dining spot.",
+        "sentence_cn": "在这栋建筑前面的人行道上摆放着几张户外桌椅，看起来像是一个咖啡馆或休闲餐厅。",
+        "words": [
+            "front",
+            "building",
+            "tables",
+            "chairs",
+            "pavement",
+            "caf¨",
+            "dining",
+            "spot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, another building is visible, painted in a light color.",
+        "sentence_cn": "右侧可见另一栋建筑，漆成浅色。",
+        "words": [
+            "right",
+            "building",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Farther down the street, in the background, vehicles including a truck and a red car can be seen, along with a few pedestrians.",
+        "sentence_cn": "沿着街道往前走，在背景中可以看到包括一辆卡车和一辆红色汽车在内的车辆，以及一些行人。",
+        "words": [
+            "street",
+            "background",
+            "vehicles",
+            "truck",
+            "car",
+            "pedestrians"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky overhead is partly cloudy, indicating a mild day.",
+        "sentence_cn": "头顶的天空多云，预示着天气温和。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is calm and inviting, typical of a scenic, leisurely area.",
+        "sentence_cn": "整体氛围平静而温馨，是典型的风景优美的休闲区。",
+        "words": [
+            "atmosphere",
+            "area"
+        ],
+        "id": null
+    }
+]

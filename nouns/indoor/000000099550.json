@@ -1,0 +1,140 @@
+[
+    {
+        "sentence": "The image depicts a spacious and modern kitchen interior with a warm and inviting atmosphere.",
+        "sentence_cn": "图片描绘的是宽敞、现代化的厨房内部，具有温暖而温馨的氛围。",
+        "words": [
+            "kitchen",
+            "interior",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted green, providing a vibrant contrast to the light cream cabinetry.",
+        "sentence_cn": "墙壁漆成绿色，与浅奶油色的橱柜形成了鲜明的对比。",
+        "words": [
+            "walls",
+            "contrast",
+            "cream",
+            "cabinetry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cabinetry is designed in a classic style with ornate details, featuring black knobs and handles.",
+        "sentence_cn": "橱柜设计为古典风格，带有华丽的细节，配有黑色的旋钮和把手。",
+        "words": [
+            "cabinetry",
+            "style",
+            "details",
+            "knobs",
+            "handles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Central to the kitchen is an island with a beige countertop, which includes a wine rack on one side and accommodates two wooden bar stools.",
+        "sentence_cn": "厨房中央是一个带有米色台面的岛台，一侧有一个酒架，可容纳两个木制吧凳。",
+        "words": [
+            "kitchen",
+            "island",
+            "countertop",
+            "wine",
+            "rack",
+            "one",
+            "two",
+            "bar",
+            "stools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the countertop, there are a few decorative items, including a bowl of bananas.",
+        "sentence_cn": "台面上摆放着一些装饰品，包括一碗香蕉。",
+        "words": [
+            "countertop",
+            "items",
+            "bowl",
+            "bananas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen is equipped with a stainless steel oven and stovetop, which are centrally located beneath a decorative range hood.",
+        "sentence_cn": "厨房配备不锈钢烤箱和炉灶，位于装饰性抽油烟机的中央位置。",
+        "words": [
+            "kitchen",
+            "steel",
+            "oven",
+            "stovetop",
+            "range",
+            "hood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Various bottles are lined up on the shelf above the stove.",
+        "sentence_cn": "炉子上方的架子上排列着各种各样的瓶子。",
+        "words": [
+            "bottles",
+            "shelf",
+            "stove"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the stove is a counter that houses a couple of decorative bowls and jars",
+        "sentence_cn": "炉灶旁边是一个柜台，上面放着几个装饰碗和罐子",
+        "words": [
+            "stove",
+            "counter",
+            "couple",
+            "bowls",
+            "jars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ".",
+        "sentence_cn": "。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "There is a large cupboard on the right with glass-front doors, showcasing neatly arranged dishes.",
+        "sentence_cn": "右边有一个大橱柜，前面是玻璃门，里面陈列着整齐摆放的餐具。",
+        "words": [
+            "cupboard",
+            "right",
+            "glass",
+            "front",
+            "doors",
+            "dishes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is a glossy, light tile that reflects natural light streaming in from an unseen source, contributing to the bright and airy ambiance of the room.",
+        "sentence_cn": "地板是光滑的浅色瓷砖，可以反射从看不见的光源射入的自然光，营造出房间明亮通风的氛围。",
+        "words": [
+            "flooring",
+            "tile",
+            "light",
+            "source",
+            "ambiance",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ceiling is adorned with recessed lighting, enhancing the modern feel of the kitchen.",
+        "sentence_cn": "天花板饰有嵌入式照明，增强了厨房的现代感。",
+        "words": [
+            "ceiling",
+            "lighting",
+            "feel",
+            "kitchen"
+        ],
+        "id": null
+    }
+]

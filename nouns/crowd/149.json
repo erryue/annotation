@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts a lively, possibly celebratory scene in a restaurant or a similar dining setting.",
+        "sentence_cn": "该图描绘的是餐厅或类似的用餐场所内热闹的、可能充满喜庆气氛的场景。",
+        "words": [
+            "scene",
+            "restaurant",
+            "dining"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several people are seated around a table, enjoying themselves.",
+        "sentence_cn": "几个人围坐在桌边，玩得不亦乐乎。",
+        "words": [
+            "people",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table is covered with a checkered tablecloth, and there are glasses of water and a large punch bowl with several red straws in it.",
+        "sentence_cn": "桌子上铺着格子桌布，摆放着几杯水和一只大酒碗，碗里插着几根红色吸管。",
+        "words": [
+            "table",
+            "tablecloth",
+            "glasses",
+            "water",
+            "punch",
+            "bowl",
+            "straws"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A man in the foreground, wearing a dark shirt, appears to be playfully interacting with a woman who is seated.",
+        "sentence_cn": "前景中一名身穿深色衬衫的男子似乎正在与一名坐着的女子开玩笑地互动。",
+        "words": [
+            "man",
+            "foreground",
+            "shirt",
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is smiling and leaning over toward her, suggesting a friendly or playful gesture.",
+        "sentence_cn": "他面带微笑，向她倾身，做出友好或俏皮的姿态。",
+        "words": [
+            "gesture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Other people around the table are smiling and appear amused by the interaction.",
+        "sentence_cn": "桌子周围的其他人都面带微笑，似乎对这一互动感到很有趣。",
+        "words": [
+            "people",
+            "table",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, more patrons are visible, as well as restaurant staff, indicating a warm and busy atmosphere.",
+        "sentence_cn": "在背景中，可以看到更多的顾客以及餐厅工作人员，显示出一种温暖而忙碌的氛围。",
+        "words": [
+            "background",
+            "patrons",
+            "restaurant",
+            "staff",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is soft, creating a cozy ambiance, and there are small lamps on the tables, contributing to the intimate dining setting.",
+        "sentence_cn": "灯光柔和，营造出舒适的氛围，桌子上配有小灯，营造出亲密的用餐环境。",
+        "words": [
+            "lighting",
+            "ambiance",
+            "lamps",
+            "tables",
+            "dining"
+        ],
+        "id": null
+    }
+]

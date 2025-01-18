@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image shows a neatly organized office desk.",
+        "sentence_cn": "图中显示的是一张整齐排列的办公桌。",
+        "words": [
+            "office",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Central to the desk is a computer setup, including a monitor displaying a color calibration screen.",
+        "sentence_cn": "桌子的中心是一套计算机装置，其中包括一个显示颜色校准屏幕的显示器。",
+        "words": [
+            "desk",
+            "computer",
+            "monitor",
+            "color",
+            "calibration",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the monitor, there is a black keyboard and a wired mouse on a mouse pad.",
+        "sentence_cn": "显示器前面，有一个黑色的键盘，鼠标垫上放着一个有线鼠标。",
+        "words": [
+            "front",
+            "monitor",
+            "keyboard",
+            "mouse",
+            "mouse",
+            "pad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the desk, there are scattered papers, files, and a desk phone.",
+        "sentence_cn": "办公桌的左侧，散落着一些纸张、档案和一部桌面电话。",
+        "words": [
+            "desk",
+            "papers",
+            "files",
+            "desk",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A framed photograph of a person is placed against the wall.",
+        "sentence_cn": "墙上摆放着一张某人的相框照片。",
+        "words": [
+            "photograph",
+            "person",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black travel mug is also present nearby, suggesting the consumption of beverages while working.",
+        "sentence_cn": "附近还有一个黑色的旅行杯，暗示工作时可以喝饮料。",
+        "words": [
+            "travel",
+            "mug",
+            "consumption",
+            "beverages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the desk is a small white laptop or netbook, possibly used as a secondary device.",
+        "sentence_cn": "桌子的右侧有一台白色小型笔记本电脑或上网本，可能用作辅助设备。",
+        "words": [
+            "desk",
+            "laptop",
+            "netbook",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A closed book with a colorful cover is also visible, alongside some small decorative items.",
+        "sentence_cn": "还可以看到一本封面色彩鲜艳的合上的书，旁边还有一些小装饰品。",
+        "words": [
+            "book",
+            "cover",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk looks functional, with all necessary tools for a typical work environment, balanced with a personal touch through the photograph.",
+        "sentence_cn": "办公桌看上去功能齐全，配备了典型工作环境所需的所有必要工具，并通过照片体现出个性化风格。",
+        "words": [
+            "desk",
+            "tools",
+            "work",
+            "environment",
+            "touch",
+            "photograph"
+        ],
+        "id": null
+    }
+]

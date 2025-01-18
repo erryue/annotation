@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image features three teddy bears sitting on a beige sofa.",
+        "sentence_cn": "照片中，三只泰迪熊坐在米色沙发上。",
+        "words": [
+            "three",
+            "teddy",
+            "bears",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The teddy bear on the left is a light yellow color and is wearing a dark red ribbon around its neck.",
+        "sentence_cn": "左边的泰迪熊是淡黄色的，脖子上系着深红色的丝带。",
+        "words": [
+            "teddy",
+            "bear",
+            "left",
+            "color",
+            "ribbon",
+            "neck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The middle teddy bear is white and is dressed in a red jacket with a checkered bow tie or scarf.",
+        "sentence_cn": "中间的泰迪熊是白色的，穿着一件红色夹克，戴着格子领结或围巾。",
+        "words": [
+            "teddy",
+            "bear",
+            "jacket",
+            "bow",
+            "tie",
+            "scarf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The teddy bear on the right is brown and is wearing a black vest, also with a checkered pattern.",
+        "sentence_cn": "右边的泰迪熊是棕色的，穿着黑色背心，背心也是格子图案的。",
+        "words": [
+            "teddy",
+            "bear",
+            "right",
+            "vest",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of them, open on the sofa, is a book, suggesting they are reading together.",
+        "sentence_cn": "他们面前的沙发上放着一本打开的书，表明他们正在一起读书。",
+        "words": [
+            "front",
+            "sofa",
+            "book"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is cozy and inviting, with the sofa providing a soft background for the teddy bears.",
+        "sentence_cn": "氛围温馨宜人，沙发为泰迪熊提供了柔软的背景。",
+        "words": [
+            "sofa",
+            "background",
+            "teddy",
+            "bears"
+        ],
+        "id": null
+    }
+]

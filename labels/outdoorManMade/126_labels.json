@@ -1,0 +1,112 @@
+[
+    {
+        "id": "48a4f627-d32f-4fba-ae0b-dbc4c951428a",
+        "confidence": 0.93553,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 588.33258,
+                        "minY": 360.18436,
+                        "maxX": 1370.03442,
+                        "maxY": 1013.26294
+                    },
+                    "x": 588.33258,
+                    "y": 360.18436,
+                    "w": 781.70184,
+                    "h": 653.0785799999999
+                }
+            }
+        }
+    },
+    {
+        "id": "9e26dfcf-876f-4e54-8726-c7c4c4757db4",
+        "confidence": 0.89578,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 31.50568,
+                        "minY": 405.59143,
+                        "maxX": 301.08179,
+                        "maxY": 528.58911
+                    },
+                    "x": 31.50568,
+                    "y": 405.59143,
+                    "w": 269.57611,
+                    "h": 122.99768
+                }
+            }
+        }
+    },
+    {
+        "id": "d01491e6-ec14-4c5c-b6f9-3d255c33633f",
+        "confidence": 0.84661,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 422.33237,
+                        "minY": 391.33813,
+                        "maxX": 620.4115,
+                        "maxY": 498.4953
+                    },
+                    "x": 422.33237,
+                    "y": 391.33813,
+                    "w": 198.07913000000002,
+                    "h": 107.15717000000001
+                }
+            }
+        }
+    },
+    {
+        "id": "69c713df-ccd9-4468-90b5-af9166f22739",
+        "confidence": 0.82327,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 284.69675,
+                        "minY": 407.93036,
+                        "maxX": 433.01855,
+                        "maxY": 500.63162
+                    },
+                    "x": 284.69675,
+                    "y": 407.93036,
+                    "w": 148.3218,
+                    "h": 92.70125999999999
+                }
+            }
+        }
+    },
+    {
+        "id": "36742ab7-7da9-48c1-bf5f-1801d04d0f65",
+        "confidence": 0.80036,
+        "class": "car",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 612.48096,
+                        "minY": 358.31564,
+                        "maxX": 788.35846,
+                        "maxY": 491.39517
+                    },
+                    "x": 612.48096,
+                    "y": 358.31564,
+                    "w": 175.87750000000005,
+                    "h": 133.07953000000003
+                }
+            }
+        }
+    }
+]

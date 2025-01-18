@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image features three bottles of Bertolli olive oil displayed in a row against a white background.",
+        "sentence_cn": "图片上是三瓶 Bertolli 橄榄油，在白色背景上排成一排。",
+        "words": [
+            "three",
+            "bottles",
+            "olive",
+            "oil",
+            "row",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottles are labeled as \"Classico,\" \"Extra Virgin,\" and \"Extra Light,\" each with distinct colored caps¡ªorange, green, and yellow-brown respectively.",
+        "sentence_cn": "这些瓶子上贴有“Classico”、“Extra Virgin”和“Extra Light”的标签，每个瓶子的瓶盖颜色都不同——分别是橙色、绿色和黄棕色。",
+        "words": [
+            "Classico,",
+            "Extra Virgin,",
+            "Extra Light,",
+            "bottles",
+            "brown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the image, the text reads \"10 Practical Uses For\" in green font.",
+        "sentence_cn": "图片上方，绿色字体写着“10 个实用用途”。",
+        "words": [
+            "10 Practical Uses For",
+            "text",
+            "10",
+            "Uses",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, it states \"Bertolli Olive Oil\" also in green.",
+        "sentence_cn": "下面也用绿色标明了“Bertolli 橄榄油”。",
+        "words": [
+            "Bertolli Olive Oil",
+            "green"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A green border surrounds the image with a yellow line inside.",
+        "sentence_cn": "图像周围有绿色边框，里面有一条黄线。",
+        "words": [
+            "border",
+            "line"
+        ],
+        "id": null
+    }
+]

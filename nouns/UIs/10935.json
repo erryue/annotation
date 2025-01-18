@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image is a screenshot from a news app, \"14 WFIE,\" displaying a story about a water main break in Evansville.",
+        "sentence_cn": "该图片是新闻应用程序“14 WFIE”的截图，展示了有关埃文斯维尔水管破裂的报道。",
+        "words": [
+            "14 WFIE,",
+            "news",
+            "app",
+            "14",
+            "story",
+            "water",
+            "main",
+            "break",
+            "Evansville"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is navigation and status information, including the time (1:12) and temperature (38¡ãF with cloudy weather).",
+        "sentence_cn": "顶部有导航和状态信息，包括时间（1:12）和温度（多云天气时为 38°F）。",
+        "words": [
+            "top",
+            "navigation",
+            "status",
+            "information",
+            "time",
+            "1:12",
+            "temperature",
+            "38¡ãF",
+            "weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, the main story features a photo of a roadside scene.",
+        "sentence_cn": "下面，主要讲述的是一张路边景色的照片。",
+        "words": [
+            "story",
+            "photo",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Workers in high-visibility jackets and helmets are cleaning up after a water line break.",
+        "sentence_cn": "身穿高能见度夹克和头盔的工人们正在清理水管破裂后的残骸。",
+        "words": [
+            "Workers",
+            "visibility",
+            "jackets",
+            "helmets",
+            "water",
+            "line",
+            "break"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Traffic cones and gravel are visible, and a truck is parked nearby.",
+        "sentence_cn": "可以看到交通锥和碎石，附近停着一辆卡车。",
+        "words": [
+            "Traffic",
+            "cones",
+            "gravel",
+            "truck"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The article, written by Eunice De La Torre, is dated March 26, 2017.",
+        "sentence_cn": "该文章由 Eunice De La Torre 撰写，日期为 2017 年 3 月 26 日。",
+        "words": [
+            "article",
+            "26",
+            "2017"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It describes a cleanup by Evansville water crews following a water line break in two places off Highway 57, north and south of Beaumont.",
+        "sentence_cn": "文章描述了埃文斯维尔水务队在博蒙特以北和以南 57 号高速公路两处水管破裂后进行的清理工作。",
+        "words": [
+            "cleanup",
+            "Evansville",
+            "water",
+            "crews",
+            "water",
+            "line",
+            "break",
+            "two",
+            "places",
+            "57",
+            "north",
+            "south",
+            "Beaumont"
+        ],
+        "id": null
+    }
+]

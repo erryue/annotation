@@ -1,0 +1,56 @@
+[
+    {
+        "sentence": "In the image, three people are engaged in a casual interaction.",
+        "sentence_cn": "图片中，三个人正在进行随意的互动。",
+        "words": [
+            "three",
+            "people",
+            "interaction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, a woman with long brown hair is wearing a red t-shirt and is shaking hands with a man on the right, who is holding a glass and wearing a white shirt with black stripes and glasses.",
+        "sentence_cn": "左边是一位身穿红色 T 恤、有着棕色长发的女子，正在与右边的一位男子握手，该男子手拿玻璃杯，身穿带有黑色条纹的白色衬衫，戴着眼镜。",
+        "words": [
+            "left",
+            "woman",
+            "hair",
+            "t",
+            "shirt",
+            "hands",
+            "man",
+            "right",
+            "glass",
+            "shirt",
+            "stripes",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Between them, another man in a black shirt is standing, looking at the two people shaking hands.",
+        "sentence_cn": "他们中间，站着另外一名身穿黑色衬衫的男子，看着两人握手。",
+        "words": [
+            "man",
+            "shirt",
+            "two",
+            "people",
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be indoors, possibly at a social gathering, with shelves displaying various items and soft lighting from overhead pendant lamps.",
+        "sentence_cn": "场景似乎是在室内，可能是在举行社交聚会，架子上陈列着各种物品，头顶的吊灯发出柔和的灯光。",
+        "words": [
+            "gathering",
+            "shelves",
+            "items",
+            "lighting",
+            "pendant",
+            "lamps"
+        ],
+        "id": null
+    }
+]

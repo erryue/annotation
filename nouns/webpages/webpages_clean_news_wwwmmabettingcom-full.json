@@ -1,0 +1,267 @@
+[
+    {
+        "sentence": "The image shows a webpage from a site called \"MMABetting.com.\"",
+        "sentence_cn": "该图显示的是来自“MMABetting.com”网站的网页。",
+        "words": [
+            "MMABetting.com.",
+            "webpage",
+            "site",
+            "MMABetting.com"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is designed to provide information and odds for betting on Mixed Martial Arts (MMA) events.",
+        "sentence_cn": "它旨在提供混合武术 (MMA) 赛事投注的信息和赔率。",
+        "words": [
+            "information",
+            "odds",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout is divided into several sections:",
+        "sentence_cn": "布局分为几个部分：",
+        "words": [
+            "layout",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Header:",
+        "sentence_cn": "1. 标头：",
+        "words": [
+            "Header:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Displays the website name \"MMABetting.com\" with options for navigation such as \"Home,\" \"Bet on MMA,\" \"Betting Advice,\" \"US Sportsbooks,\" and \"MMA Odds.\"",
+        "sentence_cn": "- 显示网站名称“MMABetting.com”，并提供导航选项，例如“主页”、“MMA 投注”、“投注建议”、“美国体育博彩”和“MMA 赔率”。",
+        "words": [
+            "MMABetting.com",
+            "Home,",
+            "Bet on MMA,",
+            "Betting Advice,",
+            "US Sportsbooks,",
+            "MMA Odds.",
+            "website",
+            "name",
+            "options",
+            "navigation",
+            "Home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes a search bar for site navigation and links to social media platforms (likely Facebook and Twitter).",
+        "sentence_cn": "- 包括用于网站导航的搜索栏和社交媒体平台（可能是 Facebook 和 Twitter）的链接。",
+        "words": [
+            "search",
+            "bar",
+            "site",
+            "navigation",
+            "links",
+            "media",
+            "platforms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Featured News:",
+        "sentence_cn": "2. 特色新闻：",
+        "words": [
+            "Featured News:",
+            "News"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Highlights the fight ¡°UFC 191 Odds - Demetrious Johnson vs. John Dodson 2.¡±",
+        "sentence_cn": "- 比赛亮点“UFC 191 赔率 - 狄米崔斯·约翰逊 vs. 约翰·多德森 2。”",
+        "words": [
+            "Highlights",
+            "fight",
+            "191",
+            "Odds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Provides a brief description of the event, mentioning the date (August 27th, 2015) and location (MGM Grand Garden Arena in Las Vegas).",
+        "sentence_cn": "- 提供活动的简要描述，提及日期（2015 年 8 月 27 日）和地点（拉斯维加斯的米高梅大酒店花园竞技场）。",
+        "words": [
+            "event",
+            "date",
+            "27th",
+            "2015",
+            "location",
+            "Las",
+            "Vegas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Top Betting Sites for MMA:",
+        "sentence_cn": "3. MMA 最佳博彩网站：",
+        "words": [
+            "Top Betting Sites for MMA:",
+            "Betting",
+            "Sites",
+            "MMA"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Lists recommended sites for betting, including DraftKings, FanDuel, and Bet365, each with a \"Visit\" button and brief descriptions.",
+        "sentence_cn": "- 列出推荐的投注网站，包括 DraftKings、FanDuel 和 Bet365，每个网站都有一个“访问”按钮和简短的描述。",
+        "words": [
+            "Visit",
+            "Lists",
+            "sites",
+            "betting",
+            "button",
+            "descriptions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Featured MMA Odds:",
+        "sentence_cn": "4. 特色 MMA 赔率：",
+        "words": [
+            "Featured MMA Odds:",
+            "MMA",
+            "Odds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Shows odds for various fights, listing fighters' names and their respective odds.",
+        "sentence_cn": "- 显示各种比赛的赔率，列出选手的姓名及其各自的赔率。",
+        "words": [
+            "odds",
+            "fights",
+            "fighters",
+            "names",
+            "odds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Highlights a \"Bet Now at Draft Kings\" button.",
+        "sentence_cn": "- 突出显示“立即在 Draft Kings 下注”按钮。",
+        "words": [
+            "Bet Now at Draft Kings",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. MMA Predictions and News:",
+        "sentence_cn": "5. MMA 预测和新闻：",
+        "words": [
+            "MMA Predictions and News:",
+            "Predictions",
+            "News"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Details predictions for upcoming bouts, including ¡°UFC 191 - Demetrious Johnson vs. John Dodson 2¡± and ¡°UFC 190 - Ronda Rousey vs. Bethe Correia.¡±",
+        "sentence_cn": "- 详细预测即将举行的比赛，包括“UFC 191 - 狄米崔斯·约翰逊 vs. 约翰·多德森 2”和“UFC 190 - 隆达·罗西 vs. 贝特·科雷亚”。",
+        "words": [
+            "Details",
+            "predictions",
+            "bouts",
+            "191",
+            "190"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Provides odds and other betting details for these events.",
+        "sentence_cn": "- 提供这些赛事的赔率和其他投注详情。",
+        "words": [
+            "odds",
+            "betting",
+            "details",
+            "events"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. MMA Betting Articles:",
+        "sentence_cn": "6. MMA 投注文章：",
+        "words": [
+            "MMA Betting Articles:",
+            "Betting",
+            "Articles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Contains links to various articles and resources related to betting on MMA, including reviews of betting sites and specific event odds.",
+        "sentence_cn": "- 包含与 MMA 投注相关的各种文章和资源的链接，包括投注网站的评论和特定事件的赔率。",
+        "words": [
+            "links",
+            "articles",
+            "resources",
+            "reviews",
+            "betting",
+            "sites",
+            "event",
+            "odds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Sidebar - MMA Info:",
+        "sentence_cn": "7. 侧边栏 - MMA 信息：",
+        "words": [
+            "Sidebar - MMA Info:",
+            "Sidebar",
+            "Info"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Offers links to additional resources and information about MMA, such as schedule, betting advice, and past fight predictions.",
+        "sentence_cn": "- 提供有关 MMA 的额外资源和信息的链接，例如时间表、投注建议和过去的比赛预测。",
+        "words": [
+            "links",
+            "resources",
+            "information",
+            "schedule",
+            "betting",
+            "advice",
+            "fight",
+            "predictions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design uses a red, black, and white color scheme to highlight different sections.",
+        "sentence_cn": "整体设计采用红色、黑色和白色的配色方案来突出不同的部分。",
+        "words": [
+            "design",
+            "color",
+            "scheme",
+            "sections"
+        ],
+        "id": null
+    }
+]

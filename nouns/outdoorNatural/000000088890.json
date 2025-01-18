@@ -1,0 +1,63 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene with five sheep resting and grazing in an open field.",
+        "sentence_cn": "画中描绘的是一幅田园风光，五只羊在空旷的田野中休息和吃草。",
+        "words": [
+            "scene",
+            "five",
+            "sheep",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is a mix of green shades, indicating a lush landscape, although some patches appear slightly dry.",
+        "sentence_cn": "草地上混合着各种绿色，显示出一片郁郁葱葱的景观，尽管有些地方看起来有点干燥。",
+        "words": [
+            "grass",
+            "mix",
+            "shades",
+            "landscape",
+            "patches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wire fence runs horizontally across the center of the image, separating the sheep from the foreground, which also consists of grassy terrain.",
+        "sentence_cn": "一道铁丝网水平穿过图像的中心，将绵羊与前景隔开，前景也是由草地组成的。",
+        "words": [
+            "wire",
+            "fence",
+            "center",
+            "sheep",
+            "foreground",
+            "terrain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep appear relaxed, with three lying down and two standing, and their woolly coats suggesting they are well maintained.",
+        "sentence_cn": "这些羊看起来很放松，三只躺着，两只站着，它们毛茸茸的皮毛表明它们保养得很好。",
+        "words": [
+            "sheep",
+            "three",
+            "two",
+            "coats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is an expansive field with sparse patches of taller grass, giving a sense of openness and tranquility.",
+        "sentence_cn": "背景是一片广阔的田野，稀疏地长着几片较高的草，给人一种开阔和宁静的感觉。",
+        "words": [
+            "background",
+            "field",
+            "patches",
+            "grass",
+            "sense",
+            "openness",
+            "tranquility"
+        ],
+        "id": null
+    }
+]

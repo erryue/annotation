@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image showcases a still life composition featuring a wooden bowl on a table.",
+        "sentence_cn": "该图展示的是一幅静物构图，桌上有一个木碗。",
+        "words": [
+            "life",
+            "composition",
+            "bowl",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focal point of the image is a ripe pineapple standing upright in the bowl.",
+        "sentence_cn": "图像的焦点是碗中直立的成熟菠萝。",
+        "words": [
+            "point",
+            "pineapple",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Its skin is textured with a mix of green and golden tones, and the spiky green leaves form a crown at the top.",
+        "sentence_cn": "它的果皮混合了绿色和金色色调，尖尖的绿叶在顶部形成一个皇冠。",
+        "words": [
+            "skin",
+            "mix",
+            "tones",
+            "leaves",
+            "crown",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the pineapple, there are two bananas and a red apple, adding variety and color contrast to the arrangement.",
+        "sentence_cn": "菠萝旁边有两根香蕉和一个红苹果，增加了布置的多样性和色彩对比。",
+        "words": [
+            "pineapple",
+            "two",
+            "bananas",
+            "apple",
+            "variety",
+            "color",
+            "contrast",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background appears to be a blurred, floral-patterned curtain, which provides a warm and subtle backdrop to the vibrant fruit display.",
+        "sentence_cn": "背景看起来像是一幅模糊的、带有花卉图案的窗帘，为色彩鲜艳的水果展示提供了温暖而微妙的背景。",
+        "words": [
+            "background",
+            "floral",
+            "curtain",
+            "backdrop",
+            "fruit",
+            "display"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table appears to have a red tablecloth, enhancing the overall color scheme.",
+        "sentence_cn": "桌子上铺着红色的桌布，增强了整体的配色方案。",
+        "words": [
+            "table",
+            "tablecloth",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is soft, highlighting the textures and colors of the fruits.",
+        "sentence_cn": "灯光柔和，凸显了水果的纹理和颜色。",
+        "words": [
+            "lighting",
+            "textures",
+            "colors",
+            "fruits"
+        ],
+        "id": null
+    }
+]

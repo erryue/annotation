@@ -1,0 +1,24 @@
+[
+    {
+        "id": "551b21cd-2c04-470f-8bc1-e1fcc171710b",
+        "confidence": 0.8881,
+        "class": "giraffe",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 495.37534,
+                        "minY": 172.9183,
+                        "maxX": 607.6402,
+                        "maxY": 407.41092
+                    },
+                    "x": 495.37534,
+                    "y": 172.9183,
+                    "w": 112.26486000000006,
+                    "h": 234.49262
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "sentence": "The image titled \"From Riches to Rags: 9 Musicians Who Lost It All\" features illustrated depictions of musicians who experienced significant financial difficulties.",
+        "sentence_cn": "这幅题为“从富裕到贫穷：9 位失去一切的音乐家”的图片描绘了经历过严重财务困难的音乐家。",
+        "words": [
+            "From Riches to Rags: 9 Musicians Who Lost It All",
+            "Riches",
+            "Rags",
+            "9",
+            "Musicians",
+            "depictions",
+            "musicians",
+            "difficulties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each section includes a musician's name, a brief description of their financial struggles, and relevant visuals.",
+        "sentence_cn": "每个部分都包含一位音乐家的姓名、他们的财务困境的简要描述以及相关的视觉效果。",
+        "words": [
+            "section",
+            "musician",
+            "name",
+            "struggles",
+            "visuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. MC Hammer: Filed for bankruptcy in 1996 with $13.7 million in debt.",
+        "sentence_cn": "1. MC Hammer：1996 年申请破产，负债 1,370 万美元。",
+        "words": [
+            "MC Hammer",
+            "bankruptcy",
+            "1996",
+            "13.7",
+            "million",
+            "debt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Illustration shows him sitting on a throne with money and people behind.",
+        "sentence_cn": "插图显示他坐在宝座上，宝座后面有金钱和人。",
+        "words": [
+            "Illustration",
+            "throne",
+            "money",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Marvin Gaye: Filed for bankruptcy in 1976, owing his wife approximately $600,000 due to divorce-related debt.",
+        "sentence_cn": "2. 马文·盖伊：1976 年申请破产，因离婚债务欠妻子约 60 万美元。",
+        "words": [
+            "Marvin Gaye",
+            "bankruptcy",
+            "1976",
+            "wife",
+            "600,000",
+            "divorce",
+            "debt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image depicts him recording music.",
+        "sentence_cn": "图中是他正在录制音乐。",
+        "words": [
+            "music"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Wayne Newton: Declared Chapter 11 bankruptcy in 1992, with an estimated $20 million in debt, including IRS liens.",
+        "sentence_cn": "3. 韦恩·牛顿：1992 年根据第 11 章破产保护，估计债务达 2000 万美元，其中包括国税局留置权。",
+        "words": [
+            "Wayne Newton",
+            "Chapter",
+            "11",
+            "bankruptcy",
+            "1992",
+            "20",
+            "million",
+            "debt",
+            "liens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Illustration shows him with a financial advisor.",
+        "sentence_cn": "图中他与一位财务顾问在一起。",
+        "words": [
+            "Illustration",
+            "advisor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Toni Braxton: Filed for bankruptcy in 1998 with $3.9 million in debt, and again in 2010 owing up to $50 million.",
+        "sentence_cn": "4. 托妮·布拉斯顿：1998 年申请破产，欠债 390 万美元，2010 年再次申请破产，欠债高达 5000 万美元。",
+        "words": [
+            "Toni Braxton",
+            "bankruptcy",
+            "1998",
+            "3.9",
+            "million",
+            "debt",
+            "2010",
+            "50",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image shows her creditors tagging personal possessions.",
+        "sentence_cn": "图中显示她的债权人正在标记她的个人财产。",
+        "words": [
+            "creditors",
+            "possessions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Tom Petty: In 1998 had a debt of around $500,000.",
+        "sentence_cn": "5. 汤姆·佩蒂：1998 年负债约 50 万美元。",
+        "words": [
+            "Tom Petty",
+            "1998",
+            "debt",
+            "500,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He declared bankruptcy to release himself from an unfavorable contract.",
+        "sentence_cn": "他宣布破产以摆脱一份对自己不利的合同。",
+        "words": [
+            "bankruptcy",
+            "contract"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Visual shows him performing music.",
+        "sentence_cn": "图像显示他正在表演音乐。",
+        "words": [
+            "music"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Michael Jackson: Filed for bankruptcy in 2007, unable to repay a $25 million loan on Neverland Ranch.",
+        "sentence_cn": "6. 迈克尔·杰克逊：2007 年申请破产，无力偿还梦幻庄园的 2500 万美元贷款。",
+        "words": [
+            "Michael Jackson",
+            "bankruptcy",
+            "2007",
+            "25",
+            "million",
+            "loan"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He had $500 million in debt after his death.",
+        "sentence_cn": "他死后背负了5亿美元的债务。",
+        "words": [
+            "500",
+            "million",
+            "debt",
+            "death"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Illustration shows him in a haunted setting.",
+        "sentence_cn": "插图描绘了他身处闹鬼的环境。",
+        "words": [
+            "Illustration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Willie Nelson: Faced a $32 million back taxes issue after a failed tax investment.",
+        "sentence_cn": "7. 威利·尼尔森：在一次税务投资失败后面临 3200 万美元的补缴税款问题。",
+        "words": [
+            "Willie Nelson",
+            "32",
+            "million",
+            "taxes",
+            "issue",
+            "tax",
+            "investment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He's depicted playing guitar with tax documents around him.",
+        "sentence_cn": "他正在弹吉他，身边围绕着税务文件。",
+        "words": [
+            "guitar",
+            "tax",
+            "documents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Billy Joel: Claimed bankruptcy three times, losing approximately $90 million due to poor management by his ex-brother-in-law.",
+        "sentence_cn": "8. 比利乔尔：三次宣布破产，由于其前姐夫的管理不善，损失了约 9000 万美元。",
+        "words": [
+            "Billy Joel",
+            "bankruptcy",
+            "three",
+            "times",
+            "90",
+            "million",
+            "management",
+            "ex",
+            "-",
+            "brother",
+            "in",
+            "-",
+            "law"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image shows him sitting with papers.",
+        "sentence_cn": "照片中他正坐在那里，手里拿着文件。",
+        "words": [
+            "papers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Meat Loaf: In 1983 had debt of around $1.6 million.",
+        "sentence_cn": "9. Meat Loaf：1983 年负债约 160 万美元。",
+        "words": [
+            "Meat Loaf",
+            "1983",
+            "debt",
+            "1.6",
+            "million"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Declared bankruptcy after a failed album release.",
+        "sentence_cn": "发行一张专辑失败后宣布破产。",
+        "words": [
+            "bankruptcy",
+            "album",
+            "release"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Illustrated sitting with a guitar in a dim room.",
+        "sentence_cn": "插图描绘了在昏暗的房间里坐着一把吉他。",
+        "words": [
+            "guitar",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic stresses the importance of financial management.",
+        "sentence_cn": "该信息图强调了财务管理的重要性。",
+        "words": [
+            "importance",
+            "management"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is presented by TheFW and compiled by Nowsourcing.",
+        "sentence_cn": "它由 TheFW 提供并由 Nowsourcing 编译。",
+        "words": [],
+        "id": null
+    }
+]

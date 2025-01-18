@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image depicts a well-organized hotel room with a contemporary design.",
+        "sentence_cn": "图片描绘的是一间布局井然有序、设计现代的酒店房间。",
+        "words": [
+            "hotel",
+            "room",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a comfortable double bed adorned with white linens, pillows, and a light green accent at the foot of the bed.",
+        "sentence_cn": "客房配有一张舒适的双人床，配有白色床单和枕头，床脚饰有浅绿色装饰。",
+        "words": [
+            "room",
+            "bed",
+            "linens",
+            "pillows",
+            "accent",
+            "foot",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On either side of the bed are nightstands, with lamps providing soft lighting.",
+        "sentence_cn": "床的两侧是床头柜，配有灯，提供柔和的灯光。",
+        "words": [
+            "bed",
+            "nightstands",
+            "lamps",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the bed is a cushioned chair.",
+        "sentence_cn": "床的右侧有一张软垫椅子。",
+        "words": [
+            "right",
+            "bed",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a light-colored tile floor and white walls, giving it a clean and spacious look.",
+        "sentence_cn": "房间内铺着浅色的瓷砖地板，搭配白色的墙壁，显得干净、宽敞。",
+        "words": [
+            "room",
+            "tile",
+            "floor",
+            "walls",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A ceiling fan with lights is centrally located near the bed.",
+        "sentence_cn": "带灯的吊扇位于床的中央位置。",
+        "words": [
+            "ceiling",
+            "fan",
+            "lights",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a small circular table with a couple of blue chairs, likely serving as a seating or dining area.",
+        "sentence_cn": "还有一张小圆桌和几把蓝色椅子，可能用作座位或用餐区。",
+        "words": [
+            "table",
+            "couple",
+            "chairs",
+            "seating",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are some magazines and a remote control.",
+        "sentence_cn": "桌子上有一些杂志和一个遥控器。",
+        "words": [
+            "table",
+            "magazines",
+            "control"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A piece of artwork depicting a serene beach scene adorns the wall, enhancing the room¡¯s tranquil ambiance.",
+        "sentence_cn": "墙上装饰着一幅描绘宁静海滩景色的艺术品，增强了房间的宁静氛围。",
+        "words": [
+            "piece",
+            "artwork",
+            "beach",
+            "scene",
+            "wall",
+            "room¡¯s",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The far end of the room has a large window or sliding glass door with sheer white curtains, allowing natural light to filter in.",
+        "sentence_cn": "房间的远端有一扇大窗户或滑动玻璃门，配有透明的白色窗帘，可让自然光照进来。",
+        "words": [
+            "end",
+            "room",
+            "window",
+            "glass",
+            "door",
+            "curtains",
+            "light"
+        ],
+        "id": null
+    }
+]

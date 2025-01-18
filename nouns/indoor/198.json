@@ -1,126 +1,284 @@
 [
     {
-        "sentence": "The image depicts a well-equipped home music studio.",
-        "sentence_cn": "图中描绘的是一个设备齐全的家庭音乐工作室。",
+        "sentence": "The image shows a home recording studio.",
+        "sentence_cn": "图中显示的是一个家庭录音室。",
         "words": [
             "home",
-            "music",
+            "recording",
             "studio"
         ],
         "id": null
     },
     {
-        "sentence": "In the center, there is a desk with various audio equipment.",
-        "sentence_cn": "中心处有一张桌子，上面摆放着各种音响设备。",
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Workspace Setup:",
+        "sentence_cn": "1. 工作区设置：",
         "words": [
-            "center",
+            "Workspace Setup",
+            "Workspace",
+            "Setup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A wooden desk holds various audio equipment.",
+        "sentence_cn": "- 木桌上摆放着各种音响设备。",
+        "words": [
             "desk",
             "equipment"
         ],
         "id": null
     },
     {
-        "sentence": "Two computer monitors are on the desk, showing audio editing software.",
-        "sentence_cn": "桌子上有两台电脑显示器，显示着音频编辑软件。",
+        "sentence": "   - There is a computer with two monitors displaying audio software, indicating sound editing work.",
+        "sentence_cn": "- 有一台带有两个显示器的计算机，显示音频软件，表明正在进行声音编辑工作。",
         "words": [
-            "Two",
             "computer",
+            "two",
             "monitors",
-            "desk",
-            "audio",
+            "software",
+            "sound",
             "editing",
-            "software"
+            "work"
         ],
         "id": null
     },
     {
-        "sentence": "Large speakers are positioned on either side of the monitors.",
-        "sentence_cn": "大型扬声器位于显示器的两侧。",
+        "sentence": "   - A keyboard synthesizer is placed prominently atop the desk.",
+        "sentence_cn": "- 键盘合成器显眼地摆放在桌子上。",
         "words": [
-            "speakers",
-            "monitors"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "In front of the monitors is a MIDI keyboard.",
-        "sentence_cn": "显示器前面是一个 MIDI 键盘。",
-        "words": [
-            "front",
-            "monitors",
-            "MIDI",
-            "keyboard"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "Below the desk, an audio mixer and other rack-mounted equipment are visible.",
-        "sentence_cn": "桌子下面可以看到音频混音器和其他机架安装的设备。",
-        "words": [
-            "desk",
-            "mixer",
-            "rack",
-            "equipment"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "A swivel office chair with green upholstery and an additional black stool are placed near the desk.",
-        "sentence_cn": "桌子旁边摆放着一把绿色内饰的旋转办公椅和一把黑色的凳子。",
-        "words": [
-            "office",
-            "chair",
-            "upholstery",
-            "stool",
+            "keyboard",
+            "synthesizer",
             "desk"
         ],
         "id": null
     },
     {
-        "sentence": "To the right, a condenser microphone is set up on a stand, suggesting vocal recording capabilities.",
-        "sentence_cn": "右侧，电容式麦克风安装在支架上，表明具有录音功能。",
+        "sentence": "2. Audio Equipment:",
+        "sentence_cn": "2. 音频设备：",
         "words": [
-            "right",
-            "condenser",
+            "Audio Equipment",
+            "Audio",
+            "Equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Large studio monitors (speakers) are on either side of the desk.",
+        "sentence_cn": "- 桌子两侧有大型演播室监视器（扬声器）。",
+        "words": [
+            "studio",
+            "monitors",
+            "speakers",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Audio mixers or control surfaces are also present, signifying professional equipment setups.",
+        "sentence_cn": "- 还存在音频混音器或控制界面，表明专业设备设置。",
+        "words": [
+            "Audio",
+            "mixers",
+            "control",
+            "surfaces",
+            "equipment",
+            "setups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Various rack-mounted audio processing devices are visible beneath the desk.",
+        "sentence_cn": "- 桌子下面可以看到各种机架安装的音频处理设备。",
+        "words": [
+            "rack",
+            "devices",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Instruments:",
+        "sentence_cn": "3. 仪器：",
+        "words": [
+            "Instruments",
+            "Instruments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Acoustic and electric guitars rest against the furniture on the right side.",
+        "sentence_cn": "- 原声吉他和电吉他靠在右侧的家具上。",
+        "words": [
+            "guitars",
+            "furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A microphone is mounted on a stand to the right, equipped for voice or instrumental recording.",
+        "sentence_cn": "- 麦克风安装在右侧的支架上，用于录制声音或乐器。",
+        "words": [
             "microphone",
             "stand",
-            "recording",
-            "capabilities"
+            "voice",
+            "recording"
         ],
         "id": null
     },
     {
-        "sentence": "Bookshelves filled with CDs, vinyl records, and other items are present, along with an amplifier.",
-        "sentence_cn": "书架上摆满了 CD、黑胶唱片和其他物品，还有一台扩音器。",
+        "sentence": "4. Furniture:",
+        "sentence_cn": "4.家具：",
         "words": [
-            "Bookshelves",
-            "CDs",
-            "vinyl",
-            "records",
-            "items",
-            "amplifier"
+            "Furniture",
+            "Furniture",
+            "",
+            ""
         ],
         "id": null
     },
     {
-        "sentence": "In the foreground, there are guitars leaning against stands.",
-        "sentence_cn": "前景中，有几把吉他靠在支架上。",
+        "sentence": "   - A green, wheeled office chair is in front of the desk.",
+        "sentence_cn": "- 桌子前面有一把绿色的带轮子的办公椅。",
         "words": [
-            "foreground",
-            "guitars",
-            "stands"
+            "office",
+            "chair",
+            "front",
+            "desk"
         ],
         "id": null
     },
     {
-        "sentence": "The room appears cozy and cluttered, indicative of an active musicianâs workspace, with rugs and a patterned tapestry adding to the homey feel.",
-        "sentence_cn": "房间显得舒适而整洁，像是一个活跃音乐家的工作空间，地毯和带图案的挂毯增添了温馨的感觉。",
+        "sentence": "   - A wooden stool is nearby, likely used for seating while recording instruments.",
+        "sentence_cn": "- 附近有一把木凳，可能是用来录制乐器时坐的。",
         "words": [
+            "stool",
+            "instruments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Room Details:",
+        "sentence_cn": "5. 房间详情：",
+        "words": [
+            "Room Details",
+            "Room",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Carpeting covers the floor, providing some acoustic dampening.",
+        "sentence_cn": "- 地毯覆盖地板，起到一定的隔音作用。",
+        "words": [
+            "Carpeting",
+            "floor",
+            "dampening"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shelves and cabinets around the room hold books, files, and CDs, suggesting a personal and functional space.",
+        "sentence_cn": "- 房间周围的架子和柜子里摆放着书籍、文件和 CD，体现出私密而实用的空间。",
+        "words": [
+            "Shelves",
+            "cabinets",
             "room",
-            "workspace",
-            "rugs",
-            "tapestry",
-            "feel"
+            "books",
+            "files",
+            "CDs",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A window behind the desk allows natural light into the room, partially covered by blinds.",
+        "sentence_cn": "- 书桌后面的窗户可让自然光照进房间，部分窗户被百叶窗遮挡。",
+        "words": [
+            "window",
+            "desk",
+            "light",
+            "room",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Decor and Miscellaneous:",
+        "sentence_cn": "6. 装饰及杂项：",
+        "words": [
+            "Decor and Miscellaneous",
+            "Decor",
+            "Miscellaneous"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A decorative piece hanging by the window and some wall art add a personal touch.",
+        "sentence_cn": "- 窗户旁悬挂的装饰品和一些墙壁艺术品增添了个人风格。",
+        "words": [
+            "piece",
+            "window",
+            "wall",
+            "art",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Various cables and wires are visible, indicative of a complex audio setup.",
+        "sentence_cn": "- 可以看到各种电缆和电线，表明音频设置复杂。",
+        "words": [
+            "cables",
+            "wires",
+            "audio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This space appears to be a well-equipped, personalized environment for music production or audio work.",
+        "sentence_cn": "这个空间看起来是一个设备齐全、个性化的音乐制作或音频工作环境。",
+        "words": [
+            "space",
+            "environment",
+            "music",
+            "production",
+            "work"
         ],
         "id": null
     }

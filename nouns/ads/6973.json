@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image is a vintage Coca-Cola advertisement featuring a lively scene of several people enjoying Coca-Cola during what appears to be a baseball game.",
+        "sentence_cn": "该图片是可口可乐的复古广告，展示了几个人在一场棒球比赛期间享用可口可乐的热闹场景。",
+        "words": [
+            "scene",
+            "people",
+            "baseball",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The central figure is a smiling man in a white shirt, holding a bottle of Coca-Cola and gesturing upwards, appearing cheerful and energetic.",
+        "sentence_cn": "- 中心人物是一位身穿白衬衫、面带微笑的男士，手拿一瓶可口可乐，手势向上，显得开朗而充满活力。",
+        "words": [
+            "figure",
+            "man",
+            "shirt",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- To his left, a man in a light blue shirt and a straw hat, looking happy, holds his own bottle.",
+        "sentence_cn": "- 他的左边，一名身穿浅蓝色衬衫、头戴草帽的男子，看起来很开心，手里拿着自己的瓶子。",
+        "words": [
+            "left",
+            "man",
+            "shirt",
+            "straw",
+            "hat",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right, a man dressed in a white uniform with a red-striped hat is offering bottles of Coca-Cola from a red cooler emblazoned with the Coca-Cola logo.",
+        "sentence_cn": "- 右边，一名身穿白色制服、头戴红色条纹帽子的男子正从印有可口可乐标志的红色冷却器中拿出几瓶可口可乐。",
+        "words": [
+            "right",
+            "man",
+            "uniform",
+            "hat",
+            "bottles",
+            "cooler",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the background, there are blurred figures that suggest a crowd, possibly in a baseball stadium.",
+        "sentence_cn": "- 背景中，有模糊的身影，暗示着一群人，可能是在棒球场。",
+        "words": [
+            "background",
+            "figures",
+            "crowd",
+            "baseball",
+            "stadium"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The advertisement text at the bottom reads: \"Stretch and Refresh... Have a Coca-Cola,\" accompanied by a description that highlights the refreshment Coca-Cola provides during a fast-paced game.",
+        "sentence_cn": "- 底部的广告文字为：“伸展身体，恢复精神...喝一杯可口可乐”，并附有说明，强调了可口可乐在快节奏的比赛中提供的提神作用。",
+        "words": [
+            "Stretch and Refresh... Have a Coca-Cola,",
+            "text",
+            "bottom",
+            "refreshment",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The bottom right corner features an image of a Coca-Cola bottle with the label \"Coke.\"",
+        "sentence_cn": "- 右下角是可口可乐瓶的图像，上面标有“Coke”。",
+        "words": [
+            "Coke.",
+            "corner",
+            "bottle",
+            "label"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad conveys a theme of enjoyment and refreshment associated with drinking Coca-Cola, particularly in a social or sporting context.",
+        "sentence_cn": "该广告传达了饮用可口可乐所带来的享受和清爽的主题，特别是在社交或体育场合。",
+        "words": [
+            "ad",
+            "theme",
+            "enjoyment",
+            "refreshment",
+            "context"
+        ],
+        "id": null
+    }
+]

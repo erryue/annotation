@@ -1,0 +1,217 @@
+[
+    {
+        "sentence": "The image shows a 4x4 grid of colorful donuts, each uniquely decorated.",
+        "sentence_cn": "图中显示的是 4x4 的彩色甜甜圈网格，每个甜甜圈都有独特的装饰。",
+        "words": [
+            "4x4",
+            "grid",
+            "donuts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed description of each row:",
+        "sentence_cn": "以下是每行的详细描述：",
+        "words": [
+            "row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "First Row:",
+        "sentence_cn": "第一行：",
+        "words": [
+            "First Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A pink donut with a light sugary coating.",
+        "sentence_cn": "1. 裹着一层薄薄糖衣的粉色甜甜圈。",
+        "words": [
+            "donut",
+            "coating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A blue donut adorned with orange and white sprinkles.",
+        "sentence_cn": "2. 蓝色甜甜圈上点缀着橙色和白色的糖粒。",
+        "words": [
+            "donut",
+            "orange",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A yellow donut with white zigzag icing.",
+        "sentence_cn": "3. 黄色甜甜圈，配以白色锯齿状糖霜。",
+        "words": [
+            "donut",
+            "icing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A light pink donut with light pink square sprinkles.",
+        "sentence_cn": "4. 浅粉色甜甜圈，上面撒有浅粉色方形糖粒。",
+        "words": [
+            "donut",
+            "square",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Second Row:",
+        "sentence_cn": "第二行：",
+        "words": [
+            "Second Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A yellow donut with colored sprinkles.",
+        "sentence_cn": "1. 黄色的甜甜圈，上面撒了彩色糖粒。",
+        "words": [
+            "donut",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A white donut with green sugar crystals.",
+        "sentence_cn": "2. 白色甜甜圈配绿色糖晶体。",
+        "words": [
+            "donut",
+            "sugar",
+            "crystals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A brown donut with white nut pieces.",
+        "sentence_cn": "3. 棕色的甜甜圈，上面有白色的坚果碎。",
+        "words": [
+            "donut",
+            "nut",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. An orange donut with blue square sprinkles.",
+        "sentence_cn": "4. 橙色甜甜圈上撒有蓝色方形糖粒。",
+        "words": [
+            "donut",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Third Row:",
+        "sentence_cn": "第三行：",
+        "words": [
+            "Third Row:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A pink donut topped with white sprinkles.",
+        "sentence_cn": "1. 粉色甜甜圈上撒有白色糖粒。",
+        "words": [
+            "donut",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A dark chocolate donut with multicolored sprinkles.",
+        "sentence_cn": "2. 撒上五彩糖粒的黑巧克力甜甜圈。",
+        "words": [
+            "chocolate",
+            "donut",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. An orange donut with yellow curly shavings.",
+        "sentence_cn": "3. 带有黄色卷曲碎片的橙色甜甜圈。",
+        "words": [
+            "donut",
+            "shavings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A green donut with fine yellow sprinkles.",
+        "sentence_cn": "4. 撒有黄色细糖粒的绿色甜甜圈。",
+        "words": [
+            "donut",
+            "sprinkles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Fourth Row:",
+        "sentence_cn": "第四行：",
+        "words": [
+            "Fourth Row:",
+            "Row"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. A tan donut with dark chocolate drizzle.",
+        "sentence_cn": "1. 棕色甜甜圈，淋上黑巧克力。",
+        "words": [
+            "donut",
+            "chocolate",
+            "drizzle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A dark pink donut with white icing stripes.",
+        "sentence_cn": "2. 深粉色甜甜圈，带有白色糖霜条纹。",
+        "words": [
+            "donut",
+            "icing",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A turquoise donut with yellow zigzag icing.",
+        "sentence_cn": "3. 带有黄色锯齿状糖霜的绿松石色甜甜圈。",
+        "words": [
+            "donut",
+            "icing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A chocolate donut with small round brown and white pieces.",
+        "sentence_cn": "4. 带有棕色和白色小圆形碎片的巧克力甜甜圈。",
+        "words": [
+            "chocolate",
+            "donut",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each donut is visually distinct, and the vibrant colors create a playful and appetizing presentation.",
+        "sentence_cn": "每个甜甜圈在视觉上都各有不同，鲜艳的色彩营造出俏皮而又诱人的外观。",
+        "words": [
+            "donut",
+            "colors",
+            "presentation"
+        ],
+        "id": null
+    }
+]

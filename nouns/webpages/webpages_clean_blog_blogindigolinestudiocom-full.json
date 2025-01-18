@@ -1,0 +1,174 @@
+[
+    {
+        "sentence": "The image is a screenshot of a blog webpage titled \"indigo line BLOG\" with a focus on graphic design, technology, and creativity.",
+        "sentence_cn": "图片是名为“靛蓝线BLOG”的博客网页截图，该博客专注于平面设计、技术和创意。",
+        "words": [
+            "indigo line BLOG",
+            "blog",
+            "webpage",
+            "indigo",
+            "line",
+            "BLOG",
+            "focus",
+            "design",
+            "technology",
+            "creativity"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header includes the blog's name and a navigation menu with links such as \"Home,\" \"News,\" \"Design,\" and \"Tips & Tricks.\"",
+        "sentence_cn": "标题包括博客的名称和导航菜单，其中有“主页”、“新闻”、“设计”和“提示和技巧”等链接。",
+        "words": [
+            "Home,",
+            "News,",
+            "Design,",
+            "Tips & Tricks.",
+            "header",
+            "blog",
+            "name",
+            "navigation",
+            "menu",
+            "links",
+            "Home",
+            "News",
+            "Design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is a post titled \"How to Choose and Pay for Graphic Design School,\" attributed to \"Dave,\" dated July 10th, 2012.",
+        "sentence_cn": "标题下方是一篇题为“如何选择和支付平面设计学校费用”的帖子，作者是“戴夫”，发布日期为 2012 年 7 月 10 日。",
+        "words": [
+            "How to Choose and Pay for Graphic Design School,",
+            "Dave,",
+            "header",
+            "post",
+            "10th",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes an introductory paragraph about choosing a college for graphic design with a \"Read more\" link and social media sharing options.",
+        "sentence_cn": "它包括一个关于选择平面设计学院的介绍性段落，其中带有“阅读更多”链接和社交媒体共享选项。",
+        "words": [
+            "Read more",
+            "paragraph",
+            "college",
+            "design",
+            "link",
+            "media",
+            "sharing",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a small image of people sitting on grass in front of a building.",
+        "sentence_cn": "有一小幅图像，显示人们坐在建筑物前的草地上。",
+        "words": [
+            "people",
+            "grass",
+            "front",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Further down is a section titled \"6 Website Design Tips,\" also by Dave, from June 13th, 2012.",
+        "sentence_cn": "下面还有一节题为“6 个网站设计技巧”的部分，也是由 Dave 于 2012 年 6 月 13 日撰写的。",
+        "words": [
+            "6 Website Design Tips,",
+            "section",
+            "6",
+            "Website",
+            "Design",
+            "Tips",
+            "13th",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes text about improving website performance and a \"Read more\" link.",
+        "sentence_cn": "它包括有关提高网站性能的文本和“阅读更多”链接。",
+        "words": [
+            "Read more",
+            "text",
+            "website",
+            "performance",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An image of a newspaper headline \"GOOD NEWS!!\" with a coffee cup accompanies the text.",
+        "sentence_cn": "报纸标题“好消息！！”的图片与文字一起出现，旁边还有一只咖啡杯。",
+        "words": [
+            "GOOD NEWS!!",
+            "newspaper",
+            "headline",
+            "GOOD",
+            "NEWS",
+            "coffee",
+            "cup",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The right sidebar includes a \"Subscribe\" section with icons for Facebook, Twitter, and RSS, alongside lists of \"Recent Posts\" and \"Popular Posts.\"",
+        "sentence_cn": "右侧边栏包含一个“订阅”部分，其中有 Facebook、Twitter 和 RSS 的图标，以及“最近的帖子”和“热门帖子”的列表。",
+        "words": [
+            "Subscribe",
+            "Recent Posts",
+            "Popular Posts.",
+            "sidebar",
+            "Subscribe",
+            "section",
+            "icons",
+            "lists"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Topics mentioned range from graphic design school tips to discussions about YouTube and web traffic.",
+        "sentence_cn": "提到的话题包括平面设计学校技巧以及有关 YouTube 和网络流量的讨论。",
+        "words": [
+            "Topics",
+            "design",
+            "school",
+            "tips",
+            "discussions",
+            "web",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's an \"About Me\" section with a placeholder for an image, indicating space for a personal introduction.",
+        "sentence_cn": "在底部，有一个“关于我”部分，其中有一个图像的占位符，表示个人介绍的空间。",
+        "words": [
+            "About Me",
+            "bottom",
+            "section",
+            "placeholder",
+            "space",
+            "introduction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page background features a yellow, abstract, grunge-style design.",
+        "sentence_cn": "页面背景采用黄色、抽象、垃圾摇滚风格的设计。",
+        "words": [
+            "page",
+            "background",
+            "grunge",
+            "style",
+            "design"
+        ],
+        "id": null
+    }
+]

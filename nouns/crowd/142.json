@@ -1,0 +1,94 @@
+[
+    {
+        "sentence": "The image shows a group of five people at a bar, enthusiastically clinking their glasses in a toast.",
+        "sentence_cn": "图中是五个人在酒吧里热情地碰杯敬酒。",
+        "words": [
+            "group",
+            "five",
+            "people",
+            "bar",
+            "glasses",
+            "toast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is lively, with a well-stocked bar behind them filled with various bottles and glasses.",
+        "sentence_cn": "场景很热闹，他们身后是一个储备充足的酒吧，里面摆满了各种瓶子和玻璃杯。",
+        "words": [
+            "bar",
+            "bottles",
+            "glasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The person in the foreground on the left is wearing a black top and patterned skirt, smiling warmly.",
+        "sentence_cn": "- 左侧前景中的人穿着黑色上衣和花纹裙，面带热情的微笑。",
+        "words": [
+            "person",
+            "foreground",
+            "left",
+            "top",
+            "skirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to them, a person in a suit is holding a drink and smiling.",
+        "sentence_cn": "- 旁边，一名穿着西装的人手捧饮料，面带微笑。",
+        "words": [
+            "person",
+            "suit",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center, a person with long blonde hair, in a dark top, is also part of the toast, holding a glass of wine.",
+        "sentence_cn": "- 在中心，一个有着金色长发、身穿深色上衣的人也参与了敬酒，手里拿着一杯酒。",
+        "words": [
+            "center",
+            "person",
+            "hair",
+            "top",
+            "part",
+            "toast",
+            "glass",
+            "wine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Beside them, a person in a blue shirt is smiling widely, holding up a drink with a citrus slice.",
+        "sentence_cn": "- 在他们旁边，一个穿着蓝色衬衫的人笑容满面，手里拿着一杯放着柑橘片的饮料。",
+        "words": [
+            "person",
+            "shirt",
+            "drink",
+            "citrus",
+            "slice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right, a person in a red shirt is laughing, contributing to the cheerful atmosphere.",
+        "sentence_cn": "- 右边，一个穿红衬衫的人正在笑，为欢快的气氛增添了色彩。",
+        "words": [
+            "right",
+            "person",
+            "shirt",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group seems to be in a celebratory mood, enjoying the social setting.",
+        "sentence_cn": "大家似乎都沉浸在庆祝的气氛中，享受着这种社交氛围。",
+        "words": [
+            "group",
+            "mood"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image depicts a hotel room workspace.",
+        "sentence_cn": "该图描绘的是酒店房间的工作空间。",
+        "words": [
+            "hotel",
+            "room",
+            "workspace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden desk with a matching chest of drawers holds a large flat-screen TV positioned on the left side.",
+        "sentence_cn": "一张木质书桌和与之相配的抽屉柜左侧放置着一台大屏幕平板电视。",
+        "words": [
+            "desk",
+            "chest",
+            "drawers",
+            "screen",
+            "TV"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there is a variety of items including two water bottles, a drink can, a plastic cup, and a small container.",
+        "sentence_cn": "桌子上放着各种各样的物品，包括两个水瓶、一个饮料罐、一个塑料杯和一个小容器。",
+        "words": [
+            "desk",
+            "variety",
+            "items",
+            "two",
+            "water",
+            "bottles",
+            "drink",
+            "can",
+            "cup",
+            "container"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A desk lamp with a white shade is turned on, casting a warm light.",
+        "sentence_cn": "一盏带有白色灯罩的台灯亮着，散发着温暖的光芒。",
+        "words": [
+            "desk",
+            "lamp",
+            "shade",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A black office chair with armrests is positioned in front of the desk.",
+        "sentence_cn": "桌子前面摆放着一把带扶手的黑色办公椅。",
+        "words": [
+            "office",
+            "chair",
+            "armrests",
+            "front",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The carpet is brown, and the wall color is a muted beige, providing a cozy ambiance to the room.",
+        "sentence_cn": "地毯是棕色的，墙壁颜色是柔和的米色，为房间营造出舒适的氛围。",
+        "words": [
+            "carpet",
+            "wall",
+            "color",
+            "beige",
+            "ambiance",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a partially visible bed with white bedding in the lower left corner.",
+        "sentence_cn": "左下角有一张部分可见的床，床上铺着白色的床上用品。",
+        "words": [
+            "bed",
+            "bedding",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a simple and functional layout, typical of a hotel setting.",
+        "sentence_cn": "房间布局简洁实用，典型的酒店风格。",
+        "words": [
+            "room",
+            "layout",
+            "hotel"
+        ],
+        "id": null
+    }
+]

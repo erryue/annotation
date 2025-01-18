@@ -1,0 +1,78 @@
+[
+    {
+        "sentence": "The image features an artistic representation of an Absolut Vodka bottle.",
+        "sentence_cn": "该图片以艺术形式呈现了绝对伏特加 (Absolut Vodka) 酒瓶。",
+        "words": [
+            "representation",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottle is designed to resemble a circuit board, with intricate lines and pathways creating a high-tech, digital effect.",
+        "sentence_cn": "瓶子的设计类似于电路板，其复杂的线条和通道营造出高科技的数字效果。",
+        "words": [
+            "bottle",
+            "circuit",
+            "board",
+            "lines",
+            "pathways",
+            "tech",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The words \"ABSOLUT VODKA\" are integrated into the bottle design, blending seamlessly with the circuit patterns.",
+        "sentence_cn": "“ABSOLUT VODKA”字样融入瓶身设计，与电路图案融为一体。",
+        "words": [
+            "ABSOLUT VODKA",
+            "words",
+            "bottle",
+            "design",
+            "circuit",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a continuation of the circuit board theme, creating a cohesive, unified look.",
+        "sentence_cn": "背景是电路板主题的延续，创造了一种有凝聚力、统一的外观。",
+        "words": [
+            "background",
+            "continuation",
+            "circuit",
+            "board",
+            "theme",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, in bold white text, it reads \"ABSOLUT INTELLIGENCE,\" playing on the concept of technology and intelligence.",
+        "sentence_cn": "底部用粗体白色文字写着“绝对智能”，玩味着科技与智能的概念。",
+        "words": [
+            "ABSOLUT INTELLIGENCE,",
+            "bottom",
+            "text",
+            "INTELLIGENCE",
+            "concept",
+            "technology",
+            "intelligence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is metallic, with shades of gray and blue highlighting the technological theme.",
+        "sentence_cn": "整体配色方案是金属色，灰色和蓝色色调凸显科技主题。",
+        "words": [
+            "color",
+            "scheme",
+            "shades",
+            "gray",
+            "blue",
+            "theme"
+        ],
+        "id": null
+    }
+]

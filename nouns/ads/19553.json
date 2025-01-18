@@ -1,0 +1,108 @@
+[
+    {
+        "sentence": "The image features a creative scene inspired by \"Gulliver's Travels\" using Burt's Bees products.",
+        "sentence_cn": "图片展示了使用 Burt's Bees 产品呈现的受《格列佛游记》启发的创意场景。",
+        "words": [
+            "Gulliver's Travels",
+            "scene",
+            "Travels",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a bright yellow sky with two white clouds and a stylized blue ocean with waves.",
+        "sentence_cn": "背景中，有一片明亮的黄色天空，上面有两朵白云，还有一片波光粼粼的蓝色海洋。",
+        "words": [
+            "background",
+            "sky",
+            "two",
+            "clouds",
+            "ocean",
+            "waves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several Burt's Bees lip balm tubes standing upright on a sandy surface.",
+        "sentence_cn": "在前景中，有几支 Burt's Bees 润唇膏直立在沙地上。",
+        "words": [
+            "foreground",
+            "lip",
+            "balm",
+            "tubes",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These tubes have been creatively adorned with small hats, mustaches, and glasses, resembling people.",
+        "sentence_cn": "这些管子被创意地装饰着小帽子、小胡子和眼镜，看起来像人。",
+        "words": [
+            "tubes",
+            "hats",
+            "mustaches",
+            "glasses",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One of the lip balm tubes is wrapped in black string, mimicking the scene where Gulliver is tied down by the Lilliputians.",
+        "sentence_cn": "其中一支润唇膏管用黑色绳子缠绕，模仿格列佛被小人绑住的场景。",
+        "words": [
+            "One",
+            "lip",
+            "balm",
+            "tubes",
+            "string",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the \"Gulliver\" tube is a small Burt¡¯s Bees package.",
+        "sentence_cn": "“格列佛”筒旁边是一小包 Burt's Bees 产品。",
+        "words": [
+            "Gulliver",
+            "tube",
+            "package"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also includes hashtags like #6secondclassics, #TimeTested, #classic, and #GulliversTravels, suggesting this is part of a creative campaign by Burt's Bees.",
+        "sentence_cn": "图片还包含#6secondclassics、#TimeTested、#classic 和#GulliversTravels 等标签，表明这是 Burt's Bees 创意活动的一部分。",
+        "words": [
+            "hashtags",
+            "#",
+            "6secondclassics",
+            "#",
+            "TimeTested",
+            "#",
+            "classic",
+            "#",
+            "GulliversTravels",
+            "part",
+            "campaign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is the Burt's Bees logo along with their social media information, including their location in Durham, NC, and statistics such as followers count and loops.",
+        "sentence_cn": "左侧是 Burt's Bees 的标志以及他们的社交媒体信息，包括他们在北卡罗来纳州达勒姆的位置，以及关注者数量和循环等统计数据。",
+        "words": [
+            "left",
+            "logo",
+            "media",
+            "information",
+            "location",
+            "Durham",
+            "NC",
+            "statistics",
+            "followers",
+            "loops"
+        ],
+        "id": null
+    }
+]

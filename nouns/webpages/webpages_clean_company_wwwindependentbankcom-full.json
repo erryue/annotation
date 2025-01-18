@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image is a webpage for \"Independent Bank.\"",
+        "sentence_cn": "图片是“独立银行”的网页。",
+        "words": [
+            "Independent Bank.",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header includes navigation links such as Home, Why Independent?, Contact, Info Center, Locations, and Careers, with a search bar on the right.",
+        "sentence_cn": "标题包括主页、为什么独立？、联系方式、信息中心、位置和职业等导航链接，右侧有一个搜索栏。",
+        "words": [
+            "header",
+            "navigation",
+            "links",
+            "search",
+            "bar",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is divided into sections for personal and business banking.",
+        "sentence_cn": "该页面分为个人银行业务和商业银行业务部分。",
+        "words": [
+            "page",
+            "sections",
+            "business",
+            "banking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's a login section and a menu for selecting account types to open or apply for online, along with current rates for checking, savings, CDs, mortgages, and loans.",
+        "sentence_cn": "左侧有一个登录部分和一个菜单，用于选择要在线开设或申请的账户类型，以及支票、储蓄、CD、抵押贷款和贷款的当前利率。",
+        "words": [
+            "left",
+            "login",
+            "section",
+            "menu",
+            "account",
+            "types",
+            "rates",
+            "checking",
+            "savings",
+            "CDs",
+            "mortgages",
+            "loans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features specific interest rates for 30-year and 15-year fixed mortgages.",
+        "sentence_cn": "它针对 30 年期和 15 年期固定抵押贷款提供特定的利率。",
+        "words": [
+            "interest",
+            "rates",
+            "30",
+            "year",
+            "15",
+            "year",
+            "mortgages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Options to find a location and join an email list are available, alongside contact information and social media icons for Facebook, Twitter, and LinkedIn.",
+        "sentence_cn": "提供查找位置和加入电子邮件列表的选项，以及 Facebook、Twitter 和 LinkedIn 的联系信息和社交媒体图标。",
+        "words": [
+            "Options",
+            "location",
+            "email",
+            "list",
+            "contact",
+            "information",
+            "media",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main image shows a person holding an American flag in a field, with the text \"INVESTING WITH YOU: NON-PROFITS\" overlaid.",
+        "sentence_cn": "主图显示一个人在田野中举着一面美国国旗，上面写着“与您一起投资：非营利组织”的文字。",
+        "words": [
+            "INVESTING WITH YOU: NON-PROFITS",
+            "person",
+            "flag",
+            "field",
+            "text",
+            "NON",
+            "-",
+            "PROFITS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text announces a community initiative where four non-profits will receive $5,000 each, with details about a voting period from August 24 to September 7, 2015.",
+        "sentence_cn": "文本宣布了一项社区倡议，四家非营利组织将各获得 5,000 美元，投票期限为 2015 年 8 月 24 日至 9 月 7 日。",
+        "words": [
+            "text",
+            "community",
+            "initiative",
+            "four",
+            "non",
+            "-",
+            "profits",
+            "5,000",
+            "details",
+            "voting",
+            "period",
+            "24",
+            "7",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a prompt to choose a background and additional sections with headings like \"Introducing\" and \"It¡¯s not SMART SWITCH\" at the bottom of the image.",
+        "sentence_cn": "图像底部还会提示选择背景和附加部分，标题为“介绍”和“这不是智能开关”。",
+        "words": [
+            "Introducing",
+            "It¡¯s not SMART SWITCH",
+            "prompt",
+            "background",
+            "sections",
+            "headings",
+            "Introducing",
+            "SWITCH",
+            "bottom"
+        ],
+        "id": null
+    }
+]

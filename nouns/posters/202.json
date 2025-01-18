@@ -1,0 +1,121 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Groundhog Day.\"",
+        "sentence_cn": "图片是《土拨鼠日》的电影海报。",
+        "words": [
+            "Groundhog Day.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center, a man is trapped inside a large, vintage alarm clock, with his hands pressed against the glass.",
+        "sentence_cn": "在中心，一名男子被困在一个巨大的老式闹钟里，双手按在玻璃上。",
+        "words": [
+            "center",
+            "man",
+            "alarm",
+            "clock",
+            "hands",
+            "glass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The clock face displays the time as 6:00.",
+        "sentence_cn": "钟面显示时间为6:00。",
+        "words": [
+            "clock",
+            "face",
+            "time",
+            "6:00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a woman is looking towards the viewer with a thoughtful expression.",
+        "sentence_cn": "右边，一位女士正若有所思地看着观众。",
+        "words": [
+            "right",
+            "woman",
+            "viewer",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the poster features the name \"Bill Murray\" in red letters.",
+        "sentence_cn": "海报顶部用红色字母写着“比尔·默里”的名字。",
+        "words": [
+            "Bill Murray",
+            "top",
+            "poster",
+            "name",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the name, the tagline reads, \"He's having the day of his life... over and over again.\"",
+        "sentence_cn": "在名字下方，标语写着：“他正在经历一生中最美好的一天……一次又一次。”",
+        "words": [
+            "He's having the day of his life... over and over again.",
+            "name",
+            "tagline",
+            "day",
+            "life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The movie title, \"Groundhog Day,\" is prominently displayed below the tagline.",
+        "sentence_cn": "电影名称“土拨鼠日”在标语下方显眼地显示。",
+        "words": [
+            "Groundhog Day,",
+            "movie",
+            "title",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, credits for the movie are listed, including the production and cast details.",
+        "sentence_cn": "底部列出了电影的演职员表，包括制作和演员的详细信息。",
+        "words": [
+            "bottom",
+            "credits",
+            "movie",
+            "production",
+            "cast",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background shows a scenic view of a landscape with a sunrise or sunset on the horizon.",
+        "sentence_cn": "背景展示的是地平线上日出或日落的风景秀丽的景色。",
+        "words": [
+            "background",
+            "view",
+            "landscape",
+            "sunrise",
+            "sunset",
+            "horizon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster conveys a sense of humor and the theme of time repetition.",
+        "sentence_cn": "海报传达出一种幽默感和时间重复的主题。",
+        "words": [
+            "poster",
+            "sense",
+            "humor",
+            "theme",
+            "time",
+            "repetition"
+        ],
+        "id": null
+    }
+]

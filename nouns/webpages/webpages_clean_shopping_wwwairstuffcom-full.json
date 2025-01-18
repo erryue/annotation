@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": "The image is a screenshot of the Aircraft Spruce & Specialty Co. website.",
+        "sentence_cn": "该图是 Aircraft Spruce & Specialty Co. 网站的截图。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a banner at the top with the company's logo, slogan \"Everything For Planes & Pilots,\" and a 50th-anniversary emblem (1965-2015).",
+        "sentence_cn": "它的顶部有一条横幅，上面印有公司的标识、口号“一切为了飞机和飞行员”以及 50 周年纪念徽章（1965-2015）。",
+        "words": [
+            "Everything For Planes & Pilots,",
+            "banner",
+            "top",
+            "company",
+            "logo",
+            "slogan",
+            "Planes",
+            "Pilots",
+            "anniversary",
+            "emblem",
+            "1965",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A contact number is provided: 1-877-4SPRUCE.",
+        "sentence_cn": "提供了联系电话：1-877-4SPRUCE。",
+        "words": [
+            "contact",
+            "number",
+            "1",
+            "-",
+            "877",
+            "-"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the banner, there are navigation options, including categories like \"Aircraft Parts,\" \"Pilot Supplies,\" and \"Avionics & Instruments,\" among others.",
+        "sentence_cn": "横幅下方有导航选项，包括“飞机零件”、“飞行员用品”、“航空电子设备和仪器”等类别。",
+        "words": [
+            "Aircraft Parts,",
+            "Pilot Supplies,",
+            "Avionics & Instruments,",
+            "banner",
+            "navigation",
+            "options",
+            "categories",
+            "Aircraft",
+            "Parts",
+            "Pilot",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A search bar is present for keyword input and a section for shopping cart details.",
+        "sentence_cn": "有一个用于输入关键字的搜索栏和一个用于显示购物车详情的部分。",
+        "words": [
+            "search",
+            "bar",
+            "keyword",
+            "input",
+            "section",
+            "shopping",
+            "cart",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's a menu listing shop categories such as \"Airframe Parts,\" \"Avionics,\" \"Batteries,\" \"Books, Videos & Software,\" and more.",
+        "sentence_cn": "左侧有一个菜单，列出了商店类别，例如“机身零件”、“航空电子设备”、“电池”、“书籍、视频和软件”等。",
+        "words": [
+            "Airframe Parts,",
+            "Avionics,",
+            "Batteries,",
+            "Books, Videos & Software,",
+            "left",
+            "menu",
+            "shop",
+            "categories",
+            "Parts",
+            "Avionics",
+            "Batteries",
+            "Books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content area has a highlight for their 50th-anniversary catalog, promoting it as free to order with over 1,000 pages of aviation products.",
+        "sentence_cn": "主要内容区重点介绍了他们的 50 周年纪念目录，宣传其包含超过 1,000 页的航空产品，可免费订购。",
+        "words": [
+            "content",
+            "area",
+            "highlight",
+            "anniversary",
+            "catalog",
+            "order",
+            "1,000",
+            "pages",
+            "aviation",
+            "products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pictures of the catalog and a disc are shown.",
+        "sentence_cn": "显示了目录和光盘的图片。",
+        "words": [
+            "Pictures",
+            "catalog",
+            "disc"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three sections at the bottom showcase different product categories: \"Aircraft Parts,\" \"Pilot Supplies,\" and \"Avionics & Instruments,\" with images of related products like tools, apparel, and instruments.",
+        "sentence_cn": "底部的三个部分展示不同的产品类别：“飞机零件”、“飞行员用品”和“航空电子设备和仪器”，并附有工具、服装和仪器等相关产品的图片。",
+        "words": [
+            "Aircraft Parts,",
+            "Pilot Supplies,",
+            "Avionics & Instruments,",
+            "Three",
+            "sections",
+            "bottom",
+            "product",
+            "categories",
+            "Aircraft",
+            "Parts",
+            "Pilot",
+            "images",
+            "products",
+            "tools",
+            "apparel",
+            "instruments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each section offers a \"See All\" link for more options.",
+        "sentence_cn": "每个部分都提供了“查看全部”链接以提供更多选项。",
+        "words": [
+            "See All",
+            "section",
+            "link",
+            "options"
+        ],
+        "id": null
+    }
+]

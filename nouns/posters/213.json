@@ -1,0 +1,155 @@
+[
+    {
+        "sentence": "The image is a collage promoting the TV show \"St. Elsewhere.\"",
+        "sentence_cn": "该图片是宣传电视节目“St. Elsewhere”的拼贴画。",
+        "words": [
+            "St. Elsewhere.",
+            "collage",
+            "TV",
+            "show"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there are four individuals:",
+        "sentence_cn": "最顶端有四个人：",
+        "words": [
+            "top",
+            "four",
+            "individuals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the left is an older man with a mustache in a white coat.",
+        "sentence_cn": "- 左边是一位留着小胡子、身穿白大褂的老年男子。",
+        "words": [
+            "left",
+            "man",
+            "mustache",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to him is another older man in a suit and tie.",
+        "sentence_cn": "- 他旁边是另一位穿着西装打着领带的老年男子。",
+        "words": [
+            "man",
+            "suit",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the middle is a man wearing a white coat, looking directly at the camera.",
+        "sentence_cn": "- 中间是一个穿着白大褂的男人，直视着镜头。",
+        "words": [
+            "middle",
+            "man",
+            "coat",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the right is a man with blond hair, glasses, and a doctor's coat.",
+        "sentence_cn": "- 右边是一位金发、戴眼镜、身穿医生外套的男子。",
+        "words": [
+            "right",
+            "man",
+            "hair",
+            "glasses",
+            "doctor",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the top images, the title \"St. Elsewhere\" is prominently displayed in bold red letters with a heartbeat line graphic running through it.",
+        "sentence_cn": "在顶部图片的下方，标题“St. Elsewhere”以粗体红色字母突出显示，并带有一条心跳线图形贯穿其中。",
+        "words": [
+            "St. Elsewhere",
+            "images",
+            "title",
+            "letters",
+            "heartbeat",
+            "line",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section contains smaller images:",
+        "sentence_cn": "底部包含较小的图像：",
+        "words": [
+            "section",
+            "images"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- On the far left, a man with a Boston Red Sox cap and a stethoscope smiles.",
+        "sentence_cn": "- 最左边，一位戴着波士顿红袜队帽子、拿着听诊器的男子微笑着。",
+        "words": [
+            "left",
+            "man",
+            "cap",
+            "stethoscope"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center, there's a picture of the \"St. Eligius\" building entrance.",
+        "sentence_cn": "- 中间是“圣埃利吉乌斯”大楼入口的照片。",
+        "words": [
+            "St. Eligius",
+            "center",
+            "picture",
+            "building",
+            "entrance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Next to it, there's a close-up of a woman with long hair smiling.",
+        "sentence_cn": "- 旁边是一个长发女人微笑的特写镜头。",
+        "words": [
+            "close",
+            "up",
+            "woman",
+            "hair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Beside her is a curly-haired man.",
+        "sentence_cn": "- 她旁边是一位卷发男子。",
+        "words": [
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The far right features a monochrome image of two people in medical attire, engaged in conversation.",
+        "sentence_cn": "- 最右边是一张黑白图像，其中两名身着医用服装的人正在交谈。",
+        "words": [
+            "right",
+            "two",
+            "people",
+            "attire",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design suggests a medical drama series.",
+        "sentence_cn": "整体设计看起来像是一部医疗剧。",
+        "words": [
+            "design",
+            "drama",
+            "series"
+        ],
+        "id": null
+    }
+]

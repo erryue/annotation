@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile flashlight app.",
+        "sentence_cn": "该图片是手机手电筒应用程序的截图。",
+        "words": [
+            "flashlight",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there¡¯s a back arrow and the word \"Flashlight\" indicating the current screen.",
+        "sentence_cn": "在顶部，有一个返回箭头和“手电筒”字样，表示当前屏幕。",
+        "words": [
+            "Flashlight",
+            "top",
+            "arrow",
+            "word",
+            "Flashlight",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark gray.",
+        "sentence_cn": "背景是深灰色。",
+        "words": [
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header, there's a large circular button with a white power icon surrounded by a purple outline, likely to turn the flashlight on or off.",
+        "sentence_cn": "标题下方有一个大的圆形按钮，上面有一个白色电源图标，周围环绕着紫色轮廓，用于打开或关闭手电筒。",
+        "words": [
+            "header",
+            "button",
+            "power",
+            "icon",
+            "outline",
+            "flashlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are two options for flashlight modes:",
+        "sentence_cn": "底部有两种闪光灯模式选项：",
+        "words": [
+            "bottom",
+            "two",
+            "options",
+            "flashlight",
+            "modes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Fast Mode: Represented by a dark blue circle with a white lightbulb and a lightning bolt inside, with the text \"Fast Mode\" underneath.",
+        "sentence_cn": "1. 快速模式：以深蓝色圆圈表示，里面有一个白色灯泡和一道闪电，下方写着“快速模式”。",
+        "words": [
+            "Fast Mode:",
+            "Fast Mode",
+            "circle",
+            "lightbulb",
+            "lightning",
+            "bolt",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Normal Mode: Represented by a yellow circle with a white lightbulb, with the text \"Normal Mode\" underneath and a glowing effect around it, suggesting it might be currently selected or highlighted.",
+        "sentence_cn": "2. 正常模式：用带有白色灯泡的黄色圆圈表示，下方有“正常模式”文字，周围有发光效果，表示当前可能被选中或突出显示。",
+        "words": [
+            "Normal Mode:",
+            "Normal Mode",
+            "circle",
+            "lightbulb",
+            "text",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The status bar at the top shows notifications and system information like the time (3:46), Wi-Fi, battery level, and other icons.",
+        "sentence_cn": "顶部的状态栏显示通知和系统信息，如时间（3:46）、Wi-Fi、电池电量和其他图标。",
+        "words": [
+            "status",
+            "bar",
+            "top",
+            "notifications",
+            "system",
+            "information",
+            "time",
+            "3:46",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "level",
+            "icons"
+        ],
+        "id": null
+    }
+]

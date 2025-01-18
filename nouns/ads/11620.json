@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image is an advertisement for Martini Asti, featuring a large bottle of the sparkling wine submerged underwater.",
+        "sentence_cn": "该图是马提尼阿斯蒂 (Martini Asti) 的广告，其中有一瓶大瓶的起泡酒浸没在水下。",
+        "words": [
+            "bottle",
+            "wine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottle is situated amongst vibrant marine life, including a variety of colorful fish, coral reefs, and a turtle swimming nearby.",
+        "sentence_cn": "瓶子周围环绕着丰富的海洋生物，包括各种色彩斑斓的鱼类、珊瑚礁和在附近游动的海龟。",
+        "words": [
+            "bottle",
+            "life",
+            "variety",
+            "fish",
+            "reefs",
+            "turtle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sunlight filters through the water, creating a shimmering effect.",
+        "sentence_cn": "阳光透过水面，产生波光粼粼的效果。",
+        "words": [
+            "Sunlight",
+            "water",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a chain attached to an anchor wrapped around the bottle, suggesting a nautical theme.",
+        "sentence_cn": "瓶子周围缠绕着一条连接着锚的链子，暗示着航海主题。",
+        "words": [
+            "chain",
+            "anchor",
+            "bottle",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bubbles rise through the water around the bottle, adding to the lively underwater atmosphere.",
+        "sentence_cn": "气泡在瓶子周围的水中升起，增添了活跃的水下氛围。",
+        "words": [
+            "Bubbles",
+            "water",
+            "bottle",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Martini Asti logo and text are visible near the top-left corner, set against the bluish hues of the ocean scene.",
+        "sentence_cn": "马提尼阿斯蒂 (Martini Asti) 的标志和文字位于左上角附近，与蓝色的海洋景色相映成趣。",
+        "words": [
+            "logo",
+            "text",
+            "corner",
+            "hues",
+            "ocean",
+            "scene"
+        ],
+        "id": null
+    }
+]

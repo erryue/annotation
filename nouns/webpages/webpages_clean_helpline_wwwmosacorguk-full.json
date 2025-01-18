@@ -1,0 +1,202 @@
+[
+    {
+        "sentence": "The image is a screenshot of the homepage of the Mosac website.",
+        "sentence_cn": "图片是Mosac网站主页的截图。",
+        "words": [
+            "homepage",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The site is designed to support non-abusing parents and carers of sexually abused children.",
+        "sentence_cn": "该网站旨在为遭受性虐待儿童的非虐待父母和看护者提供支持。",
+        "words": [
+            "site",
+            "parents",
+            "carers",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design is bright with a yellow and white color scheme and swirling patterns in the background.",
+        "sentence_cn": "设计色彩明亮，采用黄色和白色的配色方案，背景为漩涡图案。",
+        "words": [
+            "design",
+            "color",
+            "scheme",
+            "patterns",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header:",
+        "sentence_cn": "-标题：",
+        "words": [
+            "Header:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Includes a navigation menu with tabs: Home, How We Help, About Us, Work With Us, Myths & Facts, Blog, Resources, Contact.",
+        "sentence_cn": "- 包括带有标签的导航菜单：主页、我们如何提供帮助、关于我们、与我们合作、误区与事实、博客、资源、联系方式。",
+        "words": [
+            "navigation",
+            "menu",
+            "tabs",
+            "Home",
+            "Work",
+            "Myths",
+            "Facts",
+            "Blog",
+            "Resources",
+            "Contact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The Mosac logo features stylized figures and the tagline: \"supporting non-abusing parents and carers of sexually abused children.\"",
+        "sentence_cn": "- Mosac 的标志以风格化的人物和标语为特色：“支持不虐待性虐待儿童的父母和照顾者。”",
+        "words": [
+            "supporting non-abusing parents and carers of sexually abused children.",
+            "logo",
+            "figures",
+            "tagline",
+            "parents",
+            "carers",
+            "children"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A yellow button labeled \"Support Mosac Donate\" is prominently displayed.",
+        "sentence_cn": "- 显著地显示一个标有“支持 Mosac 捐赠”的黄色按钮。",
+        "words": [
+            "Support Mosac Donate",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Main Content:",
+        "sentence_cn": "- 主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A pink box summarizes Mosac as a voluntary organization providing support services and information related to child sexual abuse.",
+        "sentence_cn": "- 粉色方框概括了 Mosac 是一个提供与儿童性虐待相关的支持服务和信息的志愿组织。",
+        "words": [
+            "box",
+            "organization",
+            "support",
+            "services",
+            "information",
+            "child",
+            "abuse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A blue box below provides information about the charity and mentions a Facebook link for updates.",
+        "sentence_cn": "- 下面的蓝色框提供了有关慈善机构的信息，并提到了用于更新的 Facebook 链接。",
+        "words": [
+            "box",
+            "information",
+            "charity",
+            "link",
+            "updates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - National Helpline numbers are also provided.",
+        "sentence_cn": "- 还提供国家帮助热线号码。",
+        "words": [
+            "numbers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Images and Sections:",
+        "sentence_cn": "- 图片和章节：",
+        "words": [
+            "Images and Sections:",
+            "Images",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Four sections are depicted with accompanying images of flowers:",
+        "sentence_cn": "- 四个部分均配有花卉图像：",
+        "words": [
+            "Four",
+            "sections",
+            "images",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Parents: Information and support services available.",
+        "sentence_cn": "- 家长：可提供信息和支持服务。",
+        "words": [
+            "Parents:",
+            "Parents",
+            "Information",
+            "support",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Volunteers: Opportunities for volunteering with Mosac.",
+        "sentence_cn": "- 志愿者：与 Mosac 一起做志愿者的机会。",
+        "words": [
+            "Volunteers:",
+            "Volunteers",
+            "Opportunities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Support Us: Ways to support the organization.",
+        "sentence_cn": "- 支持我们：支持该组织的方式。",
+        "words": [
+            "Support Us:",
+            "Ways",
+            "organization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Training: Specialised training courses offered.",
+        "sentence_cn": "- 培训：提供专业培训课程。",
+        "words": [
+            "Training:",
+            "Training",
+            "training",
+            "courses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall layout is user-friendly, focusing on resources and support for those impacted by child sexual abuse.",
+        "sentence_cn": "整体布局非常人性化，重点关注受儿童性虐待影响者的资源和支持。",
+        "words": [
+            "layout",
+            "user",
+            "resources",
+            "support",
+            "child",
+            "abuse"
+        ],
+        "id": null
+    }
+]

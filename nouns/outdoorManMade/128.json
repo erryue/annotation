@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image depicts a city street scene.",
+        "sentence_cn": "图像描绘的是城市街景。",
+        "words": [
+            "city",
+            "street",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, several vehicles are visible, including a black Mini Cooper and other cars and vans.",
+        "sentence_cn": "前景中可以看到几辆车辆，包括一辆黑色 Mini Cooper 和其他汽车和货车。",
+        "words": [
+            "foreground",
+            "vehicles",
+            "cars",
+            "vans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street features a patterned pavement and is lined with tall trees on the right side.",
+        "sentence_cn": "街道的路面呈花纹状，右侧两旁种满了高大的树木。",
+        "words": [
+            "street",
+            "pavement",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center of the image, an elevated railway bridge crosses the street.",
+        "sentence_cn": "在图片的中央，一座高架铁路桥横跨街道。",
+        "words": [
+            "center",
+            "railway",
+            "bridge",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A train is visible on the bridge, painted in light blue and white colors.",
+        "sentence_cn": "桥上可见一列火车，漆成淡蓝色和白色。",
+        "words": [
+            "train",
+            "bridge",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bridge has a metal framework design with a decorative emblem in the center.",
+        "sentence_cn": "大桥采用金属框架设计，中央有装饰徽章。",
+        "words": [
+            "bridge",
+            "metal",
+            "framework",
+            "design",
+            "emblem",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a large, ornate stone building with multiple floors featuring typical European architecture.",
+        "sentence_cn": "背景中有一座大型华丽的多层石头建筑，具有典型的欧式建筑风格。",
+        "words": [
+            "background",
+            "stone",
+            "building",
+            "floors",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has many windows with balconies and is adorned with greenery on some ledges.",
+        "sentence_cn": "它有许多带阳台的窗户，一些窗台上装饰有绿色植物。",
+        "words": [
+            "windows",
+            "balconies",
+            "greenery",
+            "ledges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also street signs, traffic lights, and pedestrians visible in the area, indicating an urban environment.",
+        "sentence_cn": "该地区还可以看到路牌、交通灯和行人，表明这是一个城市环境。",
+        "words": [
+            "street",
+            "signs",
+            "traffic",
+            "lights",
+            "pedestrians",
+            "area",
+            "environment"
+        ],
+        "id": null
+    }
+]

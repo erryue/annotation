@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image showcases a culinary scene featuring apple turnovers.",
+        "sentence_cn": "图片展示了以苹果馅饼为主的烹饪场景。",
+        "words": [
+            "scene",
+            "apple",
+            "turnovers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a white plate holds a turnover that has been split, revealing its layered, flaky pastry and apple filling.",
+        "sentence_cn": "前景中，一个白色盘子里放着一个已被切开的馅饼，露出了层层的酥皮和苹果馅。",
+        "words": [
+            "foreground",
+            "plate",
+            "turnover",
+            "pastry",
+            "apple",
+            "filling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A sprinkling of sugar is visible on the plate, adding a touch of sweetness.",
+        "sentence_cn": "盘子上可见撒了些许糖，增添了一丝甜味。",
+        "words": [
+            "sprinkling",
+            "sugar",
+            "plate",
+            "touch",
+            "sweetness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the plate, a silver spoon lies on the table, containing more granulated sugar.",
+        "sentence_cn": "盘子的右边，桌子上放着一把银勺，里面盛着更多的砂糖。",
+        "words": [
+            "right",
+            "plate",
+            "spoon",
+            "table",
+            "sugar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a white bowl contains more turnovers, showing their golden, crisp exterior.",
+        "sentence_cn": "背景中，白色的碗里装着更多的馅饼，露出了金黄色、酥脆的外表。",
+        "words": [
+            "background",
+            "bowl",
+            "turnovers",
+            "exterior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two red apples are placed next to the bowl, suggesting the fruit's role in the filling.",
+        "sentence_cn": "碗旁边放置了两个红苹果，暗示了水果在馅料中的作用。",
+        "words": [
+            "Two",
+            "apples",
+            "bowl",
+            "fruit",
+            "role",
+            "filling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting is a simple, clean background with a white tablecloth, emphasizing the baked goods.",
+        "sentence_cn": "场景简洁、干净，铺着白色桌布，突出烘焙食品。",
+        "words": [
+            "background",
+            "tablecloth",
+            "goods"
+        ],
+        "id": null
+    }
+]

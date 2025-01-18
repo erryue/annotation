@@ -1,0 +1,115 @@
+[
+    {
+        "sentence": "The image depicts a vintage-style bathroom featuring a pink and black color scheme.",
+        "sentence_cn": "该图描绘的是一间复古风格的浴室，采用粉色和黑色的配色方案。",
+        "words": [
+            "style",
+            "bathroom",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are tiled with pink tiles and accented by a horizontal band of black tiles.",
+        "sentence_cn": "墙壁上铺有粉色瓷砖，并以水平的黑色瓷砖带点缀。",
+        "words": [
+            "walls",
+            "tiles",
+            "band",
+            "tiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bathroom fixtures, including the toilet and bidet, are also pink, complementing the wall tiles.",
+        "sentence_cn": "浴室设备，包括马桶和坐浴盆，也是粉红色的，与墙砖相得益彰。",
+        "words": [
+            "bathroom",
+            "fixtures",
+            "toilet",
+            "bidet",
+            "wall",
+            "tiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there is a compact counter with a stainless steel sink.",
+        "sentence_cn": "右侧是一个紧凑的柜台，配有不锈钢水槽。",
+        "words": [
+            "counter",
+            "steel",
+            "sink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the sink is a decorative black-framed mirror, flanked on each side by vertical wall-mounted cylindrical light fixtures.",
+        "sentence_cn": "水槽上方是一面黑框装饰镜，两侧是垂直安装的圆柱形灯具。",
+        "words": [
+            "sink",
+            "mirror",
+            "wall",
+            "fixtures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The countertop is surfaced with black tiles outlined by white grout, matching the wall accents.",
+        "sentence_cn": "台面铺有黑色瓷砖，并用白色水泥勾勒出轮廓，与墙面装饰相协调。",
+        "words": [
+            "countertop",
+            "tiles",
+            "grout",
+            "wall",
+            "accents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small window on the left side allows natural light into the room, and the floor features a classic black and white pattern.",
+        "sentence_cn": "左侧的一扇小窗户可以让自然光照进房间，地板呈现出经典的黑白图案。",
+        "words": [
+            "window",
+            "light",
+            "room",
+            "floor",
+            "white",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A white louvered door is present in the room, adding to the retro aesthetic.",
+        "sentence_cn": "房间里有一扇白色的百叶窗门，增添了复古的美感。",
+        "words": [
+            "door",
+            "room",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ceiling has a simple light fixture, maintaining the theme of understated elegance.",
+        "sentence_cn": "天花板上有一个简单的灯具，保持了低调优雅的主题。",
+        "words": [
+            "ceiling",
+            "light",
+            "fixture",
+            "theme",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the bathroom exudes a mid-20th-century charm.",
+        "sentence_cn": "总体而言，浴室散发着 20 世纪中期的魅力。",
+        "words": [
+            "bathroom",
+            "century",
+            "charm"
+        ],
+        "id": null
+    }
+]

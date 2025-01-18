@@ -1,0 +1,659 @@
+[
+    {
+        "sentence": "The image is a bar chart that compares the percentage of researchers who are immigrants with the percentage of researchers who emigrate from various countries.",
+        "sentence_cn": "该图是比较移民研究人员的百分比与从各个国家移民的研究人员的百分比的条形图。",
+        "words": [
+            "bar",
+            "chart",
+            "percentage",
+            "researchers",
+            "immigrants",
+            "percentage",
+            "researchers",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The chart includes data for countries with significant movement of researchers.",
+        "sentence_cn": "该图表包括研究人员流动较多的国家的数据。",
+        "words": [
+            "chart",
+            "data",
+            "countries",
+            "movement",
+            "researchers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Structure:",
+        "sentence_cn": "＃＃＃ 结构：",
+        "words": [
+            "Structure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Left Side (Percentage of researchers who are immigrants):",
+        "sentence_cn": "- 左侧（移民研究人员的百分比）：",
+        "words": [
+            "Left Side (Percentage of researchers who are immigrants):",
+            "Side",
+            "Percentage",
+            "researchers",
+            "immigrants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bars in Green: Indicate the percentage of researchers that are immigrants in each country.",
+        "sentence_cn": "- 绿色条：表示每个国家移民研究人员的百分比。",
+        "words": [
+            "Bars in Green:",
+            "Bars",
+            "percentage",
+            "researchers",
+            "immigrants",
+            "country"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Country Flags: Represent the main countries from which these researchers originate.",
+        "sentence_cn": "- 国家国旗：代表这些研究人员的主要来源国家。",
+        "words": [
+            "Country Flags:",
+            "Country",
+            "Flags",
+            "countries",
+            "researchers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Right Side (Percentage of researchers who emigrate):",
+        "sentence_cn": "- 右侧（移民研究人员的百分比）：",
+        "words": [
+            "Right Side (Percentage of researchers who emigrate):",
+            "Side",
+            "Percentage",
+            "researchers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bars in Orange: Indicate the percentage of researchers that emigrate from each country.",
+        "sentence_cn": "- 橙色条形图：表示从每个国家移民的研究人员的百分比。",
+        "words": [
+            "Bars in Orange:",
+            "percentage",
+            "researchers",
+            "country"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Country Codes: Show the primary destinations where researchers migrate.",
+        "sentence_cn": "- 国家代码：显示研究人员移居的主要目的地。",
+        "words": [
+            "Country Codes:",
+            "Country",
+            "Codes",
+            "destinations",
+            "researchers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Countries and Key Details:",
+        "sentence_cn": "### 国家和主要细节：",
+        "words": [
+            "Countries",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Australia:",
+        "sentence_cn": "1. 澳大利亚：",
+        "words": [
+            "Australia:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Immigrant researchers primarily from Switzerland and the UK.",
+        "sentence_cn": "- 主要来自瑞士和英国的移民研究人员。",
+        "words": [
+            "researchers",
+            "Switzerland",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Emigrates mainly to the US and the UK.",
+        "sentence_cn": "- 主要移居到美国和英国。",
+        "words": [
+            "Emigrates",
+            "US",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Belgium:",
+        "sentence_cn": "2. 比利时：",
+        "words": [
+            "Belgium:",
+            "Belgium"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Researchers come from Italy, Germany, and France.",
+        "sentence_cn": "- 研究人员来自意大利、德国和法国。",
+        "words": [
+            "Researchers",
+            "Italy",
+            "Germany",
+            "France"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Emigrates to France, the US, and the UK.",
+        "sentence_cn": "- 移居法国、美国和英国。",
+        "words": [
+            "Emigrates",
+            "France",
+            "US",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Brazil:",
+        "sentence_cn": "3. 巴西：",
+        "words": [
+            "Brazil:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Receives researchers mainly from Peru, Colombia, France, and Argentina.",
+        "sentence_cn": "- 主要接待来自秘鲁、哥伦比亚、法国和阿根廷的研究人员。",
+        "words": [
+            "researchers",
+            "Peru",
+            "Colombia",
+            "France",
+            "Argentina"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Researchers emigrate primarily to the US, Canada, and Germany.",
+        "sentence_cn": "- 研究人员主要移居到美国、加拿大和德国。",
+        "words": [
+            "Researchers",
+            "US",
+            "Canada",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Canada:",
+        "sentence_cn": "4. 加拿大：",
+        "words": [
+            "Canada:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Researchers from Switzerland, the US, and the UK.",
+        "sentence_cn": "- 来自瑞士、美国和英国的研究人员。",
+        "words": [
+            "Researchers",
+            "Switzerland",
+            "US",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Main emigration destination is the US.",
+        "sentence_cn": "- 主要移民目的地是美国。",
+        "words": [
+            "emigration",
+            "destination",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Denmark:",
+        "sentence_cn": "5.丹麦：",
+        "words": [
+            "Denmark:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Immigrant researchers from Germany.",
+        "sentence_cn": "- 来自德国的移民研究人员。",
+        "words": [
+            "researchers",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Researchers often migrate to the UK and US.",
+        "sentence_cn": "- 研究人员经常移居到英国和美国。",
+        "words": [
+            "Researchers",
+            "UK",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. France:",
+        "sentence_cn": "6. 法国：",
+        "words": [
+            "France:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Researchers from Italy.",
+        "sentence_cn": "- 来自意大利的研究人员。",
+        "words": [
+            "Researchers",
+            "Italy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Emigrates to Canada and the UK.",
+        "sentence_cn": "- 移居加拿大和英国。",
+        "words": [
+            "Emigrates",
+            "Canada",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Germany:",
+        "sentence_cn": "7. 德国：",
+        "words": [
+            "Germany:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Receives researchers from the US.",
+        "sentence_cn": "- 接待来自美国的研究人员。",
+        "words": [
+            "researchers",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Emigrates to the US, Switzerland, and the UK.",
+        "sentence_cn": "- 移居美国、瑞士和英国。",
+        "words": [
+            "Emigrates",
+            "US",
+            "Switzerland",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. India:",
+        "sentence_cn": "8. 印度：",
+        "words": [
+            "India:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Majority of emigrant researchers move to the US.",
+        "sentence_cn": "- 大多数移民研究人员移居美国。",
+        "words": [
+            "Majority",
+            "researchers",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Italy:",
+        "sentence_cn": "9. 意大利：",
+        "words": [
+            "Italy:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Receives researchers from Spain, Germany, and France.",
+        "sentence_cn": "- 接待来自西班牙、德国和法国的研究人员。",
+        "words": [
+            "researchers",
+            "Spain",
+            "Germany",
+            "France"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Emigrates to the US and the UK.",
+        "sentence_cn": "- 移居美国和英国。",
+        "words": [
+            "Emigrates",
+            "US",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Japan:",
+        "sentence_cn": "10. 日本：",
+        "words": [
+            "Japan:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Researchers come from South Korea and Switzerland.",
+        "sentence_cn": "- 研究人员来自韩国和瑞士。",
+        "words": [
+            "Researchers",
+            "South",
+            "Korea",
+            "Switzerland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Emigrates primarily to the US.",
+        "sentence_cn": "- 主要移民至美国。",
+        "words": [
+            "Emigrates",
+            "US"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "11. The Netherlands:",
+        "sentence_cn": "11. 荷兰：",
+        "words": [
+            "The Netherlands:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Immigrant researchers from Italy and Germany.",
+        "sentence_cn": "- 来自意大利和德国的移民研究人员。",
+        "words": [
+            "researchers",
+            "Italy",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Emigrates to the US, UK, and Germany.",
+        "sentence_cn": "- 移居美国、英国和德国。",
+        "words": [
+            "Emigrates",
+            "US",
+            "UK",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "12. Spain:",
+        "sentence_cn": "12. 西班牙：",
+        "words": [
+            "Spain:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Receives researchers from Italy, France, and Argentina.",
+        "sentence_cn": "- 接待来自意大利、法国和阿根廷的研究人员。",
+        "words": [
+            "researchers",
+            "Italy",
+            "France",
+            "Argentina"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Emigrates to Germany, the UK, and France.",
+        "sentence_cn": "- 移居德国、英国和法国。",
+        "words": [
+            "Emigrates",
+            "Germany",
+            "UK",
+            "France"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "13. Sweden:",
+        "sentence_cn": "13.瑞典：",
+        "words": [
+            "Sweden:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Researchers emigrate mainly to the US, UK, and Germany.",
+        "sentence_cn": "- 研究人员主要移居到美国、英国和德国。",
+        "words": [
+            "Researchers",
+            "US",
+            "UK",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "14. Switzerland:",
+        "sentence_cn": "14. 瑞士：",
+        "words": [
+            "Switzerland:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Researchers from Germany.",
+        "sentence_cn": "- 来自德国的研究人员。",
+        "words": [
+            "Researchers",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Significant emigration to the US and Germany.",
+        "sentence_cn": "- 大量人口移民至美国和德国。",
+        "words": [
+            "emigration",
+            "US",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "15. United Kingdom:",
+        "sentence_cn": "15. 英国：",
+        "words": [
+            "United Kingdom:",
+            "United",
+            "Kingdom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Receives researchers from Italy and Germany.",
+        "sentence_cn": "- 接待来自意大利和德国的研究人员。",
+        "words": [
+            "researchers",
+            "Italy",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Emigrates to the US, Australia, and Canada.",
+        "sentence_cn": "- 移居至美国、澳大利亚和加拿大。",
+        "words": [
+            "Emigrates",
+            "US",
+            "Australia",
+            "Canada"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "16. United States:",
+        "sentence_cn": "16. 美国：",
+        "words": [
+            "United States:",
+            "United",
+            "States"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Immigrant researchers primarily from India, China, and Germany.",
+        "sentence_cn": "- 移民研究人员主要来自印度、中国和德国。",
+        "words": [
+            "researchers",
+            "India",
+            "China",
+            "Germany"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Emigrates to Canada, the UK, Australia, and the UK.",
+        "sentence_cn": "- 移居加拿大、英国、澳大利亚和英国。",
+        "words": [
+            "Emigrates",
+            "Canada",
+            "UK",
+            "Australia",
+            "UK"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Notes:",
+        "sentence_cn": "### 注意：",
+        "words": [
+            "Notes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The left side of the chart (green) represents the net in-flow of researchers, while the right side (orange) shows the net out-flow.",
+        "sentence_cn": "- 图表左侧（绿色）表示研究人员的净流入，右侧（橙色）表示净流出。",
+        "words": [
+            "chart",
+            "green",
+            "in",
+            "flow",
+            "researchers",
+            "side",
+            "orange",
+            "out",
+            "flow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The chart uses arrows to depict the flow direction, with bars sized proportionally to the percentage of researchers moving.",
+        "sentence_cn": "- 该图表使用箭头来描绘流动方向，条形大小与移动研究人员的百分比成比例。",
+        "words": [
+            "chart",
+            "arrows",
+            "flow",
+            "direction",
+            "bars",
+            "percentage",
+            "researchers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Only those countries accounting for at least 10% of the immigration or emigration process are highlighted.",
+        "sentence_cn": "- 仅突出显示占移民或移民过程至少 10% 的国家。",
+        "words": [
+            "countries",
+            "10",
+            "immigration",
+            "emigration",
+            "process"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The source is a study on \"Foreign Born Scientists Mobility Patterns for Sixteen Countries\" published by the National Bureau of Economic Research.",
+        "sentence_cn": "- 数据来源为美国国家经济研究局发布的《十六国外国出生科学家流动模式》研究报告。",
+        "words": [
+            "Foreign Born Scientists Mobility Patterns for Sixteen Countries",
+            "source",
+            "study",
+            "Sixteen"
+        ],
+        "id": null
+    }
+]

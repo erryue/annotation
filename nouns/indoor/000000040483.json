@@ -1,0 +1,274 @@
+[
+    {
+        "sentence": "The image depicts a cozy living room area with several pieces of furniture arranged for comfort and relaxation.",
+        "sentence_cn": "图片描绘的是一个舒适的客厅区域，其中布置了几件舒适和放松的家具。",
+        "words": [
+            "living",
+            "room",
+            "area",
+            "pieces",
+            "furniture",
+            "comfort",
+            "relaxation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Couch and Armchair:",
+        "sentence_cn": "1. 沙发和扶手椅：",
+        "words": [
+            "Couch and Armchair",
+            "Couch",
+            "Armchair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A striped couch with green, beige, and brown tones faces a small table.",
+        "sentence_cn": "- 一张带有绿色、米色和棕色色调的条纹沙发面对着一张小桌子。",
+        "words": [
+            "couch",
+            "tones",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - To its right, there is a mustard yellow armchair which adds a pop of color to the room.",
+        "sentence_cn": "- 右边有一把芥末黄色的扶手椅，为房间增添了一抹色彩。",
+        "words": [
+            "right",
+            "mustard",
+            "armchair",
+            "pop",
+            "color",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Table:",
+        "sentence_cn": "2. 表格：",
+        "words": [
+            "Table",
+            "Table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A light wood coffee table is positioned in front of the couch, with a magazine or some reading material on top.",
+        "sentence_cn": "- 沙发前摆放着一张浅色木质咖啡桌，上面放着一本杂志或一些阅读材料。",
+        "words": [
+            "wood",
+            "coffee",
+            "table",
+            "front",
+            "couch",
+            "magazine",
+            "reading",
+            "material",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Fireplace:",
+        "sentence_cn": "3.壁炉：",
+        "words": [
+            "Fireplace",
+            "Fireplace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A simple wood-burning fireplace with a white mantel and light-colored surround is featured on the wall.",
+        "sentence_cn": "- 墙上有一个简单的燃木壁炉，配有白色的壁炉架和浅色的围栏。",
+        "words": [
+            "wood",
+            "fireplace",
+            "mantel",
+            "surround",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The fireplace is not in use.",
+        "sentence_cn": "壁炉未使用。",
+        "words": [
+            "fireplace",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Television and Stand:",
+        "sentence_cn": "4. 电视及电视支架：",
+        "words": [
+            "Television and Stand",
+            "Television",
+            "Stand",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A CRT television sits atop a light-colored wooden stand or cabinet with two drawers, suggesting some storage space.",
+        "sentence_cn": "- CRT 电视放置在带有两个抽屉的浅色木质支架或柜子上，这表明有一定的存储空间。",
+        "words": [
+            "television",
+            "stand",
+            "cabinet",
+            "two",
+            "drawers",
+            "storage",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Flooring and Walls:",
+        "sentence_cn": "5.地板和墙壁：",
+        "words": [
+            "Flooring and Walls",
+            "Flooring",
+            "Walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The carpet is dark green with a subtle pattern, contrasting with the light-colored walls.",
+        "sentence_cn": "- 地毯为深绿色，图案精致，与浅色墙壁形成鲜明对比。",
+        "words": [
+            "carpet",
+            "pattern",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Decor",
+        "sentence_cn": "6. 装饰",
+        "words": [
+            "Decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A framed picture hangs above the fireplace, providing a decorative touch.",
+        "sentence_cn": "- 壁炉上方悬挂着一幅相框，增添了装饰感。",
+        "words": [
+            "picture",
+            "fireplace",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Lighting:",
+        "sentence_cn": "7. 照明：",
+        "words": [
+            "Lighting",
+            "Lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A standing floor lamp with a white shade is placed near the armchair.",
+        "sentence_cn": "- 扶手椅旁边放置了一盏带有白色灯罩的落地灯。",
+        "words": [
+            "floor",
+            "lamp",
+            "shade",
+            "armchair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Curtains:",
+        "sentence_cn": "8. 窗帘：",
+        "words": [
+            "Curtains",
+            "Curtains"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Beige curtains are visible behind the armchair, likely covering a window or sliding door.",
+        "sentence_cn": "- 扶手椅后面可以看到米色的窗帘，可能遮住了窗户或滑动门。",
+        "words": [
+            "curtains",
+            "armchair",
+            "window",
+            "door"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Entrance:",
+        "sentence_cn": "9. 入口：",
+        "words": [
+            "Entrance",
+            "Entrance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A white door in the background likely serves as the entrance to the room, with a metal door handle and a lock visible.",
+        "sentence_cn": "- 背景中的白色门可能是房间的入口，门上可见金属门把手和锁。",
+        "words": [
+            "door",
+            "background",
+            "entrance",
+            "room",
+            "metal",
+            "door",
+            "handle",
+            "lock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room exudes a simple and functional design, with various elements usually found in a hotel or modest living area.",
+        "sentence_cn": "总体而言，房间散发出简洁而实用的设计，具有酒店或简朴起居区中常见的各种元素。",
+        "words": [
+            "room",
+            "design",
+            "elements",
+            "hotel",
+            "living",
+            "area"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "sentence": "The image depicts an outdoor area with a tropical feel.",
+        "sentence_cn": "图像描绘的是充满热带风情的户外区域。",
+        "words": [
+            "area",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a covered patio with wooden beams and drapes.",
+        "sentence_cn": "前景中有一个带木梁和窗帘的有顶露台。",
+        "words": [
+            "foreground",
+            "patio",
+            "beams",
+            "drapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A multi-colored, geometric sofa with various cushions is situated on the patio, providing a cozy seating area.",
+        "sentence_cn": "露台上摆放着一张色彩缤纷的几何沙发，配有各种靠垫，提供一个舒适的休息区。",
+        "words": [
+            "sofa",
+            "cushions",
+            "patio",
+            "seating",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the patio is lush greenery, including manicured plants and palm trees.",
+        "sentence_cn": "露台周围绿树成荫，包括修剪整齐的植物和棕榈树。",
+        "words": [
+            "patio",
+            "greenery",
+            "plants",
+            "palm",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the view extends to a coastline with a rocky outcrop and the sea.",
+        "sentence_cn": "在背景中，视野延伸至有岩石露头和大海的海岸线。",
+        "words": [
+            "background",
+            "view",
+            "coastline",
+            "outcrop",
+            "sea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting conveys a serene and relaxing atmosphere, ideal for enjoying nature and the coastal view.",
+        "sentence_cn": "这里的环境传达出一种宁静而轻松的氛围，非常适合享受大自然和海岸景色。",
+        "words": [
+            "atmosphere",
+            "nature",
+            "view"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "sentence": "The image shows three children walking outdoors, surrounded by trees with autumn-colored leaves.",
+        "sentence_cn": "照片中，三个孩子在户外行走，周围是秋叶繁茂的树木。",
+        "words": [
+            "three",
+            "children",
+            "trees",
+            "autumn",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The child on the left is wearing a yellow hoodie and dark pants.",
+        "sentence_cn": "左边的孩子穿着黄色连帽衫和深色裤子。",
+        "words": [
+            "child",
+            "left",
+            "hoodie",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The child in the middle is dressed in a red jacket and jeans, facing the right, partly turned to the other two.",
+        "sentence_cn": "中间的孩子穿着红色夹克和牛仔裤，面朝右侧，身体部分转向另外两个人。",
+        "words": [
+            "child",
+            "middle",
+            "jacket",
+            "jeans",
+            "right",
+            "two"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The child on the right is wearing a red shirt with the number \"2\" on it, a gray open hoodie, and jeans, and is smiling while looking ahead.",
+        "sentence_cn": "右边的孩子穿着印有数字“2”的红色衬衫、灰色开襟连帽衫和牛仔裤，面带微笑，目视前方。",
+        "words": [
+            "2",
+            "child",
+            "right",
+            "shirt",
+            "number",
+            "2",
+            "hoodie",
+            "jeans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is warmly lit with sunlight filtering through the trees, emphasizing the rich autumn colors.",
+        "sentence_cn": "阳光透过树木照射下来，背景明亮温暖，更加凸显了浓郁的秋日色彩。",
+        "words": [
+            "background",
+            "sunlight",
+            "trees",
+            "autumn",
+            "colors"
+        ],
+        "id": null
+    }
+]

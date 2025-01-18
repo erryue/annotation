@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image depicts a whimsical, modern playground structure designed to look like a collection of crooked houses.",
+        "sentence_cn": "该图描绘了一个异想天开的现代化游乐场结构，其设计看起来像一组弯曲的房屋。",
+        "words": [
+            "playground",
+            "structure",
+            "collection",
+            "houses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The houses are yellow with white and brown accents, each tilted at odd angles, creating a playful, Dr. Seuss-like aesthetic.",
+        "sentence_cn": "这些房屋是黄色的，带有白色和棕色的点缀，每栋房屋都以奇怪的角度倾斜，营造出一种俏皮的、苏斯博士般的美感。",
+        "words": [
+            "houses",
+            "accents",
+            "angles",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A ladder leads up to a platform with a red net bridge connecting two of the structures.",
+        "sentence_cn": "梯子通向一个平台，平台上有一座红色的网桥连接着两座建筑。",
+        "words": [
+            "ladder",
+            "platform",
+            "net",
+            "bridge",
+            "two",
+            "structures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This inventive playground is set on a soft, green safety surface surrounded by grass.",
+        "sentence_cn": "这个富有创意的游乐场设置在柔软、绿色的安全地面上，周围环绕着草地。",
+        "words": [
+            "playground",
+            "safety",
+            "surface",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a traditional building with cream-colored walls and a gray roof, as well as several large trees.",
+        "sentence_cn": "背景中是一栋传统的建筑，其墙壁是奶油色的，屋顶是灰色的，还有几棵大树。",
+        "words": [
+            "background",
+            "building",
+            "cream",
+            "walls",
+            "roof",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This creates a contrasting backdrop for the imaginative playground design.",
+        "sentence_cn": "这为富有想象力的游乐场设计创造了对比鲜明的背景。",
+        "words": [
+            "backdrop",
+            "playground",
+            "design"
+        ],
+        "id": null
+    }
+]

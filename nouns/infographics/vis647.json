@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"STATSHOT,\" focusing on workforce inspiration.",
+        "sentence_cn": "该图是一张名为“STATSHOT”的信息图，重点关注劳动力激励。",
+        "words": [
+            "STATSHOT,",
+            "STATSHOT",
+            "workforce",
+            "inspiration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It states that only half of the workforce feels inspired, with the main text in large green letters reading \"ONLY HALF OF THE WORKFORCE FEELS INSPIRED.\"",
+        "sentence_cn": "报告指出，只有一半的劳动力感到受到启发，正文用大绿色字母写着“只有一半的劳动力感到受到启发”。",
+        "words": [
+            "ONLY HALF OF THE WORKFORCE FEELS INSPIRED.",
+            "half",
+            "workforce",
+            "text",
+            "letters",
+            "HALF",
+            "WORKFORCE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a smaller text box stating: \"Only 49% feel their current manager inspires them to do their best work.\"",
+        "sentence_cn": "有一个较小的文本框，上面写着：“只有 49% 的人认为他们现在的经理激励他们尽最大努力工作。”",
+        "words": [
+            "Only 49% feel their current manager inspires them to do their best work.",
+            "text",
+            "box",
+            "49",
+            "manager",
+            "work"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visual includes six light bulb icons, with the top three in green (illuminated) and the bottom three in white (not illuminated), representing the 49% to 51% split.",
+        "sentence_cn": "视觉效果包括六个灯泡图标，其中顶部三个为绿色（发光），底部三个为白色（不发光），代表 49% 和 51% 的比例。",
+        "words": [
+            "visual",
+            "six",
+            "bulb",
+            "icons",
+            "three",
+            "green",
+            "three",
+            "white",
+            "49",
+            "51",
+            "%",
+            "split"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's a statement: \"We surveyed nearly 170,000 people from 30 countries about their attitudes toward leadership in the workplace.",
+        "sentence_cn": "在报告的最下方，有这样一句话：“我们调查了来自30个国家的近17万人对职场领导的态度。",
+        "words": [
+            "bottom",
+            "statement",
+            "170,000",
+            "people",
+            "30",
+            "countries",
+            "attitudes",
+            "leadership",
+            "workplace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "See all the results: http://bit.ly/KGWI-Leadership-Disconnect.\"",
+        "sentence_cn": "查看所有结果：http://bit.ly/KGWI-Leadership-Disconnect。”",
+        "words": [
+            "results"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is primarily dark gray, and the logo \"KELLY\" is positioned in the bottom right corner.",
+        "sentence_cn": "背景主要以深灰色为主，标志“KELLY”位于右下角。",
+        "words": [
+            "KELLY",
+            "background",
+            "gray",
+            "logo",
+            "corner"
+        ],
+        "id": null
+    }
+]

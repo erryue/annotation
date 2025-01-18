@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a wet city street scene during a rainy day.",
+        "sentence_cn": "该图描绘的是雨天潮湿的城市街景。",
+        "words": [
+            "city",
+            "street",
+            "scene",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The road is shiny from the rain, reflecting some of the surrounding buildings and objects.",
+        "sentence_cn": "道路被雨水打得闪闪发亮，映照着周围的一些建筑物和物体。",
+        "words": [
+            "road",
+            "rain",
+            "buildings",
+            "objects"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a large red umbrella is partially visible, suggesting someone is holding it just out of view.",
+        "sentence_cn": "在前景中，一把巨大的红色雨伞部分可见，表明有人在视线之外拿着它。",
+        "words": [
+            "foreground",
+            "umbrella",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several cars, including a yellow taxi, are visible driving along the street.",
+        "sentence_cn": "可以看到几辆汽车沿街行驶，其中包括一辆黄色出租车。",
+        "words": [
+            "cars",
+            "taxi",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there are rows of colorful newspaper vending machines.",
+        "sentence_cn": "右侧，是一排排色彩缤纷的报纸自动售货机。",
+        "words": [
+            "rows",
+            "newspaper",
+            "vending",
+            "machines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bare trees line the sidewalk, indicating it might be late fall or winter.",
+        "sentence_cn": "人行道两旁光秃秃的树木，表明现在可能已是深秋或冬季。",
+        "words": [
+            "trees",
+            "sidewalk",
+            "fall",
+            "winter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Pedestrians are scattered around, some of whom are also carrying umbrellas.",
+        "sentence_cn": "周围散落着行人，其中一些人还撑着伞。",
+        "words": [
+            "Pedestrians",
+            "umbrellas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backdrop features urban buildings, typical of a busy city environment.",
+        "sentence_cn": "背景是城市建筑，典型的繁忙城市环境。",
+        "words": [
+            "backdrop",
+            "buildings",
+            "city",
+            "environment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image depicts a living space with an open layout connecting the kitchen and living room.",
+        "sentence_cn": "图像描绘的是开放式布局的起居空间，连接厨房和客厅。",
+        "words": [
+            "living",
+            "space",
+            "layout",
+            "kitchen",
+            "living",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's a beige sectional sofa with a black cat resting on it.",
+        "sentence_cn": "左边是一张米色的组合沙发，上面躺着一只黑猫。",
+        "words": [
+            "left",
+            "sofa",
+            "cat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An ottoman is placed in front of the sofa.",
+        "sentence_cn": "沙发前放置着一个脚凳。",
+        "words": [
+            "ottoman",
+            "front",
+            "sofa"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen features light-colored wooden cabinets, a white refrigerator, a microwave on the countertop, and various items scattered about.",
+        "sentence_cn": "厨房配有浅色木质橱柜、白色冰箱、台面上的微波炉以及散落在各处的各种物品。",
+        "words": [
+            "kitchen",
+            "cabinets",
+            "refrigerator",
+            "microwave",
+            "countertop",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A couple of high chairs are positioned at the counter, which partially divides the kitchen from the rest of the living space.",
+        "sentence_cn": "柜台上摆放着几把高脚椅，将厨房与其余的起居空间部分隔开。",
+        "words": [
+            "couple",
+            "chairs",
+            "counter",
+            "kitchen",
+            "rest",
+            "living",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a white door to either a closet or another room is open, revealing a glimpse inside.",
+        "sentence_cn": "在背景中，通往壁橱或另一个房间的白色门是开着的，露出里面的一瞥。",
+        "words": [
+            "background",
+            "door",
+            "closet",
+            "room",
+            "glimpse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A full-length mirror leans against the wall near the door.",
+        "sentence_cn": "一面全身镜靠在门边的墙上。",
+        "words": [
+            "length",
+            "mirror",
+            "wall",
+            "door"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the image, a large flat-screen TV sits on a stand against the wall, with some items beneath it.",
+        "sentence_cn": "在图片的右侧，一台大屏幕平板电视放在靠墙的支架上，下面放着一些物品。",
+        "words": [
+            "screen",
+            "TV",
+            "stand",
+            "wall",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A piece of clothing is draped over the arm of the sofa, and a colorful throw is partially visible in the foreground.",
+        "sentence_cn": "一件衣服搭在沙发扶手上，前景中部分可见一条彩色毯子。",
+        "words": [
+            "piece",
+            "clothing",
+            "arm",
+            "sofa",
+            "throw",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is well-lit, with natural light streaming in from an unseen window.",
+        "sentence_cn": "房间光线充足，自然光从看不见的窗户射进来。",
+        "words": [
+            "room",
+            "light",
+            "window"
+        ],
+        "id": null
+    }
+]

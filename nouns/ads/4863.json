@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image showcases four models wearing different Banana Republic outfits from the Fall/Winter 2016 collection.",
+        "sentence_cn": "图片展示了四位模特身着 Banana Republic 2016 秋冬系列的不同服装。",
+        "words": [
+            "four",
+            "models",
+            "outfits",
+            "2016",
+            "collection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Model: She is wearing a long, flowy dress with a vibrant pattern featuring blue and black colors and floral motifs.",
+        "sentence_cn": "1. 左边的模特：她穿着一件飘逸的长裙，裙子上有鲜艳的蓝色和黑色以及花卉图案。",
+        "words": [
+            "Left Model",
+            "Model",
+            "dress",
+            "pattern",
+            "colors",
+            "motifs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dress has a v-neck and long sleeves.",
+        "sentence_cn": "这件连衣裙是 V 领和长袖。",
+        "words": [
+            "dress",
+            "v",
+            "-",
+            "neck",
+            "sleeves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Model: She is dressed in a striking red suit consisting of a blazer and matching trousers.",
+        "sentence_cn": "2. 第二位模特：她穿着一套引人注目的红色套装，包括一件夹克和一条相配的裤子。",
+        "words": [
+            "Second Model",
+            "Model",
+            "suit",
+            "blazer",
+            "trousers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath, she wears a white or light pink top.",
+        "sentence_cn": "她里面穿着一件白色或浅粉色的上衣。",
+        "words": [
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The outfit is accessorized with a brooch on the blazer.",
+        "sentence_cn": "这套服装的配饰是西装外套上的一枚胸针。",
+        "words": [
+            "outfit",
+            "brooch",
+            "blazer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Third Model: This model has on a black and white striped top, paired with a gray herringbone coat draped over one shoulder.",
+        "sentence_cn": "3. 第三位模特：这位模特穿着黑白条纹上衣，搭配一件搭在一侧肩膀上的灰色人字形外套。",
+        "words": [
+            "Third Model",
+            "Model",
+            "model",
+            "top",
+            "herringbone",
+            "coat",
+            "one",
+            "shoulder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She also wears a red beanie hat.",
+        "sentence_cn": "她还戴了一顶红色的无檐小帽。",
+        "words": [
+            "beanie",
+            "hat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Right Model: She is wearing a bright yellow blazer over a dark teal blouse.",
+        "sentence_cn": "4. 右模特：她身穿亮黄色西装外套，里面是深青色衬衫。",
+        "words": [
+            "Right Model",
+            "Model",
+            "blazer",
+            "blouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The blazer is paired with light-wash denim jeans.",
+        "sentence_cn": "这款西装外套与浅色洗水牛仔裤搭配。",
+        "words": [
+            "blazer",
+            "wash",
+            "denim",
+            "jeans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She accessorizes with a chunky necklace.",
+        "sentence_cn": "她戴着一条粗项链。",
+        "words": [
+            "necklace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text overlay on the image reads \"Banana Republic FTW 2016\" in black and yellow fonts.",
+        "sentence_cn": "图像上的文字以黑色和黄色字体显示“Banana Republic FTW 2016”。",
+        "words": [
+            "Banana Republic FTW 2016",
+            "text",
+            "overlay",
+            "2016",
+            "fonts"
+        ],
+        "id": null
+    }
+]

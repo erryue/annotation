@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image is a designed page with an artistic presentation about eggs.",
+        "sentence_cn": "该图是一个设计好的页面，其中有关于鸡蛋的艺术演示。",
+        "words": [
+            "page",
+            "presentation",
+            "eggs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there's a close-up of an egg in an egg cup with its top cracked open.",
+        "sentence_cn": "右侧是蛋杯中的鸡蛋的特写，蛋杯的顶部已裂开。",
+        "words": [
+            "close",
+            "up",
+            "egg",
+            "egg",
+            "cup",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Yolk is oozing out and dripping down the sides.",
+        "sentence_cn": "蛋黄从侧面渗出并滴落。",
+        "words": [
+            "Yolk",
+            "sides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there's text with a soft, blurred background.",
+        "sentence_cn": "左侧是带有柔和、模糊背景的文字。",
+        "words": [
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text includes a stylized \"G\" logo and the headline \"Why the Egg is still the greatest breakfast food - and why.\"",
+        "sentence_cn": "文字包括一个风格化的“G”标志和标题“为什么鸡蛋仍然是最好的早餐食品 - 以及原因。”",
+        "words": [
+            "G",
+            "Why the Egg is still the greatest breakfast food - and why.",
+            "text",
+            "logo",
+            "headline",
+            "breakfast",
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's directed by Param Grewal / FnB Shoots.",
+        "sentence_cn": "该片由 Param Grewal / FnB Shoots 执导。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The text below discusses the misconceptions about eggs and cholesterol, suggesting a diet that allows you to lose fat and lower cholesterol.",
+        "sentence_cn": "下面的文字讨论了有关鸡蛋和胆固醇的误解，并建议了一种可以减肥和降低胆固醇的饮食。",
+        "words": [
+            "text",
+            "misconceptions",
+            "eggs",
+            "cholesterol",
+            "diet",
+            "fat",
+            "cholesterol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The last line credits Priyanka Sahi for food styling and DP.",
+        "sentence_cn": "最后一行感谢 Priyanka Sahi 对食物造型和 DP 的贡献。",
+        "words": [
+            "line",
+            "food",
+            "styling",
+            "DP"
+        ],
+        "id": null
+    }
+]

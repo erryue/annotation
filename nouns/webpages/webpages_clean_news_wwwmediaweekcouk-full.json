@@ -1,0 +1,238 @@
+[
+    {
+        "sentence": "The image is a screenshot of the MediaWeek website, featuring its homepage layout.",
+        "sentence_cn": "该图是 MediaWeek 网站的截图，展示了其主页布局。",
+        "words": [
+            "website",
+            "homepage",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Header:",
+        "sentence_cn": "1. 标题:",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The top banner has an advertisement for the \"campaign Future Leaders Program,\" encouraging senior managers to join EMEA agencies.",
+        "sentence_cn": "- 顶部横幅为“未来领袖计划”做广告，鼓励高级管理人员加入 EMEA 机构。",
+        "words": [
+            "campaign Future Leaders Program,",
+            "banner",
+            "campaign",
+            "managers",
+            "agencies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Options for Part of the Brand Republic Group, Subscribe, About, Follow, Register, and Sign In are available.",
+        "sentence_cn": "- 提供“品牌共和国集团部分”、“订阅”、“关于”、“关注”、“注册”和“登录”等选项。",
+        "words": [
+            "Options",
+            "Part"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Navigation Bar:",
+        "sentence_cn": "2. 导航栏：",
+        "words": [
+            "Navigation Bar",
+            "Navigation",
+            "Bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Links for Home, News, Analysis, Interviews, Forum, Awards, and Jobs.",
+        "sentence_cn": "- 主页、新闻、分析、访谈、论坛、奖项和工作链接。",
+        "words": [
+            "Links",
+            "Home",
+            "News",
+            "Analysis",
+            "Interviews",
+            "Forum",
+            "Awards",
+            "Jobs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A search bar labeled \"Search Media Week.\"",
+        "sentence_cn": "- 标有“搜索媒体周”的搜索栏。",
+        "words": [
+            "Search Media Week.",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Topics Bar:",
+        "sentence_cn": "3. 主题栏：",
+        "words": [
+            "Topics Bar",
+            "Topics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes categories like Agency, Television, Digital, Press, Magazines, Mobile, Outdoor, Radio, and Cinema.",
+        "sentence_cn": "- 包括代理、电视、数字、媒体、杂志、移动、户外、广播和电影等类别。",
+        "words": [
+            "categories",
+            "Agency",
+            "Press",
+            "Magazines",
+            "Cinema"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Main Content:",
+        "sentence_cn": "4. 主要内容：",
+        "words": [
+            "Main Content",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the left, there's an article featuring Helen McRae, discussing her role with the data legacy at Mindshare UK.",
+        "sentence_cn": "- 左边是一篇关于海伦·麦克雷 (Helen McRae) 的文章，讨论了她在 Mindshare UK 的数据遗产方面所扮演的角色。",
+        "words": [
+            "left",
+            "article",
+            "role",
+            "data",
+            "legacy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In the middle, an article highlights ITV and Sky's revival in TV advertising.",
+        "sentence_cn": "- 中间的一篇文章重点介绍了 ITV 和 Sky 在电视广告领域的复兴。",
+        "words": [
+            "middle",
+            "article",
+            "revival",
+            "TV",
+            "advertising"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the right, an article states, \"Nothing stands still for very long in the dynamic media.\"",
+        "sentence_cn": "- 右边的文章指出，“在动态媒体中，没有任何东西能够长时间保持静止。”",
+        "words": [
+            "Nothing stands still for very long in the dynamic media.",
+            "right",
+            "article",
+            "media"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Sub-Articles:",
+        "sentence_cn": "5. 子文章：",
+        "words": [
+            "Sub-Articles",
+            "Sub",
+            "-",
+            "Articles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Below, brief mentions include media history, football coverage, and free magazines.",
+        "sentence_cn": "- 下面简要提及了媒体历史、足球报道和免费杂志。",
+        "words": [
+            "mentions",
+            "media",
+            "history",
+            "football",
+            "coverage",
+            "magazines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Footer",
+        "sentence_cn": "6. 页脚",
+        "words": [
+            "Footer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - There's a highlighted offer inviting users to \"Subscribe now for unrestricted access.\"",
+        "sentence_cn": "- 有一个突出显示的优惠，邀请用户“立即订阅以获得不受限制的访问”。",
+        "words": [
+            "Subscribe now for unrestricted access.",
+            "offer",
+            "users",
+            "access"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Cookies Notification:",
+        "sentence_cn": "7. Cookies 通知：",
+        "words": [
+            "Cookies Notification",
+            "Cookies",
+            "Notification"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A banner at the bottom informs users about cookie usage, with options to continue or view more in the Cookie Policy.",
+        "sentence_cn": "- 底部的横幅告知用户有关 cookie 的使用情况，并提供继续或在 Cookie 政策中查看更多信息的选项。",
+        "words": [
+            "banner",
+            "bottom",
+            "users",
+            "cookie",
+            "usage",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the layout is focused on media-related news and analysis, targeting professionals in the industry.",
+        "sentence_cn": "总体而言，布局以媒体相关的新闻和分析为重点，针对行业专业人士。",
+        "words": [
+            "layout",
+            "media",
+            "news",
+            "analysis",
+            "professionals",
+            "industry"
+        ],
+        "id": null
+    }
+]

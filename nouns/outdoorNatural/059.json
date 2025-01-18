@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image depicts a group of rhinoceroses and wildebeests in a grassy, savanna-like landscape.",
+        "sentence_cn": "图像描绘的是一群犀牛和角马生活在一片草地、类似大草原的景观中。",
+        "words": [
+            "group",
+            "rhinoceroses",
+            "wildebeests",
+            "savanna",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, several wildebeests are moving together, their bodies showing defined muscles and dark, shaggy manes.",
+        "sentence_cn": "前景中，几只角马一起移动，它们的身体显示出清晰的肌肉和深色蓬乱的鬃毛。",
+        "words": [
+            "foreground",
+            "wildebeests",
+            "bodies",
+            "muscles",
+            "manes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are a few rhinoceroses walking across the dry terrain, their large, armored bodies and horns clearly visible.",
+        "sentence_cn": "背景中，有几头犀牛在干燥的地形上行走，它们巨大的盔甲身体和角清晰可见。",
+        "words": [
+            "background",
+            "rhinoceroses",
+            "terrain",
+            "bodies",
+            "horns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene is set in a natural habitat with scattered patches of grass and bushes.",
+        "sentence_cn": "场景设在自然栖息地，有散落的草地和灌木丛。",
+        "words": [
+            "scene",
+            "habitat",
+            "patches",
+            "grass",
+            "bushes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests a warm, possibly late afternoon or early morning environment, casting a brownish hue over the scene.",
+        "sentence_cn": "灯光暗示着一种温暖的、可能是傍晚或清晨的环境，给场景蒙上了一层褐色的色调。",
+        "words": [
+            "lighting",
+            "afternoon",
+            "morning",
+            "environment",
+            "hue",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a sense of motion, especially among the wildebeests.",
+        "sentence_cn": "有一种运动感，尤其是在角马之中。",
+        "words": [
+            "sense",
+            "motion",
+            "wildebeests"
+        ],
+        "id": null
+    }
+]

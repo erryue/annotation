@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image depicts a scene with three locomotives on a railway track in a rural setting.",
+        "sentence_cn": "该图描绘的是乡村铁轨上三辆机车行驶的场景。",
+        "words": [
+            "scene",
+            "three",
+            "locomotives",
+            "railway",
+            "track"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The first locomotive, closest to the camera, is a modern diesel engine painted gray with a yellow front and \"DR\" branding.",
+        "sentence_cn": "第一台机车距离摄像机最近，是一台现代柴油发动机，漆成灰色，前面是黄色，并带有“DR”标志。",
+        "words": [
+            "DR",
+            "locomotive",
+            "camera",
+            "diesel",
+            "engine",
+            "front",
+            "branding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The second locomotive is an iconic streamlined steam engine, painted in bright blue with \"LNER\" and the number \"4468\" prominently displayed.",
+        "sentence_cn": "第二台机车是标志性的流线型蒸汽机车，漆成亮蓝色，上面显眼地显示“LNER”和数字“4468”。",
+        "words": [
+            "LNER",
+            "4468",
+            "locomotive",
+            "steam",
+            "engine",
+            "blue",
+            "number",
+            "4468"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features distinctive red wheels and a classic design characteristic of early 20th-century steam locomotives.",
+        "sentence_cn": "它具有独特的红色车轮和 20 世纪早期蒸汽机车的经典设计。",
+        "words": [
+            "wheels",
+            "design",
+            "century",
+            "steam",
+            "locomotives"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The third locomotive, behind the steam engine, is another diesel engine painted in dark blue with the British Rail logo.",
+        "sentence_cn": "蒸汽机车后面的第三台机车是另一台柴油机车，漆成深蓝色，带有英国铁路的标志。",
+        "words": [
+            "locomotive",
+            "steam",
+            "engine",
+            "diesel",
+            "engine",
+            "blue",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding landscape is an open, grassy field with a few bushes and trees in the distance, creating a backdrop of gently rolling farmland.",
+        "sentence_cn": "周围的景观是一片开阔的草地，远处有几丛灌木和树木，形成起伏的农田背景。",
+        "words": [
+            "landscape",
+            "field",
+            "bushes",
+            "trees",
+            "distance",
+            "backdrop",
+            "farmland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overhead, there are wires for electric trains, suggesting that the track is part of an electrified railway line.",
+        "sentence_cn": "头顶上有电动火车的电线，表明这条轨道是电气化铁路线的一部分。",
+        "words": [
+            "wires",
+            "trains",
+            "track",
+            "part",
+            "railway",
+            "line"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, indicating good weather.",
+        "sentence_cn": "天空晴朗，预示着天气良好。",
+        "words": [
+            "sky",
+            "weather"
+        ],
+        "id": null
+    }
+]

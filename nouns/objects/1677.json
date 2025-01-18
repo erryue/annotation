@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image depicts a table setup with a variety of items.",
+        "sentence_cn": "图像描绘了一张摆放着各种物品的桌子。",
+        "words": [
+            "table",
+            "variety",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A light blue tablecloth covers the table.",
+        "sentence_cn": "桌子上铺着淡蓝色的桌布。",
+        "words": [
+            "tablecloth",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a bowl filled with popcorn and another smaller bowl containing colorful candies or small wrapped items.",
+        "sentence_cn": "前景中，有一个装满爆米花的碗，另一个较小的碗里装有五颜六色的糖果或小包装物品。",
+        "words": [
+            "foreground",
+            "bowl",
+            "popcorn",
+            "bowl",
+            "candies",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a pepper shaker, a salt shaker, and what appears to be a candlestick or holder next to a solitary paper towel roll held by a wooden dispenser.",
+        "sentence_cn": "左边有一个胡椒瓶、一个盐瓶和一个看起来像烛台或烛台的东西，旁边是一个孤零零的纸巾卷，放在一个木制分配器里。",
+        "words": [
+            "left",
+            "pepper",
+            "shaker",
+            "salt",
+            "shaker",
+            "candlestick",
+            "holder",
+            "paper",
+            "towel",
+            "roll",
+            "dispenser"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Nearby is a yellow, spherical, decorative item, possibly a candle holder.",
+        "sentence_cn": "附近有一个黄色的球形装饰品，可能是烛台。",
+        "words": [
+            "item",
+            "candle",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle of the table, there is a wine glass, and beside it, a small green glass jar or vase holding a collection of white stirrers.",
+        "sentence_cn": "桌子中间放着一个酒杯，旁边有一个绿色的小玻璃罐或花瓶，里面装着一堆白色搅拌棒。",
+        "words": [
+            "middle",
+            "table",
+            "wine",
+            "glass",
+            "glass",
+            "jar",
+            "vase",
+            "collection",
+            "stirrers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind this, there is a bottle of wine with a cork, and next to that, a decorative plate rests on the table.",
+        "sentence_cn": "在这后面，放着一瓶带软木塞的葡萄酒，旁边的桌子上摆放着一个装饰盘。",
+        "words": [
+            "bottle",
+            "wine",
+            "cork",
+            "plate",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setup suggests a casual or informal gathering, perhaps preparing for a snack or light meal.",
+        "sentence_cn": "总体而言，这种布置适合休闲或非正式的聚会，或许是准备吃点小吃或便餐。",
+        "words": [
+            "gathering",
+            "snack",
+            "meal"
+        ],
+        "id": null
+    }
+]

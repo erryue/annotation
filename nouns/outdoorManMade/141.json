@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image features a section of an industrial or infrastructural setting by a body of water, likely a canal or dock.",
+        "sentence_cn": "该图像展示了水体（可能是运河或码头）旁的工业或基础设施环境的一部分。",
+        "words": [
+            "section",
+            "body",
+            "water",
+            "canal",
+            "dock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Concrete structures dominate the scene, including large pillars and retaining walls.",
+        "sentence_cn": "场景中主要以混凝土结构为主，包括大柱子和挡土墙。",
+        "words": [
+            "structures",
+            "scene",
+            "pillars",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These structures are weathered, showing signs of rust and wear, indicative of exposure to water and the elements over time.",
+        "sentence_cn": "这些结构已经风化，出现生锈和磨损的迹象，表明它们长期暴露在水和自然环境中。",
+        "words": [
+            "structures",
+            "signs",
+            "rust",
+            "wear",
+            "exposure",
+            "water",
+            "elements",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water is calm, displaying a reflective surface.",
+        "sentence_cn": "水面平静，反射着光辉。",
+        "words": [
+            "water",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the water, there's a noticeable reflection of the structures and a red warning or danger sign, creating distorted yet vivid images due to slight ripples.",
+        "sentence_cn": "水面上，建筑物的倒影清晰可见，红色警告或危险标志也清晰可见，轻微的涟漪形成了扭曲而生动的图像。",
+        "words": [
+            "water",
+            "reflection",
+            "structures",
+            "warning",
+            "danger",
+            "sign",
+            "images",
+            "ripples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "White railings are part of the infrastructure, adding a sense of safety or boundary.",
+        "sentence_cn": "白色栏杆是基础设施的一部分，增加了安全感或边界感。",
+        "words": [
+            "railings",
+            "part",
+            "infrastructure",
+            "sense",
+            "safety",
+            "boundary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The light, likely from a low sun angle, casts soft shadows and warms the colors, enhancing the textures in the scene.",
+        "sentence_cn": "光线可能来自较低的太阳角度，投射出柔和的阴影并使颜色变暖，增强了场景中的纹理。",
+        "words": [
+            "light",
+            "sun",
+            "angle",
+            "shadows",
+            "colors",
+            "textures",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This adds depth and complexity to the overall image.",
+        "sentence_cn": "这增加了整体图像的深度和复杂性。",
+        "words": [
+            "depth",
+            "complexity"
+        ],
+        "id": null
+    }
+]

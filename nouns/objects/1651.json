@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image shows a collection of personal items laid out on a wooden surface.",
+        "sentence_cn": "图中显示的是摆放在木质表面上的个人物品。",
+        "words": [
+            "collection",
+            "items",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Notebook: A small notebook with a green cover featuring a floral pattern and an elastic band for closure.",
+        "sentence_cn": "1. 笔记本：一本小笔记本，封面为绿色，有花卉图案，有松紧带封口。",
+        "words": [
+            "Notebook",
+            "Notebook",
+            "notebook",
+            "cover",
+            "pattern",
+            "band",
+            "closure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a decorative strip on the left side with a pattern of flowers and stripes.",
+        "sentence_cn": "左侧有装饰条，上面绘有花卉和条纹图案。",
+        "words": [
+            "strip",
+            "pattern",
+            "flowers",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Pen: A purple and silver retractable pen is positioned to the left of the notebook.",
+        "sentence_cn": "2. 笔：笔记本左侧有一支紫色和银色的伸缩笔。",
+        "words": [
+            "Pen",
+            "Pen",
+            "pen",
+            "notebook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Cell Phone: An older model Nokia mobile phone with a black and silver body and a visible antenna is directly above the notebook.",
+        "sentence_cn": "3. 手机：笔记本电脑正上方有一部老款诺基亚手机，机身为黑色和银色，天线清晰可见。",
+        "words": [
+            "Cell Phone",
+            "Cell",
+            "Phone",
+            "model",
+            "mobile",
+            "phone",
+            "body",
+            "antenna",
+            "notebook"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Business Card Holder: A translucent green and silver business card holder displaying a card from Safeway Pharmacy, listing location details and mentioning full-service pharmacy care.",
+        "sentence_cn": "4. 名片夹：半透明的绿色和银色名片夹，展示着 Safeway 药房的卡片，列出了位置详细信息并提及了全方位服务的药房护理。",
+        "words": [
+            "Business Card Holder",
+            "Business",
+            "Card",
+            "Holder",
+            "business",
+            "card",
+            "holder",
+            "card",
+            "location",
+            "details",
+            "service",
+            "pharmacy",
+            "care"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. MP3 Player: A small, square blue iPod Shuffle is located to the right of the business card holder.",
+        "sentence_cn": "5. MP3 播放器：名片夹右侧有一个小巧的方形蓝色 iPod Shuffle。",
+        "words": [
+            "MP3 Player",
+            "MP3",
+            "Player",
+            "right",
+            "business",
+            "card",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Nail File: Below the business card holder, there is a metal nail file with a red handle.",
+        "sentence_cn": "",
+        "words": [
+            "Nail File",
+            "Nail",
+            "File",
+            "business",
+            "card",
+            "holder",
+            "metal",
+            "nail",
+            "file",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These items are arranged neatly, showcasing a mix of tech gadgets and everyday personal items.",
+        "sentence_cn": "这些物品排列整齐，既有科技产品，也有日常个人物品。",
+        "words": [
+            "items",
+            "mix",
+            "tech",
+            "gadgets",
+            "items"
+        ],
+        "id": null
+    }
+]

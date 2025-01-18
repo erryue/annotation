@@ -1,0 +1,76 @@
+[
+    {
+        "sentence": "The image depicts a serene natural landscape featuring a brown bear walking through a shallow, reflective body of water.",
+        "sentence_cn": "照片描绘了一片宁静的自然景观，一头棕熊正在浅浅的、反光的水域中行走。",
+        "words": [
+            "landscape",
+            "bear",
+            "body",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bear appears to be in motion, with its reflection visible on the watery surface.",
+        "sentence_cn": "这只熊似乎在运动，水面上可以清晰看到它的倒影。",
+        "words": [
+            "bear",
+            "motion",
+            "reflection",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is an expansive view of a lush, green meadow that transitions into a dense line of trees.",
+        "sentence_cn": "背景中，是一片广阔的郁郁葱葱的绿色草地，延伸至一排茂密的树木。",
+        "words": [
+            "background",
+            "view",
+            "meadow",
+            "line",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the meadow, there is a range of majestic mountains with varied slopes and peaks, some still capped with snow.",
+        "sentence_cn": "草地之外，是一排雄伟的山脉，山坡和山峰各异，有些山峰上仍覆盖着皑皑白雪。",
+        "words": [
+            "meadow",
+            "range",
+            "mountains",
+            "slopes",
+            "peaks",
+            "snow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above the mountains is partially cloudy, casting a soft, diffused light over the scene and creating a peaceful atmosphere.",
+        "sentence_cn": "山峰上方的天空多云，为场景投射出柔和、散射的光线，营造出一种宁静的氛围。",
+        "words": [
+            "sky",
+            "mountains",
+            "light",
+            "scene",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The combination of the bear, water, greenery, and mountains creates a picturesque representation of wilderness and tranquility.",
+        "sentence_cn": "熊、水、绿色和山脉的组合创造出荒野与宁静的如画景象。",
+        "words": [
+            "combination",
+            "bear",
+            "water",
+            "greenery",
+            "mountains",
+            "representation",
+            "wilderness",
+            "tranquility"
+        ],
+        "id": null
+    }
+]

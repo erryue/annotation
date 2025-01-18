@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image features a neatly set dinner scene.",
+        "sentence_cn": "图片呈现的是布置整齐的晚餐场景。",
+        "words": [
+            "dinner",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It includes a plate of tri-color rotini pasta topped with a rich tomato sauce and garnished with a fresh basil leaf.",
+        "sentence_cn": "它包括一盘三色螺旋面，上面浇着浓郁的番茄酱，并用新鲜的罗勒叶装饰。",
+        "words": [
+            "plate",
+            "rotini",
+            "pasta",
+            "tomato",
+            "sauce",
+            "basil",
+            "leaf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pasta has a mix of colors: green, orange, and yellow.",
+        "sentence_cn": "意大利面有多种颜色：绿色、橙色和黄色。",
+        "words": [
+            "pasta",
+            "mix",
+            "colors",
+            "orange"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the plate, there is a silver fork placed on a woven placemat with a bamboo-like appearance.",
+        "sentence_cn": "盘子的右侧，有一把银叉，放在一块外观类似竹子的编织餐垫上。",
+        "words": [
+            "plate",
+            "fork",
+            "placemat",
+            "bamboo",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the upper right corner, there's a glass of a dark-colored beverage, likely cola, with ice and a lemon slice floating on top.",
+        "sentence_cn": "右上角有一杯深色饮料，可能是可乐，上面漂浮着冰块和一片柠檬片。",
+        "words": [
+            "corner",
+            "glass",
+            "beverage",
+            "cola",
+            "ice",
+            "lemon",
+            "slice",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setup is on a light wooden table, creating a warm and inviting atmosphere.",
+        "sentence_cn": "布置在一张浅色木桌上，营造出温暖而温馨的氛围。",
+        "words": [
+            "table",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

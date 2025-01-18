@@ -1,0 +1,325 @@
+[
+    {
+        "sentence": "The infographic titled \"Agricultural Productivity Gap: The Opportunity for Mobile\" highlights the challenges faced by farmers in developing countries and the role of mobile technology in bridging these gaps.",
+        "sentence_cn": "这份题为“农业生产力差距：移动技术的机遇”的信息图强调了发展中国家农民面临的挑战以及移动技术在弥合这些差距方面的作用。",
+        "words": [
+            "Agricultural Productivity Gap: The Opportunity for Mobile",
+            "Mobile",
+            "challenges",
+            "farmers",
+            "countries",
+            "role",
+            "technology",
+            "gaps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Key Features:",
+        "sentence_cn": "### 主要特点：",
+        "words": [
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Left Section: Labour Force in Agriculture",
+        "sentence_cn": "#### 左部分：农业劳动力",
+        "words": [
+            "Section",
+            "Force",
+            "Agriculture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Developing World:",
+        "sentence_cn": "- 发展中国家：",
+        "words": [
+            "Developing World:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Represents 40% of the global population, with 1.1 billion people working in agriculture.",
+        "sentence_cn": "- 占世界人口的 40%，其中 11 亿人从事农业。",
+        "words": [
+            "40",
+            "population",
+            "1.1",
+            "billion",
+            "people",
+            "agriculture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Developed World:",
+        "sentence_cn": "- 发达国家：",
+        "words": [
+            "Developed World:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Only 3% of the population, or 16 million people, are involved in agriculture.",
+        "sentence_cn": "- 仅有3%的人口（1600万人）从事农业。",
+        "words": [
+            "3",
+            "population",
+            "16",
+            "million",
+            "people",
+            "agriculture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 99% of agricultural workers are from developing countries.",
+        "sentence_cn": "- 99%的农业工人来自发展中国家。",
+        "words": [
+            "99",
+            "workers",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Middle Section: Produce Per Hectare",
+        "sentence_cn": "#### 中间部分：每公顷产量",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Developing Countries:",
+        "sentence_cn": "- 发展中国家：",
+        "words": [
+            "Developing Countries:",
+            "Countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Yields are 2400 kg per hectare.",
+        "sentence_cn": "- 每公顷产量为 2400 公斤。",
+        "words": [
+            "Yields",
+            "2400",
+            "kg",
+            "hectare"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Crop yields are 60% of those in developed countries.",
+        "sentence_cn": "——农作物产量仅为发达国家的60%。",
+        "words": [
+            "Crop",
+            "yields",
+            "60",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Developed Countries:",
+        "sentence_cn": "- 发达国家：",
+        "words": [
+            "Developed Countries:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Yields are 4000 kg per hectare.",
+        "sentence_cn": "- 每公顷产量为 4000 公斤。",
+        "words": [
+            "Yields",
+            "4000",
+            "kg",
+            "hectare"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Right Section: Mobile Phone Penetration",
+        "sentence_cn": "#### 右部分：手机普及率",
+        "words": [
+            "Section",
+            "Mobile",
+            "Phone",
+            "Penetration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Highlights the growing penetration of mobile phones in developing countries:",
+        "sentence_cn": "- 强调了发展中国家移动电话普及率的不断提高：",
+        "words": [
+            "penetration",
+            "phones",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2000: 4%",
+        "sentence_cn": "2000年：4％",
+        "words": [
+            "2000",
+            "4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2005: 24%",
+        "sentence_cn": "2005年：24％",
+        "words": [
+            "2005",
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2010: 70%",
+        "sentence_cn": "2010年：70％",
+        "words": [
+            "2010",
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - 2014: Predicted to be 101%",
+        "sentence_cn": "- 2014 年：预计为 101%",
+        "words": [
+            "2014",
+            "101"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Bottom Right: Opportunity for Mobile",
+        "sentence_cn": "#### 右下角：移动端的机会",
+        "words": [
+            "Right",
+            "Opportunity",
+            "Mobile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- States that mobile technology can bridge the information gap for farmers, enabling better-informed decisions.",
+        "sentence_cn": "- 指出移动技术可以弥补农民的信息差距，使他们能够做出更明智的决策。",
+        "words": [
+            "States",
+            "technology",
+            "information",
+            "gap",
+            "farmers",
+            "decisions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Questions Addressed:",
+        "sentence_cn": "- 问题解答：",
+        "words": [
+            "Questions Addressed:",
+            "Questions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Weather forecasts and planting schedules.",
+        "sentence_cn": "- 天气预报和种植时间表。",
+        "words": [
+            "Weather",
+            "forecasts",
+            "planting",
+            "schedules"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Protecting crops and livestock from disease.",
+        "sentence_cn": "- 保护农作物和牲畜免受疾病侵害。",
+        "words": [
+            "crops",
+            "livestock",
+            "disease"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Getting the best prices for harvests.",
+        "sentence_cn": "- 获得收成的最佳价格。",
+        "words": [
+            "prices",
+            "harvests"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "#### Sources and Design:",
+        "sentence_cn": "#### 来源和设计：",
+        "words": [
+            "Sources",
+            "Design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Data sources: GSMA, The World Bank, CIA World Factbook, FAOSTAT.",
+        "sentence_cn": "- 数据来源：GSMA、世界银行、美国中央情报局世界概况、联合国粮农组织统计数据库 (FAOSTAT)。",
+        "words": [
+            "Data",
+            "sources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Design by: richardscottdesign.co.uk",
+        "sentence_cn": "- 设计者：richardscottdesign.co.uk",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The infographic effectively communicates that increased access to mobile technology can significantly improve agricultural productivity by providing vital information to farmers in developing countries.",
+        "sentence_cn": "该信息图有效地传达了这样的信息：通过向发展中国家的农民提供重要信息，增加移动技术的使用可以显著提高农业生产力。",
+        "words": [
+            "access",
+            "technology",
+            "productivity",
+            "information",
+            "farmers",
+            "countries"
+        ],
+        "id": null
+    }
+]

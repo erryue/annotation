@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image depicts two giraffes standing on a dry, rocky plain.",
+        "sentence_cn": "图像描绘了两只长颈鹿站在干燥的岩石平原上。",
+        "words": [
+            "two",
+            "giraffes",
+            "plain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is mostly flat with a sparse covering of grass and small stones scattered across the ground.",
+        "sentence_cn": "地势大多为平坦，稀疏的草地和散落在地面的小石头。",
+        "words": [
+            "landscape",
+            "covering",
+            "grass",
+            "stones",
+            "ground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are hazy, blue-toned mountains under a clear sky, adding depth to the scene.",
+        "sentence_cn": "背景中，晴朗的天空下有朦胧的蓝色山脉，为场景增添了深度。",
+        "words": [
+            "background",
+            "mountains",
+            "sky",
+            "depth",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The giraffe on the left is larger and appears to be walking, while the smaller giraffe on the right stands facing the camera.",
+        "sentence_cn": "左边的长颈鹿体型较大，似乎正在行走，而右边较小的长颈鹿则站立着，面向镜头。",
+        "words": [
+            "giraffe",
+            "left",
+            "giraffe",
+            "right",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is serene, capturing a typical savanna setting.",
+        "sentence_cn": "整体氛围宁静，具有典型的大草原风光。",
+        "words": [
+            "atmosphere",
+            "savanna"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "sentence": "The image shows a meal served on a round, multicolored plate with distinct sections.",
+        "sentence_cn": "图中显示的是一顿盛在圆形、色彩缤纷且分区分明的盘子中的餐点。",
+        "words": [
+            "meal",
+            "plate",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the plate, there's a grilled cheese sandwich with a golden-brown crust, a serving of cooked broccoli, and a pile of tater tots.",
+        "sentence_cn": "盘子里有一份金黄色外壳的烤奶酪三明治、一份煮熟的西兰花和一堆薯条。",
+        "words": [
+            "plate",
+            "cheese",
+            "sandwich",
+            "crust",
+            "serving",
+            "broccoli",
+            "pile",
+            "tater",
+            "tots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the plate, within a separate small white bowl, there appears to be a piece of cooked meat, possibly chicken, with a crispy skin.",
+        "sentence_cn": "盘子旁边的一个单独的白色小碗里，似乎有一块煮熟的肉，可能是鸡肉，皮很脆。",
+        "words": [
+            "plate",
+            "bowl",
+            "piece",
+            "meat",
+            "chicken",
+            "skin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bowl is resting on a pink cafeteria tray, which also holds a napkin and a partially visible cup.",
+        "sentence_cn": "碗放在一个粉色的自助餐厅托盘上，托盘上还有一张餐巾和一个部分可见的杯子。",
+        "words": [
+            "bowl",
+            "cafeteria",
+            "tray",
+            "napkin",
+            "cup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a casual or institutional dining environment, like a cafeteria or hospital.",
+        "sentence_cn": "整体布置给人一种休闲或机构用餐环境的感觉，就像自助餐厅或医院。",
+        "words": [
+            "dining",
+            "environment",
+            "cafeteria",
+            "hospital"
+        ],
+        "id": null
+    }
+]

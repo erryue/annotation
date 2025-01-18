@@ -1,0 +1,194 @@
+[
+    {
+        "sentence": "The image depicts a party setup on a countertop.",
+        "sentence_cn": "图像描绘的是柜台上的派对布置。",
+        "words": [
+            "party",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Background and Setting: The corner of a kitchen countertop with a light green wall.",
+        "sentence_cn": "1. 背景和设置：厨房台面的一角，浅绿色的墙壁。",
+        "words": [
+            "Background and Setting",
+            "Background",
+            "Setting",
+            "corner",
+            "kitchen",
+            "countertop",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the setup, a white cabinet can be seen.",
+        "sentence_cn": "在设置上方，可以看到一个白色的橱柜。",
+        "words": [
+            "cabinet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Decorative Tray:",
+        "sentence_cn": "2. 装饰托盘：",
+        "words": [
+            "Decorative Tray",
+            "Tray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a metal tray stands vertically on a holder.",
+        "sentence_cn": "在背景中，一个金属托盘垂直竖立在支架上。",
+        "words": [
+            "background",
+            "metal",
+            "tray",
+            "holder"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features various pink and green labels and a paper cut-out of a watermelon slice.",
+        "sentence_cn": "它以各种粉色和绿色的标签和一张西瓜片的剪纸为特色。",
+        "words": [
+            "labels",
+            "paper",
+            "out",
+            "watermelon",
+            "slice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The tray appears to announce a \"Watermelon Themed Birthday Dinner,\" indicated by the text at the top.",
+        "sentence_cn": "托盘上似乎写着“西瓜主题生日晚宴”，顶部的文字表明了这一点。",
+        "words": [
+            "Watermelon Themed Birthday Dinner,",
+            "tray",
+            "Dinner",
+            "text",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Plates and Napkins:",
+        "sentence_cn": "3. 盘子和餐巾：",
+        "words": [
+            "Plates and Napkins",
+            "Plates",
+            "Napkins",
+            "",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - On the left side, there is a stack of square, pink paper plates.",
+        "sentence_cn": "- 左侧是一叠方形的粉色纸盘。",
+        "words": [
+            "stack",
+            "paper",
+            "plates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Next to the plates, there are party napkins with watermelon designs.",
+        "sentence_cn": "- 盘子旁边放着印有西瓜图案的派对餐巾。",
+        "words": [
+            "plates",
+            "party",
+            "napkins",
+            "watermelon",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Utensils: In the center are black plastic utensils, organized in clear plastic cups.",
+        "sentence_cn": "4. 餐具：中间是黑色塑料餐具，放在透明塑料杯里。",
+        "words": [
+            "Utensils",
+            "Utensils",
+            "center",
+            "plastic",
+            "utensils",
+            "plastic",
+            "cups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Serving Bowls and Dishes:",
+        "sentence_cn": "5. 盛菜碗碟：",
+        "words": [
+            "Serving Bowls and Dishes",
+            "Serving",
+            "Dishes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - In the foreground, there are white ceramic serving bowls with a modern, curved design.",
+        "sentence_cn": "- 前景中是具有现代弧形设计的白色陶瓷碗。",
+        "words": [
+            "foreground",
+            "serving",
+            "bowls",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- These bowls are placed next to each other, with visible stacking.",
+        "sentence_cn": "- 这些碗一个挨着一个摆放，明显是堆叠在一起的。",
+        "words": [
+            "bowls",
+            "stacking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Watermelon Bowl: On the right side, there's a large watermelon with the top carved out in a zigzag pattern, likely to be used as a serving bowl.",
+        "sentence_cn": "6. 西瓜碗：右侧有一个大西瓜，顶部雕刻有锯齿状图案，可能用作盛菜的碗。",
+        "words": [
+            "Watermelon Bowl",
+            "Watermelon",
+            "Bowl",
+            "watermelon",
+            "top",
+            "pattern",
+            "serving",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setup has a cheerful, summery theme centered around watermelon, suitable for a festive gathering like a birthday party.",
+        "sentence_cn": "总体而言，该布置以西瓜为中心，呈现出欢快的夏日主题，适合生日派对等节日聚会。",
+        "words": [
+            "theme",
+            "watermelon",
+            "gathering",
+            "birthday",
+            "party"
+        ],
+        "id": null
+    }
+]

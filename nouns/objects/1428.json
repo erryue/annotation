@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image features a small altar setup on a stone slab.",
+        "sentence_cn": "图像显示了在石板上设立的一个小祭坛。",
+        "words": [
+            "altar",
+            "stone",
+            "slab"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Central to the arrangement is a brass incense holder with several red incense sticks standing upright, surrounded by white ash.",
+        "sentence_cn": "摆设的中央是一个黄铜香座，上面直立着几根红香，周围环绕着白灰。",
+        "words": [
+            "arrangement",
+            "brass",
+            "incense",
+            "holder",
+            "incense",
+            "sticks",
+            "ash"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a white plate holding two oranges.",
+        "sentence_cn": "右边有一个白色的盘子，里面装着两个橙子。",
+        "words": [
+            "right",
+            "plate",
+            "two",
+            "oranges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Accompanying the oranges are small floral arrangements consisting of white flowers and red roses.",
+        "sentence_cn": "和橙子一起摆放的还有由白花和红玫瑰组成的小插花。",
+        "words": [
+            "oranges",
+            "arrangements",
+            "flowers",
+            "roses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the incense holder, lying directly on the stone surface, is a garland made of white jasmine flowers and several red roses.",
+        "sentence_cn": "香炉前面的石头表面上直接放置着一个由白色茉莉花和几朵红玫瑰组成的花环。",
+        "words": [
+            "front",
+            "incense",
+            "holder",
+            "stone",
+            "surface",
+            "garland",
+            "jasmine",
+            "flowers",
+            "roses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setup suggests a traditional offering, possibly for spiritual or religious purposes.",
+        "sentence_cn": "这种布置体现了传统的祭祀，可能是为了精神或宗教目的。",
+        "words": [
+            "offering",
+            "purposes"
+        ],
+        "id": null
+    }
+]

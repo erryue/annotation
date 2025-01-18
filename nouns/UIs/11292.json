@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image appears to be from a mobile app, showcasing a LEGO creation.",
+        "sentence_cn": "该图片似乎来自一款移动应用程序，展示了乐高作品。",
+        "words": [
+            "app",
+            "creation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the top, there's a circular icon showing a LEGO minifigure with glasses and a suit, with the username \"DoctorItchyUmbrella\" next to it.",
+        "sentence_cn": "- 在顶部，有一个圆形图标，显示一个戴着眼镜、穿着西装的乐高迷你人物，旁边是用户名“DoctorItchyUmbrella”。",
+        "words": [
+            "DoctorItchyUmbrella",
+            "top",
+            "icon",
+            "minifigure",
+            "glasses",
+            "suit",
+            "username"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- In the center, a photo displays a LEGO scene on a brown surface.",
+        "sentence_cn": "- 在中心，一张照片显示了棕色表面上的乐高场景。",
+        "words": [
+            "center",
+            "photo",
+            "scene",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a tree with green leaves and pink flowers, along with a red wheelbarrow-like structure with black wheels.",
+        "sentence_cn": "它的特色是一棵有绿叶和粉色花朵的树，还有一个带有黑色轮子的红色手推车状结构。",
+        "words": [
+            "tree",
+            "leaves",
+            "flowers",
+            "wheelbarrow",
+            "structure",
+            "wheels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the photo is the title \"Custom wheelbarrow¡±.",
+        "sentence_cn": "- 照片下方是标题“定制手推车”。",
+        "words": [
+            "photo",
+            "title",
+            "wheelbarrow¡±."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There is a description: \"I made wheelbarrow, then put in my tree to make it looks nicer.",
+        "sentence_cn": "- 有这样一段描述：“我制作了手推车，然后将其放入我的树中，使其看起来更漂亮。",
+        "words": [
+            "wheelbarrow",
+            "tree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "I hope you like it, and I hope it looks realistic.",
+        "sentence_cn": "我希望你喜欢它，并且希望它看起来逼真。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Thanks!\"",
+        "sentence_cn": "谢谢！”",
+        "words": [
+            "Thanks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The interface has several icons at the bottom, including a bell, a figure, and a blue circle with \"LIFE\" and LEGO bricks.",
+        "sentence_cn": "- 界面底部有几个图标，包括一个铃铛、一个人物、一个带有“LIFE”和乐高积木的蓝色圆圈。",
+        "words": [
+            "LIFE",
+            "interface",
+            "icons",
+            "bottom",
+            "bell",
+            "figure",
+            "circle",
+            "LIFE",
+            "bricks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time on the device says 11:46.",
+        "sentence_cn": "设备上的时间显示 11:46。",
+        "words": [
+            "time",
+            "device",
+            "11:46"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The app seems to involve sharing LEGO creations with a community.",
+        "sentence_cn": "该应用程序似乎涉及与社区分享乐高创作。",
+        "words": [
+            "app",
+            "creations",
+            "community"
+        ],
+        "id": null
+    }
+]

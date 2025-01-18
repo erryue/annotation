@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image depicts a deli shop called \"BRF Deli.\"",
+        "sentence_cn": "图片描绘的是一家名为“BRF Deli”的熟食店。",
+        "words": [
+            "BRF Deli.",
+            "deli",
+            "shop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The shop features a display counter with a variety of snacks and items for sale.",
+        "sentence_cn": "商店设有展示柜，出售各种小吃和物品。",
+        "words": [
+            "shop",
+            "display",
+            "counter",
+            "variety",
+            "snacks",
+            "items",
+            "sale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On top of the counter, there are lollipops and packs of candies such as Mentos, M&M's, and other confectionery items.",
+        "sentence_cn": "柜台上摆放着棒棒糖和曼妥思、M&M 等糖果以及其他糖果。",
+        "words": [
+            "top",
+            "counter",
+            "lollipops",
+            "packs",
+            "candies",
+            "confectionery",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the counter, hanging bags of chips and snacks are clearly visible.",
+        "sentence_cn": "柜台后面，挂着的薯片和零食袋清晰可见。",
+        "words": [
+            "counter",
+            "bags",
+            "chips",
+            "snacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s a poster with fruit imagery and shelves displaying beverages, including bottled water and possibly sodas.",
+        "sentence_cn": "那里有一张带有水果图案的海报，货架上摆放着饮料，包括瓶装水和苏打水。",
+        "words": [
+            "poster",
+            "fruit",
+            "imagery",
+            "shelves",
+            "beverages",
+            "water",
+            "sodas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be a well-lit area, hinting at an organized snack and refreshment service.",
+        "sentence_cn": "该场景似乎是一个光线充足的区域，暗示着有组织的小吃和茶点服务。",
+        "words": [
+            "area",
+            "snack",
+            "refreshment",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the ceiling, inside the shop, notices or some form of signage can be seen, though their contents are not clearly visible.",
+        "sentence_cn": "在商店内的天花板上，可以看到通知或某种形式的标牌，尽管其内容不清楚。",
+        "words": [
+            "ceiling",
+            "shop",
+            "notices",
+            "form",
+            "signage",
+            "contents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A person is present behind the counter.",
+        "sentence_cn": "柜台后面有个人。",
+        "words": [
+            "person",
+            "counter"
+        ],
+        "id": null
+    }
+]

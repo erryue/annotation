@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image is a webpage layout featuring an instructional game for the Nintendo Wii titled \"Sesame Street: Cookie¡¯s Counting Carnival.\"",
+        "sentence_cn": "该图片是一个网页布局，展示了任天堂 Wii 的一款教学游戏，名为“芝麻街：饼干的计数嘉年华”。",
+        "words": [
+            "Sesame Street: Cookie¡¯s Counting Carnival.",
+            "webpage",
+            "layout",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Left Panel:",
+        "sentence_cn": "左侧面板：",
+        "words": [
+            "Left Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A blue sidebar with a logo at the top showing a cartoon character using a tablet, accompanied by the text \"INSTRUCTIONAL GAMES: PLAY TO LEARN.\"",
+        "sentence_cn": "- 蓝色侧边栏顶部带有徽标，显示一个使用平板电脑的卡通人物，并附有文字“教学游戏：边玩边学”。",
+        "words": [
+            "INSTRUCTIONAL GAMES: PLAY TO LEARN.",
+            "sidebar",
+            "logo",
+            "top",
+            "cartoon",
+            "character",
+            "tablet",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Menu options listed: Home, Nintendo, Xbox, PlayStation, and Computer.",
+        "sentence_cn": "- 列出的菜单选项：主页、任天堂、Xbox、PlayStation 和计算机。",
+        "words": [
+            "Menu",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A search bar is also visible near the bottom.",
+        "sentence_cn": "- 底部附近还可以看到搜索栏。",
+        "words": [
+            "search",
+            "bar",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Main Content:",
+        "sentence_cn": "主要内容：",
+        "words": [
+            "Main Content:",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A large title reads \"Sesame Street: Cookie¡¯s Counting Carnival for the Nintendo Wii.\"",
+        "sentence_cn": "- 大标题写着“任天堂 Wii 版《芝麻街：饼干计数嘉年华》”。",
+        "words": [
+            "Sesame Street: Cookie¡¯s Counting Carnival for the Nintendo Wii.",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the title is a game cover image, featuring the recognizable blue character with big eyes, and a yellow character holding balloons.",
+        "sentence_cn": "- 标题下方是游戏封面图片，其中有一个可识别的大眼睛蓝色角色和一个拿着气球的黄色角色。",
+        "words": [
+            "title",
+            "game",
+            "cover",
+            "character",
+            "eyes",
+            "character",
+            "balloons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The game title on the cover says \"Sesame Street: Cookie's Counting Carnival The Videogame.\"",
+        "sentence_cn": "- 封面上的游戏名称写着“芝麻街：Cookie 的计数嘉年华电子游戏”。",
+        "words": [
+            "Sesame Street: Cookie's Counting Carnival The Videogame.",
+            "game",
+            "title",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the game cover is a brief description, starting with the text: \"This game makes math fun at the Counting Carnival!\"",
+        "sentence_cn": "- 游戏封面下方有一个简短的描述，以文字开头：“这个游戏让计数嘉年华中的数学变得有趣！”",
+        "words": [
+            "This game makes math fun at the Counting Carnival!",
+            "game",
+            "cover",
+            "text",
+            "game",
+            "math",
+            "fun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is colorful, reflecting the playful theme of the game.",
+        "sentence_cn": "整体设计色彩丰富，体现了游戏俏皮的主题。",
+        "words": [
+            "design",
+            "theme",
+            "game"
+        ],
+        "id": null
+    }
+]

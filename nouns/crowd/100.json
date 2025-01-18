@@ -1,0 +1,49 @@
+[
+    {
+        "sentence": "The image depicts three people, likely business professionals, standing outdoors.",
+        "sentence_cn": "照片中是三个人站在户外，可能是商界人士。",
+        "words": [
+            "three",
+            "people",
+            "business",
+            "professionals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are all dressed in formal business attire: the two men are wearing suits and ties, while the woman is wearing a suit jacket over a white blouse.",
+        "sentence_cn": "他们都穿着正式的商务装：两名男子穿着西装打着领带，而女子则穿着白色衬衫和西装外套。",
+        "words": [
+            "business",
+            "attire",
+            "two",
+            "men",
+            "suits",
+            "ties",
+            "woman",
+            "suit",
+            "jacket",
+            "blouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be engaged in a conversation, smiling at each other, suggesting a friendly or productive discussion.",
+        "sentence_cn": "他们似乎正在交谈，互相微笑，表明讨论很友好且富有成效。",
+        "words": [
+            "conversation",
+            "discussion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features tall modern buildings under a bright, partly cloudy sky, indicating an urban setting.",
+        "sentence_cn": "背景是明亮、多云的天空下的高楼大厦，展现出城市的景象。",
+        "words": [
+            "background",
+            "buildings",
+            "sky"
+        ],
+        "id": null
+    }
+]

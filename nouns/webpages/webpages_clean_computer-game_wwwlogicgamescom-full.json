@@ -1,0 +1,188 @@
+[
+    {
+        "sentence": "The image is a screenshot of a retro-style website named \"LogicGames.com,\" dedicated to logic and strategy games.",
+        "sentence_cn": "该图是“LogicGames.com”复古风格网站的截图，该网站致力于逻辑和策略游戏。",
+        "words": [
+            "LogicGames.com,",
+            "style",
+            "website",
+            "logic",
+            "strategy",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The site features a red header with welcoming text and navigation options such as \"Free Logic Games,\" \"Play All Games,\" \"Games for Windows,\" and \"Cool Jigsaw Games.\"",
+        "sentence_cn": "该网站的标题为红色，其中包含欢迎文字和导航选项，例如“免费逻辑游戏”、“玩所有游戏”、“适用于 Windows 的游戏”和“酷炫的拼图游戏”。",
+        "words": [
+            "Free Logic Games,",
+            "Play All Games,",
+            "Games for Windows,",
+            "Cool Jigsaw Games.",
+            "site",
+            "header",
+            "text",
+            "navigation",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Underneath the header, there is a grid layout showcasing different online games, each with a small description and a \"Play Game\" link.",
+        "sentence_cn": "标题下方有一个网格布局，展示不同的在线游戏，每个游戏都有一个简短的描述和一个“玩游戏”链接。",
+        "words": [
+            "Play Game",
+            "header",
+            "grid",
+            "layout",
+            "games",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The games listed are:",
+        "sentence_cn": "列出的游戏如下：",
+        "words": [
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Crate Man I Jr. - A puzzle game about reaching a red crate in different rooms.",
+        "sentence_cn": "1. Crate Man I Jr.——一款关于在不同房间中找到红色板条箱的益智游戏。",
+        "words": [
+            "Crate Man I Jr.",
+            "puzzle",
+            "game",
+            "crate",
+            "rooms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Crate Man II Jr. - Similar to the first, another crate-reaching puzzle.",
+        "sentence_cn": "2. Crate Man II Jr.——与第一个类似，也是另一个到达板条箱的谜题。",
+        "words": [
+            "Crate Man II Jr.",
+            "crate",
+            "puzzle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Crate Man III Jr. - Continuation of the crate series.",
+        "sentence_cn": "3. Crate Man III Jr.——板条箱系列的延续。",
+        "words": [
+            "Crate Man III Jr.",
+            "Continuation",
+            "crate",
+            "series"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Tilox - Objective is to remove squares by jumping on them.",
+        "sentence_cn": "4. Tilox——目标是通过跳跃来移除方块。",
+        "words": [
+            "Tilox",
+            "Objective",
+            "squares"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Peg Jump - Aim is to remove pieces by jumping.",
+        "sentence_cn": "5. Peg Jump - 目标是通过跳跃移除棋子。",
+        "words": [
+            "Peg Jump",
+            "Peg",
+            "Jump",
+            "Aim",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Ledix - A Sokoban-type game involving pushing boxes.",
+        "sentence_cn": "6. Ledix——一款涉及推箱子的推箱子类型的游戏。",
+        "words": [
+            "Ledix",
+            "type",
+            "game",
+            "boxes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Tilogic - Challenge to flip blue tiles to yellow.",
+        "sentence_cn": "7. Tilogic——挑战将蓝色瓷砖翻转为黄色。",
+        "words": [
+            "Tilogic",
+            "Challenge",
+            "tiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Quarda - Rotate squares to make color rows.",
+        "sentence_cn": "8. Quarda——旋转正方形以形成彩色行。",
+        "words": [
+            "Quarda",
+            "squares",
+            "color",
+            "rows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Cone Flip - Flip ice cream into cones.",
+        "sentence_cn": "9. 甜筒翻转——将冰淇淋翻转成甜筒。",
+        "words": [
+            "Cone Flip",
+            "Cone",
+            "Flip",
+            "ice",
+            "cream",
+            "cones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The games have small, pixelated preview images.",
+        "sentence_cn": "游戏的预览图像很小而且像素化。",
+        "words": [
+            "games",
+            "preview",
+            "images"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there is a sidebar with an \"ONLINE GAMES\" banner, along with an advertisement featuring an armored character and the text \"FEAR ME, MORTAL!\" followed by \"PLAY FREE.\"",
+        "sentence_cn": "右侧的侧边栏上有“在线游戏”横幅，还有一则广告，广告中有一个身穿盔甲的人物，旁边写着“害怕我，凡人！”，后面跟着“免费玩”。",
+        "words": [
+            "ONLINE GAMES",
+            "FEAR ME, MORTAL!",
+            "PLAY FREE.",
+            "sidebar",
+            "GAMES",
+            "banner",
+            "character",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design has a retro, early 2000s aesthetic with bright colors.",
+        "sentence_cn": "整体设计具有复古、 21 世纪初期的美感并且色彩明亮。",
+        "words": [
+            "design",
+            "2000s",
+            "aesthetic",
+            "colors"
+        ],
+        "id": null
+    }
+]

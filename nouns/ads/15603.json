@@ -1,0 +1,191 @@
+[
+    {
+        "sentence": "The image is an advertisement for an Acer notebook computer.",
+        "sentence_cn": "图片是宏碁笔记本电脑的广告。",
+        "words": [
+            "notebook",
+            "computer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here are the details:",
+        "sentence_cn": "以下是详细信息：",
+        "words": [
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Brand and Model: Acer, featuring an AMD Athlon 64 processor.",
+        "sentence_cn": "- 品牌和型号：Acer，配备 AMD Athlon 64 处理器。",
+        "words": [
+            "Brand and Model",
+            "Brand",
+            "Model",
+            "64",
+            "processor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Processor: 1.6GHz AMD Athlon 64 for Notebook PCs TF-20.",
+        "sentence_cn": "- 处理器：适用于笔记本电脑 TF-20 的 1.6GHz AMD Athlon 64。",
+        "words": [
+            "Processor",
+            "Processor",
+            "1.6GHz",
+            "64",
+            "PCs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Display: 15.6\" HD widescreen.",
+        "sentence_cn": "- 显示屏：15.6 英寸高清宽屏。",
+        "words": [
+            "Display",
+            "Display",
+            "15.6",
+            "\"",
+            "HD",
+            "widescreen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Memory: 3GB RAM.",
+        "sentence_cn": "- 内存：3GB RAM。",
+        "words": [
+            "Memory",
+            "Memory",
+            "3",
+            "GB",
+            "RAM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Storage: 160GB hard drive.",
+        "sentence_cn": "- 存储：160GB 硬盘。",
+        "words": [
+            "Storage",
+            "Storage",
+            "160",
+            "GB",
+            "drive"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Optical Drive: 8X DVD-RW drive.",
+        "sentence_cn": "- 光驱：8X DVD-RW 驱动器。",
+        "words": [
+            "Optical Drive",
+            "Drive",
+            "8X",
+            "DVD",
+            "RW",
+            "drive"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Connectivity: 802.11 b/g Wi-Fi.",
+        "sentence_cn": "- 连接：802.11 b/g Wi-Fi。",
+        "words": [
+            "Connectivity",
+            "Connectivity",
+            "802.11",
+            "b",
+            "/",
+            "g",
+            "Wi",
+            "-",
+            "Fi"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Operating System: Windows 7 Home Premium.",
+        "sentence_cn": "- 操作系统：Windows 7 Home Premium。",
+        "words": [
+            "Operating System",
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Graphics: Equipped with ATI Radeon graphics.",
+        "sentence_cn": "- 图形：配备 ATI Radeon 图形。",
+        "words": [
+            "Graphics",
+            "Graphics",
+            "graphics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Price: $349.99.",
+        "sentence_cn": "- 价格：349.99 美元。",
+        "words": [
+            "Price",
+            "Price",
+            "349.99"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Purchase Limit: Limit of 1 per customer.",
+        "sentence_cn": "- 购买限制：每位顾客限购 1 件。",
+        "words": [
+            "Purchase Limit",
+            "Purchase",
+            "Limit",
+            "Limit",
+            "1",
+            "customer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Retail Info: Available at Fry¡¯s Electronics.",
+        "sentence_cn": "- 零售信息：可在 Fry's Electronics 购买。",
+        "words": [
+            "Retail Info",
+            "Retail",
+            "Info"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Codes: AS5517-5671 #6048628.",
+        "sentence_cn": "- 代码：AS5517-5671 #6048628。",
+        "words": [
+            "Codes",
+            "Codes",
+            "AS5517",
+            "-",
+            "5671",
+            "#",
+            "6048628"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad features an image of the laptop with a colorful Windows 7 logo on the screen, and marketing text highlighting its specs and special pricing.",
+        "sentence_cn": "广告中展示了一张笔记本电脑图像，屏幕上显示着彩色的 Windows 7 标志，营销文字则重点介绍了笔记本电脑的规格和特殊价格。",
+        "words": [
+            "ad",
+            "laptop",
+            "7",
+            "logo",
+            "screen",
+            "marketing",
+            "text",
+            "specs",
+            "pricing"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "sentence": "The image is a poster for the film \"Raising Arizona.\"",
+        "sentence_cn": "图片是电影《抚养亚利桑那》的海报。",
+        "words": [
+            "Raising Arizona.",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there's a tagline that reads, \"Their lawless years are behind them.",
+        "sentence_cn": "顶部有一行标语，写着：“他们无法无天的岁月已经过去了。",
+        "words": [
+            "top",
+            "tagline",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their child-rearing years lay ahead...\".",
+        "sentence_cn": "他们的育儿岁月还在前方...”。",
+        "words": [
+            "child",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there's a large photograph showing two adults and a baby relaxing on lounge chairs.",
+        "sentence_cn": "下面是一张大幅照片，照片上两个成人和一个婴儿躺在躺椅上休息。",
+        "words": [
+            "photograph",
+            "two",
+            "adults",
+            "baby",
+            "lounge",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The adults are wearing sunglasses, with one in a bandana and the other with a mustache, giving off a laid-back vibe.",
+        "sentence_cn": "大人们都戴着墨镜，其中一个人戴着头巾，另一个人留着小胡子，散发着一种悠闲的气息。",
+        "words": [
+            "adults",
+            "sunglasses",
+            "one",
+            "bandana",
+            "mustache",
+            "vibe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The baby is also sitting on a small lounge chair, wearing sunglasses.",
+        "sentence_cn": "宝宝也坐在小躺椅上，戴着墨镜。",
+        "words": [
+            "baby",
+            "lounge",
+            "chair",
+            "sunglasses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene has a humorous feel, complemented by the bright blue sky background.",
+        "sentence_cn": "这个场景给人一种幽默的感觉，与明亮的蓝天背景相得益彰。",
+        "words": [
+            "scene",
+            "feel",
+            "sky",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the photograph, the title \"Raising Arizona\" is displayed prominently in a playful font, incorporating a baby¡¯s pacifier clip into the design.",
+        "sentence_cn": "照片下方，标题“抚养亚利桑那”以一种俏皮的字体突出显示，并将婴儿奶嘴夹融入设计中。",
+        "words": [
+            "Raising Arizona",
+            "photograph",
+            "title",
+            "font",
+            "baby¡¯s",
+            "pacifier",
+            "clip",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The slogan ¡°A comedy beyond belief¡± follows the title.",
+        "sentence_cn": "片名后面跟着一句口号：“令人难以置信的喜剧”。",
+        "words": [
+            "slogan",
+            "comedy",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there's additional information in smaller print, including credits for the cast and crew, studio information, and the film¡¯s rating.",
+        "sentence_cn": "在底部，还有一些较小字体的附加信息，包括演员和剧组人员名单、工作室信息和电影评级。",
+        "words": [
+            "bottom",
+            "information",
+            "print",
+            "credits",
+            "cast",
+            "crew",
+            "studio",
+            "information",
+            "film¡¯s",
+            "rating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design suggests a comedic and quirky movie theme.",
+        "sentence_cn": "整体设计体现了喜剧和古怪的电影主题。",
+        "words": [
+            "design",
+            "movie",
+            "theme"
+        ],
+        "id": null
+    }
+]

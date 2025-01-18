@@ -1,0 +1,147 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Abyss,\" directed by James Cameron.",
+        "sentence_cn": "图片是詹姆斯·卡梅隆执导的电影《深渊》的海报。",
+        "words": [
+            "The Abyss,",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Top Section:",
+        "sentence_cn": "顶部部分：",
+        "words": [
+            "Top Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text in white, bold lettering reads, ¡°He made your heart pound with 'The Terminator'.",
+        "sentence_cn": "- 白色粗体文字写道：“他用《终结者》让你心跳加速。”",
+        "words": [
+            "Text",
+            "lettering",
+            "heart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Then he stopped it with 'Aliens.'",
+        "sentence_cn": "然后他用《外星人》结束了这首歌。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Now, writer/director James Cameron presents this summer¡¯s most original adventure...¡±",
+        "sentence_cn": "现在，编剧兼导演詹姆斯·卡梅隆为您呈现今夏最具原创性的冒险……”",
+        "words": [
+            "writer",
+            "director",
+            "adventure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Middle Section:",
+        "sentence_cn": "中间部分：",
+        "words": [
+            "Middle Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The title \"THE ABYSS\" is prominently displayed in large, gradient blue letters with a glowing white starburst beneath it, emphasizing a deep ocean theme.",
+        "sentence_cn": "- 标题“THE ABYSS”以大号渐变蓝色字母突出显示，下方是发光的白色星芒，强调了深海主题。",
+        "words": [
+            "THE ABYSS",
+            "title",
+            "gradient",
+            "letters",
+            "starburst",
+            "ocean",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bottom Section:",
+        "sentence_cn": "底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Information about the film:",
+        "sentence_cn": "- 影片信息：",
+        "words": [
+            "Information",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Presented by Twentieth Century Fox.",
+        "sentence_cn": "- 由二十世纪福克斯出品。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Key names include Gale Anne Hurd (production), Ed Harris, Mary Elizabeth Mastrantonio, and Michael Biehn (cast), music by Alan Silvestri, production design by Leslie Dilley, and director of photography Mikael Salomon.",
+        "sentence_cn": "- 主要人物包括盖尔·安妮·赫德 (制作)、艾德·哈里斯、玛丽·伊丽莎白·马斯特兰托尼奥和迈克尔·比恩 (演员)，音乐由阿兰·席尔维斯特里创作，制作设计由莱斯利·迪利创作，摄影指导为米凯尔·萨洛蒙。",
+        "words": [
+            "names",
+            "production",
+            "cast",
+            "music",
+            "production",
+            "design",
+            "director",
+            "photography"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Rated PG-13 with a note on parental guidance.",
+        "sentence_cn": "- 级别为 PG-13，并附有家长指导说明。",
+        "words": [
+            "PG-13",
+            "note",
+            "guidance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Logos and trademarks, including the \"20th Century Fox\" logo and a \"Dolby Stereo\" mark, further authenticate the production details.",
+        "sentence_cn": "- 标识和商标，包括“20 世纪福克斯”标识和“杜比立体声”标志，进一步验证了制作细节。",
+        "words": [
+            "20th Century Fox",
+            "Dolby Stereo",
+            "Logos",
+            "trademarks",
+            "logo",
+            "mark",
+            "production",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design presents a mysterious, underwater theme fitting the movie's title and subject matter.",
+        "sentence_cn": "整体设计呈现出一种神秘的水下主题，符合电影的标题和主题。",
+        "words": [
+            "design",
+            "theme",
+            "movie",
+            "title",
+            "subject",
+            "matter"
+        ],
+        "id": null
+    }
+]

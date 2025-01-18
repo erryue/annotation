@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image depicts a cargo barge traveling on a river, set against a picturesque landscape.",
+        "sentence_cn": "图像描绘了一艘货驳船在河流上行驶，背景是风景如画的风景。",
+        "words": [
+            "cargo",
+            "barge",
+            "river",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The barge, named \"PORTO BELLO,\" displays its identification and home port on the rear.",
+        "sentence_cn": "这艘驳船名为“PORTO BELLO”，船尾标明了其标识和母港。",
+        "words": [
+            "PORTO BELLO,",
+            "barge",
+            "identification",
+            "home",
+            "port",
+            "rear"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Atop the barge are two vehicles, a red car and a blue station wagon, secured for transport.",
+        "sentence_cn": "驳船上有两辆车辆，一辆红色轿车和一辆蓝色旅行车，已固定好以备运输。",
+        "words": [
+            "barge",
+            "two",
+            "vehicles",
+            "car",
+            "station",
+            "wagon",
+            "transport"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The river is calm, with gentle ripples trailing behind the moving barge.",
+        "sentence_cn": "河面很平静，行驶的驳船后面泛起阵阵涟漪。",
+        "words": [
+            "river",
+            "ripples",
+            "barge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, a lush, forested hillside rises steeply from the riverbank.",
+        "sentence_cn": "左侧，一片郁郁葱葱的森林山坡从河岸陡然升起。",
+        "words": [
+            "hillside",
+            "riverbank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Terraced sections, possibly vineyards, can be seen on parts of the hill, indicating agricultural use.",
+        "sentence_cn": "山上的某些部分可以看到梯田，可能是葡萄园，表明其曾用于农业。",
+        "words": [
+            "sections",
+            "vineyards",
+            "parts",
+            "hill",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, a grassy embankment features trees, a crane, and some open areas, under a blue sky dotted with fluffy clouds.",
+        "sentence_cn": "右边是草堤，岸边有树木，有一台起重机和一些空地，蓝天上点缀着朵朵白云。",
+        "words": [
+            "right",
+            "embankment",
+            "trees",
+            "crane",
+            "areas",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene is tranquil, combining elements of industry and natural beauty.",
+        "sentence_cn": "整体场景宁静，融合了工业元素和自然美景。",
+        "words": [
+            "scene",
+            "elements",
+            "industry",
+            "beauty"
+        ],
+        "id": null
+    }
+]

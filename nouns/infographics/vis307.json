@@ -1,0 +1,281 @@
+[
+    {
+        "sentence": "The image is an infographic from the Asian Development Bank titled \"Key Indicators 2012: Green Urbanization in Asia.\"",
+        "sentence_cn": "该图是亚洲开发银行的一张信息图，题为“2012 年关键指标：亚洲绿色城市化”。",
+        "words": [
+            "Key Indicators 2012: Green Urbanization in Asia.",
+            "2012",
+            "Asia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It provides insights into urbanization trends and environmental concerns.",
+        "sentence_cn": "它提供了对城市化趋势和环境问题的见解。",
+        "words": [
+            "insights",
+            "urbanization",
+            "trends",
+            "concerns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Megacities on the Rise",
+        "sentence_cn": "### 特大城市正在崛起",
+        "words": [
+            "Megacities",
+            "Rise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- More than half of the world¡¯s megacities, defined as cities with over 10 million people, are now in Asia.",
+        "sentence_cn": "- 目前，全球超过一半的特大城市（人口超过1000万的城市）位于亚洲。",
+        "words": [
+            "half",
+            "world¡¯s",
+            "megacities",
+            "cities",
+            "10",
+            "million",
+            "people",
+            "Asia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- By 2025, this number is expected to increase to 21 out of 37 globally.",
+        "sentence_cn": "- 到 2025 年，预计这一数字将增至全球 37 个国家中的 21 个。",
+        "words": [
+            "2025",
+            "number",
+            "21",
+            "37"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A map highlights Asian megacities by 2025, including cities like Bangalore, Beijing, Jakarta, Mumbai, and Tokyo.",
+        "sentence_cn": "- 地图重点展示了 2025 年亚洲的特大城市，包括班加罗尔、北京、雅加达、孟买和东京等城市。",
+        "words": [
+            "map",
+            "megacities",
+            "2025",
+            "cities",
+            "Bangalore",
+            "Beijing",
+            "Jakarta",
+            "Mumbai",
+            "Tokyo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Top 25 Cities by Population Density",
+        "sentence_cn": "### 人口密度排名前 25 位的城市",
+        "words": [
+            "25",
+            "Cities",
+            "Population",
+            "Density"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Displays cities with high population density, measured in persons per square kilometer.",
+        "sentence_cn": "- 显示人口密度高的城市，以每平方公里的人口数来衡量。",
+        "words": [
+            "cities",
+            "population",
+            "density",
+            "persons",
+            "kilometer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cities listed include Mumbai, Kolkata, Karachi, and Tokyo, among others.",
+        "sentence_cn": "- 列出的城市包括孟买、加尔各答、卡拉奇和东京等。",
+        "words": [
+            "Cities",
+            "Mumbai",
+            "Kolkata",
+            "Karachi",
+            "Tokyo",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### CO2 Emissions",
+        "sentence_cn": "### 二氧化碳排放量",
+        "words": [
+            "Emissions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A line graph indicates CO2 emissions from 1968 to 2008 for the PRC (People¡¯s Republic of China), India, and the world.",
+        "sentence_cn": "- 线图显示了 1968 年至 2008 年中国、印度和世界的二氧化碳排放量。",
+        "words": [
+            "line",
+            "graph",
+            "CO2",
+            "emissions",
+            "1968",
+            "2008",
+            "PRC",
+            "India",
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- If unchecked, emissions could reach 10.2 metric tons per capita by 2025, three times the 2008 level.",
+        "sentence_cn": "- 如果不加以控制，到 2025 年人均排放量将达到 10.2 公吨，是 2008 年水平的三倍。",
+        "words": [
+            "emissions",
+            "10.2",
+            "tons",
+            "capita",
+            "2025",
+            "three",
+            "times",
+            "2008",
+            "level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Population at Risk of Flooding",
+        "sentence_cn": "### 面临洪水风险的人口",
+        "words": [
+            "Population",
+            "Risk",
+            "Flooding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bar charts show the population at risk of coastal and inland flooding in millions for 2010 and projected for 2025.",
+        "sentence_cn": "- 条形图显示了 2010 年和 2025 年预测的面临沿海和内陆洪涝风险的人口数量（以百万计）。",
+        "words": [
+            "Bar",
+            "charts",
+            "population",
+            "risk",
+            "inland",
+            "flooding",
+            "millions",
+            "2010",
+            "2025"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Distinguishes regions: Central and West Asia, Southeast Asia, South Asia, and East Asia.",
+        "sentence_cn": "- 区分区域：中亚、西亚、东南亚、南亚和东亚。",
+        "words": [
+            "regions",
+            "Central",
+            "West",
+            "Asia",
+            "Southeast",
+            "Asia",
+            "South",
+            "Asia",
+            "East",
+            "Asia"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cities like Bangkok and Dhaka are at high risk of both flood types.",
+        "sentence_cn": "- 曼谷和达卡等城市面临两种洪水的高风险。",
+        "words": [
+            "Cities",
+            "Bangkok",
+            "Dhaka",
+            "risk",
+            "flood",
+            "types"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Going Green",
+        "sentence_cn": "### 绿色环保",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Emphasizes the potential for urbanization to spearhead Asia¡¯s green development.",
+        "sentence_cn": "- 强调城镇化引领亚洲绿色发展的潜力。",
+        "words": [
+            "potential",
+            "urbanization",
+            "development"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Polluting factories may relocate to industrial zones as land prices rise and regulations increase.",
+        "sentence_cn": "- 随着土地价格上涨和监管力度加强，污染工厂可能会搬迁至工业区。",
+        "words": [
+            "factories",
+            "zones",
+            "land",
+            "prices",
+            "regulations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Stresses the importance of promoting renewable resources and new technologies for planning.",
+        "sentence_cn": "——强调推动可再生资源和新技术的规划。",
+        "words": [
+            "importance",
+            "resources",
+            "technologies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Suggests Asian cities could lead in renewable power and electric vehicles.",
+        "sentence_cn": "- 建议亚洲城市可以在可再生能源和电动汽车领域处于领先地位。",
+        "words": [
+            "cities",
+            "power",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Highlights the need for cities to be resilient to climate change, including better infrastructure and forecasting.",
+        "sentence_cn": "- 强调城市需要具备应对气候变化的能力，包括更好的基础设施和预报。",
+        "words": [
+            "need",
+            "cities",
+            "climate",
+            "change",
+            "infrastructure",
+            "forecasting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic combines data visualization with concise text to communicate the urgency and pathways for sustainable urban growth in Asia.",
+        "sentence_cn": "该信息图将数据可视化与简洁的文本相结合，传达了亚洲城市可持续发展的紧迫性和途径。",
+        "words": [
+            "data",
+            "visualization",
+            "text",
+            "urgency",
+            "pathways",
+            "growth",
+            "Asia"
+        ],
+        "id": null
+    }
+]

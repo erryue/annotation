@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image is a screenshot of a blog page from \"Jeffro's Space Gaming Blog.\"",
+        "sentence_cn": "该图片是“Jeffro 的太空游戏博客”博客页面的截图。",
+        "words": [
+            "Jeffro's Space Gaming Blog.",
+            "blog",
+            "page"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The blog focuses on microgames, monster games, and role-playing games.",
+        "sentence_cn": "该博客主要关注微游戏、怪物游戏和角色扮演游戏。",
+        "words": [
+            "blog",
+            "microgames",
+            "monster",
+            "games",
+            "role",
+            "playing",
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header features a bookshelf filled with various gaming books, many of which appear to be related to GURPS (Generic Universal RolePlaying System).",
+        "sentence_cn": "标题处有一个书架，上面摆满了各种游戏书籍，其中许多似乎与 GURPS（通用角色扮演系统）有关。",
+        "words": [
+            "header",
+            "bookshelf",
+            "gaming",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header, there's a blog post titled \"REVIEW: SJW¡¯s Always Lie by Vox Day,\" posted by someone named Jeffro on August 26, 2015.",
+        "sentence_cn": "在标题下方，有一篇博客文章，标题为“评论：Vox Day 的 SJW 的《Always Lie》”，由名为 Jeffro 的人于 2015 年 8 月 26 日发布。",
+        "words": [
+            "REVIEW: SJW¡¯s Always Lie by Vox Day,",
+            "header",
+            "blog",
+            "post",
+            "26",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The post includes a quote attributed to Godfrey Elfwick.",
+        "sentence_cn": "这篇帖子引用了戈弗雷·埃尔夫维克 (Godfrey Elfwick) 的一句话。",
+        "words": [
+            "post",
+            "quote"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The beginning of the review mentions the author's experience teaching high school.",
+        "sentence_cn": "评论的开头提到了作者的高中教学经历。",
+        "words": [
+            "beginning",
+            "review",
+            "author",
+            "experience",
+            "school"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a sidebar with a section for recent comments.",
+        "sentence_cn": "右侧有一个侧边栏，其中有最近评论的部分。",
+        "words": [
+            "right",
+            "sidebar",
+            "section",
+            "comments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the blog post, there is an image of the book cover of \"SJWs Always Lie\" by Vox Day.",
+        "sentence_cn": "博客文章旁边是 Vox Day 所著《SJWs Always Lie》一书的封面图片。",
+        "words": [
+            "SJWs Always Lie",
+            "blog",
+            "post",
+            "book",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cover is purple with a yellow smiley face with devilish features and the tagline \"Taking Down the Thought Police.\"",
+        "sentence_cn": "封面是紫色的，上面有一张具有恶魔特征的黄色笑脸，以及标语“打倒思想警察”。",
+        "words": [
+            "Taking Down the Thought Police.",
+            "cover",
+            "face",
+            "features",
+            "tagline",
+            "Thought"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page also includes an option to follow the blog via email, along with a search bar at the top.",
+        "sentence_cn": "该页面还包括通过电子邮件关注博客的选项，以及顶部的搜索栏。",
+        "words": [
+            "page",
+            "option",
+            "blog",
+            "email",
+            "search",
+            "bar",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The navigation bar contains tabs labeled \"Home,\" \"2029 Campaign,\" \"About,\" \"Support This Blog,\" and \"What People Are Saying.\"",
+        "sentence_cn": "导航栏包含标签“主页”、“2029 年活动”、“关于”、“支持此博客”和“人们在说什么”。",
+        "words": [
+            "Home,",
+            "2029 Campaign,",
+            "About,",
+            "Support This Blog,",
+            "What People Are Saying.",
+            "navigation",
+            "bar",
+            "tabs",
+            "Home",
+            "2029",
+            "Campaign",
+            "About",
+            "Blog",
+            "People"
+        ],
+        "id": null
+    }
+]

@@ -1,7 +1,7 @@
 import os
 import json
 
-image_base_dir = './example_cropped'
+image_base_dir = './dataset_cropped'
 label_base_dir = './labels'
 noun_base_dir = './nouns'
 
@@ -47,7 +47,7 @@ for image_file in image_files:
     path_list.append(image_data)
 
 # Define the path where you want to save the JSON file
-output_json_path = 'paths_example.json'
+output_json_path = 'paths.json'
 
 # Write the list to a JSON file
 with open(output_json_path, 'w') as json_file:

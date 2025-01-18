@@ -1,0 +1,139 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile application, displaying the option to select industries of interest.",
+        "sentence_cn": "该图是来自移动应用程序的屏幕截图，显示了选择感兴趣行业的选项。",
+        "words": [
+            "application",
+            "option",
+            "industries",
+            "interest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a dark blurred background with clear white text and icons.",
+        "sentence_cn": "它具有深色模糊背景和清晰的白色文字和图标。",
+        "words": [
+            "background",
+            "text",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the text reads, \"Choose the types of industries you're interested in.\"",
+        "sentence_cn": "顶部的文字写着“选择您感兴趣的行业类型”。",
+        "words": [
+            "Choose the types of industries you're interested in.",
+            "top",
+            "text",
+            "types",
+            "industries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the text, there are six categories with icons:",
+        "sentence_cn": "文本下方有六个带有图标的类别：",
+        "words": [
+            "text",
+            "six",
+            "categories",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Food & Restaurant: Represented by a fork, spoon, and knife icon.",
+        "sentence_cn": "1. 食物和餐厅：用叉子、勺子和刀子的图标表示。",
+        "words": [
+            "Food & Restaurant",
+            "fork",
+            "spoon",
+            "knife",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Retail: Represented by a price tag icon with a dollar sign.",
+        "sentence_cn": "2. 零售：用带有美元符号的价格标签图标表示。",
+        "words": [
+            "Retail",
+            "price",
+            "tag",
+            "icon",
+            "dollar",
+            "sign"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Administrative: Represented by a filing cabinet icon.",
+        "sentence_cn": "3. 行政：用文件柜图标表示。",
+        "words": [
+            "Administrative",
+            "filing",
+            "cabinet",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Customer Service: Represented by a headset icon.",
+        "sentence_cn": "4. 客服：以耳机图标表示。",
+        "words": [
+            "Customer Service",
+            "Customer",
+            "Service",
+            "headset",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Healthcare: Represented by a medical briefcase with a cross.",
+        "sentence_cn": "5. 医疗保健：以带有十字架的医疗公文包为代表。",
+        "words": [
+            "Healthcare",
+            "briefcase",
+            "cross"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Warehouse & Production: Represented by a forklift icon.",
+        "sentence_cn": "6. 仓库和生产：用叉车图标表示。",
+        "words": [
+            "Warehouse & Production",
+            "forklift",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are navigation dots indicating the page is one of several in a sequence, and above it, there's a horizontal bar with icons for typical Android notifications and status indicators like Wi-Fi, battery status, and time, which shows 11:23.",
+        "sentence_cn": "在底部，有导航点，表示该页面是序列中的几个页面之一，在它上面，有一个水平条，上面有典型 Android 通知和状态指示器（如 Wi-Fi、电池状态和时间）的图标，显示 11:23。",
+        "words": [
+            "bottom",
+            "navigation",
+            "dots",
+            "page",
+            "one",
+            "sequence",
+            "bar",
+            "icons",
+            "notifications",
+            "status",
+            "indicators",
+            "Wi",
+            "-",
+            "Fi",
+            "battery",
+            "status",
+            "time",
+            "11:23"
+        ],
+        "id": null
+    }
+]

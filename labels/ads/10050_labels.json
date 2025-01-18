@@ -1,0 +1,24 @@
+[
+    {
+        "id": "d90f9779-6d23-4b2c-a72f-ff247aa4db24",
+        "confidence": 0.86647,
+        "class": "person",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 3.00137,
+                        "minY": 2.55902,
+                        "maxX": 461.0,
+                        "maxY": 634.63464
+                    },
+                    "x": 3.00137,
+                    "y": 2.55902,
+                    "w": 457.99863,
+                    "h": 632.07562
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene with a gently sloping hill.",
+        "sentence_cn": "这幅画描绘的是一幅山丘缓缓倾斜的田园风光。",
+        "words": [
+            "scene",
+            "hill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A horse is standing alone on the upper right side of the hill, grazing or possibly looking out over the landscape.",
+        "sentence_cn": "一匹马独自站在山的右上方，正在吃草，或者可能正在眺望风景。",
+        "words": [
+            "horse",
+            "hill",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is covered with short, dry grass, suggesting late fall or early spring.",
+        "sentence_cn": "地面覆盖着短而干的草，预示着已是深秋或初春。",
+        "words": [
+            "ground",
+            "grass",
+            "fall",
+            "spring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there is a wooden fence that cuts diagonally across the image, helping to define the boundaries of the field.",
+        "sentence_cn": "左侧有一道木栅栏斜穿过图像，有助于划定田地的边界。",
+        "words": [
+            "left",
+            "fence",
+            "boundaries",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, some leafless trees are visible, indicating a cold season.",
+        "sentence_cn": "背景中可以看到一些光秃秃的树木，预示着寒冷的季节。",
+        "words": [
+            "background",
+            "trees",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the center left, there's a round hay bale positioned on the hillside, adding to the rural charm of the scene.",
+        "sentence_cn": "靠近左中心的地方，山坡上放着一个圆形的干草堆，为场景增添了乡村魅力。",
+        "words": [
+            "left",
+            "hay",
+            "bale",
+            "hillside",
+            "charm",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear with a light blue hue, suggesting a calm and quiet afternoon.",
+        "sentence_cn": "天空晴朗，泛着淡蓝色，预示着一个平静而宁静的午后。",
+        "words": [
+            "sky",
+            "hue",
+            "afternoon"
+        ],
+        "id": null
+    }
+]

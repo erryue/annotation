@@ -1,0 +1,287 @@
+[
+    {
+        "sentence": "The image is a screenshot of a website called \"Legendary Golf Management.\"",
+        "sentence_cn": "图片是“传奇高尔夫管理”网站的截图。",
+        "words": [
+            "Legendary Golf Management.",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website's theme is focused on golf management services, offering solutions for clubs and resorts.",
+        "sentence_cn": "该网站的主题专注于高尔夫管理服务，为俱乐部和度假村提供解决方案。",
+        "words": [
+            "website",
+            "theme",
+            "golf",
+            "management",
+            "services",
+            "solutions",
+            "clubs",
+            "resorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Header:",
+        "sentence_cn": "### 标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The website logo combines text and a green/orange puzzle graphic.",
+        "sentence_cn": "- 网站徽标结合了文字和绿色/橙色的拼图图形。",
+        "words": [
+            "website",
+            "logo",
+            "text",
+            "puzzle",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Navigation links include: Home, Marketing, Sales, Consulting, Management, Results, Products, About Us, Contact Us.",
+        "sentence_cn": "- 导航链接包括：主页、营销、销售、咨询、管理、结果、产品、关于我们、联系我们。",
+        "words": [
+            "Navigation",
+            "links",
+            "Marketing",
+            "Sales",
+            "Consulting",
+            "Management",
+            "Results",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content:",
+        "sentence_cn": "### 主要内容：",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Video Section: Features a YouTube video thumbnail showing a man speaking, labeled \"Golf Management - Hybrid Golf Management by Legendary Golf.\"",
+        "sentence_cn": "- 视频部分：YouTube 视频缩略图显示一名男子正在讲话，标签为“高尔夫管理 - 传奇高尔夫的混合高尔夫管理”。",
+        "words": [
+            "Video Section:",
+            "Golf Management - Hybrid Golf Management by Legendary Golf.",
+            "Video",
+            "Section",
+            "YouTube",
+            "video",
+            "thumbnail",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text Below Video: Highlights the effectiveness of their \"Hybrid Golf Management\" with a guarantee of results or no payment required.",
+        "sentence_cn": "- 视频下方的文字：强调其“混合高尔夫管理”的有效性，并保证结果或无需付款。",
+        "words": [
+            "Text Below Video:",
+            "Hybrid Golf Management",
+            "Text",
+            "Video",
+            "effectiveness",
+            "guarantee",
+            "results",
+            "payment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A definition of \"hybrid\" is provided, followed by a \"Continue\" link.",
+        "sentence_cn": "提供了“混合”的定义，后面是“继续”链接。",
+        "words": [
+            "hybrid",
+            "Continue",
+            "definition",
+            "hybrid",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Right Sidebar:",
+        "sentence_cn": "### 右侧边栏：",
+        "words": [
+            "Sidebar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sales Opportunities Promotion: A box offering a free special report to maximize sales opportunities.",
+        "sentence_cn": "- 销售机会促销：提供免费特别报告的盒子，以最大限度地增加销售机会。",
+        "words": [
+            "Sales Opportunities Promotion:",
+            "Sales",
+            "Opportunities",
+            "Promotion",
+            "box",
+            "report",
+            "sales",
+            "opportunities"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Service Descriptions: Six sections detail various services:",
+        "sentence_cn": "- 服务描述：六个部分详细介绍了各种服务：",
+        "words": [
+            "Service Descriptions:",
+            "Service",
+            "Descriptions",
+            "Six",
+            "sections",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Golf & Resort Management: Customized solutions for clubs and resorts.",
+        "sentence_cn": "- 高尔夫和度假村管理：为俱乐部和度假村提供定制解决方案。",
+        "words": [
+            "Golf & Resort Management:",
+            "solutions",
+            "clubs",
+            "resorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Expert Consulting: Financial or agronomic issue assistance.",
+        "sentence_cn": "- 专家咨询：财务或农艺问题援助。",
+        "words": [
+            "Expert Consulting:",
+            "issue",
+            "assistance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Superior Sales and Marketing: Advanced marketing strategies.",
+        "sentence_cn": "- 卓越的销售和营销：先进的营销策略。",
+        "words": [
+            "Superior Sales and Marketing:",
+            "Sales",
+            "Marketing",
+            "marketing",
+            "strategies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Effective Membership Programs: Increasing membership numbers.",
+        "sentence_cn": "- 有效的会员计划：增加会员数量。",
+        "words": [
+            "Effective Membership Programs:",
+            "Membership",
+            "Programs",
+            "membership",
+            "numbers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - High Quality Staff Training: Onsite sales training and service presentation.",
+        "sentence_cn": "- 高质量员工培训：现场销售培训和服务演示。",
+        "words": [
+            "High Quality Staff Training:",
+            "Quality",
+            "Staff",
+            "Training",
+            "sales",
+            "training",
+            "service",
+            "presentation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Astonishing Results: Collaborative growth through superior marketing.",
+        "sentence_cn": "- 惊人的成果：通过卓越的营销实现协作增长。",
+        "words": [
+            "Astonishing Results:",
+            "Results",
+            "growth",
+            "marketing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Additional Promotions:",
+        "sentence_cn": "- 额外促销：",
+        "words": [
+            "Additional Promotions:",
+            "Promotions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Five Great Reasons To Hire Us!\"",
+        "sentence_cn": "- “雇用我们的五大理由！”",
+        "words": [
+            "Five Great Reasons To Hire Us!",
+            "Five",
+            "Reasons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"The Golf Marketing Bible\" order prompt.",
+        "sentence_cn": "- 《高尔夫营销圣经》订单提示。",
+        "words": [
+            "The Golf Marketing Bible",
+            "order",
+            "prompt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Links to a \"Management Blog.\"",
+        "sentence_cn": "- 链接到“管理博客”。",
+        "words": [
+            "Management Blog.",
+            "Links",
+            "Management",
+            "Blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A prompt to ask questions about management.",
+        "sentence_cn": "- 提示询问有关管理的问题。",
+        "words": [
+            "prompt",
+            "questions",
+            "management"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is business-focused, using a professional tone with white and orange as dominant colors.",
+        "sentence_cn": "整体设计以商务为中心，采用以白色和橙色为主色调的专业基调。",
+        "words": [
+            "design",
+            "business",
+            "tone",
+            "white",
+            "orange",
+            "colors"
+        ],
+        "id": null
+    }
+]

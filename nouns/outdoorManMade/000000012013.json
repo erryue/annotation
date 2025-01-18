@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image depicts a street scene in the London Borough of Newham, specifically Stratford.",
+        "sentence_cn": "该图描绘的是伦敦纽汉姆区（具体来说是斯特拉特福德）的街景。",
+        "words": [
+            "street",
+            "scene",
+            "the",
+            "London",
+            "Borough",
+            "of",
+            "Newham",
+            "Stratford"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are two signs.",
+        "sentence_cn": "前景中有两个标志。",
+        "words": [
+            "foreground",
+            "two",
+            "signs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left sign is white with a crest at the top, reading \"LONDON BOROUGH OF NEWHAM STRATFORD\".",
+        "sentence_cn": "左侧标志为白色，顶部有一个徽章，上面写着“伦敦纽汉姆斯特拉特福自治市”。",
+        "words": [
+            "LONDON BOROUGH OF NEWHAM STRATFORD",
+            "sign",
+            "crest",
+            "top",
+            "LONDON",
+            "BOROUGH",
+            "OF",
+            "NEWHAM",
+            "STRATFORD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a parking restriction sign labeled \"Controlled Zone SNW,\" indicating no parking allowed from Monday to Friday between 10 am and 12 noon.",
+        "sentence_cn": "右侧有一个停车限制标志，上面写着“Controlled Zone SNW”，表示周一至周五上午 10 点至中午 12 点禁止停车。",
+        "words": [
+            "Controlled Zone SNW,",
+            "right",
+            "parking",
+            "restriction",
+            "sign",
+            "Controlled",
+            "Zone",
+            "SNW",
+            "parking",
+            "10",
+            "am",
+            "12",
+            "noon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center of the image, a person wearing a blue jacket is walking down the street.",
+        "sentence_cn": "在图像的中央，一个穿着蓝色夹克的人正在街上行走。",
+        "words": [
+            "center",
+            "person",
+            "jacket",
+            "street"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features parked cars along the road, residential buildings, and a tall, modern high-rise.",
+        "sentence_cn": "背景是路边停放的汽车、住宅楼和高耸的现代化高层建筑。",
+        "words": [
+            "background",
+            "cars",
+            "road",
+            "buildings",
+            "rise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Bare trees line the street, suggesting it could be late autumn or winter.",
+        "sentence_cn": "街道两旁光秃秃的树木，暗示着现在可能是深秋或冬天。",
+        "words": [
+            "trees",
+            "street",
+            "autumn",
+            "winter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance reflects an urban environment.",
+        "sentence_cn": "整体氛围体现了城市环境。",
+        "words": [
+            "ambiance",
+            "environment"
+        ],
+        "id": null
+    }
+]

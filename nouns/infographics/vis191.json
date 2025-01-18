@@ -1,0 +1,154 @@
+[
+    {
+        "sentence": "The image is an informative poster promoting Global Handwashing Day, emphasizing the importance of washing hands with soap.",
+        "sentence_cn": "该图是一张宣传全球洗手日的宣传海报，强调了用肥皂洗手的重要性。",
+        "words": [
+            "poster",
+            "importance",
+            "hands",
+            "soap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a young girl in a red and white checkered school uniform with a red flower in her hair, participating in handwashing.",
+        "sentence_cn": "画中是一个身穿红白格子校服、头戴红花的小女孩正在洗手。",
+        "words": [
+            "girl",
+            "school",
+            "uniform",
+            "flower",
+            "hair",
+            "handwashing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An adult is helping her, pouring water over her hands.",
+        "sentence_cn": "一位大人正在帮助她，将水倒在她的手上。",
+        "words": [
+            "adult",
+            "water",
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Highlighted text on the poster includes:",
+        "sentence_cn": "海报上突出显示的文字包括：",
+        "words": [
+            "text",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"WASHING HANDS with SOAP can reduce the risk of DIARRHOEA by up to 45%.\"",
+        "sentence_cn": "- “用肥皂洗手可降低腹泻风险高达 45%。”",
+        "words": [
+            "WASHING HANDS with SOAP can reduce the risk of DIARRHOEA by up to 45%.",
+            "HANDS",
+            "SOAP",
+            "risk",
+            "DIARRHOEA",
+            "45"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"HANDS are the principal carriers of disease-causing germs.",
+        "sentence_cn": "- “手是致病细菌的主要携带者。",
+        "words": [
+            "HANDS",
+            "carriers",
+            "disease",
+            "germs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "HANDWASHING WITH SOAP helps prevent DIARRHOEA, PNEUMONIA, as well as skin diseases, eye and intestinal worm infections.\"",
+        "sentence_cn": "用肥皂洗手有助于预防腹泻、肺炎以及皮肤病、眼部和肠道蠕虫感染。”",
+        "words": [
+            "SOAP",
+            "skin",
+            "diseases",
+            "eye",
+            "worm",
+            "infections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Around 1,800 / Day die from diarrhoeal diseases due to a lack of SAFE WATER, SANITATION and BASIC HYGIENE.\"",
+        "sentence_cn": "- “由于缺乏安全饮用水、卫生设施和基本卫生条件，每天约有 1,800 人死于腹泻疾病。”",
+        "words": [
+            "Around 1,800 / Day die from diarrhoeal diseases due to a lack of SAFE WATER, SANITATION and BASIC HYGIENE.",
+            "1,800",
+            "diseases",
+            "lack",
+            "WATER",
+            "SANITATION",
+            "HYGIENE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Another section lists the four most critical times for handwashing:",
+        "sentence_cn": "另一部分列出了洗手的四个最关键时间：",
+        "words": [
+            "section",
+            "four",
+            "times",
+            "handwashing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- After cleaning a child¡¯s bottom",
+        "sentence_cn": "- 清洁完孩子的屁股后",
+        "words": [
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- After using the toilet",
+        "sentence_cn": "- 上完厕所后",
+        "words": [
+            "toilet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Before preparing food",
+        "sentence_cn": "- 准备食物之前",
+        "words": [
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Before eating",
+        "sentence_cn": "- 进食前",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The logos for Global Handwashing Day and UNICEF are present, along with a photo credit to UNICEF/INDIA2012-00178/Vishwanathan and a source reference to \"UNICEF / WASH 2012.\"",
+        "sentence_cn": "图中显示了全球洗手日和联合国儿童基金会的标识，以及联合国儿童基金会/INDIA2012-00178/Vishwanathan 的照片和“联合国儿童基金会/WASH 2012”的来源参考。",
+        "words": [
+            "UNICEF / WASH 2012.",
+            "logos",
+            "photo",
+            "credit",
+            "-",
+            "00178",
+            "/",
+            "source",
+            "reference",
+            "2012"
+        ],
+        "id": null
+    }
+]

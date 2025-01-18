@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a luxurious outdoor patio area during sunset.",
+        "sentence_cn": "图片展示的是日落时分的豪华户外露台区。",
+        "words": [
+            "patio",
+            "area",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The patio features a spacious stone-tiled floor with a modern dining table surrounded by wicker chairs, designed for open-air dining.",
+        "sentence_cn": "露台设有宽敞的石砖地板，配有现代餐桌，周围环绕着柳条椅，专为露天用餐而设计。",
+        "words": [
+            "patio",
+            "stone",
+            "floor",
+            "dining",
+            "table",
+            "wicker",
+            "chairs",
+            "air",
+            "dining"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there's a pergola supported by stone columns adorned with vibrant red flowers, while a large palm tree adds to the tropical ambiance.",
+        "sentence_cn": "左边有一个由石柱支撑的凉亭，石柱上装饰着鲜艳的红花，一棵大棕榈树更增添了热带氛围。",
+        "words": [
+            "left",
+            "pergola",
+            "stone",
+            "columns",
+            "flowers",
+            "palm",
+            "tree",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, purple bougainvillea climbs up the wall, adding a touch of color.",
+        "sentence_cn": "右侧，紫色的九重葛爬上墙面，增添了一抹色彩。",
+        "words": [
+            "right",
+            "bougainvillea",
+            "wall",
+            "touch",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene opens to a breathtaking view of the surrounding landscape, with an infinity pool reflecting the sunset.",
+        "sentence_cn": "场景展现在眼前的是周围令人惊叹的景观，无边泳池倒映着日落。",
+        "words": [
+            "scene",
+            "view",
+            "landscape",
+            "infinity",
+            "pool",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The horizon is dotted with trees, showing a serene and expansive natural setting.",
+        "sentence_cn": "天际树木点缀，呈现出宁静广阔的自然环境。",
+        "words": [
+            "horizon",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is tranquil and elegant, perfect for enjoying the sunset.",
+        "sentence_cn": "整体氛围宁静而优雅，非常适合欣赏日落。",
+        "words": [
+            "atmosphere",
+            "sunset"
+        ],
+        "id": null
+    }
+]

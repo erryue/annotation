@@ -1,0 +1,245 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot from a website for American National Logistics, Inc., located in Rockwall, TX.",
+        "sentence_cn": "该图片似乎是来自位于德克萨斯州罗克沃尔的美国国家物流公司网站的截图。",
+        "words": [
+            "website",
+            "Rockwall",
+            "TX"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website's header features the company's logo, which includes a stylized letter \"A\" and the company name.",
+        "sentence_cn": "该网站的标题是该公司的标志，其中包括一个风格化的字母“A”和公司名称。",
+        "words": [
+            "A",
+            "website",
+            "header",
+            "company",
+            "logo",
+            "letter",
+            "A",
+            "company",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are navigation tabs below the header, including Home, Our Company, Services, Brokerage, Opportunities, Contact Us, Quote, General ANL Info, and Expansion.",
+        "sentence_cn": "标题下方有导航选项卡，包括主页、我们的公司、服务、经纪、机会、联系我们、报价、一般 ANL 信息和扩展。",
+        "words": [
+            "navigation",
+            "tabs",
+            "header",
+            "Home",
+            "Services",
+            "Brokerage",
+            "Opportunities",
+            "Quote",
+            "Info",
+            "Expansion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the main section of the page, there is a large image of a white semi-truck with the company's logo and name on the trailer.",
+        "sentence_cn": "在页面的主要部分，有一张白色半挂卡车的大图像，拖车上印有公司的标志和名称。",
+        "words": [
+            "section",
+            "page",
+            "semi",
+            "-",
+            "truck",
+            "company",
+            "logo",
+            "name",
+            "trailer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The truck is on a road, with greenery and trees in the background.",
+        "sentence_cn": "卡车行驶在道路上，背景是绿色植物和树木。",
+        "words": [
+            "truck",
+            "road",
+            "greenery",
+            "trees",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this image, there are two columns of bullet points with services provided by the company:",
+        "sentence_cn": "该图下方有两列要点，列出了公司提供的服务：",
+        "words": [
+            "two",
+            "columns",
+            "bullet",
+            "points",
+            "services",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "American National Logistics, Inc.:",
+        "sentence_cn": "美国国家物流公司：",
+        "words": [
+            "American National Logistics, Inc.:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Refrigerated and Dry Truckload",
+        "sentence_cn": "- 冷藏和干货卡车",
+        "words": [
+            "Truckload"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Modern Fleet",
+        "sentence_cn": "- 现代舰队",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Air Ride Equipment",
+        "sentence_cn": "- 空气悬架设备",
+        "words": [
+            "Air",
+            "Ride",
+            "Equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Satellite Tracking",
+        "sentence_cn": "- 卫星跟踪",
+        "words": [
+            "Satellite",
+            "Tracking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 24/7 Dispatch & Customer Support",
+        "sentence_cn": "- 24/7 调度和客户支持",
+        "words": [
+            "24/7",
+            "Dispatch",
+            "Customer",
+            "Support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Experienced Staff",
+        "sentence_cn": "- 经验丰富的员工",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Drop Trailer Programs",
+        "sentence_cn": "- 拖车计划",
+        "words": [
+            "Drop",
+            "Trailer",
+            "Programs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Competitive Rates",
+        "sentence_cn": "- 有竞争力的价格",
+        "words": [
+            "Rates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "American National Diversified, Inc.:",
+        "sentence_cn": "美国国民多元化股份有限公司：",
+        "words": [
+            "American National Diversified, Inc.:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Third Party Logistics Provider",
+        "sentence_cn": "- 第三方物流供应商",
+        "words": [
+            "Logistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dry, Refrigerated, Flatbed, & Specialized Equipment",
+        "sentence_cn": "- 干燥、冷藏、平板和专用设备",
+        "words": [
+            "Equipment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Load Tracking",
+        "sentence_cn": "- 负载跟踪",
+        "words": [
+            "Load",
+            "Tracking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Carrier Management",
+        "sentence_cn": "- 承运商管理",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Freight Bill Audits",
+        "sentence_cn": "- 运费单审计",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Private Fleet Utilization",
+        "sentence_cn": "- 私人车队利用",
+        "words": [
+            "Fleet",
+            "Utilization"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Expedited/Team Service",
+        "sentence_cn": "- 加急/团队服务",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Expansive Carrier Base",
+        "sentence_cn": "- 扩大航母基地",
+        "words": [
+            "Carrier",
+            "Base"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The website design includes a light background with a contrast of dark tabs and text, giving it a professional and functional appearance.",
+        "sentence_cn": "网站设计采用浅色背景，与深色标签和文本形成对比，给人以专业而实用的外观。",
+        "words": [
+            "website",
+            "design",
+            "background",
+            "contrast",
+            "tabs",
+            "text",
+            "appearance"
+        ],
+        "id": null
+    }
+]

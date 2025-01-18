@@ -1,0 +1,118 @@
+[
+    {
+        "sentence": "The image depicts a living room with a modern and slightly cluttered appearance.",
+        "sentence_cn": "图像描绘的是具有现代感且略显杂乱的外观的客厅。",
+        "words": [
+            "room",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a large, gray L-shaped sofa, which has clothes and textiles scattered across it.",
+        "sentence_cn": "房间里有一张灰色的 L 形大沙发，上面散落着衣服和纺织品。",
+        "words": [
+            "room",
+            "L",
+            "sofa",
+            "clothes",
+            "textiles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden table is placed in front of the sofa, holding more folded laundry and a clock.",
+        "sentence_cn": "沙发前摆放着一张木桌，上面放着更多折叠好的衣物和一块钟表。",
+        "words": [
+            "table",
+            "front",
+            "sofa",
+            "laundry",
+            "clock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is a light wood, contributing to the bright atmosphere, aided by the natural light streaming in through large windows on the right side of the room.",
+        "sentence_cn": "地板是浅色木材，营造出明亮的氛围，而从房间右侧的大窗户射入的自然光则为室内增添了光彩。",
+        "words": [
+            "flooring",
+            "wood",
+            "atmosphere",
+            "light",
+            "windows",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This illumination highlights the play area on the floor, equipped with colorful foam puzzle mats and a variety of children's toys.",
+        "sentence_cn": "此次灯饰重点突出了地板上的游乐区，配备了彩色泡沫拼图垫和各种儿童玩具。",
+        "words": [
+            "illumination",
+            "play",
+            "area",
+            "floor",
+            "foam",
+            "puzzle",
+            "mats",
+            "variety",
+            "children",
+            "toys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a dining area with a wooden table and chairs.",
+        "sentence_cn": "背景中有一个用餐区，里面有一张木桌和椅子。",
+        "words": [
+            "background",
+            "dining",
+            "area",
+            "table",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some items, including a bag, are visible on the table.",
+        "sentence_cn": "桌子上有一些物品，包括一个袋子。",
+        "words": [
+            "items",
+            "bag",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the back, a staircase is leading upstairs.",
+        "sentence_cn": "后面有一条楼梯通往楼上。",
+        "words": [
+            "back",
+            "staircase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted white, adding to the open feeling of the space.",
+        "sentence_cn": "墙壁漆成白色，增加了空间的开放感。",
+        "words": [
+            "walls",
+            "feeling",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room has a homely and lived-in impression, with a mix of functionality and casual comfort.",
+        "sentence_cn": "总体而言，房间给人一种温馨、宜居的感觉，兼具实用性和休闲舒适感。",
+        "words": [
+            "room",
+            "impression",
+            "mix",
+            "functionality",
+            "comfort"
+        ],
+        "id": null
+    }
+]

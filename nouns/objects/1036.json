@@ -1,0 +1,169 @@
+[
+    {
+        "sentence": "The image displays an assortment of everyday items laid out on a textured surface.",
+        "sentence_cn": "图像展示了摆放在纹理表面上的各种日常用品。",
+        "words": [
+            "assortment",
+            "items",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Watch: Positioned at the top left, the watch has a black strap and a metallic face.",
+        "sentence_cn": "1. 手表：位于左上方，手表配有黑色表带和金属表盘。",
+        "words": [
+            "Watch",
+            "Watch",
+            "left",
+            "watch",
+            "strap",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's analog, featuring a combination of numerals and hour markers.",
+        "sentence_cn": "它是模拟的，具有数字和小时标记的组合。",
+        "words": [
+            "analog",
+            "combination",
+            "numerals",
+            "hour",
+            "markers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Money Clip: To the right of the watch, there is a stack of dollar bills held together by a silver money clip.",
+        "sentence_cn": "2. 钱夹：手表的右侧，有一叠用银色钱夹夹在一起的美元钞票。",
+        "words": [
+            "Money Clip",
+            "Money",
+            "Clip",
+            "right",
+            "watch",
+            "stack",
+            "dollar",
+            "bills",
+            "money",
+            "clip"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Keys: Next to the money clip, a set of keys is held on a keyring.",
+        "sentence_cn": "3. 钥匙：钱夹旁边，有一串钥匙挂在钥匙圈上。",
+        "words": [
+            "Keys",
+            "Keys",
+            "money",
+            "clip",
+            "set",
+            "keys",
+            "keyring"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several metal keys and a round metal tag labeled \"POV.\"",
+        "sentence_cn": "有几把金属钥匙和一个标有“POV”的圆形金属标签。",
+        "words": [
+            "POV.",
+            "metal",
+            "keys",
+            "metal",
+            "tag"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Phone: Below the watch, a black smartphone with a physical QWERTY keyboard is visible.",
+        "sentence_cn": "4. 电话：在手表下方，可以看到一部带有物理 QWERTY 键盘的黑色智能手机。",
+        "words": [
+            "Phone",
+            "Phone",
+            "watch",
+            "smartphone",
+            "QWERTY",
+            "keyboard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screen is dark, indicating the phone is off.",
+        "sentence_cn": "屏幕一片漆黑，表示手机已关机。",
+        "words": [
+            "screen",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Notebook: Below the money clip, there is a small, green notebook with the word ¡°Memoranda¡± on the cover.",
+        "sentence_cn": "5. 笔记本：钱夹下面有一个绿色的小笔记本，封面上写着“备忘录”字样。",
+        "words": [
+            "Notebook",
+            "Notebook",
+            "money",
+            "clip",
+            "notebook",
+            "word",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Pen: Placed to the right of the notebook, a silver and black pen is laid horizontally.",
+        "sentence_cn": "6. 笔：放在笔记本的右侧，水平放置一支银黑色的笔。",
+        "words": [
+            "Pen",
+            "Pen",
+            "right",
+            "notebook",
+            "pen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Multitool Knife: Above the wallet and to the right of the pen, there is a partially opened multitool or pocket knife with a green handle.",
+        "sentence_cn": "7. 多功能刀：钱包上方、钢笔右侧，有一把半打开的多功能刀或小刀，带有绿色手柄。",
+        "words": [
+            "Multitool Knife",
+            "Multitool",
+            "Knife",
+            "wallet",
+            "right",
+            "pen",
+            "multitool",
+            "pocket",
+            "knife",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Wallet: At the bottom right, a black wallet is visible with what appears to be a partially exposed identification card showing through a transparent slot.",
+        "sentence_cn": "8. 钱包：在右下角，可以看到一个黑色的钱包，里面的透明插槽里似乎有一张部分露出的身份证。",
+        "words": [
+            "Wallet",
+            "Wallet",
+            "right",
+            "wallet",
+            "identification",
+            "card",
+            "slot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The items are arranged neatly, suggesting an organized collection of personal necessities.",
+        "sentence_cn": "物品排列整齐，表明个人必需品的收集是有组织的。",
+        "words": [
+            "items",
+            "collection",
+            "necessities"
+        ],
+        "id": null
+    }
+]

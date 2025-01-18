@@ -1,0 +1,111 @@
+[
+    {
+        "sentence": "The image appears to be the menu screen of a horror-themed app or game titled \"Ghost in Photo.\"",
+        "sentence_cn": "该图像看起来像是一款恐怖主题应用程序或游戏的菜单屏幕，名为“照片中的鬼魂”。",
+        "words": [
+            "Ghost in Photo.",
+            "menu",
+            "screen",
+            "horror",
+            "app",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a dark, eerie graveyard scene with tombstones and overgrown grass, set against a cloudy night sky.",
+        "sentence_cn": "背景是一片黑暗、阴森的墓地场景，有墓碑和杂草，映衬着阴云密布的夜空。",
+        "words": [
+            "background",
+            "graveyard",
+            "scene",
+            "tombstones",
+            "grass",
+            "night",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A full moon is visible behind leafless tree branches.",
+        "sentence_cn": "光秃秃的树枝后面隐约可见一轮满月。",
+        "words": [
+            "moon",
+            "tree",
+            "branches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"GHOST IN PHOTO\" is at the top, written in a red, dripping font, creating a spooky effect.",
+        "sentence_cn": "标题“照片中的幽灵”位于顶部，以红色滴落字体书写，营造出一种令人毛骨悚然的效果。",
+        "words": [
+            "GHOST IN PHOTO",
+            "title",
+            "top",
+            "font",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are three buttons displayed prominently:",
+        "sentence_cn": "有三个按钮非常显眼：",
+        "words": [
+            "three",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Start - At the center, indicating the beginning of the game or app.",
+        "sentence_cn": "1. 开始 - 位于中心，表示游戏或应用程序的开始。",
+        "words": [
+            "Start",
+            "Start",
+            "center",
+            "beginning",
+            "game",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. More - Below the Start button, possibly leading to additional content or settings.",
+        "sentence_cn": "2. 更多 - 位于“开始”按钮下方，可能指向附加内容或设置。",
+        "words": [
+            "More",
+            "Start",
+            "button",
+            "content",
+            "settings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Share - Beside the More button, likely for sharing the app.",
+        "sentence_cn": "3. 分享——位于更多按钮旁边，可能用于分享应用程序。",
+        "words": [
+            "Share",
+            "Share",
+            "button",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom is an advertisement for \"TextNow - free text + calls,\" featuring a green and black background with a small app icon.",
+        "sentence_cn": "底部是“TextNow - 免费文本+通话”的广告，其背景为绿色和黑色，带有一个小应用程序图标。",
+        "words": [
+            "TextNow - free text + calls,",
+            "bottom",
+            "TextNow",
+            "text",
+            "calls",
+            "background",
+            "app",
+            "icon"
+        ],
+        "id": null
+    }
+]

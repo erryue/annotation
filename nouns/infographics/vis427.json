@@ -1,0 +1,270 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Canada's New Skilled Worker.\"",
+        "sentence_cn": "该图是一张名为“加拿大新兴技术工人”的信息图。",
+        "words": [
+            "Canada's New Skilled Worker.",
+            "Canada"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It outlines the criteria under the revised Federal Skilled Worker program, focusing on language proficiency, age, and work experience.",
+        "sentence_cn": "它概述了修订后的联邦技术工人计划的标准，重点关注语言能力、年龄和工作经验。",
+        "words": [
+            "criteria",
+            "program",
+            "language",
+            "proficiency",
+            "age",
+            "work",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key Sections:",
+        "sentence_cn": "关键部分：",
+        "words": [
+            "Key Sections:",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Title and Introduction:",
+        "sentence_cn": "1. 标题与简介：",
+        "words": [
+            "Title and Introduction:",
+            "Title",
+            "Introduction"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Title: \"Canada's new SKILLED WORKER.\"",
+        "sentence_cn": "- 标题：“加拿大的新技术工人。”",
+        "words": [
+            "Canada's new SKILLED WORKER.",
+            "Title",
+            "Canada",
+            "WORKER"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Subtitle explains that the revised program emphasizes language proficiency, younger age, and full-time work experience.",
+        "sentence_cn": "- 副标题解释称，修订后的计划强调语言能力、更低年龄和全职工作经验。",
+        "words": [
+            "Subtitle",
+            "program",
+            "language",
+            "proficiency",
+            "age",
+            "time",
+            "work",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Illustration:",
+        "sentence_cn": "2. 说明：",
+        "words": [
+            "Illustration:",
+            "Illustration"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Features a silhouette of a person wearing a white shirt and yellow hard hat, holding tools, symbolizing a skilled worker.",
+        "sentence_cn": "- 以身穿白衬衫和黄色安全帽、手持工具的人的轮廓为特色，象征着一名技术熟练的工人。",
+        "words": [
+            "silhouette",
+            "person",
+            "shirt",
+            "hat",
+            "tools",
+            "worker"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Criteria:",
+        "sentence_cn": "3. 标准：",
+        "words": [
+            "Criteria:",
+            "Criteria"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Age:",
+        "sentence_cn": "- 年龄：",
+        "words": [
+            "Age:",
+            "Age"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 18-35 years, indicated by an hourglass icon.",
+        "sentence_cn": "- 18-35 岁，以沙漏图标表示。",
+        "words": [
+            "18",
+            "35",
+            "years",
+            "hourglass",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Work Experience:",
+        "sentence_cn": "- 工作经验：",
+        "words": [
+            "Work Experience:",
+            "Work",
+            "Experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 6+ years full-time, illustrated by a briefcase.",
+        "sentence_cn": "- 6 年以上全职工作，以公文包为例。",
+        "words": [
+            "6",
+            "+",
+            "years",
+            "time",
+            "briefcase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Education:",
+        "sentence_cn": "- 教育：",
+        "words": [
+            "Education:",
+            "Education"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Post-secondary credentials, with a graduation cap icon.",
+        "sentence_cn": "- 大专学历，带有毕业帽图标。",
+        "words": [
+            "credentials",
+            "graduation",
+            "cap",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Language:",
+        "sentence_cn": "- 语言：",
+        "words": [
+            "Language:",
+            "Language"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - High proficiency in English and French, indicated by speech bubbles with \"Hello! Bonjour!\" text.",
+        "sentence_cn": "- 熟练掌握英语和法语，通过带有“你好！Bonjour！”文字的对话框来表明。",
+        "words": [
+            "Hello! Bonjour!",
+            "proficiency",
+            "speech",
+            "bubbles",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Adaptability:",
+        "sentence_cn": "-适应性：",
+        "words": [
+            "Adaptability:",
+            "Adaptability"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Previous work or study in Canada.",
+        "sentence_cn": "- 之前在加拿大工作或学习过。",
+        "words": [
+            "work",
+            "study",
+            "Canada"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Relatives in Canada, shown with a house icon.",
+        "sentence_cn": "- 加拿大的亲戚，以房屋图标表示。",
+        "words": [
+            "Relatives",
+            "Canada",
+            "house",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - Arranged offer of employment, represented by a handshake icon.",
+        "sentence_cn": "- 已安排的工作机会，以握手图标表示。",
+        "words": [
+            "offer",
+            "employment",
+            "handshake",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Contact Information:",
+        "sentence_cn": "4.联系方式：",
+        "words": [
+            "Contact Information:",
+            "Contact",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - For more info, directs to \"FWCANADA\" with contact details including a phone number and website.",
+        "sentence_cn": "- 如需更多信息，请直接联系“FWCANADA”，其中包含电话号码和网站等联系方式。",
+        "words": [
+            "FWCANADA",
+            "info",
+            "contact",
+            "details",
+            "phone",
+            "number",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme includes shades of blue, white, and black, with a clean and organized layout.",
+        "sentence_cn": "配色方案包括蓝色、白色和黑色，布局简洁有序。",
+        "words": [
+            "color",
+            "scheme",
+            "shades",
+            "blue",
+            "white",
+            "black",
+            "layout"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,378 @@
+[
+    {
+        "sentence": "The image is a weather forecast screen displaying information for Tuesday, Wednesday, and Thursday:",
+        "sentence_cn": "图像是显示周二、周三和周四的天气预报屏幕：",
+        "words": [
+            "weather",
+            "forecast",
+            "screen",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Tuesday",
+        "sentence_cn": "＃＃＃ 周二",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Weather: Mostly Cloudy",
+        "sentence_cn": "- 天气：多云",
+        "words": [
+            "Weather",
+            "Weather"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- High/Low Temperature: 72¡ãF/56¡ãF",
+        "sentence_cn": "- 高/低温度：72°F/56°F",
+        "words": [
+            "High/Low Temperature",
+            "Temperature",
+            "72¡ãF/56¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Precipitation: 0%",
+        "sentence_cn": "- 降水：0%",
+        "words": [
+            "Precipitation",
+            "Precipitation",
+            "0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tonight Precipitation: 0%",
+        "sentence_cn": "- 今晚降水量：0%",
+        "words": [
+            "Tonight Precipitation",
+            "Tonight",
+            "Precipitation",
+            "0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sky Cover: 34%",
+        "sentence_cn": "- 天空覆盖：34%",
+        "words": [
+            "Sky Cover",
+            "Cover",
+            "34"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wind Speed: 1 mph (1 knot)",
+        "sentence_cn": "- 风速：1 英里/小时（1 节）",
+        "words": [
+            "Wind Speed",
+            "Wind",
+            "Speed",
+            "1",
+            "mph",
+            "1",
+            "knot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunrise: 5:42 am",
+        "sentence_cn": "- 日出：上午 5:42",
+        "words": [
+            "Sunrise",
+            "Sunrise",
+            "5:42",
+            "am"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunset: 7:56 pm",
+        "sentence_cn": "- 日落：下午 7:56",
+        "words": [
+            "Sunset",
+            "7:56",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weather and Hazards: None",
+        "sentence_cn": "- 天气与危险：无",
+        "words": [
+            "Weather and Hazards",
+            "Weather",
+            "Hazards",
+            "None"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Wednesday",
+        "sentence_cn": "＃＃＃ 周三",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Weather: Slight Chance of Showers, then Chance of Thunderstorms.",
+        "sentence_cn": "- 天气：有小雨，随后有雷暴。",
+        "words": [
+            "Weather",
+            "Weather",
+            "Chance",
+            "Showers",
+            "Chance",
+            "Thunderstorms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overnight Showers Likely",
+        "sentence_cn": "夜间可能有阵雨",
+        "words": [
+            "Overnight",
+            "Showers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- High/Low Temperature: 76¡ãF/60¡ãF",
+        "sentence_cn": "- 高/低温度：76°F/60°F",
+        "words": [
+            "High/Low Temperature",
+            "Temperature",
+            "76¡ãF/60¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Precipitation: 40%",
+        "sentence_cn": "- 降水：40%",
+        "words": [
+            "Precipitation",
+            "Precipitation",
+            "40"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tonight Precipitation: 70%",
+        "sentence_cn": "- 今晚降水量：70%",
+        "words": [
+            "Tonight Precipitation",
+            "Tonight",
+            "Precipitation",
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sky Cover: 96%",
+        "sentence_cn": "- 天空覆盖：96%",
+        "words": [
+            "Sky Cover",
+            "Cover",
+            "96"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wind Speed: 9 mph (8 knots)",
+        "sentence_cn": "- 风速：9 英里/小时（8 节）",
+        "words": [
+            "Wind Speed",
+            "Wind",
+            "Speed",
+            "9",
+            "mph",
+            "8",
+            "knots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunrise: 5:41 am",
+        "sentence_cn": "- 日出：上午 5:41",
+        "words": [
+            "Sunrise",
+            "Sunrise",
+            "5:41",
+            "am"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunset: 7:57 pm",
+        "sentence_cn": "- 日落：下午 7:57",
+        "words": [
+            "Sunset",
+            "Sunset",
+            "7:57",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weather: Rain Low",
+        "sentence_cn": "- 天气：降雨",
+        "words": [
+            "Weather",
+            "Weather",
+            "Rain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Hazards: None",
+        "sentence_cn": "- 危险：无",
+        "words": [
+            "Hazards",
+            "Hazards",
+            "None"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Thursday",
+        "sentence_cn": "＃＃＃ 周四",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Weather: Showers Likely.",
+        "sentence_cn": "- 天气：可能有阵雨。",
+        "words": [
+            "Weather",
+            "Weather",
+            "Showers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overnight Chance of Thunderstorms then Chance of Showers",
+        "sentence_cn": "夜间可能有雷暴，然后可能有阵雨",
+        "words": [
+            "Overnight",
+            "Chance",
+            "Thunderstorms",
+            "Chance",
+            "Showers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- High/Low Temperature: 70¡ãF/49¡ãF",
+        "sentence_cn": "- 高/低温度：70°F/49°F",
+        "words": [
+            "High/Low Temperature",
+            "Temperature",
+            "70¡ãF/49¡ãF"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Precipitation: 60%",
+        "sentence_cn": "- 降水：60%",
+        "words": [
+            "Precipitation",
+            "Precipitation",
+            "60"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tonight Precipitation: 40%",
+        "sentence_cn": "- 今晚降水量：40%",
+        "words": [
+            "Tonight Precipitation",
+            "Tonight",
+            "Precipitation",
+            "40"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sky Cover: 73%",
+        "sentence_cn": "- 天空覆盖：73%",
+        "words": [
+            "Sky Cover",
+            "Cover",
+            "73"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wind Speed: 5 mph (4 knots)",
+        "sentence_cn": "- 风速：5 英里/小时（4 节）",
+        "words": [
+            "Wind Speed",
+            "Wind",
+            "Speed",
+            "5",
+            "mph",
+            "4",
+            "knots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunrise: 5:40 am",
+        "sentence_cn": "- 日出：早上 5:40",
+        "words": [
+            "Sunrise",
+            "Sunrise",
+            "5:40",
+            "am"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sunset: 7:58 pm",
+        "sentence_cn": "- 日落：晚上 7:58",
+        "words": [
+            "Sunset",
+            "Sunset",
+            "7:58",
+            "pm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Weather and Hazards: None",
+        "sentence_cn": "- 天气与危险：无",
+        "words": [
+            "Weather and Hazards",
+            "Weather",
+            "Hazards",
+            "None"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are tabs at the top for Favorites, Observation, Forecast, Radar, and More.",
+        "sentence_cn": "顶部有收藏夹、观察、预报、雷达等选项卡。",
+        "words": [
+            "tabs",
+            "top",
+            "Observation",
+            "Forecast",
+            "Radar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It¡¯s at 5:39 on the device time.",
+        "sentence_cn": "设备时间显示为 5:39。",
+        "words": [
+            "5:39",
+            "device",
+            "time"
+        ],
+        "id": null
+    }
+]

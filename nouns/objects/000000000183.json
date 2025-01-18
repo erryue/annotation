@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image depicts a plate with a hot dog on top of a green and white checkered tablecloth.",
+        "sentence_cn": "图中绿色和白色格子桌布上放着一盘热狗。",
+        "words": [
+            "plate",
+            "dog",
+            "top",
+            "tablecloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The hot dog is topped with chili, melted cheese, and chopped onions, served in a bun.",
+        "sentence_cn": "热狗上面放有辣椒、融化的奶酪和切碎的洋葱，夹在面包里。",
+        "words": [
+            "dog",
+            "chili",
+            "cheese",
+            "onions",
+            "bun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside it, there is a martini glass filled with a light green drink.",
+        "sentence_cn": "旁边放着一只马提尼酒杯，里面盛着淡绿色的饮料。",
+        "words": [
+            "martini",
+            "glass",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a bottle of Heinz Tomato Ketchup is visible along with a container of mustard and some salt and pepper shakers.",
+        "sentence_cn": "背景中，可以看到一瓶亨氏番茄酱、一盒芥末酱和一些盐和胡椒瓶。",
+        "words": [
+            "background",
+            "bottle",
+            "container",
+            "mustard",
+            "salt",
+            "pepper",
+            "shakers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be an outdoor or casual dining area, with wooden textures in the background.",
+        "sentence_cn": "该场景似乎是一个户外或休闲用餐区，背景有木质纹理。",
+        "words": [
+            "dining",
+            "area",
+            "textures",
+            "background"
+        ],
+        "id": null
+    }
+]

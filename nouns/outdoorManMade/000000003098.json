@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image depicts an outdoor scene featuring a grassy area with several trees.",
+        "sentence_cn": "该图描绘的是一片草地和几棵树的户外场景。",
+        "words": [
+            "scene",
+            "area",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle of this area, there's an A-frame sign advertising a special deal from Walgreens: water is being sold at 99 cents.",
+        "sentence_cn": "在这个区域的中间，有一个 A 型标志牌，上面宣传着沃尔格林的一项特别优惠：水售价 99 美分。",
+        "words": [
+            "middle",
+            "area",
+            "A",
+            "frame",
+            "sign",
+            "deal",
+            "water",
+            "99",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the sign is red and mentions \"12oz H2O.\"",
+        "sentence_cn": "标志上的文字是红色的，上面写着“12oz H2O”。",
+        "words": [
+            "12oz H2O.",
+            "text",
+            "sign",
+            "12",
+            "oz",
+            "H2O."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a larger commercial sign with contact information for leasing available spaces.",
+        "sentence_cn": "背景中有一个更大的商业标志，上面有租赁可用空间的联系信息。",
+        "words": [
+            "background",
+            "sign",
+            "contact",
+            "information",
+            "spaces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This includes a phone number and the name \"Jefferson Commons Associates.\"",
+        "sentence_cn": "其中包括电话号码和名称“Jefferson Commons Associates”。",
+        "words": [
+            "Jefferson Commons Associates.",
+            "phone",
+            "number",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the signs, you can see a road with a few vehicles and some buildings, indicating it could be a commercial area or shopping center.",
+        "sentence_cn": "在标志的后面，您可以看到一条道路上有几辆车辆和一些建筑物，这表明它可能是商业区或购物中心。",
+        "words": [
+            "signs",
+            "road",
+            "vehicles",
+            "buildings",
+            "area",
+            "shopping",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding vegetation and backdrop of the roadways suggest a suburban setting.",
+        "sentence_cn": "周围的植被和道路背景表明这里是郊区的环境。",
+        "words": [
+            "vegetation",
+            "backdrop",
+            "roadways"
+        ],
+        "id": null
+    }
+]

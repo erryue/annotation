@@ -1,0 +1,163 @@
+[
+    {
+        "sentence": "The image displays a retro-style video game screen reminiscent of \"Space Invaders.\"",
+        "sentence_cn": "图像显示的是复古风格的视频游戏画面，让人联想到“太空侵略者”。",
+        "words": [
+            "Space Invaders.",
+            "style",
+            "video",
+            "game",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Elements:",
+        "sentence_cn": "元素：",
+        "words": [
+            "Elements:",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Game Title: On the left side, the words \"Chipotle Presents Taste Invaders\" are displayed.",
+        "sentence_cn": "1. 游戏标题：左侧显示“Chipotle Presents Taste Invaders”字样。",
+        "words": [
+            "Game Title",
+            "Chipotle Presents Taste Invaders",
+            "Game",
+            "Title",
+            "words"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Score Information: Below the title, it shows \"Score: 0\", \"Stage: 1\", a \"High Score: 102,075\", and a note saying \"Burritos.\"",
+        "sentence_cn": "2. 分数信息：标题下方显示“分数：0”、“阶段：1”、“最高分数：102,075”以及“墨西哥卷饼”的注释。",
+        "words": [
+            "Score Information",
+            "Score: 0",
+            "Stage: 1",
+            "High Score: 102,075",
+            "Burritos.",
+            "Score",
+            "Information",
+            "title",
+            "Score",
+            "0",
+            "Stage",
+            "1",
+            "Score",
+            "102,075",
+            "note",
+            "Burritos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Gameplay Elements:",
+        "sentence_cn": "3. 游戏元素：",
+        "words": [
+            "Gameplay Elements",
+            "Gameplay",
+            "Elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The main playfield is on the right side.",
+        "sentence_cn": "- 主游戏场位于右侧。",
+        "words": [
+            "playfield"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - At the top, there are several rows of pixelated icons which resemble test tubes, flowers, and packets labeled \"Dg\".",
+        "sentence_cn": "- 在顶部，有几排像素化的图标，类似于试管、花朵和标有“Dg”的包裹。",
+        "words": [
+            "Dg",
+            "top",
+            "rows",
+            "icons",
+            "test",
+            "tubes",
+            "flowers",
+            "packets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A piece of pixelated pizza appears at the top amidst the icons.",
+        "sentence_cn": "- 图标顶部出现一块像素化的披萨。",
+        "words": [
+            "piece",
+            "pizza",
+            "top",
+            "icons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The player's control is likely represented by a burrito icon at the bottom center of the screen.",
+        "sentence_cn": "- 玩家的控制很可能由屏幕底部中央的墨西哥卷饼图标表示。",
+        "words": [
+            "player",
+            "control",
+            "burrito",
+            "icon",
+            "center",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Obstacles/Defenses: Red blocks that resemble buildings or obstacles are scattered at the bottom, above the player icon.",
+        "sentence_cn": "4. 障碍物/防御：类似建筑物或障碍物的红色方块散布在底部，玩家图标上方。",
+        "words": [
+            "Obstacles/Defenses",
+            "Obstacles",
+            "Defenses",
+            "blocks",
+            "buildings",
+            "obstacles",
+            "bottom",
+            "player",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Background: The background is black, simulating the space theme with small dots to represent stars.",
+        "sentence_cn": "5. 背景：背景为黑色，模拟太空主题，用小点代表星星。",
+        "words": [
+            "Background",
+            "Background",
+            "background",
+            "space",
+            "theme",
+            "dots",
+            "stars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This image is a playful interpretation of a classic arcade game, incorporating food-themed elements.",
+        "sentence_cn": "这张图片是对经典街机游戏的有趣诠释，融入了食物主题元素。",
+        "words": [
+            "interpretation",
+            "arcade",
+            "game",
+            "food",
+            "elements"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image shows a busy street scene.",
+        "sentence_cn": "图为繁忙的街景。",
+        "words": [
+            "street",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a yellow taxi with a visible \"TAXI\" sign on the roof.",
+        "sentence_cn": "前景中，有一辆黄色出租车，车顶上有明显的“TAXI”标志。",
+        "words": [
+            "TAXI",
+            "foreground",
+            "taxi",
+            "TAXI",
+            "sign",
+            "roof"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The taxi has a Ford emblem on the grille, and it is positioned in the left lane.",
+        "sentence_cn": "该出租车的格栅上有福特标志，停在左车道。",
+        "words": [
+            "taxi",
+            "emblem",
+            "grille",
+            "lane"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A person is sitting inside the taxi, visible through the windshield.",
+        "sentence_cn": "透过挡风玻璃可以看到出租车内坐着一个人。",
+        "words": [
+            "person",
+            "taxi",
+            "windshield"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the taxi, a motorcyclist on a red and white Honda motorcycle is riding in the adjacent lane.",
+        "sentence_cn": "在出租车的右侧，一名骑着红白相间的本田摩托车的摩托车手正在相邻的车道上行驶。",
+        "words": [
+            "right",
+            "taxi",
+            "motorcyclist",
+            "motorcycle",
+            "lane"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rider is wearing a black helmet and dark clothing.",
+        "sentence_cn": "骑手戴着黑色头盔，身着深色衣服。",
+        "words": [
+            "rider",
+            "helmet",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, several other vehicles are visible, including a black Mercedes-Benz and other cars, indicating a busy traffic situation.",
+        "sentence_cn": "背景中还可以看到其他几辆车辆，包括一辆黑色奔驰和其他车辆，表明交通状况繁忙。",
+        "words": [
+            "background",
+            "vehicles",
+            "cars",
+            "traffic",
+            "situation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image captures an everyday urban scene with vehicles in motion.",
+        "sentence_cn": "该图像捕捉了车辆行驶的日常城市场景。",
+        "words": [
+            "scene",
+            "vehicles",
+            "motion"
+        ],
+        "id": null
+    }
+]

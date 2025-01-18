@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Glengarry Glen Ross.\"",
+        "sentence_cn": "图片是《拜金一族》的电影海报。",
+        "words": [
+            "Glengarry Glen Ross.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a blue sky with some clouds.",
+        "sentence_cn": "背景是蓝天和一些云彩。",
+        "words": [
+            "background",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Dominating the upper portion is an image of a man in a suit walking on a tightrope.",
+        "sentence_cn": "画面上部主要呈现的是一个穿着西装的男人在钢丝上行走的图像。",
+        "words": [
+            "portion",
+            "man",
+            "suit",
+            "tightrope"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is holding a briefcase and has one hand raised, maintaining his balance.",
+        "sentence_cn": "他手里拿着公文包，一只手举起，保持平衡。",
+        "words": [
+            "briefcase",
+            "one",
+            "hand",
+            "balance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names of the actors are in bold capital letters: Al Pacino, Jack Lemmon, Alec Baldwin, Ed Harris, Alan Arkin, Kevin Spacey, and Jonathan Pryce.",
+        "sentence_cn": "在顶部，演员的名字以粗体大写字母显示：阿尔·帕西诺 (Al Pacino)、杰克·莱蒙 (Jack Lemmon)、亚历克·鲍德温 (Alec Baldwin)、艾德·哈里斯 (Ed Harris)、艾伦·阿金 (Alan Arkin)、凯文·史派西 (Kevin Spacey) 和乔纳森·普雷斯 (Jonathan Pryce)。",
+        "words": [
+            "top",
+            "names",
+            "actors",
+            "capital",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the tightrope walker, the tagline reads: \"A Story For Everyone Who Works For A Living.\"",
+        "sentence_cn": "走钢丝的人下方有一行标语：“这是一个献给所有为生计而工作的人的故事。”",
+        "words": [
+            "A Story For Everyone Who Works For A Living.",
+            "tightrope",
+            "walker",
+            "tagline",
+            "Story",
+            "Living"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"GLENGARRY GLEN ROSS\" is in large red letters near the center.",
+        "sentence_cn": "标题“GLENGARRY GLEN ROSS”以大红色字母显示在靠近中心的位置。",
+        "words": [
+            "GLENGARRY GLEN ROSS",
+            "title",
+            "letters",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section contains details about the production, including credits for the director, producers, and screenplay, as well as the film's rating and production company, New Line Cinema.",
+        "sentence_cn": "底部包含有关制作的详细信息，包括导演、制片人和剧本的人员名单，以及电影的评级和制作公司新线电影公司。",
+        "words": [
+            "section",
+            "details",
+            "production",
+            "credits",
+            "director",
+            "producers",
+            "screenplay",
+            "film",
+            "rating",
+            "production",
+            "company"
+        ],
+        "id": null
+    }
+]

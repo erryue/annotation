@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image shows a promotional advertisement for a \"limited edition\" food item called the \"Triple Double Crunchwrap.\"",
+        "sentence_cn": "图片展示的是名为“Triple Double Crunchwrap”的“限量版”食品的促销广告。",
+        "words": [
+            "limited edition",
+            "Triple Double Crunchwrap.",
+            "edition",
+            "food",
+            "item"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Crunchwrap is prominently displayed in the center, showcasing its layered contents.",
+        "sentence_cn": "Crunchwrap 显眼地陈列在中心，展示着其分层的内容。",
+        "words": [
+            "center",
+            "contents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features seasoned meat, melted cheese, chopped tomatoes, and green lettuce layered inside a folded tortilla.",
+        "sentence_cn": "它的特色是将调味的肉、融化的奶酪、切碎的西红柿和绿色生菜夹在折叠的玉米饼里。",
+        "words": [
+            "meat",
+            "cheese",
+            "tomatoes",
+            "lettuce",
+            "tortilla"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The colors are vibrant, highlighting the fresh ingredients.",
+        "sentence_cn": "颜色鲜艳，凸显了食材的新鲜。",
+        "words": [
+            "colors",
+            "ingredients"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the Crunchwrap, the text reads \"limited edition TRIPLE DOUBLE CRUNCHWRAP\" in bold, capitalized, and varying font sizes, emphasizing the product's exclusivity and name.",
+        "sentence_cn": "在 Crunchwrap 上方，用粗体大写和不同大小的字体写着“限量版 TRIPLE DOUBLE CRUNCHWRAP”，强调了产品的独特性和名称。",
+        "words": [
+            "limited edition TRIPLE DOUBLE CRUNCHWRAP",
+            "text",
+            "edition",
+            "font",
+            "sizes",
+            "product",
+            "exclusivity",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a blurred, neutral-colored brick or stone wall, and the surface appears to be a wooden table.",
+        "sentence_cn": "背景是一面模糊的、中性色的砖墙或石墙，表面看起来像一张木桌。",
+        "words": [
+            "background",
+            "brick",
+            "stone",
+            "wall",
+            "surface",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the image, there is a disclaimer saying, \"At participating locations for a limited time only.",
+        "sentence_cn": "图片底部有一条免责声明，“仅在参与活动的地点限时提供。",
+        "words": [
+            "bottom",
+            "disclaimer",
+            "locations",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Hours may vary by location.\"",
+        "sentence_cn": "营业时间可能因地点而异。”",
+        "words": [
+            "Hours",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This suggests the product's availability is restricted to specific places and times.",
+        "sentence_cn": "这表明该产品的供应仅限于特定的地点和时间。",
+        "words": [
+            "product",
+            "availability",
+            "places",
+            "times"
+        ],
+        "id": null
+    }
+]

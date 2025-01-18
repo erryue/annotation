@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image depicts a woodland setting with two traditional Native American structures, likely wigwams or longhouses.",
+        "sentence_cn": "该图描绘了一片林地环境，其中有两座传统的美洲原住民建筑，可能是圆锥形帐篷或长屋。",
+        "words": [
+            "woodland",
+            "two",
+            "structures",
+            "wigwams",
+            "longhouses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structures are made of wooden frames covered with natural materials like bark or mats.",
+        "sentence_cn": "这些建筑结构由木质框架构成，表面覆盖树皮或垫子等天然材料。",
+        "words": [
+            "structures",
+            "frames",
+            "materials",
+            "bark",
+            "mats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The larger structure has an elongated shape, while the smaller one is dome-shaped.",
+        "sentence_cn": "较大的结构呈细长形状，较小的结构呈圆顶形状。",
+        "words": [
+            "structure",
+            "shape",
+            "one",
+            "dome"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both have openings serving as entrances.",
+        "sentence_cn": "两者都有作为入口的开口。",
+        "words": [
+            "openings",
+            "entrances"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a dugout canoe resting on logs.",
+        "sentence_cn": "前景中，有一艘独木舟停靠在原木上。",
+        "words": [
+            "foreground",
+            "dugout",
+            "canoe",
+            "logs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground is covered with fallen leaves, indicating an autumn season.",
+        "sentence_cn": "地上铺满了落叶，预示着秋天已经到来。",
+        "words": [
+            "ground",
+            "leaves",
+            "autumn",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the scene are numerous trees with green and yellow foliage, suggesting a dense forest environment.",
+        "sentence_cn": "场景周围有许多绿叶和黄色的树木，表明这是一个茂密的森林环境。",
+        "words": [
+            "scene",
+            "trees",
+            "foliage",
+            "forest",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also several logs and large stones scattered, possibly used for seating or other purposes.",
+        "sentence_cn": "还散落着几根原木和大石头，可能用作座位或其他用途。",
+        "words": [
+            "logs",
+            "stones",
+            "seating",
+            "purposes"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "sentence": "The image is an infographic from NerdWallet titled \"The 400 Richest Americans,\" focusing on their wealth and industries.",
+        "sentence_cn": "该图是来自 NerdWallet 的信息图，名为“400 位最富有的美国人”，重点关注他们的财富和行业。",
+        "words": [
+            "The 400 Richest Americans,",
+            "400",
+            "wealth",
+            "industries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here are the key elements:",
+        "sentence_cn": "以下是关键要素：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Total Net Worth:",
+        "sentence_cn": "1. 总净资产：",
+        "words": [
+            "Total Net Worth",
+            "Worth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The combined net worth of these 400 individuals is $1.7 trillion.",
+        "sentence_cn": "- 这 400 人的净资产总额为 1.7 万亿美元。",
+        "words": [
+            "worth",
+            "400",
+            "individuals",
+            "1.7",
+            "trillion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The average worth is $4.2 billion, with a range from $1.1 billion to $66 billion.",
+        "sentence_cn": "- 平均价值为 42 亿美元，范围从 11 亿美元到 660 亿美元。",
+        "words": [
+            "worth",
+            "4.2",
+            "billion",
+            "range",
+            "1.1",
+            "billion",
+            "66",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Average Age:",
+        "sentence_cn": "2. 平均年龄：",
+        "words": [
+            "Average Age",
+            "Age"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The average age is 65.75 years, ranging from 28 to 97 years old.",
+        "sentence_cn": "- 年龄范围为28岁至97岁，平均65.75岁。",
+        "words": [
+            "age",
+            "65.75",
+            "years",
+            "28",
+            "97",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Net Worth by Industry:",
+        "sentence_cn": "3. 按行业划分的净资产：",
+        "words": [
+            "Net Worth by Industry",
+            "Worth",
+            "Industry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Financial Services and Hedge Funds: 20.25%",
+        "sentence_cn": "- 金融服务和对冲基金：20.25%",
+        "words": [
+            "20.25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Consumer Retail: 11.25%",
+        "sentence_cn": "- 消费零售：11.25%",
+        "words": [
+            "11.25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Computer/Tech/Web: 10.5%",
+        "sentence_cn": "- 计算机/科技/网络：10.5%",
+        "words": [
+            "Computer",
+            "Tech",
+            "10.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Oil and Energy: 9.25%",
+        "sentence_cn": "- 石油和能源：9.25％",
+        "words": [
+            "Oil",
+            "9.25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Real Estate and Construction: 8.5%",
+        "sentence_cn": "- 房地产和建筑业：8.5%",
+        "words": [
+            "Construction",
+            "8.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Media and Entertainment: 7%",
+        "sentence_cn": "- 媒体和娱乐：7%",
+        "words": [
+            "7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Other sectors like Telecom, Food, Health Services, Manufacturing, etc., have smaller percentages.",
+        "sentence_cn": "- 电信、食品、医疗服务、制造业等其他行业的比例较小。",
+        "words": [
+            "sectors",
+            "Services",
+            "Manufacturing",
+            "percentages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Top 10 Nerdiest Sources of Riches:",
+        "sentence_cn": "4. 十大最书呆子气的财富来源：",
+        "words": [
+            "Top 10 Nerdiest Sources of Riches",
+            "10",
+            "Sources",
+            "Riches",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Candy: Mars family¡¯s $13 billion wealth.",
+        "sentence_cn": "- Candy：马尔斯家族的 130 亿美元财富。",
+        "words": [
+            "Candy",
+            "13",
+            "billion",
+            "wealth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Hair Products and Tequila: Paul Mitchell and Patron.",
+        "sentence_cn": "- 美发产品和龙舌兰酒：Paul Mitchell 和 Patron。",
+        "words": [
+            "Hair Products and Tequila"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Star Wars: George Lucas¡¯s $3.3 billion.",
+        "sentence_cn": "- 星球大战：乔治·卢卡斯的 33 亿美元。",
+        "words": [
+            "Star Wars",
+            "3.3",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Beanie Babies: Ty Warner¡¯s $2.4 billion.",
+        "sentence_cn": "- Beanie Babies：泰·华纳 (Ty Warner) 的 24 亿美元。",
+        "words": [
+            "Beanie Babies",
+            "2.4",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cheese: James Leprino¡¯s $2.6 billion.",
+        "sentence_cn": "- 奶酪：詹姆斯·莱普里诺 (James Leprino) 的 26 亿美元。",
+        "words": [
+            "Cheese",
+            "2.6",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Panda Express: Cherng family¡¯s $2 billion.",
+        "sentence_cn": "- 熊猫快餐：程氏家族的 20 亿美元。",
+        "words": [
+            "Panda Express",
+            "2",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Trucking: Johnelle Hunt¡¯s $1.6 billion.",
+        "sentence_cn": "- 卡车运输：约翰奈尔·亨特 (Johnelle Hunt) 的 16 亿美元。",
+        "words": [
+            "Trucking",
+            "Trucking",
+            "1.6",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Billboards (and Baseball): Arturo Moreno¡¯s $1.15 billion.",
+        "sentence_cn": "- 广告牌（和棒球）：阿图罗·莫雷诺的 11.5 亿美元。",
+        "words": [
+            "Billboards (and Baseball)",
+            "1.15",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Salsa: Christopher Goldsbury¡¯s $1.3 billion.",
+        "sentence_cn": "- 萨尔萨舞：克里斯托弗·戈德斯伯里的 13 亿美元。",
+        "words": [
+            "Salsa",
+            "1.3",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Campbell Soup: Charlotte Colket Weber¡¯s $1.2 billion.",
+        "sentence_cn": "- 金宝汤：夏洛特·科尔克特·韦伯的 12 亿美元。",
+        "words": [
+            "Campbell Soup",
+            "1.2",
+            "billion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each section explains the wealth and source, providing an overview of how the richest Americans accumulated their wealth across diverse sectors.",
+        "sentence_cn": "每个部分都解释了财富和来源，概述了美国最富有的人如何在不同领域积累财富。",
+        "words": [
+            "section",
+            "wealth",
+            "source",
+            "overview",
+            "wealth",
+            "sectors"
+        ],
+        "id": null
+    }
+]

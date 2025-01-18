@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Mary Reilly.\"",
+        "sentence_cn": "图片是《玛丽·蕾利》的电影海报。",
+        "words": [
+            "Mary Reilly.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a close-up of a woman's face, looking contemplative or concerned, with an atmospheric, somewhat misty background.",
+        "sentence_cn": "这张照片特写了一个女人的脸，看上去若有所思或忧虑，背景带有一种气氛，有点雾蒙蒙的。",
+        "words": [
+            "close",
+            "up",
+            "woman",
+            "face",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The actress's eyes are expressive, drawing focus.",
+        "sentence_cn": "女演员的眼睛富有表现力，引人注目。",
+        "words": [
+            "actress",
+            "eyes",
+            "focus"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names \"Julia Roberts\" and \"John Malkovich\" are prominently displayed, indicating the lead actors.",
+        "sentence_cn": "顶部显著地显示了“朱莉娅·罗伯茨”和“约翰·马尔科维奇”的名字，表明他们是主演。",
+        "words": [
+            "Julia Roberts",
+            "John Malkovich",
+            "top",
+            "names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the woman's face, a silhouette of a person walking with a cane is shown, adding to the mysterious and potentially ominous tone.",
+        "sentence_cn": "在女人的脸下方，有一个拄着拐杖行走的人的轮廓，更增添了神秘和潜在的不祥色彩。",
+        "words": [
+            "woman",
+            "face",
+            "silhouette",
+            "person",
+            "cane",
+            "tone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Mary Reilly\" is written in a stylized script at the bottom, with the tagline \"The untold story of Dr. Jekyll and Mr. Hyde\" providing context about the film's narrative.",
+        "sentence_cn": "片名“玛丽·赖利”以风格化的脚本写在底部，标语“化身博士不为人知的故事”提供了电影叙事的背景。",
+        "words": [
+            "Mary Reilly",
+            "The untold story of Dr. Jekyll and Mr. Hyde",
+            "title",
+            "script",
+            "bottom",
+            "tagline",
+            "story",
+            "context",
+            "film",
+            "narrative"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The phrase \"Evil Loves Innocence\" appears along the left side, suggesting a theme of the movie.",
+        "sentence_cn": "左侧写着“邪恶喜爱纯真”，暗示了电影的主题。",
+        "words": [
+            "Evil Loves Innocence",
+            "phrase",
+            "Innocence",
+            "theme",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the poster conveys a sense of intrigue and drama.",
+        "sentence_cn": "总体而言，这张海报传达出一种阴谋和戏剧感。",
+        "words": [
+            "poster",
+            "sense",
+            "intrigue",
+            "drama"
+        ],
+        "id": null
+    }
+]

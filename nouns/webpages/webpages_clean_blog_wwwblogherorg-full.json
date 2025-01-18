@@ -1,0 +1,188 @@
+[
+    {
+        "sentence": "The image is a screenshot of the BlogHer website.",
+        "sentence_cn": "图片是 BlogHer 网站的截图。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a clean and organized layout with a header showcasing the BlogHer logo and a navigation menu with categories like Food, Family, Style, Love & Sex, Work/Life, DIY, Health, Entertainment, News, and Blogging.",
+        "sentence_cn": "它的布局简洁有序，标题展示了 BlogHer 徽标，导航菜单包含食物、家庭、风格、爱情与性、工作/生活、DIY、健康、娱乐、新闻和博客等类别。",
+        "words": [
+            "layout",
+            "header",
+            "logo",
+            "navigation",
+            "menu",
+            "categories",
+            "Food",
+            "Style",
+            "Love",
+            "Sex",
+            "Life",
+            "DIY",
+            "Health",
+            "Entertainment",
+            "News",
+            "Blogging"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are options for logging in/joining and a search function.",
+        "sentence_cn": "有登录/加入选项和搜索功能。",
+        "words": [
+            "options",
+            "search",
+            "function"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content area is divided into sections:",
+        "sentence_cn": "主要内容区域分为几个部分：",
+        "words": [
+            "content",
+            "area",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left Section",
+        "sentence_cn": "1. 左侧部分",
+        "words": [
+            "Left Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A featured post under the hashtag #BLOGHERFOOD15 with an image of a woman at a conference.",
+        "sentence_cn": "- 在主题标签#BLOGHERFOOD15 下发表一篇精选帖子，其中包含一张参加会议的女士照片。",
+        "words": [
+            "post",
+            "hashtag",
+            "#",
+            "BLOGHERFOOD15",
+            "woman",
+            "conference"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The post titled \"Get a Free Conference Pass! It's the #BlogHerFood15 Call for Volunteers\" authored by Lori Luna on August 25, 2015.",
+        "sentence_cn": "- 2015 年 8 月 25 日，Lori Luna 发表了题为“获得免费会议通行证！这是 #BlogHerFood15 志愿者招募”的帖子。",
+        "words": [
+            "Get a Free Conference Pass! It's the #BlogHerFood15 Call for Volunteers",
+            "post",
+            "Conference",
+            "Pass",
+            "#",
+            "Call",
+            "Volunteers",
+            "25",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Center Section",
+        "sentence_cn": "2. 中心部分",
+        "words": [
+            "Center Section",
+            "Center",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A food-related post titled \"How to Get the Most Out of Your Farmers Market Experience\" by stumblinguponlizzy, dated August 27, 2015.",
+        "sentence_cn": "- stumblinguponlizzy 于 2015 年 8 月 27 日发布了一篇题为“如何充分利用农贸市场体验”的食品相关帖子。",
+        "words": [
+            "How to Get the Most Out of Your Farmers Market Experience",
+            "food",
+            "post",
+            "Experience",
+            "27",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The post provides tips on maximizing farmers market visits.",
+        "sentence_cn": "- 该帖子提供了最大限度地增加农贸市场访问量的秘诀。",
+        "words": [
+            "post",
+            "tips",
+            "farmers",
+            "market",
+            "visits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right Section",
+        "sentence_cn": "3. 右侧部分",
+        "words": [
+            "Right Section",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Social media links for following BlogHer on platforms like Facebook, Twitter, Pinterest, and Instagram.",
+        "sentence_cn": "- 用于在 Facebook、Twitter、Pinterest 和 Instagram 等平台上关注 BlogHer 的社交媒体链接。",
+        "words": [
+            "media",
+            "links",
+            "platforms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A signup form for the BlogHer Daily Newsletter.",
+        "sentence_cn": "- BlogHer 每日新闻简报的注册表。",
+        "words": [
+            "signup",
+            "form"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An advertisement or promotional section with the text \"Encouraging Healthy Eating Habits with Small Children\" by Lamberts Lately.",
+        "sentence_cn": "- 由 Lamberts Lately 撰写的带有“鼓励幼儿养成健康的饮食习惯”文字的广告或促销栏目。",
+        "words": [
+            "Encouraging Healthy Eating Habits with Small Children",
+            "section",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, there are vertical tabs labeled Editors' Picks, Conferences, Promotions, and About, suggesting additional navigational options.",
+        "sentence_cn": "右侧有垂直标签，分别标有“编辑精选”、“会议”、“促销”和“关于”，提供其他导航选项。",
+        "words": [
+            "right",
+            "tabs",
+            "Promotions",
+            "About",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design is content-focused, aiming to provide articles and resources for its readers.",
+        "sentence_cn": "整体设计以内容为中心，旨在为读者提供文章和资源。",
+        "words": [
+            "design",
+            "content",
+            "articles",
+            "resources",
+            "readers"
+        ],
+        "id": null
+    }
+]

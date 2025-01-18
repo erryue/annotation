@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image appears to be a screenshot of a mobile app interface related to \"GTA San Andreas.\"",
+        "sentence_cn": "该图片似乎是与《GTA San Andreas》相关的移动应用程序界面的截图。",
+        "words": [
+            "GTA San Andreas.",
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a grid layout with different sections:",
+        "sentence_cn": "它采用包含不同部分的网格布局：",
+        "words": [
+            "grid",
+            "layout",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Characters: Shows an animated character from the game.",
+        "sentence_cn": "1. 角色：显示游戏中的动画角色。",
+        "words": [
+            "Characters",
+            "Characters",
+            "character",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Features: Displays game statistics such as the number of vehicles destroyed.",
+        "sentence_cn": "2. 功能：显示游戏统计数据，例如被摧毁的车辆数量。",
+        "words": [
+            "Features",
+            "Features",
+            "game",
+            "statistics",
+            "number",
+            "vehicles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Gangs: Displays text in stylized purple graffiti.",
+        "sentence_cn": "3. Gangs：以风格化的紫色涂鸦显示文字。",
+        "words": [
+            "Gangs",
+            "Gangs",
+            "text",
+            "graffiti"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Locations: Shows a map from the game.",
+        "sentence_cn": "4. 位置：显示游戏地图。",
+        "words": [
+            "Locations",
+            "Locations",
+            "map",
+            "game"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Missions: Displays an in-game scene with an ambulance on a road, including some text related to gameplay.",
+        "sentence_cn": "5. 任务：显示游戏中道路上救护车的场景，包括一些与游戏相关的文字。",
+        "words": [
+            "Missions",
+            "Missions",
+            "game",
+            "scene",
+            "ambulance",
+            "road",
+            "text",
+            "gameplay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Advertisement: There is an ad for \"Doctor On Demand\" with an \"INSTALL NOW\" button, featuring a logo with \"Dr.\"",
+        "sentence_cn": "6. 广告：有一个“Doctor On Demand”的广告，上面有一个“立即安装”按钮，上面有“Dr.”的标志。",
+        "words": [
+            "Advertisement",
+            "Doctor On Demand",
+            "INSTALL NOW",
+            "Dr.",
+            "ad",
+            "INSTALL",
+            "button",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the title \"GTA San Andreas\" is shown, with navigation icons and the time displayed (12:19) alongside other app icons.",
+        "sentence_cn": "顶部显示标题“GTA San Andreas”，并显示导航图标和时间（12:19）以及其他应用程序图标。",
+        "words": [
+            "GTA San Andreas",
+            "top",
+            "title",
+            "navigation",
+            "icons",
+            "time",
+            "12:19",
+            "app",
+            "icons"
+        ],
+        "id": null
+    }
+]

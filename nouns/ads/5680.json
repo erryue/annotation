@@ -1,0 +1,203 @@
+[
+    {
+        "sentence": "The image is a collage of three different advertisements promoting personal checking accounts, targeted primarily at a Spanish-speaking audience.",
+        "sentence_cn": "该图片由三则不同的个人支票账户广告拼贴而成，主要针对讲西班牙语的受众。",
+        "words": [
+            "collage",
+            "three",
+            "advertisements",
+            "accounts",
+            "audience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each advertisement includes images of people along with promotional text and a red color scheme.",
+        "sentence_cn": "每个广告都包含人物图像、宣传文字和红色配色方案。",
+        "words": [
+            "images",
+            "people",
+            "text",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Left Advertisement:",
+        "sentence_cn": "1. 左上角广告：",
+        "words": [
+            "Top Left Advertisement:",
+            "Advertisement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Features a man holding a young boy in an outdoor setting.",
+        "sentence_cn": "- 描绘的是一名男子在户外抱着一名小男孩。",
+        "words": [
+            "man",
+            "boy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is smiling at the camera.",
+        "sentence_cn": "那个男人正对着镜头微笑。",
+        "words": [
+            "man",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The Spanish text reads, \"Ya di el primer paso para alcanzar mis metas,\" meaning \"I took the first step toward reaching my goals.\"",
+        "sentence_cn": "- 西班牙语文本为“Ya di el primer paso para alcanzar mis metas”，意为“我迈出了实现目标的第一步”。",
+        "words": [
+            "Ya di el primer paso para alcanzar mis metas,",
+            "I took the first step toward reaching my goals.",
+            "text",
+            "paso",
+            "step",
+            "goals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A red box contains text about being closer to your goals with a checking account, emphasizing personal and reliable attention and greater protection for your money.",
+        "sentence_cn": "- 红色框中包含有关使用支票账户更接近您的目标的文字，强调个人和可靠的关注以及对您的资金的更大保护。",
+        "words": [
+            "box",
+            "text",
+            "goals",
+            "account",
+            "attention",
+            "protection",
+            "money"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It encourages opening an account today.",
+        "sentence_cn": "它鼓励今天开设一个帐户。",
+        "words": [
+            "account",
+            "today"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top Right Advertisement:",
+        "sentence_cn": "2. 右上角广告：",
+        "words": [
+            "Top Right Advertisement:",
+            "Advertisement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows a smiling woman in a casual setting with blurred background elements.",
+        "sentence_cn": "- 显示一位微笑的女人在休闲环境中，背景元素模糊。",
+        "words": [
+            "woman",
+            "background",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The text states, \"S¨¦ que mi dinero esta seguro,\" translating to \"I know my money is secure.\"",
+        "sentence_cn": "- 文字写道“S¨¦ que mi dinero esta seguro”，翻译为“我知道我的钱是安全的。”",
+        "words": [
+            "S¨¦ que mi dinero esta seguro,",
+            "I know my money is secure.",
+            "text",
+            "dinero",
+            "money"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Features a red box promoting security with a checking account and invites conversation with \"Hablemos\" (Let's talk).",
+        "sentence_cn": "- 以红色方框为特色，通过支票账户促进安全性，并邀请与“Hablemos”（让我们谈谈）进行对话。",
+        "words": [
+            "Hablemos",
+            "box",
+            "security",
+            "account",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bottom Right Advertisement:",
+        "sentence_cn": "3. 右下角广告：",
+        "words": [
+            "Bottom Right Advertisement:",
+            "Advertisement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Depicts a young man wearing a red shirt, smiling.",
+        "sentence_cn": "- 描绘的是一位身穿红色衬衫、面带微笑的年轻人。",
+        "words": [
+            "man",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The text says, \"Recib¨ª excelente informaci¨®n y consejos,\" meaning \"I received excellent information and advice.\"",
+        "sentence_cn": "- 文中写道“Recib¨ª excelente informaci¨®n y consejos”，意思是“我收到了极好的信息和建议。”",
+        "words": [
+            "Recib¨ª excelente informaci¨®n y consejos,",
+            "I received excellent information and advice.",
+            "text",
+            "information",
+            "advice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Includes promotional text in a red box about receiving more attention with a checking account, highlighting personal and reliable attention, and encourages opening an account today.",
+        "sentence_cn": "- 在红色框中包含有关使用支票账户获得更多关注的促销文字，强调个人和可靠的关注，并鼓励立即开设账户。",
+        "words": [
+            "text",
+            "box",
+            "attention",
+            "account",
+            "attention",
+            "account",
+            "today"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each piece of the collage repeats the campaign theme of security, personal attention, and taking proactive steps towards financial goals.",
+        "sentence_cn": "每幅拼贴画都重复了竞选主题：安全、个人关注以及积极主动地实现财务目标。",
+        "words": [
+            "piece",
+            "collage",
+            "campaign",
+            "theme",
+            "security",
+            "attention",
+            "steps",
+            "goals"
+        ],
+        "id": null
+    }
+]

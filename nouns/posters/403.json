@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image is a poster for the movie \"Batman.\"",
+        "sentence_cn": "图片是电影《蝙蝠侠》的海报。",
+        "words": [
+            "Batman.",
+            "poster",
+            "movie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features the iconic Batman logo, which is a stylized bat symbol, prominently centered.",
+        "sentence_cn": "它以标志性的蝙蝠侠标志为特色，这是一个风格化的蝙蝠符号，位于中心的显著位置。",
+        "words": [
+            "logo",
+            "bat",
+            "symbol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The logo has a glowing effect with shades of orange, yellow, and black.",
+        "sentence_cn": "该标志具有橙色、黄色和黑色的发光效果。",
+        "words": [
+            "logo",
+            "effect",
+            "shades",
+            "orange",
+            "yellow",
+            "black"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the logo, the names \"Nicholson\" and \"Keaton\" are written in bold yellow letters, indicating the main actors in the film.",
+        "sentence_cn": "标志上方，用粗体黄色字母写着“尼科尔森”和“基顿”的名字，标明他们是影片的主要演员。",
+        "words": [
+            "Nicholson",
+            "Keaton",
+            "logo",
+            "names",
+            "letters",
+            "actors",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo, the word \"BATMAN\" is prominently displayed in large, bold letters with a metallic texture and hues of orange and yellow.",
+        "sentence_cn": "标志下方，“BATMAN”一词以大而粗的字母突出显示，具有金属质感和橙色和黄色的色调。",
+        "words": [
+            "BATMAN",
+            "logo",
+            "word",
+            "letters",
+            "texture",
+            "hues",
+            "orange",
+            "yellow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is black, giving the poster a dramatic and iconic look.",
+        "sentence_cn": "背景为黑色，使海报看起来富有戏剧性和标志性。",
+        "words": [
+            "background",
+            "poster",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lower portion of the poster contains additional text with credits for the film, including the director, producers, and other key contributors.",
+        "sentence_cn": "海报的下部包含附加文字，其中列出了电影的演职员名单，包括导演、制片人和其他主要贡献者。",
+        "words": [
+            "portion",
+            "poster",
+            "text",
+            "credits",
+            "film",
+            "director",
+            "producers",
+            "contributors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Warner Bros. logo is also visible, indicating the production company.",
+        "sentence_cn": "还可以看到华纳兄弟的标志，表明该制作公司的身份。",
+        "words": [
+            "logo",
+            "production",
+            "company"
+        ],
+        "id": null
+    }
+]

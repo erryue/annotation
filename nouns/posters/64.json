@@ -1,0 +1,104 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Shawshank Redemption.\"",
+        "sentence_cn": "图片是《肖申克的救赎》的电影海报。",
+        "words": [
+            "The Shawshank Redemption.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a tagline that reads, \"Fear can hold you prisoner.",
+        "sentence_cn": "顶部有一行标语，写着：“恐惧可以囚禁你。",
+        "words": [
+            "top",
+            "tagline",
+            "Fear",
+            "prisoner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Hope can set you free.\"",
+        "sentence_cn": "希望可以让你自由。”",
+        "words": [
+            "Hope"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central image features a man standing in the rain, arms outstretched, and looking upwards.",
+        "sentence_cn": "中央图像描绘的是一名男子站在雨中，张开双臂，向上看。",
+        "words": [
+            "man",
+            "rain",
+            "arms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting highlights his upper body, creating a dramatic effect with the rain.",
+        "sentence_cn": "灯光照亮了他的上身，与雨水一起营造出戏剧性的效果。",
+        "words": [
+            "lighting",
+            "body",
+            "effect",
+            "rain"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image are the names \"Tim Robbins\" and \"Morgan Freeman\" in red lettering.",
+        "sentence_cn": "图片下方是用红色字母写的名字“Tim Robbins”和“Morgan Freeman”。",
+        "words": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "names",
+            "lettering"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title of the movie, \"The Shawshank Redemption,\" is prominently displayed in white text in the center.",
+        "sentence_cn": "电影名称“肖申克的救赎”以白色文字醒目地显示在中央。",
+        "words": [
+            "The Shawshank Redemption,",
+            "title",
+            "movie",
+            "text",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are details about the production and credits, including producers, director, and screenwriter, along with the text \"THIS FALL.\"",
+        "sentence_cn": "底部有关于制作和人员名单的详细信息，包括制片人、导演和编剧，以及“今年秋天”的文字。",
+        "words": [
+            "THIS FALL.",
+            "bottom",
+            "details",
+            "production",
+            "credits",
+            "producers",
+            "director",
+            "screenwriter",
+            "text",
+            "FALL"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster is dramatic and hopeful, with an emphasis on the themes of freedom and redemption.",
+        "sentence_cn": "海报的整体基调充满戏剧性和希望，强调了自由和救赎的主题。",
+        "words": [
+            "tone",
+            "poster",
+            "themes",
+            "freedom",
+            "redemption"
+        ],
+        "id": null
+    }
+]

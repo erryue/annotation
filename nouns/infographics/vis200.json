@@ -1,0 +1,282 @@
+[
+    {
+        "sentence": "The image is a sports graphic comparing the Ecuador and Chile national football teams as part of the 2014 FIFA World Cup qualifiers.",
+        "sentence_cn": "该图是 2014 年 FIFA 世界杯预选赛中厄瓜多尔和智利国家足球队的体育对比图。",
+        "words": [
+            "sports",
+            "graphic",
+            "Ecuador",
+            "Chile",
+            "football",
+            "teams",
+            "part",
+            "2014",
+            "qualifiers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Top Section:",
+        "sentence_cn": "### 顶部部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title: \"VERSUS\" prominently displayed with the logos of MEGA Noticias.",
+        "sentence_cn": "- 标题：“VERSUS” 与 MEGA Noticias 的标志一起突出显示。",
+        "words": [
+            "Title",
+            "VERSUS",
+            "Title",
+            "logos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Teams: Ecuador (ECU) vs Chile (CHI).",
+        "sentence_cn": "- 球队：厄瓜多尔 (ECU) 对阵智利 (CHI)。",
+        "words": [
+            "Teams",
+            "Teams",
+            "Ecuador",
+            "Chile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visuals: Features individuals associated with each team, blurred flags in the background.",
+        "sentence_cn": "- 视觉效果：展示与每个团队相关的个人，背景中有模糊的旗帜。",
+        "words": [
+            "Visuals",
+            "Visuals",
+            "individuals",
+            "team",
+            "flags",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Middle Section:",
+        "sentence_cn": "### 中间部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Standings:",
+        "sentence_cn": "- 排名：",
+        "words": [
+            "Standings",
+            "Standings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ecuador: 3rd place, 13 points, +1 goal difference, 4 matches won.",
+        "sentence_cn": "- 厄瓜多尔：第三名，13 分，+1 个净胜球，获胜 4 场比赛。",
+        "words": [
+            "Ecuador",
+            "Ecuador",
+            "place",
+            "13",
+            "points",
+            "+1",
+            "goal",
+            "difference",
+            "4",
+            "matches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Chile: 5th place, 12 points, -1 goal difference, 4 matches won.",
+        "sentence_cn": "- 智利：第 5 名，12 分，-1 个净胜球，获胜 4 场比赛。",
+        "words": [
+            "Chile",
+            "place",
+            "12",
+            "points",
+            "-1",
+            "goal",
+            "difference",
+            "4",
+            "matches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Scorers:",
+        "sentence_cn": "- 最佳射手：",
+        "words": [
+            "Top Scorers",
+            "Scorers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ecuador: Christian Ben¨ªtez with 3 goals.",
+        "sentence_cn": "- 厄瓜多尔：克里斯蒂安·贝特斯打进 3 球。",
+        "words": [
+            "Ecuador",
+            "Ecuador",
+            "3",
+            "goals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Chile: Mat¨ªas Fern¨¢ndez with 3 goals.",
+        "sentence_cn": "- 智利：马塔斯·费尔南德斯攻入 3 球。",
+        "words": [
+            "Chile",
+            "3",
+            "goals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Venue Information:",
+        "sentence_cn": "### 场地信息：",
+        "words": [
+            "Venue",
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Estadio Ol¨ªmpico Atahualpa in Quito, Ecuador.",
+        "sentence_cn": "- 厄瓜多尔基多奥林匹克体育场。",
+        "words": [
+            "Estadio Ol¨ªmpico Atahualpa",
+            "Quito",
+            "Ecuador"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Capacity: 30,742 spectators.",
+        "sentence_cn": "- 容量：30,742 名观众。",
+        "words": [
+            "Capacity",
+            "Capacity",
+            "30,742",
+            "spectators"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Surface: Natural grass.",
+        "sentence_cn": "- 表面：天然草地。",
+        "words": [
+            "Surface",
+            "Surface",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Bottom Section:",
+        "sentence_cn": "### 底部部分：",
+        "words": [
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Historical Matches:",
+        "sentence_cn": "- 历史比赛：",
+        "words": [
+            "Historical Matches",
+            "Matches"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Total of 33 matches between the teams.",
+        "sentence_cn": "- 两队总共进行了 33 场比赛。",
+        "words": [
+            "Total",
+            "33",
+            "matches",
+            "teams"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ecuador: 4 victories, 32 goals.",
+        "sentence_cn": "- 厄瓜多尔：4 场胜利，32 个进球。",
+        "words": [
+            "Ecuador",
+            "Ecuador",
+            "4",
+            "victories",
+            "32",
+            "goals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Chile: 21 victories, 76 goals.",
+        "sentence_cn": "- 智利：21场胜利，76个进球。",
+        "words": [
+            "Chile",
+            "21",
+            "victories",
+            "76",
+            "goals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Best Results:",
+        "sentence_cn": "- 最佳结果：",
+        "words": [
+            "Best Results",
+            "Results"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Ecuador's best: 3-0 win over Chile (Friendly, 2012).",
+        "sentence_cn": "- 厄瓜多尔最佳成绩：3-0 战胜智利（友谊赛，2012 年）。",
+        "words": [
+            "Ecuador",
+            "3",
+            "0",
+            "win",
+            "Chile",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Chile's best: 7-1 win over Ecuador (Copa Am¨¦rica 1986).",
+        "sentence_cn": "- 智利最佳成绩：7-1 战胜厄瓜多尔（1986 年美洲杯）。",
+        "words": [
+            "Chile",
+            "7",
+            "1",
+            "win",
+            "Ecuador",
+            "1986"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The graphic is enriched with photos, logos, and color-coded sections for clarity.",
+        "sentence_cn": "为了清晰起见，图形中还包含照片、徽标和颜色编码部分。",
+        "words": [
+            "graphic",
+            "photos",
+            "logos",
+            "color",
+            "sections",
+            "clarity"
+        ],
+        "id": null
+    }
+]

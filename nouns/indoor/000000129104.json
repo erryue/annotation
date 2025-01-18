@@ -1,0 +1,132 @@
+[
+    {
+        "sentence": "The image depicts a well-lit living room with a contemporary design.",
+        "sentence_cn": "图片描绘的是一间光线充足、具有现代设计的客厅。",
+        "words": [
+            "room",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is light hardwood, providing a warm and inviting feel.",
+        "sentence_cn": "地板是浅色硬木，给人一种温暖而温馨的感觉。",
+        "words": [
+            "flooring",
+            "hardwood",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, there is a white mantelpiece above what appears to be a fireplace, featuring a tiled surround.",
+        "sentence_cn": "左侧，壁炉上方有一个白色的壁炉架，周围铺有瓷砖。",
+        "words": [
+            "mantelpiece",
+            "fireplace",
+            "surround"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the mantel, there are three artworks with red and green tones, and a decorative vase adds a touch of elegance.",
+        "sentence_cn": "壁炉上方，有三幅红色和绿色色调的艺术品，一个装饰花瓶增添了一丝优雅。",
+        "words": [
+            "mantel",
+            "three",
+            "artworks",
+            "tones",
+            "vase",
+            "touch",
+            "elegance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Flanking the fireplace are built-in shelves that display some items like small cups, adding a casual touch to the decor.",
+        "sentence_cn": "壁炉两侧是内置架子，可以展示一些小杯子等物品，为装饰增添了休闲的感觉。",
+        "words": [
+            "fireplace",
+            "shelves",
+            "items",
+            "cups",
+            "touch",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is painted a pale yellow or cream color, enhancing the brightness.",
+        "sentence_cn": "房间漆成淡黄色或奶油色，增强了亮度。",
+        "words": [
+            "room",
+            "cream",
+            "color",
+            "brightness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle of the room, dark furniture, including armchairs and a sofa, provide a stark contrast against the lighter walls and floor.",
+        "sentence_cn": "在房间的中间，深色的家具，包括扶手椅和沙发，与较浅的墙壁和地板形成了鲜明的对比。",
+        "words": [
+            "middle",
+            "room",
+            "furniture",
+            "armchairs",
+            "sofa",
+            "contrast",
+            "walls",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small coffee table sits between the chairs, holding decorative items such as vases.",
+        "sentence_cn": "椅子之间有一张小咖啡桌，上面摆放着花瓶等装饰品。",
+        "words": [
+            "coffee",
+            "table",
+            "chairs",
+            "items",
+            "vases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large window with wooden blinds allows natural light to flood in, and a view of some trees can be seen outside, contributing to a serene atmosphere.",
+        "sentence_cn": "带有木质百叶窗的大窗户让自然光照进来，还可以看到外面的一些树木景色，营造出一种宁静的氛围。",
+        "words": [
+            "window",
+            "blinds",
+            "light",
+            "view",
+            "trees",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Near the window, there is a door leading to another room or space.",
+        "sentence_cn": "靠近窗户，有一扇通往另一个房间或空间的门。",
+        "words": [
+            "window",
+            "door",
+            "room",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the room combines elegance and comfort, creating an appealing living space.",
+        "sentence_cn": "总体而言，房间兼具优雅与舒适，创造出极具吸引力的居住空间。",
+        "words": [
+            "room",
+            "elegance",
+            "comfort",
+            "living",
+            "space"
+        ],
+        "id": null
+    }
+]

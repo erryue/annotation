@@ -1,0 +1,269 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"The Power of Aluminum,\" shaped like a large aluminum can.",
+        "sentence_cn": "该图是一张名为“铝的力量”的信息图，形状像一个巨大的铝罐。",
+        "words": [
+            "The Power of Aluminum,",
+            "aluminum",
+            "can"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It highlights various interesting facts about aluminum and recycling:",
+        "sentence_cn": "它强调了有关铝和回收的各种有趣的事实：",
+        "words": [
+            "facts",
+            "aluminum",
+            "recycling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Energy Saving:",
+        "sentence_cn": "1.节能：",
+        "words": [
+            "Energy Saving",
+            "Energy",
+            "Saving"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Recycling a single aluminum can save enough energy to run a TV for 3 hours.",
+        "sentence_cn": "- 回收一个铝罐所节省的能量足以让电视运行 3 小时。",
+        "words": [
+            "aluminum",
+            "energy",
+            "TV",
+            "3",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This is illustrated with a TV icon and the text \"3 HOURS.\"",
+        "sentence_cn": "它通过电视图标和文字“3 小时”来说明。",
+        "words": [
+            "3 HOURS.",
+            "TV",
+            "icon",
+            "text",
+            "3",
+            "HOURS"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Historical Energy Savings:",
+        "sentence_cn": "2. 历史能源节省：",
+        "words": [
+            "Historical Energy Savings",
+            "Energy",
+            "Savings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- In 1996, aluminum recycling saved enough energy to power Pittsburgh for over 6 years.",
+        "sentence_cn": "- 1996 年，铝回收节省的能源足以为匹兹堡供电 6 年多。",
+        "words": [
+            "1996",
+            "aluminum",
+            "recycling",
+            "energy",
+            "Pittsburgh",
+            "6",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This information is displayed next to a city skyline silhouette.",
+        "sentence_cn": "该信息显示在城市天际线轮廓旁边。",
+        "words": [
+            "information",
+            "city",
+            "skyline",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Discard Rates:",
+        "sentence_cn": "3. 丢弃率：",
+        "words": [
+            "Discard Rates",
+            "Discard",
+            "Rates"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Every three months, Americans discard enough aluminum to rebuild every commercial airplane in the U.S. This is depicted with an airplane map graphic.",
+        "sentence_cn": "- 每三个月，美国人丢弃的铝足以重建美国的每架商用飞机。这用飞机地图图形表示。",
+        "words": [
+            "three",
+            "months",
+            "aluminum",
+            "airplane",
+            "U.S.",
+            "airplane",
+            "map",
+            "graphic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Increased Efficiency:",
+        "sentence_cn": "4.提高效率：",
+        "words": [
+            "Increased Efficiency",
+            "Efficiency"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Twenty years ago, one pound of aluminum made about 20 cans; now, it makes approximately 30 cans.",
+        "sentence_cn": "- 二十年前，一磅铝可以制造约20个罐头；现在，一磅铝可以制造约30个罐头。",
+        "words": [
+            "Twenty",
+            "years",
+            "one",
+            "pound",
+            "aluminum",
+            "20",
+            "cans",
+            "30",
+            "cans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are images of 20 and 30 cans to visualize this change.",
+        "sentence_cn": "有 20 和 30 个罐子的图像可以直观地看到这种变化。",
+        "words": [
+            "images",
+            "20",
+            "30",
+            "cans",
+            "change"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Production Rate:",
+        "sentence_cn": "5.生产率：",
+        "words": [
+            "Production Rate",
+            "Production",
+            "Rate"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Around 350,000 aluminum cans are made every minute, with a clock icon illustrating this statistic.",
+        "sentence_cn": "- 每分钟大约生产 350,000 个铝罐，时钟图标显示了这一统计数据。",
+        "words": [
+            "350,000",
+            "aluminum",
+            "cans",
+            "minute",
+            "clock",
+            "icon",
+            "statistic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Strength:",
+        "sentence_cn": "6.强度：",
+        "words": [
+            "Strength",
+            "Strength"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Four 6-packs of cans can support a 4,000-pound aluminum car, depicted with a car image.",
+        "sentence_cn": "- 四包 6 罐装的塑料瓶可以支撑一辆重达 4,000 磅的铝制汽车，上面绘有汽车图像。",
+        "words": [
+            "Four",
+            "6",
+            "packs",
+            "cans",
+            "4,000",
+            "pound",
+            "aluminum",
+            "car",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Value:",
+        "sentence_cn": "7.价值：",
+        "words": [
+            "Value",
+            "Value"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The aluminum in a soda can is worth about a cent, with illustrations of soda cans and cent symbols running across the bottom.",
+        "sentence_cn": "- 一罐汽水的铝价值约为一美分，罐底有汽水罐的图案和美分符号。",
+        "words": [
+            "aluminum",
+            "soda",
+            "can",
+            "cent",
+            "illustrations",
+            "soda",
+            "cans",
+            "cent",
+            "symbols",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic emphasizes the environmental and economic benefits of recycling aluminum, urging viewers to recycle rather than discard aluminum cans.",
+        "sentence_cn": "该信息图强调了回收铝的环境和经济效益，敦促观众回收而不是丢弃铝罐。",
+        "words": [
+            "benefits",
+            "aluminum",
+            "viewers",
+            "aluminum",
+            "cans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is sourced from ProfessorsHouse.com and created by CMC Recycling, acknowledging their expertise and experience in the field.",
+        "sentence_cn": "它来源于 ProfessorsHouse.com 并由 CMC Recycling 创建，以表彰他们在该领域的专业知识和经验。",
+        "words": [
+            "expertise",
+            "experience",
+            "field"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image depicts a night view of the Sydney Harbour Bridge, illuminated by lights, which highlights its iconic steel arch structure.",
+        "sentence_cn": "图为悉尼海港大桥的夜景，灯光闪耀，凸显了其标志性的钢拱结构。",
+        "words": [
+            "night",
+            "view",
+            "lights",
+            "steel",
+            "arch",
+            "structure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a building surrounded by trees, including a prominent palm tree, reflecting light onto the water.",
+        "sentence_cn": "前景中，有一座被树木环绕的建筑物，其中包括一棵显眼的棕榈树，将光线反射到水面上。",
+        "words": [
+            "foreground",
+            "building",
+            "trees",
+            "palm",
+            "tree",
+            "light",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bridge spans across a body of water, and the background features the city skyline with brightly lit modern skyscrapers.",
+        "sentence_cn": "这座桥横跨水域，背景是城市天际线和灯火通明的现代化摩天大楼。",
+        "words": [
+            "bridge",
+            "body",
+            "water",
+            "background",
+            "city",
+            "skyline",
+            "skyscrapers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The combination of architectural elements, reflections, and city lights creates a vibrant and dynamic night scene.",
+        "sentence_cn": "建筑元素、反射和城市灯光的结合营造出充满活力和动感的夜景。",
+        "words": [
+            "combination",
+            "elements",
+            "reflections",
+            "city",
+            "lights",
+            "night",
+            "scene"
+        ],
+        "id": null
+    }
+]

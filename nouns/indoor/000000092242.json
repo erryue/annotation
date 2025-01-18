@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image depicts a cozy room with a focus on a small workspace near a window.",
+        "sentence_cn": "图像描绘的是一间舒适的房间，重点是靠近窗户的一个小工作空间。",
+        "words": [
+            "room",
+            "focus",
+            "workspace",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window is adorned with light, floral-patterned curtains that allow some natural light to filter in, giving the room a warm ambiance.",
+        "sentence_cn": "窗户上装饰着浅色的花卉图案的窗帘，可以让一些自然光照进来，给房间带来温暖的氛围。",
+        "words": [
+            "window",
+            "floral",
+            "curtains",
+            "light",
+            "room",
+            "ambiance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden desk sits below the window, topped with a slim laptop and an elegant lamp with a green shade, suggesting someone might be using the space for work or study.",
+        "sentence_cn": "窗户下方有一张木质书桌，上面放着一台超薄笔记本电脑和一盏带绿色灯罩的优雅台灯，表明有人可能正在使用这个空间来工作或学习。",
+        "words": [
+            "desk",
+            "window",
+            "laptop",
+            "lamp",
+            "shade",
+            "space",
+            "work",
+            "study"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cushioned chair in front of the desk offers seating, and next to it, a large backpack is resting on a stand, likely indicating travel or preparation for an outing.",
+        "sentence_cn": "书桌前有一张软垫椅子，可供坐着，旁边的架子上放着一个大背包，可能表示正在旅行或准备出游。",
+        "words": [
+            "chair",
+            "front",
+            "desk",
+            "seating",
+            "backpack",
+            "stand",
+            "travel",
+            "preparation",
+            "outing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backpack appears full, with various items attached, hinting at a well-prepared traveler.",
+        "sentence_cn": "背包看上去很满，里面装有各种物品，暗示着旅行者已经做好了充分的准备。",
+        "words": [
+            "backpack",
+            "items",
+            "traveler"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Towards the right of the image, an open door leads to a bathroom.",
+        "sentence_cn": "图片右侧有一扇敞开的门通向浴室。",
+        "words": [
+            "right",
+            "door",
+            "bathroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bathroom features mosaic-tiled walls and flooring, with visible items like a white toilet and a small sink.",
+        "sentence_cn": "浴室的墙壁和地板上铺有马赛克瓷砖，其中可见的物品包括白色马桶和小水槽。",
+        "words": [
+            "bathroom",
+            "mosaic",
+            "walls",
+            "flooring",
+            "items",
+            "toilet",
+            "sink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A subtle decorative detail is visible on the tiles, adding a touch of charm to the bathroom area.",
+        "sentence_cn": "瓷砖上有精致的装饰细节，为浴室区域增添了一丝魅力。",
+        "words": [
+            "detail",
+            "tiles",
+            "touch",
+            "charm",
+            "bathroom",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the scene conveys a feeling of comfort and readiness, blending the practicality of travel preparations with the ease of a well-appointed space.",
+        "sentence_cn": "总体而言，场景传达出一种舒适和准备就绪的感觉，将旅行准备的实用性与设备齐全的空间的便利性融为一体。",
+        "words": [
+            "scene",
+            "feeling",
+            "comfort",
+            "readiness",
+            "practicality",
+            "travel",
+            "preparations",
+            "ease",
+            "space"
+        ],
+        "id": null
+    }
+]

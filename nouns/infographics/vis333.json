@@ -1,0 +1,476 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Construction Dust Based on 311 Complaints 2010-2012,\" summarizing data about construction dust complaints in New York City.",
+        "sentence_cn": "该图是一张信息图表，题为“基于 2010 年至 2012 年 311 投诉的建筑灰尘”，总结了纽约市建筑灰尘投诉的数据。",
+        "words": [
+            "Construction Dust Based on 311 Complaints 2010-2012,",
+            "Construction",
+            "Dust",
+            "311",
+            "2010",
+            "2012",
+            "data",
+            "construction",
+            "dust",
+            "complaints",
+            "New",
+            "York",
+            "City"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a breakdown of the image details:",
+        "sentence_cn": "以下是图像细节的细分：",
+        "words": [
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Left Side: Dust Sources and Percentages",
+        "sentence_cn": "### 左侧：灰尘来源和百分比",
+        "words": [
+            "Side",
+            "Dust",
+            "Sources",
+            "Percentages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Construction Dust Sources by Category:",
+        "sentence_cn": "- 建筑灰尘来源分类：",
+        "words": [
+            "Construction Dust Sources by Category:",
+            "Construction",
+            "Dust",
+            "Sources",
+            "Category"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Commercial Space Sources: 5%",
+        "sentence_cn": "- 商业空间来源：5%",
+        "words": [
+            "Commercial Space Sources:",
+            "Space",
+            "Sources",
+            "5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Includes: Nail Salon, Auto Repair, Dry Cleaner, Restaurant, Shoe Repair, Industrial/Manufacturing",
+        "sentence_cn": "- 包括：美甲沙龙、汽车修理、干洗店、餐厅、鞋类修理、工业/制造业",
+        "words": [
+            "Auto",
+            "Repair",
+            "Dry",
+            "Cleaner",
+            "Shoe",
+            "Repair",
+            "Manufacturing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Building Systems/Facilities Sources: 37%",
+        "sentence_cn": "- 建筑系统/设施来源： 37%",
+        "words": [
+            "Building Systems/Facilities Sources:",
+            "Building",
+            "Systems",
+            "Facilities",
+            "Sources",
+            "37"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Includes: Boiler, Heating System, Laundry Room, Ventilation System, Roof, Facade, Water System",
+        "sentence_cn": "- 包括：锅炉、供暖系统、洗衣房、通风系统、屋顶、外墙、供水系统",
+        "words": [
+            "Boiler",
+            "Heating",
+            "System",
+            "Laundry",
+            "Room",
+            "Ventilation",
+            "System",
+            "Roof",
+            "Facade",
+            "Water",
+            "System"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Construction and Renovation Sources: 58%",
+        "sentence_cn": "- 建筑和装修来源： 58%",
+        "words": [
+            "Construction and Renovation Sources:",
+            "Construction",
+            "Renovation",
+            "Sources",
+            "58"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Includes: Remediation, Demolition/Renovation, Dry Sanding/Scraping, Industrial/Manufacturing",
+        "sentence_cn": "- 包括：修复、拆除/翻新、干磨/刮削、工业/制造",
+        "words": [
+            "Remediation",
+            "Demolition",
+            "Renovation",
+            "Sanding",
+            "Scraping",
+            "Industrial",
+            "Manufacturing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Upper Right: Dust Sources by Borough",
+        "sentence_cn": "### 右上：各行政区的灰尘来源",
+        "words": [
+            "Dust",
+            "Sources",
+            "Borough"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pie Chart:",
+        "sentence_cn": "-饼图：",
+        "words": [
+            "Pie Chart:",
+            "Pie",
+            "Chart"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Manhattan: 35%",
+        "sentence_cn": "- 曼哈顿：35%",
+        "words": [
+            "Manhattan",
+            "35"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Brooklyn: 26%",
+        "sentence_cn": "- 布鲁克林：26%",
+        "words": [
+            "Brooklyn",
+            "26"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Queens: 24%",
+        "sentence_cn": "- 皇后区：24%",
+        "words": [
+            "Queens",
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bronx: 12%",
+        "sentence_cn": "- 布朗克斯：12%",
+        "words": [
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Staten Island: 3%",
+        "sentence_cn": "- 史坦顿岛：3%",
+        "words": [
+            "Staten",
+            "Island",
+            "3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Map of New York City:",
+        "sentence_cn": "- 纽约市地图：",
+        "words": [
+            "Map of New York City:",
+            "Map",
+            "New",
+            "York",
+            "City"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Dots of various sizes represent the number of complaints by community district.",
+        "sentence_cn": "- 不同大小的点代表各社区区域的投诉数量。",
+        "words": [
+            "Dots",
+            "sizes",
+            "number",
+            "complaints",
+            "community",
+            "district"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Colors indicate the type of building:",
+        "sentence_cn": "- 颜色表示建筑物的类型：",
+        "words": [
+            "Colors",
+            "type",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Red: Residential Building",
+        "sentence_cn": "- 红色：住宅建筑",
+        "words": [
+            "Building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Blue: Commercial Building",
+        "sentence_cn": "- 蓝色：商业大厦",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "    - Yellow: Restaurant",
+        "sentence_cn": "- 黄色：餐厅",
+        "words": [
+            "Restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Purple: School",
+        "sentence_cn": "- 紫色：学校",
+        "words": [
+            "School"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Gray: Other",
+        "sentence_cn": "- 灰色：其他",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Size of circles indicates the number of complaints:",
+        "sentence_cn": "- 圆圈大小表示投诉数量：",
+        "words": [
+            "Size",
+            "circles",
+            "number",
+            "complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - <25, 25-49, 50-74, >75",
+        "sentence_cn": "- <25、25-49、50-74、>75",
+        "words": [
+            "25",
+            "25",
+            "49",
+            "50",
+            "74",
+            "75"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Highlighted Numbers:",
+        "sentence_cn": "- 突出显示的数字：",
+        "words": [
+            "Highlighted Numbers:",
+            "Numbers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Manhattan (MN): 1143 complaints",
+        "sentence_cn": "- 曼哈顿（明尼苏达州）：1143 起投诉",
+        "words": [
+            "Manhattan",
+            "MN",
+            "1143",
+            "complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Bronx (BX): 302 complaints",
+        "sentence_cn": "- 布朗克斯 (BX): 302 起投诉",
+        "words": [
+            "302",
+            "complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Queens (QN): 549 complaints",
+        "sentence_cn": "- 皇后区 (QN)：549 起投诉",
+        "words": [
+            "Queens",
+            "549",
+            "complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Brooklyn (BK): 694 complaints",
+        "sentence_cn": "- 布鲁克林 (BK): 694 起投诉",
+        "words": [
+            "Brooklyn",
+            "BK",
+            "694",
+            "complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Staten Island (SI): 65 complaints",
+        "sentence_cn": "- 斯塔顿岛 (SI)：65 起投诉",
+        "words": [
+            "Staten",
+            "Island",
+            "65",
+            "complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Lower Right: Complaints Timeline",
+        "sentence_cn": "### 右下角：投诉时间表",
+        "words": [
+            "Right",
+            "Complaints",
+            "Timeline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bar Charts:",
+        "sentence_cn": "- 条形图：",
+        "words": [
+            "Bar Charts:",
+            "Bar",
+            "Charts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Number of Complaints by Borough:",
+        "sentence_cn": "- 各行政区的投诉数量：",
+        "words": [
+            "Number of Complaints by Borough:",
+            "Number",
+            "Complaints",
+            "Borough"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Highest in Manhattan, followed by Brooklyn, Queens, Bronx, and Staten Island.",
+        "sentence_cn": "- 曼哈顿最高，其次是布鲁克林、皇后区、布朗克斯和史坦顿岛。",
+        "words": [
+            "Manhattan",
+            "Brooklyn",
+            "Queens",
+            "Bronx",
+            "Staten",
+            "Island"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Number of Complaints Received (Quarterly):",
+        "sentence_cn": "- 收到的投诉数量（每季度）：",
+        "words": [
+            "Number of Complaints Received (Quarterly):",
+            "Number",
+            "Complaints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Spanning from Q3-Q4 2009 to Q1-Q2 2012",
+        "sentence_cn": "- 跨越 2009 年第三季度至第四季度至 2012 年第一季度至第二季度",
+        "words": [
+            "2009",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Shows a general trend of increasing complaints over time.",
+        "sentence_cn": "- 显示投诉随时间推移呈增加的总体趋势。",
+        "words": [
+            "trend",
+            "complaints",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Note:",
+        "sentence_cn": "- 笔记：",
+        "words": [
+            "Note:",
+            "Note"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Total number of construction dust complaints between 2010 and 2012, as of October 2012, is 2753.",
+        "sentence_cn": "- 截至 2012 年 10 月，2010 年至 2012 年期间建筑粉尘投诉总数为 2753 起。",
+        "words": [
+            "number",
+            "construction",
+            "dust",
+            "complaints",
+            "2010",
+            "2012",
+            "2012",
+            "2753"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This comprehensive layout provides insights into the geographical distribution, sources, and timeline of construction dust complaints in NYC during the specified years.",
+        "sentence_cn": "此综合布局提供了有关纽约市特定年份建筑灰尘投诉的地理分布、来源和时间线的见解。",
+        "words": [
+            "layout",
+            "insights",
+            "distribution",
+            "sources",
+            "timeline",
+            "construction",
+            "dust",
+            "complaints",
+            "NYC",
+            "years"
+        ],
+        "id": null
+    }
+]

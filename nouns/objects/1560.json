@@ -1,0 +1,135 @@
+[
+    {
+        "sentence": "The image shows a collection of items spread out on a wooden table.",
+        "sentence_cn": "图像显示了摆放在木桌上的一系列物品。",
+        "words": [
+            "collection",
+            "items",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Top Right: A hand is placed on the table next to a large red disposable cup with a white lid and straw.",
+        "sentence_cn": "1. 右上：一只手放在桌子上，旁边是一个带有白色盖子和吸管的红色大一次性杯子。",
+        "words": [
+            "Top Right",
+            "hand",
+            "table",
+            "cup",
+            "lid",
+            "straw"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cup has decorative patterns and possibly a brand logo.",
+        "sentence_cn": "杯子上有装饰图案，可能还有品牌标志。",
+        "words": [
+            "cup",
+            "patterns",
+            "brand",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Center: A flip phone with a cable connected to a black device resembling a portable media player, which displays a screen with some content.",
+        "sentence_cn": "2. 中间：一部翻盖手机，通过电缆连接到一个类似便携式媒体播放器的黑色设备，该设备会显示一些内容。",
+        "words": [
+            "Center",
+            "Center",
+            "phone",
+            "cable",
+            "device",
+            "media",
+            "player",
+            "screen",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Left Side:",
+        "sentence_cn": "3. 左侧：",
+        "words": [
+            "Left Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A Canon camera lens with the cap on.",
+        "sentence_cn": "- 带盖的佳能相机镜头。",
+        "words": [
+            "camera",
+            "lens",
+            "cap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A small black flashlight next to the lens.",
+        "sentence_cn": "- 镜头旁边有一个小型黑色手电筒。",
+        "words": [
+            "flashlight",
+            "lens"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Bottom Left:",
+        "sentence_cn": "4. 左下：",
+        "words": [
+            "Bottom Left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A black pouch or cloth is partially visible.",
+        "sentence_cn": "- 部分可见黑色袋子或布料。",
+        "words": [
+            "pouch",
+            "cloth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Next to it, there's a black cellphone with a physical keyboard and screen.",
+        "sentence_cn": "- 旁边是一部黑色的手机，有实体键盘和屏幕。",
+        "words": [
+            "cellphone",
+            "keyboard",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Bottom: A Canon lens cap is on the table.",
+        "sentence_cn": "5. 底部：桌上有一个佳能镜头盖。",
+        "words": [
+            "Bottom",
+            "lens",
+            "cap",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table and items are organized in a casual manner, suggesting this might be a collection of personal belongings.",
+        "sentence_cn": "桌子和物品都以随意的方式摆放，表明这可能是个人物品的集合。",
+        "words": [
+            "table",
+            "items",
+            "manner",
+            "collection",
+            "belongings"
+        ],
+        "id": null
+    }
+]

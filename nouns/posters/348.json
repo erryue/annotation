@@ -1,0 +1,127 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Desperate Measures.\"",
+        "sentence_cn": "图片是《绝命手段》的电影海报。",
+        "words": [
+            "Desperate Measures.",
+            "movie",
+            "poster",
+            "Measures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is divided into four segments.",
+        "sentence_cn": "它分为四个部分。",
+        "words": [
+            "four",
+            "segments"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top left section features the names \"Michael Keaton\" and \"Andy Garcia\" prominently in white text against an orange background.",
+        "sentence_cn": "- 左上部分以橙色背景、白色文字突出显示“迈克尔·基顿”和“安迪·加西亚”的名字。",
+        "words": [
+            "Michael Keaton",
+            "Andy Garcia",
+            "section",
+            "names",
+            "text",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the names, there's a synopsis in white text: \"His son needs a DNA donor to live.",
+        "sentence_cn": "在名字下方，有一段白色文字的简介：“他的儿子需要 DNA 捐献者才能活下去。",
+        "words": [
+            "names",
+            "synopsis",
+            "text",
+            "son",
+            "donor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The clock is ticking.",
+        "sentence_cn": "时钟在滴答作响。",
+        "words": [
+            "clock"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The only match is a vicious killer.",
+        "sentence_cn": "唯一的对手是一个凶残的杀手。",
+        "words": [
+            "match",
+            "killer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Now all Frank Conner has to do is catch him.\"",
+        "sentence_cn": "现在弗兰克康纳要做的就是抓住他。”",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- In the top right section, there is an image of a man in a suit, partially obscured and shadowed, giving an intense and mysterious look.",
+        "sentence_cn": "- 右上角有一个穿着西装的男人的图像，部分被遮挡和阴影，给人一种强烈而神秘的感觉。",
+        "words": [
+            "section",
+            "man",
+            "suit",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The bottom left section displays a handcuffed arm reaching out, with an empty handcuff hanging down, set against a yellowish background.",
+        "sentence_cn": "- 左下部分显示一只戴着手铐的手臂伸出，还有一个空手铐垂下来，背景为淡黄色。",
+        "words": [
+            "section",
+            "arm",
+            "handcuff",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The bottom right section shows a focused image of a man looking downward with a serious expression, again bathed in a yellowish light.",
+        "sentence_cn": "- 右下部分显示了一个聚焦图像，一个男人低头，表情严肃，同样沐浴在淡黄色的灯光下。",
+        "words": [
+            "section",
+            "man",
+            "expression",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster is tense and dramatic, suggesting a thriller or action theme.",
+        "sentence_cn": "海报整体基调紧张而富有戏剧性，暗示着惊悚或动作主题。",
+        "words": [
+            "tone",
+            "poster",
+            "thriller",
+            "action",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The colors are warm, with shades of orange, yellow, and brown dominating the image.",
+        "sentence_cn": "图像颜色呈暖色，以橙色、黄色和棕色为主。",
+        "words": [
+            "colors",
+            "shades",
+            "orange",
+            "yellow",
+            "brown"
+        ],
+        "id": null
+    }
+]

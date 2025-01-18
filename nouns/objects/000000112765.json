@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image features a vibrant assortment of vegetables displayed on a wooden table.",
+        "sentence_cn": "图片展示的是木桌上摆放的各式各样色彩鲜艳的蔬菜。",
+        "words": [
+            "assortment",
+            "vegetables",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's a white plate holding a variety of colorful vegetables.",
+        "sentence_cn": "前景中有一个白色盘子，里面盛着各种五颜六色的蔬菜。",
+        "words": [
+            "foreground",
+            "plate",
+            "variety",
+            "vegetables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the plate, there are several bright orange carrots, positioned prominently.",
+        "sentence_cn": "盘子里，摆放着几根鲜橙色的胡萝卜，十分显眼。",
+        "words": [
+            "plate",
+            "carrots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the carrots, there are two ripe red tomatoes with green stems.",
+        "sentence_cn": "胡萝卜旁边是两颗带绿色茎的成熟红色西红柿。",
+        "words": [
+            "carrots",
+            "two",
+            "tomatoes",
+            "stems"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Also on the plate are green broccoli florets, adding texture and color contrast.",
+        "sentence_cn": "盘子上还有绿色的西兰花小花，增加了质感和颜色的对比。",
+        "words": [
+            "plate",
+            "broccoli",
+            "florets",
+            "texture",
+            "color",
+            "contrast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the other vegetables, a couple of brown sweet potatoes are partially visible.",
+        "sentence_cn": "在其他蔬菜后面，可以隐约看见几个棕色的红薯。",
+        "words": [
+            "vegetables",
+            "couple",
+            "potatoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is bright, highlighting the freshness and natural colors of the vegetables, casting soft shadows on the table.",
+        "sentence_cn": "灯光明亮，凸显了蔬菜的新鲜度和自然色泽，在桌子上投射出柔和的阴影。",
+        "words": [
+            "lighting",
+            "freshness",
+            "colors",
+            "vegetables",
+            "shadows",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wooden surface of the table adds a warm, rustic background to the scene.",
+        "sentence_cn": "桌子的木质表面为场景增添了温暖、质朴的背景。",
+        "words": [
+            "surface",
+            "table",
+            "background",
+            "scene"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "sentence": "The image shows three swans gracefully swimming on a body of water.",
+        "sentence_cn": "图为三只天鹅在水面上优雅地游动。",
+        "words": [
+            "three",
+            "swans",
+            "body",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water appears calm, reflecting the swans' white plumage.",
+        "sentence_cn": "水面平静无波，倒映着天鹅的白色羽毛。",
+        "words": [
+            "water",
+            "swans",
+            "plumage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each swan is positioned at a different angle, adding variety to the composition.",
+        "sentence_cn": "每只天鹅的姿势都不同，为构图增添了多样性。",
+        "words": [
+            "swan",
+            "angle",
+            "variety",
+            "composition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The swans have long, curved necks and are known for their elegant appearance.",
+        "sentence_cn": "天鹅有着长而弯曲的脖子，以其优雅的外表而闻名。",
+        "words": [
+            "swans",
+            "necks",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a seamless expanse of water, suggesting a serene and peaceful setting.",
+        "sentence_cn": "背景是一片无缝的水域，呈现出一种宁静祥和的氛围。",
+        "words": [
+            "background",
+            "expanse",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is soft, likely natural, and highlights the swans' smooth, white feathers.",
+        "sentence_cn": "灯光柔和，仿佛自然光，凸显了天鹅光滑的白色羽毛。",
+        "words": [
+            "lighting",
+            "swans",
+            "feathers"
+        ],
+        "id": null
+    }
+]

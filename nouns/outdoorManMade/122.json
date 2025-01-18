@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image depicts a busy urban street scene in what appears to be an East Asian city, likely Hong Kong due to the architecture and signage.",
+        "sentence_cn": "该图片描绘的是一座东亚城市的繁忙街道场景，根据其建筑和标牌来看，很可能是香港。",
+        "words": [
+            "street",
+            "scene",
+            "city",
+            "Hong",
+            "Kong",
+            "architecture",
+            "signage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The street is lined with tall residential and commercial buildings, showing a mix of pink and green facades.",
+        "sentence_cn": "街道两旁林立着高层住宅和商业建筑，呈现出粉色和绿色相间的外墙。",
+        "words": [
+            "street",
+            "buildings",
+            "mix",
+            "facades"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Neon signs written in Chinese characters are visible, with some advertising shops and services.",
+        "sentence_cn": "随处可见用汉字书写的霓虹灯招牌，上面有一些广告商店和服务。",
+        "words": [
+            "Neon",
+            "signs",
+            "characters",
+            "shops",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Multiple buses, cars, and taxis are on the road, indicating a bustling traffic flow.",
+        "sentence_cn": "路上公交车、小汽车、出租车众多，车流繁忙。",
+        "words": [
+            "buses",
+            "cars",
+            "taxis",
+            "road",
+            "traffic",
+            "flow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The road is divided, with vehicles moving in both directions.",
+        "sentence_cn": "道路被分开，车辆可以双向行驶。",
+        "words": [
+            "road",
+            "vehicles",
+            "directions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Sidewalks on both sides are busy with pedestrians going in and out of shops, which have brightly lit interiors.",
+        "sentence_cn": "人行道两旁，行人进出店铺，店铺内灯火通明，十分热闹。",
+        "words": [
+            "Sidewalks",
+            "sides",
+            "pedestrians",
+            "shops",
+            "interiors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a prominent overhead sign with yellow and red colors featuring more Chinese characters, guiding or informing passersby.",
+        "sentence_cn": "有一个显眼的高架标志，以黄色和红色为主色调，上面有更多的汉字，用于引导或告知路人。",
+        "words": [
+            "sign",
+            "colors",
+            "characters",
+            "passersby"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere suggests early evening or dusk, as electric lights illuminate the scene while the sky still holds some natural light.",
+        "sentence_cn": "当电灯照亮场景而天空中仍保留着一些自然光时，这种氛围让人感觉像是傍晚或黄昏。",
+        "words": [
+            "atmosphere",
+            "evening",
+            "dusk",
+            "lights",
+            "scene",
+            "sky",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The buildings have numerous windows and air conditioning units, suggesting a densely populated urban environment.",
+        "sentence_cn": "这些建筑物有大量的窗户和空调设备，表明城市环境人口密集。",
+        "words": [
+            "buildings",
+            "windows",
+            "air",
+            "conditioning",
+            "units",
+            "environment"
+        ],
+        "id": null
+    }
+]

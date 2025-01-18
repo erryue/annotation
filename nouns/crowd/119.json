@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image shows the interior of a cozy caf¨¦ with several patrons seated at wooden tables and booths.",
+        "sentence_cn": "图中展示的是一间舒适的咖啡馆的内部，几位顾客坐在木桌和小隔间里。",
+        "words": [
+            "interior",
+            "caf¨",
+            "patrons",
+            "tables",
+            "booths"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in warm tones, with artwork and decorations, including a large sign with the letters \"JB.\"",
+        "sentence_cn": "墙壁漆成暖色调，配有艺术品和装饰品，包括一个写着“JB”的大标志。",
+        "words": [
+            "JB.",
+            "walls",
+            "tones",
+            "artwork",
+            "decorations",
+            "sign",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The seating arrangement consists of wooden chairs and green tabletops.",
+        "sentence_cn": "座位安排包括木椅和绿色桌面。",
+        "words": [
+            "seating",
+            "arrangement",
+            "chairs",
+            "tabletops"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several people are shown having conversations and sipping on coffee in disposable cups.",
+        "sentence_cn": "视频中，几个人正在交谈，并用一次性杯子喝着咖啡。",
+        "words": [
+            "people",
+            "conversations",
+            "coffee",
+            "cups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ambiance appears relaxed and social, with soft lighting and a friendly atmosphere.",
+        "sentence_cn": "这里氛围轻松，灯光柔和，气氛友好。",
+        "words": [
+            "ambiance",
+            "lighting",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are a variety of individuals, dressed casually, adding to the casual, welcoming vibe of the caf¨¦.",
+        "sentence_cn": "这里有各种各样的人，穿着休闲，为咖啡馆增添了随意、热情的氛围。",
+        "words": [
+            "variety",
+            "individuals",
+            "vibe",
+            "caf¨"
+        ],
+        "id": null
+    }
+]

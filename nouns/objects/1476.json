@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image shows a decorative and cozy indoor scene near a window.",
+        "sentence_cn": "图为窗户附近装饰精美、温馨的室内场景。",
+        "words": [
+            "scene",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the wall, there is a large star-shaped decoration with a textured surface, predominantly blue with some lighter areas and accented by circular details.",
+        "sentence_cn": "墙上有一个巨大的星形装饰，表面有纹理，以蓝色为主，有一些较浅的区域，并以圆形细节突出。",
+        "words": [
+            "wall",
+            "star",
+            "decoration",
+            "surface",
+            "areas",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the windowsill, various potted plants are arranged.",
+        "sentence_cn": "窗台上，摆放着各式各样的盆栽。",
+        "words": [
+            "windowsill",
+            "plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a mix of plants, including a cactus and leafy ones, in containers of different colors and shapes.",
+        "sentence_cn": "容器里种植着各种植物，包括仙人掌和多叶植物，且颜色和形状各异。",
+        "words": [
+            "mix",
+            "plants",
+            "cactus",
+            "ones",
+            "containers",
+            "colors",
+            "shapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pots are white and blue, adding a soothing contrast to the greenery.",
+        "sentence_cn": "花盆是白色和蓝色的，与绿色植物形成了舒缓的对比。",
+        "words": [
+            "pots",
+            "contrast",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the plants, there are two small, translucent blue candle holders or containers.",
+        "sentence_cn": "植物前面有两个小型的半透明蓝色烛台或容器。",
+        "words": [
+            "front",
+            "plants",
+            "two",
+            "candle",
+            "holders",
+            "containers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A larger blue pot contains a succulent, and there¡¯s a unique green dish or plate with a ridged design next to a small round box.",
+        "sentence_cn": "一个较大的蓝色花盆里种着一株多肉植物，旁边有一个独特的绿色盘子，上面有脊状图案，旁边还有一个小圆盒。",
+        "words": [
+            "pot",
+            "succulent",
+            "dish",
+            "plate",
+            "design",
+            "box"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window has a screen, and natural light softly illuminates the setup, enhancing the peaceful and fresh ambiance of the space.",
+        "sentence_cn": "窗户设有屏风，自然光柔和地照亮了房间，增强了空间宁静清新的氛围。",
+        "words": [
+            "window",
+            "screen",
+            "light",
+            "ambiance",
+            "space"
+        ],
+        "id": null
+    }
+]

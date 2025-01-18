@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image shows a cozy and warmly lit living room with a vaulted ceiling.",
+        "sentence_cn": "图中显示的是一间带有拱形天花板的舒适且灯光温暖的客厅。",
+        "words": [
+            "living",
+            "room",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a sectional sofa in a dark color, accented with various throw pillows in shades of blue, green, and brown.",
+        "sentence_cn": "房间里有一张深色的组合沙发，上面摆放着各种蓝色、绿色和棕色的抱枕。",
+        "words": [
+            "room",
+            "sofa",
+            "color",
+            "throw",
+            "pillows",
+            "shades",
+            "blue",
+            "green",
+            "brown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Adjacent to the sectional is a cream-colored armchair with a striped pillow, providing additional seating.",
+        "sentence_cn": "沙发旁边是一把奶油色的扶手椅，配有条纹枕头，可以提供额外的座位。",
+        "words": [
+            "sectional",
+            "cream",
+            "armchair",
+            "pillow",
+            "seating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is adorned with a patterned rug featuring floral designs in blue and brown tones.",
+        "sentence_cn": "地板上铺着带有蓝色和棕色色调的花卉图案的地毯。",
+        "words": [
+            "floor",
+            "rug",
+            "designs",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted in a neutral shade, decorated with framed artwork and a mirror that enhances the room's aesthetic.",
+        "sentence_cn": "墙壁漆成中性色调，并以相框艺术品和镜子装饰，增强了房间的美感。",
+        "words": [
+            "walls",
+            "shade",
+            "artwork",
+            "mirror",
+            "room",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left, there's a large window with wooden framing, allowing natural light to enter, complementing the overhead recessed lighting.",
+        "sentence_cn": "左边有一扇木框架的大窗户，可以让自然光照进来，与头顶的嵌入式照明相得益彰。",
+        "words": [
+            "left",
+            "window",
+            "framing",
+            "light",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Through a wide entryway, a dining room is visible, featuring a dining table set and a ceiling fan with a light fixture.",
+        "sentence_cn": "通过宽阔的入口，可以看到一间餐厅，里面有一套餐桌和一台带灯具的吊扇。",
+        "words": [
+            "entryway",
+            "dining",
+            "room",
+            "dining",
+            "table",
+            "set",
+            "ceiling",
+            "fan",
+            "light",
+            "fixture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the space appears inviting and thoughtfully arranged, balancing comfort with style.",
+        "sentence_cn": "总体而言，该空间显得温馨且经过精心布置，兼顾了舒适性和风格。",
+        "words": [
+            "space",
+            "comfort",
+            "style"
+        ],
+        "id": null
+    }
+]

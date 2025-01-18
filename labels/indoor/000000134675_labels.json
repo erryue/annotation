@@ -1,0 +1,24 @@
+[
+    {
+        "id": "efd0079b-1e29-4779-adab-ad9d2d2ac1c8",
+        "confidence": 0.8766,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 7.16835,
+                        "minY": 225.52861,
+                        "maxX": 180.12323,
+                        "maxY": 396.10925
+                    },
+                    "x": 7.16835,
+                    "y": 225.52861,
+                    "w": 172.95488,
+                    "h": 170.58064
+                }
+            }
+        }
+    }
+]

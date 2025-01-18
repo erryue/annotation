@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Cyrano de Bergerac.\"",
+        "sentence_cn": "图片是《大鼻子情圣》的电影海报。",
+        "words": [
+            "Cyrano de Bergerac.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It prominently features a man wearing a large black hat and holding a sword, against a backdrop of a dramatic sky.",
+        "sentence_cn": "这幅画的显著特征是一名男子头戴一顶大黑帽，手握一把剑，背景是一片壮丽的天空。",
+        "words": [
+            "man",
+            "hat",
+            "sword",
+            "backdrop",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "His face is the central focus, partially overlaid with the image of a woman in a yellow dress, possibly suggesting a romantic connection.",
+        "sentence_cn": "他的脸是画面中央的焦点，部分与身穿黄色连衣裙的女人的形象重叠，可能暗示着一种浪漫的关系。",
+        "words": [
+            "face",
+            "focus",
+            "woman",
+            "dress",
+            "connection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Cyrano de Bergerac\" is written in bold white letters at the bottom, with a stylized font that includes decorative elements such as swords.",
+        "sentence_cn": "标题“Cyrano de Bergerac”以粗体白色字母写在底部，采用风格化的字体，其中包含剑等装饰元素。",
+        "words": [
+            "Cyrano de Bergerac",
+            "title",
+            "letters",
+            "bottom",
+            "font",
+            "elements",
+            "swords"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, the names of the main actors¡ªJacques Weber, Anne Brochet, Vincent Perez, and Roland Bertin¡ªare also listed.",
+        "sentence_cn": "标题下方还列出了主要演员的名字——雅克·韦伯、安妮·布罗歇、文森特·佩雷斯、罗兰·贝尔坦。",
+        "words": [
+            "title",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The director's name, Jean-Paul Rappeneau, and the main actor's name, G¨¦rard Depardieu, are highlighted above the central image.",
+        "sentence_cn": "导演的名字是让-保罗·拉佩诺 (Jean-Paul Rappeneau)，主演的名字是杰拉尔·德帕迪约 (Gérard Depardieu)，均在中央图像上方突出显示。",
+        "words": [
+            "director",
+            "name",
+            "actor",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a scene depicting a group of soldiers, adding a sense of historical or wartime context.",
+        "sentence_cn": "背景中是一群士兵的场景，增添了一种历史或战争背景感。",
+        "words": [
+            "background",
+            "scene",
+            "group",
+            "soldiers",
+            "sense",
+            "context"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme is rich and dramatic, with deep blues and warm earth tones.",
+        "sentence_cn": "整体配色丰富且富有戏剧性，有深蓝色和温暖的土色调。",
+        "words": [
+            "color",
+            "scheme",
+            "blues",
+            "earth",
+            "tones"
+        ],
+        "id": null
+    }
+]

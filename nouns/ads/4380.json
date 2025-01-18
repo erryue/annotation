@@ -1,0 +1,225 @@
+[
+    {
+        "sentence": "The image is an old-fashioned advertisement for a grocery store named \"CUT/LOW,\" promoting various food items with prices.",
+        "sentence_cn": "该图片是一家名为“CUT/LOW”的杂货店的老式广告，促销各种食品并标明价格。",
+        "words": [
+            "CUT/LOW,",
+            "grocery",
+            "store",
+            "food",
+            "items",
+            "prices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad features the slogan \"Ma Saves Pa's Dough At CUT/LOW\" and lists the store's operating hours.",
+        "sentence_cn": "广告的口号是“Ma Saves Pa's Dough At CUT/LOW”（妈妈在 CUT/LOW 为爸爸省钱）并列出了商店的营业时间。",
+        "words": [
+            "Ma Saves Pa's Dough At CUT/LOW",
+            "ad",
+            "slogan",
+            "Dough",
+            "store",
+            "operating",
+            "hours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is filled with black text on a white background, detailing different products and their respective prices.",
+        "sentence_cn": "它以白底黑色文字填充，详细介绍不同的产品及其各自的价格。",
+        "words": [
+            "text",
+            "background",
+            "products",
+            "prices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key items and prices include:",
+        "sentence_cn": "主要商品及价格包括：",
+        "words": [
+            "items",
+            "prices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Frozen Lemonade or Orangeade: 6 oz for 10 cents",
+        "sentence_cn": "- 冷冻柠檬水或橙汁：6 盎司 10 美分",
+        "words": [
+            "6",
+            "oz",
+            "10",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Picnic (Wilson Corn King Loose Canned): 3 lb can for $1.59",
+        "sentence_cn": "- 野餐（Wilson Corn King 散装罐头）：3 磅罐装，售价 1.59 美元",
+        "words": [
+            "Picnic",
+            "3",
+            "lb",
+            "can",
+            "1.59"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Velveeta: 2 lbs for 68 cents",
+        "sentence_cn": "- Velveeta：2 磅 68 美分",
+        "words": [
+            "2",
+            "lbs",
+            "68",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Strawberries: 5 pints for 88 cents",
+        "sentence_cn": "- 草莓：5 品脱 88 美分",
+        "words": [
+            "Strawberries",
+            "5",
+            "pints",
+            "88",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sliced Bacon: 46 cents per pound",
+        "sentence_cn": "- 切片培根：每磅 46 美分",
+        "words": [
+            "Bacon",
+            "46",
+            "cents",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Butter: 58 cents for 1 lb",
+        "sentence_cn": "- 黄油：每磅 58 美分",
+        "words": [
+            "Butter",
+            "58",
+            "cents",
+            "1",
+            "lb"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bologna (Wilson Victus chunk style): 28 cents per pound",
+        "sentence_cn": "- 博洛尼亚香肠（Wilson Victus 块状）：每磅 28 美分",
+        "words": [
+            "chunk",
+            "style",
+            "28",
+            "cents",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ground Beef (Fresh Lean Pure): 3 lbs for $1.00",
+        "sentence_cn": "- 碎牛肉（新鲜瘦纯）：3 磅，售价 1.00 美元",
+        "words": [
+            "Ground",
+            "3",
+            "lbs",
+            "1.00"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Pork Cutlets: 68 cents per pound",
+        "sentence_cn": "- 猪排：每磅 68 美分",
+        "words": [
+            "Pork",
+            "Cutlets",
+            "68",
+            "cents",
+            "pound"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Charcoal (Prest-o Hardwood): 20 lbs for 97 cents",
+        "sentence_cn": "- 木炭（Prest-o 硬木）：20 磅，97 美分",
+        "words": [
+            "20",
+            "lbs",
+            "97",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Grade A Milk: 39 cents per gallon",
+        "sentence_cn": "- A 级牛奶：每加仑 39 美分",
+        "words": [
+            "39",
+            "cents",
+            "gallon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Baby Food (Gerber's Strained): 8 cents per jar",
+        "sentence_cn": "- 婴儿食品（Gerber's Strained）：每罐 8 美分",
+        "words": [
+            "Baby",
+            "8",
+            "cents",
+            "jar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Potatoes: 10 lbs for 80 cents",
+        "sentence_cn": "- 土豆：10 磅，80 美分",
+        "words": [
+            "Potatoes",
+            "10",
+            "lbs",
+            "80",
+            "cents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional items include canned goods, baking supplies, beverages, and snacks, each with notable prices.",
+        "sentence_cn": "其他商品包括罐头食品、烘焙用品、饮料和零食，每种都有明显的价格。",
+        "words": [
+            "items",
+            "goods",
+            "baking",
+            "supplies",
+            "beverages",
+            "snacks",
+            "prices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ad uses different font sizes and bold text to capture attention, with a nostalgic feel reflective of earlier promotional styles.",
+        "sentence_cn": "该广告采用不同字体大小和粗体文字来吸引注意力，具有一种怀旧感，反映了早期的促销风格。",
+        "words": [
+            "ad",
+            "font",
+            "sizes",
+            "text",
+            "attention",
+            "feel",
+            "styles"
+        ],
+        "id": null
+    }
+]

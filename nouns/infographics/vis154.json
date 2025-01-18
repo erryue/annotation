@@ -1,0 +1,351 @@
+[
+    {
+        "sentence": "The image is an informative infographic about Trap-Neuter-Return (TNR) for controlling feral and stray cat populations.",
+        "sentence_cn": "该图是有关控制野猫和流浪猫数量的诱捕-绝育-放归（TNR）方法的信息图。",
+        "words": [
+            "cat",
+            "populations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here¡¯s a detailed breakdown:",
+        "sentence_cn": "以下是详细分析：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "### Header:",
+        "sentence_cn": "### 标题：",
+        "words": [
+            "Header"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text: \"ABOUT TRAP-NEUTER-RETURN (TNR)\"",
+        "sentence_cn": "- 文字：“关于诱捕-绝育-放归 (TNR)”",
+        "words": [
+            "Text:",
+            "ABOUT TRAP-NEUTER-RETURN (TNR)",
+            "Text",
+            "NEUTER"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background color: Light blue.",
+        "sentence_cn": "- 背景颜色：浅蓝色。",
+        "words": [
+            "Background",
+            "color",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### The Problem:",
+        "sentence_cn": "＃＃＃ 问题：",
+        "words": [
+            "Problem"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text: Highlights the estimation that \"tens of millions\" of feral and stray cats roam freely in the U.S., leading to rapid breeding.",
+        "sentence_cn": "- 文字：强调估计有“数千万”只野猫和流浪猫在美国自由漫游，导致其快速繁殖。",
+        "words": [
+            "Text:",
+            "tens of millions",
+            "Text",
+            "estimation",
+            "tens",
+            "millions",
+            "cats",
+            "U.S.",
+            "breeding"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Explains the inefficacy of ineffective methods and why removing/relocating feral cats isn¡¯t viable, as it invites more unneutered cats to reproduce.",
+        "sentence_cn": "- 解释无效方法的无效性以及为什么移除/重新安置野猫是不可行的，因为这会导致更多未绝育的猫繁殖。",
+        "words": [
+            "inefficacy",
+            "methods",
+            "cats",
+            "cats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Color Scheme: Red text emphasizes the problem size (\"tens of millions\").",
+        "sentence_cn": "- 配色方案：红色文本强调问题规模（“数千万”）。",
+        "words": [
+            "Color Scheme:",
+            "tens of millions",
+            "Color",
+            "Scheme",
+            "text",
+            "problem",
+            "size",
+            "tens",
+            "millions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### The Solution:",
+        "sentence_cn": "### 解决方案：",
+        "words": [
+            "Solution"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text: Advocates TNR as a humane and effective method.",
+        "sentence_cn": "- 文字：提倡TNR是一种人道且有效的方法。",
+        "words": [
+            "Text:",
+            "Text",
+            "method"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lists benefits: population reduction, lowering shelter intake and euthanasia rates, and reducing disease spread.",
+        "sentence_cn": "- 列出好处：减少人口、降低收容所接收量和安乐死率、减少疾病传播。",
+        "words": [
+            "benefits",
+            "population",
+            "reduction",
+            "shelter",
+            "intake",
+            "euthanasia",
+            "rates",
+            "disease",
+            "spread"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Describes neutered colonies protecting territories to prevent further overpopulation.",
+        "sentence_cn": "- 描述了被阉割的蜂群保护其领土以防止进一步的人口过剩。",
+        "words": [
+            "colonies",
+            "territories",
+            "overpopulation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### TNR Process:",
+        "sentence_cn": "### TNR流程：",
+        "words": [
+            "Process"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Trap:",
+        "sentence_cn": "1. 陷阱：",
+        "words": [
+            "Trap:",
+            "Trap"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Describes using humane traps after community education.",
+        "sentence_cn": "- 描述社区教育后使用人道陷阱。",
+        "words": [
+            "traps",
+            "community",
+            "education"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrated with a green cat graphic and the number ¡°1¡± in a circle.",
+        "sentence_cn": "- 以一只绿猫的图案和圆圈内的数字“1”作为说明。",
+        "words": [
+            "cat",
+            "graphic",
+            "number",
+            "°",
+            "1¡±",
+            "circle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Neuter:",
+        "sentence_cn": "2. 绝育：",
+        "words": [
+            "Neuter:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Cats are brought to spay/neuter providers and may receive additional vaccinations.",
+        "sentence_cn": "- 将猫带到绝育服务提供商处并可能接种额外的疫苗。",
+        "words": [
+            "Cats",
+            "neuter",
+            "providers",
+            "vaccinations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrated with a purple cat graphic and the number ¡°2¡± in a circle.",
+        "sentence_cn": "- 以紫色猫图案和圆圈内的数字“2”为插图。",
+        "words": [
+            "cat",
+            "graphic",
+            "number",
+            "°",
+            "2¡±",
+            "circle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "3. Return:",
+        "sentence_cn": "3. 返回：",
+        "words": [
+            "Return:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- After surgery, cats are returned to their territory with ongoing resources.",
+        "sentence_cn": "- 手术后，猫将带着持续的资源返回其领地。",
+        "words": [
+            "surgery",
+            "cats",
+            "territory",
+            "resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Illustrated with a third step in a circular process.",
+        "sentence_cn": "- 以循环过程的第三步为例。",
+        "words": [
+            "step",
+            "process"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Details:",
+        "sentence_cn": "### 其他详细信息：",
+        "words": [
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ear Tipping: Explains ear tipping as a marker of neutered feral cats, preventing unnecessary interventions.",
+        "sentence_cn": "- 剪耳朵：解释剪耳朵是已绝育野猫的标志，可避免不必要的干预。",
+        "words": [
+            "Ear Tipping:",
+            "Ear",
+            "Tipping",
+            "ear",
+            "tipping",
+            "marker",
+            "cats",
+            "interventions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Difference Between Stray and Feral Cats:",
+        "sentence_cn": "- 流浪猫和野猫的区别：",
+        "words": [
+            "Difference Between Stray and Feral Cats:",
+            "Difference",
+            "Cats"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Stray Cats: Socialized at some point, abandoned.",
+        "sentence_cn": "- 流浪猫：曾被社会化，后来被遗弃。",
+        "words": [
+            "Cats",
+            "point"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Feral Cats: Little human contact, live outdoors independently.",
+        "sentence_cn": "- 野猫：很少与人类接触，独立在户外生活。",
+        "words": [
+            "Cats",
+            "contact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Footer:",
+        "sentence_cn": "＃＃＃ 页脚：",
+        "words": [
+            "Footer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Organization: PetSmart Charities, with the website links and a note about rights reserved from 2012.",
+        "sentence_cn": "- 组织：PetSmart Charities，包含网站链接和自 2012 年起保留权利的说明。",
+        "words": [
+            "Organization:",
+            "Organization",
+            "website",
+            "links",
+            "note",
+            "rights",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Visual Elements: Mix of silhouettes in varying colors (red, blue, green) representing cats, and an overall clean design with text blocks and bullet points for readability.",
+        "sentence_cn": "- 视觉元素：混合使用代表猫的不同颜色（红色、蓝色、绿色）的轮廓，以及带有文本块和项目符号的整体简洁设计，以提高可读性。",
+        "words": [
+            "Visual Elements:",
+            "Elements",
+            "Mix",
+            "silhouettes",
+            "colors",
+            "cats",
+            "design",
+            "text",
+            "blocks",
+            "bullet",
+            "points",
+            "readability"
+        ],
+        "id": null
+    }
+]

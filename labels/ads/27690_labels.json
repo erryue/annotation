@@ -1,0 +1,68 @@
+[
+    {
+        "id": "74ee9a2e-657f-45ec-bf24-d90341464d0f",
+        "confidence": 0.88392,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 87.89491,
+                        "minY": 564.16144,
+                        "maxX": 203.47902,
+                        "maxY": 775.03638
+                    },
+                    "x": 87.89491,
+                    "y": 564.16144,
+                    "w": 115.58411,
+                    "h": 210.87494000000004
+                }
+            }
+        }
+    },
+    {
+        "id": "02a7e309-2af7-4c18-8bd6-94dc18428beb",
+        "confidence": 0.84154,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 36.05801,
+                        "minY": 225.36295,
+                        "maxX": 167.64107,
+                        "maxY": 465.43695
+                    },
+                    "x": 36.05801,
+                    "y": 225.36295,
+                    "w": 131.58306000000002,
+                    "h": 240.074
+                }
+            }
+        }
+    },
+    {
+        "id": "edd00ea6-c8ee-4341-b8ea-15e581818800",
+        "confidence": 0.80557,
+        "class": "cell phone",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 245.90765,
+                        "minY": 548.06873,
+                        "maxX": 369.7926,
+                        "maxY": 790.24707
+                    },
+                    "x": 245.90765,
+                    "y": 548.06873,
+                    "w": 123.88495,
+                    "h": 242.17834000000005
+                }
+            }
+        }
+    }
+]

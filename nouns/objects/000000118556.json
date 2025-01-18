@@ -1,0 +1,110 @@
+[
+    {
+        "sentence": "The image shows a home or office workspace setup on a wooden desk positioned near a window that allows natural light to come in.",
+        "sentence_cn": "图中展示了家庭或办公室工作区设置在一个木桌上，靠近窗户，可以让自然光照进来。",
+        "words": [
+            "home",
+            "office",
+            "workspace",
+            "desk",
+            "window",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main focus is a dual-monitor setup with two large displays.",
+        "sentence_cn": "主要焦点是具有两个大显示屏的双显示器设置。",
+        "words": [
+            "focus",
+            "monitor",
+            "two",
+            "displays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left monitor displays a document editing application with text, likely a Word document.",
+        "sentence_cn": "左侧显示器显示带有文本的文档编辑应用程序，可能是 Word 文档。",
+        "words": [
+            "monitor",
+            "document",
+            "editing",
+            "application",
+            "text",
+            "document"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screens are flanked by two black and yellow speakers.",
+        "sentence_cn": "屏幕两侧是两个黑色和黄色的扬声器。",
+        "words": [
+            "screens",
+            "two",
+            "speakers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the monitors, a keyboard and mouse are visible.",
+        "sentence_cn": "显示器下方可以看到键盘和鼠标。",
+        "words": [
+            "monitors",
+            "keyboard",
+            "mouse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there is a laptop angled on a stand, displaying text that is not clearly visible.",
+        "sentence_cn": "右侧，有一台笔记本电脑倾斜地放置在支架上，显示的文字不太清晰。",
+        "words": [
+            "right",
+            "laptop",
+            "stand",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small lamp with a beige shade sits between the laptop and the monitors, providing additional lighting.",
+        "sentence_cn": "笔记本电脑和显示器之间有一个米色灯罩的小灯，提供额外的照明。",
+        "words": [
+            "lamp",
+            "shade",
+            "laptop",
+            "monitors",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk¡¯s surface, there are several open notebooks and papers scattered in front of the monitors and laptop, indicating active work or study.",
+        "sentence_cn": "桌面上，显示器和笔记本电脑前散落着几本打开的笔记本和纸张，表明正在积极工作或学习。",
+        "words": [
+            "desk¡¯s",
+            "surface",
+            "notebooks",
+            "papers",
+            "front",
+            "monitors",
+            "laptop",
+            "work",
+            "study"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area has an organized but busy feel, suggesting a work environment suited for productivity.",
+        "sentence_cn": "该区域井然有序但又忙碌，表明该工作环境适合提高工作效率。",
+        "words": [
+            "area",
+            "feel",
+            "work",
+            "environment",
+            "productivity"
+        ],
+        "id": null
+    }
+]

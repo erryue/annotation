@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image features Wat Arun, a famous Buddhist temple in Bangkok, Thailand.",
+        "sentence_cn": "图片展示的是泰国曼谷著名的佛教寺庙黎明寺。",
+        "words": [
+            "temple",
+            "Bangkok",
+            "Thailand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Dominating the scene is the temple's central prang (Khmer-style tower) that is ornately decorated and rises prominently against the blue sky.",
+        "sentence_cn": "最引人注目的是寺庙中央的 prang（高棉风格的塔），其装饰华丽，在蓝天的映衬下显得格外突出。",
+        "words": [
+            "scene",
+            "temple",
+            "prang",
+            "style",
+            "tower",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the central prang are smaller prangs of similar style, contributing to the intricate architectural design.",
+        "sentence_cn": "中央支柱的周围是类似风格的较小支柱，构成了复杂的建筑设计。",
+        "words": [
+            "prang",
+            "prangs",
+            "style",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, the Chao Phraya River flows, reflecting the temple's silhouette.",
+        "sentence_cn": "前景中，湄南河流淌，倒映着寺庙的轮廓。",
+        "words": [
+            "foreground",
+            "the",
+            "Chao",
+            "Phraya",
+            "River",
+            "temple",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several traditional Thai long-tail boats are seen in the river, adding a dynamic element to the tranquil scene.",
+        "sentence_cn": "河中停泊着几艘泰国传统长尾船，为宁静的景色增添了一份动感。",
+        "words": [
+            "tail",
+            "boats",
+            "river",
+            "element",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Trees and smaller temple structures frame the temple complex, with roofs displaying ornate decorations typical of Thai architecture.",
+        "sentence_cn": "树木和较小的寺庙建筑构成了寺庙建筑群的框架，屋顶展示了泰国建筑典型的华丽装饰。",
+        "words": [
+            "Trees",
+            "temple",
+            "structures",
+            "temple",
+            "complex",
+            "roofs",
+            "decorations",
+            "architecture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear with a scattering of fluffy clouds, providing a picturesque backdrop.",
+        "sentence_cn": "天空晴朗，散落着几朵蓬松的云彩，形成了一幅如画的背景。",
+        "words": [
+            "sky",
+            "scattering",
+            "clouds",
+            "backdrop"
+        ],
+        "id": null
+    }
+]

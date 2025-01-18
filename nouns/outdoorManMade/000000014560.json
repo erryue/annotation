@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "The image depicts a serene harbor scene with several boats moored on calm water.",
+        "sentence_cn": "图像描绘了一个宁静的港口场景，几艘船停泊在平静的水面上。",
+        "words": [
+            "harbor",
+            "scene",
+            "boats",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground features a grassy area with scattered rocks.",
+        "sentence_cn": "前景是一片草地，散落着岩石。",
+        "words": [
+            "foreground",
+            "area",
+            "rocks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background showcases towering mountains under a partly cloudy sky, adding depth to the landscape.",
+        "sentence_cn": "背景展示了多云天空下高耸的山脉，为风景增添了深度。",
+        "words": [
+            "background",
+            "mountains",
+            "sky",
+            "depth",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The boats vary in size and color, including red, blue, and white hues, and are reflected in the water, contributing to the tranquil atmosphere.",
+        "sentence_cn": "船只大小各异，颜色各异，有红色、蓝色和白色，倒映在水面上，营造出宁静的氛围。",
+        "words": [
+            "boats",
+            "size",
+            "color",
+            "hues",
+            "water",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a peaceful, picturesque location, possibly ideal for fishing or sightseeing.",
+        "sentence_cn": "整体环境宁静、风景如画，非常适合钓鱼或观光。",
+        "words": [
+            "location",
+            "fishing",
+            "sightseeing"
+        ],
+        "id": null
+    }
+]

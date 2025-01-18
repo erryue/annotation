@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image is a black and white photograph featuring a group of young adults running outdoors.",
+        "sentence_cn": "该图片是一张黑白照片，拍摄的是一群年轻人在户外奔跑。",
+        "words": [
+            "photograph",
+            "group",
+            "adults"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be a grassy area, possibly a park or field.",
+        "sentence_cn": "该场景似乎是一片草地，可能是公园或田野。",
+        "words": [
+            "area",
+            "park",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a young woman in a white tank top and light-colored pants is running.",
+        "sentence_cn": "前景中，一名身穿白色背心和浅色裤子的年轻女子正在跑步。",
+        "words": [
+            "foreground",
+            "woman",
+            "tank",
+            "top",
+            "pants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is surrounded by shirtless young men wearing white shorts.",
+        "sentence_cn": "她周围围着一群身穿白色短裤、赤裸上身的年轻男子。",
+        "words": [
+            "men",
+            "shorts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their expressions convey a sense of vitality and energy.",
+        "sentence_cn": "他们的表情传达出一种活力与能量的感觉。",
+        "words": [
+            "expressions",
+            "sense",
+            "vitality",
+            "energy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image has a vintage feel, with soft lighting and a slightly grainy texture, typical of fashion photography.",
+        "sentence_cn": "该图像具有复古的感觉，灯光柔和，纹理略带颗粒感，这是时尚摄影的典型特征。",
+        "words": [
+            "vintage",
+            "feel",
+            "lighting",
+            "texture",
+            "fashion",
+            "photography"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the text \"Abercrombie & Fitch\" is prominently displayed, indicating that this is part of an advertisement or promotional material for the brand.",
+        "sentence_cn": "在底部，突出显示了“Abercrombie & Fitch”文字，表明这是该品牌广告或宣传材料的一部分。",
+        "words": [
+            "Abercrombie & Fitch",
+            "bottom",
+            "text",
+            "part",
+            "material",
+            "brand"
+        ],
+        "id": null
+    }
+]

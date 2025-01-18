@@ -1,0 +1,103 @@
+[
+    {
+        "sentence": "The image portrays a serene rural landscape featuring a wide expanse of green fields.",
+        "sentence_cn": "这幅图描绘的是一片宁静的乡村风景，有广阔的绿色田野。",
+        "words": [
+            "landscape",
+            "expanse",
+            "fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several cows grazing on the lush grass, appearing calm and content.",
+        "sentence_cn": "前景中，几头牛在茂盛的草地上吃草，显得平静而满足。",
+        "words": [
+            "foreground",
+            "cows",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is gently undulating, leading to a distant view of more fields.",
+        "sentence_cn": "地貌起伏平缓，远处可见更多的田野。",
+        "words": [
+            "landscape",
+            "view",
+            "fields"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The middle ground shows a winding river or stream, reflecting sunlight and adding a natural curve to the landscape.",
+        "sentence_cn": "中景描绘了一条蜿蜒的河流或溪流，反射着阳光，为风景增添了自然的曲线。",
+        "words": [
+            "ground",
+            "river",
+            "stream",
+            "sunlight",
+            "curve",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A variety of smaller patches of land, perhaps used for agriculture, are visible beyond the river.",
+        "sentence_cn": "河对岸可以看到各种小块土地，可能用于农业。",
+        "words": [
+            "variety",
+            "patches",
+            "land",
+            "agriculture",
+            "river"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Scattered throughout the scene are what appear to be sheep or small livestock dotting the fields, indicating a thriving rural farming area.",
+        "sentence_cn": "整个场景中散布着一些看起来像绵羊或小牲畜的动物，它们散布在田野间，表明这是一个繁荣的农村农业区。",
+        "words": [
+            "scene",
+            "sheep",
+            "livestock",
+            "fields",
+            "farming",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, trees and hills create a natural boundary, with forests marking the horizon.",
+        "sentence_cn": "在背景中，树木和山丘形成了天然的边界，森林标记着地平线。",
+        "words": [
+            "background",
+            "trees",
+            "hills",
+            "boundary",
+            "forests",
+            "horizon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, suggesting a bright and sunny day, which bathes the entire scene in warm, natural light.",
+        "sentence_cn": "天空晴朗，阳光明媚，整个场景沐浴在温暖的自然光中。",
+        "words": [
+            "sky",
+            "day",
+            "scene",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image conveys a peaceful, pastoral atmosphere typical of a countryside setting.",
+        "sentence_cn": "图像传达出乡村典型的宁静、田园氛围。",
+        "words": [
+            "atmosphere",
+            "countryside"
+        ],
+        "id": null
+    }
+]

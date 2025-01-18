@@ -1,0 +1,88 @@
+[
+    {
+        "sentence": "The image shows a candid scene involving a group of people near a van in a wooded area.",
+        "sentence_cn": "照片显示的是一群人在树林里一辆货车附近的真实场景。",
+        "words": [
+            "scene",
+            "group",
+            "people",
+            "van",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The side door of the van is open.",
+        "sentence_cn": "货车的侧门开着。",
+        "words": [
+            "door",
+            "van"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Inside, a person with short dark hair is smiling and waving, holding a deck of cards.",
+        "sentence_cn": "里面，一个留着黑色短发的人手里拿着一副牌，微笑着挥手。",
+        "words": [
+            "person",
+            "hair",
+            "deck",
+            "cards"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window of the van has the words \"THE ROBBERY\" written on it with what appears to be shaving cream or a similar substance, and there is a dollar bill stuck to the glass.",
+        "sentence_cn": "货车的窗户上用看起来像剃须膏或类似物质写着“抢劫”字样，玻璃上还粘着一张美元钞票。",
+        "words": [
+            "THE ROBBERY",
+            "window",
+            "van",
+            "words",
+            "ROBBERY",
+            "shaving",
+            "cream",
+            "substance",
+            "dollar",
+            "bill",
+            "glass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a man with dark hair and a black jacket is walking past the van, looking down.",
+        "sentence_cn": "在前景中，一名黑发、身穿黑色夹克的男子正从货车旁走过，低着头。",
+        "words": [
+            "foreground",
+            "man",
+            "hair",
+            "jacket",
+            "van"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two other people are partially visible on the left side; one is wearing a light gray hoodie, and the other has long brown hair and a blue garment.",
+        "sentence_cn": "左侧可以看到另外两个人的部分身影；一人身穿浅灰色连帽衫，另一人则留着棕色长发，身穿蓝色衣服。",
+        "words": [
+            "Two",
+            "people",
+            "one",
+            "hoodie",
+            "hair",
+            "garment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The environment is outdoors, with tall trees and green foliage, suggesting a park or natural setting.",
+        "sentence_cn": "环境是在户外，有高大的树木和绿叶，让人联想到公园或自然环境。",
+        "words": [
+            "environment",
+            "trees",
+            "foliage",
+            "park"
+        ],
+        "id": null
+    }
+]

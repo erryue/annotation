@@ -1,0 +1,69 @@
+[
+    {
+        "sentence": "The image shows a group of five individuals casually interacting in what appears to be an indoor setting, possibly a library or bookstore.",
+        "sentence_cn": "图片显示五个人在看似室内的环境中随意互动，可能是图书馆或书店。",
+        "words": [
+            "group",
+            "five",
+            "individuals",
+            "library",
+            "bookstore"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has bookshelves filled with various books and pamphlets.",
+        "sentence_cn": "房间里有书架，上面摆满了各种书籍和小册子。",
+        "words": [
+            "room",
+            "bookshelves",
+            "books",
+            "pamphlets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two prominent purple books titled \"Felix & March\" stand out.",
+        "sentence_cn": "两本名为“Felix & March”的紫色书籍格外引人注目。",
+        "words": [
+            "Felix & March",
+            "Two",
+            "books"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The people are engaged in conversation, with a couple holding drinks.",
+        "sentence_cn": "人们正在交谈，其中有一对夫妇手里拿着饮料。",
+        "words": [
+            "people",
+            "conversation",
+            "couple",
+            "drinks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One individual is wearing a backpack while facing slightly away from the camera.",
+        "sentence_cn": "一个人背着背包，脸稍微背离镜头。",
+        "words": [
+            "One",
+            "individual",
+            "backpack",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is warm, creating a relaxed atmosphere, and the focus is on the social interaction among the group.",
+        "sentence_cn": "灯光以温暖为主，营造轻松的氛围，注重群体之间的社交互动。",
+        "words": [
+            "lighting",
+            "atmosphere",
+            "focus",
+            "interaction",
+            "group"
+        ],
+        "id": null
+    }
+]

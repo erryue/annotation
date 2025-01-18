@@ -1,0 +1,163 @@
+[
+    {
+        "sentence": "The image depicts a cozy nursery room with a coordinated theme.",
+        "sentence_cn": "图像描绘的是一间具有协调主题的舒适的育儿室。",
+        "words": [
+            "nursery",
+            "room",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key elements include:",
+        "sentence_cn": "关键要素包括：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Crib: A wooden crib with rounded ends, adorned with bedding featuring a blue and yellow color scheme with cute teddy bears and moons.",
+        "sentence_cn": "- 婴儿床：一个带有圆形两端的木制婴儿床，配有蓝色和黄色配色方案的床上用品，上面有可爱的泰迪熊和月亮。",
+        "words": [
+            "Crib",
+            "Crib",
+            "crib",
+            "ends",
+            "bedding",
+            "color",
+            "scheme",
+            "teddy",
+            "bears",
+            "moons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Window: Blue curtains with white, patterned borders cover the window, complementing the room's theme.",
+        "sentence_cn": "- 窗户：带有白色图案边框的蓝色窗帘遮住了窗户，与房间的主题相得益彰。",
+        "words": [
+            "Window",
+            "Window",
+            "curtains",
+            "borders",
+            "window",
+            "room",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Wall Decorations: On one wall, there's a yellow crescent moon with a cartoon bear sitting on it, and a yellow star-shaped decoration with a name on it.",
+        "sentence_cn": "- 墙壁装饰：一面墙上有一个黄色的新月，上面坐着一只卡通熊，还有一个黄色的星形装饰，上面有一个名字。",
+        "words": [
+            "Wall Decorations",
+            "Wall",
+            "Decorations",
+            "one",
+            "wall",
+            "crescent",
+            "moon",
+            "cartoon",
+            "bear",
+            "star",
+            "decoration",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The wallpaper border features alternating images of a cartoon bear and a dog wearing nightcaps against blue and green backgrounds.",
+        "sentence_cn": "墙纸边框交替出现着蓝色和绿色背景下的卡通熊和戴着睡帽的狗的图像。",
+        "words": [
+            "wallpaper",
+            "border",
+            "images",
+            "cartoon",
+            "bear",
+            "dog",
+            "nightcaps",
+            "backgrounds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Changing Table: A wooden dresser serves as a changing table, topped with a changing mat in matching blue teddy bear fabric.",
+        "sentence_cn": "- 换尿布台：木制梳妆台用作换尿布台，上面铺有与蓝色泰迪熊面料相匹配的换尿布垫。",
+        "words": [
+            "Changing Table",
+            "Changing",
+            "Table",
+            "dresser",
+            "changing",
+            "table",
+            "changing",
+            "mat",
+            "teddy",
+            "bear",
+            "fabric"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A lamp with a white shade and a plush dog toy are on it.",
+        "sentence_cn": "上面有一个带白色灯罩的灯和一只毛绒狗玩具。",
+        "words": [
+            "lamp",
+            "shade",
+            "dog",
+            "toy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Additional furniture: A white and wooden laundry hamper is nearby, with fabric matching the rest of the room.",
+        "sentence_cn": "- 附加家具：附近有一个白色和木质的洗衣篮，其布料与房间的其他部分相匹配。",
+        "words": [
+            "Additional furniture",
+            "furniture",
+            "laundry",
+            "hamper",
+            "fabric",
+            "rest",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Carpet and Chair: The floor is carpeted in a neutral brown.",
+        "sentence_cn": "- 地毯和椅子：地板上铺着中性棕色的地毯。",
+        "words": [
+            "Carpet and Chair",
+            "Carpet",
+            "Chair",
+            "floor",
+            "brown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the dresser, there's a small padded rocking chair or glider, designed for comforting a baby.",
+        "sentence_cn": "梳妆台旁边有一个带软垫的小摇椅或滑翔机，专门用于安抚婴儿。",
+        "words": [
+            "dresser",
+            "rocking",
+            "chair",
+            "glider",
+            "baby"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The decor suggests a warm, inviting atmosphere suitable for a baby's room.",
+        "sentence_cn": "这种装饰营造出一种温暖、温馨的氛围，非常适合婴儿房。",
+        "words": [
+            "decor",
+            "atmosphere",
+            "baby",
+            "room"
+        ],
+        "id": null
+    }
+]

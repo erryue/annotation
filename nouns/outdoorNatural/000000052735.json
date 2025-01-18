@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "This is an infrared image depicting a small group of elephants in a naturalistic setting.",
+        "sentence_cn": "这是一张红外图像，描绘的是自然环境中的一小群大象。",
+        "words": [
+            "group",
+            "elephants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are three elephants visible: one standing at the entrance of a rocky shelter, possibly an elder, another beside it, and a smaller one, presumably a calf, positioned between the two.",
+        "sentence_cn": "可以看到三头大象：一头站在岩石庇护所的入口处，可能是一头老象；另一头站在旁边；还有一头较小的，可能是一头小象，位于两头大象之间。",
+        "words": [
+            "three",
+            "elephants",
+            "one",
+            "entrance",
+            "shelter",
+            "elder",
+            "one",
+            "calf",
+            "two"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Off to the right, another elephant continues to walk away from the shelter.",
+        "sentence_cn": "在右边，另一头大象继续从庇护所走开。",
+        "words": [
+            "right",
+            "elephant",
+            "shelter"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is characterized by yellowish grass and foliage, owing to the image's infrared nature, which alters the colors.",
+        "sentence_cn": "由于图像的红外特性改变了颜色，因此该景观的特点是黄色的草和树叶。",
+        "words": [
+            "landscape",
+            "grass",
+            "foliage",
+            "nature",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The trees and surrounding vegetation take on an ethereal, golden hue, contrasting with the deep, dark sky that appears almost navy blue or black.",
+        "sentence_cn": "树木和周围的植被呈现出一种空灵的金色色调，与近乎深蓝色或黑色的深沉、黑暗的天空形成鲜明对比。",
+        "words": [
+            "trees",
+            "vegetation",
+            "hue",
+            "sky",
+            "navy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rocks and elephants appear as dark, solid figures, highlighting the structural details and textures of their skin against the soft, surreal environment.",
+        "sentence_cn": "岩石和大象呈现为黑色、立体的图形，在柔和、超现实的环境中凸显了它们皮肤的结构细节和纹理。",
+        "words": [
+            "rocks",
+            "elephants",
+            "figures",
+            "details",
+            "textures",
+            "skin",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This unique coloration gives the scene a dreamlike or otherworldly atmosphere.",
+        "sentence_cn": "这种独特的色彩给场景带来了一种梦幻或超凡脱俗的氛围。",
+        "words": [
+            "coloration",
+            "scene",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

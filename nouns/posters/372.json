@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image is a DVD cover for the film \"Jeffrey.\"",
+        "sentence_cn": "图片是电影《Jeffrey》的 DVD 封面。",
+        "words": [
+            "Jeffrey.",
+            "DVD",
+            "cover",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"Jeffrey\" is prominently displayed at the top in large, colorful letters, transitioning from red to blue.",
+        "sentence_cn": "标题“Jeffrey”以大而多彩的字母突出显示在顶部，颜色从红色变为蓝色。",
+        "words": [
+            "Jeffrey",
+            "title",
+            "top",
+            "letters",
+            "red",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the names \"Steven Weber,\" \"Patrick Stewart,\" and \"Sigourney Weaver\" are listed, indicating they are featured in the film.",
+        "sentence_cn": "最顶部列出了“史蒂文·韦伯”、“帕特里克·斯图尔特”和“西格妮·韦弗”的名字，表明他们曾在电影中出演。",
+        "words": [
+            "Steven Weber,",
+            "Patrick Stewart,",
+            "Sigourney Weaver",
+            "top",
+            "names",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, two men are pictured.",
+        "sentence_cn": "标题下方是两名男子的画像。",
+        "words": [
+            "title",
+            "two",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One man, dressed formally, looks upwards with his hands raised in an expressive gesture, while another man leans in closer to him, also looking upwards.",
+        "sentence_cn": "一名身着正式服装的男子举起双手，目光向上，做出富有表现力的手势，而另一名男子则倾身靠近他，同样目光向上。",
+        "words": [
+            "One",
+            "man",
+            "hands",
+            "gesture",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the lower part of the cover, there are stylized city skyscrapers in blue and red.",
+        "sentence_cn": "封面下部是蓝色和红色风格化的城市摩天大楼。",
+        "words": [
+            "part",
+            "cover",
+            "city",
+            "skyscrapers",
+            "blue",
+            "red"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A tagline in red text reads, \"Love is an adventure when one of you is sure... and the other is positive.\"",
+        "sentence_cn": "红色标语写道：“当你们其中一人确信，而另一人积极乐观时，爱情就是一场冒险。”",
+        "words": [
+            "Love is an adventure when one of you is sure... and the other is positive.",
+            "tagline",
+            "text",
+            "Love",
+            "adventure",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there are various DVD format symbols and a rating symbol marked \"15.\"",
+        "sentence_cn": "底部有各种 DVD 格式符号和标有“15”的评级符号。",
+        "words": [
+            "15.",
+            "bottom",
+            "DVD",
+            "format",
+            "symbols",
+            "rating",
+            "symbol",
+            "15"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is mostly dark with a reddish hue, adding to the dramatic effect.",
+        "sentence_cn": "背景大部分是深色的，带有淡红色的色调，增强了戏剧效果。",
+        "words": [
+            "background",
+            "hue",
+            "effect"
+        ],
+        "id": null
+    }
+]

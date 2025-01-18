@@ -1,0 +1,68 @@
+[
+    {
+        "sentence": "The image depicts a scenic mountainous landscape with snow-capped peaks dominating the background.",
+        "sentence_cn": "该图描绘了一幅风景如画的山地景观，背景是白雪皑皑的山峰。",
+        "words": [
+            "landscape",
+            "snow",
+            "peaks",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large flock of birds is in flight across the scene, creating a dynamic contrast against the backdrop of rugged mountains.",
+        "sentence_cn": "一大群鸟儿在场景中飞翔，与崎岖的山脉背景形成了鲜明的对比。",
+        "words": [
+            "flock",
+            "birds",
+            "flight",
+            "scene",
+            "contrast",
+            "backdrop",
+            "mountains"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The birds are silhouetted against a predominantly cloudy sky, adding texture and movement to the image.",
+        "sentence_cn": "鸟儿的剪影映衬在多云的天空中，为图像增添了纹理和动感。",
+        "words": [
+            "birds",
+            "sky",
+            "texture",
+            "movement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there's the outline of tree branches on the left side, which add depth to the composition.",
+        "sentence_cn": "在前景中，左侧有树枝的轮廓，为构图增添了深度。",
+        "words": [
+            "foreground",
+            "outline",
+            "tree",
+            "branches",
+            "depth",
+            "composition"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is one of natural beauty and serenity, with a sense of motion from the birds juxtaposed with the immensity and stillness of the mountains.",
+        "sentence_cn": "整体氛围是自然美丽与宁静的，鸟儿的飞翔与群山的浩瀚与静谧形成鲜明对比。",
+        "words": [
+            "atmosphere",
+            "one",
+            "beauty",
+            "serenity",
+            "sense",
+            "motion",
+            "birds",
+            "immensity",
+            "stillness",
+            "mountains"
+        ],
+        "id": null
+    }
+]

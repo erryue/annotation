@@ -1,0 +1,46 @@
+[
+    {
+        "id": "a0c76c84-3229-4379-8fd3-e9e9ab8977fa",
+        "confidence": 0.85936,
+        "class": "potted plant",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.32652,
+                        "minY": 258.32623,
+                        "maxX": 129.84523,
+                        "maxY": 432.91177
+                    },
+                    "x": 0.32652,
+                    "y": 258.32623,
+                    "w": 129.51871,
+                    "h": 174.58553999999998
+                }
+            }
+        }
+    },
+    {
+        "id": "823482e1-7d8a-433a-bdc6-b20cbe663cf0",
+        "confidence": 0.80909,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 268.97482,
+                        "minY": 302.37939,
+                        "maxX": 456.92993,
+                        "maxY": 450.05988
+                    },
+                    "x": 268.97482,
+                    "y": 302.37939,
+                    "w": 187.95511,
+                    "h": 147.68049000000002
+                }
+            }
+        }
+    }
+]

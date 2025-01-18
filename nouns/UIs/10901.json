@@ -1,0 +1,124 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app interface designed for \"Chronic Pain Relief\".",
+        "sentence_cn": "图片是针对“慢性疼痛缓解”设计的手机应用程序界面的截图。",
+        "words": [
+            "Chronic Pain Relief",
+            "app",
+            "interface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a soothing aqua blue with gentle patterns, likely intended to be calming.",
+        "sentence_cn": "背景是舒缓的海蓝色，带有柔和的图案，可能旨在让人平静。",
+        "words": [
+            "background",
+            "aqua",
+            "blue",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The top of the image shows a series of icons, possibly for social media or other app features.",
+        "sentence_cn": "- 图像顶部显示了一系列图标，可能用于社交媒体或其他应用程序功能。",
+        "words": [
+            "top",
+            "series",
+            "icons",
+            "media",
+            "app",
+            "features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the title \"Chronic Pain Relief,\" there is a duration display: \"32:24 + 00:00 Background\".",
+        "sentence_cn": "- 在标题“慢性疼痛缓解”下方，有一个持续时间显示：“32:24 + 00:00 背景”。",
+        "words": [
+            "Chronic Pain Relief,",
+            "32:24 + 00:00 Background",
+            "title",
+            "duration",
+            "display",
+            "32:24",
+            "00:00",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Central to the interface is a large play button surrounded by circular designs, perhaps indicating audio control.",
+        "sentence_cn": "- 界面的中央是一个被圆形设计包围的大型播放按钮，可能表示音频控制。",
+        "words": [
+            "interface",
+            "play",
+            "button",
+            "designs",
+            "control"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sliders for adjusting the volume of \"Voice\" and \"Background\" are present, along with the option labeled \"Hypnotic Booster,\" which is currently set to \"Disabled.\"",
+        "sentence_cn": "- 存在用于调整“语音”和“背景”音量的滑块，以及标有“催眠助推器”的选项，该选项当前设置为“已禁用”。",
+        "words": [
+            "Voice",
+            "Background",
+            "Hypnotic Booster,",
+            "Disabled.",
+            "Sliders",
+            "volume",
+            "Background",
+            "option"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The background setting is noted as \"PURE EMBRACE.\"",
+        "sentence_cn": "- 背景设置标记为“PURE EMBRACE”。",
+        "words": [
+            "PURE EMBRACE.",
+            "background",
+            "PURE",
+            "EMBRACE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- At the bottom, there is a navigation bar with icons for \"Settings,\" \"Interact,\" \"Listen,\" \"Instructions,\" and \"More,\" with \"Listen\" being highlighted.",
+        "sentence_cn": "- 底部有一个导航栏，其中有“设置”、“互动”、“收听”、“说明”和“更多”的图标，其中“收听”被突出显示。",
+        "words": [
+            "Settings,",
+            "Interact,",
+            "Listen,",
+            "Instructions,",
+            "More,",
+            "Listen",
+            "bottom",
+            "navigation",
+            "bar",
+            "icons",
+            "Settings",
+            "Interact",
+            "Instructions",
+            "More",
+            "Listen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the interface seems focused on providing a smooth user experience for managing audio tracks related to pain relief.",
+        "sentence_cn": "总体而言，该界面似乎专注于为管理与缓解疼痛相关的音轨提供流畅的用户体验。",
+        "words": [
+            "interface",
+            "user",
+            "experience",
+            "tracks",
+            "pain",
+            "relief"
+        ],
+        "id": null
+    }
+]

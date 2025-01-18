@@ -1,0 +1,243 @@
+[
+    {
+        "sentence": "The image depicts the interior of a cozy restaurant or dining area.",
+        "sentence_cn": "该图描绘的是一家舒适的餐厅或就餐区的内部。",
+        "words": [
+            "interior",
+            "restaurant",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a warm and welcoming ambiance with earthy tones.",
+        "sentence_cn": "房间以泥土色调营造出温暖、温馨的氛围。",
+        "words": [
+            "room",
+            "ambiance",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here are details of the image:",
+        "sentence_cn": "以下是该图像的详细信息：",
+        "words": [
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Furniture",
+        "sentence_cn": "1. 家具",
+        "words": [
+            "Furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Wooden tables and chairs, mostly in a dark wood finish, are arranged throughout the space.",
+        "sentence_cn": "- 整个空间摆放着木桌椅，大部分为深色木质饰面。",
+        "words": [
+            "tables",
+            "chairs",
+            "wood",
+            "finish",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Some tables have white legs, adding contrast to the room.",
+        "sentence_cn": "- 有些桌子有白色的腿，与房间形成了对比。",
+        "words": [
+            "tables",
+            "legs",
+            "contrast",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Decorations:",
+        "sentence_cn": "2. 装饰：",
+        "words": [
+            "Decorations",
+            "Decorations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A large vase with red flowers and greenery is placed on the central table.",
+        "sentence_cn": "- 中央桌子上放置着一个大花瓶，里面插着红色的花朵和绿色的植物。",
+        "words": [
+            "vase",
+            "flowers",
+            "greenery",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Orange table runners and small decorative pumpkins suggest an autumn or Halloween theme.",
+        "sentence_cn": "- 橙色的桌旗和小装饰南瓜暗示秋天或万圣节的主题。",
+        "words": [
+            "table",
+            "runners",
+            "pumpkins",
+            "autumn",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A variety of wall decorations include an old-style radio, posters, and ornamental scrollwork.",
+        "sentence_cn": "- 各种墙壁装饰包括老式收音机、海报和装饰卷轴。",
+        "words": [
+            "variety",
+            "wall",
+            "decorations",
+            "style",
+            "radio",
+            "posters",
+            "scrollwork"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Strings of lights and cobweb-themed decorations draped over furniture and walls enhance the seasonal theme.",
+        "sentence_cn": "- 家具和墙壁上挂满的灯串和蜘蛛网主题装饰物增强了季节主题。",
+        "words": [
+            "Strings",
+            "lights",
+            "cobweb",
+            "decorations",
+            "furniture",
+            "walls",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lighting",
+        "sentence_cn": "3. 照明",
+        "words": [
+            "Lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Overhead hanging lights have two dome-shaped fixtures providing soft illumination.",
+        "sentence_cn": "- 头顶吊灯有两个圆顶形灯具，提供柔和的照明。",
+        "words": [
+            "Overhead",
+            "lights",
+            "two",
+            "fixtures",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Candles on tables and wall sconces add to the warm lighting.",
+        "sentence_cn": "- 桌子上和壁灯上的蜡烛增添了温暖的灯光。",
+        "words": [
+            "Candles",
+            "tables",
+            "wall",
+            "sconces",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Walls and Curtains:",
+        "sentence_cn": "4. 墙壁和窗帘：",
+        "words": [
+            "Walls and Curtains",
+            "Walls",
+            "Curtains",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Painted in warm colors such as yellow, creating a vibrant yet cozy atmosphere.",
+        "sentence_cn": "- 涂上黄色等暖色调，营造出充满活力而又舒适的氛围。",
+        "words": [
+            "colors",
+            "yellow",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A decorative fabric is draped above a section in the background, and plaid curtains flank the window.",
+        "sentence_cn": "",
+        "words": [
+            "fabric",
+            "section",
+            "background",
+            "curtains",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Plants:",
+        "sentence_cn": "5. 植物：",
+        "words": [
+            "Plants",
+            "Plants"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Various plants and greenery add a natural element, with some placed near the window area.",
+        "sentence_cn": "- 各种植物和绿色植物增添了自然元素，其中一些放置在靠近窗户的区域。",
+        "words": [
+            "plants",
+            "greenery",
+            "element",
+            "window",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setting appears inviting and homey, ideal for casual dining with a touch of season-specific decorations.",
+        "sentence_cn": "总体而言，这里的环境显得温馨舒适，带有一丝季节特色的装饰，非常适合休闲用餐。",
+        "words": [
+            "dining",
+            "touch",
+            "season",
+            "decorations"
+        ],
+        "id": null
+    }
+]

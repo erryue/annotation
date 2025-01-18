@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image shows a wooden table with various items on it.",
+        "sentence_cn": "图中显示的是一张木桌，上面放着各种物品。",
+        "words": [
+            "table",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Book: The book \"The Kite Runner\" by Khaled Hosseini is open, showing its back cover and spine.",
+        "sentence_cn": "1. 书籍：卡勒德·胡赛尼 (Khaled Hosseini) 的《追风筝的人》一书打开，露出了封底和书脊。",
+        "words": [
+            "Book",
+            "The Kite Runner",
+            "Book",
+            "book",
+            "cover",
+            "spine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The book appears to be partially read, as its front cover is partially open.",
+        "sentence_cn": "这本书看起来只是被读了一部分，因为它的封面是部分打开的。",
+        "words": [
+            "book",
+            "cover"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Glass: There is a glass of amber-colored liquid, possibly tea or a soft drink, near the top left corner of the table.",
+        "sentence_cn": "2. 玻璃杯：桌子左上角附近有一杯琥珀色的液体，可能是茶或软饮料。",
+        "words": [
+            "Glass",
+            "Glass",
+            "glass",
+            "amber",
+            "liquid",
+            "tea",
+            "drink",
+            "corner",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Bowl and Spoon: A white bowl with floral designs contains what looks like oatmeal or a similar porridge-like dish.",
+        "sentence_cn": "3. 碗和勺子：一个带有花卉图案的白色碗里装着看起来像燕麦片或类似粥的菜肴。",
+        "words": [
+            "Bowl and Spoon",
+            "Bowl",
+            "Spoon",
+            "bowl",
+            "designs",
+            "oatmeal",
+            "porridge",
+            "dish"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A metal spoon is placed inside the bowl.",
+        "sentence_cn": "碗里面放着一把金属勺子。",
+        "words": [
+            "metal",
+            "spoon",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Ashtray: There is a decorative ashtray filled with several smoked cigarette butts placed upward and towards the center.",
+        "sentence_cn": "4. 烟灰缸：有一个装饰性的烟灰缸，里面装满了几个烟蒂，朝上朝向中心放置。",
+        "words": [
+            "Ashtray",
+            "Ashtray",
+            "ashtray",
+            "cigarette",
+            "butts",
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Packet: A green packet labeled \"INTERNAL\" lays near the ashtray.",
+        "sentence_cn": "5. 包裹：烟灰缸附近有一个标有“内部”的绿色包裹。",
+        "words": [
+            "Packet",
+            "INTERNAL",
+            "Packet",
+            "packet",
+            "ashtray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Eyeglasses: A pair of eyeglasses with black frames is placed on the table near the bowl.",
+        "sentence_cn": "6. 眼镜：一副黑色框架的眼镜放在碗附近的桌子上。",
+        "words": [
+            "Eyeglasses",
+            "Eyeglasses",
+            "pair",
+            "eyeglasses",
+            "frames",
+            "table",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The arrangement suggests a casual or relaxed setting, possibly indicating someone is enjoying a leisurely moment with breakfast or a snack while reading.",
+        "sentence_cn": "这种布置体现了一种随意或放松的环境，可能表明某人正在一边吃早餐或零食一边阅读，享受悠闲的时光。",
+        "words": [
+            "arrangement",
+            "breakfast",
+            "snack"
+        ],
+        "id": null
+    }
+]

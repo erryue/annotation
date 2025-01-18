@@ -1,0 +1,184 @@
+[
+    {
+        "sentence": "The image is an infographic from Women for Women International, highlighting their impact on women survivors of war.",
+        "sentence_cn": "该图是国际妇女互助会的一张信息图，重点展示了她们对战争中幸存的女性的影响。",
+        "words": [
+            "impact",
+            "women",
+            "survivors",
+            "war"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visual theme is branded with the word \"become\" and various icons and images of women.",
+        "sentence_cn": "视觉主题以“成为”一词以及各种女性图标和图像为标志。",
+        "words": [
+            "become",
+            "theme",
+            "word",
+            "become",
+            "icons",
+            "images",
+            "women"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A world map shows locations of their programs.",
+        "sentence_cn": "世界地图显示了他们的项目所在地。",
+        "words": [
+            "world",
+            "map",
+            "locations",
+            "programs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key Programs and Statistics:",
+        "sentence_cn": "主要项目和统计数据：",
+        "words": [
+            "Key Programs and Statistics:",
+            "Programs",
+            "Statistics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Become Businesswomen:",
+        "sentence_cn": "1. 成为女商人：",
+        "words": [
+            "Become Businesswomen:",
+            "Businesswomen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Women¡¯s average daily income increased from $0.68 at enrollment to $1.47 at graduation.",
+        "sentence_cn": "- 女性的平均日收入从入学时的0.68美元增加到毕业时的1.47美元。",
+        "words": [
+            "income",
+            "0.68",
+            "enrollment",
+            "1.47",
+            "graduation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The percentage of women saving a portion of their income tripled from 27% to 83%.",
+        "sentence_cn": "- 将部分收入储蓄起来的女性比例增加了两倍，从 27% 增至 83%。",
+        "words": [
+            "percentage",
+            "women",
+            "portion",
+            "income",
+            "27",
+            "83",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Become Leaders:",
+        "sentence_cn": "2. 成为领导者：",
+        "words": [
+            "Become Leaders:",
+            "Leaders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The number of women with knowledge of their rights almost tripled, from 34% at enrollment to 93% at graduation.",
+        "sentence_cn": "- 了解自身权利的女性数量几乎增加了两倍，从入学时的 34% 增至毕业时的 93%。",
+        "words": [
+            "number",
+            "women",
+            "knowledge",
+            "rights",
+            "34",
+            "enrollment",
+            "93",
+            "%",
+            "graduation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Become Well:",
+        "sentence_cn": "3. 变得健康：",
+        "words": [
+            "Become Well:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The percentage of women with knowledge of nutrition increased from 36% at enrollment to 93% at graduation.",
+        "sentence_cn": "- 具备营养知识的女性比例从入学时的 36% 增加到毕业时的 93%。",
+        "words": [
+            "percentage",
+            "women",
+            "knowledge",
+            "nutrition",
+            "36",
+            "enrollment",
+            "93",
+            "%",
+            "graduation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Become United:",
+        "sentence_cn": "4. 团结起来：",
+        "words": [
+            "Become United:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The percentage of women participating in social networks or groups increased from 23% at enrollment to 61% at graduation.",
+        "sentence_cn": "- 参与社交网络或团体的女性比例从入学时的 23% 增加到毕业时的 61%。",
+        "words": [
+            "percentage",
+            "women",
+            "networks",
+            "groups",
+            "23",
+            "enrollment",
+            "61",
+            "%",
+            "graduation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom mentions that the data represents women who graduated in 2011, except for South Sudan, where data is from early 2012.",
+        "sentence_cn": "底部提到数据代表 2011 年毕业的女性，南苏丹除外，其数据来自 2012 年初。",
+        "words": [
+            "bottom",
+            "data",
+            "women",
+            "2011",
+            "South",
+            "Sudan",
+            "data",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design uses pictograms, percentages, and icons to effectively communicate progress and empowerment.",
+        "sentence_cn": "整体设计使用象形图、百分比和图标来有效地传达进步和授权。",
+        "words": [
+            "design",
+            "pictograms",
+            "percentages",
+            "icons",
+            "progress",
+            "empowerment"
+        ],
+        "id": null
+    }
+]

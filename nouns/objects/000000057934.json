@@ -1,0 +1,57 @@
+[
+    {
+        "sentence": "The image shows a white cup filled with a light brown beverage, likely hot chocolate or coffee with milk.",
+        "sentence_cn": "图像显示，白色杯子里盛满了浅棕色的饮料，可能是热巧克力或牛奶咖啡。",
+        "words": [
+            "cup",
+            "beverage",
+            "chocolate",
+            "coffee",
+            "milk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cup is placed on a matching white saucer.",
+        "sentence_cn": "杯子放在与之相配的白色茶碟上。",
+        "words": [
+            "cup",
+            "saucer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There¡¯s a metal spoon resting inside the cup, with its handle extending outwards.",
+        "sentence_cn": "杯子里面放着一把金属勺子，勺柄向外伸出。",
+        "words": [
+            "metal",
+            "spoon",
+            "cup",
+            "handle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the cup on the saucer are two ripe bananas with some brown spots, indicating ripeness.",
+        "sentence_cn": "杯子旁边的碟子上有两根成熟的香蕉，上面有一些棕色的斑点，表示已经成熟。",
+        "words": [
+            "cup",
+            "saucer",
+            "two",
+            "bananas",
+            "spots",
+            "ripeness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a blue checkered tablecloth that adds a colorful and casual touch to the setting.",
+        "sentence_cn": "背景采用蓝色格子桌布，为环境增添了丰富多彩和休闲的感觉。",
+        "words": [
+            "background",
+            "tablecloth",
+            "touch"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image shows two teddy bears tucked into a bed.",
+        "sentence_cn": "图中是两只泰迪熊躺在床上。",
+        "words": [
+            "two",
+            "teddy",
+            "bears",
+            "bed"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The larger teddy bear on the left is cream-colored, while the smaller bear on the right is a light brown color.",
+        "sentence_cn": "左边较大的泰迪熊是奶油色的，而右边较小的泰迪熊是浅棕色的。",
+        "words": [
+            "teddy",
+            "bear",
+            "left",
+            "cream",
+            "bear",
+            "right",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are nestled together under a polka-dotted duvet, which has a white background with small red dots.",
+        "sentence_cn": "他们依偎在带有圆点图案的羽绒被下，被子的背景是白色，上面有一些红点。",
+        "words": [
+            "polka",
+            "duvet",
+            "background",
+            "dots"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bed has blue sheets and pillows, providing a cozy setting.",
+        "sentence_cn": "床上配有蓝色的床单和枕头，营造出舒适的环境。",
+        "words": [
+            "bed",
+            "sheets",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the bed, there is a colorful painting or print with abstract designs in yellow, orange, and some red, which adds a bright touch to the light-blue wall.",
+        "sentence_cn": "床上方有一幅色彩鲜艳的画作或版画，上面有黄色、橙色和一些红色的抽象图案，为浅蓝色的墙壁增添了一抹亮色。",
+        "words": [
+            "bed",
+            "painting",
+            "print",
+            "designs",
+            "yellow",
+            "orange",
+            "red",
+            "touch",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, part of a painted mural or wall decoration is partially visible, featuring cloud-like shapes with a light and dark green detail.",
+        "sentence_cn": "在右侧，可以看到部分彩绘壁画或墙壁装饰，其特点是云状形状，带有浅绿色和深绿色的细节。",
+        "words": [
+            "right",
+            "part",
+            "mural",
+            "wall",
+            "decoration",
+            "cloud",
+            "shapes",
+            "detail"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room appears warm and child-friendly, conveying a comforting and playful atmosphere.",
+        "sentence_cn": "房间显得温暖且适合儿童，传达出一种舒适和有趣的氛围。",
+        "words": [
+            "room",
+            "child",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

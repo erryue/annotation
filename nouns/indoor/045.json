@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image depicts a charming bedroom with a whimsical carousel theme.",
+        "sentence_cn": "图像描绘的是一间带有异想天开的旋转木马主题的迷人卧室。",
+        "words": [
+            "bedroom",
+            "carousel",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room features a bed with a vintage-style iron frame adorned with patterned bedding in soft, pastel colors.",
+        "sentence_cn": "客房内设有一张复古风格的铁架床，床上铺有柔和色调的图案床上用品。",
+        "words": [
+            "room",
+            "bed",
+            "style",
+            "iron",
+            "frame",
+            "bedding",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bed is surrounded by carousel horse figures, adding a playful and unique touch to the decor.",
+        "sentence_cn": "床的周围环绕着旋转木马图案，为装饰增添了俏皮而独特的感觉。",
+        "words": [
+            "bed",
+            "carousel",
+            "horse",
+            "figures",
+            "touch",
+            "decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted a light shade, complementing the bright and airy atmosphere created by the large windows.",
+        "sentence_cn": "墙壁漆成浅色，与大窗户营造的明亮通风的氛围相得益彰。",
+        "words": [
+            "walls",
+            "shade",
+            "atmosphere",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The windows are treated with valances that have a castle-like crenelation design.",
+        "sentence_cn": "窗户配有帷幔，具有城堡般的城垛设计。",
+        "words": [
+            "windows",
+            "valances",
+            "castle",
+            "crenelation",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a festive wreath on one wall, adding a touch of greenery.",
+        "sentence_cn": "一面墙上还有节日花环，增添了一丝绿意。",
+        "words": [
+            "wreath",
+            "one",
+            "wall",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small nightstand beside the bed supports a lamp with a clear glass base and a potted plant, contributing to the room¡¯s cozy and inviting feel.",
+        "sentence_cn": "床边的小床头柜上放着一盏带透明玻璃底座的灯和一盆盆栽，给房间增添了舒适温馨的感觉。",
+        "words": [
+            "nightstand",
+            "bed",
+            "lamp",
+            "glass",
+            "base",
+            "plant",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A wooden dresser with a mirrored top is visible, providing additional storage space and functionality.",
+        "sentence_cn": "可以看到带有镜面顶部的木制梳妆台，提供了额外的存储空间和功能。",
+        "words": [
+            "dresser",
+            "top",
+            "storage",
+            "space",
+            "functionality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall ambiance of the room is both nostalgic and magical, creating an ideal space for someone with a love for imaginative and thematic decor.",
+        "sentence_cn": "房间的整体氛围既怀旧又神奇，为热爱富有想象力和主题性装饰的人创造了一个理想的空间。",
+        "words": [
+            "ambiance",
+            "room",
+            "space",
+            "love",
+            "decor"
+        ],
+        "id": null
+    }
+]

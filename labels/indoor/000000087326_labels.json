@@ -1,0 +1,24 @@
+[
+    {
+        "id": "8fc9e24a-0d3f-4fbf-b6e8-a2cd0f7a4782",
+        "confidence": 0.88068,
+        "class": "couch",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1.22044,
+                        "minY": 178.29622,
+                        "maxX": 562.20892,
+                        "maxY": 433.9552
+                    },
+                    "x": 1.22044,
+                    "y": 178.29622,
+                    "w": 560.98848,
+                    "h": 255.65897999999999
+                }
+            }
+        }
+    }
+]

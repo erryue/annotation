@@ -1,0 +1,72 @@
+[
+    {
+        "sentence": "The image shows a hospital setting where an older man is sitting in a bed, wearing a light blue hospital gown.",
+        "sentence_cn": "照片显示的是医院场景，一名老年男子坐在病床上，身穿浅蓝色病号服。",
+        "words": [
+            "hospital",
+            "man",
+            "bed",
+            "hospital",
+            "gown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He has a hospital wristband on his left wrist and appears to be examining a large object, possibly related to his treatment or therapy.",
+        "sentence_cn": "他的左手腕上戴着医院腕带，似乎正在检查一个大物体，可能与他的治疗或疗法有关。",
+        "words": [
+            "hospital",
+            "wristband",
+            "wrist",
+            "object",
+            "treatment",
+            "therapy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside him, sitting in a chair, is a woman with light brown hair wearing a dark cardigan, observing him with a smile.",
+        "sentence_cn": "他身边的椅子上坐着一位浅棕色头发、身穿深色羊毛衫的女子，正微笑着观察着他。",
+        "words": [
+            "chair",
+            "woman",
+            "hair",
+            "cardigan",
+            "smile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She appears to be guiding or assisting him with the object, as there is a large plastic box on her lap containing similar items.",
+        "sentence_cn": "她似乎正在引导或帮助他拿着这个物品，因为她的腿上放着一个大塑料盒，里面装有类似的物品。",
+        "words": [
+            "object",
+            "plastic",
+            "box",
+            "lap",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Medical equipment, such as oxygen tubes and a small canister, are seen in the background.",
+        "sentence_cn": "背景中可以看到氧气管和小罐等医疗设备。",
+        "words": [
+            "equipment",
+            "oxygen",
+            "tubes",
+            "canister",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere seems focused yet calm, suggesting a therapeutic or educational interaction.",
+        "sentence_cn": "气氛似乎专注而又平静，暗示着一种治疗或教育互动。",
+        "words": [
+            "atmosphere",
+            "interaction"
+        ],
+        "id": null
+    }
+]

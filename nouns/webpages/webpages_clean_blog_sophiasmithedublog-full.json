@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image is a screenshot of a blog page from \"Smith College Blogs\" under the Information Technology Services section.",
+        "sentence_cn": "该图片是“史密斯学院博客”信息技术服务栏目下博客页面的截图。",
+        "words": [
+            "Smith College Blogs",
+            "blog",
+            "page",
+            "section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout is clean and professional.",
+        "sentence_cn": "布局简洁、专业。",
+        "words": [
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a header with the blog's name and a search bar.",
+        "sentence_cn": "顶部有一个包含博客名称的标题和一个搜索栏。",
+        "words": [
+            "top",
+            "header",
+            "blog",
+            "name",
+            "search",
+            "bar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A main feature of the page is a large image of a pine cone resting on a textured, likely granite, surface with a blurred natural background.",
+        "sentence_cn": "该页面的主要特征是一张巨大的松果图像，该图像放置在带有纹理的花岗岩表面上，背景为模糊的自然纹理。",
+        "words": [
+            "feature",
+            "page",
+            "pine",
+            "cone",
+            "granite",
+            "surface",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image, there is a navigation bar including links to \"Home,\" \"Blog Portal,\" \"F.A.Q.,\" \"How To,\" \"News & Updates,\" and \"Blog Directory.\"",
+        "sentence_cn": "图像下方有一个导航栏，其中包括“主页”、“博客门户”、“常见问题”、“如何操作”、“新闻和更新”和“博客目录”的链接。",
+        "words": [
+            "Home,",
+            "Blog Portal,",
+            "F.A.Q.,",
+            "How To,",
+            "News & Updates,",
+            "Blog Directory.",
+            "navigation",
+            "bar",
+            "links",
+            "Blog",
+            "F.A.Q.",
+            "Blog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content section showcases a blog post titled \"Smith WordPress now at 3.9.2,\" posted by \"kwilliarty\" on August 8, 2014.",
+        "sentence_cn": "主要内容部分展示了一篇博客文章，标题为“Smith WordPress 现已更新至 3.9.2”，由“kwilliarty”于 2014 年 8 月 8 日发布。",
+        "words": [
+            "Smith WordPress now at 3.9.2,",
+            "kwilliarty",
+            "content",
+            "section",
+            "blog",
+            "post",
+            "WordPress",
+            "3.9.2",
+            "8",
+            "2014"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The post mentions recent upgrades, testing in a development environment, and encourages readers to report any issues.",
+        "sentence_cn": "该帖子提到了最近的升级、在开发环境中的测试，并鼓励读者报告任何问题。",
+        "words": [
+            "post",
+            "upgrades",
+            "development",
+            "environment",
+            "readers",
+            "issues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's categorized under \"Blog Info\" and tagged with \"upgrade.\"",
+        "sentence_cn": "它被归类为“博客信息”并带有“升级”标签。",
+        "words": [
+            "Blog Info",
+            "upgrade.",
+            "Blog",
+            "Info",
+            "upgrade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there is a sidebar with sections for login links, other ITS blogs (\"Mac User,\" \"TechNotes,\" \"WinBlog\"), and recently updated blogs titled \"Frontiers in Biomath.\"",
+        "sentence_cn": "在右侧，有一个侧边栏，其中包含登录链接、其他 ITS 博客（“Mac 用户”、“TechNotes”、“WinBlog”）以及最近更新的博客“生物数学前沿”的部分。",
+        "words": [
+            "Mac User,",
+            "TechNotes,",
+            "WinBlog",
+            "Frontiers in Biomath.",
+            "sidebar",
+            "sections",
+            "login",
+            "links",
+            "blogs",
+            "blogs"
+        ],
+        "id": null
+    }
+]

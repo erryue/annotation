@@ -1,0 +1,513 @@
+[
+    {
+        "sentence": "The infographic titled \"WordPress Goes Mobile\" compares two mobile plugins: WPtouch Pro and Mobile Chief.",
+        "sentence_cn": "题为“WordPress 走向移动”的信息图比较了两个移动插件：WPtouch Pro 和 Mobile Chief。",
+        "words": [
+            "WordPress Goes Mobile",
+            "Mobile",
+            "two",
+            "plugins"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Authors:",
+        "sentence_cn": "### 作者：",
+        "words": [
+            "Authors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- WPtouch Pro: Created by BraveNewCode",
+        "sentence_cn": "- WPtouch Pro：由 BraveNewCode 创建",
+        "words": [
+            "WPtouch Pro"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mobile Chief: Created by Plugin Chief",
+        "sentence_cn": "- Mobile Chief：由 Plugin Chief 创建",
+        "words": [
+            "Mobile Chief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Features:",
+        "sentence_cn": "### 主要特点：",
+        "words": [
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- WPtouch Pro",
+        "sentence_cn": "-WPtouch Pro",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Mobilizes existing website content.",
+        "sentence_cn": "- 调动现有的网站内容。",
+        "words": [
+            "website",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Focuses on styling existing content for mobile use.",
+        "sentence_cn": "- 专注于为移动使用设计现有内容的样式。",
+        "words": [
+            "Focuses",
+            "content",
+            "use"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mobile Chief:",
+        "sentence_cn": "- 移动主管：",
+        "words": [
+            "Mobile Chief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Offers a drag-and-drop feature for creating content.",
+        "sentence_cn": "- 提供用于创建内容的拖放功能。",
+        "words": [
+            "feature",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Allows customized content building.",
+        "sentence_cn": "- 允许定制内容构建。",
+        "words": [
+            "content",
+            "building"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Support:",
+        "sentence_cn": "＃＃＃ 支持：",
+        "words": [
+            "Support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- WPtouch Pro",
+        "sentence_cn": "-WPtouch Pro",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - No free support.",
+        "sentence_cn": "- 没有免费支持。",
+        "words": [
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Support is accessible via the forum for paid versions.",
+        "sentence_cn": "付费版本可通过论坛获得支持。",
+        "words": [
+            "Support",
+            "forum",
+            "versions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mobile Chief:",
+        "sentence_cn": "- 移动主管：",
+        "words": [
+            "Mobile Chief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Free support is available to all users via the forum.",
+        "sentence_cn": "- 通过论坛向所有用户提供免费支持。",
+        "words": [
+            "support",
+            "users",
+            "forum"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Cost/Packages:",
+        "sentence_cn": "### 费用/套餐：",
+        "words": [
+            "Cost",
+            "Packages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- WPtouch Pro",
+        "sentence_cn": "-WPtouch Pro",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Free basic version available.",
+        "sentence_cn": "- 提供免费基本版本。",
+        "words": [
+            "version"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Paid packages:",
+        "sentence_cn": "- 付费套餐：",
+        "words": [
+            "packages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - $49 for a single site without support.",
+        "sentence_cn": "- 单个站点售价 49 美元（不含支持）。",
+        "words": [
+            "49",
+            "site",
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - $99 for up to 5 sites without support.",
+        "sentence_cn": "- 最多 5 个站点，收费 99 美元（无支持）。",
+        "words": [
+            "99",
+            "5",
+            "sites",
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - $199 for unlimited sites with full features and support.",
+        "sentence_cn": "- 售价 199 美元，可享受无限数量的网站以及全部功能和支持。",
+        "words": [
+            "199",
+            "sites",
+            "features",
+            "support"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Mobile Chief:",
+        "sentence_cn": "- 移动主管：",
+        "words": [
+            "Mobile Chief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Free basic version available.",
+        "sentence_cn": "- 提供免费基本版本。",
+        "words": [
+            "version"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Add-ons and themes cost $10-$25 each.",
+        "sentence_cn": "- 每个附加组件和主题的价格为 10 至 25 美元。",
+        "words": [
+            "Add",
+            "ons",
+            "themes",
+            "10-$25"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Unlimited sites with all add-ons and themes for $125.",
+        "sentence_cn": "- 无限网站，包含所有附加组件和主题，价格为 125 美元。",
+        "words": [
+            "sites",
+            "add",
+            "-",
+            "ons",
+            "themes",
+            "125"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Features vs. Add-ons:",
+        "sentence_cn": "### 功能与附加组件：",
+        "words": [
+            "Features",
+            "Add",
+            "-",
+            "ons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- WPtouch Pro",
+        "sentence_cn": "-WPtouch Pro",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Features included based on package selection.",
+        "sentence_cn": "- 根据包选择包含的功能。",
+        "words": [
+            "Features",
+            "package",
+            "selection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mobile Chief:",
+        "sentence_cn": "- 移动主管：",
+        "words": [
+            "Mobile Chief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Offers individual add-ons, with the option to get them all with membership.",
+        "sentence_cn": "- 提供单独的附加组件，会员可选择获取所有附加组件。",
+        "words": [
+            "add",
+            "ons",
+            "option",
+            "membership"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Common Features:",
+        "sentence_cn": "### 共同特点：",
+        "words": [
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Both plugins enable the creation of web apps compatible with Apple and Android.",
+        "sentence_cn": "- 这两个插件都可以创建与 Apple 和 Android 兼容的网络应用程序。",
+        "words": [
+            "plugins",
+            "creation",
+            "web",
+            "apps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Support for integrating social media links (Facebook, Twitter).",
+        "sentence_cn": "- 支持整合社交媒体链接（Facebook、Twitter）。",
+        "words": [
+            "Support",
+            "media",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ability to add mobile ads.",
+        "sentence_cn": "- 能够添加移动广告。",
+        "words": [
+            "Ability",
+            "ads"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Unique Features:",
+        "sentence_cn": "### 独特功能：",
+        "words": [
+            "Features"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- WPtouch Pro",
+        "sentence_cn": "-WPtouch Pro",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Screenshots display how it adapts current site content for mobile.",
+        "sentence_cn": "- 屏幕截图显示它如何使当前网站内容适应移动设备。",
+        "words": [
+            "Screenshots",
+            "site",
+            "content",
+            "mobile"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Mobile Chief:",
+        "sentence_cn": "- 移动主管：",
+        "words": [
+            "Mobile Chief"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Provides a mobile builder on the front end with a payment gateway.",
+        "sentence_cn": "- 为前端的移动构建器提供支付网关。",
+        "words": [
+            "builder",
+            "end",
+            "payment",
+            "gateway"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - In-depth analytics via the Mobile Chief Stats Add-On, including visitor stats, table-based reports, and graph-based reports.",
+        "sentence_cn": "- 通过 Mobile Chief Stats Add-On 进行深入分析，包括访客统计、基于表格的报告和基于图表的报告。",
+        "words": [
+            "depth",
+            "analytics",
+            "visitor",
+            "stats",
+            "table",
+            "reports",
+            "graph",
+            "reports"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Additional Information:",
+        "sentence_cn": "＃＃＃ 附加信息：",
+        "words": [
+            "Information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The infographic is created by infolicious.co, and respective website links are provided for further details:",
+        "sentence_cn": "- 该信息图由 infolicious.co 创建，并提供了相应的网站链接以获取更多详细信息：",
+        "words": [
+            "website",
+            "links",
+            "details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - BraveNewCode: http://BraveNewCode.com",
+        "sentence_cn": "-BraveNewCode：http://BraveNewCode.com",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - Plugin Chief: http://PluginChief.com",
+        "sentence_cn": "- 插件主管：http://PluginChief.com",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "This infographic provides a side-by-side comparison to help WordPress users choose between the two mobile optimization plugins based on features, support, pricing, and customization options.",
+        "sentence_cn": "此信息图提供了并排比较，以帮助 WordPress 用户根据功能、支持、定价和自定义选项在两个移动优化插件之间进行选择。",
+        "words": [
+            "side",
+            "comparison",
+            "users",
+            "two",
+            "mobile",
+            "optimization",
+            "plugins",
+            "features",
+            "support",
+            "pricing",
+            "customization",
+            "options"
+        ],
+        "id": null
+    }
+]

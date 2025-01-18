@@ -1,0 +1,59 @@
+[
+    {
+        "sentence": "The image features a stainless steel vase with a smooth, reflective surface and a modern, rounded shape.",
+        "sentence_cn": "图片中的花瓶为不锈钢花瓶，表面光滑、反光，造型圆润、富有现代感。",
+        "words": [
+            "steel",
+            "vase",
+            "surface",
+            "shape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is placed on a stone or granite countertop with a speckled gray and black texture.",
+        "sentence_cn": "它被放置在带有斑点灰色和黑色纹理的石头或花岗岩台面上。",
+        "words": [
+            "stone",
+            "granite",
+            "countertop",
+            "texture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the vase, there are two red tomatoes, each with a bright, smooth skin.",
+        "sentence_cn": "花瓶左边有两个红色的西红柿，每个都有明亮光滑的表皮。",
+        "words": [
+            "vase",
+            "two",
+            "tomatoes",
+            "skin"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, a bunch of ripe yellow bananas is positioned, with slight spotting indicative of ripeness.",
+        "sentence_cn": "右侧放置着一串成熟的黄色香蕉，上面有轻微的斑点，表明香蕉已经成熟。",
+        "words": [
+            "bunch",
+            "bananas",
+            "spotting",
+            "ripeness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall composition contrasts the sleek metallic texture of the vase with the natural textures and colors of the fruits.",
+        "sentence_cn": "整体构图将花瓶的光滑金属质感与水果的自然纹理和颜色形成对比。",
+        "words": [
+            "composition",
+            "texture",
+            "vase",
+            "textures",
+            "colors",
+            "fruits"
+        ],
+        "id": null
+    }
+]

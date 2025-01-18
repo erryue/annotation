@@ -1,0 +1,75 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Sudden Death\" featuring bold red and white text stating \"Terror Goes Into Over-Time\" and \"Sudden Death.\"",
+        "sentence_cn": "图片是《突然死亡》的电影海报，以红白粗体文字写着“恐怖进入加时赛”和“突然死亡”。",
+        "words": [
+            "Sudden Death",
+            "Terror Goes Into Over-Time",
+            "Sudden Death.",
+            "movie",
+            "poster",
+            "text",
+            "Terror"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the text, there is a large image of a man's face, partially in shadow, with an intense expression.",
+        "sentence_cn": "文字上方是一张男人脸的大图像，部分处于阴影中，表情紧张。",
+        "words": [
+            "text",
+            "man",
+            "face",
+            "shadow",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there is an action scene showing a helicopter exploding over a large domed stadium.",
+        "sentence_cn": "下面是一个动作场景，一架直升机在一个巨大的圆顶体育场上空爆炸。",
+        "words": [
+            "action",
+            "scene",
+            "helicopter",
+            "stadium"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom of the poster lists the names of the cast and crew in smaller text.",
+        "sentence_cn": "海报底部以较小的文字列出了演员和剧组的姓名。",
+        "words": [
+            "bottom",
+            "poster",
+            "names",
+            "cast",
+            "crew",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film has a rating of \"R\" and is produced by Universal Pictures.",
+        "sentence_cn": "该电影评级为“R”，由环球影业出品。",
+        "words": [
+            "R",
+            "film",
+            "rating",
+            "R"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The style is typical of action movie posters, suggesting an intense and explosive storyline.",
+        "sentence_cn": "该风格是典型的动作电影海报，暗示着紧张而爆炸性的故事情节。",
+        "words": [
+            "style",
+            "action",
+            "movie",
+            "posters",
+            "storyline"
+        ],
+        "id": null
+    }
+]

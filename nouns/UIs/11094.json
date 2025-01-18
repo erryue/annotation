@@ -1,0 +1,147 @@
+[
+    {
+        "sentence": "The image is a screenshot of a mobile app interface focused on locating nearby takeaways.",
+        "sentence_cn": "图像是一个专注于定位附近外卖店的移动应用程序界面的屏幕截图。",
+        "words": [
+            "app",
+            "interface",
+            "takeaways"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background Color: Predominantly red.",
+        "sentence_cn": "- 背景颜色：以红色为主。",
+        "words": [
+            "Background Color",
+            "Background",
+            "Color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Text:",
+        "sentence_cn": "- 文本：",
+        "words": [
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The top headline reads, \"Want to see the best takeaways in your area?\" in bold white letters.",
+        "sentence_cn": "- 顶部标题用粗体白色字母写着“想看看你所在地区最好的外卖店吗？”。",
+        "words": [
+            "Want to see the best takeaways in your area?",
+            "headline",
+            "takeaways",
+            "area",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Below a map, there's another message: \"We need your location to find nearby takeaways,\" also in white letters.",
+        "sentence_cn": "- 地图下方还有另一条消息：“我们需要您的位置来查找附近的外卖店”，也是用白色字母写的。",
+        "words": [
+            "We need your location to find nearby takeaways,",
+            "map",
+            "message",
+            "location",
+            "takeaways",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Map: Positioned in the center, circular in shape, showing part of an area with a blue dot indicating the user's current location.",
+        "sentence_cn": "- 地图：位于中心，圆形，显示部分区域，蓝点表示用户当前位置。",
+        "words": [
+            "Map",
+            "Map",
+            "center",
+            "shape",
+            "part",
+            "area",
+            "dot",
+            "user",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Multiple red pins with white icons represent takeaway locations.",
+        "sentence_cn": "带有白色图标的多个红色图钉代表外卖位置。",
+        "words": [
+            "pins",
+            "icons",
+            "takeaway",
+            "locations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Buttons",
+        "sentence_cn": "-按钮",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "  - A prominent yellow button in the center bottom reads \"LOCATE ME!\" in black text, prompting the user to share their location.",
+        "sentence_cn": "- 底部中央有一个显眼的黄色按钮，上面用黑色文字写着“找到我！”，提示用户分享他们的位置。",
+        "words": [
+            "LOCATE ME!",
+            "button",
+            "bottom",
+            "text",
+            "user",
+            "location"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Below it, there's a smaller white text option: \"No, thanks.\"",
+        "sentence_cn": "- 下面有一个较小的白色文字选项：“不，谢谢。”",
+        "words": [
+            "No, thanks.",
+            "text",
+            "option",
+            "thanks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Bar: Shows icons for notifications, settings, and other app functionalities, along with the time \"12:26\".",
+        "sentence_cn": "- 顶部栏：显示通知、设置和其他应用程序功能的图标，以及时间“12:26”。",
+        "words": [
+            "Top Bar",
+            "12:26",
+            "Bar",
+            "icons",
+            "notifications",
+            "settings",
+            "app",
+            "functionalities",
+            "time",
+            "12:26"
+        ],
+        "id": null
+    }
+]

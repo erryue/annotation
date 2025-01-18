@@ -1,0 +1,85 @@
+[
+    {
+        "sentence": "The image depicts a group of people standing on a train platform.",
+        "sentence_cn": "图像描绘了一群人站在火车站台上。",
+        "words": [
+            "group",
+            "people",
+            "train",
+            "platform"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The individuals are predominantly focused on their mobile phones and appear to be waiting for a train.",
+        "sentence_cn": "这些人主要专注于他们的手机，似乎在等火车。",
+        "words": [
+            "individuals",
+            "phones",
+            "train"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a mix of men and women, with women mostly in the foreground.",
+        "sentence_cn": "男女有别，女性大多位于前景。",
+        "words": [
+            "mix",
+            "men",
+            "women",
+            "women",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In terms of attire, they are dressed in casual clothing.",
+        "sentence_cn": "就服装而言，他们均穿着休闲服装。",
+        "words": [
+            "terms",
+            "attire",
+            "clothing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The platform has yellow tactile paving near the edge, a safety feature common in train stations to prevent accidents.",
+        "sentence_cn": "站台边缘附近铺有黄色触觉路面，这是火车站常见的安全设施，可防止发生事故。",
+        "words": [
+            "platform",
+            "paving",
+            "edge",
+            "safety",
+            "feature",
+            "train",
+            "stations",
+            "accidents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overhead is a roof structure with lights, and in the background, there are signs and some visible buildings, hinting at an urban setting.",
+        "sentence_cn": "头顶上是带灯的屋顶结构，背景中有标志和一些可见的建筑物，暗示着城市环境。",
+        "words": [
+            "Overhead",
+            "roof",
+            "structure",
+            "lights",
+            "background",
+            "signs",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky has a blue hue, suggesting it might be either early morning or evening.",
+        "sentence_cn": "天空呈现蓝色，这表明现在可能是清晨或者傍晚。",
+        "words": [
+            "sky",
+            "hue",
+            "morning",
+            "evening"
+        ],
+        "id": null
+    }
+]

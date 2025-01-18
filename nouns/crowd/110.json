@@ -1,93 +1,93 @@
 [
     {
-        "sentence": "The image shows a group of children and two adults sitting on a grassy area, possibly in a park.",
-        "sentence_cn": "照片显示一群孩子和两个成年人坐在草地上，可能是在公园里。",
+        "sentence": "The image shows a group of people, likely a mix of adults and children, sitting in a circle on a grassy area under a tree.",
+        "sentence_cn": "照片中，一群人，可能是成人和儿童，围坐在一棵树下的草地上。",
         "words": [
             "group",
+            "people",
+            "mix",
+            "adults",
             "children",
+            "circle",
+            "area",
+            "tree"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be engaged in a casual outdoor activity or lesson.",
+        "sentence_cn": "他们似乎正在进行一项随意的户外活动或课程。",
+        "words": [
+            "activity",
+            "lesson"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two adults among the group, interacting with the children.",
+        "sentence_cn": "该团体中有两名成人与孩子们互动。",
+        "words": [
             "two",
             "adults",
-            "area",
-            "park"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The people are seated in a circle, suggesting a group activity or story time.",
-        "sentence_cn": "人们围坐成一圈，这表明正在进行集体活动或讲故事。",
-        "words": [
-            "people",
-            "circle",
             "group",
-            "activity",
-            "story",
-            "time"
+            "children"
         ],
         "id": null
     },
     {
-        "sentence": "One of the adults, wearing a pink striped shirt, appears to be engaging with the children, possibly leading the activity.",
-        "sentence_cn": "其中一位身穿粉色条纹衬衫的成年人似乎正在与孩子们互动，可能在主导这项活动。",
+        "sentence": "One is wearing a red and white striped shirt, and the other is holding a small child.",
+        "sentence_cn": "一人身穿红白条纹衬衫，另一人抱着一个小孩。",
         "words": [
             "One",
-            "adults",
             "shirt",
-            "children",
-            "activity"
+            "child"
         ],
         "id": null
     },
     {
-        "sentence": "The other adult, in a blue shirt, is holding a young child on their lap.",
-        "sentence_cn": "另一名身穿蓝色衬衫的成年人正把一名小孩抱在腿上。",
-        "words": [
-            "adult",
-            "shirt",
-            "child",
-            "lap"
-        ],
-        "id": null
-    },
-    {
-        "sentence": "The children are dressed casually, with two wearing caps, and appear to be listening attentively.",
-        "sentence_cn": "孩子们穿着随意，其中两人戴着帽子，看上去正在专心听讲。",
+        "sentence": "The children, who vary in age, are seated on the grass.",
+        "sentence_cn": "孩子们年龄各异，坐在草地上。",
         "words": [
             "children",
-            "two",
-            "caps"
+            "age",
+            "grass"
         ],
         "id": null
     },
     {
-        "sentence": "The surrounding area features trees, a bench, and a paved path.",
-        "sentence_cn": "周围区域有树木、长椅和铺好的小路。",
+        "sentence": "They are dressed in casual clothing, with varying colors like green, orange, pink, and blue.",
+        "sentence_cn": "他们穿着休闲服装，颜色各异，有绿色、橙色、粉色和蓝色。",
         "words": [
-            "area",
-            "trees",
-            "bench",
-            "path"
+            "clothing",
+            "colors",
+            "green",
+            "orange",
+            "pink",
+            "blue"
         ],
         "id": null
     },
     {
-        "sentence": "In the background, there are various buildings, a road with parked cars, and a large planter with flowers, indicating an urban park setting.",
-        "sentence_cn": "背景中有各种建筑物、停放着汽车的道路以及种满鲜花的大型花盆，表明这里是一个城市公园。",
+        "sentence": "In the background, there is a bench, a large flower pot with red flowers, and a road with cars and a building.",
+        "sentence_cn": "背景中有一张长椅、一个种着红花的大花盆、一条停着汽车的道路和一栋建筑物。",
         "words": [
             "background",
-            "buildings",
+            "bench",
+            "flower",
+            "pot",
+            "flowers",
             "road",
             "cars",
-            "planter",
-            "flowers",
-            "park"
+            "building"
         ],
         "id": null
     },
     {
-        "sentence": "The atmosphere is relaxed and sunny, suggesting an outdoor educational or recreational setting.",
-        "sentence_cn": "气氛轻松而阳光，适合户外教育或娱乐环境。",
+        "sentence": "The day appears sunny and clear, ideal for outdoor activities.",
+        "sentence_cn": "天气晴朗，适合户外活动。",
         "words": [
-            "atmosphere"
+            "day",
+            "activities"
         ],
         "id": null
     }

@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image is a screenshot from a mobile app, displaying a section labeled \"SMS\" with options like \"Hinglish,\" \"Jokes,\" and \"Videos.\"",
+        "sentence_cn": "该图片是一个移动应用程序的截图，显示了一个标有“SMS”的部分，其中包含“印地语英语”、“笑话”和“视频”等选项。",
+        "words": [
+            "SMS",
+            "Hinglish,",
+            "Jokes,",
+            "Videos.",
+            "app",
+            "section",
+            "options",
+            "Hinglish",
+            "Jokes",
+            "Videos"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a funny chemistry-related joke on a light blue background, accompanied by an illustration of laboratory glassware like flasks and beakers inside a yellow diamond shape labeled \"CHEMISTRY ZONE.\"",
+        "sentence_cn": "浅蓝色背景上有一个有趣的化学相关笑话，旁边是黄色菱形内实验室玻璃器皿的插图，如烧瓶和烧杯，上面标有“化学区”。",
+        "words": [
+            "CHEMISTRY ZONE.",
+            "chemistry",
+            "joke",
+            "background",
+            "illustration",
+            "laboratory",
+            "glassware",
+            "flasks",
+            "beakers",
+            "diamond",
+            "shape",
+            "CHEMISTRY",
+            "ZONE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The joke reads:",
+        "sentence_cn": "笑话是这样说的：",
+        "words": [
+            "joke"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"A chemistry lab is like a big party.",
+        "sentence_cn": "“化学实验室就像一个大型派对。",
+        "words": [
+            "chemistry",
+            "lab",
+            "party"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some drop the acid while others drop the base!\"",
+        "sentence_cn": "有的会掉酸，有的会掉碱！”",
+        "words": [
+            "acid",
+            "others",
+            "base"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, there¡¯s a section titled \"Health, Dieting and Exercise\" with a partly visible cartoon figure and text starting with \"My favorite exercise is\" followed by an ad for Google Play.",
+        "sentence_cn": "在其下方，有一个名为“健康、节食和锻炼”的部分，其中有一个部分可见的卡通人物和以“我最喜欢的运动是”开头的文字，后面是 Google Play 的广告。",
+        "words": [
+            "Health, Dieting and Exercise",
+            "My favorite exercise is",
+            "section",
+            "Health",
+            "Exercise",
+            "cartoon",
+            "figure",
+            "text",
+            "exercise",
+            "ad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the screen shows various app icons and the time as 8:20.",
+        "sentence_cn": "屏幕顶部显示各种应用程序图标和时间8:20。",
+        "words": [
+            "top",
+            "screen",
+            "app",
+            "icons",
+            "time",
+            "8:20"
+        ],
+        "id": null
+    }
+]

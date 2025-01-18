@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image depicts a bustling urban scene in a city with tall skyscrapers under a clear blue sky with scattered clouds.",
+        "sentence_cn": "图片描绘的是蓝天白云下，摩天大楼林立的城市繁华景象。",
+        "words": [
+            "scene",
+            "city",
+            "skyscrapers",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a busy street has several cars, including yellow taxis and red vehicles, traveling in both directions.",
+        "sentence_cn": "前景中，一条繁忙的街道上有几辆汽车，包括黄色出租车和红色车辆，双向行驶。",
+        "words": [
+            "foreground",
+            "street",
+            "cars",
+            "taxis",
+            "vehicles",
+            "directions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The traffic seems to be moving at a moderate pace.",
+        "sentence_cn": "交通似乎正在以中等速度移动。",
+        "words": [
+            "traffic",
+            "pace"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the street, there are notable architectural buildings, featuring both classic and modern designs.",
+        "sentence_cn": "街道周围有许多著名的建筑物，既有古典的，也有现代的设计。",
+        "words": [
+            "street",
+            "buildings",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The buildings vary in height and style, some showcasing intricate architectural details typical of older skyscrapers, while others have a more modern, glass window facade.",
+        "sentence_cn": "这些建筑的高度和风格各不相同，一些建筑展示了老式摩天大楼典型的复杂建筑细节，而另一些则拥有更现代的玻璃窗立面。",
+        "words": [
+            "buildings",
+            "height",
+            "style",
+            "details",
+            "skyscrapers",
+            "others",
+            "glass",
+            "window",
+            "facade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene has a vibrant and dynamic atmosphere, characteristic of a busy metropolitan area.",
+        "sentence_cn": "场景充满活力和活力，具有繁忙大都市的特色。",
+        "words": [
+            "scene",
+            "atmosphere",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Greenery and planters with flowers are visible along the street, adding a touch of nature to the urban environment.",
+        "sentence_cn": "街道两旁随处可见绿化和鲜花，为城市环境增添了一丝自然气息。",
+        "words": [
+            "Greenery",
+            "planters",
+            "flowers",
+            "street",
+            "touch",
+            "nature",
+            "environment"
+        ],
+        "id": null
+    }
+]

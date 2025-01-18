@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image depicts a rural landscape with a pastoral setting.",
+        "sentence_cn": "该图描绘的是具有田园风光的乡村风景。",
+        "words": [
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several black and brown cows grazing in a field of tall grass.",
+        "sentence_cn": "前景中，几头黑色和棕色的奶牛在一片高高的草丛中吃草。",
+        "words": [
+            "foreground",
+            "cows",
+            "field",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The field is bordered by rustic wooden fencing.",
+        "sentence_cn": "田野周围有着质朴的木栅栏。",
+        "words": [
+            "field",
+            "fencing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind the cows, in the middle ground, is a vast expanse of open land with numerous large, round hay bales scattered across it.",
+        "sentence_cn": "奶牛身后的中间地带是一片广阔的空地，上面散落着无数个又大又圆的干草堆。",
+        "words": [
+            "cows",
+            "ground",
+            "expanse",
+            "land",
+            "hay",
+            "bales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These bales are evenly distributed, suggesting that the area is used for farming or hay production.",
+        "sentence_cn": "这些草捆分布均匀，表明该地区用于农业或干草生产。",
+        "words": [
+            "bales",
+            "area",
+            "farming",
+            "hay",
+            "production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the image, there is a tree with lush green foliage, partially framing the scene.",
+        "sentence_cn": "在图像的左侧，有一棵绿叶茂盛的树，部分构成了场景。",
+        "words": [
+            "tree",
+            "foliage",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the distant background, there are hints of buildings or structures and possibly a road, indicating a transition from rural to more developed areas.",
+        "sentence_cn": "在遥远的背景中，可以看到建筑物或结构以及道路的痕迹，表明从农村向更发达地区的过渡。",
+        "words": [
+            "background",
+            "hints",
+            "buildings",
+            "structures",
+            "road",
+            "transition",
+            "areas"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image captures a serene rural atmosphere, with the cows peacefully grazing under clear and gentle lighting conditions, typical of late afternoon or early evening.",
+        "sentence_cn": "总体而言，这张照片捕捉到了一种宁静的乡村氛围，奶牛在清澈、柔和的光照条件下安静地吃草，这是典型的傍晚或傍晚的景象。",
+        "words": [
+            "atmosphere",
+            "cows",
+            "lighting",
+            "conditions",
+            "afternoon",
+            "evening"
+        ],
+        "id": null
+    }
+]

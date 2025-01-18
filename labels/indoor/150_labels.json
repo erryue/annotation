@@ -1,0 +1,90 @@
+[
+    {
+        "id": "35181142-9115-4f45-bb43-ff6c904482ad",
+        "confidence": 0.94056,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 86.80676,
+                        "minY": 651.1673,
+                        "maxX": 624.19391,
+                        "maxY": 1079.0
+                    },
+                    "x": 86.80676,
+                    "y": 651.1673,
+                    "w": 537.38715,
+                    "h": 427.83270000000005
+                }
+            }
+        }
+    },
+    {
+        "id": "efcf3eda-4367-4ccb-959d-b0e163a79a02",
+        "confidence": 0.90252,
+        "class": "tv",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1233.81775,
+                        "minY": 486.17935,
+                        "maxX": 1440.8103,
+                        "maxY": 921.45538
+                    },
+                    "x": 1233.81775,
+                    "y": 486.17935,
+                    "w": 206.99255000000016,
+                    "h": 435.27603
+                }
+            }
+        }
+    },
+    {
+        "id": "1b062251-d5d8-4aad-b569-4c300d789928",
+        "confidence": 0.87971,
+        "class": "keyboard",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 915.86182,
+                        "minY": 800.43787,
+                        "maxX": 1260.81531,
+                        "maxY": 998.8656
+                    },
+                    "x": 915.86182,
+                    "y": 800.43787,
+                    "w": 344.95349,
+                    "h": 198.42773
+                }
+            }
+        }
+    },
+    {
+        "id": "5ace436b-a4df-4de2-98d7-22e8b72e285c",
+        "confidence": 0.83166,
+        "class": "mouse",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 1013.35248,
+                        "minY": 1016.82898,
+                        "maxX": 1154.29651,
+                        "maxY": 1073.73865
+                    },
+                    "x": 1013.35248,
+                    "y": 1016.82898,
+                    "w": 140.94402999999988,
+                    "h": 56.909670000000006
+                }
+            }
+        }
+    }
+]

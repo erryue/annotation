@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image shows a small, tidy bathroom with a neutral color scheme.",
+        "sentence_cn": "图中所示的是一间小而整洁的浴室，采用中性色调。",
+        "words": [
+            "bathroom",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a door slightly open, revealing a white toilet positioned to the left.",
+        "sentence_cn": "房间的门微微敞开，左侧有一个白色的马桶。",
+        "words": [
+            "room",
+            "door",
+            "toilet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The toilet sits next to a cabinet with a dark granite countertop.",
+        "sentence_cn": "马桶旁边是一个带有深色花岗岩台面的橱柜。",
+        "words": [
+            "toilet",
+            "cabinet",
+            "granite",
+            "countertop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the toilet, a small window made of glass blocks allows natural light to filter in.",
+        "sentence_cn": "马桶上方，有一个由玻璃块制成的小窗户，可以让自然光照进来。",
+        "words": [
+            "toilet",
+            "window",
+            "glass",
+            "blocks",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the windowsill, there are a few items, including a red candle and what appears to be a small dish or container with several rolled items, possibly towels or decorative pieces.",
+        "sentence_cn": "窗台上有几件物品，包括一根红蜡烛和一个小盘子或容器，里面有几件卷起来的物品，可能是毛巾或装饰品。",
+        "words": [
+            "windowsill",
+            "items",
+            "candle",
+            "dish",
+            "container",
+            "items",
+            "towels",
+            "pieces"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right wall, a towel, light green or teal in color, is hanging up, likely on a hook or rack.",
+        "sentence_cn": "右边的墙上挂着一条浅绿色或青色的毛巾，可能是挂在钩子或架子上。",
+        "words": [
+            "wall",
+            "towel",
+            "color",
+            "hook",
+            "rack"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there is a soft, white bath mat on a beige tiled floor.",
+        "sentence_cn": "下面，米色的瓷砖地板上铺着一块柔软的白色浴垫。",
+        "words": [
+            "bath",
+            "mat",
+            "floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A roll of toilet paper is mounted on the wall near the toilet.",
+        "sentence_cn": "马桶附近的墙上挂着一卷卫生纸。",
+        "words": [
+            "roll",
+            "toilet",
+            "paper",
+            "wall",
+            "toilet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bathroom appears clean, organized, and well-maintained.",
+        "sentence_cn": "浴室看上去干净、整洁、维护良好。",
+        "words": [
+            "bathroom"
+        ],
+        "id": null
+    }
+]

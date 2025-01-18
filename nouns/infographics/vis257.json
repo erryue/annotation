@@ -1,0 +1,279 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Customer Service: How long are you willing to wait?\"",
+        "sentence_cn": "该图是一张信息图表，标题为“客户服务：您愿意等待多长时间？”",
+        "words": [
+            "Customer Service: How long are you willing to wait?",
+            "Service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It visually presents data on people's willingness to wait for customer service.",
+        "sentence_cn": "它以直观的方式呈现人们等待客户服务的意愿数据。",
+        "words": [
+            "data",
+            "people",
+            "willingness",
+            "customer",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a breakdown:",
+        "sentence_cn": "具体如下：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. General Willingness to Wait:",
+        "sentence_cn": "1. 普遍愿意等待：",
+        "words": [
+            "General Willingness to Wait",
+            "Willingness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 32.3% of respondents believe there should be no wait; customer service should answer immediately.",
+        "sentence_cn": "- 32.3%的受访者认为不应等待；客服应该立即答复。",
+        "words": [
+            "32.3",
+            "respondents",
+            "wait",
+            "customer",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 30.2% are willing to wait 1-5 minutes.",
+        "sentence_cn": "- 30.2％的人愿意等待1-5分钟。",
+        "words": [
+            "30.2",
+            "1",
+            "5",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 27.6% are willing to wait 1 minute.",
+        "sentence_cn": "- 27.6％的人愿意等待1分钟。",
+        "words": [
+            "27.6",
+            "1",
+            "minute"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 5.8% are willing to wait 5-10 minutes.",
+        "sentence_cn": "- 5.8％的人愿意等待5-10分钟。",
+        "words": [
+            "5.8",
+            "5",
+            "10",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 4.1% are willing to wait \"as long as it takes.\"",
+        "sentence_cn": "- 4.1％的人愿意等待“无论需要多长时间”。",
+        "words": [
+            "as long as it takes.",
+            "4.1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Breakdown of Those who Think \"None, They Should Be Answering\":",
+        "sentence_cn": "2. 认为“没有，他们应该回答”的人的分析：",
+        "words": [
+            "Breakdown of Those who Think \"None, They Should Be Answering\"",
+            "Breakdown",
+            "None"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Gender: 36% of men and 28.8% of women prefer no wait.",
+        "sentence_cn": "- 性别：36% 的男性和 28.8% 的女性更喜欢无需等待。",
+        "words": [
+            "Gender",
+            "36",
+            "men",
+            "28.8",
+            "%",
+            "women",
+            "wait"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Age groups:",
+        "sentence_cn": "- 年龄组：",
+        "words": [
+            "Age",
+            "groups"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 18-24 years: 40.8%",
+        "sentence_cn": "- 18-24岁：40.8％",
+        "words": [
+            "18",
+            "24",
+            "years",
+            "40.8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 25-34 years: 36.1%",
+        "sentence_cn": "- 25-34岁：36.1％",
+        "words": [
+            "25",
+            "34",
+            "years",
+            "36.1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 35-44 years: 32.9%",
+        "sentence_cn": "- 35-44岁：32.9％",
+        "words": [
+            "35",
+            "44",
+            "years",
+            "32.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 45-54 years: 29.8%",
+        "sentence_cn": "- 45-54岁：29.8％",
+        "words": [
+            "45",
+            "54",
+            "years",
+            "29.8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 55-64 years: 26.9%",
+        "sentence_cn": "- 55-64岁：26.9％",
+        "words": [
+            "55",
+            "64",
+            "years",
+            "26.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - 65+ years: 27.7%",
+        "sentence_cn": "- 65岁以上：27.7％",
+        "words": [
+            "65",
+            "+",
+            "years",
+            "27.7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Impatience Based on Income:",
+        "sentence_cn": "3. 基于收入的不耐烦：",
+        "words": [
+            "Impatience Based on Income",
+            "Impatience",
+            "Income"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - $0-$24,999: 32.3%",
+        "sentence_cn": "- 0-24,999美元：32.3%",
+        "words": [
+            "0-$24,999",
+            "32.3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - $25,000-$49,999: 30.3%",
+        "sentence_cn": "- 25,000 美元至 49,999 美元：30.3%",
+        "words": [
+            "25,000-$49,999",
+            "30.3"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - $50,000-$74,999: 35.1%",
+        "sentence_cn": "- 50,000 至 74,999 美元：35.1%",
+        "words": [
+            "50,000-$74,999",
+            "35.1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - $75,000-$99,999: 34.4%",
+        "sentence_cn": "- 75,000 美元至 99,999 美元：34.4%",
+        "words": [
+            "75,000-$99,999",
+            "34.4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - $100,000-$149,999: 30.6%",
+        "sentence_cn": "- 10万美元至149,999美元：30.6%",
+        "words": [
+            "100,000-$149,999",
+            "30.6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - $150,000+: 100%",
+        "sentence_cn": "- 150,000 美元以上：100%",
+        "words": [
+            "150,000",
+            "+",
+            "100"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic indicates that younger age groups and higher income individuals show less tolerance for waiting.",
+        "sentence_cn": "信息图显示，年轻的年龄组和高收入人群对等待的容忍度较低。",
+        "words": [
+            "age",
+            "groups",
+            "income",
+            "individuals",
+            "tolerance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The source of the data is a Google Survey Tool with 2,505 respondents, collected in 2012.",
+        "sentence_cn": "数据来源于 Google 调查工具，共收集了 2,505 名受访者的调查数据，收集时间是 2012 年。",
+        "words": [
+            "source",
+            "data",
+            "2,505",
+            "respondents",
+            "2012"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,91 @@
+[
+    {
+        "sentence": "The image shows a minimalist arrangement on a glass table.",
+        "sentence_cn": "图中显示的是玻璃桌上的简约布置。",
+        "words": [
+            "arrangement",
+            "glass",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three sleek, metallic silver vases of varying heights are placed side by side.",
+        "sentence_cn": "三个高度各异、外观光滑的金属银色花瓶并排摆放。",
+        "words": [
+            "Three",
+            "silver",
+            "vases",
+            "heights",
+            "side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each vase contains white flowers, with long stems and some green leaves accompanying them.",
+        "sentence_cn": "每个花瓶里都插着白色的花，有长长的茎和一些绿叶。",
+        "words": [
+            "vase",
+            "flowers",
+            "stems",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The left vase holds a tulip with a single, long green leaf.",
+        "sentence_cn": "左边的花瓶里插着一朵郁金香，上面有一片长长的绿叶。",
+        "words": [
+            "vase",
+            "tulip",
+            "leaf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The middle vase contains a bloom resembling a rose or a peony with several lush leaves.",
+        "sentence_cn": "中间的花瓶里有一朵类似玫瑰或牡丹的花​​，上面有几片茂盛的叶子。",
+        "words": [
+            "vase",
+            "bloom",
+            "rose",
+            "peony",
+            "leaves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The right vase features multiple smaller white blossoms.",
+        "sentence_cn": "右边的花瓶里有多朵较小的白色花朵。",
+        "words": [
+            "vase",
+            "blossoms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the vases are three small glass tealight candle holders placed on the table.",
+        "sentence_cn": "花瓶周围摆放着三个小玻璃茶灯烛台，放在桌子上。",
+        "words": [
+            "vases",
+            "three",
+            "glass",
+            "tealight",
+            "candle",
+            "holders",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there's a white sofa, adding to the overall clean and modern aesthetic of the scene.",
+        "sentence_cn": "背景中有一张白色的沙发，增添了场景整体简洁而现代的美感。",
+        "words": [
+            "background",
+            "sofa",
+            "aesthetic",
+            "scene"
+        ],
+        "id": null
+    }
+]

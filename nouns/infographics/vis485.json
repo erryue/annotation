@@ -1,0 +1,238 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"A nation of ZOMBIES,\" focusing on the morning habits of the average Brit.",
+        "sentence_cn": "该图是一张名为“僵尸之国”的信息图，重点关注普通英国人的早晨习惯。",
+        "words": [
+            "A nation of ZOMBIES,",
+            "nation",
+            "ZOMBIES",
+            "morning",
+            "habits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It reports that Brits wake up at 6:30 am for work, with 1 in 5 hitting the snooze button three times or more before rising.",
+        "sentence_cn": "据报道，英国人早上 6:30 起床上班，其中五分之一的人在起床前会按三次或三次以上的贪睡按钮。",
+        "words": [
+            "6:30",
+            "am",
+            "work",
+            "1",
+            "5",
+            "snooze",
+            "button",
+            "three",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key points include:",
+        "sentence_cn": "要点包括：",
+        "words": [
+            "points"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 13% don't converse with another human until an hour and a half after waking.",
+        "sentence_cn": "- 13% 的人醒来后一个半小时内不会与其他人交谈。",
+        "words": [
+            "13%",
+            "13",
+            "human",
+            "hour",
+            "half"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 38% acknowledge the importance of breakfast, yet 33% skip it four times a week or more.",
+        "sentence_cn": "- 38%的人承认早餐的重要性，但33%的人每周有四次或以上不吃早餐。",
+        "words": [
+            "38%",
+            "38",
+            "importance",
+            "breakfast",
+            "33",
+            "%",
+            "four",
+            "times",
+            "week"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 75% rely on caffeine instead of a traditional healthy breakfast for morning energy.",
+        "sentence_cn": "- 75% 的人依靠咖啡因而不是传统的健康早餐来获取早晨的能量。",
+        "words": [
+            "75%",
+            "75",
+            "caffeine",
+            "breakfast",
+            "morning",
+            "energy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic notes that women struggle more than men with morning routines, with 29% of women still being half-asleep compared to 18% of men.",
+        "sentence_cn": "该信息图显示，女性在早晨的例行活动上比男性更困难，29% 的女性仍处于半睡半醒状态，而男性这一比例仅为 18%。",
+        "words": [
+            "women",
+            "men",
+            "morning",
+            "routines",
+            "29",
+            "women",
+            "18",
+            "%",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Only a third of women get the recommended 8 hours of sleep per night.",
+        "sentence_cn": "只有三分之一的女性每晚睡眠时间达到建议的8小时。",
+        "words": [
+            "women",
+            "8",
+            "hours",
+            "sleep",
+            "night"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Top 10 morning misdemeanours\" include:",
+        "sentence_cn": "“十大早晨不当行为”包括：",
+        "words": [
+            "Top 10 morning misdemeanours",
+            "10",
+            "morning",
+            "misdemeanours"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Forgetting your mobile phone",
+        "sentence_cn": "1. 忘记带手机",
+        "words": [
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Being grumpy due to tiredness",
+        "sentence_cn": "2. 因疲劳而脾气暴躁",
+        "words": [
+            "tiredness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Burning your toast",
+        "sentence_cn": "3. 面包烤焦",
+        "words": [
+            "toast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Forgetting why you went to the fridge",
+        "sentence_cn": "4. 忘记为什么要去冰箱",
+        "words": [
+            "fridge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Sleeping through your alarm",
+        "sentence_cn": "5. 闹钟响了，睡过头了",
+        "words": [
+            "alarm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Stubbing your toe",
+        "sentence_cn": "6. 脚趾被绊倒",
+        "words": [
+            "toe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Putting on mismatched socks",
+        "sentence_cn": "7. 穿不配套的袜子",
+        "words": [
+            "socks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Losing keys",
+        "sentence_cn": "8. 丢失钥匙",
+        "words": [
+            "keys"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Forgetting to lock the door",
+        "sentence_cn": "9. 忘记锁门",
+        "words": [
+            "door"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Spilling coffee on clothes",
+        "sentence_cn": "10. 把咖啡洒在衣服上",
+        "words": [
+            "coffee",
+            "clothes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic uses a brown color scheme and cartoonish graphics, including a zombie character holding a coffee mug.",
+        "sentence_cn": "该信息图采用了棕色配色方案和卡通图形，其中包括一个拿着咖啡杯的僵尸人物。",
+        "words": [
+            "color",
+            "scheme",
+            "graphics",
+            "zombie",
+            "character",
+            "coffee",
+            "mug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The content is presented humorously, emphasizing the zombie-like state of people due to insufficient sleep and chaotic morning routines.",
+        "sentence_cn": "内容以幽默的方式呈现，强调人们因睡眠不足和早晨混乱而导致的僵尸般的状态。",
+        "words": [
+            "content",
+            "zombie",
+            "state",
+            "people",
+            "sleep",
+            "morning",
+            "routines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is by New Zealand Honey Co., with references to a survey of 2,000 workers.",
+        "sentence_cn": "该信息图由新西兰蜂蜜公司制作，参考了对 2,000 名工人的调查。",
+        "words": [
+            "references",
+            "survey",
+            "2,000",
+            "workers"
+        ],
+        "id": null
+    }
+]

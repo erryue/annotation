@@ -1,0 +1,181 @@
+[
+    {
+        "sentence": "The image is an advertisement for Burt's Bees products, emphasizing natural color cosmetics.",
+        "sentence_cn": "图片是 Burt's Bees 产品的广告，强调天然彩色化妆品。",
+        "words": [
+            "products",
+            "color",
+            "cosmetics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Background and Theme:",
+        "sentence_cn": "1. 背景与主题：",
+        "words": [
+            "Background and Theme",
+            "Background",
+            "Theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A beige backdrop with a subtle honeycomb pattern creates a natural and earthy feel.",
+        "sentence_cn": "- 米色背景搭配精致的蜂窝图案，营造出自然、朴实的感觉。",
+        "words": [
+            "backdrop",
+            "honeycomb",
+            "pattern",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Floral elements are scattered around, including pink petals and various flowers, suggesting the use of natural ingredients.",
+        "sentence_cn": "- 周围散布着花卉元素，包括粉红色的花瓣和各种各样的花朵，暗示着使用了天然材料。",
+        "words": [
+            "elements",
+            "petals",
+            "flowers",
+            "use",
+            "ingredients"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Products Displayed:",
+        "sentence_cn": "2. 展示的产品：",
+        "words": [
+            "Products Displayed",
+            "Products"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - From left to right:",
+        "sentence_cn": "- 从左到右：",
+        "words": [
+            "From left to right",
+            "left",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - A tube of lip gloss with the applicator wand exposed, suggesting a pink tint.",
+        "sentence_cn": "- 一管唇彩，涂抹棒露出，呈现粉红色调。",
+        "words": [
+            "tube",
+            "lip",
+            "gloss",
+            "applicator",
+            "wand",
+            "tint"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - A yellow and white lip balm labeled \"Burt's Bees,\" indicating a moisturizing function.",
+        "sentence_cn": "- 一支黄白色的润唇膏，标有“Burt's Bees”，表示具有保湿功能。",
+        "words": [
+            "Burt's Bees,",
+            "lip",
+            "balm",
+            "function"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - A tube of lip shine, with a deep pink shade.",
+        "sentence_cn": "- 一管唇彩，呈深粉色。",
+        "words": [
+            "tube",
+            "lip",
+            "shine",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "     - A stick of tinted lip balm with a cap next to it, also in a natural shade.",
+        "sentence_cn": "- 一支有色润唇膏，旁边有一个盖子，也是自然色。",
+        "words": [
+            "stick",
+            "lip",
+            "balm",
+            "cap",
+            "shade"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - All products are aligned on a reflective surface, enhancing their presentation.",
+        "sentence_cn": "- 所有产品均排列在反射表面上，以增强其展示效果。",
+        "words": [
+            "products",
+            "surface",
+            "presentation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Branding and Text:",
+        "sentence_cn": "3. 品牌与文字：",
+        "words": [
+            "Branding and Text",
+            "Branding",
+            "Text",
+            ""
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - At the top, there's a Burt¡¯s Bees logo on a yellow background.",
+        "sentence_cn": "- 顶部，黄色背景上有一个 Burt's Bees 标志。",
+        "words": [
+            "top",
+            "logo",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Below the products, the text reads: \"NATURE knows COLOR,\" highlighting the natural aspect of the product colors.",
+        "sentence_cn": "- 产品下方的文字为：“自然了解颜色”，突出了产品颜色的自然性。",
+        "words": [
+            "NATURE knows COLOR,",
+            "products",
+            "text",
+            "COLOR",
+            "aspect",
+            "product",
+            "colors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - At the very bottom, \"READ REVIEWS BELOW\" invites viewer engagement.",
+        "sentence_cn": "- 最底部的“阅读下面的评论”邀请观众参与。",
+        "words": [
+            "READ REVIEWS BELOW",
+            "bottom",
+            "REVIEWS",
+            "viewer",
+            "engagement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the image aims to highlight Burt's Bees as a natural cosmetics brand, with a focus on using nature-inspired colors and ingredients.",
+        "sentence_cn": "总体而言，该图片旨在突出 Burt's Bees 作为一个天然化妆品品牌，注重使用自然灵感的颜色和成分。",
+        "words": [
+            "cosmetics",
+            "brand",
+            "focus",
+            "nature",
+            "colors",
+            "ingredients"
+        ],
+        "id": null
+    }
+]

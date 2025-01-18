@@ -1,0 +1,114 @@
+[
+    {
+        "sentence": "The image shows five people standing together in a casual indoor setting.",
+        "sentence_cn": "照片中五个人在一个休闲的室内环境中站在一起。",
+        "words": [
+            "five",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are holding drinks, possibly at a social gathering or party.",
+        "sentence_cn": "他们手里拿着饮料，可能是在参加社交聚会或派对。",
+        "words": [
+            "drinks",
+            "gathering",
+            "party"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "From left to right:",
+        "sentence_cn": "从左到右：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. A person with short hair and a mustache, wearing a striped sweater, holding a bottle.",
+        "sentence_cn": "1. 一个留着短发和小胡子的人，穿着条纹毛衣，手里拿着一个瓶子。",
+        "words": [
+            "person",
+            "hair",
+            "mustache",
+            "sweater",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. A person with long dark hair, smiling, wearing a black top with a white collar, also holding a drink.",
+        "sentence_cn": "2. 一个有着长长的黑色头发、面带微笑、穿着白色衣领的黑色上衣、手里还拿着饮料的人。",
+        "words": [
+            "person",
+            "hair",
+            "top",
+            "collar",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. A person with glasses, short hair, and a name tag, wearing a button-up shirt, holding a beer bottle.",
+        "sentence_cn": "3. 一个戴眼镜、短发、戴着名牌、穿着纽扣衬衫、手里拿着啤酒瓶的人。",
+        "words": [
+            "person",
+            "glasses",
+            "hair",
+            "name",
+            "tag",
+            "shirt",
+            "beer",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. A person with facial hair, wearing glasses, a dark hoodie, and tan pants, holding a beer bottle.",
+        "sentence_cn": "4. 一个有胡须、戴着眼镜、身穿深色连帽衫和棕褐色裤子、手里拿着啤酒瓶的人。",
+        "words": [
+            "person",
+            "hair",
+            "glasses",
+            "hoodie",
+            "pants",
+            "beer",
+            "bottle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. A person with short hair, wearing a red and black plaid shirt, also with a name tag and holding a drink.",
+        "sentence_cn": "5. 一名短发男子，身穿红黑格子衬衫，也带着名牌，手里拿着饮料。",
+        "words": [
+            "person",
+            "hair",
+            "plaid",
+            "shirt",
+            "name",
+            "tag",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has white walls, and there's a window with blinds in the background.",
+        "sentence_cn": "房间有白色的墙壁，背景有一扇带百叶窗的窗户。",
+        "words": [
+            "room",
+            "walls",
+            "window",
+            "blinds",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears relaxed and friendly.",
+        "sentence_cn": "气氛显得轻松而友好。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

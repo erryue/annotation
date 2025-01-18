@@ -1,0 +1,108 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Il Postino.\"",
+        "sentence_cn": "该图是《Il Postino》的电影海报。",
+        "words": [
+            "Il Postino.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, the names \"Massimo Troisi\" and \"Philippe Noiret\" are prominently displayed.",
+        "sentence_cn": "海报上方显著位置写着“马西莫·特罗伊西”和“菲利普·诺瓦雷”的名字。",
+        "words": [
+            "Massimo Troisi",
+            "Philippe Noiret",
+            "top",
+            "poster",
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below them, the title \"Il Postino\" is written in bold, red letters.",
+        "sentence_cn": "在它们下面，用粗体红色字母写着“Il Postino”的标题。",
+        "words": [
+            "Il Postino",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central image features a close-up of a man wearing a dark postmanâs cap with a badge.",
+        "sentence_cn": "中央图片为一名男子的特写镜头，该男子头戴深色邮递员帽，帽子上佩戴有徽章。",
+        "words": [
+            "close",
+            "up",
+            "man",
+            "postmanâs",
+            "cap",
+            "badge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, another man with a bicycle stands by the seaside, looking out at the ocean.",
+        "sentence_cn": "背景中，另一位骑着自行车的男子站在海边，眺望着大海。",
+        "words": [
+            "background",
+            "man",
+            "bicycle",
+            "seaside",
+            "ocean"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting has a natural, scenic, coastal appearance.",
+        "sentence_cn": "该环境具有自然、风景如画的海滨风光。",
+        "words": [
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, additional credits are listed.",
+        "sentence_cn": "海报底部列出了其他获奖者名单。",
+        "words": [
+            "bottom",
+            "poster",
+            "credits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film is directed by Michael Radford, with other cast and crew members included, like Maria Grazia Cucinotta.",
+        "sentence_cn": "这部电影由迈克尔·雷德福 (Michael Radford) 执导，其他演员和工作人员包括玛丽亚·格拉齐亚·库欣诺塔 (Maria Grazia Cucinotta)。",
+        "words": [
+            "film",
+            "cast",
+            "crew",
+            "members"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The producers are Mario and Vittorio Cecchi Gori.",
+        "sentence_cn": "制片人是马里奥·切奇·戈里 (Mario Cecchi Gori) 和维托里奥·切奇·戈里 (Vittorio Cecchi Gori)。",
+        "words": [
+            "producers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme of the poster is warm, with hues that give a nostalgic or serene feel.",
+        "sentence_cn": "海报的配色是温暖的，色调给人一种怀旧或宁静的感觉。",
+        "words": [
+            "color",
+            "scheme",
+            "poster",
+            "hues",
+            "feel"
+        ],
+        "id": null
+    }
+]

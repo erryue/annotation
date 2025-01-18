@@ -1,0 +1,126 @@
+[
+    {
+        "sentence": "The image depicts a cozy living room space with a futon and a small cabinet against a wall.",
+        "sentence_cn": "图像描绘了一个舒适的客厅空间，里面有一张蒲团和靠墙的小柜子。",
+        "words": [
+            "living",
+            "room",
+            "space",
+            "futon",
+            "cabinet",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Futon:",
+        "sentence_cn": "- 蒲团：",
+        "words": [
+            "Futon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The futon has a light blue cover with a white floral pattern and is adorned with two white pillows.",
+        "sentence_cn": "蒲团的罩子为浅蓝色，上面有白色花卉图案，还配有两个白色枕头。",
+        "words": [
+            "futon",
+            "cover",
+            "pattern",
+            "two",
+            "pillows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a sheet of paper resting on the futon.",
+        "sentence_cn": "蒲团上放着一张纸。",
+        "words": [
+            "sheet",
+            "paper",
+            "futon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On top of the futon, there are several hats, including a beige one, a black one, and another resembling an explorer's hat, adorning a stuffed toy animal.",
+        "sentence_cn": "蒲团上有几顶帽子，有一顶米色的，一顶黑色的，还有一顶类似探险家的帽子，装饰着一个毛绒玩具动物。",
+        "words": [
+            "top",
+            "futon",
+            "hats",
+            "one",
+            "one",
+            "explorer",
+            "hat",
+            "toy",
+            "animal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Cabinet: Positioned to the right of the futon, the wooden cabinet runs along the wall below a window.",
+        "sentence_cn": "- 橱柜：木质橱柜位于蒲团的右侧，沿着窗户下方的墙壁延伸。",
+        "words": [
+            "Cabinet",
+            "Cabinet",
+            "right",
+            "futon",
+            "cabinet",
+            "wall",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a few decorative items on top: a small sculpture, a plate on a stand, and an empty round glass fishbowl.",
+        "sentence_cn": "上面有一些装饰品：一个小雕塑、一个支架上的盘子和一个空的圆形玻璃鱼缸。",
+        "words": [
+            "items",
+            "top",
+            "sculpture",
+            "plate",
+            "stand",
+            "glass",
+            "fishbowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Window: The window is covered with vertical blinds, allowing natural light to filter into the room, creating a warm and welcoming atmosphere.",
+        "sentence_cn": "- 窗户：窗户上覆盖有垂直百叶窗，让自然光照进房间，营造出温暖而温馨的氛围。",
+        "words": [
+            "Window",
+            "Window",
+            "window",
+            "blinds",
+            "light",
+            "room",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Decorative Elements: There are a few other items visible, such as a red and a wooden box, adding more character to the room.",
+        "sentence_cn": "- 装饰元素：还有一些其他可见的物品，例如红色和木盒子，为房间增添了更多特色。",
+        "words": [
+            "Decorative Elements",
+            "Elements",
+            "items",
+            "box",
+            "character",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall aesthetic is simple and homely, with a mix of functional and decorative elements.",
+        "sentence_cn": "整体美感简洁、温馨，融合了功能性和装饰性元素。",
+        "words": [
+            "aesthetic",
+            "mix",
+            "elements"
+        ],
+        "id": null
+    }
+]

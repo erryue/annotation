@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image is an advertisement for the \"AsianDate: Date & Chat App.\"",
+        "sentence_cn": "该图片是“AsianDate：约会和聊天应用程序”的广告。",
+        "words": [
+            "AsianDate: Date & Chat App.",
+            "App"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background Image: A woman in a flowing teal dress is sitting on a stone bench in a bamboo forest.",
+        "sentence_cn": "- 背景图片：一位身着飘逸的蓝绿色连衣裙的女子坐在竹林里的石凳上。",
+        "words": [
+            "Background Image",
+            "Background",
+            "Image",
+            "woman",
+            "dress",
+            "stone",
+            "bench",
+            "bamboo",
+            "forest"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text over this image states, \"Expand your world of dating.\"",
+        "sentence_cn": "这张图片上的文字是“扩大你的约会世界”。",
+        "words": [
+            "Expand your world of dating.",
+            "text",
+            "world",
+            "dating"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ad Content: Below the background image is a red banner featuring the app icon, which shows a woman's portrait.",
+        "sentence_cn": "- 广告内容：背景图片下方是带有应用程序图标的红色横幅，上面显示了一个女性的肖像。",
+        "words": [
+            "Ad Content",
+            "Ad",
+            "Content",
+            "background",
+            "banner",
+            "app",
+            "icon",
+            "woman",
+            "portrait"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The name of the app is \"AsianDate: Date & Chat App\" with a rating of 4 stars from 26,839 reviews.",
+        "sentence_cn": "该应用程序的名称是“AsianDate：约会和聊天应用程序”，在 26,839 条评论中评分为 4 星。",
+        "words": [
+            "AsianDate: Date & Chat App",
+            "name",
+            "app",
+            "rating",
+            "4",
+            "stars",
+            "26,839",
+            "reviews"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It is available for free on Google Play.",
+        "sentence_cn": "它可以免费在 Google Play 上获取。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Text Details: \"Asian Dating Worldwide\" is mentioned, inviting users to join Asia's top active dating app, highlighting singles from China, Thailand, and the Philippines.",
+        "sentence_cn": "- 文字详情：提及“亚洲约会全球”，邀请用户加入亚洲顶级活跃约会应用程序，重点介绍来自中国、泰国和菲律宾的单身人士。",
+        "words": [
+            "Text Details",
+            "Asian Dating Worldwide",
+            "Text",
+            "Details",
+            "users",
+            "Asia",
+            "dating",
+            "app",
+            "singles",
+            "China",
+            "Thailand",
+            "Philippines"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Call to Action: There is a prominent \"INSTALL\" button on the bottom to download the app.",
+        "sentence_cn": "- 行动号召：底部有一个显眼的“安装”按钮，用于下载应用程序。",
+        "words": [
+            "Call to Action",
+            "INSTALL",
+            "Call",
+            "Action",
+            "INSTALL",
+            "button",
+            "bottom",
+            "app"
+        ],
+        "id": null
+    }
+]

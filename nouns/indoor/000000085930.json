@@ -1,0 +1,142 @@
+[
+    {
+        "sentence": "The image depicts a spacious and elegantly designed kitchen with a warm and inviting atmosphere.",
+        "sentence_cn": "图中描绘的是一个宽敞、设计典雅的厨房，充满着温暖而温馨的氛围。",
+        "words": [
+            "kitchen",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The central focus is a large, dark wooden island countertop with an integrated sink and a chrome faucet.",
+        "sentence_cn": "中心焦点是一个大型深色木质岛式台面，配有一体式水槽和镀铬水龙头。",
+        "words": [
+            "focus",
+            "island",
+            "countertop",
+            "sink",
+            "chrome",
+            "faucet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On this island are decorative elements, including two lit candles and a decorative bowl with ornaments, adding a touch of sophistication.",
+        "sentence_cn": "这个岛上有装饰元素，包括两根点燃的蜡烛和一个带有装饰品的装饰碗，增添了一丝精致。",
+        "words": [
+            "island",
+            "elements",
+            "two",
+            "candles",
+            "bowl",
+            "ornaments",
+            "touch",
+            "sophistication"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen features white cabinetry, including a combination of closed and glass-front cabinets, providing ample storage and a display space for dishware.",
+        "sentence_cn": "厨房采用白色橱柜，包括封闭式和玻璃前橱柜的组合，提供充足的存储空间和餐具的展示空间。",
+        "words": [
+            "kitchen",
+            "cabinetry",
+            "combination",
+            "glass",
+            "front",
+            "cabinets",
+            "storage",
+            "display",
+            "space",
+            "dishware"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A glossy white tile backsplash runs along the back wall, complementing the cabinets and reflecting light to brighten the space.",
+        "sentence_cn": "光滑的白色瓷砖后挡板沿着后墙延伸，与橱柜相得益彰，并反射光线以照亮空间。",
+        "words": [
+            "tile",
+            "backsplash",
+            "wall",
+            "cabinets",
+            "light",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Recessed lighting is installed throughout the ceiling, providing even illumination.",
+        "sentence_cn": "整个天花板都安装了嵌入式照明，提供均匀的照明。",
+        "words": [
+            "lighting",
+            "ceiling",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Natural light streams in through a window above the main counter, which is adorned with a decorative floral valance.",
+        "sentence_cn": "自然光透过主柜台上方的窗户射入室内，主柜台上装饰有花卉帷幔。",
+        "words": [
+            "light",
+            "window",
+            "counter",
+            "valance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Copper accents are seen in kitchenware, enhancing the warm tone of the room.",
+        "sentence_cn": "厨具中可见铜的装饰，增强了房间的温暖色调。",
+        "words": [
+            "Copper",
+            "accents",
+            "kitchenware",
+            "tone",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen's design includes an angled ceiling section decorated with an assortment of cookie cutters in various shapes, adding a whimsical touch.",
+        "sentence_cn": "厨房的设计包括一个有角度的天花板部分，上面装饰着各种形状的饼干模具，增添了一种异想天开的感觉。",
+        "words": [
+            "kitchen",
+            "design",
+            "ceiling",
+            "section",
+            "assortment",
+            "cookie",
+            "cutters",
+            "shapes",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted a soft, creamy yellow, contributing to the cozy atmosphere.",
+        "sentence_cn": "墙壁漆成柔和的乳黄色，营造出舒适的氛围。",
+        "words": [
+            "walls",
+            "yellow",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the corner, a small countertop vignette features a lamp, adding both light and an element of hominess.",
+        "sentence_cn": "在角落里，小小的台面上有一盏灯，既增添了光线，又增添了温馨的气氛。",
+        "words": [
+            "corner",
+            "countertop",
+            "vignette",
+            "lamp",
+            "light",
+            "element",
+            "hominess"
+        ],
+        "id": null
+    }
+]

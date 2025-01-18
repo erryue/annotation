@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image depicts a cozy shelf setting in a soft, light color palette.",
+        "sentence_cn": "该图像描绘了一个采用柔和、浅色调的舒适架子设置。",
+        "words": [
+            "shelf",
+            "color",
+            "palette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there is a plush, golden-brown teddy bear seated with a slightly worn appearance, suggesting it's loved or vintage.",
+        "sentence_cn": "左边坐着一只金棕色的毛绒泰迪熊，略显破旧，暗示着它是被人喜爱的或古董。",
+        "words": [
+            "left",
+            "teddy",
+            "bear",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the teddy bear, there is a small, red rattle.",
+        "sentence_cn": "泰迪熊的前面有一个红色的小摇铃。",
+        "words": [
+            "front",
+            "teddy",
+            "bear",
+            "rattle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the teddy bear sits a shiny, silver piggy bank with a reflective surface, adding a modern touch to the arrangement.",
+        "sentence_cn": "泰迪熊旁边放着一个闪闪发光的银色存钱罐，其表面具有反光效果，为整个布置增添了现代感。",
+        "words": [
+            "teddy",
+            "bear",
+            "piggy",
+            "bank",
+            "surface",
+            "touch",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side of the image, there is a small framed piece of cross-stitch art.",
+        "sentence_cn": "图像的右侧有一小块镶框的十字绣艺术品。",
+        "words": [
+            "piece",
+            "art"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The artwork features a figure in blue overalls holding a brown teddy bear, surrounded by a border of tiny colorful flowers, including yellow and purple ones, all set against a white background.",
+        "sentence_cn": "该艺术品的特色是一个身穿蓝色工作服的人物抱着一只棕色的泰迪熊，背景为白色，周围环绕着一圈五颜六色的小花，有黄色和紫色的。",
+        "words": [
+            "artwork",
+            "figure",
+            "overalls",
+            "teddy",
+            "bear",
+            "border",
+            "flowers",
+            "ones",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The frame is a muted blue, complementing the gentle color theme of the shelf.",
+        "sentence_cn": "框架是柔和的蓝色，与架子的柔和色彩主题相得益彰。",
+        "words": [
+            "frame",
+            "blue",
+            "color",
+            "theme",
+            "shelf"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The shelf and wall are made of light-colored wood, contributing to the cozy, serene atmosphere.",
+        "sentence_cn": "架子和墙壁采用浅色木材制成，营造出舒适、宁静的氛围。",
+        "words": [
+            "shelf",
+            "wall",
+            "wood",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

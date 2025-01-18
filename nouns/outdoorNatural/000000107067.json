@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "The image depicts two zebras walking along a dirt path in what appears to be a savannah landscape.",
+        "sentence_cn": "照片中两只斑马沿着一条泥路行走，场景类似大草原。",
+        "words": [
+            "two",
+            "zebras",
+            "dirt",
+            "path",
+            "savannah",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The zebras are side by side, facing the camera.",
+        "sentence_cn": "斑马并排站着，面向镜头。",
+        "words": [
+            "zebras",
+            "side",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The path is surrounded by golden-hued grass, suggesting it¡¯s either early morning or late afternoon, with the soft sunlight casting a warm glow over the scene.",
+        "sentence_cn": "小路周围长满了金色的草地，柔和的阳光为整个场景投射出温暖的光芒，暗示着现在正值清晨或傍晚。",
+        "words": [
+            "path",
+            "grass",
+            "morning",
+            "afternoon",
+            "sunlight",
+            "glow",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are scattered trees typical of a savannah environment.",
+        "sentence_cn": "背景中散落着一些典型的大草原树木。",
+        "words": [
+            "background",
+            "trees",
+            "savannah",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere of the image is serene and natural.",
+        "sentence_cn": "画面整体氛围宁静、自然。",
+        "words": [
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,354 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Back to School Mobile Sales\" from iQmetrix, highlighting mobile phone purchasing trends during the back-to-school period from July 23 to September 14, 2012.",
+        "sentence_cn": "该图是 iQmetrix 制作的一张名为“开学季手机销售”的信息图，重点展示了 2012 年 7 月 23 日至 9 月 14 日开学期间的手机购买趋势。",
+        "words": [
+            "Back to School Mobile Sales",
+            "phone",
+            "purchasing",
+            "trends",
+            "school",
+            "period",
+            "23",
+            "14",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Data is sourced from nearly 7,000 wireless retail stores in the U.S.",
+        "sentence_cn": "数据来源于美国近 7,000 家无线零售商店。",
+        "words": [
+            "Data",
+            "7,000",
+            "stores",
+            "U.S."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Smartphone vs. Feature Phone Sales:",
+        "sentence_cn": "智能手机与功能手机的销量：",
+        "words": [
+            "Smartphone vs. Feature Phone Sales:",
+            "Smartphone",
+            "Feature",
+            "Phone",
+            "Sales"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2010: 56% smartphones, 44% feature phones",
+        "sentence_cn": "- 2010 年： 56% 为智能手机，44% 为功能手机",
+        "words": [
+            "2010:",
+            "2010",
+            "56",
+            "smartphones",
+            "44",
+            "%",
+            "feature",
+            "phones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2011: 59% smartphones, 41% feature phones",
+        "sentence_cn": "- 2011 年： 59% 为智能手机，41% 为功能手机",
+        "words": [
+            "2011:",
+            "2011",
+            "59",
+            "smartphones",
+            "41",
+            "%",
+            "feature",
+            "phones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2012: 77% smartphones, 23% feature phones",
+        "sentence_cn": "- 2012 年： 77% 为智能手机，23% 为功能手机",
+        "words": [
+            "2012:",
+            "2012",
+            "77",
+            "smartphones",
+            "23",
+            "%",
+            "feature",
+            "phones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Market Share by Operating System:",
+        "sentence_cn": "按操作系统划分的市场份额：",
+        "words": [
+            "Market Share by Operating System:",
+            "Market",
+            "Share",
+            "Operating",
+            "System"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2010:",
+        "sentence_cn": "-2010年：",
+        "words": [
+            "2010:"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Android: 54%",
+        "sentence_cn": "Android：54％",
+        "words": [
+            "54"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - iPhone: 28%",
+        "sentence_cn": "iPhone：28％",
+        "words": [
+            "28"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Blackberry: 18%",
+        "sentence_cn": "黑莓：18％",
+        "words": [
+            "Blackberry",
+            "18"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Windows: 1%",
+        "sentence_cn": "- Windows：1％",
+        "words": [
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2011:",
+        "sentence_cn": "-2011年：",
+        "words": [
+            "2011:",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Android: 70%",
+        "sentence_cn": "Android：70％",
+        "words": [
+            "70"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - iPhone: 18%",
+        "sentence_cn": "iPhone：18％",
+        "words": [
+            "18"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Blackberry: 10%",
+        "sentence_cn": "黑莓：10％",
+        "words": [
+            "Blackberry",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Windows: 2%",
+        "sentence_cn": "- Windows：2％",
+        "words": [
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2012:",
+        "sentence_cn": "-2012年：",
+        "words": [
+            "2012:",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Android: 59%",
+        "sentence_cn": "Android：59％",
+        "words": [
+            "59"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - iPhone: 39%",
+        "sentence_cn": "iPhone：39％",
+        "words": [
+            "39"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Blackberry: 1%",
+        "sentence_cn": "黑莓：1％",
+        "words": [
+            "Blackberry",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Windows: 1.5%",
+        "sentence_cn": "- Windows：1.5％",
+        "words": [
+            "1.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Prepaid Plans Activation:",
+        "sentence_cn": "预付费计划激活：",
+        "words": [
+            "Prepaid Plans Activation:",
+            "Plans",
+            "Activation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2010: 17% of plans were prepaid",
+        "sentence_cn": "- 2010 年： 17% 的套餐为预付费",
+        "words": [
+            "2010:",
+            "2010",
+            "17",
+            "plans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2011: 17% of plans were prepaid",
+        "sentence_cn": "- 2011 年： 17% 的套餐为预付费",
+        "words": [
+            "2011:",
+            "2011",
+            "17",
+            "plans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 2012: 28% of plans were prepaid",
+        "sentence_cn": "- 2012 年： 28% 的套餐为预付费",
+        "words": [
+            "2012:",
+            "2012",
+            "28",
+            "plans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Regional Percentage of Prepaid Plans in 2012:",
+        "sentence_cn": "2012 年预付费计划区域百分比：",
+        "words": [
+            "Regional Percentage of Prepaid Plans in 2012:",
+            "Percentage",
+            "Plans",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- West: 16%",
+        "sentence_cn": "- 西部：16％",
+        "words": [
+            "16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Midwest: 24%",
+        "sentence_cn": "- 中西部：24%",
+        "words": [
+            "24"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Northeast: 30%",
+        "sentence_cn": "- 东北地区：30%",
+        "words": [
+            "30"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- South: 36%",
+        "sentence_cn": "- 南部：36％",
+        "words": [
+            "36"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The visual includes pie charts to illustrate the proportions of smartphones versus feature phones, and different mobile operating systems over the three years.",
+        "sentence_cn": "视觉效果包括饼图，以说明三年来智能手机与功能手机以及不同移动操作系统的比例。",
+        "words": [
+            "pie",
+            "charts",
+            "proportions",
+            "smartphones",
+            "feature",
+            "phones",
+            "mobile",
+            "operating",
+            "systems",
+            "three",
+            "years"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, a bar chart shows prepaid plan activations, accompanied by a map detailing regional prepaid plan activation percentages.",
+        "sentence_cn": "此外，条形图显示了预付费计划的激活情况，并附有详细说明区域预付费计划激活百分比的地图。",
+        "words": [
+            "bar",
+            "chart",
+            "plan",
+            "activations",
+            "map",
+            "plan",
+            "activation",
+            "percentages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design incorporates a chalkboard theme, suggesting an educational or school-related context.",
+        "sentence_cn": "该设计采用了黑板主题，暗示了教育或学校相关的背景。",
+        "words": [
+            "design",
+            "chalkboard",
+            "theme",
+            "school",
+            "context"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,95 @@
+[
+    {
+        "sentence": "The image is a screenshot from the EDGAR Online website.",
+        "sentence_cn": "该图片是从 EDGAR Online 网站上截取的。",
+        "words": [
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a dark blue header with the EDGAR Online logo on the left.",
+        "sentence_cn": "其特点是深蓝色标题，左侧有 EDGAR Online 标志。",
+        "words": [
+            "header",
+            "logo",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below are navigation links labeled ABOUT, WHO WE HELP, SOLUTIONS, NEWS, and CONTACT.",
+        "sentence_cn": "下面是标有“关于”、“我们帮助谁”、“解决方案”、“新闻”和“联系方式”的导航链接。",
+        "words": [
+            "navigation",
+            "links",
+            "SOLUTIONS",
+            "NEWS",
+            "CONTACT"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the top right, there's a \"Subscriber Log-In\" button.",
+        "sentence_cn": "右上角有一个“订阅者登录”按钮。",
+        "words": [
+            "Subscriber Log-In",
+            "right",
+            "Subscriber",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Centrally, there is a blurred background with a text overlay stating \"Integrate Directly Sourced Data.\"",
+        "sentence_cn": "中央有一个模糊的背景，上面覆盖着一条文字，写着“集成直接来源的数据”。",
+        "words": [
+            "Integrate Directly Sourced Data.",
+            "background",
+            "text",
+            "overlay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this section, there are four icons and labels: Corporations, Investors, Regulators, and Data Platforms.",
+        "sentence_cn": "此部分下方有四个图标和标签：公司、投资者、监管机构和数据平台。",
+        "words": [
+            "section",
+            "four",
+            "icons",
+            "labels",
+            "Corporations",
+            "Data",
+            "Platforms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These are followed by a brief description of EDGAR Online, highlighting its role in providing company data and public filings, mentioning online subscriptions and data licenses.",
+        "sentence_cn": "接下来是 EDGAR Online 的简要介绍，强调了其在提供公司数据和公开文件方面的作用，并提及了在线订阅和数据许可。",
+        "words": [
+            "role",
+            "company",
+            "data",
+            "filings",
+            "subscriptions",
+            "data",
+            "licenses"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, logos of various companies, such as Google, Yahoo Finance, and NASDAQ, are displayed along with others, indicating they are industry leaders using EDGAR Online.",
+        "sentence_cn": "底部显示了谷歌、雅虎财经、纳斯达克等多家公司的标识，表明它们是使用 EDGAR Online 的行业领导者。",
+        "words": [
+            "bottom",
+            "logos",
+            "companies",
+            "others",
+            "industry",
+            "leaders"
+        ],
+        "id": null
+    }
+]

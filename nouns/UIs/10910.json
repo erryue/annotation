@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image displays a smartphone screen with a theme applied that resembles raindrops on glass with a green background.",
+        "sentence_cn": "该图显示的是一部智能手机的屏幕，其主题类似于玻璃上的雨滴，背景为绿色。",
+        "words": [
+            "smartphone",
+            "screen",
+            "theme",
+            "raindrops",
+            "glass",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The time displayed is 12:30, with a weather widget indicating sunny weather in San Francisco and a temperature of 18¡ãC.",
+        "sentence_cn": "显示的时间是12点30分，天气小部件显示旧金山天气晴朗，气温为18摄氏度。",
+        "words": [
+            "time",
+            "12:30",
+            "weather",
+            "widget",
+            "weather",
+            "San",
+            "Francisco",
+            "temperature",
+            "18¡ãC."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The icons on the home screen are themed, appearing circular with a glossy, slightly green-tinted look.",
+        "sentence_cn": "主屏幕上的图标是有主题的，呈圆形，有光泽，略带绿色。",
+        "words": [
+            "icons",
+            "home",
+            "screen",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "App icons shown include Music, Wallpapers, Market, Themes, Camera, Settings, Favorite tools, Clean Master, Phone, Contacts, All apps, Messaging, and Browser.",
+        "sentence_cn": "显示的应用程序图标包括音乐、壁纸、市场、主题、相机、设置、收藏工具、清洁大师、电话、联系人、所有应用程序、消息和浏览器。",
+        "words": [
+            "App",
+            "icons",
+            "Wallpapers",
+            "Themes",
+            "tools",
+            "apps",
+            "Messaging",
+            "Browser"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also shows a prompt below the phone screen that says, \"Click to install CM Launcher to apply this theme,\" with an \"Install\" button.",
+        "sentence_cn": "图片还显示了手机屏幕下方的提示“单击安装 CM Launcher 以应用此主题”，并带有“安装”按钮。",
+        "words": [
+            "Click to install CM Launcher to apply this theme,",
+            "Install",
+            "prompt",
+            "phone",
+            "screen",
+            "theme",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background around the phone screen is a blurred green gradient.",
+        "sentence_cn": "手机屏幕周围的背景是模糊的绿色渐变。",
+        "words": [
+            "background",
+            "phone",
+            "screen",
+            "gradient"
+        ],
+        "id": null
+    }
+]

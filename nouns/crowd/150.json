@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image depicts a social gathering where two men are engaged in a conversation, each holding a drink in a flute glass.",
+        "sentence_cn": "这幅画描绘了一场社交聚会，其中两名男子正在交谈，每人都拿着一杯长笛杯中的饮料。",
+        "words": [
+            "gathering",
+            "two",
+            "men",
+            "conversation",
+            "drink",
+            "flute",
+            "glass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man on the left is dressed in a dark suit with a light blue shirt and dark tie, and is attentively listening.",
+        "sentence_cn": "左边的男人穿着深色西装，浅蓝色衬衫，系着深色领带，正在专心致志地听着。",
+        "words": [
+            "man",
+            "left",
+            "suit",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man on the right is older, wearing a grey suit with a white and pink striped shirt, and a brown patterned tie.",
+        "sentence_cn": "右边的男子年纪较大，穿着灰色西装，内衬白色和粉色条纹衬衫，系着棕色图案的领带。",
+        "words": [
+            "man",
+            "right",
+            "suit",
+            "shirt",
+            "tie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He appears to be speaking, making a gesture with his hand.",
+        "sentence_cn": "他似乎在说话，并用手做了个手势。",
+        "words": [
+            "gesture",
+            "hand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, several other people are visible, engaged in their own conversations and smiling.",
+        "sentence_cn": "背景中还可以看到其他几个人，他们正在交谈，面带微笑。",
+        "words": [
+            "background",
+            "people",
+            "conversations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A woman wearing a plaid dress is prominently visible, holding a drink and smiling, suggesting a jovial atmosphere.",
+        "sentence_cn": "一名身穿格子连衣裙的女子十分显眼，她手拿饮料，面带微笑，洋溢着欢乐的气氛。",
+        "words": [
+            "woman",
+            "dress",
+            "drink",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be indoors, with a neutral decor that suggests a formal or business event.",
+        "sentence_cn": "场景似乎是在室内，中性的装饰让人感觉像是在举行正式活动或商务活动。",
+        "words": [
+            "decor",
+            "business",
+            "event"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "sentence": "The image depicts a living room setting with several notable elements.",
+        "sentence_cn": "该图描绘了具有几个显著元素的客厅布置。",
+        "words": [
+            "room",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there are two wooden chairs positioned by a window.",
+        "sentence_cn": "房间中央，靠窗摆放着两把木椅。",
+        "words": [
+            "center",
+            "two",
+            "chairs",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One chair on the left appears transparent, giving a ghost-like effect, possibly due to double exposure or long exposure photography.",
+        "sentence_cn": "左边的一把椅子看起来是透明的，呈现出一种幽灵般的效果，可能是由于双重曝光或长时间曝光摄影造成的。",
+        "words": [
+            "One",
+            "chair",
+            "left",
+            "ghost",
+            "effect",
+            "exposure",
+            "exposure",
+            "photography"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Between the chairs is a small table with a vase of flowers featuring a mix of red and white blooms.",
+        "sentence_cn": "椅子之间有一张小桌子，桌上放着一瓶花，花瓶里插着红色和白色的花朵。",
+        "words": [
+            "chairs",
+            "table",
+            "vase",
+            "flowers",
+            "mix",
+            "blooms"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The window behind the chairs is covered with light curtains, allowing sunlight to illuminate the interior softly.",
+        "sentence_cn": "椅子后面的窗户覆盖着轻质的窗帘，让阳光柔和地照亮室内。",
+        "words": [
+            "window",
+            "chairs",
+            "curtains",
+            "sunlight",
+            "interior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a glass-topped coffee table with magazines or books stacked neatly on it and a decorative item resembling a small statue or figurine.",
+        "sentence_cn": "前景是一张玻璃面的咖啡桌，上面整齐地堆放着杂志或书籍，还有一个类似小雕像或小雕像的装饰品。",
+        "words": [
+            "foreground",
+            "glass",
+            "coffee",
+            "table",
+            "magazines",
+            "books",
+            "item",
+            "statue",
+            "figurine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is warmly furnished, with a carpet covering the floor, and there is an overall elegant and classic mood reflected in the decor.",
+        "sentence_cn": "房间布置温馨，地板上铺着地毯，整体装饰体现出优雅而古典的氛围。",
+        "words": [
+            "room",
+            "carpet",
+            "floor",
+            "mood",
+            "decor"
+        ],
+        "id": null
+    }
+]

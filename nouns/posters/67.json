@@ -1,0 +1,100 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Ace Ventura: Pet Detective.\"",
+        "sentence_cn": "图片是《艾斯·文图拉：宠物侦探》的电影海报。",
+        "words": [
+            "Ace Ventura: Pet Detective.",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the name \"Jim Carrey\" is prominently displayed.",
+        "sentence_cn": "在顶部，“金凯瑞 (Jim Carrey)”的名字显眼地显示出来。",
+        "words": [
+            "Jim Carrey",
+            "top",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a large image of a man holding out a card towards the viewer.",
+        "sentence_cn": "海报上有一幅巨大的男子形象，他向观看者伸出了一张卡片。",
+        "words": [
+            "poster",
+            "man",
+            "card",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The card reads \"ACE VENTURA PET DETECTIVE\" with a logo of a cartoonish face and the text \"To serve and protect...Your pets!\"",
+        "sentence_cn": "卡片上写着“ACE VENTURA PET DETECTIVE”，上面有一个卡通脸的标志，还有文字“服务和保护......您的宠物！”",
+        "words": [
+            "ACE VENTURA PET DETECTIVE",
+            "To serve and protect...Your pets!",
+            "card",
+            "logo",
+            "face",
+            "text",
+            "pets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The man is wearing a colorful Hawaiian shirt and has a playful, mischievous expression.",
+        "sentence_cn": "男子身穿色彩鲜艳的夏威夷衬衫，表情俏皮又调皮。",
+        "words": [
+            "man",
+            "shirt",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the person, text reads: \"He's the best there is!",
+        "sentence_cn": "在此人的右边，文字写着：“他是最棒的！",
+        "words": [
+            "right",
+            "person",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "(Actually, he's the only one there is.)\"",
+        "sentence_cn": "（事实上​​，他是唯一一个。）”",
+        "words": [
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom includes credits for the filmmakers and production companies, with logos for Warner Bros and others.",
+        "sentence_cn": "底部包括电影制片人和制作公司的名单，以及华纳兄弟和其他公司的标志。",
+        "words": [
+            "bottom",
+            "credits",
+            "filmmakers",
+            "production",
+            "companies",
+            "logos",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster is comedic and engaging, matching the theme of the movie.",
+        "sentence_cn": "海报整体色调喜剧感十足，与电影主题相契合。",
+        "words": [
+            "tone",
+            "poster",
+            "theme",
+            "movie"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "sentence": "The image depicts a serene pastoral scene with a group of brown cows grazing in a lush green field.",
+        "sentence_cn": "画中描绘的是一幅宁静的田园风光，一群棕色的奶牛在郁郁葱葱的绿色田野中吃草。",
+        "words": [
+            "scene",
+            "group",
+            "cows",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a cow stands looking towards the camera.",
+        "sentence_cn": "前景中，一头牛站着，看着镜头。",
+        "words": [
+            "foreground",
+            "cow",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The field is expansive and stretches towards a backdrop of trees, some of which are tall conifers.",
+        "sentence_cn": "田野广阔，延伸至树木的背景，其中一些是高大的针叶树。",
+        "words": [
+            "field",
+            "backdrop",
+            "trees",
+            "conifers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast, with a layer of light gray clouds, creating a soft and diffused lighting over the landscape.",
+        "sentence_cn": "天空阴云密布，有一层淡灰色的云，为整个景观带来柔和而散射的光线。",
+        "words": [
+            "sky",
+            "layer",
+            "clouds",
+            "lighting",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are more cows dispersed throughout the field, some grazing and others lying down in the grass.",
+        "sentence_cn": "田野里散落着更多的牛，有的在吃草，有的躺在草地上。",
+        "words": [
+            "cows",
+            "field",
+            "others",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is calm and peaceful, typical of a countryside setting.",
+        "sentence_cn": "整体氛围平静祥和，典型的乡村氛围。",
+        "words": [
+            "atmosphere",
+            "countryside"
+        ],
+        "id": null
+    }
+]

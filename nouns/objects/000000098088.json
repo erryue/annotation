@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image shows a table display in a store or showroom.",
+        "sentence_cn": "图像显示了商店或陈列室里的桌面展示。",
+        "words": [
+            "table",
+            "display",
+            "store",
+            "showroom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center is a clear glass vase filled with vibrant yellow tulips.",
+        "sentence_cn": "中心是一个透明的玻璃花瓶，里面装满了鲜艳的黄色郁金香。",
+        "words": [
+            "center",
+            "glass",
+            "vase",
+            "tulips"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Flanking the vase on both sides are neatly stacked boxes.",
+        "sentence_cn": "花瓶两侧整齐地堆放着盒子。",
+        "words": [
+            "vase",
+            "sides",
+            "boxes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, the boxes have a grayscale image of an older man in a suit and are branded with \"Ilmio.\"",
+        "sentence_cn": "左侧的盒子上有一张身着西装的老年男子的灰度图像，上面印有“Ilmio”字样。",
+        "words": [
+            "Ilmio.",
+            "left",
+            "boxes",
+            "man",
+            "suit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right, the boxes feature images of glassware, likely tumblers or similar, also branded with \"Ilmio.\"",
+        "sentence_cn": "右边的盒子上有玻璃器皿的图像，可能是玻璃杯或类似物，也印有“Ilmio”的标志。",
+        "words": [
+            "Ilmio.",
+            "right",
+            "boxes",
+            "images",
+            "glassware",
+            "tumblers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The table surface has a placemat or tablecloth in a muted green or teal color.",
+        "sentence_cn": "桌面铺有柔和的绿色或青色餐垫或桌布。",
+        "words": [
+            "table",
+            "surface",
+            "placemat",
+            "tablecloth",
+            "color"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are more glassware items and possibly other kitchen or dining implements displayed, with a blurred effect suggesting depth.",
+        "sentence_cn": "在背景中，有更多的玻璃器皿，可能还有其他厨房或餐具展示出来，模糊的效果暗示了深度。",
+        "words": [
+            "background",
+            "glassware",
+            "items",
+            "kitchen",
+            "dining",
+            "implements",
+            "effect",
+            "depth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting has a warm and inviting atmosphere, with soft lighting and wooden accents.",
+        "sentence_cn": "这里的环境氛围温暖而温馨，拥有柔和的灯光和木质装饰。",
+        "words": [
+            "atmosphere",
+            "lighting",
+            "accents"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "sentence": "The image is a screenshot from an app interface titled \"Follow esports.\"",
+        "sentence_cn": "该图片是“关注电子竞技”应用程序界面的截图。",
+        "words": [
+            "Follow esports.",
+            "app",
+            "interface",
+            "esports"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It asks users to select their favorite esports leagues for a personalized experience.",
+        "sentence_cn": "它要求用户选择自己喜欢的电子竞技联盟，以获得个性化的体验。",
+        "words": [
+            "users",
+            "esports",
+            "leagues",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a progress bar with the first step highlighted, indicated by a game controller icon, and a \"NEXT\" button on the right.",
+        "sentence_cn": "在顶部，有一个进度条，其中第一步突出显示，由游戏控制器图标表示，右侧有一个“下一步”按钮。",
+        "words": [
+            "NEXT",
+            "top",
+            "progress",
+            "bar",
+            "step",
+            "game",
+            "controller",
+            "icon",
+            "NEXT",
+            "button",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, a list of popular esports games is displayed, each with a corresponding icon and a heart icon to the right for selection:",
+        "sentence_cn": "下面展示了热门电竞游戏列表，每个游戏都有相应的图标，右侧还有心形图标可供选择：",
+        "words": [
+            "list",
+            "esports",
+            "games",
+            "icon",
+            "heart",
+            "icon",
+            "right",
+            "selection"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. League of Legends",
+        "sentence_cn": "1.英雄联盟",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "2. Dota 2",
+        "sentence_cn": "2.Dota 2",
+        "words": [
+            "2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Counter-Strike: GO",
+        "sentence_cn": "3.《反恐精英：全球攻势》",
+        "words": [
+            "-",
+            "Strike"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Overwatch",
+        "sentence_cn": "4.守望先锋",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "5. Call of Duty",
+        "sentence_cn": "5.《使命召唤》",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "6. Super Smash Bros.",
+        "sentence_cn": "6. 超级大乱斗",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "7. Street Fighter (greyed out)",
+        "sentence_cn": "7. 街头霸王（灰色）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "8. Heroes of the Storm (greyed out)",
+        "sentence_cn": "8.风暴英雄（灰色）",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the screen are several icons likely indicating different app functionalities, and the time is displayed as 1:31.",
+        "sentence_cn": "屏幕顶部有几个图标，可能表示不同的应用程序功能，时间显示为 1:31。",
+        "words": [
+            "top",
+            "screen",
+            "icons",
+            "app",
+            "functionalities",
+            "time",
+            "1:31"
+        ],
+        "id": null
+    }
+]

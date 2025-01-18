@@ -1,0 +1,24 @@
+[
+    {
+        "id": "2d5a74cd-91dc-467d-be0e-18ebaeaffdeb",
+        "confidence": 0.82701,
+        "class": "carrot",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 440.65717,
+                        "minY": 159.83397,
+                        "maxX": 532.03082,
+                        "maxY": 416.71826
+                    },
+                    "x": 440.65717,
+                    "y": 159.83397,
+                    "w": 91.37364999999994,
+                    "h": 256.88428999999996
+                }
+            }
+        }
+    }
+]

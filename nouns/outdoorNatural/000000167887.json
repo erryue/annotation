@@ -1,0 +1,71 @@
+[
+    {
+        "sentence": "The image depicts a scene in a grassy savanna landscape.",
+        "sentence_cn": "该图描绘的是草原景观。",
+        "words": [
+            "scene",
+            "savanna",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a tall giraffe standing prominently, characterized by its long neck and distinctive patterned coat.",
+        "sentence_cn": "前景中，有一只高大的长颈鹿屹立不倒，其特点是长脖子和独特的皮毛图案。",
+        "words": [
+            "foreground",
+            "giraffe",
+            "neck",
+            "coat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the giraffe, a small group of zebras with their iconic black and white stripes is seen walking together.",
+        "sentence_cn": "长颈鹿的左边，一小群有着标志性黑白条纹的斑马一起走着。",
+        "words": [
+            "left",
+            "giraffe",
+            "group",
+            "zebras",
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The terrain is mostly flat and covered with green grass, indicating a lush environment.",
+        "sentence_cn": "地势多为平坦，且长满绿草，环境繁茂。",
+        "words": [
+            "terrain",
+            "grass",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is a dense area of low shrubbery or grassland, with a hazy horizon suggesting distance.",
+        "sentence_cn": "背景中是一片茂密的低矮灌木丛或草地，朦胧的地平线暗示着距离。",
+        "words": [
+            "background",
+            "area",
+            "shrubbery",
+            "grassland",
+            "horizon",
+            "distance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, adding to the sense of openness and vastness typical of savanna regions.",
+        "sentence_cn": "天空晴朗，增添了草原地区特有的开阔感和广阔感。",
+        "words": [
+            "sky",
+            "sense",
+            "openness",
+            "vastness",
+            "savanna",
+            "regions"
+        ],
+        "id": null
+    }
+]

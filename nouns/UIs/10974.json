@@ -1,0 +1,86 @@
+[
+    {
+        "sentence": "The image is an advertisement for the Wish shopping app.",
+        "sentence_cn": "图片是 Wish 购物应用程序的广告。",
+        "words": [
+            "shopping",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a gradient of light blue to darker blue.",
+        "sentence_cn": "背景是从浅蓝色到深蓝色的渐变。",
+        "words": [
+            "background",
+            "gradient",
+            "blue",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the Wish logo is displayed.",
+        "sentence_cn": "顶部显示了 Wish 徽标。",
+        "words": [
+            "top",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the logo, it shows the app's rating of 4.5 stars, based on 3 million reviews, and indicates that there have been 100 million downloads.",
+        "sentence_cn": "标志下方显示了该应用基于 300 万条评论的 4.5 星评级，并表明下载量已达 1 亿次。",
+        "words": [
+            "logo",
+            "app",
+            "rating",
+            "4.5",
+            "stars",
+            "3",
+            "million",
+            "reviews",
+            "100",
+            "million",
+            "downloads"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text below reads: \"Shop on Wish & Save Up to 80%! Download Now for Free.\"",
+        "sentence_cn": "下面的文字是：“在 Wish 上购物可节省高达 80%！立即免费下载。”",
+        "words": [
+            "Shop on Wish & Save Up to 80%! Download Now for Free.",
+            "text",
+            "Wish",
+            "80"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Google Play logo is visible, suggesting that the app is available for download on the Google Play Store.",
+        "sentence_cn": "可以看到 Google Play 徽标，表明该应用程序可在 Google Play 商店下载。",
+        "words": [
+            "logo",
+            "app",
+            "download"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, two buttons are displayed: \"NO THANKS\" on the left and \"INSTALL\" on the right.",
+        "sentence_cn": "底部显示两个按钮：左边是“NO THANKS”，右边是“INSTALL”。",
+        "words": [
+            "NO THANKS",
+            "INSTALL",
+            "bottom",
+            "two",
+            "buttons",
+            "THANKS",
+            "left",
+            "INSTALL",
+            "right"
+        ],
+        "id": null
+    }
+]

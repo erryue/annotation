@@ -1,0 +1,308 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"A Look at Browser Usage on ChicagoTribune.com,\" focusing on visitor statistics from August 2012.",
+        "sentence_cn": "该图是一张信息图表，标题为“查看 ChicagoTribune.com 上的浏览​​器使用情况”，重点关注 2012 年 8 月的访客统计数据。",
+        "words": [
+            "A Look at Browser Usage on ChicagoTribune.com,",
+            "Look",
+            "Browser",
+            "Usage",
+            "visitor",
+            "statistics",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It reports a total of 20.7 million visits to the site in that month.",
+        "sentence_cn": "据报道，当月该网站的访问量总计达2070万次。",
+        "words": [
+            "total",
+            "20.7",
+            "million",
+            "visits",
+            "site",
+            "month"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Browser Usage Breakdown:",
+        "sentence_cn": "### 浏览器使用情况明细：",
+        "words": [
+            "Browser",
+            "Usage",
+            "Breakdown"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Internet Explorer (IE)",
+        "sentence_cn": "1. Internet Explorer（IE）",
+        "words": [
+            "Internet Explorer (IE)"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 7,858,926 visitors.",
+        "sentence_cn": "- 7,858,926 名访客。",
+        "words": [
+            "7,858,926",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Described as the default browser for Windows, used on about 90% of the world's computers.",
+        "sentence_cn": "- 被称为 Windows 的默认浏览器，在全球约 90% 的计算机上使用。",
+        "words": [
+            "browser",
+            "90",
+            "world",
+            "computers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Chrome",
+        "sentence_cn": "2. Chrome",
+        "words": [
+            "Chrome",
+            "Chrome"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 3,675,771 visitors.",
+        "sentence_cn": "- 3,675,771 名访客。",
+        "words": [
+            "3,675,771",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Launched in September 2008, noted as the most popular browser in the world at the time.",
+        "sentence_cn": "- 于 2008 年 9 月推出，当时被认为是世界上最受欢迎的浏览器。",
+        "words": [
+            "2008",
+            "browser",
+            "world",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Firefox",
+        "sentence_cn": "3. 火狐",
+        "words": [
+            "Firefox"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 3,659,621 visitors.",
+        "sentence_cn": "- 3,659,621 名访客。",
+        "words": [
+            "3,659,621",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Known for having over 2 billion add-ons downloaded by users.",
+        "sentence_cn": "- 因用户下载超过 20 亿个附加组件而闻名。",
+        "words": [
+            "2",
+            "billion",
+            "add",
+            "-",
+            "ons",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Safari",
+        "sentence_cn": "4. Safari",
+        "words": [
+            "Safari"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 2,053,806 visitors.",
+        "sentence_cn": "- 2,053,806 名访客。",
+        "words": [
+            "2,053,806",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Highlighted as the most popular browser for mobile and tablet traffic.",
+        "sentence_cn": "- 被誉为移动和平板电脑流量中最受欢迎的浏览器。",
+        "words": [
+            "browser",
+            "tablet",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Opera",
+        "sentence_cn": "5. 歌剧",
+        "words": [
+            "Opera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 48,349 visitors.",
+        "sentence_cn": "- 48,349 名访客。",
+        "words": [
+            "48,349",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Unique as the only commercial web browser available for Nintendo DS and Wii gaming systems.",
+        "sentence_cn": "- 独一无二的，唯一适用于 Nintendo DS 和 Wii 游戏系统的商业网络浏览器。",
+        "words": [
+            "web",
+            "browser",
+            "gaming",
+            "systems"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. AOL",
+        "sentence_cn": "6. 美国在线",
+        "words": [
+            "AOL"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 5,346 visitors.",
+        "sentence_cn": "- 5,346 名访客。",
+        "words": [
+            "5,346",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Mentions AOL¡¯s financial struggles with net losses of $2.6 million in 2011.",
+        "sentence_cn": "- 提到 AOL 的财务困境，2011 年净亏损 260 万美元。",
+        "words": [
+            "struggles",
+            "losses",
+            "2.6",
+            "million",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Netscape",
+        "sentence_cn": "7. Netscape",
+        "words": [
+            "Netscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 4,188 visitors.",
+        "sentence_cn": "- 4,188 名访客。",
+        "words": [
+            "4,188",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Recognized nostalgically with \"takes us on a trip down memory lane!\"",
+        "sentence_cn": "- 怀旧地表示“带我们回顾过去！”",
+        "words": [
+            "takes us on a trip down memory lane!",
+            "trip",
+            "memory",
+            "lane"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Other Browsers",
+        "sentence_cn": "8. 其他浏览器",
+        "words": [
+            "Other Browsers",
+            "Browsers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 276 visitors.",
+        "sentence_cn": "- 276 名访客。",
+        "words": [
+            "276",
+            "visitors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Style and Presentation:",
+        "sentence_cn": "### 风格与呈现：",
+        "words": [
+            "Style",
+            "Presentation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The infographic design features a textured, scrapbook-like background.",
+        "sentence_cn": "- 信息图表设计具有纹理的、类似剪贴簿的背景。",
+        "words": [
+            "design",
+            "scrapbook",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Uses illustrated bar graphs and icons for each browser, with handwritten-style annotations providing additional context.",
+        "sentence_cn": "- 使用图解条形图和图标来表示每个浏览器，并以手写风格的注释提供额外的背景信息。",
+        "words": [
+            "bar",
+            "graphs",
+            "icons",
+            "browser",
+            "style",
+            "annotations",
+            "context"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Presented by \"435 Digital\" at the bottom right corner.",
+        "sentence_cn": "- 右下角由“435 Digital”呈现。",
+        "words": [
+            "435 Digital",
+            "435",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The information is based on data from Tribune Digital, Mashable, NetApplications, and the Mozilla Blog.",
+        "sentence_cn": "该信息基于 Tribune Digital、Mashable、NetApplications 和 Mozilla Blog 的数据。",
+        "words": [
+            "information",
+            "data"
+        ],
+        "id": null
+    }
+]

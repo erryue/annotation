@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a tranquil rural scene featuring a small pond with ducks swimming on its surface.",
+        "sentence_cn": "这幅画描绘的是一片宁静的乡村景色，画中有一个小池塘，水面上有几只鸭子在游动。",
+        "words": [
+            "scene",
+            "pond",
+            "ducks",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pond is bordered by greenery and grass, with a gently sloping grassy bank leading up to it.",
+        "sentence_cn": "池塘周围绿树成荫，草地平缓倾斜，岸边长满草木。",
+        "words": [
+            "pond",
+            "greenery",
+            "grass",
+            "bank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the image, there are two stone buildings with multi-paned windows suggesting a rustic, countryside setting.",
+        "sentence_cn": "在图片的左侧，有两座石头建筑，其多窗格窗户呈现出质朴的乡村风情。",
+        "words": [
+            "two",
+            "stone",
+            "buildings",
+            "windows",
+            "countryside"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A pink shed or small building adds a splash of color to the scene among the predominantly green surroundings.",
+        "sentence_cn": "粉红色的棚屋或小建筑给以绿色为主的环境增添了一抹色彩。",
+        "words": [
+            "shed",
+            "building",
+            "splash",
+            "color",
+            "scene",
+            "surroundings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, mature trees provide a lush backdrop.",
+        "sentence_cn": "在背景中，成熟的树木提供了郁郁葱葱的背景。",
+        "words": [
+            "background",
+            "trees",
+            "backdrop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear with a hint of cloud, indicating a pleasant day.",
+        "sentence_cn": "天空晴朗，有一丝云彩，预示着天气晴朗。",
+        "words": [
+            "sky",
+            "hint",
+            "cloud",
+            "day"
+        ],
+        "id": null
+    }
+]

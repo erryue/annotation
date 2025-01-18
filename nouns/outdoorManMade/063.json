@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image depicts a vibrant and illuminated cityscape during twilight or early evening.",
+        "sentence_cn": "该图描绘的是黄昏或傍晚时分充满活力、灯火通明的城市景观。",
+        "words": [
+            "cityscape",
+            "twilight",
+            "evening"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The skyline is dominated by an iconic and uniquely shaped skyscraper with bright, colorful lights outlining its structure, creating a striking presence against the backdrop of a blue sky with scattered clouds.",
+        "sentence_cn": "天际线中矗立着一座标志性的、造型独特的摩天大楼，明亮的彩色灯光勾勒出其结构，在蓝天白云的映衬下，显得格外引人注目。",
+        "words": [
+            "skyline",
+            "skyscraper",
+            "lights",
+            "structure",
+            "presence",
+            "backdrop",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this skyscraper, the city is bustling with a mix of modern high-rise buildings and structures, all aglow with artificial lights.",
+        "sentence_cn": "在这座摩天大楼之下，城市熙熙攘攘，现代化的高层建筑和建筑结构鳞次栉比，全部在人工灯光的照耀下闪闪发光。",
+        "words": [
+            "skyscraper",
+            "city",
+            "mix",
+            "rise",
+            "buildings",
+            "structures",
+            "lights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a large building prominently displaying a neon sign on its side, adding to the lively atmosphere.",
+        "sentence_cn": "有一栋大楼，侧面显眼地挂着霓虹灯，增添了热闹的气氛。",
+        "words": [
+            "building",
+            "neon",
+            "sign",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The city appears to be surrounded by water, with a body of water visible in the foreground.",
+        "sentence_cn": "这座城市似乎被水包围，前景中可以看到一片水域。",
+        "words": [
+            "city",
+            "water",
+            "body",
+            "water",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A bridge or roadway curves toward the water, leading to a circular area with landscaped greenery and what seems to be a fountain or sculpture.",
+        "sentence_cn": "一座桥或一条道路向水边弯曲，通向一个圆形区域，其中有美丽的绿地和看似喷泉或雕塑的东西。",
+        "words": [
+            "bridge",
+            "roadway",
+            "water",
+            "area",
+            "greenery",
+            "fountain",
+            "sculpture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene is a blend of natural beauty and human-made architecture, capturing the lively essence of an urban nighttime landscape.",
+        "sentence_cn": "整体场景融合了自然美景和人造建筑，捕捉了城市夜间景观的生动本质。",
+        "words": [
+            "scene",
+            "blend",
+            "beauty",
+            "human",
+            "architecture",
+            "essence",
+            "nighttime",
+            "landscape"
+        ],
+        "id": null
+    }
+]

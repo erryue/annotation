@@ -1,0 +1,129 @@
+[
+    {
+        "sentence": "The image depicts a study or work setup on a desk near a window.",
+        "sentence_cn": "图像描绘的是靠近窗户的桌子上的书房或工作场景。",
+        "words": [
+            "study",
+            "work",
+            "desk",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Laptop: A white laptop is open, displaying a webpage, possibly a news site or article repository with various sections visible.",
+        "sentence_cn": "1. 笔记本电脑：一台白色笔记本电脑打开了，上面显示着一个网页，可能是新闻网站或文章存储库，其中可见各个部分。",
+        "words": [
+            "Laptop",
+            "Laptop",
+            "laptop",
+            "webpage",
+            "news",
+            "site",
+            "article",
+            "repository",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Documents: There are printed documents on the desk with text and handwritten notes in blue ink.",
+        "sentence_cn": "2. 文件：桌子上有打印的文件，上面有蓝色墨水写的文字和手写的笔记。",
+        "words": [
+            "Documents",
+            "Documents",
+            "documents",
+            "desk",
+            "text",
+            "notes",
+            "ink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A purple pen is resting on one of the papers.",
+        "sentence_cn": "一支紫色的笔放在一张纸上。",
+        "words": [
+            "pen",
+            "one",
+            "papers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Book: A textbook titled \"Change of State: Information, Policy, and Power\" is on the desk, suggesting a focus on political or informational studies.",
+        "sentence_cn": "3. 书籍：桌子上有一本名为《国家变革：信息、政策和权力》的教科书，表明其侧重于政治或信息研究。",
+        "words": [
+            "Book",
+            "Change of State: Information, Policy, and Power",
+            "Book",
+            "textbook",
+            "desk",
+            "focus",
+            "studies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Highlighters: Several colorful highlighters are visible, indicating active study or note-taking.",
+        "sentence_cn": "4. 荧光笔：可见多个彩色荧光笔，表示正在积极学习或做笔记。",
+        "words": [
+            "Highlighters",
+            "Highlighters",
+            "highlighters",
+            "study",
+            "note",
+            "taking"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Backpack: A dark-colored backpack is partially on the desk, commonly associated with a student or professional setting.",
+        "sentence_cn": "5. 背包：深色背包部分放在桌子上，通常与学生或专业环境相关。",
+        "words": [
+            "Backpack",
+            "Backpack",
+            "backpack",
+            "desk",
+            "student"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Window View: Through the window, there is a view of snowy trees and parked cars, suggesting a winter scene outside.",
+        "sentence_cn": "6. 窗外风景：透过窗户，可以看到雪树和停放的汽车，仿佛看到外面的冬日景色。",
+        "words": [
+            "Window View",
+            "Window",
+            "View",
+            "window",
+            "view",
+            "trees",
+            "cars",
+            "winter",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall impression is of someone engaged in focused work or study, with tools for reading, highlighting, and note-taking.",
+        "sentence_cn": "总体印象是某人正在专注地工作或学习，并拥有阅读、突出显示和做笔记的工具。",
+        "words": [
+            "impression",
+            "work",
+            "study",
+            "tools",
+            "reading",
+            "highlighting",
+            "note",
+            "taking"
+        ],
+        "id": null
+    }
+]

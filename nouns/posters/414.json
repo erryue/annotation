@@ -1,0 +1,153 @@
+[
+    {
+        "sentence": "The image is a vintage-style movie poster for \"My Favorite Year.\"",
+        "sentence_cn": "图片是《我最喜欢的一年》的复古风格电影海报。",
+        "words": [
+            "My Favorite Year.",
+            "style",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features an illustration of two men in dramatic poses: one is an older man, holding a sword and smoking, while the younger man clings to him, seemingly in mid-air.",
+        "sentence_cn": "画中是两名男子的戏剧性姿势：一名是年长男子，手握剑，吸烟，而年轻男子则紧紧抱住他，似乎在半空中。",
+        "words": [
+            "illustration",
+            "two",
+            "men",
+            "poses",
+            "one",
+            "man",
+            "sword",
+            "man",
+            "mid",
+            "-",
+            "air"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are set against a circular sunset background.",
+        "sentence_cn": "它们以圆形的日落为背景。",
+        "words": [
+            "sunset",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both appear to be wearing suits, with ties flying dramatically.",
+        "sentence_cn": "两人似乎都穿着西装，领带也夸张地飘扬着。",
+        "words": [
+            "suits",
+            "ties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the illustration, the title \"My Favorite Year\" is prominently displayed in bold letters, with a cityscape silhouette underneath.",
+        "sentence_cn": "插图下方，标题“我最喜欢的一年”以粗体字母突出显示，下方是城市景观轮廓。",
+        "words": [
+            "My Favorite Year",
+            "illustration",
+            "title",
+            "letters",
+            "cityscape",
+            "silhouette"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text provides details about the film:",
+        "sentence_cn": "文本提供了有关该电影的详细信息：",
+        "words": [
+            "text",
+            "details",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Presented by Metro-Goldwyn-Mayer",
+        "sentence_cn": "- 由米高梅电影公司出品",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A Brooksfilms Limited and Michael Gruskoff Production",
+        "sentence_cn": "- Brooksfilms Limited 和 Michael Gruskoff 出品",
+        "words": [
+            "Production"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Names of the actors: Peter O'Toole, Jessica Harper, Joseph Bologna",
+        "sentence_cn": "- 演员姓名：Peter O'Toole、Jessica Harper、Joseph Bologna",
+        "words": [
+            "Names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Introducing Mark Linn-Baker",
+        "sentence_cn": "- 介绍 Mark Linn-Baker",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Screenplay by Norman Steinberg and Dennis Palumbo",
+        "sentence_cn": "- 剧本由诺曼·斯坦伯格和丹尼斯·帕伦博撰写",
+        "words": [
+            "Screenplay"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Story by Dennis Palumbo",
+        "sentence_cn": "- 故事作者：丹尼斯·帕伦博",
+        "words": [
+            "Story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Produced by Michael Gruskoff",
+        "sentence_cn": "- 由 Michael Gruskoff 制作",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Directed by Richard Benjamin",
+        "sentence_cn": "- 导演：理查德·本杰明",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a parental guidance suggestion and the MGM logo.",
+        "sentence_cn": "底部有家长指导建议和米高梅标志。",
+        "words": [
+            "bottom",
+            "guidance",
+            "suggestion",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design evokes a sense of excitement and adventure typical of classic film posters.",
+        "sentence_cn": "整体设计唤起了经典电影海报典型的兴奋和冒险感。",
+        "words": [
+            "design",
+            "sense",
+            "excitement",
+            "adventure",
+            "film",
+            "posters"
+        ],
+        "id": null
+    }
+]

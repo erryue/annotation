@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from canoe.com, featuring a news article.",
+        "sentence_cn": "该图片是 canoe.com 网页的截图，其中有一篇新闻文章。",
+        "words": [
+            "webpage",
+            "news",
+            "article"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main section shows an embedded video from CNN with a scene in Greenville, South Carolina, where a political event is taking place.",
+        "sentence_cn": "主要部分展示了来自 CNN 的嵌入式视频，其中场景是南卡罗来纳州格林维尔，那里正在举办一场政治活动。",
+        "words": [
+            "section",
+            "video",
+            "scene",
+            "Greenville",
+            "South",
+            "Carolina",
+            "event",
+            "place"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The video displays a man and a woman on stage, near a podium with a sign that reads ¡°TRUMP MAKE AMERICA GREAT AGAIN!¡± Above the video, the location \"Greenville, South Carolina\" and time \"12:42 PM ET\" are noted.",
+        "sentence_cn": "视频中，一名男子和一名女子站在舞台上，旁边的讲台上写着“特朗普让美国再次伟大！”。视频上方标明了地点“南卡罗来纳州格林维尔”和时间“美国东部时间下午 12:42”。",
+        "words": [
+            "Greenville, South Carolina",
+            "12:42 PM ET",
+            "video",
+            "man",
+            "woman",
+            "stage",
+            "podium",
+            "sign",
+            "video",
+            "location",
+            "Greenville",
+            "South",
+            "Carolina",
+            "time",
+            "12:42",
+            "PM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The headline under the video states, \"Trump convinces woman his hair...\" suggesting the context of a humorous or unusual incident involving a hair-related topic.",
+        "sentence_cn": "视频下的标题是“特朗普让女人相信他的头发……”，暗示与头发相关的话题的幽默或不寻常事件的背景。",
+        "words": [
+            "Trump convinces woman his hair...",
+            "headline",
+            "video",
+            "woman",
+            "hair",
+            "context",
+            "incident",
+            "hair",
+            "topic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The webpage includes navigational elements at the top, with categories such as News, Showbiz, Sports, Money, and more.",
+        "sentence_cn": "网页顶部包含导航元素，包括新闻、娱乐、体育、财经等类别。",
+        "words": [
+            "webpage",
+            "elements",
+            "top",
+            "categories",
+            "Sports",
+            "Money"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also sidebar ads promoting discounts on household items, and another promoting a \"Live!\" sharing service.",
+        "sentence_cn": "侧边栏广告还宣传家居用品的折扣，还有一个宣传“Live！”共享服务的广告。",
+        "words": [
+            "Live!",
+            "sidebar",
+            "ads",
+            "discounts",
+            "household",
+            "items",
+            "service"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background of the on-stage scene, the backdrop reads \"DonaldJTrump.com,\" and there are American and another flag visible.",
+        "sentence_cn": "在舞台场景的背景中，背景上写着“DonaldJTrump.com”，并且可以看到美国国旗和另一面旗帜。",
+        "words": [
+            "DonaldJTrump.com,",
+            "background",
+            "stage",
+            "scene",
+            "backdrop",
+            "flag"
+        ],
+        "id": null
+    }
+]

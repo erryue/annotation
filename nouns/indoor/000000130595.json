@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image shows a cozy and modern living room leading into a dining area.",
+        "sentence_cn": "图片展示的是舒适而现代的客厅通向用餐区。",
+        "words": [
+            "room",
+            "dining",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is made of light-colored wood planks, giving the space a warm and natural feel.",
+        "sentence_cn": "地板采用浅色木板，给空间带来温暖、自然的感觉。",
+        "words": [
+            "floor",
+            "wood",
+            "planks",
+            "space",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the living room, there is a white couch with patterned cushions.",
+        "sentence_cn": "客厅里有一张白色的沙发，配有带图案的靠垫。",
+        "words": [
+            "living",
+            "room",
+            "couch",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A potted plant is placed near the sofa, adding a touch of greenery.",
+        "sentence_cn": "沙发旁边摆放着一盆盆栽，增添了一丝绿意。",
+        "words": [
+            "plant",
+            "sofa",
+            "touch",
+            "greenery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small table or entertainment unit is visible, with some items placed on top, including a bowl.",
+        "sentence_cn": "可以看到一张小桌子或娱乐单元，上面摆放着一些物品，包括一个碗。",
+        "words": [
+            "table",
+            "entertainment",
+            "unit",
+            "items",
+            "top",
+            "bowl"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a cat is walking towards the dining area, adding a lively touch to the scene.",
+        "sentence_cn": "前景中，一只猫正朝餐厅走去，给场景增添了一丝活泼的气氛。",
+        "words": [
+            "foreground",
+            "cat",
+            "dining",
+            "area",
+            "touch",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The dining room features a table surrounded by chairs, with some items placed on the tabletop.",
+        "sentence_cn": "餐厅里有一张桌子，周围摆放着椅子，桌面上摆放着一些物品。",
+        "words": [
+            "dining",
+            "room",
+            "table",
+            "chairs",
+            "items",
+            "tabletop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are painted white, and the room is well-lit, possibly due to a lamp or ceiling light.",
+        "sentence_cn": "墙壁漆成白色，房间光线充足，可能是因为有灯或天花板灯。",
+        "words": [
+            "walls",
+            "room",
+            "lamp",
+            "ceiling",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A door is partially open between the two rooms, revealing more of the space.",
+        "sentence_cn": "两个房间之间的门部分敞开，露出更多的空间。",
+        "words": [
+            "door",
+            "two",
+            "rooms",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A scratching post is placed near the door, likely for the cat.",
+        "sentence_cn": "门附近放置了一个猫抓柱，可能是为猫准备的。",
+        "words": [
+            "scratching",
+            "post",
+            "door",
+            "cat"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the rooms have a comfortable and inviting atmosphere.",
+        "sentence_cn": "总体而言，房间氛围舒适而温馨。",
+        "words": [
+            "rooms",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

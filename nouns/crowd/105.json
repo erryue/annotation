@@ -1,0 +1,70 @@
+[
+    {
+        "sentence": "The image depicts a classroom setting with several children seated around dark brown rectangular tables.",
+        "sentence_cn": "图像描绘了一个教室场景，几个孩子围坐在深棕色的长方形桌子周围。",
+        "words": [
+            "classroom",
+            "children",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The children are facing away from the camera, appearing attentive, likely listening to someone at the front of the room.",
+        "sentence_cn": "孩子们背对着镜头，看起来很专心，似乎是在听房间前面的某个人说话。",
+        "words": [
+            "children",
+            "camera",
+            "front",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are coats draped over the backs of some chairs, including a bright green and white jacket and a colorful striped one.",
+        "sentence_cn": "一些椅背上搭着外套，包括一件亮绿色和白色的夹克和一件彩色条纹的夹克。",
+        "words": [
+            "coats",
+            "backs",
+            "chairs",
+            "jacket",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has built-in cabinets and countertop lining the wall, with various items such as a bag and dispenser visible.",
+        "sentence_cn": "房间内有靠墙的内置橱柜和台面，可以看到袋子和分配器等各种物品。",
+        "words": [
+            "room",
+            "cabinets",
+            "countertop",
+            "wall",
+            "items",
+            "bag",
+            "dispenser"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An easel with a blank whiteboard or flip chart paper is positioned at the front.",
+        "sentence_cn": "前面放置一个画架，上面有一块空白的白板或挂图纸。",
+        "words": [
+            "easel",
+            "whiteboard",
+            "chart",
+            "paper",
+            "front"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere suggests a casual, educational environment.",
+        "sentence_cn": "整体氛围体现出一种轻松、有教育意义的环境。",
+        "words": [
+            "atmosphere",
+            "environment"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image is an advertisement for Burger King's \"Halloween Whopper.\"",
+        "sentence_cn": "该图是汉堡王“万圣节皇堡”的广告。",
+        "words": [
+            "Halloween Whopper."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focus is on the burger, which features a distinctive black bun.",
+        "sentence_cn": "焦点是汉堡，其特点是独特的黑色面包。",
+        "words": [
+            "focus",
+            "burger",
+            "bun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The burger is layered with lettuce, tomato, cheese, and a beef patty.",
+        "sentence_cn": "汉堡夹有生菜、西红柿、奶酪和牛肉饼。",
+        "words": [
+            "burger",
+            "lettuce",
+            "tomato",
+            "cheese",
+            "beef",
+            "patty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the right side reads \"HALLOWEEN WHOPPER\" with \"A.1. FLAVOR BAKED INTO THE BUN\" underneath, indicating that the bun includes A.1. Steak Sauce flavor.",
+        "sentence_cn": "右侧的文字写着“HALLOWEEN WHOPPER”，下方写着“A.1. FLAVOR BAKED INTO THE BUN”，表示这款面包含有 A.1. 牛排酱口味。",
+        "words": [
+            "HALLOWEEN WHOPPER",
+            "A.1. FLAVOR BAKED INTO THE BUN",
+            "text",
+            "A.1",
+            "FLAVOR",
+            "BUN",
+            "bun",
+            "A.1",
+            "flavor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this is the Burger King logo followed by the phrase \"YOUR WAY.\"",
+        "sentence_cn": "下面是汉堡王的标志，后面是短语“YOUR WAY（您的方式）”。",
+        "words": [
+            "YOUR WAY.",
+            "logo",
+            "phrase",
+            "WAY"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, one can see a dark setting with A.1. sauce bottles slightly blurred, emphasizing the theme and ingredients.",
+        "sentence_cn": "在背景中，可以看到一个黑暗的环境，其中的 A.1. 酱汁瓶略微模糊，强调了主题和原料。",
+        "words": [
+            "background",
+            "A.1",
+            "sauce",
+            "bottles",
+            "theme",
+            "ingredients"
+        ],
+        "id": null
+    }
+]

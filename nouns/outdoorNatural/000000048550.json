@@ -1,0 +1,79 @@
+[
+    {
+        "sentence": "The image depicts a serene lakeside scene with a wooden bench in the foreground, positioned on a grassy patch.",
+        "sentence_cn": "这幅画描绘了一片宁静的湖畔景色，前景中有一张木凳，摆放在一片草地上。",
+        "words": [
+            "lakeside",
+            "scene",
+            "bench",
+            "foreground",
+            "patch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bench is slightly angled, offering a view of the lake and creating an inviting spot for contemplation.",
+        "sentence_cn": "长椅略微倾斜，可以看到湖景，营造出一个令人沉思的宜人空间。",
+        "words": [
+            "bench",
+            "view",
+            "lake",
+            "spot",
+            "contemplation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water of the lake is calm, reflecting the clear blue sky above, with sparse vegetation along its edges.",
+        "sentence_cn": "湖水平静，倒映着上方湛蓝的天空，湖边有稀疏的植被。",
+        "words": [
+            "water",
+            "lake",
+            "sky",
+            "vegetation",
+            "edges"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, lush green trees line the shore, their foliage varying in shades of green, suggesting a late spring or summer setting.",
+        "sentence_cn": "背景中，郁郁葱葱的绿树排列在岸边，树叶呈现出深浅不一的绿色，让人联想到晚春或夏季的景象。",
+        "words": [
+            "background",
+            "trees",
+            "shore",
+            "foliage",
+            "shades",
+            "green",
+            "spring",
+            "summer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sunlight casts a warm glow, particularly on the grass and trees on the right side, indicating it might be late afternoon.",
+        "sentence_cn": "阳光投射出温暖的光芒，特别是照射在右侧的草地和树木上，这表明现在可能已是傍晚。",
+        "words": [
+            "sunlight",
+            "glow",
+            "grass",
+            "trees",
+            "afternoon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A tall tree to the right of the bench provides a touch of shade, and the whole scene exudes tranquility and natural beauty.",
+        "sentence_cn": "长椅右侧有一棵高大的树木提供一丝阴凉，整个场景散发着宁静和自然的美丽。",
+        "words": [
+            "tree",
+            "bench",
+            "touch",
+            "shade",
+            "scene",
+            "tranquility",
+            "beauty"
+        ],
+        "id": null
+    }
+]

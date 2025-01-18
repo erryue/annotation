@@ -1,0 +1,102 @@
+[
+    {
+        "sentence": "The image shows four people standing on a rooftop.",
+        "sentence_cn": "图像显示四个人站在屋顶上。",
+        "words": [
+            "four",
+            "people",
+            "rooftop"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be engaged in conversation.",
+        "sentence_cn": "他们似乎正在交谈。",
+        "words": [
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. The person on the left is wearing a black sleeveless top with a red plaid skirt, and her hair is adorned with a matching red plaid bow.",
+        "sentence_cn": "1. 左边的人穿着黑色无袖上衣，搭配红色格子裙，头发上戴着相配的红色格子蝴蝶结。",
+        "words": [
+            "person",
+            "left",
+            "top",
+            "plaid",
+            "skirt",
+            "hair",
+            "plaid",
+            "bow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. To her right, there's a person wearing a maroon shirt.",
+        "sentence_cn": "2. 在她的右边，有一个穿着栗色衬衫的人。",
+        "words": [
+            "right",
+            "person",
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Facing the camera is a person with short hair wearing glasses and a light grey shirt with a print design.",
+        "sentence_cn": "3. 面对镜头的是一位短发、戴着眼镜、身穿带有印花图案的浅灰色衬衫的人。",
+        "words": [
+            "camera",
+            "person",
+            "hair",
+            "glasses",
+            "shirt",
+            "print",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. To the far right, another person is wearing a black t-shirt and blue jeans, standing with their back to the camera.",
+        "sentence_cn": "4. 最右边，另一个人穿着黑色 T 恤和蓝色牛仔裤，背对着镜头站立。",
+        "words": [
+            "right",
+            "person",
+            "t",
+            "shirt",
+            "jeans",
+            "back",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there are several tall buildings, suggesting an urban setting.",
+        "sentence_cn": "背景中，有几座高楼大厦，展现出城市环境。",
+        "words": [
+            "background",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Trees are visible at the base of the buildings.",
+        "sentence_cn": "在建筑物的底部可以看到树木。",
+        "words": [
+            "Trees",
+            "base",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is partly cloudy with sunlight illuminating the scene.",
+        "sentence_cn": "天空多云，阳光照亮了场景。",
+        "words": [
+            "sky",
+            "sunlight",
+            "scene"
+        ],
+        "id": null
+    }
+]

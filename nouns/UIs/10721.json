@@ -1,0 +1,136 @@
+[
+    {
+        "sentence": "The image is a screenshot of an app interface, highlighting an \"App of the Day\" feature.",
+        "sentence_cn": "该图是应用程序界面的屏幕截图，突出显示了“今日应用程序”功能。",
+        "words": [
+            "App of the Day",
+            "app",
+            "interface",
+            "App",
+            "Day",
+            "feature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The app being highlighted is \"myTuner Radio,\" which is advertised with a \"Save $2.99\" badge and is currently free.",
+        "sentence_cn": "- 重点介绍的应用程序是“myTuner Radio”，它打着“节省 2.99 美元”的标签，目前免费。",
+        "words": [
+            "myTuner Radio,",
+            "Save $2.99",
+            "app",
+            "2.99",
+            "badge"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The description mentions listening options, like Chicago talk radio and breaking news in Southeast Asia, with a \"Read More\" link.",
+        "sentence_cn": "- 描述中提到了收听选项，例如芝加哥谈话广播和东南亚突发新闻，并带有“阅读更多”链接。",
+        "words": [
+            "Read More",
+            "listening",
+            "options",
+            "Chicago",
+            "talk",
+            "radio",
+            "news",
+            "Southeast",
+            "Asia",
+            "link"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Below the description, there are promotional images of the app:",
+        "sentence_cn": "- 描述下方有该应用程序的宣传图片：",
+        "words": [
+            "images",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The first image indicates \"30,000 radio stations in 180 countries.\"",
+        "sentence_cn": "- 第一张图片显示“180个国家的30,000个广播电台”。",
+        "words": [
+            "30,000 radio stations in 180 countries.",
+            "30,000",
+            "radio",
+            "stations",
+            "180",
+            "countries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The second image states \"25 million users.\"",
+        "sentence_cn": "- 第二张图片显示“2500 万用户”。",
+        "words": [
+            "25 million users.",
+            "25",
+            "million",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The third highlights \"news, sports & music stations.\"",
+        "sentence_cn": "- 第三重点介绍“新闻、体育和音乐电台”。",
+        "words": [
+            "news, sports & music stations.",
+            "highlights",
+            "news",
+            "sports",
+            "music",
+            "stations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The fourth mentions \"1 million podcasts.\"",
+        "sentence_cn": "- 第四部分提到“100 万个播客”。",
+        "words": [
+            "1 million podcasts.",
+            "1",
+            "million",
+            "podcasts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The interface includes options to share via Facebook, Twitter, Google+, and another generic share icon.",
+        "sentence_cn": "- 界面包括通过 Facebook、Twitter、Google+ 和其他通用共享图标共享的选项。",
+        "words": [
+            "interface",
+            "options",
+            "share",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- There¡¯s a countdown timer labeled \"Time Remaining: 16:01:36.\"",
+        "sentence_cn": "- 有一个倒计时器，标有“剩余时间：16:01:36”。",
+        "words": [
+            "Time Remaining: 16:01:36.",
+            "countdown",
+            "timer",
+            "Time",
+            "16:01:36"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A \"More Apps\" button is visible, encouraging further exploration of available apps.",
+        "sentence_cn": "- 可见“更多应用程序”按钮，鼓励进一步探索可用的应用程序。",
+        "words": [
+            "More Apps",
+            "Apps",
+            "button",
+            "exploration",
+            "apps"
+        ],
+        "id": null
+    }
+]

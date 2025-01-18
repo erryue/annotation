@@ -1,0 +1,80 @@
+[
+    {
+        "sentence": "The image features a warm, homely setup on a wooden table.",
+        "sentence_cn": "这张照片展示了木桌上温暖、温馨的布置。",
+        "words": [
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A book titled \"The Virgin's Lover\" by Philippa Gregory is placed on the table.",
+        "sentence_cn": "桌子上放着一本菲利帕·格雷戈里的书，书名是《处女的情人》。",
+        "words": [
+            "The Virgin's Lover",
+            "book",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The cover shows an ornate image of a historical figure, possibly in a richly decorated dress.",
+        "sentence_cn": "封面上是一个历史人物的华丽形象，可能身着华丽的服饰。",
+        "words": [
+            "cover",
+            "figure",
+            "dress"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the book, there is a brown ceramic mug filled with coffee or tea, adding to the cozy atmosphere.",
+        "sentence_cn": "书本旁边放着一个棕色的陶瓷杯，里面装满了咖啡或茶，增添了温馨的氛围。",
+        "words": [
+            "book",
+            "mug",
+            "coffee",
+            "tea",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Also on the table is a white plate with a floral pattern, holding two chocolate chip cookies.",
+        "sentence_cn": "桌子上还有一个带有花卉图案的白色盘子，里面放着两块巧克力饼干。",
+        "words": [
+            "table",
+            "plate",
+            "pattern",
+            "two",
+            "chocolate",
+            "chip",
+            "cookies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the upper left corner, there is a glimpse of a decorative plate containing vibrant oranges, adding a pop of color to the scene.",
+        "sentence_cn": "左上角可以看到一个装饰盘，里面装着鲜艳的橙子，为场景增添了一抹色彩。",
+        "words": [
+            "corner",
+            "glimpse",
+            "plate",
+            "oranges",
+            "pop",
+            "color",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the arrangement suggests a relaxing moment set up for enjoying reading with a warm beverage and a snack.",
+        "sentence_cn": "总体而言，这种布置暗示着人们可以一边享用热饮和小吃，一边享受阅读的轻松时刻。",
+        "words": [
+            "arrangement",
+            "beverage",
+            "snack"
+        ],
+        "id": null
+    }
+]

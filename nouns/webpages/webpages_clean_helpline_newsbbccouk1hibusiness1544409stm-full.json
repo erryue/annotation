@@ -1,0 +1,223 @@
+[
+    {
+        "sentence": "The image is a webpage from BBC News, dated Friday, 14 September, 2001, at 13:15 GMT.",
+        "sentence_cn": "该图片是 BBC 新闻的一个网页，日期为 2001 年 9 月 14 日星期五，格林威治标准时间 13:15。",
+        "words": [
+            "webpage",
+            "14",
+            "2001",
+            "13:15",
+            "GMT"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is focused on providing helpline numbers for companies in the World Trade Center to give out and receive information about employees missing due to the terrorist attacks on Tuesday.",
+        "sentence_cn": "该页面主要为世贸中心的公司提供帮助热线号码，以便他们发布和接收有关周二恐怖袭击中失踪员工的信息。",
+        "words": [
+            "page",
+            "helpline",
+            "numbers",
+            "companies",
+            "information",
+            "employees",
+            "attacks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Main Content:",
+        "sentence_cn": "### 主要内容：",
+        "words": [
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Helplines List: A list of companies with their respective phone numbers is provided for contact regarding missing employees.",
+        "sentence_cn": "- 帮助热线列表：提供公司列表及其各自的电话号码，以便联系失踪员工。",
+        "words": [
+            "Helplines List",
+            "Helplines",
+            "List",
+            "list",
+            "companies",
+            "phone",
+            "numbers",
+            "contact",
+            "employees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This includes companies such as Aon Corp, Bank of America, Cantor Fitzgerald, Deutsche Bank, Morgan Stanley, and more.",
+        "sentence_cn": "其中包括怡安集团、美国银行、Cantor Fitzgerald、德意志银行、摩根士丹利等公司。",
+        "words": [
+            "companies"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A note mentions that these numbers are for those calling within the U.S., and callers from abroad need to add the country code +1.",
+        "sentence_cn": "- 注释提到这些号码适用于美国境内拨打的电话，国外拨打的电话需添加国家代码 +1。",
+        "words": [
+            "note",
+            "numbers",
+            "U.S.",
+            "callers",
+            "country",
+            "code",
+            "+1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Toll-free numbers starting with 0 might not be accessible.",
+        "sentence_cn": "以 0 开头的免费电话号码可能无法接通。",
+        "words": [
+            "Toll",
+            "numbers",
+            "0"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Sidebar Content:",
+        "sentence_cn": "### 侧边栏内容：",
+        "words": [
+            "Sidebar",
+            "Content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Sections:",
+        "sentence_cn": "-部分：",
+        "words": [
+            "Sections",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - After the Taleban with topics like \"Political healing\" and \"What is a loya jirga?\"",
+        "sentence_cn": "- 塔利班之后，讨论“政治治愈”和“什么是支尔格大会？”等话题。",
+        "words": [
+            "Political healing",
+            "What is a loya jirga?",
+            "topics",
+            "healing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Unfinished conflict and details on \"Guarding Gardez,\" \"Violence halts refugees,\" etc.",
+        "sentence_cn": "- 未完成的冲突以及有关“守卫加德兹”、“暴力阻碍难民”等的详细信息。",
+        "words": [
+            "Guarding Gardez,",
+            "Violence halts refugees,",
+            "conflict",
+            "details",
+            "Violence",
+            "refugees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Rebuilding the country with content on \"Spending the billions\" and \"Children's bravery.\"",
+        "sentence_cn": "- 重建国家，内容包括“花费数十亿美元”和“儿童的勇敢”。",
+        "words": [
+            "Spending the billions",
+            "Children's bravery.",
+            "country",
+            "content",
+            "billions",
+            "Children",
+            "bravery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Other Sections:",
+        "sentence_cn": "- 其他部分：",
+        "words": [
+            "Other Sections",
+            "Sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - TV and Radio reports",
+        "sentence_cn": "- 电视和广播报道",
+        "words": [
+            "TV",
+            "Radio",
+            "reports"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Fact files on topics like Afghan powerbrokers.",
+        "sentence_cn": "- 有关阿富汗权力掮客等话题的事实文件。",
+        "words": [
+            "Fact",
+            "files",
+            "topics",
+            "powerbrokers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Top Business stories now mentions issues like WorldCom chiefs refusing to testify and Bush¡¯s action after scandals.",
+        "sentence_cn": "- 当前热门商业新闻提及诸如世通公司高管拒绝作证以及布什在丑闻爆发后的行动等问题。",
+        "words": [
+            "stories",
+            "issues",
+            "chiefs",
+            "action",
+            "scandals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Navigation:",
+        "sentence_cn": "＃＃＃ 导航：",
+        "words": [
+            "Navigation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- The page includes links to other sections like UK, World, Politics, Business, Sci/Tech, Health, Education, Talking Point, and In Depth.",
+        "sentence_cn": "- 该页面包含其他部分的链接，如英国、世界、政治、商业、科技、健康、教育、谈话要点和深度报道。",
+        "words": [
+            "page",
+            "links",
+            "sections",
+            "Tech",
+            "Depth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A navigation menu with links for BBC Sport, BBC Weather, and service links like Daily E-mail, News Ticker, and Feedback.",
+        "sentence_cn": "- 导航菜单包含 BBC 体育、BBC 天气的链接以及每日电子邮件、新闻提示和反馈等服务链接。",
+        "words": [
+            "navigation",
+            "menu",
+            "links",
+            "service",
+            "links",
+            "E",
+            "-",
+            "mail"
+        ],
+        "id": null
+    }
+]

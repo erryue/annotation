@@ -1,0 +1,170 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Brazil.\"",
+        "sentence_cn": "图片是电影《巴西》的电影海报。",
+        "words": [
+            "Brazil.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a surreal and fantastical design with a central figure of a man smiling broadly.",
+        "sentence_cn": "该作品的设计充满超现实和奇幻色彩，中心人物是一个笑容满面的男人。",
+        "words": [
+            "design",
+            "figure",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above his head, there is a burst of bright light, suggesting a sense of enlightenment or escape.",
+        "sentence_cn": "他的头顶上爆发出一阵明亮的光芒，暗示着一种顿悟或逃脱的感觉。",
+        "words": [
+            "head",
+            "burst",
+            "light",
+            "sense",
+            "enlightenment",
+            "escape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backdrop shows a cityscape with tall, monochromatic buildings that give a sense of a dystopian world.",
+        "sentence_cn": "背景是城市景观，高耸的单色建筑给人一种反乌托邦世界的感觉。",
+        "words": [
+            "backdrop",
+            "cityscape",
+            "buildings",
+            "sense",
+            "world"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top of the poster, there's an eye-catching title \"Brazil\" written in red, stylized script.",
+        "sentence_cn": "海报顶部有一个醒目的红色字体标题“巴西”。",
+        "words": [
+            "Brazil",
+            "top",
+            "poster",
+            "eye",
+            "title",
+            "script"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the title is a cloudy sky with ethereal elements, including a winged figure ¨C possibly an angel ¨C portrayed in a dreamlike ascent.",
+        "sentence_cn": "标题周围是一片多云的天空，其中有一些空灵的元素，包括一个长着翅膀的人物——可能是天使——如梦似幻地描绘而成。",
+        "words": [
+            "title",
+            "sky",
+            "elements",
+            "figure",
+            "angel",
+            "ascent"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, mechanical or industrial elements can be seen, contributing to the theme of a bureaucratic or oppressive environment.",
+        "sentence_cn": "在背景中，可以看到机械或工业元素，有助于营造官僚或压迫环境的主题。",
+        "words": [
+            "background",
+            "elements",
+            "theme",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top part of the poster contains a tagline that reads:",
+        "sentence_cn": "海报的顶部有一句标语：",
+        "words": [
+            "part",
+            "poster",
+            "tagline"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"It's all about flights of fantasy.",
+        "sentence_cn": "“这全都是关于幻想的飞翔。",
+        "words": [
+            "flights",
+            "fantasy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "And the nightmare of reality.",
+        "sentence_cn": "还有现实的噩梦。",
+        "words": [
+            "nightmare",
+            "reality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Terrorist bombings. And late night shopping.",
+        "sentence_cn": "恐怖爆炸、深夜购物。",
+        "words": [
+            "Terrorist",
+            "bombings",
+            "night",
+            "shopping"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "True love. And creative plumbing.",
+        "sentence_cn": "真爱。还有创意管道。",
+        "words": [
+            "love",
+            "plumbing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's only a state of mind.\"",
+        "sentence_cn": "这只是一种心态。”",
+        "words": [
+            "state",
+            "mind"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image of the man, the credits for the movie are mentioned, highlighting key contributors such as the director, writer, and main cast.",
+        "sentence_cn": "在男子图片下方，列出了电影的制作人员名单，重点介绍了导演、编剧和主要演员等主要贡献者。",
+        "words": [
+            "man",
+            "credits",
+            "movie",
+            "contributors",
+            "director",
+            "writer",
+            "cast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster's overall aesthetic is imaginative and thought-provoking, capturing the film's blend of fantasy and social commentary.",
+        "sentence_cn": "海报的整体美感富有想象力且发人深省，捕捉到了电影的幻想与社会评论的融合。",
+        "words": [
+            "poster",
+            "aesthetic",
+            "thought",
+            "film",
+            "blend",
+            "fantasy",
+            "commentary"
+        ],
+        "id": null
+    }
+]

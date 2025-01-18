@@ -1,0 +1,107 @@
+[
+    {
+        "sentence": "The image shows a modern and tidy workspace set up against a window with white blinds.",
+        "sentence_cn": "图中显示的是一个现代化、整洁的工作空间，靠窗的位置装有白色百叶窗。",
+        "words": [
+            "workspace",
+            "window",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main feature of the setup is a large Apple iMac computer displaying a waterfall screensaver.",
+        "sentence_cn": "该装置的主要特点是一台大型 Apple iMac 电脑，显示瀑布屏幕保护程序。",
+        "words": [
+            "feature",
+            "computer",
+            "waterfall",
+            "screensaver"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the iMac is a MacBook laptop, open and displaying a startup screen with text.",
+        "sentence_cn": "iMac 的右侧是一台 MacBook 笔记本电脑，打开后显示带有文本的启动屏幕。",
+        "words": [
+            "right",
+            "laptop",
+            "startup",
+            "screen",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The desk itself is made of glass, giving the space a clean and minimalist look.",
+        "sentence_cn": "桌子本身由玻璃制成，给空间带来简洁干净的感觉。",
+        "words": [
+            "desk",
+            "glass",
+            "space",
+            "look"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A white wired keyboard and mouse are positioned in front of the iMac, with the mouse on a brown mouse pad featuring a design.",
+        "sentence_cn": "iMac 前面放置着一台白色有线键盘和鼠标，鼠标放在一个带有图案的棕色鼠标垫上。",
+        "words": [
+            "keyboard",
+            "mouse",
+            "front",
+            "mouse",
+            "mouse",
+            "pad",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side of the desk, there is a small camera and a smartphone with a physical keypad next to it.",
+        "sentence_cn": "桌子的左侧，有一个小型摄像头，旁边还有一部带有物理键盘的智能手机。",
+        "words": [
+            "desk",
+            "camera",
+            "smartphone",
+            "keypad"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's a unique cylindrical speaker or device with a control panel on top.",
+        "sentence_cn": "右侧有一个独特的圆柱形扬声器或设备，顶部有一个控制面板。",
+        "words": [
+            "right",
+            "speaker",
+            "device",
+            "control",
+            "panel",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Two small table lamps with frosted glass shades provide ambient lighting, with one on each side of the desk.",
+        "sentence_cn": "桌子两侧各有一盏带磨砂玻璃灯罩的小台灯，提供环境照明。",
+        "words": [
+            "Two",
+            "table",
+            "lamps",
+            "glass",
+            "shades",
+            "lighting",
+            "one",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setup is functional and aesthetically pleasing, projecting a professional and organized ambiance.",
+        "sentence_cn": "整体设置实用且美观，营造出专业而有序的氛围。",
+        "words": [
+            "ambiance"
+        ],
+        "id": null
+    }
+]

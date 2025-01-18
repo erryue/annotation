@@ -1,0 +1,58 @@
+[
+    {
+        "sentence": "The image depicts the interior of a mostly empty movie theater.",
+        "sentence_cn": "该图描绘的是一家几乎空无一人的电影院的内部。",
+        "words": [
+            "interior",
+            "movie",
+            "theater"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The theater is filled with rows of red seats, and there appears to be only two people seated.",
+        "sentence_cn": "剧院里摆满了一排排红色的座位，看起来只有两个人坐在那里。",
+        "words": [
+            "theater",
+            "rows",
+            "seats",
+            "two",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These individuals are sitting towards the middle or slightly further back, with a large bucket of popcorn visible between them.",
+        "sentence_cn": "这些人都坐在中间或者稍微靠后一点的地方，中间放着一大桶爆米花。",
+        "words": [
+            "individuals",
+            "middle",
+            "bucket",
+            "popcorn"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The light from the projector is shining brightly in the background, casting a star-like effect across the image.",
+        "sentence_cn": "投影仪的光线在背景中明亮地闪耀，在图像上投射出类似星星的效果。",
+        "words": [
+            "light",
+            "projector",
+            "background",
+            "star",
+            "effect"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is dimly lit, typical of theater settings during a screening.",
+        "sentence_cn": "气氛灯光昏暗，这是放映时剧院的典型布置。",
+        "words": [
+            "atmosphere",
+            "theater",
+            "settings",
+            "screening"
+        ],
+        "id": null
+    }
+]

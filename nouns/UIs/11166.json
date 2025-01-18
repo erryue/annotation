@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image features a close-up of sliced kiwi fruit nestled in what appears to be a white, soft fruit or vegetable, possibly cabbage.",
+        "sentence_cn": "图片特写显示，切片猕猴桃嵌在看似白色、柔软的水果或蔬菜（可能是卷心菜）中。",
+        "words": [
+            "close",
+            "up",
+            "kiwi",
+            "fruit",
+            "fruit",
+            "vegetable",
+            "cabbage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Superimposed on the image are two cartoon characters: one with orange hair and the word \"BYE\" in red next to it, and another with pink hair near the center-right.",
+        "sentence_cn": "图像上叠加了两个卡通人物：一个是橙色头发，旁边有红色的“BYE”字样，另一个是靠近右中方向的粉红色头发。",
+        "words": [
+            "BYE",
+            "two",
+            "cartoon",
+            "characters",
+            "one",
+            "hair",
+            "word",
+            "BYE",
+            "red",
+            "hair",
+            "center",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both characters have colorful designs and cheerful expressions.",
+        "sentence_cn": "两个角色都有着丰富多彩的造型和欢快的表情。",
+        "words": [
+            "characters",
+            "designs",
+            "expressions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The image also includes a watermark stating \"Vegan Amino\" at the bottom with a green border.",
+        "sentence_cn": "图片底部还带有一个带有绿色边框的“Vegan Amino”水印。",
+        "words": [
+            "Vegan Amino",
+            "watermark",
+            "bottom",
+            "border"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above that, there are green buttons labeled \"ADD,\" \"REMOVE,\" and \"SHARE & SAVE.\"",
+        "sentence_cn": "上方有绿色按钮，分别标有“添加”、“删除”和“共享和保存”。",
+        "words": [
+            "ADD,",
+            "REMOVE,",
+            "SHARE & SAVE.",
+            "buttons",
+            "ADD"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, the top section displays various icons, possibly representing app features, and a timestamp showing \"1:07\".",
+        "sentence_cn": "此外，顶部显示各种图标，可能代表应用程序功能，以及显示“1:07”的时间戳。",
+        "words": [
+            "1:07",
+            "section",
+            "icons",
+            "app",
+            "features",
+            "timestamp",
+            "1:07"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage from \"About Tech\" on About.com.",
+        "sentence_cn": "该图片是 About.com 上“关于科技”网页的截图。",
+        "words": [
+            "About Tech",
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is primarily focused on PC games, featuring an article titled \"Top 20 Best Real Time Strategy Games for the PC,\" with an accompanying image of a game scene showing a strategic battle layout.",
+        "sentence_cn": "该页面主要关注 PC 游戏，其中有一篇题为“PC 上 20 款最佳实时战略游戏”的文章，并附有一张展示战略战斗布局的游戏场景图片。",
+        "words": [
+            "Top 20 Best Real Time Strategy Games for the PC,",
+            "page",
+            "PC",
+            "games",
+            "article",
+            "20",
+            "Time",
+            "PC",
+            "game",
+            "scene",
+            "battle",
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the right side, there are two more highlighted articles: \"The Top 15 First Person Shooters for the PC\" and \"The Best Survival Horror PC Games,\" each with a relevant image.",
+        "sentence_cn": "在右侧，还有两篇重点文章：“PC 上排名前 15 的第一人称射击游戏”和“最佳生存恐怖 PC 游戏”，每篇文章都配有相关图片。",
+        "words": [
+            "The Top 15 First Person Shooters for the PC",
+            "The Best Survival Horror PC Games,",
+            "two",
+            "articles",
+            "15",
+            "Person",
+            "PC"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Navigation menus at the top include categories like Food, Health, Home, Money, Style, Tech, and Travel.",
+        "sentence_cn": "顶部的导航菜单包括食品、健康、家居、金钱、风格、科技和旅游等类别。",
+        "words": [
+            "Navigation",
+            "menus",
+            "top",
+            "categories",
+            "Food",
+            "Health",
+            "Home",
+            "Money",
+            "Style",
+            "Tech",
+            "Travel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a search bar and subcategories under \"Mobile & Computers,\" \"Software,\" \"Online,\" \"Gaming,\" and more.",
+        "sentence_cn": "还有搜索栏和“移动和计算机”、“软件”、“在线”、“游戏”等子类别。",
+        "words": [
+            "Mobile & Computers,",
+            "Software,",
+            "Online,",
+            "Gaming,",
+            "search",
+            "bar",
+            "subcategories",
+            "Computers",
+            "Software",
+            "Online",
+            "Gaming"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The section titled \"TODAY'S TOP 5 PICKS IN TECH\" is visible with a list of current articles, such as comparisons between Apple Watch and Fitbit.",
+        "sentence_cn": "标题为“今日科技领域的五大精选”的部分显示当前文章列表，例如 Apple Watch 和 Fitbit 之间的比较。",
+        "words": [
+            "TODAY'S TOP 5 PICKS IN TECH",
+            "section",
+            "5",
+            "PICKS",
+            "TECH",
+            "list",
+            "articles",
+            "comparisons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme and layout are tech and gaming-focused.",
+        "sentence_cn": "整体主题和布局以科技和游戏为中心。",
+        "words": [
+            "theme",
+            "layout",
+            "tech",
+            "gaming"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "sentence": "The image shows a cozy, eclectic living room with a vibrant, colorful theme.",
+        "sentence_cn": "图片展示了一个舒适、不拘一格的客厅，主题充满活力、色彩缤纷。",
+        "words": [
+            "living",
+            "room",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Here's a detailed description:",
+        "sentence_cn": "以下是详细描述：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "1. Furniture",
+        "sentence_cn": "1. 家具",
+        "words": [
+            "Furniture"
+        ],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - The central focus is a floral-patterned sofa with multiple cushions in various colors and patterns, including floral and solid designs.",
+        "sentence_cn": "- 中心焦点是一个花卉图案的沙发，上面有多个不同颜色和图案的垫子，包括花卉和纯色图案。",
+        "words": [
+            "focus",
+            "sofa",
+            "cushions",
+            "colors",
+            "patterns",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A wicker armchair is visible with more patterned cushions.",
+        "sentence_cn": "- 可以看到柳条扶手椅，上面有更多带图案的垫子。",
+        "words": [
+            "wicker",
+            "armchair",
+            "cushions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is a wooden chair with a lattice back, featuring a reddish cushion.",
+        "sentence_cn": "- 有一把木椅，椅背为格子状，配有红色坐垫。",
+        "words": [
+            "chair",
+            "lattice",
+            "cushion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Two upholstered round stools or ottomans are included with a light fabric featuring a fruit pattern.",
+        "sentence_cn": "- 包含两个带软垫的圆凳或脚凳，采用带有水果图案的浅色织物制成。",
+        "words": [
+            "Two",
+            "stools",
+            "ottomans",
+            "fabric",
+            "fruit",
+            "pattern"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Decor",
+        "sentence_cn": "2. 装饰",
+        "words": [
+            "Decor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The curtains are deep green with a decorative fringe or valance, framing a window that appears to have stained glass or textured glass panes.",
+        "sentence_cn": "- 窗帘是深绿色的，带有装饰性的流苏或帷幔，框住了看似带有彩色玻璃或纹理玻璃板的窗户。",
+        "words": [
+            "curtains",
+            "fringe",
+            "valance",
+            "window",
+            "glass",
+            "glass",
+            "panes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Several throw pillows with floral embroidery and tassels add to the room's colorful aesthetic.",
+        "sentence_cn": "- 几个带有花卉刺绣和流苏的抱枕为房间增添了丰富多彩的美感。",
+        "words": [
+            "throw",
+            "pillows",
+            "embroidery",
+            "tassels",
+            "room",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A small wooden coffee table featuring a chess/checkerboard is in front of the sofa, with decorative objects like gourds on top.",
+        "sentence_cn": "- 沙发前有一张小型木质咖啡桌，桌上摆放着国际象棋或棋盘，上面摆放着葫芦等装饰物。",
+        "words": [
+            "coffee",
+            "table",
+            "chess",
+            "checkerboard",
+            "front",
+            "sofa",
+            "objects",
+            "gourds",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Lighting",
+        "sentence_cn": "3. 照明",
+        "words": [
+            "Lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Two floor lamps are present, one with a tall, thin stand and a standard lampshade, and the other with a shorter, wider base with a yellow lampshade featuring decorative prints.",
+        "sentence_cn": "- 有两盏落地灯，一盏带有高而细的支架和标准灯罩，另一盏带有较短、较宽的底座，灯罩为黄色，带有装饰图案。",
+        "words": [
+            "Two",
+            "floor",
+            "lamps",
+            "one",
+            "stand",
+            "lampshade",
+            "base",
+            "lampshade",
+            "prints"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Wall and Floor:",
+        "sentence_cn": "4. 墙壁和地板：",
+        "words": [
+            "Wall and Floor",
+            "Wall",
+            "Floor"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The walls are painted in a light, neutral color, enhancing the room's brightness.",
+        "sentence_cn": "- 墙壁漆成浅色、中性色，增强了房间的亮度。",
+        "words": [
+            "walls",
+            "color",
+            "room",
+            "brightness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- A small framed picture or artwork hangs on the wall near the door.",
+        "sentence_cn": "- 靠近门的墙上挂着一幅小相框或艺术品。",
+        "words": [
+            "picture",
+            "artwork",
+            "wall",
+            "door"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The flooring appears neutral, possibly a carpet or rug, complementing the overall color scheme.",
+        "sentence_cn": "- 地板看起来是中性的，可能是地毯或地垫，与整体配色方案相得益彰。",
+        "words": [
+            "flooring",
+            "carpet",
+            "rug",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Additional Details:",
+        "sentence_cn": "5. 其他详细信息：",
+        "words": [
+            "Additional Details",
+            "Details"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A plant in a plant stand adds a touch of greenery to the space.",
+        "sentence_cn": "- 植物架上的植物给空间增添了一抹绿意。",
+        "words": [
+            "plant",
+            "plant",
+            "stand",
+            "touch",
+            "greenery",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The room has a casual, inviting feel with a mix of textures and styles, including wooden, wicker, and upholstered elements.",
+        "sentence_cn": "- 房间拥有休闲、温馨的感觉，融合了多种纹理和风格，包括木质、柳条和软垫元素。",
+        "words": [
+            "room",
+            "feel",
+            "mix",
+            "textures",
+            "styles",
+            "wicker",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room's overall style is eclectic, blending different patterns, colors, and textures to create a warm and inviting atmosphere.",
+        "sentence_cn": "房间的整体风格不拘一格，融合了不同的图案、颜色和纹理，营造出温暖而温馨的氛围。",
+        "words": [
+            "room",
+            "style",
+            "patterns",
+            "colors",
+            "textures",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

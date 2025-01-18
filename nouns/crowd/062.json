@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image shows a group of people gathered indoors, possibly at a conference or seminar.",
+        "sentence_cn": "图像显示一群人聚集在室内，可能是在参加会议或研讨会。",
+        "words": [
+            "group",
+            "people",
+            "conference",
+            "seminar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has a carpeted floor and a drop ceiling with fluorescent lighting.",
+        "sentence_cn": "房间内铺有地毯，配有吊顶和荧光灯。",
+        "words": [
+            "room",
+            "floor",
+            "drop",
+            "ceiling",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are banners for \"permaloc,\" suggesting this might be a booth or presentation area related to that brand.",
+        "sentence_cn": "有“permaloc”的横幅，表明这可能是与该品牌相关的展位或展示区。",
+        "words": [
+            "permaloc,",
+            "banners",
+            "permaloc",
+            "booth",
+            "presentation",
+            "area",
+            "brand"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are adorned with various posters, and there's a clock displaying the time.",
+        "sentence_cn": "墙上贴满了各种海报，还有一只时钟显示时间。",
+        "words": [
+            "walls",
+            "posters",
+            "clock",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some individuals are standing and engaging in conversation, while others are looking at their phones.",
+        "sentence_cn": "有些人站着交谈，而其他人则在看手机。",
+        "words": [
+            "individuals",
+            "conversation",
+            "others",
+            "phones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The group is diverse in terms of age and clothing styles, and many are wearing lanyards, indicating they might be attendees or participants in an event.",
+        "sentence_cn": "这群人的年龄和衣着风格各异，很多人都戴着挂绳，表明他们可能是某个活动的出席者或参与者。",
+        "words": [
+            "group",
+            "terms",
+            "age",
+            "clothing",
+            "styles",
+            "lanyards",
+            "attendees",
+            "participants",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere appears casual and social, with people mingling and interacting.",
+        "sentence_cn": "这里的气氛显得随意而又社交性强，人们互相交流和互动。",
+        "words": [
+            "atmosphere",
+            "people"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Some tables in the area hold brochures or other materials related to the displayed banners.",
+        "sentence_cn": "该区域的一些桌子上摆放着与所展示横幅相关的小册子或其他材料。",
+        "words": [
+            "tables",
+            "area",
+            "brochures",
+            "materials",
+            "banners"
+        ],
+        "id": null
+    }
+]

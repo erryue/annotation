@@ -1,0 +1,192 @@
+[
+    {
+        "sentence": "The image is a ranking of the top ten college majors associated with the highest median salaries according to the PayScale College Salary Report from 2012-2013.",
+        "sentence_cn": "该图是根据 2012-2013 年 PayScale 大学薪资报告对平均薪资最高的十大大学专业进行的排名。",
+        "words": [
+            "ranking",
+            "ten",
+            "college",
+            "majors",
+            "salaries",
+            "2012",
+            "2013"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It presents the information in a grid format with each major represented by an icon and listed along with its corresponding median salary.",
+        "sentence_cn": "它以网格格式呈现信息，每个专业用一个图标表示，并列出其相应的平均工资。",
+        "words": [
+            "information",
+            "grid",
+            "format",
+            "major",
+            "icon",
+            "salary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Petroleum Engineering: Depicted with an oil droplet icon, the top major with a median salary of $163,000.",
+        "sentence_cn": "1. 石油工程：以油滴图标表示，是薪酬最高的专业，平均薪资为 163,000 美元。",
+        "words": [
+            "Petroleum Engineering",
+            "oil",
+            "droplet",
+            "icon",
+            "major",
+            "salary",
+            "163,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Aerospace Engineering: Illustrated with a rocket icon, offering a median salary of $118,000.",
+        "sentence_cn": "2. 航空航天工程：以火箭图标表示，平均工资为 118,000 美元。",
+        "words": [
+            "Aerospace Engineering",
+            "rocket",
+            "icon",
+            "salary",
+            "118,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Actuarial Mathematics: Represented by a warning triangle with an exclamation mark, with a salary of $112,000.",
+        "sentence_cn": "3. 精算数学：用带有感叹号的警告三角形表示，薪水为 112,000 美元。",
+        "words": [
+            "Actuarial Mathematics",
+            "Mathematics",
+            "warning",
+            "triangle",
+            "exclamation",
+            "mark",
+            "salary",
+            "112,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Chemical Engineering: Shown with a flask icon, featuring a median salary of $111,000.",
+        "sentence_cn": "4. 化学工程：以烧瓶图标表示，平均工资为 111,000 美元。",
+        "words": [
+            "Chemical Engineering",
+            "flask",
+            "icon",
+            "salary",
+            "111,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Nuclear Engineering: Indicated by a nuclear symbol, with a median salary of $107,000.",
+        "sentence_cn": "5. 核工程：以核符号表示，平均工资为 107,000 美元。",
+        "words": [
+            "Nuclear Engineering",
+            "symbol",
+            "salary",
+            "107,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Electrical Engineering (EE): Represented by an electrical plug icon, with a median salary of $106,000.",
+        "sentence_cn": "6. 电气工程（EE）：以电插头图标表示，平均工资为 106,000 美元。",
+        "words": [
+            "Electrical Engineering (EE)",
+            "plug",
+            "icon",
+            "salary",
+            "106,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Computer Engineering (CE): Shown with a computer chip icon, offering a salary of $105,000.",
+        "sentence_cn": "7. 计算机工程（CE）：以计算机芯片图标显示，薪水为 105,000 美元。",
+        "words": [
+            "Computer Engineering (CE)",
+            "computer",
+            "chip",
+            "icon",
+            "salary",
+            "105,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "8. Applied Mathematics: Visualized with a mathematical plus and multiplication sign, with a median salary of $102,000.",
+        "sentence_cn": "8. 应用数学：以数学加号和乘号表示，平均工资为 102,000 美元。",
+        "words": [
+            "Applied Mathematics",
+            "Mathematics",
+            "plus",
+            "multiplication",
+            "sign",
+            "salary",
+            "102,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "9. Computer Science (CS): Depicted with a computer screen icon, associated with a salary of $100,000.",
+        "sentence_cn": "9. 计算机科学（CS）：以计算机屏幕图标表示，薪水为 100,000 美元。",
+        "words": [
+            "Computer Science (CS)",
+            "Computer",
+            "Science",
+            "computer",
+            "screen",
+            "icon",
+            "salary",
+            "100,000"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "10. Statistics: Represented with a line graph icon, showing a median salary of $99,500.",
+        "sentence_cn": "10. 统计数据：以折线图图标表示，显示平均工资为 99,500 美元。",
+        "words": [
+            "Statistics",
+            "Statistics",
+            "line",
+            "graph",
+            "icon",
+            "salary",
+            "99,500"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section of the image includes a title: \"Best Majors for Making Money\" and a note explaining the methodology, stating that salaries are for full-time, bachelor's degree holders with no further degree and ten years of experience.",
+        "sentence_cn": "图片的顶部有一个标题：“最适合赚钱的专业”，以及一个解释方法的说明，指出工资是针对全职、拥有学士学位且无其他学位、拥有十年工作经验的人员。",
+        "words": [
+            "Best Majors for Making Money",
+            "section",
+            "title",
+            "Money",
+            "note",
+            "methodology",
+            "salaries",
+            "time",
+            "bachelor",
+            "degree",
+            "holders",
+            "degree",
+            "ten",
+            "years",
+            "experience"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The source of the data is cited as PayScale.",
+        "sentence_cn": "数据来源为PayScale。",
+        "words": [
+            "source",
+            "data"
+        ],
+        "id": null
+    }
+]

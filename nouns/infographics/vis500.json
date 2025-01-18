@@ -1,0 +1,290 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"Universal Commerce: The Tale of a Modern Shopper.\"",
+        "sentence_cn": "该图是一张信息图，标题为“通用商业：现代购物者的故事”。",
+        "words": [
+            "Universal Commerce: The Tale of a Modern Shopper.",
+            "Shopper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It illustrates various trends and statistics about modern shopping habits, particularly involving technology.",
+        "sentence_cn": "它说明了现代购物习惯的各种趋势和统计数据，特别是涉及技术。",
+        "words": [
+            "trends",
+            "statistics",
+            "shopping",
+            "habits",
+            "technology"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Introduction: A narrative at the top states the change in shopping behavior from traditional to modern methods involving smartphones, tablets, and computers.",
+        "sentence_cn": "1. 简介：顶部的叙述说明了购物行为从传统方式到涉及智能手机、平板电脑和计算机的现代方式的转变。",
+        "words": [
+            "Introduction",
+            "Introduction",
+            "narrative",
+            "top",
+            "change",
+            "shopping",
+            "behavior",
+            "methods",
+            "smartphones",
+            "tablets",
+            "computers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Shifting Views In-Store:",
+        "sentence_cn": "2. 店内视角的转变：",
+        "words": [
+            "Shifting Views In-Store",
+            "Views",
+            "Store"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 74% of smartphone users comparison shop while in-store.",
+        "sentence_cn": "- 74% 的智能手机用户会在店内进行比较购物。",
+        "words": [
+            "74",
+            "smartphone",
+            "users",
+            "comparison",
+            "shop",
+            "store"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 48% are interested in receiving offers/coupons on their phones while in-store.",
+        "sentence_cn": "- 48％的人有兴趣在店内通过手机接收优惠/优惠券。",
+        "words": [
+            "48",
+            "offers",
+            "coupons",
+            "phones",
+            "store"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Seeking a Seamless Solution:",
+        "sentence_cn": "3. 寻求无缝解决方案：",
+        "words": [
+            "Seeking a Seamless Solution",
+            "Solution"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 83% want companies to improve the connection between online and in-store shopping experiences.",
+        "sentence_cn": "- 83% 的人希望公司改善线上和店内购物体验之间的联系。",
+        "words": [
+            "83",
+            "companies",
+            "connection",
+            "store",
+            "shopping",
+            "experiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 50% want to start a purchase on a computer and finish with a mobile device.",
+        "sentence_cn": "- 50％的人希望在电脑上开始购买，然后在移动设备上完成购买。",
+        "words": [
+            "50",
+            "purchase",
+            "computer",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. The 'Social' Shopper:",
+        "sentence_cn": "4. “社交”购物者：",
+        "words": [
+            "The 'Social' Shopper",
+            "Shopper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 86% of millennials consider user-generated content a good indicator of product quality.",
+        "sentence_cn": "- 86% 的千禧一代认为用户生成内容是产品质量的良好指标。",
+        "words": [
+            "86",
+            "millennials",
+            "user",
+            "content",
+            "indicator",
+            "product",
+            "quality"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 28% consult friends or colleagues via social media before making a purchase.",
+        "sentence_cn": "- 28% 的人在购买前通过社交媒体咨询朋友或同事的意见。",
+        "words": [
+            "28",
+            "friends",
+            "colleagues",
+            "media",
+            "purchase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 27% post reviews of products/services online.",
+        "sentence_cn": "- 27% 在线发布产品/服务评论。",
+        "words": [
+            "27",
+            "reviews",
+            "products",
+            "services"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. The Promise of Mobile Wallet:",
+        "sentence_cn": "5. 移动钱包的承诺：",
+        "words": [
+            "The Promise of Mobile Wallet",
+            "Promise",
+            "Mobile",
+            "Wallet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 1 in 10 would consider switching to a non-bank mobile wallet partner for banking needs.",
+        "sentence_cn": "- 十分之一的人会考虑转向非银行移动钱包合作伙伴来满足银行业务需求。",
+        "words": [
+            "1",
+            "10",
+            "wallet",
+            "partner",
+            "banking",
+            "needs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- 29% of consumers aged 18-34 are interested in a mobile wallet.",
+        "sentence_cn": "- 29% 的 18-34 岁消费者对移动钱包感兴趣。",
+        "words": [
+            "29",
+            "consumers",
+            "18",
+            "34",
+            "mobile",
+            "wallet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 56% would trust a mobile wallet from their bank or credit card company.",
+        "sentence_cn": "- 56% 的人信任其银行或信用卡公司的移动钱包。",
+        "words": [
+            "56",
+            "wallet",
+            "bank",
+            "credit",
+            "card",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. A Life Lived Online:",
+        "sentence_cn": "6. 网上生活：",
+        "words": [
+            "A Life Lived Online",
+            "Life"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Desktop/Laptop usage: 88% bank, 81% pay bills, 87% comparison shop, 91% make purchases.",
+        "sentence_cn": "- 台式机/笔记本电脑的使用情况：88% 用于银行、81% 用于支付账单、87% 用于比较购物、91% 用于购物。",
+        "words": [
+            "Desktop",
+            "Laptop",
+            "usage",
+            "88",
+            "bank",
+            "81",
+            "%",
+            "bills",
+            "87",
+            "%",
+            "comparison",
+            "shop",
+            "91",
+            "%",
+            "purchases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Smartphone/Tablet usage: 47% bank, 34% pay bills, 53% comparison shop, 37% make purchases.",
+        "sentence_cn": "- 智能手机/平板电脑的使用情况：47% 用于银行、34% 用于支付账单、53% 用于比较购物、37% 用于购物。",
+        "words": [
+            "Smartphone",
+            "Tablet",
+            "usage",
+            "47",
+            "bank",
+            "34",
+            "%",
+            "bills",
+            "53",
+            "%",
+            "comparison",
+            "shop",
+            "37",
+            "%",
+            "purchases"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A stylized image of a shopper with a mobile device and shopping bags complements the textual data, reflecting the integration of technology in shopping experiences.",
+        "sentence_cn": "携带移动设备和购物袋的购物者的风格化图像与文本数据相得益彰，反映了技术与购物体验的融合。",
+        "words": [
+            "shopper",
+            "device",
+            "shopping",
+            "bags",
+            "data",
+            "integration",
+            "technology",
+            "shopping",
+            "experiences"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic is by First Data, citing source information at the bottom.",
+        "sentence_cn": "该信息图由 First Data 制作，底部引用了来源信息。",
+        "words": [
+            "source",
+            "information",
+            "bottom"
+        ],
+        "id": null
+    }
+]

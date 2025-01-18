@@ -1,0 +1,139 @@
+[
+    {
+        "sentence": "The image is an advertisement for the Audi A1.",
+        "sentence_cn": "图片是奥迪 A1 的广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features various design elements and motifs arranged to form the outline of a car.",
+        "sentence_cn": "它采用各种设计元素和图案排列，形成汽车的轮廓。",
+        "words": [
+            "design",
+            "elements",
+            "motifs",
+            "outline",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These elements include:",
+        "sentence_cn": "这些元素包括：",
+        "words": [
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Large Wheel and Rim: Prominently features an Audi-logo wheel.",
+        "sentence_cn": "1. 大车轮和轮辋：显著的特点是带有奥迪标志的车轮。",
+        "words": [
+            "Large Wheel and Rim",
+            "Wheel",
+            "Rim",
+            "logo",
+            "wheel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Headlight Design: Positioned at the top left, representing vehicle lighting.",
+        "sentence_cn": "2. 前灯设计：位于左上方，代表车辆照明。",
+        "words": [
+            "Headlight Design",
+            "Headlight",
+            "Design",
+            "vehicle",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Grille Design: Central in the composition, outlining the car's grille.",
+        "sentence_cn": "3. 格栅设计：位于构图的中心，勾勒出汽车的格栅。",
+        "words": [
+            "Grille Design",
+            "Grille",
+            "Design",
+            "composition",
+            "car",
+            "grille"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Silhouettes and Icons: Include a bird, snowflake, tree, and bicycle, possibly indicating agility and versatility.",
+        "sentence_cn": "4. 轮廓和图标：包括鸟、雪花、树和自行车，可能表示敏捷性和多功能性。",
+        "words": [
+            "Silhouettes and Icons",
+            "Silhouettes",
+            "Icons",
+            "bird",
+            "snowflake",
+            "tree",
+            "bicycle",
+            "agility",
+            "versatility"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Text Elements: Include phrases like \"The New Audi A1,\" \"With iconic exterior design,\" and \"A Big Idea Condensed.\"",
+        "sentence_cn": "5. 文本元素：包括“新款奥迪 A1”、“具有标志性的外观设计”和“浓缩的大创意”等短语。",
+        "words": [
+            "Text Elements",
+            "The New Audi A1,",
+            "With iconic exterior design,",
+            "A Big Idea Condensed.",
+            "Text",
+            "Elements",
+            "phrases",
+            "exterior",
+            "design",
+            "Idea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Audi Logos: Placed near the text and scattered across the elements.",
+        "sentence_cn": "6. 奥迪标志：放置在文本附近并分散在各个元素中。",
+        "words": [
+            "Audi Logos",
+            "text",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "7. Red Audi A1: At the bottom right, showing a side view of the compact car.",
+        "sentence_cn": "7. 红色奥迪 A1：右下方，展示紧凑型车的侧视图。",
+        "words": [
+            "Red Audi A1",
+            "right",
+            "view",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is mostly white, emphasizing the black and red elements.",
+        "sentence_cn": "背景主要是白色，强调黑色和红色元素。",
+        "words": [
+            "background",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the ad is designed to highlight the new Audi A1's design features and concept.",
+        "sentence_cn": "总体而言，该广告旨在凸显新款奥迪A1的设计特色和理念。",
+        "words": [
+            "ad",
+            "design",
+            "features",
+            "concept"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Brother Minister: The Assassination of Malcolm X\" by Jack Baxter.",
+        "sentence_cn": "图片是杰克·巴克斯特 (Jack Baxter) 执导的《兄弟部长：刺杀马尔科姆 X》的电影海报。",
+        "words": [
+            "Brother Minister: The Assassination of Malcolm X",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a close-up of a man's face, likely representing Malcolm X, with a pensive expression.",
+        "sentence_cn": "照片上是一个男人的脸部特写，可能代表马尔科姆·艾克斯，带着若有所思的表情。",
+        "words": [
+            "close",
+            "up",
+            "man",
+            "face",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The color scheme includes deep reds and golden yellows, giving it a dramatic and intense atmosphere.",
+        "sentence_cn": "配色方案包括深红色和金黄色，营造出一种戏剧性和强烈的氛围。",
+        "words": [
+            "color",
+            "scheme",
+            "reds",
+            "yellows",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title is prominently displayed at the top in bold fonts, with \"BROTHER MINISTER\" in large yellow and white letters, and \"THE ASSASSINATION OF MALCOLM X\" in white.",
+        "sentence_cn": "标题以粗体字体突出显示在顶部，其中“BROTHER MINISTER”以黄色和白色大字母表示，“THE ASSINATION OF MALCOLM X”以白色表示。",
+        "words": [
+            "BROTHER MINISTER",
+            "THE ASSASSINATION OF MALCOLM X",
+            "title",
+            "top",
+            "fonts",
+            "BROTHER",
+            "letters",
+            "white"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, it mentions \"EL-HAJJ MALIK SHABAZZ.\"",
+        "sentence_cn": "下面提到了“EL-HAJJ MALIK SHABAZZ”。",
+        "words": [
+            "EL-HAJJ MALIK SHABAZZ."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle, there's a tagline in white reading, \"It's never too late for the truth.\"",
+        "sentence_cn": "中间有一行白色标语，“寻求真相永远不会太晚”。",
+        "words": [
+            "It's never too late for the truth.",
+            "middle",
+            "tagline",
+            "reading",
+            "truth"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section features quotes from various publications, praising the film:",
+        "sentence_cn": "下面引用了各种出版物对这部电影的赞扬：",
+        "words": [
+            "section",
+            "quotes",
+            "publications",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"BRAVE!\" - Roger Ebert",
+        "sentence_cn": "- “勇敢！” - 罗杰·艾伯特",
+        "words": [
+            "BRAVE!"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"BRILLIANT!\" - NY Post",
+        "sentence_cn": "- “太棒了！” - 纽约邮报",
+        "words": [
+            "BRILLIANT!"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"POWERFUL\" - Los Angeles Times",
+        "sentence_cn": "- “强大” - 洛杉矶时报",
+        "words": [
+            "POWERFUL"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"EXPLOSIVE\" - Variety",
+        "sentence_cn": "- “爆炸性” - 综艺",
+        "words": [
+            "EXPLOSIVE"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"GRIPPING\" - Entertainment Weekly",
+        "sentence_cn": "- “扣人心弦” - 娱乐周刊",
+        "words": [
+            "GRIPPING"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design emphasizes the film's dramatic and investigative tone, focusing on uncovering the truth about Malcolm X's assassination.",
+        "sentence_cn": "影片整体设计强调了戏剧性和调查性，重点揭露马尔科姆·艾克斯被刺杀的真相。",
+        "words": [
+            "design",
+            "film",
+            "tone",
+            "truth",
+            "assassination"
+        ],
+        "id": null
+    }
+]

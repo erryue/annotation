@@ -1,0 +1,206 @@
+[
+    {
+        "sentence": "The image is a split graphic featuring a football referee and commentary about the impact of replacement referees on a football season.",
+        "sentence_cn": "该图是一幅分割图，其中展示了一名足球裁判和关于替换裁判对足球赛季的影响的评论。",
+        "words": [
+            "graphic",
+            "football",
+            "referee",
+            "commentary",
+            "impact",
+            "replacement",
+            "referees",
+            "football",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title Bar:",
+        "sentence_cn": "- 标题栏：",
+        "words": [
+            "Title Bar:",
+            "Title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The top section asks, \"How did the replacement refs affect the football season?\"",
+        "sentence_cn": "- 最上面的部分询问“替换裁判对足球赛季有何影响？”",
+        "words": [
+            "How did the replacement refs affect the football season?",
+            "section",
+            "replacement",
+            "refs",
+            "football",
+            "season"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Center Image:",
+        "sentence_cn": "- 中心图像：",
+        "words": [
+            "Center Image:",
+            "Center",
+            "Image"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There's a split image of a referee, showing different styles on each side, indicating a change or difference in refereeing.",
+        "sentence_cn": "- 有一张裁判的分裂图像，显示双方不同的风格，表明裁判的变化或差异。",
+        "words": [
+            "referee",
+            "styles",
+            "change",
+            "difference",
+            "refereeing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Left Side:",
+        "sentence_cn": "- 左侧：",
+        "words": [
+            "Left Side:",
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Text mentions more than \"$500 million\" was at stake for the Packers/Seahawks game with a controversial call affecting the payout.",
+        "sentence_cn": "- 文中提到，包装工队/海鹰队的比赛赌注超过“ 5 亿美元”，而一个有争议的判罚影响了赔付。",
+        "words": [
+            "$500 million",
+            "Text",
+            "500",
+            "million",
+            "stake",
+            "game",
+            "call",
+            "payout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Coaches were fined a total of \"$130,000\" for actions such as chasing and bullying refs.",
+        "sentence_cn": "- 教练因追赶和欺负裁判等行为被罚款总计“130,000 美元”。",
+        "words": [
+            "$130,000",
+            "Coaches",
+            "total",
+            "130,000",
+            "actions",
+            "refs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Right Side:",
+        "sentence_cn": "- 右侧：",
+        "words": [
+            "Right Side:",
+            "Side"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - It states coaches have called \"20\" more challenges in the first three weeks of the 2012 season compared to the same period in 2011.",
+        "sentence_cn": "- 报告指出，与 2011 年同期相比，教练在 2012 赛季的前三周内发起的挑战增加了“20 次”。",
+        "words": [
+            "20",
+            "coaches",
+            "20",
+            "challenges",
+            "three",
+            "weeks",
+            "2012",
+            "season",
+            "period",
+            "2011"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Green Background:",
+        "sentence_cn": "- 绿色背景：",
+        "words": [
+            "Green Background:",
+            "Background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - There's a stylized football graphic with a yellow penalty flag in the background.",
+        "sentence_cn": "- 背景是一幅风格化的足球图形，带有一面黄色罚旗。",
+        "words": [
+            "football",
+            "graphic",
+            "penalty",
+            "flag",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Bottom Section:",
+        "sentence_cn": "- 底部部分：",
+        "words": [
+            "Bottom Section:",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - A \"Breaking News\" banner includes quotes:",
+        "sentence_cn": "- “突发新闻”横幅包括以下引言：",
+        "words": [
+            "Breaking News",
+            "banner",
+            "quotes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - President Barack Obama emphasized the need to bring regular refs back.",
+        "sentence_cn": "- 美国总统巴拉克·奥巴马强调恢复常规裁判的必要性。",
+        "words": [
+            "need",
+            "refs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - Roger Goodell commented against seeing games end controversially.",
+        "sentence_cn": "- 罗杰·古德尔 (Roger Goodell) 反对看到比赛以有争议的方式结束。",
+        "words": [
+            "games"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "    - A tweet from T.J. Lang expresses frustration, highlighting the impact on fans.",
+        "sentence_cn": "- T.J. Lang 在推特上表达了自己的沮丧，强调此事对粉丝造成的影响。",
+        "words": [
+            "tweet",
+            "frustration",
+            "impact",
+            "fans"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall image highlights significant financial implications, increased disputes, and public dissatisfaction related to the use of replacement referees.",
+        "sentence_cn": "总体来看，使用替代裁判会带来重大的财务影响、纠纷增多以及公众的不满。",
+        "words": [
+            "implications",
+            "disputes",
+            "dissatisfaction",
+            "use",
+            "replacement",
+            "referees"
+        ],
+        "id": null
+    }
+]

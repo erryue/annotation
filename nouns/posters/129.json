@@ -1,0 +1,123 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Bound.\"",
+        "sentence_cn": "图片是电影《Bound》的电影海报。",
+        "words": [
+            "Bound.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features two women in the foreground.",
+        "sentence_cn": "画的前景是两名女性。",
+        "words": [
+            "two",
+            "women",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the left has short hair and is wearing a sleeveless black top.",
+        "sentence_cn": "左边的女子留着短发，身穿无袖黑色上衣。",
+        "words": [
+            "woman",
+            "left",
+            "hair",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The woman on the right has curly hair and is wearing a black top with thin straps.",
+        "sentence_cn": "右边的女子有着卷发，身穿黑色细肩带上衣。",
+        "words": [
+            "woman",
+            "right",
+            "hair",
+            "top",
+            "straps"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are surrounded by hanging dollar bills, suggesting themes of crime and intrigue.",
+        "sentence_cn": "它们周围悬挂着美元钞票，暗示着犯罪和阴谋的主题。",
+        "words": [
+            "dollar",
+            "bills",
+            "themes",
+            "crime",
+            "intrigue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"BOUND\" is prominently displayed in bold yellow font across the middle.",
+        "sentence_cn": "标题“BOUND”以粗体黄色字体突出显示在中间。",
+        "words": [
+            "BOUND",
+            "title",
+            "BOUND",
+            "font",
+            "middle"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above the title, the names \"Jennifer Tilly,\" \"Gina Gershon,\" and \"Joe Pantoliano\" are listed, indicating they are the leading actors.",
+        "sentence_cn": "片名上方列出了“詹妮弗·提莉”、“吉娜·格申”和“乔·潘托里亚诺”的名字，表明他们就是主演。",
+        "words": [
+            "Jennifer Tilly,",
+            "Gina Gershon,",
+            "Joe Pantoliano",
+            "title",
+            "names",
+            "actors"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the title, there is a tagline: \"Violet and Corky are making laundry day a very big deal.\"",
+        "sentence_cn": "标题下方有一句标语：“Violet 和 Corky 让洗衣日变得非常重要。”",
+        "words": [
+            "Violet and Corky are making laundry day a very big deal.",
+            "title",
+            "tagline",
+            "laundry",
+            "day",
+            "deal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, additional credits are provided, including the production companies, directors, and other members of the film¡¯s production team.",
+        "sentence_cn": "底部提供了额外的名单，包括制作公司、导演和电影制作团队的其他成员。",
+        "words": [
+            "bottom",
+            "credits",
+            "production",
+            "companies",
+            "directors",
+            "members",
+            "film¡¯s",
+            "production",
+            "team"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a dark and mysterious tone, consistent with the film's neo-noir genre.",
+        "sentence_cn": "海报呈现出一种黑暗而神秘的色调，符合电影的新黑色电影风格。",
+        "words": [
+            "poster",
+            "tone",
+            "film",
+            "genre"
+        ],
+        "id": null
+    }
+]

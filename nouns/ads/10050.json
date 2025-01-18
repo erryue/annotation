@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image is a vintage advertisement for Labatt's India Pale Ale.",
+        "sentence_cn": "该图是 Labatt 印度淡色艾尔啤酒 (India Pale Ale) 的复古广告。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "It features a man holding a glass of beer, looking at it with a satisfied expression.",
+        "sentence_cn": "画中一名男子手捧一杯啤酒，带着满意的表情看着它。",
+        "words": [
+            "man",
+            "glass",
+            "beer",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He wears a white collared shirt.",
+        "sentence_cn": "他穿着一件白领衬衫。",
+        "words": [
+            "shirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In bold, red text at the top, the ad reads: \"HERE'S A REAL MAN'S ALE...\" suggesting masculinity and strength associated with the ale.",
+        "sentence_cn": "广告顶部用粗体红色文字写着：“这是真正的男人麦芽啤酒......”暗示着这种麦芽啤酒所具有的阳刚之气和力量。",
+        "words": [
+            "HERE'S A REAL MAN'S ALE...",
+            "text",
+            "top",
+            "ad",
+            "MAN",
+            "ALE",
+            "masculinity",
+            "strength",
+            "ale"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the image of the man, the text describes the beer as \"FULL STRENGTH I.P.A.\" and highlights its \"honest, masculine directness.\"",
+        "sentence_cn": "在男子图像下方，文字将这款啤酒描述为“FULL STRENGTH I.P.A.”并强调其“真诚、阳刚的直率”。",
+        "words": [
+            "FULL STRENGTH I.P.A.",
+            "honest, masculine directness.",
+            "man",
+            "text",
+            "beer",
+            "STRENGTH",
+            "directness"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It emphasizes that the ale is \"full strength, full bodied, full flavoured,\" and implies that it is a beer \"for a man.\"",
+        "sentence_cn": "它强调这种啤酒“浓度高、口感醇厚、味道浓郁”，并暗示这是一款“为男人”喝的啤酒。",
+        "words": [
+            "full strength, full bodied, full flavoured,",
+            "for a man.",
+            "ale",
+            "strength",
+            "beer",
+            "man"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the bottom right, there is a small image of a bottle labeled \"Labatt's INDIA PALE ALE\" with the logo visible.",
+        "sentence_cn": "右下角有一个小瓶子图像，上面标有“Labatt's INDIA PALE ALE”字样，其标志清晰可见。",
+        "words": [
+            "Labatt's INDIA PALE ALE",
+            "right",
+            "bottle",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design suggests traditional gender roles commonly emphasized in advertisements from a past era.",
+        "sentence_cn": "整体设计体现了过去时代广告中普遍强调的传统性别角色。",
+        "words": [
+            "design",
+            "gender",
+            "roles",
+            "advertisements",
+            "era"
+        ],
+        "id": null
+    }
+]

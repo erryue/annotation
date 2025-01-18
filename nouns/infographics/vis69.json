@@ -27,8 +27,8 @@
         "id": null
     },
     {
-        "sentence": "**Cities and Load Times (in seconds):**",
-        "sentence_cn": "",
+        "sentence": "Cities and Load Times (in seconds):",
+        "sentence_cn": "城市和加载时间（秒数）：",
         "words": [
             "Cities and Load Times (in seconds):",
             "Cities",
@@ -78,7 +78,7 @@
     },
     {
         "sentence": "- Buenos Aires: 9.281",
-        "sentence_cn": "- 布宜诺斯艾利斯： 9.281",
+        "sentence_cn": "- 布宜诺斯艾利斯：9.281",
         "words": [
             "Buenos",
             "Aires",
@@ -153,8 +153,8 @@
         "id": null
     },
     {
-        "sentence": "**Overall Average Load Time:**",
-        "sentence_cn": "**总体平均加载时间：**",
+        "sentence": "Overall Average Load Time:",
+        "sentence_cn": "总体平均加载时间：",
         "words": [
             "Overall Average Load Time:",
             "Load",
@@ -172,8 +172,8 @@
         "id": null
     },
     {
-        "sentence": "**Pie Charts:**",
-        "sentence_cn": "**饼图：**",
+        "sentence": "Pie Charts:",
+        "sentence_cn": "饼图：",
         "words": [
             "Pie Charts:",
             "Pie",
@@ -182,8 +182,8 @@
         "id": null
     },
     {
-        "sentence": "1. **Elements on the Page (for a total of 364KB):**",
-        "sentence_cn": "1. **页面元素（共计 364KB）：**",
+        "sentence": "1. Elements on the Page (for a total of 364KB):",
+        "sentence_cn": "1. 页面元素（共计 364KB）：",
         "words": [
             "Elements on the Page (for a total of 364KB):",
             "Elements",
@@ -239,8 +239,8 @@
         "id": null
     },
     {
-        "sentence": "2. **Best Load Time (San Francisco, 3.074 sec):**",
-        "sentence_cn": "2. **最佳加载时间（旧金山，3.074 秒）：**",
+        "sentence": "2. Best Load Time (San Francisco, 3.074 sec):",
+        "sentence_cn": "2. 最佳加载时间（旧金山，3.074 秒）：",
         "words": [
             "Best Load Time (San Francisco, 3.074 sec):",
             "Load",
@@ -263,7 +263,7 @@
     },
     {
         "sentence": "   - Connection: 29%",
-        "sentence_cn": "- 連線：29％",
+        "sentence_cn": "- 连接：29％",
         "words": [
             "Connection",
             "29"
@@ -297,8 +297,8 @@
         "id": null
     },
     {
-        "sentence": "3. **Worst Load Time (Cape Town, 14.989 sec):**",
-        "sentence_cn": "3. **最差加载时间（开普敦，14.989 秒）：**",
+        "sentence": "3. Worst Load Time (Cape Town, 14.989 sec):",
+        "sentence_cn": "3. 最差加载时间（开普敦，14.989 秒）：",
         "words": [
             "Worst Load Time (Cape Town, 14.989 sec):",
             "Load",
@@ -321,7 +321,7 @@
     },
     {
         "sentence": "   - Connection: 24%",
-        "sentence_cn": "- 连接：24％",
+        "sentence_cn": "- 連線：24％",
         "words": [
             "Connection",
             "24"

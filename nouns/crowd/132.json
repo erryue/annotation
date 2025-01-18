@@ -1,0 +1,116 @@
+[
+    {
+        "sentence": "The image shows three people outdoors, engaging in conversation.",
+        "sentence_cn": "照片显示三个人在户外交谈。",
+        "words": [
+            "three",
+            "people",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are backlit by a bright sun, creating a warm glow around them.",
+        "sentence_cn": "明亮的阳光照亮了它们的背后，使它们周围散发出温暖的光芒。",
+        "words": [
+            "sun",
+            "glow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Left person: A woman in a denim jacket is holding a glass with a straw.",
+        "sentence_cn": "1. 左边的人：一位身穿牛仔夹克的女性手里拿着一杯插着吸管的玻璃杯。",
+        "words": [
+            "Left person",
+            "person",
+            "woman",
+            "denim",
+            "jacket",
+            "glass",
+            "straw"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She appears animated, using her hands to emphasize her speech.",
+        "sentence_cn": "她显得很活泼，并用手势强调自己的讲话。",
+        "words": [
+            "hands",
+            "speech"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her expression is lively and engaged.",
+        "sentence_cn": "她的表情生动而投入。",
+        "words": [
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Middle person: A woman with long hair, wearing a red scarf over a denim shirt, is holding a glass and a spoon.",
+        "sentence_cn": "2. 中间人：一位长发女子，身穿牛仔衬衫，围着红围巾，手里拿着玻璃杯和勺子。",
+        "words": [
+            "Middle person",
+            "person",
+            "woman",
+            "hair",
+            "scarf",
+            "denim",
+            "shirt",
+            "glass",
+            "spoon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is focused on the woman speaking and seems attentive and interested.",
+        "sentence_cn": "她全神贯注地听着那位女士的讲话，看上去很专注，很感兴趣。",
+        "words": [
+            "woman"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Right person: A man in sunglasses and a dark, buttoned shirt is holding a small glass with a spoon or straw.",
+        "sentence_cn": "3. 合适的人：一个戴着墨镜、穿着深色纽扣衬衫的男人，手里拿着一个小玻璃杯，上面有勺子或吸管。",
+        "words": [
+            "Right person",
+            "person",
+            "man",
+            "sunglasses",
+            "shirt",
+            "glass",
+            "spoon",
+            "straw"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He is facing the other two, perhaps listening or preparing to join the conversation.",
+        "sentence_cn": "他正面对着另外两个人，或许是在听，或许是在准备加入谈话。",
+        "words": [
+            "two",
+            "conversation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is the suggestion of a body of water, possibly a lake or river, and the surrounding landscape is lightly visible under the bright sunlight, contributing to a relaxed and pleasant atmosphere.",
+        "sentence_cn": "背景中隐约可见一片水域，可能是湖泊或者河流，周围的景观在明媚的阳光下隐约可见，营造出一种轻松愉悦的氛围。",
+        "words": [
+            "background",
+            "suggestion",
+            "body",
+            "water",
+            "lake",
+            "river",
+            "landscape",
+            "sunlight",
+            "atmosphere"
+        ],
+        "id": null
+    }
+]

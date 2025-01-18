@@ -1,0 +1,62 @@
+[
+    {
+        "sentence": "The image shows two people sitting together, surrounded by several dogs.",
+        "sentence_cn": "照片中，两个人坐在一起，周围围着几只狗。",
+        "words": [
+            "two",
+            "people",
+            "dogs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the left is wearing a black shirt and a cap, and is gently holding a medium-sized, light brown dog that appears to be enjoying the attention.",
+        "sentence_cn": "左边的人穿着黑色衬衫，戴着帽子，温柔地抱着一只中等大小的浅棕色狗，它似乎很享受这种关注。",
+        "words": [
+            "person",
+            "left",
+            "shirt",
+            "cap",
+            "dog",
+            "attention"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person on the right, wearing a dark top with long hair, is smiling and also petting the dog.",
+        "sentence_cn": "右边的人穿着深色上衣，留着长发，面带微笑，也在抚摸着狗。",
+        "words": [
+            "person",
+            "right",
+            "top",
+            "hair",
+            "dog"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Multiple dogs with different coats, including one with black and white markings and another with brown and white spots, are gathered around them, adding to the cheerful and friendly atmosphere of the scene.",
+        "sentence_cn": "多只毛色各异的狗聚集在它们周围，其中一只带有黑白斑纹，另一只带有棕白斑点，为场景增添了欢快友好的氛围。",
+        "words": [
+            "dogs",
+            "coats",
+            "one",
+            "markings",
+            "spots",
+            "atmosphere",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They seem to be in an outdoor setting with a metal fence and greenery in the background.",
+        "sentence_cn": "它们似乎处于户外环境中，背景是金属栅栏和绿色植物。",
+        "words": [
+            "metal",
+            "fence",
+            "greenery",
+            "background"
+        ],
+        "id": null
+    }
+]

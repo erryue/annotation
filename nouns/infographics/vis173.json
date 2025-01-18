@@ -1,0 +1,109 @@
+[
+    {
+        "sentence": "The image is an informative poster by UNICEF about the importance of handwashing with soap in India.",
+        "sentence_cn": "该图是联合国儿童基金会制作的一张宣传海报，宣传在印度用肥皂洗手的重要性。",
+        "words": [
+            "poster",
+            "importance",
+            "soap",
+            "India"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a child covered in soap, smiling, against a blurred background.",
+        "sentence_cn": "这张照片上，一个浑身是肥皂的孩子在模糊的背景前微笑。",
+        "words": [
+            "child",
+            "soap",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the poster highlights several key points:",
+        "sentence_cn": "海报上的文字强调了几个重点：",
+        "words": [
+            "Text",
+            "poster",
+            "points"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"The practice of handwashing with soap in India is not widespread,\" emphasizing the need for better hygiene practices.",
+        "sentence_cn": "- “在印度，用肥皂洗手的习惯并不普遍”，强调需要更好的卫生习惯。",
+        "words": [
+            "The practice of handwashing with soap in India is not widespread,",
+            "practice",
+            "soap",
+            "India",
+            "need",
+            "hygiene",
+            "practices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- \"Diarrhoea & respiratory infections are #1 cause for child deaths in India,\" highlighting a critical health issue.",
+        "sentence_cn": "- “腹泻和呼吸道感染是印度儿童死亡的首要原因”，突显了一个严重的健康问题。",
+        "words": [
+            "Diarrhoea & respiratory infections are #1 cause for child deaths in India,",
+            "Diarrhoea",
+            "infections",
+            "#",
+            "1",
+            "cause",
+            "child",
+            "deaths",
+            "India",
+            "health",
+            "issue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- It states, \"1,000/day die from diarrhoea,\" illustrating the severity of the problem.",
+        "sentence_cn": "- 报告指出“每天有 1,000 人死于腹泻”，说明了问题的严重性。",
+        "words": [
+            "1,000/day die from diarrhoea,",
+            "1,000",
+            "day",
+            "diarrhoea",
+            "severity",
+            "problem"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- It provides statistics on the percentage of people who wash their hands with soap: 53% after defecation, 38% before eating, and 30% before preparing food.",
+        "sentence_cn": "- 提供了用肥皂洗手的人群百分比统计数据：排便后用肥皂洗手的人群百分比为 53%，吃饭前用肥皂洗手的人群百分比为 38%，准备食物前用肥皂洗手的人群百分比为 30%。",
+        "words": [
+            "statistics",
+            "percentage",
+            "people",
+            "hands",
+            "soap",
+            "53",
+            "defecation",
+            "38",
+            "%",
+            "30",
+            "%",
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster includes UNICEF branding, a logo for Global Handwashing Day, and credits to UNICEF for the photo.",
+        "sentence_cn": "海报上有联合国儿童基金会的品牌标识、全球洗手日的标志以及联合国儿童基金会的照片。",
+        "words": [
+            "poster",
+            "branding",
+            "logo",
+            "credits",
+            "photo"
+        ],
+        "id": null
+    }
+]

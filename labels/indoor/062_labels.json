@@ -1,0 +1,46 @@
+[
+    {
+        "id": "2215a081-6a23-43da-b637-fb0f3ae2507a",
+        "confidence": 0.8921,
+        "class": "dining table",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 684.06549,
+                        "minY": 679.73535,
+                        "maxX": 1440.36389,
+                        "maxY": 1079.0
+                    },
+                    "x": 684.06549,
+                    "y": 679.73535,
+                    "w": 756.2984000000001,
+                    "h": 399.26464999999996
+                }
+            }
+        }
+    },
+    {
+        "id": "de2b677e-0ec6-40e5-86c3-986c2c398acd",
+        "confidence": 0.85218,
+        "class": "chair",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 459.91742,
+                        "minY": 844.63068,
+                        "maxX": 831.21735,
+                        "maxY": 1079.0
+                    },
+                    "x": 459.91742,
+                    "y": 844.63068,
+                    "w": 371.29993,
+                    "h": 234.36932000000002
+                }
+            }
+        }
+    }
+]

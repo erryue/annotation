@@ -1,0 +1,324 @@
+[
+    {
+        "sentence": "The image is an infographic titled \"2012: The Tablet Takeover,\" focusing on tablet usage and its impact on consumer behavior.",
+        "sentence_cn": "该图是一张名为“2012：平板电脑的接管”的信息图，重点关注平板电脑的使用及其对消费者行为的影响。",
+        "words": [
+            "2012: The Tablet Takeover,",
+            "2012",
+            "Tablet",
+            "tablet",
+            "usage",
+            "impact",
+            "consumer",
+            "behavior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Key points include:",
+        "sentence_cn": "要点包括：",
+        "words": [
+            "points"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Purchasing:",
+        "sentence_cn": "### 采购：",
+        "words": [
+            "Purchasing"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tablet ownership increases mobile purchase frequency.",
+        "sentence_cn": "- 平板电脑的拥有增加了移动购买频率。",
+        "words": [
+            "Tablet",
+            "ownership",
+            "purchase",
+            "frequency"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Dual owners of tablets and smartphones buy nearly twice as much as those with only smartphones.",
+        "sentence_cn": "- 平板电脑和智能手机的双重拥有者的购买量几乎是仅拥有智能手机者的两倍。",
+        "words": [
+            "owners",
+            "tablets",
+            "smartphones",
+            "smartphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tablets are preferred for commerce, but smartphones are still used.",
+        "sentence_cn": "- 平板电脑是商业用途的首选，但智能手机仍在使用。",
+        "words": [
+            "Tablets",
+            "commerce",
+            "smartphones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Dual Owners:",
+        "sentence_cn": "### 双重所有者：",
+        "words": [
+            "Owners"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Considered power users, making purchases 18.3 times monthly on average.",
+        "sentence_cn": "- 被视为重度用户，平均每月购买 18.3 次。",
+        "words": [
+            "power",
+            "users",
+            "purchases",
+            "18.3",
+            "times"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 41% bought more than 20 items, with 28% acknowledging they bought more than needed.",
+        "sentence_cn": "- 41％的人购买了超过 20 件物品，其中 28％的人承认他们购买的物品超出了需要。",
+        "words": [
+            "41",
+            "20",
+            "items",
+            "28",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Over 50% of U.S. tablet users look up products/prices (56%) and read reviews (54%).",
+        "sentence_cn": "- 超过 50% 的美国平板电脑用户查找产品/价格（56%）和阅读评论（54%）。",
+        "words": [
+            "50",
+            "U.S.",
+            "tablet",
+            "users",
+            "products",
+            "prices",
+            "56",
+            "%",
+            "reviews",
+            "54",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Shopping Habits:",
+        "sentence_cn": "### 购物习惯：",
+        "words": [
+            "Shopping",
+            "Habits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Less than 50% of users seek coupons (48%) or create shopping lists (47%).",
+        "sentence_cn": "- 不到 50% 的用户寻找优惠券（48%）或创建购物清单（47%）。",
+        "words": [
+            "50",
+            "users",
+            "coupons",
+            "48",
+            "%",
+            "shopping",
+            "lists",
+            "47",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 46% check store inventory for availability, and 43% share product recommendations.",
+        "sentence_cn": "- 46% 的人会检查商店库存是否有货，43% 的人会分享产品推荐。",
+        "words": [
+            "46",
+            "store",
+            "inventory",
+            "availability",
+            "43",
+            "%",
+            "product",
+            "recommendations"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### News Consumption:",
+        "sentence_cn": "### 新闻消费：",
+        "words": [
+            "News",
+            "Consumption"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tablets are used by about 8% of the U.S. adult population for 90 minutes daily.",
+        "sentence_cn": "- 大约 8% 的美国成年人每天使用平板电脑的时间为 90 分钟。",
+        "words": [
+            "Tablets",
+            "8",
+            "U.S.",
+            "adult",
+            "population",
+            "90",
+            "minutes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 53% consume news, 42% read in-depth articles, and 33% switch to new sources on tablets.",
+        "sentence_cn": "- 53% 的人浏览新闻，42% 的人阅读深度文章，33% 的人通过平板电脑获取新消息来源。",
+        "words": [
+            "53",
+            "news",
+            "42",
+            "%",
+            "depth",
+            "articles",
+            "33",
+            "%",
+            "sources",
+            "tablets"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Size Matters:",
+        "sentence_cn": "### 尺寸很重要：",
+        "words": [
+            "Size"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Page views vary by tablet size: 10¡± (125 views), 9¡± (116 views), 7¡± (90 views), 5¡± (79 views).",
+        "sentence_cn": "- 页面浏览量因平板电脑尺寸而异：10¡±（125 次浏览）、9¡±（116 次浏览）、7¡±（90 次浏览）、5¡±（79 次浏览）。",
+        "words": [
+            "Page",
+            "views",
+            "tablet",
+            "size",
+            "10¡±",
+            "125",
+            "views",
+            "9¡±",
+            "116",
+            "views",
+            "7¡±",
+            "90",
+            "views",
+            "5¡±",
+            "79",
+            "views"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Usage Patterns:",
+        "sentence_cn": "### 使用模式：",
+        "words": [
+            "Usage",
+            "Patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Tablet usage peaks from 9:00 PM to midnight on weekdays.",
+        "sentence_cn": "- 平板电脑的使用高峰期为工作日晚上 9 点到午夜。",
+        "words": [
+            "Tablet",
+            "usage",
+            "9:00",
+            "PM",
+            "midnight",
+            "weekdays"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Usage trends show the decrease in \"couch potato\" mode during weekends, suggesting higher activity levels.",
+        "sentence_cn": "- 使用趋势显示周末“沙发土豆”模式减少，表明活动水平更高。",
+        "words": [
+            "couch potato",
+            "Usage",
+            "trends",
+            "decrease",
+            "couch",
+            "potato",
+            "mode",
+            "weekends",
+            "activity",
+            "levels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "### Conclusion:",
+        "sentence_cn": "＃＃＃ 结论：",
+        "words": [
+            "Conclusion"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- 50% of tablets are shared with family or friends, indicating they aren't solely personal devices.",
+        "sentence_cn": "- 50% 的平板电脑是与家人或朋友共享的，表明它们并非纯粹的个人设备。",
+        "words": [
+            "50",
+            "tablets",
+            "family",
+            "friends",
+            "devices"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Common uses for tablets include news (53%), email (54%), social networking (39%), reading (17%), and watching videos (13%).",
+        "sentence_cn": "- 平板电脑的常见用途包括新闻（53%）、电子邮件（54%）、社交网络（39%）、阅读（17%）和观看视频（13%）。",
+        "words": [
+            "uses",
+            "tablets",
+            "news",
+            "53",
+            "email",
+            "54",
+            "%",
+            "networking",
+            "39",
+            "%",
+            "reading",
+            "17",
+            "%",
+            "videos",
+            "13",
+            "%"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The infographic utilizes a green color scheme and contains various charts and icons to visually represent data, aiming to show the popularity and integrated use of tablets in 2012.",
+        "sentence_cn": "该信息图采用绿色配色方案，并包含各种图表和图标以直观地呈现数据，旨在展示 2012 年平板电脑的普及程度和综合使用情况。",
+        "words": [
+            "color",
+            "scheme",
+            "charts",
+            "icons",
+            "data",
+            "popularity",
+            "use",
+            "tablets",
+            "2012"
+        ],
+        "id": null
+    }
+]

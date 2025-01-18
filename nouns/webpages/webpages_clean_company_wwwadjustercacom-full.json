@@ -1,0 +1,228 @@
+[
+    {
+        "sentence": "The image is a screenshot of a webpage for \"HWD Adjusting Company,\" which appears to be a service for handling insurance claims.",
+        "sentence_cn": "该图是“HWD 调整公司”网页的截图，该公司似乎提供处理保险索赔的服务。",
+        "words": [
+            "HWD Adjusting Company,",
+            "webpage",
+            "service",
+            "insurance",
+            "claims"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page has a professional layout with a blue and gray color scheme.",
+        "sentence_cn": "该页面具有专业的布局和蓝色和灰色的配色方案。",
+        "words": [
+            "page",
+            "layout",
+            "color",
+            "scheme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top left, the company name \"HWD Adjusting Company\" is displayed in large blue text.",
+        "sentence_cn": "左上角以大号蓝色文字显示公司名称“HWD Adjusting Company”。",
+        "words": [
+            "HWD Adjusting Company",
+            "left",
+            "company",
+            "name",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beside the title, there are three images depicting damage scenarios: a building collapsed, a house on fire, and a flooded area.",
+        "sentence_cn": "标题旁边有三张描绘损坏场景的图片：建筑物倒塌、房屋着火和地区被洪水淹没。",
+        "words": [
+            "title",
+            "three",
+            "images",
+            "damage",
+            "scenarios",
+            "building",
+            "house",
+            "fire",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, the contact information is given:",
+        "sentence_cn": "右侧给出了联系信息：",
+        "words": [
+            "right",
+            "contact",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Address: 10736 Jefferson Boulevard #801, Culver City, California 90230",
+        "sentence_cn": "- 地址：10736 Jefferson Boulevard #801, Culver City, California 90230",
+        "words": [
+            "Address",
+            "10736",
+            "#",
+            "801",
+            "Culver",
+            "City",
+            "California",
+            "90230"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Phone number: 310-936-7596",
+        "sentence_cn": "- 电话号码：310-936-7596",
+        "words": [
+            "Phone",
+            "number",
+            "310",
+            "-",
+            "936",
+            "-",
+            "7596"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Email: contactus@adjusterca.com",
+        "sentence_cn": "- 电子邮件: contactus@adjusterca.com",
+        "words": [
+            "Email"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a \"CONTACT US\" button in blue.",
+        "sentence_cn": "还有一个蓝色的“联系我们”按钮。",
+        "words": [
+            "CONTACT US",
+            "button",
+            "blue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header, there is a navigation bar with several options: Home, About Us, Types of Claims, Links, and Contact Us.",
+        "sentence_cn": "标题下方有一个导航栏，其中有几个选项：主页、关于我们、索赔类型、链接和联系我们。",
+        "words": [
+            "header",
+            "navigation",
+            "bar",
+            "options",
+            "Home",
+            "Types",
+            "Claims",
+            "Links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The main content is a section titled \"Looking for a California Adjuster?\" in bold text.",
+        "sentence_cn": "主要内容是标题为“正在寻找加州理赔员？”的部分，以粗体显示。",
+        "words": [
+            "Looking for a California Adjuster?",
+            "content",
+            "section",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It describes the company's services, emphasizing that they are licensed California Public Adjusters working exclusively for policyholders.",
+        "sentence_cn": "它描述了该公司的服务，强调他们是获得加州公共理赔师执照的、专门为保单持有人服务的机构。",
+        "words": [
+            "company",
+            "services",
+            "policyholders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text outlines their process, including immediately inspecting loss sites, analyzing damages, and determining replacement costs.",
+        "sentence_cn": "文中概述了他们的流程，包括立即检查损失现场、分析损失情况和确定更换成本。",
+        "words": [
+            "text",
+            "process",
+            "loss",
+            "sites",
+            "damages",
+            "replacement",
+            "costs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It affirms that they serve the client and not the insurance company.",
+        "sentence_cn": "这表明他们为客户服务，而不是为保险公司服务。",
+        "words": [
+            "client",
+            "insurance",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of this text is an image of a flooded house, indicating the type of scenarios the company deals with.",
+        "sentence_cn": "这段文字的右侧是一张被洪水淹没的房屋的图片，表明了该公司所处理的情景类型。",
+        "words": [
+            "right",
+            "text",
+            "house",
+            "type",
+            "scenarios",
+            "company"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, there is a copyright statement: \"Copyright 2010 California Adjuster, All Rights Reserved.",
+        "sentence_cn": "在底部，有一个版权声明：“版权所有 2010 California Adjuster，保留所有权利。",
+        "words": [
+            "bottom",
+            "copyright",
+            "statement",
+            "Copyright",
+            "2010",
+            "Rights"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Website designed by Netvatise Inc.\"",
+        "sentence_cn": "网站由 Netvatise Inc. 设计。”",
+        "words": [
+            "Website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also links for contacting and company information.",
+        "sentence_cn": "还有联系和公司信息的链接。",
+        "words": [
+            "links",
+            "company",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall design suggests a professional service focused on helping clients with insurance claims due to property damage.",
+        "sentence_cn": "整体设计表明专业服务专注于帮助客户因财产损失提出保险索赔。",
+        "words": [
+            "design",
+            "service",
+            "clients",
+            "insurance",
+            "claims",
+            "property",
+            "damage"
+        ],
+        "id": null
+    }
+]

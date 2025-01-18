@@ -1,0 +1,73 @@
+[
+    {
+        "sentence": "The image depicts a serene savanna landscape with tall, golden grass occupying the foreground.",
+        "sentence_cn": "图像描绘了一片宁静的大草原景观，前景是高大的金色草地。",
+        "words": [
+            "savanna",
+            "landscape",
+            "grass",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Three giraffes are visible, partially submerged in the grass, with only their upper bodies and long necks extending above it.",
+        "sentence_cn": "可以看到三只长颈鹿，部分身体埋在草丛中，只有上半身和长脖子伸出草丛。",
+        "words": [
+            "Three",
+            "giraffes",
+            "grass",
+            "bodies",
+            "necks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They are spaced apart, evenly distributed from left to right, and appear to be leisurely walking or grazing.",
+        "sentence_cn": "它们彼此间隔开，从左到右均匀分布，看上去像是在悠闲地散步或吃草。",
+        "words": [
+            "left",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the distance, a line of trees marks the transition between the savanna and the horizon.",
+        "sentence_cn": "远处，一排树木标志着大草原和地平线的过渡。",
+        "words": [
+            "distance",
+            "line",
+            "trees",
+            "transition",
+            "savanna",
+            "horizon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the trees, a range of low, blue-green hills or mountains stretches across the background under a sky filled with abundant fluffy white clouds.",
+        "sentence_cn": "在树木之外，一片低矮的蓝绿色山丘或山脉在充满大量蓬松白云的天空下延伸。",
+        "words": [
+            "trees",
+            "range",
+            "green",
+            "hills",
+            "mountains",
+            "background",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests a sunny day, enhancing the vibrant colors of the landscape.",
+        "sentence_cn": "灯光映衬着晴朗的天气，增强了景观的鲜艳色彩。",
+        "words": [
+            "lighting",
+            "day",
+            "colors",
+            "landscape"
+        ],
+        "id": null
+    }
+]

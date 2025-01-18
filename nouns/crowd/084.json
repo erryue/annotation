@@ -1,0 +1,93 @@
+[
+    {
+        "sentence": "The image shows two women sitting at an outdoor wooden table by the water.",
+        "sentence_cn": "照片中，两名妇女坐在水边的户外木桌旁。",
+        "words": [
+            "two",
+            "women",
+            "table",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both women are wearing black abayas with decorative patterns, and they have headscarves.",
+        "sentence_cn": "两名女子均身穿带有装饰图案的黑色长袍，戴着头巾。",
+        "words": [
+            "women",
+            "abayas",
+            "patterns",
+            "headscarves"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They appear to be sharing earphones and looking at a smartphone, suggesting they might be listening to something together.",
+        "sentence_cn": "他们似乎共用耳机并看着智能手机，这表明他们可能在一起听一些东西。",
+        "words": [
+            "earphones",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the table, there are two cups of coffee in white mugs, each on a saucer with a spoon.",
+        "sentence_cn": "桌子上，白色杯子里盛着两杯咖啡，每杯咖啡都放在一个茶碟上，还有一把勺子。",
+        "words": [
+            "table",
+            "two",
+            "cups",
+            "coffee",
+            "mugs",
+            "saucer",
+            "spoon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A glass of water with a slice of lime is placed in front of each woman, resting on square white napkins.",
+        "sentence_cn": "每位妇女面前都放置着一杯加了青柠片的水，放在方形白色餐巾上。",
+        "words": [
+            "glass",
+            "water",
+            "slice",
+            "lime",
+            "front",
+            "woman",
+            "napkins"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a small dish containing what seems to be sugar cubes.",
+        "sentence_cn": "还有一个小碟子，里面装着看似方糖的东西。",
+        "words": [
+            "dish",
+            "sugar",
+            "cubes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The water in the background has a calm appearance and a bluish-green hue.",
+        "sentence_cn": "背景中的水看起来很平静，呈现蓝绿色。",
+        "words": [
+            "water",
+            "background",
+            "appearance",
+            "hue"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting gives a relaxed and friendly atmosphere, possibly at a caf¨¦ by the sea or a lake.",
+        "sentence_cn": "这里的环境给人一种轻松而友好的氛围，可能是在海边或湖边的咖啡馆。",
+        "words": [
+            "atmosphere",
+            "caf¨",
+            "sea",
+            "lake"
+        ],
+        "id": null
+    }
+]

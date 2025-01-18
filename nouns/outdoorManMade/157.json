@@ -1,0 +1,87 @@
+[
+    {
+        "sentence": "The image depicts a luxurious backyard setup featuring a pool house with a tiled roof.",
+        "sentence_cn": "图片描绘的是一个豪华的后院布置，其中有一座带瓦片屋顶的泳池房屋。",
+        "words": [
+            "backyard",
+            "pool",
+            "house",
+            "roof"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The structure has a Mediterranean style with large arched openings leading to an outdoor kitchen area, complete with a built-in grill.",
+        "sentence_cn": "该建筑为地中海风格，设有大型拱形开口，通向配有内置烤架的室外厨房区。",
+        "words": [
+            "structure",
+            "Mediterranean",
+            "style",
+            "openings",
+            "kitchen",
+            "area",
+            "grill"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the pool house are neatly arranged potted plants with vibrant pink and purple flowers.",
+        "sentence_cn": "泳池屋周围整齐排列着盆栽，盛开着鲜艳的粉色和紫色花朵。",
+        "words": [
+            "pool",
+            "house",
+            "plants",
+            "flowers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, a blue swimming pool stretches across the scene with a raised circular hot tub or spa, which has a fountain creating a gentle water feature.",
+        "sentence_cn": "在前景中，一个蓝色的游泳池遍布整个场景，其中有一个凸起的圆形热水浴缸或水疗中心，其中的喷泉营造出柔和的水景。",
+        "words": [
+            "foreground",
+            "swimming",
+            "pool",
+            "scene",
+            "tub",
+            "spa",
+            "fountain",
+            "water",
+            "feature"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The pool deck is paved with stone tiles, adding to the elegant aesthetic.",
+        "sentence_cn": "泳池甲板铺有石砖，增添了优雅的美感。",
+        "words": [
+            "pool",
+            "deck",
+            "stone",
+            "tiles",
+            "aesthetic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features tall trees and a fenced yard, providing a private and cozy atmosphere.",
+        "sentence_cn": "背景是高大的树木和围栏的院子，营造出私密而舒适的氛围。",
+        "words": [
+            "background",
+            "trees",
+            "yard",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additionally, there is a glimpse of a children's playset on the right side of the image.",
+        "sentence_cn": "此外，图片右侧还可以看到一套儿童玩具。",
+        "words": [
+            "glimpse",
+            "children",
+            "playset"
+        ],
+        "id": null
+    }
+]

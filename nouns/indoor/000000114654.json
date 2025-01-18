@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image depicts a cozy, retro-styled living room with warm, reddish tones.",
+        "sentence_cn": "图片描绘的是一间舒适的、复古风格的客厅，带有温暖的红色色调。",
+        "words": [
+            "living",
+            "room",
+            "tones"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space features a wooden floor and a combination of furniture, including a sofa in the foreground and a coffee table placed centrally on a rug.",
+        "sentence_cn": "该空间采用木地板和组合家具，包括前景中的沙发和中央地毯上的咖啡桌。",
+        "words": [
+            "space",
+            "floor",
+            "combination",
+            "furniture",
+            "sofa",
+            "foreground",
+            "coffee",
+            "table",
+            "rug"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the back of the room, there's a window with curtains drawn open, allowing natural light to enter.",
+        "sentence_cn": "房间后面有一扇窗户，窗帘拉开，让自然光照进来。",
+        "words": [
+            "back",
+            "room",
+            "window",
+            "curtains",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A comfortable armchair is situated near the window, and nearby stands a small table with what appears to be some devices or decor items on it.",
+        "sentence_cn": "窗户附近有一把舒适的扶手椅，旁边有一张小桌子，上面摆放着一些设备或装饰品。",
+        "words": [
+            "armchair",
+            "window",
+            "table",
+            "devices",
+            "decor",
+            "items"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room includes other furniture pieces, such as chairs en route to the back and a TV or display item on a stand against the wall.",
+        "sentence_cn": "房间里还有其他家具，比如后面的椅子和靠墙放置的电视或展示品。",
+        "words": [
+            "room",
+            "furniture",
+            "pieces",
+            "chairs",
+            "route",
+            "back",
+            "TV",
+            "display",
+            "item",
+            "stand",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The walls are adorned with framed pictures or artworks and a small decorative piece.",
+        "sentence_cn": "墙壁上装饰有相框或艺术品以及小装饰品。",
+        "words": [
+            "walls",
+            "pictures",
+            "artworks",
+            "piece"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the setting gives off a warm, homey ambiance, reminiscent of a vintage or classic style.",
+        "sentence_cn": "总体而言，环境营造出一种温暖、温馨的氛围，让人联想到复古或古典风格。",
+        "words": [
+            "ambiance",
+            "vintage",
+            "style"
+        ],
+        "id": null
+    }
+]

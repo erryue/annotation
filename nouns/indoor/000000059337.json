@@ -1,0 +1,108 @@
+[
+    {
+        "sentence": "The image depicts a room with a cozy, unpacked feel.",
+        "sentence_cn": "图像描绘的是一间给人一种舒适、整洁感觉的房间。",
+        "words": [
+            "room",
+            "feel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, there's an upright piano with ornate woodwork on its top.",
+        "sentence_cn": "右边是一架直立式钢琴，顶部有华丽的木装饰。",
+        "words": [
+            "right",
+            "piano",
+            "woodwork",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small stool rests next to several stacked boxes, some of which are labeled with the Home Depot logo, suggesting a recent move or delivery.",
+        "sentence_cn": "一个小凳子放在几个堆放的箱子旁边，其中一些箱子上贴有家得宝 (Home Depot) 的标志，表明最近搬家或送货。",
+        "words": [
+            "stool",
+            "boxes",
+            "logo",
+            "move",
+            "delivery"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "These boxes are situated near a half-wall that separates the room from a kitchen area, visible in the background.",
+        "sentence_cn": "这些箱子位于将房间与厨房区域分隔开的半墙附近，在背景中可以看到。",
+        "words": [
+            "boxes",
+            "wall",
+            "room",
+            "kitchen",
+            "area",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the kitchen, under-cabinet lighting and three pendant lights with blue shades hang from the ceiling.",
+        "sentence_cn": "在厨房里，橱柜下照明灯和三盏带蓝色灯罩的吊灯悬挂在天花板上。",
+        "words": [
+            "kitchen",
+            "cabinet",
+            "lighting",
+            "three",
+            "pendant",
+            "lights",
+            "shades",
+            "ceiling"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A countertop extends from the kitchen into the living area, with books and a pot visible on it.",
+        "sentence_cn": "台面从厨房延伸到起居区，上面摆放着书籍和锅。",
+        "words": [
+            "countertop",
+            "kitchen",
+            "area",
+            "books",
+            "pot"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, there's an office chair with a red accent.",
+        "sentence_cn": "左边有一把带有红色装饰的办公椅。",
+        "words": [
+            "left",
+            "office",
+            "chair",
+            "accent"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A small dog with white and brown fur is sitting on the carpeted floor next to the chair, looking towards the camera.",
+        "sentence_cn": "一只白色和棕色皮毛的小狗坐在椅子旁边的地毯上，看着镜头。",
+        "words": [
+            "dog",
+            "fur",
+            "floor",
+            "chair",
+            "camera"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere of the room suggests settling into a new space or preparing for rearrangement.",
+        "sentence_cn": "房间的整体氛围暗示着要适应一个新空间或准备重新布置。",
+        "words": [
+            "atmosphere",
+            "room",
+            "space",
+            "rearrangement"
+        ],
+        "id": null
+    }
+]

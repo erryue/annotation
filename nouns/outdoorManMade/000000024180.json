@@ -1,0 +1,83 @@
+[
+    {
+        "sentence": "The image depicts a serene riverscape with a small marina tucked into the bank of a wide river.",
+        "sentence_cn": "图像描绘了一片宁静的河景，一条宽阔的河岸边坐落着一座小码头。",
+        "words": [
+            "riverscape",
+            "marina",
+            "bank",
+            "river"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Several boats and yachts are moored at the docks, which extend out into the water.",
+        "sentence_cn": "几艘船只和游艇停泊在延伸到海里的码头上。",
+        "words": [
+            "boats",
+            "yachts",
+            "docks",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A building with a blue and red roof is situated on one of the docks, possibly serving as an office or restaurant.",
+        "sentence_cn": "一座蓝色和红色屋顶的建筑坐落在其中一个码头上，可能用作办公室或餐厅。",
+        "words": [
+            "building",
+            "roof",
+            "one",
+            "docks",
+            "office",
+            "restaurant"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the river stretches towards the horizon, flanked by lush, green hills on the left.",
+        "sentence_cn": "背景中，河流延伸至地平线，左侧是郁郁葱葱的绿色山丘。",
+        "words": [
+            "background",
+            "river",
+            "horizon",
+            "hills",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right, dense green foliage lines the riverbank.",
+        "sentence_cn": "右边，茂密的绿叶排列在河岸边。",
+        "words": [
+            "right",
+            "foliage",
+            "riverbank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Visible in the distance are three tall smokestacks, suggesting an industrial facility on the opposite bank.",
+        "sentence_cn": "远处可以看到三座高高的烟囱，表明对岸有一个工业设施。",
+        "words": [
+            "distance",
+            "three",
+            "smokestacks",
+            "facility",
+            "bank"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is a clear blue with some wispy clouds, indicating a peaceful, possibly early morning or late afternoon setting.",
+        "sentence_cn": "天空湛蓝，飘浮着几朵薄云，预示着可能是清晨或傍晚的宁静。",
+        "words": [
+            "sky",
+            "blue",
+            "clouds",
+            "morning",
+            "afternoon"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "id": "df5978af-1d7c-460c-af64-f27e8660530a",
+        "confidence": 0.91683,
+        "class": "cow",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.2025,
+                        "minY": 251.25011,
+                        "maxX": 168.41551,
+                        "maxY": 433.70822
+                    },
+                    "x": 0.2025,
+                    "y": 251.25011,
+                    "w": 168.21301000000003,
+                    "h": 182.45810999999998
+                }
+            }
+        }
+    },
+    {
+        "id": "1fddc25f-e1ae-40ee-9c73-f61681348e41",
+        "confidence": 0.89644,
+        "class": "cow",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 125.07059,
+                        "minY": 268.83698,
+                        "maxX": 360.04889,
+                        "maxY": 434.22159
+                    },
+                    "x": 125.07059,
+                    "y": 268.83698,
+                    "w": 234.9783,
+                    "h": 165.38461
+                }
+            }
+        }
+    },
+    {
+        "id": "e498631f-59b5-4d97-ba88-c6ab6eb97831",
+        "confidence": 0.89562,
+        "class": "cow",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 356.66803,
+                        "minY": 181.14955,
+                        "maxX": 490.45047,
+                        "maxY": 271.34433
+                    },
+                    "x": 356.66803,
+                    "y": 181.14955,
+                    "w": 133.78244,
+                    "h": 90.19478000000001
+                }
+            }
+        }
+    },
+    {
+        "id": "837dfa15-2467-405d-a280-2326306b26b0",
+        "confidence": 0.81092,
+        "class": "cow",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 205.93881,
+                        "minY": 146.57048,
+                        "maxX": 382.19431,
+                        "maxY": 239.43538
+                    },
+                    "x": 205.93881,
+                    "y": 146.57048,
+                    "w": 176.25549999999998,
+                    "h": 92.8649
+                }
+            }
+        }
+    }
+]

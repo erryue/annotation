@@ -1,0 +1,239 @@
+[
+    {
+        "sentence": "The image is an infographic detailing the sources of renewable energy in the UK in 2012.",
+        "sentence_cn": "该图是详细介绍 2012 年英国可再生能源来源的信息图。",
+        "words": [
+            "sources",
+            "energy",
+            "UK",
+            "2012"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It shows that renewable energy accounted for 12% of the total UK energy consumption at that time.",
+        "sentence_cn": "数据显示，可再生能源占当时英国能源消费总量的12%。",
+        "words": [
+            "energy",
+            "12",
+            "UK",
+            "energy",
+            "consumption",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The different types of renewable energy are broken down into percentages:",
+        "sentence_cn": "不同类型的可再生能源按百分比划分：",
+        "words": [
+            "types",
+            "energy",
+            "percentages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Bioenergy (77.1%):",
+        "sentence_cn": "1.生物能源（77.1%）：",
+        "words": [
+            "Bioenergy (77.1%)",
+            "Bioenergy",
+            "77.1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Landfill Gas: 19%",
+        "sentence_cn": "- 垃圾填埋气：19%",
+        "words": [
+            "Landfill",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Transport Biofuels: 13%",
+        "sentence_cn": "- 运输生物燃料：13%",
+        "words": [
+            "Transport",
+            "13"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Co-firing: 11.2%",
+        "sentence_cn": "- 混烧：11.2%",
+        "words": [
+            "Co",
+            "-",
+            "firing",
+            "11.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Plant Biomass: 10%",
+        "sentence_cn": "- 植物生物量：10%",
+        "words": [
+            "Plant",
+            "Biomass",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Waste Combustion: 8.6%",
+        "sentence_cn": "- 垃圾焚烧：8.6%",
+        "words": [
+            "Waste",
+            "Combustion",
+            "8.6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Domestic Wood: 4.9%",
+        "sentence_cn": "- 国产木材：4.9%",
+        "words": [
+            "4.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Sewage Gas: 3.6%",
+        "sentence_cn": "- 污水气：3.6%",
+        "words": [
+            "Sewage",
+            "3.6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Industrial Wood: 3.2%",
+        "sentence_cn": "- 工业木材：3.2%",
+        "words": [
+            "3.2"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Animal Biomass: 2.5%",
+        "sentence_cn": "- 动物生物量：2.5%",
+        "words": [
+            "2.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Anaerobic Digestion: 1%",
+        "sentence_cn": "- 厌氧消化：1％",
+        "words": [
+            "Digestion",
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Wind Power (15.4%):",
+        "sentence_cn": "2. 风力发电（15.4%）",
+        "words": [
+            "Wind Power (15.4%)",
+            "Wind",
+            "Power",
+            "15.4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Offshore Wind: 10%",
+        "sentence_cn": "- 海上风电：10%",
+        "words": [
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Onshore Wind: 5.4%",
+        "sentence_cn": "- 陆上风电：5.4%",
+        "words": [
+            "5.4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Hydro-Electric (4.9%)",
+        "sentence_cn": "3. 水力发电（4.9%）",
+        "words": [
+            "Hydro-Electric (4.9%)",
+            "Electric",
+            "4.9"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Other Sources (2.6%):",
+        "sentence_cn": "4. 其他来源（2.6%）：",
+        "words": [
+            "Other Sources (2.6%)",
+            "Sources",
+            "2.6"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Geothermal and Solar Heating: 1.5%",
+        "sentence_cn": "- 地热和太阳能供暖：1.5％",
+        "words": [
+            "Solar",
+            "Heating",
+            "1.5"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Wave and Tidal: 0.7%",
+        "sentence_cn": "- 波浪能和潮汐能：0.7%",
+        "words": [
+            "0.7"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Heat Pumps: 0.4%",
+        "sentence_cn": "- 热泵：0.4％",
+        "words": [
+            "Heat",
+            "Pumps",
+            "0.4"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a map of the UK, color-coded to represent different energy sources, and the infographic is designed in a way that visually conveys the relative sizes of each energy source.",
+        "sentence_cn": "背景是英国地图，用颜色编码来代表不同的能源，信息图表的设计以直观的方式传达每种能源的相对大小。",
+        "words": [
+            "background",
+            "map",
+            "UK",
+            "color",
+            "energy",
+            "sources",
+            "way",
+            "sizes",
+            "energy",
+            "source"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The source of the graphic is credited to www.grahamscutt.co.uk, dated 2012.",
+        "sentence_cn": "图片来源于 www.grahamscutt.co.uk，日期为 2012 年。",
+        "words": [
+            "source",
+            "graphic",
+            "2012"
+        ],
+        "id": null
+    }
+]

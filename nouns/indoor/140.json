@@ -1,0 +1,119 @@
+[
+    {
+        "sentence": "The image shows a small, organized office space.",
+        "sentence_cn": "图中显示的是一个小型、井然有序的办公空间。",
+        "words": [
+            "office",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the room, there is an L-shaped wooden desk with a light grey swivel chair.",
+        "sentence_cn": "房间里有一张L形的木质书桌，配有一把浅灰色的转椅。",
+        "words": [
+            "room",
+            "L",
+            "desk",
+            "chair"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the desk, there are several items, including a computer monitor, a keyboard, a red water bottle, a mug, and various office supplies like papers and folders.",
+        "sentence_cn": "桌子上有几件物品，包括一台电脑显示器、一个键盘、一个红色的水瓶、一个杯子，以及各种办公用品，如纸张和文件夹。",
+        "words": [
+            "desk",
+            "items",
+            "computer",
+            "monitor",
+            "keyboard",
+            "water",
+            "bottle",
+            "mug",
+            "office",
+            "supplies",
+            "papers",
+            "folders"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A printer sits on a separate cabinet next to the desk.",
+        "sentence_cn": "打印机放在桌子旁边的单独柜子上。",
+        "words": [
+            "printer",
+            "cabinet",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a filing cabinet against the wall, with binders or folders on top of it.",
+        "sentence_cn": "墙边还放着一个文件柜，上面放着活页夹或文件夹。",
+        "words": [
+            "filing",
+            "cabinet",
+            "wall",
+            "binders",
+            "folders",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The office has a medium-sized window with vertical blinds, allowing some natural light to enter.",
+        "sentence_cn": "办公室有一扇中等大小的窗户，配有垂直百叶窗，可以让一些自然光照进来。",
+        "words": [
+            "office",
+            "window",
+            "blinds",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Outside the window, there is a view of a grassy area and some trees.",
+        "sentence_cn": "窗外是一片草地和一些树木的景色。",
+        "words": [
+            "window",
+            "view",
+            "area",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A whiteboard is mounted on the wall, with some notes written on it in blue marker.",
+        "sentence_cn": "墙上挂着一块白板，上面用蓝色记号笔写着一些笔记。",
+        "words": [
+            "whiteboard",
+            "wall",
+            "notes",
+            "marker"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There's a round wooden table with a chair in the corner, adding to the functionality of the space.",
+        "sentence_cn": "角落里有一张圆形木桌和一把椅子，增加了空间的功能性。",
+        "words": [
+            "table",
+            "chair",
+            "corner",
+            "functionality",
+            "space"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setup is neat and professional, suggesting a work environment focused on organizational tasks.",
+        "sentence_cn": "整体设置整洁、专业，表明工作环境专注于组织任务。",
+        "words": [
+            "work",
+            "environment",
+            "tasks"
+        ],
+        "id": null
+    }
+]

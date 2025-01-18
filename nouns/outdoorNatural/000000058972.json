@@ -1,0 +1,63 @@
+[
+    {
+        "sentence": "The image depicts a group of giraffes standing in a grassy savanna landscape.",
+        "sentence_cn": "图像描绘了一群长颈鹿站在草原上。",
+        "words": [
+            "group",
+            "giraffes",
+            "savanna",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Four giraffes are in the foreground with a clear blue sky overhead.",
+        "sentence_cn": "前景中有四只长颈鹿，头顶上方是清澈的蓝天。",
+        "words": [
+            "Four",
+            "giraffes",
+            "foreground",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The largest giraffe on the left is positioned away from the others, while the three on the right are close together, two of them appearing to be nuzzling or interacting with their necks intertwined.",
+        "sentence_cn": "左侧最大的长颈鹿与其他长颈鹿保持较远的距离，而右侧的三只长颈鹿则靠得很近，其中两只长颈鹿的脖子交织在一起，似乎在依偎在一起或互动。",
+        "words": [
+            "giraffe",
+            "left",
+            "others",
+            "three",
+            "right",
+            "two",
+            "necks"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The backdrop of the image includes scattered bushes and a vast, open horizon, giving the scene a spacious, wild atmosphere typical of an African savanna.",
+        "sentence_cn": "图像背景包括散落的灌木丛和广阔的开阔的地平线，给场景带来了非洲大草原典型的宽敞、狂野的氛围。",
+        "words": [
+            "backdrop",
+            "bushes",
+            "horizon",
+            "scene",
+            "atmosphere",
+            "savanna"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting suggests it may be taken during the daytime with the sun illuminating the giraffes' distinctive patterned coats.",
+        "sentence_cn": "从光线来看，这张照片可能是在白天拍摄的，阳光照亮了长颈鹿独特的皮毛图案。",
+        "words": [
+            "lighting",
+            "daytime",
+            "sun",
+            "giraffes",
+            "coats"
+        ],
+        "id": null
+    }
+]

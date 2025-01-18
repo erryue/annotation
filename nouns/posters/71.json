@@ -1,0 +1,128 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"The Lion King,\" a Walt Disney Pictures film.",
+        "sentence_cn": "该图是华特迪士尼影业电影《狮子王》的电影海报。",
+        "words": [
+            "The Lion King,",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, the title \"THE LION KING\" is prominently displayed in bold, golden letters.",
+        "sentence_cn": "在顶部，标题“狮子王”以粗体金色字母突出显示。",
+        "words": [
+            "THE LION KING",
+            "top",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above it reads \"WALT DISNEY PICTURES PRESENTS.\"",
+        "sentence_cn": "上面写着“华特迪士尼影业出品”。",
+        "words": [
+            "WALT DISNEY PICTURES PRESENTS."
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a majestic lion¡¯s face is illustrated within a swirl of clouds, symbolizing a spiritual presence.",
+        "sentence_cn": "背景中，一朵朵云漩涡中出现了一只威严的狮子的脸，象征着精神的存在。",
+        "words": [
+            "background",
+            "lion¡¯s",
+            "face",
+            "swirl",
+            "clouds",
+            "presence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, sunlight radiates from the sky, casting beams of light across the scene.",
+        "sentence_cn": "下面，阳光从天空辐射出来，在整个场景中投射出光束。",
+        "words": [
+            "sunlight",
+            "sky",
+            "beams",
+            "light",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center, a lion stands proudly on a rock formation known as Pride Rock, overlooking a gathering of animals below.",
+        "sentence_cn": "在中心，一只狮子骄傲地站在被称为骄傲岩的岩层上，俯瞰着下面聚集的动物。",
+        "words": [
+            "center",
+            "lion",
+            "rock",
+            "formation",
+            "Pride",
+            "Rock",
+            "gathering",
+            "animals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "This diverse group includes elephants, zebras, antelope, and giraffes, all looking toward the rock, suggesting a significant event or ceremony, likely the presentation of Simba, the lion cub.",
+        "sentence_cn": "这个多样化的群体包括大象、斑马、羚羊和长颈鹿，它们都面朝岩石，暗示着一个重要的事件或仪式，很可能是狮子幼崽辛巴的献祭。",
+        "words": [
+            "group",
+            "elephants",
+            "zebras",
+            "antelope",
+            "giraffes",
+            "rock",
+            "event",
+            "ceremony",
+            "presentation",
+            "lion",
+            "cub"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The landscape is expansive, with lush green plains extending toward the horizon.",
+        "sentence_cn": "这里地貌广阔，郁郁葱葱的绿色平原一直延伸到地平线。",
+        "words": [
+            "landscape",
+            "plains",
+            "horizon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color palette is vibrant, with contrasts between the bright blue sky and the earthy tones of the African savanna.",
+        "sentence_cn": "整体色调充满活力，明亮的蓝天与非洲大草原的泥土色调形成鲜明对比。",
+        "words": [
+            "color",
+            "palette",
+            "contrasts",
+            "sky",
+            "tones",
+            "savanna"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The scene evokes a sense of grandeur and majesty, highlighting themes of leadership and the circle of life.",
+        "sentence_cn": "这一场景营造出一种宏伟和威严的感觉，凸显了领导力和生命循环的主题。",
+        "words": [
+            "scene",
+            "sense",
+            "grandeur",
+            "majesty",
+            "themes",
+            "leadership",
+            "circle",
+            "life"
+        ],
+        "id": null
+    }
+]

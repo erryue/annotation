@@ -1,0 +1,105 @@
+[
+    {
+        "sentence": "The image showcases an aerial view of a coastal cityscape.",
+        "sentence_cn": "该图展示了沿海城市景观的鸟瞰图。",
+        "words": [
+            "view",
+            "cityscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are numerous residential buildings densely packed together, featuring flat rooftops and a mix of architectural styles.",
+        "sentence_cn": "前景中，有许多密集排列的住宅楼，其特点是平屋顶和混合的建筑风格。",
+        "words": [
+            "foreground",
+            "buildings",
+            "rooftops",
+            "mix",
+            "styles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Moving further into the image, a picturesque bay area is visible, dotted with several small boats and yachts.",
+        "sentence_cn": "进一步向图片中望去，可见一个风景如画的海湾区域，上面点缀着几艘小船和游艇。",
+        "words": [
+            "bay",
+            "area",
+            "boats",
+            "yachts"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An island with a few palm trees and grassy areas is located within the water.",
+        "sentence_cn": "水中有一座小岛，岛上有几棵棕榈树和一些草地。",
+        "words": [
+            "island",
+            "palm",
+            "trees",
+            "areas",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the midground, there's a marina filled with more boats, and a bridge stretches across the water.",
+        "sentence_cn": "在中间的景色中，有一个停满更多船只的码头，一座桥横跨水面。",
+        "words": [
+            "midground",
+            "marina",
+            "boats",
+            "bridge",
+            "water"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background reveals a sprawling urban area with a range of commercial and residential buildings.",
+        "sentence_cn": "背景是一片广阔的城市区域，遍布着各种商业和住宅建筑。",
+        "words": [
+            "background",
+            "area",
+            "range",
+            "buildings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The downtown skyline is discernible, with several high-rise structures standing prominently.",
+        "sentence_cn": "市中心的天际线清晰可见，几座高层建筑引人注目。",
+        "words": [
+            "downtown",
+            "skyline",
+            "rise",
+            "structures"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Beyond the city, rolling hills and mountain ranges are visible under a clear blue sky, suggesting a location near natural landscapes.",
+        "sentence_cn": "城市之外，湛蓝的天空下，连绵起伏的丘陵和山脉清晰可见，表明此处靠近自然景观。",
+        "words": [
+            "city",
+            "hills",
+            "mountain",
+            "ranges",
+            "sky",
+            "location",
+            "landscapes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is calm, with soft lighting indicating either early morning or late afternoon.",
+        "sentence_cn": "气氛平静，柔和的灯光指示着清晨或傍晚。",
+        "words": [
+            "atmosphere",
+            "lighting",
+            "morning",
+            "afternoon"
+        ],
+        "id": null
+    }
+]

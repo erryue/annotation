@@ -1,0 +1,92 @@
+[
+    {
+        "sentence": "The image shows a group of children playing indoors in a room with wooden flooring and cabinetry.",
+        "sentence_cn": "照片中，一群孩子在一个铺有木地板、配有橱柜的房间里玩耍。",
+        "words": [
+            "group",
+            "children",
+            "room",
+            "flooring",
+            "cabinetry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are five children holding hands in a line, creating a playful, conga line-like movement.",
+        "sentence_cn": "五个孩子手拉手排成一排，跳着康加舞一样的嬉戏动作。",
+        "words": [
+            "five",
+            "children",
+            "hands",
+            "line",
+            "conga",
+            "line",
+            "movement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The child at the front is wearing a bright costume, reminiscent of Snow White, with a blue top and puffy yellow skirt.",
+        "sentence_cn": "前面的孩子穿着一件色彩鲜艳的服装，让人想起白雪公主，有蓝色的上衣和蓬松的黄色裙子。",
+        "words": [
+            "child",
+            "front",
+            "costume",
+            "top",
+            "skirt"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rest of the children wear casual clothes, such as t-shirts and pants, in colors like black, brown, and pink.",
+        "sentence_cn": "其余孩子穿着休闲服装，如 T 恤和裤子，颜色为黑色、棕色和粉色。",
+        "words": [
+            "rest",
+            "children",
+            "clothes",
+            "t",
+            "shirts",
+            "pants",
+            "colors",
+            "black",
+            "brown",
+            "pink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, a kitchen area is visible with wooden cabinets, a countertop, and some kitchen appliances like a microwave.",
+        "sentence_cn": "在背景中，可以看到厨房区域，里面有木质橱柜、台面和微波炉等一些厨房用具。",
+        "words": [
+            "background",
+            "kitchen",
+            "area",
+            "cabinets",
+            "countertop",
+            "kitchen",
+            "appliances",
+            "microwave"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A unique, curved wooden column is positioned near the center of the room.",
+        "sentence_cn": "房间中央附近有一根独特的弯曲木柱。",
+        "words": [
+            "column",
+            "center",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The atmosphere is lively and playful, capturing a joyful moment of children's activities.",
+        "sentence_cn": "现场气氛活跃、充满乐趣，捕捉到了孩子们活动的快乐瞬间。",
+        "words": [
+            "atmosphere",
+            "children",
+            "activities"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,120 @@
+[
+    {
+        "sentence": "The image is a webpage from Prevent Child Abuse Tennessee.",
+        "sentence_cn": "图片来自田纳西州防止虐待儿童组织的网页。",
+        "words": [
+            "webpage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features their logo at the top left, which includes a pinwheel symbol.",
+        "sentence_cn": "它的左上角是他们的标志，其中包括一个风车符号。",
+        "words": [
+            "logo",
+            "left",
+            "pinwheel",
+            "symbol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top section has navigation links for \"About,\" \"Programs,\" \"Resources,\" \"Events,\" \"Media,\" \"Blog,\" and \"Contact.\"",
+        "sentence_cn": "顶部有“关于”、“项目”、“资源”、“活动”、“媒体”、“博客”和“联系”的导航链接。",
+        "words": [
+            "About,",
+            "Programs,",
+            "Resources,",
+            "Events,",
+            "Media,",
+            "Blog,",
+            "Contact.",
+            "section",
+            "navigation",
+            "links",
+            "Programs",
+            "Resources",
+            "Events",
+            "Media",
+            "Blog",
+            "Contact"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also buttons for reporting abuse and neglect, and making a donation.",
+        "sentence_cn": "还有一些按钮用于举报虐待和忽视，以及捐款。",
+        "words": [
+            "buttons",
+            "abuse",
+            "neglect",
+            "donation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the navigation, there is a black-and-white photo of an adult and a child, with the text: \"Every child deserves a great childhood.",
+        "sentence_cn": "导航下方，有一张大人和小孩的黑白照片，上面写着：“每个孩子都应该拥有一个美好的童年。",
+        "words": [
+            "navigation",
+            "photo",
+            "adult",
+            "child",
+            "text",
+            "child",
+            "childhood"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Let's invest in them together.\"",
+        "sentence_cn": "让我们一起投资他们吧。”",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "There is a link labeled \"Make a donation.\"",
+        "sentence_cn": "有一个链接标有“捐款”。",
+        "words": [
+            "Make a donation.",
+            "link",
+            "donation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The section below highlights that they support families in all 95 Tennessee counties.",
+        "sentence_cn": "下面的部分强调了他们为田纳西州所有 95 个县的家庭提供支持。",
+        "words": [
+            "section",
+            "families",
+            "95",
+            "Tennessee",
+            "counties"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page encourages visitors to learn more about efforts to prevent child abuse with a \"Learn More\" button.",
+        "sentence_cn": "该页面设有“了解更多”按钮，鼓励访问者了解更多有关防止虐待儿童的举措。",
+        "words": [
+            "Learn More",
+            "page",
+            "visitors",
+            "efforts",
+            "child",
+            "abuse",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The colors used are blue and white, emphasizing a clean, professional look.",
+        "sentence_cn": "使用的颜色是蓝色和白色，强调干净、专业的外观。",
+        "words": [
+            "colors",
+            "look"
+        ],
+        "id": null
+    }
+]

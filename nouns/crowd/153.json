@@ -1,0 +1,146 @@
+[
+    {
+        "sentence": "The image depicts an outdoor cafe setting with several tables and chairs arranged on a tiled surface.",
+        "sentence_cn": "图片描绘的是一个露天咖啡馆的场景，瓷砖表面上摆放着几张桌子和椅子。",
+        "words": [
+            "cafe",
+            "tables",
+            "chairs",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are at least three groups of people seated at different tables:",
+        "sentence_cn": "至少有三组人坐在不同的桌子上：",
+        "words": [
+            "three",
+            "groups",
+            "people",
+            "tables"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1.",
+        "sentence_cn": "1.",
+        "words": [
+            "1"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, two men are sitting together.",
+        "sentence_cn": "前景中，两个男人坐在一起。",
+        "words": [
+            "foreground",
+            "two",
+            "men"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One is wearing a dark jacket and jeans, and the other is in a blue hoodie.",
+        "sentence_cn": "一人身穿深色夹克和牛仔裤，另一人身穿蓝色连帽衫。",
+        "words": [
+            "One",
+            "jacket",
+            "jeans",
+            "hoodie"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have food and drinks on their table, including what looks like a milkshake and some fried food.",
+        "sentence_cn": "他们的桌子上有食物和饮料，包括看起来像奶昔的东西和一些油炸食品。",
+        "words": [
+            "food",
+            "drinks",
+            "table",
+            "milkshake",
+            "food"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2.",
+        "sentence_cn": "2.",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "Towards the left, two women are seated at another table.",
+        "sentence_cn": "左边，两名妇女坐在另一张桌子旁。",
+        "words": [
+            "two",
+            "women",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One appears to have long blonde hair and is wearing a light-colored jacket, while the other has dark hair tied back and is wearing a light-toned jacket.",
+        "sentence_cn": "其中一人留着金色长发，身穿浅色夹克，而另一人则将深色头发扎起来，身穿浅色夹克。",
+        "words": [
+            "One",
+            "hair",
+            "jacket",
+            "hair",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "They have drinks on their table as well.",
+        "sentence_cn": "他们的桌子上也有饮料。",
+        "words": [
+            "drinks",
+            "table"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. In the background, there is a table with a person reading a newspaper.",
+        "sentence_cn": "3. 背景中有一张桌子，桌子上有一个人在看报纸。",
+        "words": [
+            "background",
+            "table",
+            "person",
+            "newspaper"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The person is wearing a dark jacket and sitting alone.",
+        "sentence_cn": "该人身穿深色夹克，独自坐着。",
+        "words": [
+            "person",
+            "jacket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The area is surrounded by modern, minimalist furniture, featuring white tables and matching chairs and is situated outdoors, possibly in a plaza or courtyard setting.",
+        "sentence_cn": "该区域周围环绕着现代简约的家具，配有白色的桌子和配套的椅子，位于户外，可能是在广场或庭院环境中。",
+        "words": [
+            "area",
+            "furniture",
+            "tables",
+            "chairs",
+            "plaza",
+            "courtyard"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a large pole or umbrella stand visible in the center of the image.",
+        "sentence_cn": "图像中央还可以看到一个大杆子或伞架。",
+        "words": [
+            "pole",
+            "umbrella",
+            "stand",
+            "center"
+        ],
+        "id": null
+    }
+]

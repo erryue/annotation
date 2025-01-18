@@ -1,0 +1,68 @@
+[
+    {
+        "sentence": "The image shows a multi-lane highway with a divided section for traffic moving in opposite directions.",
+        "sentence_cn": "图中显示的是一条多车道高速公路，其中设有一个分隔区供对向行驶的车辆通行。",
+        "words": [
+            "highway",
+            "section",
+            "traffic",
+            "directions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are several cars on the road, indicating moderate traffic.",
+        "sentence_cn": "路上有几辆汽车，表明交通状况中等。",
+        "words": [
+            "cars",
+            "road",
+            "traffic"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left, an elevated express lane runs parallel to the main lanes, supported by concrete pillars featuring star designs.",
+        "sentence_cn": "左侧，一条高架快速车道与主车道平行，由星形设计的混凝土柱支撑。",
+        "words": [
+            "left",
+            "lane",
+            "lanes",
+            "pillars",
+            "star",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An overhead sign indicates upcoming exits and a managed HOV lane entrance.",
+        "sentence_cn": "高架标志指示即将到来的出口和受管理的 HOV 车道入口。",
+        "words": [
+            "sign",
+            "exits",
+            "HOV",
+            "lane",
+            "entrance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding area appears to be urban, with trees and billboards visible in the background.",
+        "sentence_cn": "周围区域看起来像是城市，背景中可以看到树木和广告牌。",
+        "words": [
+            "area",
+            "trees",
+            "billboards",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear, suggesting a sunny day.",
+        "sentence_cn": "天空晴朗，预示着将是阳光明媚的一天。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    }
+]

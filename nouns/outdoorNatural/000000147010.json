@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image features a group of goats resting on a rocky outcrop high above a scenic landscape.",
+        "sentence_cn": "照片中，一群山羊在风景如画的景观高处的岩石露头上休息。",
+        "words": [
+            "group",
+            "goats",
+            "outcrop",
+            "landscape"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The goats are scattered across the rocks, basking in the sunlight.",
+        "sentence_cn": "山羊散落在岩石上，沐浴着阳光。",
+        "words": [
+            "goats",
+            "rocks",
+            "sunlight"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One goat stands near the edge, surveying the view, while others recline on the rocky surface.",
+        "sentence_cn": "一只山羊站在边缘附近，观察风景，而其他山羊则躺在岩石表面上。",
+        "words": [
+            "One",
+            "goat",
+            "edge",
+            "view",
+            "others",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The rocks are rugged and surrounded by sparse patches of grass.",
+        "sentence_cn": "岩石凹凸不平，周围长满稀疏的草丛。",
+        "words": [
+            "rocks",
+            "patches",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the landscape stretches out into the distance, with a town or village visible far below, nestled among green hills.",
+        "sentence_cn": "背景中，风景延伸至远方，远处可见坐落在绿色山丘之间的城镇或村庄。",
+        "words": [
+            "background",
+            "landscape",
+            "distance",
+            "town",
+            "village",
+            "hills"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky above is clear and blue, offering a serene backdrop to the peaceful scene.",
+        "sentence_cn": "头顶的天空清澈蔚蓝，为这宁静的景象提供了宁静的背景。",
+        "words": [
+            "sky",
+            "backdrop",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting suggests a high-altitude or mountainous environment, where the goats are comfortably positioned on a natural vantage point.",
+        "sentence_cn": "整体场景呈现高海拔或山区环境，山羊舒适地处于自然的有利位置。",
+        "words": [
+            "altitude",
+            "environment",
+            "goats",
+            "vantage",
+            "point"
+        ],
+        "id": null
+    }
+]

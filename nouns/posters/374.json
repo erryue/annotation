@@ -1,0 +1,101 @@
+[
+    {
+        "sentence": "The image is a poster for \"Mighty Morphin Power Rangers: The Movie.\"",
+        "sentence_cn": "该图是《恐龙战队：电影》的海报。",
+        "words": [
+            "Mighty Morphin Power Rangers: The Movie.",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features five Power Rangers in distinctive colored suits: blue, red, white, black, and yellow, standing in a powerful formation.",
+        "sentence_cn": "它以五位身着不同颜色服装的超凡战士为特色：蓝色、红色、白色、黑色和黄色，站成强大的阵型。",
+        "words": [
+            "five",
+            "suits",
+            "formation"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The White Ranger is prominently in the center.",
+        "sentence_cn": "白色游侠位于中心的显著位置。",
+        "words": [
+            "center"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Above them, the text reads: \"Each has a power.",
+        "sentence_cn": "上面的文字写着：“每个人都有一种力量。",
+        "words": [
+            "text",
+            "power"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Each has a purpose.",
+        "sentence_cn": "每个都有一个目的。",
+        "words": [
+            "purpose"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "And together, they will face their fiercest enemy.\"",
+        "sentence_cn": "他们将齐心协力，共同面对最凶猛的敌人。”",
+        "words": [
+            "enemy"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the Rangers, the movie title \"Mighty Morphin Power Rangers: The Movie\" is prominently displayed in bold, stylized text.",
+        "sentence_cn": "在游骑兵的下方，电影名称“恐龙战队：电影”以粗体、风格化的文字突出显示。",
+        "words": [
+            "Mighty Morphin Power Rangers: The Movie",
+            "movie",
+            "title",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom of the poster, there are smaller images of characters from the movie standing on what looks like a planet surface.",
+        "sentence_cn": "海报的底部是电影中人物的小图像，站在类似行星表面的地方。",
+        "words": [
+            "bottom",
+            "poster",
+            "images",
+            "characters",
+            "movie",
+            "planet",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a deep space setting with stars scattered throughout.",
+        "sentence_cn": "背景是深空场景，星光散布。",
+        "words": [
+            "background",
+            "space",
+            "stars"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall tone of the poster is adventurous and heroic, emphasizing teamwork and battle against evil.",
+        "sentence_cn": "海报整体基调充满冒险和英雄气息，强调团队合作和与邪恶的斗争。",
+        "words": [
+            "tone",
+            "poster",
+            "teamwork",
+            "battle",
+            "evil"
+        ],
+        "id": null
+    }
+]

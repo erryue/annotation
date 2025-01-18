@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "This image depicts a cozy, modern living room connected to an open kitchen.",
+        "sentence_cn": "这张图片描绘的是一间与开放式厨房相连的舒适而现代化的客厅。",
+        "words": [
+            "room",
+            "kitchen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The living room is furnished with a large, dark gray L-shaped sectional sofa, which is adorned with a couple of light-colored throw pillows and a beige blanket.",
+        "sentence_cn": "客厅里摆放着一张深灰色的 L 形大沙发，上面摆放着几个浅色的抱枕和一条米色的毯子。",
+        "words": [
+            "living",
+            "room",
+            "L",
+            "sofa",
+            "couple",
+            "throw",
+            "pillows",
+            "blanket"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A cat lounges comfortably on the couch.",
+        "sentence_cn": "一只猫舒服地躺在沙发上。",
+        "words": [
+            "cat",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the sofa, a glass coffee table with dark wooden legs holds a couple of items, including a remote control and a coaster.",
+        "sentence_cn": "沙发前面有一张带深色木腿的玻璃咖啡桌，桌上放着几件物品，包括一个遥控器和一个杯垫。",
+        "words": [
+            "front",
+            "sofa",
+            "glass",
+            "coffee",
+            "table",
+            "legs",
+            "couple",
+            "items",
+            "control",
+            "coaster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The floor is adorned with a colorful area rug featuring intricate patterns.",
+        "sentence_cn": "地板上铺着色彩鲜艳、图案复杂的地毯。",
+        "words": [
+            "floor",
+            "area",
+            "rug",
+            "patterns"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room is well-lit, with natural light streaming in through two windows, both covered with blinds.",
+        "sentence_cn": "房间光线充足，自然光透过两扇窗户照进来，两扇窗户都遮着百叶窗。",
+        "words": [
+            "room",
+            "light",
+            "two",
+            "windows",
+            "blinds"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A tall floor lamp is positioned beside the couch.",
+        "sentence_cn": "沙发旁边有一盏高高的落地灯。",
+        "words": [
+            "floor",
+            "lamp",
+            "couch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, the kitchen area features wooden cabinets and a counter with bar stools.",
+        "sentence_cn": "在背景中，厨房区域设有木制橱柜和带吧凳的柜台。",
+        "words": [
+            "background",
+            "kitchen",
+            "area",
+            "cabinets",
+            "counter",
+            "bar",
+            "stools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A dining area with a small round table and chairs is also visible.",
+        "sentence_cn": "还可以看到一个配有小圆桌和椅子的用餐区。",
+        "words": [
+            "dining",
+            "area",
+            "table",
+            "chairs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen has a welcoming, tidy appearance with minimal decor on the shelves and counter.",
+        "sentence_cn": "厨房外观整洁温馨，架子和柜台上的装饰很少。",
+        "words": [
+            "kitchen",
+            "appearance",
+            "decor",
+            "shelves",
+            "counter"
+        ],
+        "id": null
+    }
+]

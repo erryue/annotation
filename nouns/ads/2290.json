@@ -1,0 +1,60 @@
+[
+    {
+        "sentence": "The image features a yellow robotic hand, resembling a crash test dummy's arm, holding a smartphone.",
+        "sentence_cn": "图片上有一只黄色的机械手，形似碰撞测试假人的手臂，握着一台智能手机。",
+        "words": [
+            "hand",
+            "crash",
+            "test",
+            "dummy",
+            "arm",
+            "smartphone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The phone's screen displays the eBay app with an image of a helmet and text indicating that it's available for purchase.",
+        "sentence_cn": "手机屏幕上显示 eBay 应用程序，其中有头盔图像和文字，表明该头盔可供购买。",
+        "words": [
+            "phone",
+            "screen",
+            "app",
+            "helmet",
+            "text",
+            "purchase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The eBay logo is prominently shown at the top of the screen.",
+        "sentence_cn": "eBay 标志显著地显示在屏幕顶部。",
+        "words": [
+            "logo",
+            "top",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the bottom right corner of the image, the text reads \"WHEN INSPIRATION STRIKES SHOP OUR APP.\"",
+        "sentence_cn": "图片右下角的文字写着“当灵感迸发时，请使用我们的应用程序购买”。",
+        "words": [
+            "WHEN INSPIRATION STRIKES SHOP OUR APP.",
+            "corner",
+            "text",
+            "INSPIRATION",
+            "STRIKES",
+            "APP"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is a plain, light beige color.",
+        "sentence_cn": "背景是纯色的浅米色。",
+        "words": [
+            "background",
+            "color"
+        ],
+        "id": null
+    }
+]

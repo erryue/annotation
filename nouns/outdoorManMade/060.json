@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image depicts an outdoor amusement park setting, featuring a small roller coaster designed to look like a caterpillar.",
+        "sentence_cn": "图片描绘的是一个户外游乐园的场景，其中有一个设计成毛毛虫形状的小型过山车。",
+        "words": [
+            "amusement",
+            "park",
+            "roller",
+            "coaster",
+            "caterpillar"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The coaster has a track painted in bright yellow, and the train itself is green with segmented, caterpillar-like sections.",
+        "sentence_cn": "过山车的轨道漆成亮黄色，火车本身是绿色的，有分段的、类似毛毛虫的部分。",
+        "words": [
+            "coaster",
+            "track",
+            "yellow",
+            "train",
+            "caterpillar",
+            "sections"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Large, decorative flower shapes with yellow petals are positioned on top of the ride structure.",
+        "sentence_cn": "游乐设施顶部有大型装饰花形，花瓣为黄色。",
+        "words": [
+            "flower",
+            "shapes",
+            "petals",
+            "top",
+            "ride",
+            "structure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding the ride is a fence for safety, and the area is decorated with colorful murals on the lower fencing displaying animals and various fruits.",
+        "sentence_cn": "游乐设施周围有围栏，以确保安全，下层围栏上装饰有彩色壁画，展示着动物和各种水果。",
+        "words": [
+            "ride",
+            "fence",
+            "safety",
+            "area",
+            "murals",
+            "fencing",
+            "animals",
+            "fruits"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ground appears to be painted in bold purple and yellow stripes, adding vibrancy to the scene.",
+        "sentence_cn": "地面似乎被漆成了大胆的紫色和黄色条纹，为场景增添了活力。",
+        "words": [
+            "ground",
+            "stripes",
+            "vibrancy",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background are some palm trees and utility poles, with buildings visible further in the distance.",
+        "sentence_cn": "背景是一些棕榈树和电线杆，远处还可以看到建筑物。",
+        "words": [
+            "background",
+            "palm",
+            "trees",
+            "utility",
+            "poles",
+            "buildings",
+            "distance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is clear and bright blue, indicating a sunny day.",
+        "sentence_cn": "天空清澈湛蓝，预示着这是一个阳光明媚的日子。",
+        "words": [
+            "sky",
+            "day"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall atmosphere is cheerful and designed to be appealing, especially to children.",
+        "sentence_cn": "整体氛围欢快，设计富有吸引力，尤其是对儿童。",
+        "words": [
+            "atmosphere",
+            "children"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,99 @@
+[
+    {
+        "sentence": "The image depicts an urban street scene.",
+        "sentence_cn": "该图描绘的是城市街景。",
+        "words": [
+            "street",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there is a traffic light with a green pedestrian signal.",
+        "sentence_cn": "前景中有一个带有绿色行人信号灯的交通灯。",
+        "words": [
+            "foreground",
+            "traffic",
+            "light",
+            "pedestrian",
+            "signal"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "People are biking across the intersection, including a child in a purple helmet and adults.",
+        "sentence_cn": "人们骑车穿过十字路口，其中包括一个戴着紫色头盔的孩子和一些成年人。",
+        "words": [
+            "People",
+            "intersection",
+            "child",
+            "helmet",
+            "adults"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the traffic light, there are street signs: one pointing in the direction of Dresden with the distance marked as 117, and another for \"bcc.\"",
+        "sentence_cn": "红绿灯左侧有路牌，一个指向德累斯顿方向，距离标为117，另一个写着“bcc”。",
+        "words": [
+            "bcc.",
+            "left",
+            "traffic",
+            "light",
+            "street",
+            "signs",
+            "one",
+            "direction",
+            "Dresden",
+            "distance",
+            "117",
+            "bcc"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background is a tall, white, modern building with a grid of windows.",
+        "sentence_cn": "背景是一栋高大的、白色的、现代化的建筑，有着一排排的窗户。",
+        "words": [
+            "background",
+            "building",
+            "grid",
+            "windows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The building features a large, colorful mural with various figures, including a person holding a tool and other abstract designs.",
+        "sentence_cn": "该建筑有一幅大型彩色壁画，其中有各种人物，包括一个拿着工具的人和其他抽象图案。",
+        "words": [
+            "building",
+            "mural",
+            "figures",
+            "person",
+            "tool",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The weather appears to be clear with a partly cloudy sky.",
+        "sentence_cn": "天气晴朗，部分多云。",
+        "words": [
+            "weather",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are pedestrians and cyclists in the area, and the scene captures a lively urban environment.",
+        "sentence_cn": "该地区有行人和骑自行车的人，场景捕捉到了热闹的城市环境。",
+        "words": [
+            "pedestrians",
+            "cyclists",
+            "area",
+            "scene",
+            "environment"
+        ],
+        "id": null
+    }
+]

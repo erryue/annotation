@@ -1,0 +1,89 @@
+[
+    {
+        "sentence": "The image shows a screenshot of an app called \"AnimeTV\" on an Android device.",
+        "sentence_cn": "该图为 Android 设备上一款名为“AnimeTV”的应用程序的截图。",
+        "words": [
+            "AnimeTV",
+            "app",
+            "device"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the top, there is a blue header with social media icons and a menu icon.",
+        "sentence_cn": "顶部有一个蓝色标题，其中有社交媒体图标和菜单图标。",
+        "words": [
+            "top",
+            "header",
+            "media",
+            "icons",
+            "menu",
+            "icon"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below this, \"Naruto Shippuden\" is featured, with text describing it as an action, comedy, drama, fantasy, and ninja anime.",
+        "sentence_cn": "下面是《火影忍者疾风传》的介绍，文字描述它是一部动作、喜剧、戏剧、幻想和忍者动漫。",
+        "words": [
+            "Naruto Shippuden",
+            "text",
+            "action",
+            "comedy",
+            "drama",
+            "fantasy",
+            "ninja",
+            "anime"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is a storyline summary about Uzumaki Naruto.",
+        "sentence_cn": "这是关于漩涡鸣人的故事情节概要。",
+        "words": [
+            "storyline",
+            "summary"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Under the text, there's a red button labeled \"Open Download Folder.\"",
+        "sentence_cn": "文本下方有一个红色按钮，标有“打开下载文件夹”。",
+        "words": [
+            "Open Download Folder.",
+            "text",
+            "button",
+            "Download"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below are listed episodes from \"Naruto Shippuden,\" specifically episodes 493 to 489, each with red download and green play buttons.",
+        "sentence_cn": "下面列出了《火影忍者疾风传》的剧集，特别是第 493 集至第 489 集，每集都有红色的下载按钮和绿色的播放按钮。",
+        "words": [
+            "Naruto Shippuden,",
+            "episodes",
+            "episodes",
+            "493",
+            "489",
+            "download",
+            "play",
+            "buttons"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are two red circular buttons with a star and a refresh icon at the screen's bottom left.",
+        "sentence_cn": "屏幕左下方有两个带有星星的红色圆形按钮和刷新图标。",
+        "words": [
+            "two",
+            "buttons",
+            "star",
+            "refresh",
+            "icon",
+            "screen",
+            "left"
+        ],
+        "id": null
+    }
+]

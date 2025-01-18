@@ -1,0 +1,96 @@
+[
+    {
+        "sentence": "The image depicts a pastoral scene with two Border Collies and a sheep on a grassy field.",
+        "sentence_cn": "图像描绘的是草地上的田园风光：两只边境牧羊犬和一只绵羊。",
+        "words": [
+            "scene",
+            "two",
+            "sheep",
+            "field"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Both dogs are black and white, displaying typical herding behavior.",
+        "sentence_cn": "两只狗都是黑白色，表现出典型的群居行为。",
+        "words": [
+            "dogs",
+            "herding",
+            "behavior"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One Border Collie is positioned to the left, sitting in a watchful position.",
+        "sentence_cn": "一只边境牧羊犬位于左侧，保持警惕的姿势坐着。",
+        "words": [
+            "One",
+            "position"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other dog is lying down to the right, appearing to be alert and attentive.",
+        "sentence_cn": "另一只狗躺在右边，看上去很警觉，注意力很集中。",
+        "words": [
+            "dog",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Between them, a sheep with a thick, woolly coat grazes on the grass.",
+        "sentence_cn": "在它们中间，一只长着厚厚毛的羊正在草地上吃草。",
+        "words": [
+            "sheep",
+            "coat",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sheep is near a wooden fence made of rough logs, set diagonally, which forms part of the enclosure in which they are situated.",
+        "sentence_cn": "羊群靠近用粗糙的原木斜着搭建的木栅栏，木栅栏是羊群所处围栏的一部分。",
+        "words": [
+            "sheep",
+            "fence",
+            "logs",
+            "part",
+            "enclosure"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, there is dense foliage, with shrubs and small trees, giving the scene a natural, rural atmosphere.",
+        "sentence_cn": "背景中，有茂密的树叶、灌木和小树，给场景一种自然、乡村的氛围。",
+        "words": [
+            "background",
+            "foliage",
+            "shrubs",
+            "trees",
+            "scene",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The grass is lush and green, indicating a healthy pastureland.",
+        "sentence_cn": "草木葱茏，碧绿欲滴，是一片健康的牧场。",
+        "words": [
+            "grass",
+            "pastureland"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall scene conveys a sense of calm and harmony in a pastoral setting.",
+        "sentence_cn": "整体场景传达出一种田园风光的平静和谐之感。",
+        "words": [
+            "scene",
+            "sense",
+            "calm",
+            "harmony"
+        ],
+        "id": null
+    }
+]

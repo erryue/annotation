@@ -1,0 +1,233 @@
+[
+    {
+        "sentence": "The image is a screenshot of a website called \"AiGameDev.com.\"",
+        "sentence_cn": "该图片是“AiGameDev.com”网站的截图。",
+        "words": [
+            "AiGameDev.com.",
+            "website"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a dark header with the website's name and a silhouette logo.",
+        "sentence_cn": "它的特点是有一个深色的标题，上面有网站的名称和轮廓标志。",
+        "words": [
+            "header",
+            "website",
+            "name",
+            "silhouette",
+            "logo"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The header includes navigation links for \"Articles,\" \"Broadcasts,\" and \"Forums,\" along with a search icon and options to \"Login | Sign-Up.\"",
+        "sentence_cn": "标题包括“文章”、“广播”和“论坛”的导航链接，以及搜索图标和“登录 | 注册”选项。",
+        "words": [
+            "Articles,",
+            "Broadcasts,",
+            "Forums,",
+            "Login | Sign-Up.",
+            "header",
+            "navigation",
+            "links",
+            "Forums",
+            "search",
+            "icon",
+            "options"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below the header is the section titled \"Featured Highlights\" with two main articles:",
+        "sentence_cn": "标题下方是“精选亮点”部分，其中包含两篇主要文章：",
+        "words": [
+            "Featured Highlights",
+            "header",
+            "section",
+            "Highlights",
+            "two",
+            "articles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"Beard Stroking: Why Realistic Graphics and DX12 Are Great for AI\"",
+        "sentence_cn": "1. “抚摸胡须：为何逼真的图形和 DX12 对 AI 大有裨益”",
+        "words": [
+            "\"Beard Stroking: Why Realistic Graphics and DX12 Are Great for AI\"",
+            "Beard",
+            "Stroking",
+            "Graphics",
+            "AI"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labelled as \"Open Editorial\"",
+        "sentence_cn": "- 标记为“开放社论”",
+        "words": [
+            "Open Editorial",
+            "Editorial"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Contains a thumbnail image of a close-up profile of a character.",
+        "sentence_cn": "- 包含角色特写侧面的缩略图。",
+        "words": [
+            "thumbnail",
+            "profile",
+            "character"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The article discusses the significance of graphical improvements for AI in gaming, dated May 20th, 2015.",
+        "sentence_cn": "- 该文章讨论了图形改进对于游戏 AI 的意义，日期为 2015 年 5 月 20 日。",
+        "words": [
+            "article",
+            "significance",
+            "improvements",
+            "AI",
+            "gaming",
+            "20th",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"Evolve: Building PvP Artificial Intelligence for Hunters and\"",
+        "sentence_cn": "2. “进化：为猎人和玩家打造 PvP 人工智能”",
+        "words": [
+            "\"Evolve: Building PvP Artificial Intelligence for Hunters and\"",
+            "PvP",
+            "Intelligence",
+            "Hunters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labelled as \"Premium Interview\"",
+        "sentence_cn": "- 标记为“高级采访”",
+        "words": [
+            "Premium Interview",
+            "Interview"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Shows an image of a group of characters in a dark, forest-like environment.",
+        "sentence_cn": "- 显示一群人物在黑暗、类似森林的环境中的图像。",
+        "words": [
+            "group",
+            "characters",
+            "forest",
+            "environment"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Focuses on the development of AI for PvP games, dated July 11th, 2015.",
+        "sentence_cn": "- 专注于 PvP 游戏 AI 的开发，日期：2015 年 7 月 11 日。",
+        "words": [
+            "Focuses",
+            "development",
+            "AI",
+            "PvP",
+            "games",
+            "11th",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The \"Latest Articles\" section showcases three links:",
+        "sentence_cn": "“最新文章”部分展示三个链接：",
+        "words": [
+            "Latest Articles",
+            "Articles",
+            "section",
+            "three",
+            "links"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. \"nucl.ai Conference 2015 Slides (Main Amphitheatre ...)\"",
+        "sentence_cn": "1. “nucl.ai 会议 2015 幻灯片（主露天剧场......）”",
+        "words": [
+            "\"nucl.ai Conference 2015 Slides (Main Amphitheatre ...)\"",
+            "2015",
+            "Slides"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labelled as \"Premium Coverage,\" dated July 31st, 2015.",
+        "sentence_cn": "- 标记为“高级保险”，日期为 2015 年 7 月 31 日。",
+        "words": [
+            "Premium Coverage,",
+            "31st",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. \"Dying Light's Zombies and HTN Planning in Open ...\"",
+        "sentence_cn": "2. “《消逝的光芒》中的僵尸和 HTN 公开计划……”",
+        "words": [
+            "\"Dying Light's Zombies and HTN Planning in Open ...\"",
+            "Light",
+            "Zombies",
+            "HTN",
+            "Planning",
+            "Open"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labelled as \"Premium Interview,\" dated June 12th, 2015.",
+        "sentence_cn": "- 标记为“高级采访”，日期为 2015 年 6 月 12 日。",
+        "words": [
+            "Premium Interview,",
+            "12th",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. \"Group Steering & Crowds Broadcasts, Early Bird ...\"",
+        "sentence_cn": "3. “团体指导和人群广播，早起的鸟儿……”",
+        "words": [
+            "\"Group Steering & Crowds Broadcasts, Early Bird ...\"",
+            "Bird"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Labelled as \"Insider Newsletter,\" dated April 22nd, 2015.",
+        "sentence_cn": "- 标记为“内部通讯”，日期为 2015 年 4 月 22 日。",
+        "words": [
+            "Insider Newsletter,",
+            "22nd",
+            "2015"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The page is designed with a clean layout, using a white background and dark text, emphasizing the articles with red labels for premium content.",
+        "sentence_cn": "该页面设计布局简洁，使用白色背景和深色文字，并用红色标签强调优质内容的文章。",
+        "words": [
+            "page",
+            "layout",
+            "background",
+            "text",
+            "articles",
+            "labels",
+            "premium",
+            "content"
+        ],
+        "id": null
+    }
+]

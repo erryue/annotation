@@ -1,0 +1,97 @@
+[
+    {
+        "sentence": "The image depicts two people in a conversation within an office-like setting.",
+        "sentence_cn": "图像描绘了两个人在办公室场景中的对话。",
+        "words": [
+            "two",
+            "people",
+            "conversation",
+            "office"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The room has exposed red brick walls, giving it an industrial or loft-style appearance.",
+        "sentence_cn": "房间拥有裸露的红砖墙壁，呈现出工业风格或阁楼风格的外观。",
+        "words": [
+            "room",
+            "brick",
+            "walls",
+            "loft",
+            "style",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is a hardwood, warm-toned surface.",
+        "sentence_cn": "地板是硬木，表面色调温暖。",
+        "words": [
+            "flooring",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "One person is a woman in a floral dress, standing with her arms crossed and leaning back against a surface or desk.",
+        "sentence_cn": "其中一个人是身穿花裙的女子，双手交叉站立，后背靠在某个表面或桌子上。",
+        "words": [
+            "One",
+            "person",
+            "woman",
+            "dress",
+            "arms",
+            "surface",
+            "desk"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She is wearing black high heels.",
+        "sentence_cn": "她穿着黑色高跟鞋。",
+        "words": [
+            "heels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The other person, a man, is partially seated or leaning against a counter, dressed in a patterned shirt and dark trousers.",
+        "sentence_cn": "另一人是一名男子，半坐着或靠在柜台上，穿着有图案的衬衫和深色裤子。",
+        "words": [
+            "person",
+            "man",
+            "counter",
+            "shirt",
+            "trousers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "He appears to be animatedly speaking, gesturing with his hands.",
+        "sentence_cn": "他似乎在生动地讲话，并用手做着手势。",
+        "words": [
+            "hands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The space is well-lit with natural light from a large window.",
+        "sentence_cn": "通过一扇大窗户，自然光透过窗户照进室内，空间明亮。",
+        "words": [
+            "space",
+            "light",
+            "window"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The furnishings are minimal, emphasizing the rustic-industrial aesthetic of the room.",
+        "sentence_cn": "家具很简单，强调了房间的乡村工业美感。",
+        "words": [
+            "furnishings",
+            "aesthetic",
+            "room"
+        ],
+        "id": null
+    }
+]

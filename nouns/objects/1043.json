@@ -1,0 +1,112 @@
+[
+    {
+        "sentence": "The image features a still life composition with a focus on a beverage and fruit.",
+        "sentence_cn": "该图片以静物构图为主，重点是饮料和水果。",
+        "words": [
+            "life",
+            "composition",
+            "focus",
+            "beverage",
+            "fruit"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, there is a glass with a conical shape, filled with a peach-colored liquid, likely a cocktail or juice.",
+        "sentence_cn": "中间有一个圆锥形的玻璃杯，里面盛着桃红色的液体，可能是鸡尾酒或果汁。",
+        "words": [
+            "center",
+            "glass",
+            "shape",
+            "peach",
+            "liquid",
+            "cocktail",
+            "juice"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Inside the glass, there is a small mint leaf floating on the surface, adding a touch of green contrast.",
+        "sentence_cn": "玻璃杯内部，有一片小薄荷叶漂浮在表面，增添了一丝绿色的对比。",
+        "words": [
+            "glass",
+            "mint",
+            "leaf",
+            "surface",
+            "touch",
+            "contrast"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the right of the glass, two whole peaches with a smooth, velvety skin are placed on a wooden surface.",
+        "sentence_cn": "玻璃杯右侧的木质表面上放置着两个完整的桃子，果皮光滑如丝。",
+        "words": [
+            "right",
+            "glass",
+            "two",
+            "peaches",
+            "skin",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their color is a blend of red, orange, and yellow hues.",
+        "sentence_cn": "它们的颜色是红色、橙色和黄色的混合。",
+        "words": [
+            "color",
+            "blend",
+            "orange",
+            "hues"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In front of the peaches, there is a slice of peach showing its juicy interior with a hint of the stone visible.",
+        "sentence_cn": "在桃子前面，有一片桃子，露出多汁的内部，并可见一丝桃核。",
+        "words": [
+            "front",
+            "peaches",
+            "slice",
+            "peach",
+            "interior",
+            "hint",
+            "stone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the left side, a knife with a black handle rests on the wooden surface, indicating that it might have been used to cut the peach.",
+        "sentence_cn": "左侧，一把黑色手柄的小刀搁在木质表面上，表明它可能是用来切桃子的。",
+        "words": [
+            "knife",
+            "handle",
+            "surface",
+            "peach"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The lighting is soft, creating gentle shadows and highlighting the freshness of the fruit and the clarity of the drink.",
+        "sentence_cn": "灯光柔和，营造出柔和的阴影，凸显了水果的新鲜度和饮料的清澈度。",
+        "words": [
+            "lighting",
+            "shadows",
+            "freshness",
+            "fruit",
+            "clarity",
+            "drink"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting is simple and elegant, perfect for showcasing the natural beauty of the ingredients.",
+        "sentence_cn": "整体布置简洁典雅，完美展现食材的自然美。",
+        "words": [
+            "beauty",
+            "ingredients"
+        ],
+        "id": null
+    }
+]

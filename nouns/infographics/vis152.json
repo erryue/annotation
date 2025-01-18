@@ -1,0 +1,248 @@
+[
+    {
+        "sentence": "The image is an infographic by SquareTrade highlighting statistics about iPhone accidents in the home.",
+        "sentence_cn": "该图是 SquareTrade 制作的信息图，重点介绍了家庭中 iPhone 事故的统计数据。",
+        "words": [
+            "statistics",
+            "accidents",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Title Section:",
+        "sentence_cn": "1. 标题部分：",
+        "words": [
+            "Title Section",
+            "Title",
+            "Section"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - States \"51% of iPhone accidents happen around the home.\"",
+        "sentence_cn": "- 指出“51% 的 iPhone 事故都发生在家里。”",
+        "words": [
+            "51% of iPhone accidents happen around the home.",
+            "States",
+            "51",
+            "accidents",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Top 5 Danger Zones in the Home:",
+        "sentence_cn": "2. 家中五大危险区域：",
+        "words": [
+            "Top 5 Danger Zones in the Home",
+            "5",
+            "Danger",
+            "Zones",
+            "Home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Kitchen: 21%",
+        "sentence_cn": "- 厨房：21%",
+        "words": [
+            "Kitchen",
+            "Kitchen",
+            "21"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Living Room: 18%",
+        "sentence_cn": "- 客厅：18%",
+        "words": [
+            "Living Room",
+            "Living",
+            "18"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bath: 16%",
+        "sentence_cn": "- 浴室：16%",
+        "words": [
+            "Bath",
+            "16"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Driveway: 10%",
+        "sentence_cn": "- 车道：10%",
+        "words": [
+            "Driveway",
+            "Driveway",
+            "10"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Bedroom: 8%",
+        "sentence_cn": "- 卧室：8%",
+        "words": [
+            "Bedroom",
+            "Bedroom",
+            "8"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Common Accidents:",
+        "sentence_cn": "3. 常见事故：",
+        "words": [
+            "Common Accidents",
+            "Accidents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 5% have put an iPhone in the washing machine.",
+        "sentence_cn": "- 5% 的人把 iPhone 放进了洗衣机。",
+        "words": [
+            "5",
+            "washing",
+            "machine"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 9% have dropped an iPhone in the toilet.",
+        "sentence_cn": "- 9% 的人曾将 iPhone 掉进马桶。",
+        "words": [
+            "9",
+            "toilet"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 6% have left an iPhone on top of the car and driven off.",
+        "sentence_cn": "- 6％的人曾将iPhone放在车顶上然后开车离开。",
+        "words": [
+            "6",
+            "top",
+            "car"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Cause of Accidents:",
+        "sentence_cn": "4. 事故原因：",
+        "words": [
+            "Cause of Accidents",
+            "Cause",
+            "Accidents"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - 69% of iPhone accidents are caused by the owner.",
+        "sentence_cn": "- 69% 的 iPhone 事故都是由机主自身原因造成的。",
+        "words": [
+            "69",
+            "accidents",
+            "owner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Liquids Most Commonly Spilled:",
+        "sentence_cn": "5. 最常溢出的液体：",
+        "words": [
+            "Liquids Most Commonly Spilled",
+            "Liquids"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Water: 43%",
+        "sentence_cn": "水：43％",
+        "words": [
+            "Water",
+            "43"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Soda: 19%",
+        "sentence_cn": "- 苏打水：19%",
+        "words": [
+            "Soda",
+            "19"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Beer: 12%",
+        "sentence_cn": "- 啤酒：12%",
+        "words": [
+            "Beer",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Coffee/Tea: 12%",
+        "sentence_cn": "- 咖啡/茶：12％",
+        "words": [
+            "Coffee",
+            "Tea",
+            "12"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Footer",
+        "sentence_cn": "6. 页脚",
+        "words": [
+            "Footer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "",
+        "sentence_cn": null,
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": ":",
+        "sentence_cn": "：",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "   - Encourages checking survival chances: \"Will your phone survive you? Check out: squaretrade.com/faceoff\"",
+        "sentence_cn": "- 鼓励检查生存机会：“你的手机能存活下来吗？请查看：squaretrade.com/faceoff”",
+        "words": [
+            "Will your phone survive you? Check out: squaretrade.com/faceoff",
+            "Encourages",
+            "survival",
+            "chances",
+            "phone"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The design includes visuals like icons and illustrations representing each statistic, using a color palette of reds, blues, and greys.",
+        "sentence_cn": "该设计包括代表每个统计数据的图标和插图等视觉效果，使用红色、蓝色和灰色的调色板。",
+        "words": [
+            "design",
+            "visuals",
+            "icons",
+            "illustrations",
+            "statistic",
+            "color",
+            "palette",
+            "reds",
+            "blues",
+            "greys"
+        ],
+        "id": null
+    }
+]

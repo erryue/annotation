@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "The image shows a mobile screenshot with two primary elements:",
+        "sentence_cn": "该图显示了包含两个主要元素的移动屏幕截图：",
+        "words": [
+            "mobile",
+            "two",
+            "elements"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. Alarm Notification:",
+        "sentence_cn": "1. 报警通知：",
+        "words": [
+            "Alarm Notification",
+            "Alarm",
+            "Notification"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - At the top, there's a notification for an alarm labeled ¡°Office,¡± set for Thursday at 7:00 AM.",
+        "sentence_cn": "- 在顶部，有一个名为“办公室”的闹钟通知，设置为周四早上 7:00。",
+        "words": [
+            "top",
+            "notification",
+            "alarm",
+            "7:00",
+            "AM"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There are options to ¡°SNOOZE¡± or ¡°DISMISS¡± the alarm.",
+        "sentence_cn": "- 可以选择“暂停”或“关闭”闹钟。",
+        "words": [
+            "options",
+            "alarm"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. App Advertisement:",
+        "sentence_cn": "2. 应用广告：",
+        "words": [
+            "App Advertisement",
+            "App",
+            "Advertisement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Below the alarm notification is an ad for the \"Kika Keyboard - Emojis, GIFs\" app.",
+        "sentence_cn": "- 闹钟通知下方是“Kika Keyboard - Emojis, GIFs”应用的广告。",
+        "words": [
+            "Kika Keyboard - Emojis, GIFs",
+            "alarm",
+            "notification",
+            "ad",
+            "GIFs",
+            "app"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - It displays an image of a phone with a colorful, glowing keyboard and a chat interface on the screen.",
+        "sentence_cn": "- 它在屏幕上显示一部带有彩色发光键盘和聊天界面的手机图像。",
+        "words": [
+            "phone",
+            "keyboard",
+            "chat",
+            "interface",
+            "screen"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- The text accompanying the ad states, ¡°Warning! This app can make your phone awesome!¡± with an ¡°INSTALL¡± button available.",
+        "sentence_cn": "- 广告附带的文字指出，“警告！该应用可让您的手机变得更加棒！”，并带有“安装”按钮。",
+        "words": [
+            "text",
+            "ad",
+            "Warning",
+            "app",
+            "phone",
+            "INSTALL¡±",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - At the bottom, it mentions ¡°Click to install CM Launcher to apply this theme,¡± along with a partially visible ¡°Install¡± button.",
+        "sentence_cn": "- 在底部，提到“单击安装 CM Launcher 以应用此主题”，以及部分可见的“安装”按钮。",
+        "words": [
+            "bottom",
+            "button"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - There is a small label ¡°Ads by Cheetah Mobile¡± at the bottom left.",
+        "sentence_cn": "- 左下角有一个小标签“猎豹移动广告”。",
+        "words": [
+            "label",
+            "left"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The screenshot depicts common mobile interface elements, blending alarm notifications and app advertisements.",
+        "sentence_cn": "屏幕截图展示了常见的移动界面元素，融合了警报通知和应用广告。",
+        "words": [
+            "mobile",
+            "interface",
+            "elements",
+            "alarm",
+            "notifications",
+            "app",
+            "advertisements"
+        ],
+        "id": null
+    }
+]

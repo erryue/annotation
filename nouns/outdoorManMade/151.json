@@ -1,0 +1,81 @@
+[
+    {
+        "sentence": "The image depicts a single-story house with a modern design.",
+        "sentence_cn": "图像描绘的是一座具有现代设计的单层房屋。",
+        "words": [
+            "story",
+            "house",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It has a dark gray gable roof and light-colored walls.",
+        "sentence_cn": "它有一个深灰色的山墙屋顶和浅色的墙壁。",
+        "words": [
+            "gable",
+            "roof",
+            "walls"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Large windows can be seen on the left side, allowing for ample natural light.",
+        "sentence_cn": "左侧有大窗户，可以提供充足的自然光。",
+        "words": [
+            "windows",
+            "light"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The entrance features a small covered porch with several chairs and potted plants, creating a welcoming atmosphere.",
+        "sentence_cn": "入口处有一个小型有盖门廊，配有几把椅子和盆栽，营造出温馨的氛围。",
+        "words": [
+            "entrance",
+            "porch",
+            "chairs",
+            "plants",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The surrounding yard is well-maintained, showcasing a variety of lush greenery including shrubs, ferns, and small trees.",
+        "sentence_cn": "周围的院子维护良好，展示着各种茂盛的绿色植物，包括灌木、蕨类植物和小树。",
+        "words": [
+            "yard",
+            "variety",
+            "greenery",
+            "shrubs",
+            "ferns",
+            "trees"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A paved pathway leads to the entrance, and there is a section of green ground cover or grass to the right.",
+        "sentence_cn": "一条铺好的小路通向入口，右侧有一片绿色地被植物或草地。",
+        "words": [
+            "pathway",
+            "entrance",
+            "section",
+            "ground",
+            "cover",
+            "grass",
+            "right"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, tall trees are visible against a blue sky with some wispy clouds, suggesting a peaceful, suburban or rural setting.",
+        "sentence_cn": "背景中，高大的树木在蓝天和几朵薄云的映衬下清晰可见，呈现出一种宁静的郊区或乡村氛围。",
+        "words": [
+            "background",
+            "trees",
+            "sky",
+            "clouds"
+        ],
+        "id": null
+    }
+]

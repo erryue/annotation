@@ -1,0 +1,197 @@
+[
+    {
+        "sentence": "The image shows a webpage from \"Practical Spanish,\" a site for learning Spanish online.",
+        "sentence_cn": "该图显示的是“实用西班牙语”的一个网页，这是一个在线学习西班牙语的网站。",
+        "words": [
+            "Practical Spanish,",
+            "webpage",
+            "site"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The layout includes:",
+        "sentence_cn": "布局包括：",
+        "words": [
+            "layout"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Header: Displays the Practical Spanish logo with the options: Home, Beginner, Intermediate, Advanced, Resources, and Readings.",
+        "sentence_cn": "- 标题：显示实用西班牙语徽标，其中包含以下选项：主页、初学者、中级、高级、资源和阅读。",
+        "words": [
+            "Header:",
+            "Header",
+            "logo",
+            "options",
+            "Home",
+            "Beginner",
+            "Resources",
+            "Readings"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  ",
+        "sentence_cn": "",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "- Left Column: Provides sections for different learning levels and resources:",
+        "sentence_cn": "- 左栏：提供不同学习水平和资源的部分：",
+        "words": [
+            "Left Column:",
+            "Column",
+            "sections",
+            "learning",
+            "levels",
+            "resources"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Videos\" (new content)",
+        "sentence_cn": "- “视频”（新内容）",
+        "words": [
+            "Videos",
+            "Videos",
+            "content"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Beginner\" for basics",
+        "sentence_cn": "- “初学者” 基础知识",
+        "words": [
+            "Beginner",
+            "Beginner",
+            "basics"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Intermediate\" for the next level",
+        "sentence_cn": "- “中级”为下一级别",
+        "words": [
+            "Intermediate",
+            "level"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Advanced\" for more skilled users",
+        "sentence_cn": "- “高级”适合更熟练的用户",
+        "words": [
+            "Advanced",
+            "users"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - \"Resources\" for further learning",
+        "sentence_cn": "- 进一步学习的“资源”",
+        "words": [
+            "Resources",
+            "Resources",
+            "learning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Center Section: Promotes free online Spanish learning:",
+        "sentence_cn": "- 中心部分：推广免费在线西班牙语学习：",
+        "words": [
+            "Center Section:",
+            "Center",
+            "Section",
+            "learning"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Highlights a new Facebook page for learning Spanish words and expressions.",
+        "sentence_cn": "- 重点介绍用于学习西班牙语单词和表达的新 Facebook 页面。",
+        "words": [
+            "Highlights",
+            "Facebook",
+            "page",
+            "words",
+            "expressions"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Describes the focus on conversational Spanish with grammar examples.",
+        "sentence_cn": "- 通过语法示例描述对西班牙语会话的重点。",
+        "words": [
+            "focus",
+            "grammar",
+            "examples"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Mentions added sound support and instructions for playing audio via Quicktime.",
+        "sentence_cn": "- 提及添加的声音支持和通过 Quicktime 播放音频的说明。",
+        "words": [
+            "Mentions",
+            "sound",
+            "support",
+            "instructions",
+            "audio"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Right Column: Features options for practicing other languages: French, German, Italian, Spanish, and Portuguese.",
+        "sentence_cn": "- 右栏：提供练习其他语言的选项：法语、德语、意大利语、西班牙语和葡萄牙语。",
+        "words": [
+            "Right Column:",
+            "Column",
+            "options",
+            "languages"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a promotion for Babbel at the bottom.",
+        "sentence_cn": "底部还有针对 Babbel 的促销信息。",
+        "words": [
+            "promotion",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Top Image: Shows a group of people smiling and holding books or tablets, emphasizing the learning theme.",
+        "sentence_cn": "- 顶部图片：展示一群人微笑着拿着书籍或平板电脑，强调学习主题。",
+        "words": [
+            "Top Image:",
+            "Image",
+            "group",
+            "people",
+            "books",
+            "tablets",
+            "learning",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The site targets a broad range of users, from beginners to advanced learners, offering diverse resources for effective language learning.",
+        "sentence_cn": "该网站的目标用户群很广泛，从初学者到高级学习者，提供有效的语言学习的多样化资源。",
+        "words": [
+            "site",
+            "range",
+            "users",
+            "beginners",
+            "learners",
+            "resources",
+            "language",
+            "learning"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "sentence": "The image is a vintage Adidas advertisement titled \"The Olympic Pacesetters.\"",
+        "sentence_cn": "该图片是阿迪达斯的经典广告，标题为“奥运领跑者”。",
+        "words": [
+            "The Olympic Pacesetters.",
+            "vintage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It features a row of Adidas shoes, each adorned with a small flag from different countries, including the United States, Canada, Germany, and others.",
+        "sentence_cn": "它以一排阿迪达斯鞋为特色，每只鞋都装饰着来自不同国家的小国旗，包括美国、加拿大、德国等。",
+        "words": [
+            "row",
+            "shoes",
+            "flag",
+            "countries",
+            "the",
+            "United",
+            "States",
+            "Canada",
+            "Germany",
+            "others"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The shoes are arranged in a visually appealing staggered pattern, showcasing various colors and designs.",
+        "sentence_cn": "鞋子以视觉上吸引人的交错图案排列，展示了各种颜色和设计。",
+        "words": [
+            "shoes",
+            "pattern",
+            "colors",
+            "designs"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text accompanying the image highlights the popularity of Adidas shoes among Olympic athletes.",
+        "sentence_cn": "图片附带的文字强调了阿迪达斯鞋在奥运会运动员中的受欢迎程度。",
+        "words": [
+            "text",
+            "popularity",
+            "shoes",
+            "athletes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It states: \"Look at the feet and your eyes will convince you that more Olympic athletes wear adidas than all other brands combined.",
+        "sentence_cn": "文章称：“看看这些脚，你的眼睛就会相信，穿阿迪达斯的奥运会运动员比穿其他所有品牌的运动员加起来还要多。",
+        "words": [
+            "feet",
+            "eyes",
+            "athletes",
+            "brands"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The secret is that adidas makes the right shoe for the right event.\"",
+        "sentence_cn": "秘诀在于阿迪达斯为正确的活动制作正确的鞋子。”",
+        "words": [
+            "secret",
+            "shoe",
+            "event"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the bottom, the Adidas logo is prominently displayed with the tagline \"the original 3-stripe shoe.\"",
+        "sentence_cn": "在底部，阿迪达斯的标志和标语“最初的三条纹鞋”清晰可见。",
+        "words": [
+            "the original 3-stripe shoe.",
+            "bottom",
+            "logo",
+            "tagline",
+            "3",
+            "stripe",
+            "shoe"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall theme emphasizes Adidas' connection to the Olympics and the brand's reputation for quality athletic footwear.",
+        "sentence_cn": "整体主题强调了阿迪达斯与奥运会的联系以及该品牌在高品质运动鞋方面的声誉。",
+        "words": [
+            "theme",
+            "connection",
+            "brand",
+            "reputation",
+            "quality",
+            "footwear"
+        ],
+        "id": null
+    }
+]

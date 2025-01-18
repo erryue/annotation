@@ -1,0 +1,122 @@
+[
+    {
+        "sentence": "The image is an advertisement for a product offered by Burger King.",
+        "sentence_cn": "该图片是汉堡王产品的广告。",
+        "words": [
+            "product"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The focus is on a \"French Fry Burger,\" which is prominently displayed on a wooden surface.",
+        "sentence_cn": "焦点是“炸薯条汉堡”，它显眼地陈列在木质表面上。",
+        "words": [
+            "French Fry Burger,",
+            "focus",
+            "surface"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The burger consists of:",
+        "sentence_cn": "汉堡的成分有：",
+        "words": [
+            "burger"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A sesame seed bun.",
+        "sentence_cn": "- 芝麻包子。",
+        "words": [
+            "sesame",
+            "seed",
+            "bun"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- A beef patty.",
+        "sentence_cn": "- 一块牛肉饼。",
+        "words": [
+            "beef",
+            "patty"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- French fries.",
+        "sentence_cn": "- 炸薯条。",
+        "words": [
+            "fries"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Lettuce.",
+        "sentence_cn": "- 莴苣。",
+        "words": [
+            "Lettuce"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Mayonnaise.",
+        "sentence_cn": "- 蛋黄酱。",
+        "words": [
+            "Mayonnaise"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Ketchup.",
+        "sentence_cn": "- 番茄酱。",
+        "words": [
+            "Ketchup"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text on the left side of the image advertises the price as \"$1\" and includes the phrase \"NEW FRENCH FRY BURGER\" in bold white letters.",
+        "sentence_cn": "图片左侧的文字显示价格为“1 美元”，并以粗体白色字母写着“新品炸薯条汉堡”。",
+        "words": [
+            "$1",
+            "NEW FRENCH FRY BURGER",
+            "Text",
+            "price",
+            "1",
+            "phrase",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The Burger King logo is located at the top left corner.",
+        "sentence_cn": "汉堡王的标志位于左上角。",
+        "words": [
+            "logo",
+            "corner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There is also a prompt encouraging customers to find one at their local Burger King.",
+        "sentence_cn": "还有提示鼓励顾客在当地的汉堡王寻找一个。",
+        "words": [
+            "prompt",
+            "customers",
+            "one"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is an out-of-focus green, suggesting a natural or outdoor setting.",
+        "sentence_cn": "背景是失焦的绿色，暗示着自然或户外环境。",
+        "words": [
+            "background",
+            "focus",
+            "green"
+        ],
+        "id": null
+    }
+]

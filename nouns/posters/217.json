@@ -1,0 +1,152 @@
+[
+    {
+        "sentence": "The image is a movie poster for \"Bram Stoker's Dracula,\" directed by Francis Ford Coppola.",
+        "sentence_cn": "该图是弗朗西斯·福特·科波拉执导的电影《吸血鬼德古拉》的海报。",
+        "words": [
+            "Bram Stoker's Dracula,",
+            "movie",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Background and Main Graphic: The poster features a stone gargoyle face in the center, which is menacing and vampiric in appearance.",
+        "sentence_cn": "- 背景和主图形：海报中央有一张石像鬼脸，外观阴森可怖，犹如吸血鬼。",
+        "words": [
+            "Background and Main Graphic",
+            "Background",
+            "Graphic",
+            "poster",
+            "stone",
+            "gargoyle",
+            "face",
+            "center",
+            "appearance"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "It's detailed, with sharp teeth and bat-like ears, enhancing the gothic and horror theme.",
+        "sentence_cn": "它细节丰富，有锋利的牙齿和蝙蝠般的耳朵，增强了哥特式和恐怖的主题。",
+        "words": [
+            "teeth",
+            "bat",
+            "ears",
+            "horror",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Title and Text:",
+        "sentence_cn": "- 标题和文本：",
+        "words": [
+            "Title and Text",
+            "Title",
+            "Text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - The phrase \"LOVE NEVER DIES\" is written at the top in red, capital letters.",
+        "sentence_cn": "- 顶部用红色大写字母写着“爱无止境”这句话。",
+        "words": [
+            "LOVE NEVER DIES",
+            "phrase",
+            "LOVE",
+            "top",
+            "capital",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Below the gargoyle, \"Bram Stoker's\" appears in small, dark letters, while \"Dracula\" is prominently displayed in a large, stylized red font.",
+        "sentence_cn": "- 在石像鬼下方，“Bram Stoker's”以小而暗的字母出现，而“Dracula”则以大而风格化的红色字体突出显示。",
+        "words": [
+            "Bram Stoker's",
+            "Dracula",
+            "gargoyle",
+            "letters",
+            "font"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "  - Underneath the title, it reads \"A Francis Ford Coppola Film.\"",
+        "sentence_cn": "- 标题下方写着“弗朗西斯·福特·科波拉电影”。",
+        "words": [
+            "A Francis Ford Coppola Film.",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Credits: The lower section contains the credits in smaller, black text, including the names of actors, production team, and the film's release banner by Columbia Pictures and American Zoetrope.",
+        "sentence_cn": "- 演职员表：下部以较小的黑色文字显示演职员表，包括演员姓名、制作团队以及哥伦比亚影业和美国西洋镜电影公司的影片发行横幅。",
+        "words": [
+            "Credits",
+            "Credits",
+            "section",
+            "credits",
+            "text",
+            "names",
+            "actors",
+            "production",
+            "team",
+            "film",
+            "release",
+            "banner"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Notable names include Gary Oldman, Winona Ryder, and Anthony Hopkins.",
+        "sentence_cn": "著名演员包括加里·奥德曼、薇诺娜·瑞德和安东尼·霍普金斯。",
+        "words": [
+            "names"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Color Scheme: The color scheme is dominated by shades of red and gray, complementing the horror and romantic undertones of the story.",
+        "sentence_cn": "- 配色方案：配色方案以红色和灰色为主，与故事的恐怖和浪漫底色相得益彰。",
+        "words": [
+            "Color Scheme",
+            "Color",
+            "Scheme",
+            "color",
+            "scheme",
+            "shades",
+            "red",
+            "gray",
+            "horror",
+            "undertones",
+            "story"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "- Textures: The background has a stone-like texture, reinforcing the ancient and gothic atmosphere.",
+        "sentence_cn": "- 纹理：背景具有类似石头的纹理，强化了古老和哥特式的氛围。",
+        "words": [
+            "Textures",
+            "Textures",
+            "background",
+            "stone",
+            "texture",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Overall, the poster effectively conveys the dark, eerie, and romantic elements of the film.",
+        "sentence_cn": "总体而言，海报有效地传达了电影的黑暗、怪诞和浪漫元素。",
+        "words": [
+            "poster",
+            "elements",
+            "film"
+        ],
+        "id": null
+    }
+]

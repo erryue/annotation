@@ -33,8 +33,8 @@
         "id": null
     },
     {
-        "sentence": "- **Title**: \"Redesign Your Place\"",
-        "sentence_cn": "- **标题**：“重新设计你的住所”",
+        "sentence": "- Title: \"Redesign Your Place\"",
+        "sentence_cn": "- 标题：“重新设计你的住所”",
         "words": [
             "Title",
             "Redesign Your Place",
@@ -44,8 +44,8 @@
         "id": null
     },
     {
-        "sentence": "- **Workshop Information**:",
-        "sentence_cn": "- **研讨会信息**：",
+        "sentence": "- Workshop Information:",
+        "sentence_cn": "- 研讨会信息：",
         "words": [
             "Workshop Information",
             "Workshop",
@@ -80,8 +80,8 @@
         "id": null
     },
     {
-        "sentence": "- **Objective**: The target is to set up an urban plan to redesign Via Matteotti.",
-        "sentence_cn": "- **目标**：制定城市规划来重新设计 Via Matteotti。",
+        "sentence": "- Objective: The target is to set up an urban plan to redesign Via Matteotti.",
+        "sentence_cn": "- 目标：制定城市规划来重新设计 Via Matteotti。",
         "words": [
             "Objective",
             "Objective",
@@ -91,8 +91,8 @@
         "id": null
     },
     {
-        "sentence": "- **Date**: September 27, 2011",
-        "sentence_cn": "- **日期**：2011 年 9 月 27 日",
+        "sentence": "- Date: September 27, 2011",
+        "sentence_cn": "- 日期：2011 年 9 月 27 日",
         "words": [
             "Date",
             "Date",
@@ -102,8 +102,8 @@
         "id": null
     },
     {
-        "sentence": "- **Employee Sectors**:",
-        "sentence_cn": "- **员工部门**：",
+        "sentence": "- Employee Sectors:",
+        "sentence_cn": "- 员工部门：",
         "words": [
             "Employee Sectors",
             "Employee",
@@ -170,8 +170,8 @@
         "id": null
     },
     {
-        "sentence": "- **Workshop Structure**:",
-        "sentence_cn": "- **研讨会结构**：",
+        "sentence": "- Workshop Structure:",
+        "sentence_cn": "- 研讨会结构：",
         "words": [
             "Workshop Structure",
             "Workshop",
@@ -207,8 +207,8 @@
         "id": null
     },
     {
-        "sentence": "- **Visuals**: The infographic uses a green background and includes various icons and arrows to represent different aspects of the workshop.",
-        "sentence_cn": "- **视觉效果**：信息图使用绿色背景，并包含各种图标和箭头来表示研讨会的不同方面。",
+        "sentence": "- Visuals: The infographic uses a green background and includes various icons and arrows to represent different aspects of the workshop.",
+        "sentence_cn": "- 视觉效果：信息图使用绿色背景，并包含各种图标和箭头来表示研讨会的不同方面。",
         "words": [
             "Visuals",
             "Visuals",

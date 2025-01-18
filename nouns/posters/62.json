@@ -1,0 +1,119 @@
+[
+    {
+        "sentence": "The image is a movie poster for the film \"Stargate.\"",
+        "sentence_cn": "图片是电影《星际之门》的电影海报。",
+        "words": [
+            "Stargate.",
+            "movie",
+            "poster",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The top of the poster features the names \"Kurt Russell\" and \"James Spader\" in white letters.",
+        "sentence_cn": "海报顶部用白色字母写着“库尔特·拉塞尔”和“詹姆斯·斯派德”。",
+        "words": [
+            "Kurt Russell",
+            "James Spader",
+            "top",
+            "poster",
+            "names",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below, there's a stylized depiction of the Stargate, a circular portal emitting a beam of blue light upwards into a starry sky.",
+        "sentence_cn": "下面是星际之门的风格化描绘，一个圆形的门户，向星空向上发射一束蓝光。",
+        "words": [
+            "depiction",
+            "portal",
+            "beam",
+            "light",
+            "sky"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The beam appears to originate from the top of a pyramid, which is visible at the bottom center of the poster, bathed in an orange and yellow light suggesting a glow or sunset.",
+        "sentence_cn": "光束似乎源自金字塔的顶部，位于海报的底部中央，沐浴在橙色和黄色的光线中，让人联想到霞光或日落。",
+        "words": [
+            "beam",
+            "top",
+            "pyramid",
+            "center",
+            "poster",
+            "light",
+            "glow",
+            "sunset"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the middle of the poster, the text reads:",
+        "sentence_cn": "海报中间的文字是：",
+        "words": [
+            "middle",
+            "poster",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"It will take you a million light years from home.",
+        "sentence_cn": "“从家到那儿你需要花费一百万光年。",
+        "words": [
+            "million",
+            "light",
+            "years",
+            "home"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "But will it bring you back?\"",
+        "sentence_cn": "但它能带你回来吗？”",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "The title \"STARGATE\" is prominently displayed in large, bold letters.",
+        "sentence_cn": "标题“星际之门”以大而粗的字母突出显示。",
+        "words": [
+            "STARGATE",
+            "title",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The bottom section of the poster includes credits for the film's cast and crew, as well as production information.",
+        "sentence_cn": "海报的下方包括电影演员和剧组的人员名单以及制作信息。",
+        "words": [
+            "section",
+            "poster",
+            "credits",
+            "film",
+            "cast",
+            "crew",
+            "production",
+            "information"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall color scheme blends blue, black, and warm orange tones, creating a sense of mystery and adventure.",
+        "sentence_cn": "整体配色融合了蓝色、黑色和暖橙色色调，营造出一种神秘和冒险的感觉。",
+        "words": [
+            "color",
+            "scheme",
+            "orange",
+            "tones",
+            "sense",
+            "mystery",
+            "adventure"
+        ],
+        "id": null
+    }
+]

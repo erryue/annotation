@@ -1,0 +1,64 @@
+[
+    {
+        "sentence": "The image depicts a grassy field enclosed by a wire fence.",
+        "sentence_cn": "图像描绘的是一片被铁丝网围起来的草地。",
+        "words": [
+            "field",
+            "wire",
+            "fence"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the center, a zebra is grazing on the green grass.",
+        "sentence_cn": "画面中央，一只斑马正在绿草地上吃草。",
+        "words": [
+            "center",
+            "zebra",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Its distinctive black and white stripes are clearly visible.",
+        "sentence_cn": "其独特的黑白条纹清晰可见。",
+        "words": [
+            "stripes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left of the zebra, there is a donkey standing and another animal that appears white, possibly a horse, lying down.",
+        "sentence_cn": "斑马的左边，站着一头驴，另一只看起来是白色的动物，可能是一匹马，躺着。",
+        "words": [
+            "left",
+            "zebra",
+            "donkey",
+            "animal",
+            "horse"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The foreground features tall, golden-brown grasses that partially obscure the view.",
+        "sentence_cn": "前景是高大的金棕色草丛，部分遮挡了视线。",
+        "words": [
+            "foreground",
+            "grasses",
+            "view"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be a pasture or a zoo enclosure, characterized by vibrant green hues and a natural landscape.",
+        "sentence_cn": "该场景看起来像是牧场或动物园围栏，以鲜艳的绿色色调和自然景观为特点。",
+        "words": [
+            "pasture",
+            "zoo",
+            "enclosure",
+            "hues",
+            "landscape"
+        ],
+        "id": null
+    }
+]

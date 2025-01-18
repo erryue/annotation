@@ -1,0 +1,119 @@
+[
+    {
+        "sentence": "This is a movie poster for \"In the Name of the Father.\"",
+        "sentence_cn": "这是《因父之名》的电影海报。",
+        "words": [
+            "In the Name of the Father.",
+            "movie",
+            "poster",
+            "Name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster features a close-up of a man with long, dark hair and an intense expression.",
+        "sentence_cn": "海报上是一个男人的特写镜头，他有一头长长的黑发，表情紧张。",
+        "words": [
+            "poster",
+            "close",
+            "up",
+            "man",
+            "hair",
+            "expression"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is dark, highlighting the subject's face.",
+        "sentence_cn": "背景很暗，突出了拍摄对象的脸部。",
+        "words": [
+            "background",
+            "subject",
+            "face"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Text at the top reads: \"A true story from the director of 'My Left Foot'.\"",
+        "sentence_cn": "顶部的文字写着：“这是《我的左脚》导演的真实故事。”",
+        "words": [
+            "A true story from the director of 'My Left Foot'.",
+            "Text",
+            "top",
+            "story",
+            "director"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The names \"Daniel Day-Lewis\" and \"Emma Thompson\" are prominently displayed, indicating their starring roles.",
+        "sentence_cn": "“丹尼尔·戴-刘易斯”和“艾玛·汤普森”的名字被突出显示，表明了他们的主演角色。",
+        "words": [
+            "Daniel Day-Lewis",
+            "Emma Thompson",
+            "names",
+            "roles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Below their names, the text states: \"Falsely accused.",
+        "sentence_cn": "在他们的名字下方，写着：“被诬告。",
+        "words": [
+            "names",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Wrongly imprisoned.",
+        "sentence_cn": "被错误地监禁。",
+        "words": [],
+        "id": null
+    },
+    {
+        "sentence": "He fought for justice to clear his father's name.\"",
+        "sentence_cn": "他为洗清父亲的罪名而斗争，寻求正义。”",
+        "words": [
+            "justice",
+            "father",
+            "name"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The title \"In the Name of the Father\" is prominently placed in bold red letters at the bottom.",
+        "sentence_cn": "标题“以父之名”以粗体红色字母显著地位于底部。",
+        "words": [
+            "In the Name of the Father",
+            "title",
+            "Name",
+            "letters",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "There are also production credits and the Universal Pictures logo at the bottom.",
+        "sentence_cn": "底部还有制作人员名单和环球影业的标志。",
+        "words": [
+            "production",
+            "credits",
+            "logo",
+            "bottom"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The film is rated R, as indicated by the rating box in the bottom left corner.",
+        "sentence_cn": "影片被评为 R 级，如左下角的评级框所示。",
+        "words": [
+            "film",
+            "R",
+            "rating",
+            "box",
+            "corner"
+        ],
+        "id": null
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "sentence": "The image is a vintage comic strip devoted to promoting Dubble Bubble gum by Fleer.",
+        "sentence_cn": "该图片是一幅复古漫画，旨在宣传 Fleer 公司的 Dubble Bubble 口香糖。",
+        "words": [
+            "comic",
+            "strip",
+            "gum"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The narrative features a young boy, Pud, who is compared to the legendary archer William Tell for his skill with a bow and arrow.",
+        "sentence_cn": "故事的主角是一个叫普德的小男孩，他弓箭技艺高超，堪比传奇弓箭手威廉·泰尔。",
+        "words": [
+            "narrative",
+            "boy",
+            "archer",
+            "skill",
+            "bow",
+            "arrow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "1. First Panel:",
+        "sentence_cn": "1. 第一面板：",
+        "words": [
+            "First Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - A boy in a striped shirt and cap is standing near a target with arrows.",
+        "sentence_cn": "- 一个穿着条纹衬衫和帽子的男孩站在一个放有箭的靶子旁边。",
+        "words": [
+            "boy",
+            "shirt",
+            "cap",
+            "target",
+            "arrows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - He hits the bullseye, and a friend claims he's as good as William Tell.",
+        "sentence_cn": "- 他一针见血，一位朋友说他和威廉·泰尔一样优秀。",
+        "words": [
+            "bullseye",
+            "friend"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "2. Second Panel:",
+        "sentence_cn": "2. 第二面板：",
+        "words": [
+            "Second Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Another boy challenges Pud to shoot an apple off his head, like William Tell.",
+        "sentence_cn": "- 另一个男孩向普德发起挑战，让他像威廉·泰尔一样，从头上射下一个苹果。",
+        "words": [
+            "boy",
+            "apple",
+            "head"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Pud looks uncertain, scratching his head.",
+        "sentence_cn": "- 普德看上去不确定，挠着头。",
+        "words": [
+            "head"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "3. Third Panel:",
+        "sentence_cn": "3. 第三面板：",
+        "words": [
+            "Third Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Pud is seen speaking to another boy, Tim, who seems to have an idea.",
+        "sentence_cn": "- 普德正在和另一个男孩蒂姆说话，蒂姆似乎有一个想法。",
+        "words": [
+            "boy",
+            "idea"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "4. Fourth and Fifth Panels:",
+        "sentence_cn": "4. 第四和第五个面板：",
+        "words": [
+            "Fourth and Fifth Panels:",
+            "Panels"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Pud blows a large bubble with Dubble Bubble gum.",
+        "sentence_cn": "- 普德用 Dubble Bubble 口香糖吹出了一个大泡泡。",
+        "words": [
+            "bubble",
+            "gum"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The bubble serves as the target; Pud hits it perfectly with his arrow.",
+        "sentence_cn": "- 泡泡作为目标；普德用箭完美地射中了它。",
+        "words": [
+            "bubble",
+            "target",
+            "arrow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "5. Sixth Panel:",
+        "sentence_cn": "5. 第六幅图：",
+        "words": [
+            "Sixth Panel:",
+            "Panel"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - The boys are impressed, and it is stated that \"Dubble Bubble works every time.\"",
+        "sentence_cn": "- 男孩们印象深刻，并表示“Dubble Bubble 每次都有效。”",
+        "words": [
+            "Dubble Bubble works every time.",
+            "boys",
+            "time"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "6. Bottom Strip:",
+        "sentence_cn": "6. 底部条带：",
+        "words": [
+            "Bottom Strip:",
+            "Strip"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - Characters are enjoying and praising the gum for its taste and the fun of blowing big bubbles.",
+        "sentence_cn": "- 角色们对口香糖的味道很享受，并称赞它吹大泡泡的乐趣。",
+        "words": [
+            "Characters",
+            "gum",
+            "taste",
+            "fun",
+            "bubbles"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "   - An image of the Dubble Bubble package is shown with promotional text.",
+        "sentence_cn": "- 显示 Dubble Bubble 包装的图像和促销文字。",
+        "words": [
+            "package",
+            "text"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The comic emphasizes the fun and great taste of Dubble Bubble gum through a playful and humorous story.",
+        "sentence_cn": "该漫画通过俏皮幽默的故事强调了 Dubble Bubble 口香糖的乐趣和美味。",
+        "words": [
+            "comic",
+            "fun",
+            "taste",
+            "gum",
+            "story"
+        ],
+        "id": null
+    }
+]

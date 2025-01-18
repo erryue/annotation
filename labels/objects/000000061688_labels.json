@@ -1,0 +1,46 @@
+[
+    {
+        "id": "fe8a3201-9a63-4919-852f-c901b6c09db7",
+        "confidence": 0.93208,
+        "class": "bowl",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 0.25223,
+                        "minY": 104.15356,
+                        "maxX": 217.52614,
+                        "maxY": 295.14374
+                    },
+                    "x": 0.25223,
+                    "y": 104.15356,
+                    "w": 217.27391,
+                    "h": 190.99017999999998
+                }
+            }
+        }
+    },
+    {
+        "id": "099004f0-30df-4ffb-b5b9-49dd45e12eb1",
+        "confidence": 0.87989,
+        "class": "broccoli",
+        "target": {
+            "selector": {
+                "type": "RECTANGLE",
+                "geometry": {
+                    "bounds": {
+                        "minX": 211.19557,
+                        "minY": 116.02441,
+                        "maxX": 455.06726,
+                        "maxY": 474.43005
+                    },
+                    "x": 211.19557,
+                    "y": 116.02441,
+                    "w": 243.87168999999997,
+                    "h": 358.40564
+                }
+            }
+        }
+    }
+]

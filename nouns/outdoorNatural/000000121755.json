@@ -1,0 +1,74 @@
+[
+    {
+        "sentence": "The image depicts a serene landscape with a lush green meadow.",
+        "sentence_cn": "图像描绘了一幅宁静的风景和郁郁葱葱的绿色草地。",
+        "words": [
+            "landscape",
+            "meadow"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the foreground, there are several sheep resting on the grass.",
+        "sentence_cn": "前景中，有几只羊在草地上休息。",
+        "words": [
+            "foreground",
+            "sheep",
+            "grass"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Their woolly coats are a light brown and gray.",
+        "sentence_cn": "它们的毛色为浅棕色和灰色。",
+        "words": [
+            "coats",
+            "brown",
+            "gray"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind them, a group of cows grazes peacefully.",
+        "sentence_cn": "在他们身后，一群牛正在安静地吃草。",
+        "words": [
+            "group",
+            "cows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background features a dense forest of tall coniferous trees, adding a sense of depth and natural beauty to the scene.",
+        "sentence_cn": "背景是一片茂密的高大针叶林，为场景增添了一种深度感和自然美。",
+        "words": [
+            "background",
+            "forest",
+            "trees",
+            "sense",
+            "depth",
+            "beauty",
+            "scene"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The sky is overcast with gray clouds, suggesting a cool, calm atmosphere.",
+        "sentence_cn": "天空阴云密布，弥漫着一种凉爽、平静的气氛。",
+        "words": [
+            "sky",
+            "clouds",
+            "atmosphere"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears tranquil and pastoral, highlighting the harmony between livestock and nature.",
+        "sentence_cn": "环境显得宁静而田园，凸显了牲畜与自然的和谐。",
+        "words": [
+            "harmony",
+            "livestock",
+            "nature"
+        ],
+        "id": null
+    }
+]

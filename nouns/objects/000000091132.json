@@ -1,0 +1,82 @@
+[
+    {
+        "sentence": "The image features a festive display with a Santa Claus figure prominently in the center, surrounded by various stuffed animals.",
+        "sentence_cn": "图片呈现了一种节日氛围，圣诞老人的形象位于中心，周围环绕着各种毛绒动物。",
+        "words": [
+            "display",
+            "figure",
+            "center",
+            "animals"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Santa is dressed in his traditional red and white outfit with a white beard, and he holds a small teddy bear.",
+        "sentence_cn": "圣诞老人穿着传统的红白色服装，留着白胡子，手里抱着一只小泰迪熊。",
+        "words": [
+            "outfit",
+            "beard",
+            "teddy",
+            "bear"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Surrounding him are several plush bears, with three white bears wearing red Santa hats and scarves in the foreground.",
+        "sentence_cn": "他周围有几只毛绒熊，其中前景是三只戴着红色圣诞帽和围巾的白熊。",
+        "words": [
+            "bears",
+            "three",
+            "bears",
+            "hats",
+            "scarves",
+            "foreground"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Behind them, a larger brown teddy bear and another fluffy, darker-toned bear add depth to the arrangement.",
+        "sentence_cn": "在它们身后，一只较大的棕色泰迪熊和另一只毛茸茸的、颜色较深的熊为整个布置增添了深度。",
+        "words": [
+            "teddy",
+            "bear",
+            "bear",
+            "depth",
+            "arrangement"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "To the left side of the image, a plush toy giraffe peeks in, adding a whimsical touch.",
+        "sentence_cn": "在图片的左侧，一只毛绒玩具长颈鹿探进来，增添了一丝异想天开的感觉。",
+        "words": [
+            "toy",
+            "giraffe",
+            "touch"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The background is adorned with colorful Christmas lights and greenery, enhancing the holiday theme.",
+        "sentence_cn": "背景装饰有五颜六色的圣诞灯和绿色植物，增强了节日主题。",
+        "words": [
+            "background",
+            "lights",
+            "greenery",
+            "holiday",
+            "theme"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall setting resembles a cozy, festive scene, evoking the warmth and joy of the Christmas season.",
+        "sentence_cn": "整体布置呈现出温馨喜庆的场景，唤起人们对圣诞节的温暖与欢乐。",
+        "words": [
+            "scene",
+            "warmth",
+            "joy",
+            "season"
+        ],
+        "id": null
+    }
+]

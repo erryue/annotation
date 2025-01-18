@@ -1,0 +1,124 @@
+[
+    {
+        "sentence": "The image depicts a bright and spacious kitchen with a clean, contemporary design.",
+        "sentence_cn": "图片描绘的是明亮宽敞的厨房，设计简洁，富有现代感。",
+        "words": [
+            "kitchen",
+            "design"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen features light wood cabinetry that covers the majority of the wall space, providing ample storage.",
+        "sentence_cn": "厨房采用浅色木质橱柜，覆盖了大部分墙壁空间，提供了充足的存储空间。",
+        "words": [
+            "kitchen",
+            "wood",
+            "cabinetry",
+            "majority",
+            "wall",
+            "space",
+            "storage"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A long countertop runs along the left side beneath a set of large windows, allowing natural light to flood the area.",
+        "sentence_cn": "长长的台面沿着一组大窗户下方的左侧延伸，让自然光照亮整个区域。",
+        "words": [
+            "countertop",
+            "set",
+            "windows",
+            "light",
+            "area"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "On the counter, there are some kitchen essentials like a coffee maker and a decorative vase.",
+        "sentence_cn": "柜台上摆放着一些厨房必需品，如咖啡机和装饰花瓶。",
+        "words": [
+            "counter",
+            "kitchen",
+            "essentials",
+            "coffee",
+            "maker",
+            "vase"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "An L-shaped peninsula extends into the kitchen space, serving as both a workspace and a small breakfast bar, as indicated by the presence of two padded stools.",
+        "sentence_cn": "L 形半岛延伸到厨房空间，既可用作工作区，又可用作小型早餐吧，两个软垫凳子就表明了这一点。",
+        "words": [
+            "L",
+            "peninsula",
+            "kitchen",
+            "space",
+            "workspace",
+            "breakfast",
+            "bar",
+            "presence",
+            "two",
+            "stools"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The kitchen appliances include a black oven and microwave, which are integrated into the cabinetry on the back wall.",
+        "sentence_cn": "厨房用具包括黑色烤箱和微波炉，它们集成在后墙的橱柜中。",
+        "words": [
+            "kitchen",
+            "appliances",
+            "oven",
+            "microwave",
+            "cabinetry",
+            "wall"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A large refrigerator, also in black, stands next to the cabinetry on the right side.",
+        "sentence_cn": "右侧的橱柜旁边摆放着一台同样是黑色的大冰箱。",
+        "words": [
+            "refrigerator",
+            "black",
+            "cabinetry"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The flooring is a light, patterned tile that complements the cabinetry and overall color scheme of the room.",
+        "sentence_cn": "地板是浅色、有图案的瓷砖，与橱柜和房间的整体配色方案相得益彰。",
+        "words": [
+            "flooring",
+            "tile",
+            "cabinetry",
+            "color",
+            "scheme",
+            "room"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The ceiling features two dome lights, providing additional illumination.",
+        "sentence_cn": "天花板设有两个圆顶灯，提供额外的照明。",
+        "words": [
+            "ceiling",
+            "two",
+            "dome",
+            "lights",
+            "illumination"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The overall feel of the kitchen is warm, inviting, and functional.",
+        "sentence_cn": "厨房的整体感觉是温暖、温馨且实用。",
+        "words": [
+            "feel",
+            "kitchen"
+        ],
+        "id": null
+    }
+]
