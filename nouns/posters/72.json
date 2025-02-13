@@ -1,1 +1,194 @@
-[]
+[
+    {
+        "sentence": "This is the official movie poster for Pulp Fiction, a 1994 film directed by Quentin Tarantino.",
+        "sentence_cn": "这是 1994 年由昆汀·塔伦蒂诺执导的电影《低俗小说》的官方电影海报。",
+        "words": [
+            "movie",
+            "poster",
+            "1994",
+            "film"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The poster has a vintage, pulp magazine-inspired aesthetic, with bold yellow typography against a red, slightly worn-out background.",
+        "sentence_cn": "这张海报具有复古、低俗杂志风格的美感，在略显破旧的红色背景上印有大胆的黄色字体。",
+        "words": [
+            "poster",
+            "pulp",
+            "magazine",
+            "aesthetic",
+            "typography",
+            "background"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "At the center of the image is Mia Wallace, played by Uma Thurman, lying on her stomach on a bed, propped up on her elbows.",
+        "sentence_cn": "画面中央是乌玛·瑟曼饰演的米娅·华莱士，她趴在床上，用手肘支撑身体。",
+        "words": [
+            "center",
+            "stomach",
+            "bed",
+            "elbows"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She has a sleek black bob haircut with bangs and wears a black short-sleeved dress.",
+        "sentence_cn": "她留着光滑的黑色波波头，有刘海，穿着黑色短袖连衣裙。",
+        "words": [
+            "bob",
+            "haircut",
+            "bangs",
+            "dress"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "She holds a lit cigarette in her right hand while gazing seductively toward the viewer.",
+        "sentence_cn": "她右手拿着一支点燃的香烟，同时诱惑地凝视着观众。",
+        "words": [
+            "cigarette",
+            "hand",
+            "viewer"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Her left hand rests on a book titled Pulp Fiction, referencing the filmâs title.",
+        "sentence_cn": "她的左手放在一本名为《低俗小说》的书上，这与电影的名字相符。",
+        "words": [
+            "hand",
+            "book",
+            "filmâs",
+            "title"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Next to the book is a black semi-automatic pistol.",
+        "sentence_cn": "书旁边是一把黑色的半自动手枪。",
+        "words": [
+            "book",
+            "pistol"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "In the background, Miaâs feet are crossed at the ankles, wearing black high-heeled shoes.",
+        "sentence_cn": "在背景中，米娅的双脚交叉，穿着黑色高跟鞋。",
+        "words": [
+            "background",
+            "feet",
+            "ankles",
+            "shoes"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The setting appears to be a dimly lit bedroom with a vintage lamp that has a tilted lampshade, casting warm lighting.",
+        "sentence_cn": "场景似乎是一间灯光昏暗的卧室，里面有一盏带有倾斜灯罩的老式灯，发出温暖的灯光。",
+        "words": [
+            "bedroom",
+            "vintage",
+            "lamp",
+            "lampshade",
+            "lighting"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The text on the poster includes:",
+        "sentence_cn": "海报上的文字包括：",
+        "words": [
+            "text",
+            "poster"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"Winner Best Picture: 1994 Cannes Film Festival\" at the top.",
+        "sentence_cn": "顶部写着“获得最佳影片奖：1994 年戛纳电影节”。",
+        "words": [
+            "Winner Best Picture: 1994 Cannes Film Festival",
+            "1994",
+            "top"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"PULP FICTION\" in large, bold yellow letters.",
+        "sentence_cn": "用大号加粗黄色字母写成的“低俗小说”。",
+        "words": [
+            "PULP FICTION",
+            "FICTION",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "\"A Quentin Tarantino film\" written underneath in a stylized black script.",
+        "sentence_cn": "下面用黑色风格字体写着“昆汀·塔伦蒂诺电影”。",
+        "words": [
+            "A Quentin Tarantino film",
+            "film",
+            "script"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A price tag reading \"10Â¢\" on the left, evoking old pulp magazine covers.",
+        "sentence_cn": "左侧的价格标签写着“10¢”，让人想起旧的纸浆杂志封面。",
+        "words": [
+            "10Â¢",
+            "price",
+            "tag",
+            "10Â¢",
+            "left",
+            "pulp",
+            "magazine",
+            "covers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "A list of the film's main cast members in yellow block letters, including John Travolta, Samuel L. Jackson, Uma Thurman, Harvey Keitel, Tim Roth, and Bruce Willis.",
+        "sentence_cn": "影片主要演员名单以黄色大写字母列出，包括约翰·特拉沃尔塔、塞缪尔·杰克逊、乌玛·瑟曼、哈维·凯特尔、蒂姆·罗斯和布鲁斯·威利斯。",
+        "words": [
+            "list",
+            "film",
+            "cast",
+            "members",
+            "block",
+            "letters"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "Additional production credits at the bottom, with names of producers, editors, and co-executive producers.",
+        "sentence_cn": "底部有额外的制作人员名单，其中包括制片人、编辑和联合执行制片人的姓名。",
+        "words": [
+            "production",
+            "credits",
+            "bottom",
+            "names",
+            "producers",
+            "editors",
+            "producers"
+        ],
+        "id": null
+    },
+    {
+        "sentence": "The edges of the poster appear worn and distressed, reinforcing the vintage pulp magazine aesthetic.",
+        "sentence_cn": "海报的边缘显得磨损和破旧，强化了复古杂志的美感。",
+        "words": [
+            "edges",
+            "poster",
+            "pulp",
+            "magazine",
+            "aesthetic"
+        ],
+        "id": null
+    }
+]
